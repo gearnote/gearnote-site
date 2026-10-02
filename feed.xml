@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 02 Oct 2026 16:11:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 16:28:34 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -159,6 +159,13 @@
     <link>https://gearnote.net/category-smart</link>
     <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
     <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 超音波式加湿器の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-humidifier</guid>
+    <description>アイリスオーヤマ 超音波式加湿器 UHM-280S-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/brand-canmake</link>
     <guid isPermaLink="true">https://gearnote.net/brand-canmake</guid>
     <description>CANMAKE（キャンメイク）の特徴、プチプラコスメの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒロインメイクの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-heroine-make</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-heroine-make</guid>
-    <description>ヒロインメイクのマスカラ・アイライナーの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
