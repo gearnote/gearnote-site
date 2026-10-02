@@ -1715,13 +1715,6 @@ const RANKING_POOL = [
     page: "product-kure-super556-320ml.html",
   },
   {
-    name: "キングジム クリアファイル",
-    excerpt: "0.2mm厚のしっかりしたクリアファイル100枚セット。",
-    img: "https://m.media-amazon.com/images/I/51Vh++pFgeL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B004NR900C?tag=hide0122-22",
-    page: "product-kingjim-clearfile-simplies-100.html",
-  },
-  {
     name: "ブリヂストン TOURSTAGE ゴルフボール",
     excerpt: "価格と性能のバランスが良いディスタンス系ゴルフボール。",
     img: "https://m.media-amazon.com/images/I/81wP1TNj0tL._AC_SX300_.jpg",
@@ -1820,13 +1813,6 @@ const RANKING_POOL = [
     page: "product-tefal-frypan-26cm-cranberry-red.html",
   },
   {
-    name: "スマック キャットスマック",
-    excerpt: "大容量ながら手頃な価格が魅力のドライキャットフード。",
-    img: "https://m.media-amazon.com/images/I/71Qq9yX0atL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DF7DXP3H?tag=hide0122-22",
-    page: "product-smack-catsmack-hairball-18kg.html",
-  },
-  {
     name: "BEACO 撥水王 リュックカバー",
     excerpt: "耐水圧2000mmの高撥水生地を使ったリュック用レインカバー。",
     img: "https://m.media-amazon.com/images/I/61AYuQOpwbL._AC_SX300_.jpg",
@@ -1904,13 +1890,6 @@ const RANKING_POOL = [
     page: "product-hulxfactor-protein-shaker-500ml.html",
   },
   {
-    name: "ソフト99 車内用シャンプー",
-    excerpt: "窓ガラスやダッシュボード、シート、フロアマットまで丸洗いできる車内用シャンプー。吹きかけて拭き上げるだけで手軽に消臭・洗浄。",
-    img: "https://m.media-amazon.com/images/I/71KetTNhrHL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DX6VKT6H?tag=hide0122-22",
-    page: "product-soft99-roompia-interior-shampoo.html",
-  },
-  {
     name: "LOCTITE 瞬間接着剤",
     excerpt: "垂直面でも垂れにくいゼリー状の瞬間接着剤。",
     img: "https://m.media-amazon.com/images/I/61m8xZfN6aL._AC_SX300_.jpg",
@@ -1951,13 +1930,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61tlftRbiXL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B000WAMI76?tag=hide0122-22",
     page: "product-soft99-cho-glaco-glass-repellent-70ml.html",
-  },
-  {
-    name: "電動エアダスター ブロワー",
-    excerpt: "Type-C充電式で繰り返し使える電動エアダスター。",
-    img: "https://m.media-amazon.com/images/I/71S+nRp4TqL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GCHXD9BC?tag=hide0122-22",
-    page: "product-horumi-electric-air-duster.html",
   },
   {
     name: "ニャンとも清潔トイレ 猫砂",
@@ -2007,13 +1979,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61QMSrXbt7L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00CD278N0?tag=hide0122-22",
     page: "product-nutro-natural-choice-indoor-cat-2kg.html",
-  },
-  {
-    name: "Hanes ビーフィー Tシャツ",
-    excerpt: "綿100%の肉厚生地を使用したヘビーウェイトTシャツ。丸胴仕様・タグレス仕様でしっかりした厚みと着心地の良さが定番人気。",
-    img: "https://m.media-amazon.com/images/I/416-GO7ym3L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00RF3096K?tag=hide0122-22",
-    page: "product-hanes-beefy-tshirt-h5180.html",
   },
   {
     name: "ティファール 電気ケトル",
@@ -2098,13 +2063,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71PERwWLXfL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B004X3GIZ6?tag=hide0122-22",
     page: "product-soft99-liquid-compound-trial-set.html",
-  },
-  {
-    name: "三菱鉛筆 ジェットストリーム4&1",
-    excerpt: "4色ボールペンとシャープペンが1本になった多機能ペン。",
-    img: "https://m.media-amazon.com/images/I/41lf2UlswYL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B004AYDUOA?tag=hide0122-22",
-    page: "product-mitsubishi-jetstream-4-1.html",
   },
   {
     name: "トリガーポイント グリッドフォームローラー",
@@ -2280,13 +2238,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51vVrduVuGL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BJ8WT3GD?tag=hide0122-22",
     page: "product-plus-clear-holder-a4-100.html",
-  },
-  {
-    name: "JOYme ヨガマット",
-    excerpt: "高密度ニトリルゴムを使用した厚手のヨガマット。クッション性が高く膝や肘への負担を軽減し、収納バンド付きで持ち運びもしやすい。",
-    img: "https://m.media-amazon.com/images/I/71-lZ5ZJaRL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08BP5JTC7?tag=hide0122-22",
-    page: "product-joyme-yoga-mat-10mm.html",
   },
   {
     name: "ピュリナワン グレインフリー チキン",
@@ -2800,13 +2751,6 @@ const RANKING_POOL = [
     page: "product-panel-max-jigsaw-frame.html",
   },
   {
-    name: "シルバニアファミリー ペルシャネコのみつごちゃん",
-    excerpt: "STマーク認証済みの三つ子の赤ちゃんフィギュア。ドールハウス遊びに追加できる定番シリーズで、3歳から遊べる。",
-    img: "https://m.media-amazon.com/images/I/811CrQovXKL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07LHHLYFL?tag=hide0122-22",
-    page: "product-sylvanian-families-persian-cat-triplets.html",
-  },
-  {
     name: "EZVIZ ペットカメラ C6N",
     excerpt: "360°撮影・自動追跡に対応した室内用見守りカメラ。夜間撮影や双方向会話もでき、ペットの様子確認から子どもの留守番見守りまで幅広く使える。",
     img: "https://m.media-amazon.com/images/I/613eMWxik8L._AC_SX300_.jpg",
@@ -2917,13 +2861,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71jxHqFhiCL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00CY9CPF8?tag=hide0122-22",
     page: "product-zaiho-onsensui-water-2l-12.html",
-  },
-  {
-    name: "富士の源水 天然水 48本",
-    excerpt: "富士山麓の軟水でくせがなくゴクゴク飲める。スリムでおしゃれなボトルデザインも人気、常温保存で備蓄にも便利。",
-    img: "https://m.media-amazon.com/images/I/71LK7X+Q0mL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0C61Q98XV?tag=hide0122-22",
-    page: "product-fuji-no-gensui-water-48.html",
   },
   {
     name: "ポカリスエット 24本",
@@ -3472,13 +3409,6 @@ const RANKING_POOL = [
     page: "product-anker-powerline-iii-flow.html",
   },
   {
-    name: "Laundrin' ディフューザー リラックスグリーンティー",
-    excerpt: "電源不要のリードディフューザー。グリーンティーの香りで玄関や寝室をやさしく演出。",
-    img: "https://m.media-amazon.com/images/I/71-CIa12l-L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07FKNG6D6?tag=hide0122-22",
-    page: "product-laundrin-diffuser.html",
-  },
-  {
     name: "アイリスオーヤマ モバイルモニター 15.6インチ",
     excerpt: "Mini HDMI・USB Type-C対応で軽量ボディ。IPSパネル・ノングレアで作業スペースを手軽に拡張。",
     img: "https://m.media-amazon.com/images/I/61XXT1yuDJL._AC_SX300_.jpg",
@@ -3505,13 +3435,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61D6WRbzS8L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H2V9RR31?tag=hide0122-22",
     page: "product-refa-aura-brush.html",
-  },
-  {
-    name: "VINDA 除菌ウェットティッシュ（80枚×12個）",
-    excerpt: "ノンアルコールタイプで肌にやさしい厚手シート。蓋つきで携帯にも便利な大容量まとめ買い。",
-    img: "https://m.media-amazon.com/images/I/81gfXu5nelL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08HMVRNQV?tag=hide0122-22",
-    page: "product-vinda-wet-tissue.html",
   },
   {
     name: "日田天領水 ミネラルウォーター 500ml×24本入×2ケース",
@@ -3890,13 +3813,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/41TPEcNmxKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CFZHRRLQ?tag=hide0122-22",
     page: "product-sharp-ib-p801.html",
-  },
-  {
-    name: "シャープ ハンディファン PJ-HS01",
-    excerpt: "4段階風量調整とリズム風モードを搭載。プラズマクラスターで汗臭・ミドル脂臭を消臭。",
-    img: "https://m.media-amazon.com/images/I/51jUbnmDumL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GPVHVTVK?tag=hide0122-22",
-    page: "product-sharp-pj-hs01.html",
   },
   {
     name: "AQUOS sense9",
@@ -4326,13 +4242,6 @@ const RANKING_POOL = [
     page: "product-adidas-sport-sp0063-sunglasses.html",
   },
   {
-    name: "ザバス カゼイン&ホエイ プロテイン MPC100",
-    excerpt: "カゼインとホエイをブレンド。吸収がゆるやかな就寝前向けプロテイン、ココア味810g。",
-    img: "https://m.media-amazon.com/images/I/71fK1c2MHZL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0B6MW42XQ?tag=hide0122-22",
-    page: "product-savas-mpc100-cocoa.html",
-  },
-  {
     name: "タオル研究所 フェイスタオル チャコールグレー 5枚セット",
     excerpt: "ホテル仕様の厚手フェイスタオル。綿100%・480GSMの贅沢なボリューム感と高速吸水性が特徴。",
     img: "https://m.media-amazon.com/images/I/81+VzDSocIL._AC_SX300_.jpg",
@@ -4445,13 +4354,6 @@ const RANKING_POOL = [
     page: "product-attenir-cleanse-oil-aroma.html",
   },
   {
-    name: "シルバニアファミリー ペルシャネコの赤ちゃん",
-    excerpt: "手頃な価格で集めやすい赤ちゃん人形シリーズ。STマーク認証済みで3歳以上が対象。",
-    img: "https://m.media-amazon.com/images/I/71-bvE5qq+L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07LHHRCKW?tag=hide0122-22",
-    page: "product-sylvanian-persian-cat-baby.html",
-  },
-  {
     name: "マテルゲーム ブロックス(Blokus) ボードゲーム",
     excerpt: "色とりどりのピースを配置する陣取り型ボードゲーム。ルールがシンプルで大人もハマる知育ゲーム。",
     img: "https://m.media-amazon.com/images/I/81CeBs5Pz5L._AC_SX300_.jpg",
@@ -4548,13 +4450,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51cY0+UCNPL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DB5GR3Y8?tag=hide0122-22",
     page: "product-primasole-yoga-mat-10mm.html",
-  },
-  {
-    name: "Wout バーベルにもなるダンベル 2個セット",
-    excerpt: "重量を調整でき、連結すればバーベルにもなるコスパの良い宅トレ用ダンベル。",
-    img: "https://m.media-amazon.com/images/I/61CGusFY1TL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B077M681Y1?tag=hide0122-22",
-    page: "product-wout-barbell-dumbbell-2set.html",
   },
   {
     name: "シーガー PE X8 エックスエイト 8本組",
@@ -4690,25 +4585,11 @@ const RANKING_POOL = [
     page: "product-toyo-aluminum-seiryuban-super-filter-3074.html",
   },
   {
-    name: "アイリスオーヤマ 速攻除草剤 4L WSJ-4L",
-    excerpt: "希釈不要でそのまま使える液体タイプの除草剤。",
-    img: "https://m.media-amazon.com/images/I/51a10rQtQ-L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DZ1T77BX?tag=hide0122-22",
-    page: "product-iris-ohyama-sokkou-jokusouzai-4l.html",
-  },
-  {
     name: "アイリスオーヤマ 家具転倒防止伸縮棒 KTB-40R",
     excerpt: "工具不要の突っ張り式で手軽に地震対策できる防災グッズ。",
     img: "https://m.media-amazon.com/images/I/41M5Ui0m7gL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DF77F9CS?tag=hide0122-22",
     page: "product-iris-ohyama-kagutentou-boushi-shinshukubou-ktb40r.html",
-  },
-  {
-    name: "FULNG 洗面台用排水口ゴミ受け 外径約64mm",
-    excerpt: "ネット交換式のステンレス製ヘアキャッチャー。",
-    img: "https://m.media-amazon.com/images/I/71HVtF0jN2L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0FMWXNV9N?tag=hide0122-22",
-    page: "product-fulng-senmendai-haisuiko-gomiuke-64mm.html",
   },
   {
     name: "日産化学 ラウンドアップマックスロード 1L",
@@ -5368,13 +5249,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61t1h-+MvfL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08K2CHMWK?tag=hide0122-22",
     page: "product-logicool-k295gp-wireless-keyboard.html",
-  },
-  {
-    name: "キヤノン純正インクカートリッジ BCI-381+380/5MP",
-    excerpt: "純正ならではの安定した印刷品質。5色マルチパックで交換もスムーズ。",
-    img: "https://m.media-amazon.com/images/I/71Bch+JaoGL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07574QXCS?tag=hide0122-22",
-    page: "product-canon-bci-381-380-5mp-ink.html",
   },
   {
     name: "キヤノン純正インクカートリッジ BCI-331+330/6MP",
@@ -6342,13 +6216,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71pbg+61gPL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B01BXVIDHG?tag=hide0122-22",
     page: "product-gex-hamster-premium-food-golden.html",
-  },
-  {
-    name: "マルカン こしたてプチ豆腐 10g入",
-    excerpt: "ハムスターの食いつきの良さで人気の豆腐ベースのおやつ。1日1〜2個の量管理がしやすく、手からのおやつタイム",
-    img: "https://m.media-amazon.com/images/I/619beD-MZFL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0186SR5YG?tag=hide0122-22",
-    page: "product-marukan-koshitate-petit-tofu.html",
   },
   {
     name: "GEX(ジェックス) ラビレット ヒノキア消臭砂 7.5L",
@@ -8157,13 +8024,6 @@ const RANKING_POOL = [
     page: "product-godox-tt350s-speedlite.html",
   },
   {
-    name: "Peak Design リーシュ カメラストラップ",
-    excerpt: "アンカーリンクシステムでワンタッチ着脱できるカメラストラップ。スリング・ネック・ショルダーなど複数の使い方に対応。",
-    img: "https://m.media-amazon.com/images/I/71DytxHtVaL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07258TNZD?tag=hide0122-22",
-    page: "product-peakdesign-leash-strap-black.html",
-  },
-  {
     name: "NEEWER RP18B Pro リングライト",
     excerpt: "厚さ約1.8cmの薄型18インチリングライト。CRI97+の高演色性とBluetoothリモコン・アプリ操作に対応。",
     img: "https://m.media-amazon.com/images/I/61iZROonTFL._AC_SX300_.jpg",
@@ -8197,20 +8057,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61ZboYMmrKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00PVW8H3E?tag=hide0122-22",
     page: "product-householdjapan-trash-bag-45l-kh54.html",
-  },
-  {
-    name: "エリエール キッチンペーパー 超吸収キッチンタオル",
-    excerpt: "パルプ100%、70カット×4ロールの1.4倍巻きキッチンペーパー。独自エンボス加工で水・油を吸収し裏抜けしにくい。",
-    img: "https://m.media-amazon.com/images/I/7119DIVNSWL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00EUS6YO4?tag=hide0122-22",
-    page: "product-elleair-kitchen-paper-70cut-4roll.html",
-  },
-  {
-    name: "エリエール ティッシュ プラスウォーター 180組×5箱",
-    excerpt: "保湿成分グリセリンを配合したパルプ100%のボックスティッシュ。180組入りが5箱セットで、蛍光染料は不使用。",
-    img: "https://m.media-amazon.com/images/I/61JiVxbIVBL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00XXC9JIQ?tag=hide0122-22",
-    page: "product-elleair-tissue-plus-water-180w-5box.html",
   },
   {
     name: "キレイキレイ 薬用泡ハンドソープ 詰め替え 800ml×2",
@@ -8248,13 +8094,6 @@ const RANKING_POOL = [
     page: "product-kabikiller-antimold-gel-3p.html",
   },
   {
-    name: "ウタマロ クリーナー 400mL",
-    excerpt: "キッチン・浴室・リビングなど住まい全体に使える中性のマルチクリーナー。素手でも使いやすいスプレータイプ。",
-    img: "https://m.media-amazon.com/images/I/610dqtoROaL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0088B5G0M?tag=hide0122-22",
-    page: "product-utamaro-cleaner-400ml.html",
-  },
-  {
     name: "激落ちくん カット済みキューブ 120個入",
     excerpt: "洗剤を使わず水だけで汚れを落とすメラミンスポンジ。3cm角にカット済みのキューブタイプ、120個入の大容量。",
     img: "https://m.media-amazon.com/images/I/71YRwibYr-L._AC_SX300_.jpg",
@@ -8269,25 +8108,11 @@ const RANKING_POOL = [
     page: "product-3m-scotchbrite-hybrid-net-sponge-6.html",
   },
   {
-    name: "キッチン泡ハイター つけかえ用 400ml",
-    excerpt: "まな板・包丁・排水口・食器・ふきんをこすらず除菌・漂白・消臭できる台所用漂白剤。スプレーボトルへのつけかえ用。",
-    img: "https://m.media-amazon.com/images/I/81JWJWck3aL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CZJLLC3L?tag=hide0122-22",
-    page: "product-kao-kitchen-haiter-refill-400.html",
-  },
-  {
     name: "カビキラー 本体 400g",
     excerpt: "お風呂の壁・パッキンのカビを除去する定番の塩素系カビ取りスプレー。泡が素早く浸透液に変化しカビに密着する。",
     img: "https://m.media-amazon.com/images/I/71JC1ptWrVL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0012PB20O?tag=hide0122-22",
     page: "product-kabikiller-spray-400.html",
-  },
-  {
-    name: "ガラスマジックリン ハンディスプレー 400ml",
-    excerpt: "窓ガラスや鏡の拭き掃除に使うガラス専用クリーナー。二度拭き不要で拭きスジが残りにくい処方。",
-    img: "https://m.media-amazon.com/images/I/71BcFQn1a3L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00YQT6GIG?tag=hide0122-22",
-    page: "product-kao-glass-magiclean-handy-spray-400.html",
   },
   {
     name: "ニトムズ コロコロ 本体 コンパクト C4607",
@@ -8330,13 +8155,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71nfHCmQubL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0837V26N7?tag=hide0122-22",
     page: "product-balsan-onepush-kiri-46-5g.html",
-  },
-  {
-    name: "ワイドハイターEXパワー 本体 600ml",
-    excerpt: "色柄ものにも使える液体タイプの酸素系漂白剤。洗濯洗剤にプラスして使うカラープロテクション・消臭タイプ。",
-    img: "https://m.media-amazon.com/images/I/71plbpxVTQL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00K9X5GEI?tag=hide0122-22",
-    page: "product-kao-widehaiter-ex-power-600ml.html",
   },
   {
     name: "パナソニック 単3形アルカリ乾電池 8本パック",
@@ -8486,20 +8304,6 @@ const RANKING_POOL = [
     page: "product-rakuhapi-toilet-bowl-bubble-180.html",
   },
   {
-    name: "マジックリン トイレ消臭・洗浄スプレー 本体350ml",
-    excerpt: "便器だけでなく床・壁・便座まで拭ける、日常使い向けのトイレ用消臭・洗浄スプレー。アルキルベタイン系の中性寄り処方。",
-    img: "https://m.media-amazon.com/images/I/81kW5Z3yheL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CB7WC9R6?tag=hide0122-22",
-    page: "product-kao-magiclean-toilet-spray-350.html",
-  },
-  {
-    name: "花王 除菌トイレハイター 500mL",
-    excerpt: "便器のふち裏や黒ずみを除菌・漂白する塩素系のトイレ用洗剤。ノンドリップのジェル状で垂直面にも密着しやすい。",
-    img: "https://m.media-amazon.com/images/I/618rwMnR5XL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B001V7SS96?tag=hide0122-22",
-    page: "product-kao-toilet-haiter-500.html",
-  },
-  {
     name: "by Amazon 流せるトイレクリーナー 無香料",
     excerpt: "香りをつけずに便座やふたを拭ける、そのまま流せる使い切りタイプのお掃除シート。20枚×6個のまとめ買い仕様。",
     img: "https://m.media-amazon.com/images/I/71oij1ZFgdL._AC_SX300_.jpg",
@@ -8617,20 +8421,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/719HYpEMcAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00U7F8ASM?tag=hide0122-22",
     page: "product-suntory-kuro-oolong-tea-24.html",
-  },
-  {
-    name: "アイリスオーヤマ 緑茶 ラベルレス",
-    excerpt: "静岡県産茶葉を100%使用した緑茶。ラベルレスでプラスチックごみを削減できる500ml×24本。",
-    img: "https://m.media-amazon.com/images/I/61v0N82UH4L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0C5QR7RR7?tag=hide0122-22",
-    page: "product-iris-ohyama-green-tea-labelless-24.html",
-  },
-  {
-    name: "あじかん 国産焙煎ごぼう茶",
-    excerpt: "国産ごぼうを独自焙煎した、香ばしくみずみずしい風味のペットボトルごぼう茶。500ml×24本。",
-    img: "https://m.media-amazon.com/images/I/619m2534PML._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DQKKG1Q1?tag=hide0122-22",
-    page: "product-ajikan-gobocha-24.html",
   },
   {
     name: "ダノンジャパン オイコス プロテインドリンク",
@@ -8927,39 +8717,11 @@ const RANKING_POOL = [
     page: "product-sanpellegrino-sparkling-water-pet-500-24.html",
   },
   {
-    name: "アサヒ おいしい水 六甲 ラベルレス 2L×6本",
-    excerpt: "原材料は水(深井戸水)。六甲の名を冠したアサヒ飲料の天然水、ラベルレスの2L×6本入り。",
-    img: "https://m.media-amazon.com/images/I/51GspA5IIcL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BGZBMLH3?tag=hide0122-22",
-    page: "product-asahi-oishii-mizu-rokko-labelless-2l-6.html",
-  },
-  {
-    name: "金城の華 純天然のアルカリイオン水 2L×8本",
-    excerpt: "原材料は天然水。「純天然アルカリイオン水」をうたう2000mLペットボトル×8本入り。",
-    img: "https://m.media-amazon.com/images/I/31EBHXBJq1L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B004YC4E8E?tag=hide0122-22",
-    page: "product-kinjo-no-hana-alkali-ion-water-2l-8.html",
-  },
-  {
-    name: "サントリー天然水 奥大山 2L×12本",
-    excerpt: "硬度20の軟水と案内される、奥大山産のサントリー天然水。2L×6本入りの2ケース（合計12本）。",
-    img: "https://m.media-amazon.com/images/I/41jcuhXXmRL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00F04GEB0?tag=hide0122-22",
-    page: "product-suntory-tennensui-okuoyama-2l-6x2.html",
-  },
-  {
     name: "アクアパンナ 天然水 500ml×24本",
     excerpt: "イタリア・トスカーナ産。硬度約108mg/Lの中硬水と案内される、500ml×24本入りの正規輸入品。",
     img: "https://m.media-amazon.com/images/I/51YwwAkaieL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D2KN8PZP?tag=hide0122-22",
     page: "product-nestle-acqua-panna-500-24.html",
-  },
-  {
-    name: "霧島 天然水 2L×12本",
-    excerpt: "霧島山の地下から湧出する天然水。硬度75.8と案内される2L×12本入り。",
-    img: "https://m.media-amazon.com/images/I/610iYOULyJL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B086L3RVXK?tag=hide0122-22",
-    page: "product-kirishima-tennensui-2l-12.html",
   },
   {
     name: "アイリスオーヤマ 富士山の天然水 2L×9本",
@@ -9053,20 +8815,6 @@ const RANKING_POOL = [
     page: "product-welchs-grape100-800g-8.html",
   },
   {
-    name: "JA平取町 ニシパの恋人 トマトジュース 無塩 190g×30缶",
-    excerpt: "原材料は平取産の生食用桃太郎トマト。食塩無添加（無塩）の190g缶×30本入りトマトジュース。",
-    img: "https://m.media-amazon.com/images/I/71qHIgX2fWL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B009659JOS?tag=hide0122-22",
-    page: "product-nishipa-no-koibito-tomato-juice-mueon-190g-30.html",
-  },
-  {
-    name: "光食品 オーガニックトマトジュース 食塩無添加 190g×30本",
-    excerpt: "原材料は有機トマト（輸入）。有機JAS認証、食塩無添加、香料・保存料などを使用しないと案内される190g缶×30本入り。",
-    img: "https://m.media-amazon.com/images/I/41gQmJIJUOL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GQ3J4MJT?tag=hide0122-22",
-    page: "product-hikari-organic-tomato-juice-190g-30.html",
-  },
-  {
     name: "えひめ飲料 ポンジュース スクエア 1L×6本",
     excerpt: "国産うんしゅうみかんとオレンジをブレンドした果汁100％のジュース。1L×6本入り。",
     img: "https://m.media-amazon.com/images/I/61eFEkiO-mL._AC_SX300_.jpg",
@@ -9142,13 +8890,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71Iv5gD+0UL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07YWGQNZ4?tag=hide0122-22",
     page: "product-weider-muscle-fit-protein-cocoa-870g.html",
-  },
-  {
-    name: "DNS ハイドレート プロ スポーツドリンク風味 500ml×24本",
-    excerpt: "WPI 15gを配合と案内される、スポーツドリンク風味のプロテインウォーター。1本70kcal、500ml×24本入り。",
-    img: "https://m.media-amazon.com/images/I/51y1AdwLQBL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08X58K8PD?tag=hide0122-22",
-    page: "product-dns-hydrate-pro-sports-drink-500ml-24.html",
   },
   {
     name: "グロング ソイプロテイン ココア風味 1kg",
@@ -9305,13 +9046,6 @@ const RANKING_POOL = [
     page: "product-muji-shower-brush-white.html",
   },
   {
-    name: "キーコーヒー 香味まろやか水出し珈琲30P",
-    excerpt: "常温の水に浸すだけで作れる水出しアイスコーヒー用のコーヒーバッグ。ブラジル・コロンビア産のコーヒー豆を使用。",
-    img: "https://m.media-amazon.com/images/I/61kjIZS5IuL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B084KQGV9R?tag=hide0122-22",
-    page: "product-keycoffee-mizudashi-coffee-bag-30.html",
-  },
-  {
     name: "スターバックス ディカフェ ハウスブレンド",
     excerpt: "厳選されたアラビカ種豆を使用し、カフェインだけをやさしく取り除いたカフェインレスのグラウンドコーヒー。",
     img: "https://m.media-amazon.com/images/I/81koGjkKB8L._AC_SX300_.jpg",
@@ -9373,13 +9107,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/81TmF5C-C7L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D89Z38NB?tag=hide0122-22",
     page: "product-asahi-oishiimizu-tennensui-2l-9.html",
-  },
-  {
-    name: "SOC 温泉水99 500ml×24本",
-    excerpt: "温泉水を採水したミネラルウォーター。500ml×24本のケース販売で、日常の水分補給用にまとめ買いしやすい構成。",
-    img: "https://m.media-amazon.com/images/I/41rrudyHmbL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0C32Z8BTW?tag=hide0122-22",
-    page: "product-soc-onsensui99-water-500-24.html",
   },
   {
     name: "Perrier(ペリエ) プレーン缶 330ml×24本",
@@ -9711,13 +9438,6 @@ const RANKING_POOL = [
     page: "product-nooyastyle-body-pillow-bzj712.html",
   },
   {
-    name: "アイリスオーヤマ 収納ボックス ふた付き積み重ねBOX",
-    excerpt: "幅約45.3×奥行約29.7×高さ約13.3cmの積み重ね可能な収納ボックス。フタはトレーとしても使える。",
-    img: "https://m.media-amazon.com/images/I/41SYIDry+LL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08XWFBZPV?tag=hide0122-22",
-    page: "product-iris-ohyama-storage-box-ftb45.html",
-  },
-  {
     name: "LunarLight ハンガーラック",
     excerpt: "耐荷重50kg・幅60×奥行38.5×高さ171cmのスリムなハンガーラック。ズボンハンガー8本とSフック4個が付属。",
     img: "https://m.media-amazon.com/images/I/81g9tf2ms9L._AC_SX300_.jpg",
@@ -9744,13 +9464,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61bjDRbcNsL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FB3LPDBQ?tag=hide0122-22",
     page: "product-switchbot-rgbic-floor-light.html",
-  },
-  {
-    name: "WQNB 木製テーブルランプ",
-    excerpt: "充電式コードレスの木製テーブルランプ。3色モード切替とタッチ制御、メモリ機能を搭載した間接照明。",
-    img: "https://m.media-amazon.com/images/I/41S6tVqh0PL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0H7RJTS8Q?tag=hide0122-22",
-    page: "product-wqnb-wood-table-lamp.html",
   },
   {
     name: "Lyridz センサーライト 足元灯",
@@ -9793,13 +9506,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71m59ff-lXL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CMQ2F531?tag=hide0122-22",
     page: "product-balsan-aircon-drain-cap.html",
-  },
-  {
-    name: "コンビ テテオ 哺乳びん 耐熱ガラス製",
-    excerpt: "赤ちゃんの授乳メカニズムを考えて設計された哺乳びん。耐熱ガラス製のボトルに、4段階の流量調節ができるMサイズの乳首が付属する。",
-    img: "https://m.media-amazon.com/images/I/41H5G3izFwL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00I59NHZI?tag=hide0122-22",
-    page: "product-combi-teteo-bottle-glass-240ml.html",
   },
   {
     name: "ピジョン 母乳アシスト さく乳器 手動",
@@ -9936,13 +9642,6 @@ const RANKING_POOL = [
     page: "product-yamazen-comfort-shower-stool-ys-7001sn.html",
   },
   {
-    name: "アイリスオーヤマ シャワーチェア SCT-350",
-    excerpt: "座面高さ約35cmのロータイプで、背もたれと取っ手を備えたシャワーチェア。座面パッドは交換可能。",
-    img: "https://m.media-amazon.com/images/I/417OBog7YiL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B084T498J3?tag=hide0122-22",
-    page: "product-irisohyama-shower-chair-sct-350.html",
-  },
-  {
     name: "Toski お風呂すべり止めマット",
     excerpt: "浴槽の底や洗い場に敷く、吸盤式のすべり止めマット。TPE素材で柔らかく、防カビ加工付き。",
     img: "https://m.media-amazon.com/images/I/61CF84RKJPL._AC_SX300_.jpg",
@@ -9955,13 +9654,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51J8DXee2bL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C14KQPSP?tag=hide0122-22",
     page: "product-taili-bathtub-handrail-suction.html",
-  },
-  {
-    name: "Sanesuline バスボード",
-    excerpt: "浴槽の縁にかけて使うバスボード。浴槽内寸約44〜63.6cmに対応し、耐荷重136kg。",
-    img: "https://m.media-amazon.com/images/I/51n8I+0uqjL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CK4LN7R9?tag=hide0122-22",
-    page: "product-sanesuline-bathboard-136kg.html",
   },
   {
     name: "ナビス ボディタオル 持ち手付き",
@@ -10193,13 +9885,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/21RWVheF2OL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0G1R8JS76?tag=hide0122-22",
     page: "product-anju-okuraku-antislip-mat-kp.html",
-  },
-  {
-    name: "OKAMOTO 浴用手袋 やさしい手",
-    excerpt: "手を差し込んで洗える使い捨ての入浴用手袋。抗菌加工、2枚入り。",
-    img: "https://m.media-amazon.com/images/I/51Bi4b4Bt9S._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000G12WYU?tag=hide0122-22",
-    page: "product-okamoto-yokuyou-tebukuro.html",
   },
   {
     name: "SANEI シャワーヘッド レイニー",
@@ -10517,13 +10202,6 @@ const RANKING_POOL = [
     page: "product-allout-wrist-wrap.html",
   },
   {
-    name: "グロング(GronG) 腹筋ローラー ワイドタイプ",
-    excerpt: "幅広タイヤを採用した、静音性と安定性を重視した腹筋ローラーです。",
-    img: "https://m.media-amazon.com/images/I/61CK5gHoeDL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DQ6WLY2P?tag=hide0122-22",
-    page: "product-grong-ab-roller-wide.html",
-  },
-  {
     name: "PROIRON ケトルベル ネオプレン 12kg",
     excerpt: "内部は鋳鉄一体型、外側はネオプレンでコーティングされた12kgのケトルベルです。",
     img: "https://m.media-amazon.com/images/I/71iSEUUZ-HL._AC_SX300_.jpg",
@@ -10636,25 +10314,11 @@ const RANKING_POOL = [
     page: "product-alinco-situp-training-bench-foldable.html",
   },
   {
-    name: "アルインコ(ALINCO) ぶらさがりくん FA890 ぶら下がり健康器",
-    excerpt: "新聞紙約2枚分の省スペース設計とうたう、高さを5段階に調節できる据え置き型のぶら下がり健康器です。",
-    img: "https://m.media-amazon.com/images/I/51hnKoU8izL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B001F0Q5R6?tag=hide0122-22",
-    page: "product-alinco-burasagarikun-fa890.html",
-  },
-  {
     name: "Amazonベーシック トレーニングロープ バトルロープ 9m",
     excerpt: "直径約3.8cm・長さ9mの、3ストランド構造のバトルロープ（トレーニングロープ）です。",
     img: "https://m.media-amazon.com/images/I/81ihUfb86fL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B072Z2ZTLJ?tag=hide0122-22",
     page: "product-amazonbasics-battle-rope-9m.html",
-  },
-  {
-    name: "IROTEC(アイロテック) ラバー ダンベル 20KGセット（片手10kg×2個）",
-    excerpt: "スクリュー式のシャフトにラバー付きプレートを組み合わせて使う、片手10kg×2個のダンベルセットです。",
-    img: "https://m.media-amazon.com/images/I/81cLBx0CQrL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0041IWZ7S?tag=hide0122-22",
-    page: "product-irotec-rubber-dumbbell-20kg-set.html",
   },
   {
     name: "TheFitLife ヒップバンド 3本セット レジスタンスバンド",
@@ -10825,13 +10489,6 @@ const RANKING_POOL = [
     page: "product-epi-titanium-3piece-tableware-t-8001.html",
   },
   {
-    name: "モンベル(mont-bell) コンプレッションスタッフバッグ M 1123424",
-    excerpt: "ベルトだけでなく面で圧縮する構造をうたう、直径30×49cm・約110gのコンプレッション式スタッフバッグ（Mサイズ）です。",
-    img: "https://m.media-amazon.com/images/I/61NPSLU-wEL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000AR1EV2?tag=hide0122-22",
-    page: "product-montbell-compression-stuff-bag-m-1123424.html",
-  },
-  {
     name: "Imabary 今治 フジヤマタオル アウトドアタオル 25×100cm",
     excerpt: "25×100cm・約43gの、今治で作られた軽量アウトドアタオルです。吸水性・速乾性・消臭性をうたっています。",
     img: "https://m.media-amazon.com/images/I/91yuykEnoQL._AC_SX300_.jpg",
@@ -10895,13 +10552,6 @@ const RANKING_POOL = [
     page: "product-mikasa-volleyball-5-v200w.html",
   },
   {
-    name: "モルテン(molten) バスケットボール 7号球 検定球 BG4900 B7G4900",
-    excerpt: "天然皮革・貼りの7号検定球で、耐摩耗コーティングにより耐久性を高めた、屋内用の練習球とされるバスケットボールです。",
-    img: "https://m.media-amazon.com/images/I/71Wy4hNtJiL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GJ4X215Z?tag=hide0122-22",
-    page: "product-molten-basketball-7-bg4900.html",
-  },
-  {
     name: "Amazonベーシック ゴルフ 練習 ネット 2.4m×2.4m ポータブル",
     excerpt: "幅2.4m×高さ2.4m×奥行0.9m・重量7.8kgの、金属とファイバーグラス製のポータブル型ゴルフ練習ネットです。",
     img: "https://m.media-amazon.com/images/I/A1gpmVu-MJL._AC_SX300_.jpg",
@@ -10956,13 +10606,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71hyPvApwaL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08LZRBG5W?tag=hide0122-22",
     page: "product-bosu-core-sliders.html",
-  },
-  {
-    name: "グロング(GronG) 踏み台昇降 ステップ台 10/15/20cm",
-    excerpt: "10cm・15cm・20cmの高さに調節できる、幅約69cmの踏み台昇降用ステップ台です。",
-    img: "https://m.media-amazon.com/images/I/51fiMN0ipqL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07Y5K72WT?tag=hide0122-22",
-    page: "product-grong-step-board-10-15-20cm.html",
   },
   {
     name: "ヨガワークス ボルスター・ライト YW-E466",
@@ -11182,13 +10825,6 @@ const RANKING_POOL = [
     page: "product-shimano-sedona-spinning-reel-23.html",
   },
   {
-    name: "ヨネックス(YONEX) エアロセンサ600 AS-600 1ダース",
-    excerpt: "水鳥の羽根と天然コルクで作られた、温度別の番号（このページは3番：22〜28度）で選ぶバドミントン用シャトル1ダースです。",
-    img: "https://m.media-amazon.com/images/I/51tqH2NeiHL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07NPLS38H?tag=hide0122-22",
-    page: "product-yonex-aerosensa-600-shuttle-as600.html",
-  },
-  {
     name: "ニッタク(Nittaku) 卓球ボール 3スター プレミアム クリーン",
     excerpt: "直径40mmのプラスチック製で、抗ウイルス・抗菌加工をうたう、日本製の国際卓球連盟公認球です。",
     img: "https://m.media-amazon.com/images/I/51s0V+hdLGL._AC_SX300_.jpg",
@@ -11257,13 +10893,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/810mgHYhr0L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07CWNGR92?tag=hide0122-22",
     page: "product-unigear-crampon-24pin.html",
-  },
-  {
-    name: "ダイワ(DAIWA) ポリカーボネイト変色調光偏光グラス DN-4216H",
-    excerpt: "紫外線によりレンズの濃淡が変化する、調光機能付きの偏光サングラスです。",
-    img: "https://m.media-amazon.com/images/I/51AAYuIO7oL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01ELPF6AI?tag=hide0122-22",
-    page: "product-daiwa-polarized-sunglasses-dn4216h.html",
   },
   {
     name: "メイホウ(MEIHO) BM-5000 バケットマウス",
@@ -11434,13 +11063,6 @@ const RANKING_POOL = [
     page: "product-hario-slim-fridge-pot-1400ml-rpln14.html",
   },
   {
-    name: "マーナ(marna) 清潔謹製 抗菌キッチンブラシ ふつう/ミニ K750W",
-    excerpt: "抗菌剤入りで自立するマーナのミニキッチンブラシ。",
-    img: "https://m.media-amazon.com/images/I/71bc+AVsncL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08V87KKX4?tag=hide0122-22",
-    page: "product-marna-seiketsu-kinsei-kitchen-brush-mini.html",
-  },
-  {
     name: "すっきり暮らす 水切りかご 深型 ステンレス 燕三条 MM-700132",
     excerpt: "シンク横にすっきり置ける燕三条製ステンレスの水切りかご。",
     img: "https://m.media-amazon.com/images/I/51wfc8X7PoL._AC_SX300_.jpg",
@@ -11474,20 +11096,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/711IcvqkzhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00I9ZN8ZM?tag=hide0122-22",
     page: "product-morinaga-in-jelly-energy-muscat-6.html",
-  },
-  {
-    name: "ベースブレッド チョコ 16袋",
-    excerpt: "1食（2袋）で33種類の栄養素が摂れるとされる完全栄養食パン。たんぱく質13.6g・食物繊維5.8gを含む。",
-    img: "https://m.media-amazon.com/images/I/71Jx9inrMqL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B088R2M7GV?tag=hide0122-22",
-    page: "product-basefood-basebread-chocolate-16.html",
-  },
-  {
-    name: "ネイチャーメイド スーパーマルチビタミン&ミネラル",
-    excerpt: "ビタミン12種類・ミネラル7種類を1粒に配合。120粒入りで1日1粒が目安。",
-    img: "https://m.media-amazon.com/images/I/51+TR8eggBL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GX8XCG4R?tag=hide0122-22",
-    page: "product-naturemade-super-multivitamin-mineral-120.html",
   },
   {
     name: "by Amazon カルビー フルグラ",
@@ -11537,13 +11145,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51++zfirnmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B007Q8I20Y?tag=hide0122-22",
     page: "product-calorie-mate-maple-80g10.html",
-  },
-  {
-    name: "ブルボン ルマンド",
-    excerpt: "幾層にも重なった生地をチョコレートでコーティングしたサクサク食感の焼き菓子。12本の個包装。",
-    img: "https://m.media-amazon.com/images/I/51KsOUuTGRL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07WRQCFYH?tag=hide0122-22",
-    page: "product-bourbon-lumande-12.html",
   },
   {
     name: "ポッキー チョコレート",
@@ -11670,13 +11271,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61sEgiPCRKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00OXBWTBU?tag=hide0122-22",
     page: "product-koda-shoten-hoshiimo-640g.html",
-  },
-  {
-    name: "まもるんパン",
-    excerpt: "缶切り不要で2年保存できる非常食用パン。国産バター使用の6缶セット。",
-    img: "https://m.media-amazon.com/images/I/613pC70g4FL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DVZC35XX?tag=hide0122-22",
-    page: "product-mamorun-pan-6cans.html",
   },
   {
     name: "小島屋 ミックスナッツ",
@@ -11896,13 +11490,6 @@ const RANKING_POOL = [
     page: "product-hagoromo-seachicken-mild-70g-4.html",
   },
   {
-    name: "三立製菓 缶入りカンパン 100g×6缶",
-    excerpt: "備蓄食糧の定番として案内される缶入りカンパン。カンパン85gと氷砂糖15g入り、6缶セット。",
-    img: "https://m.media-amazon.com/images/I/514h2RbM1BL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00KR4W7XW?tag=hide0122-22",
-    page: "product-sanritsu-kanpan-can-100g-6.html",
-  },
-  {
     name: "アマノフーズ いつものおみそ汁 5種セット",
     excerpt: "なす・とうふ・なめこ・ほうれん草・赤だし三つ葉の5種を各2食、計10食のフリーズドライみそ汁アソート。",
     img: "https://m.media-amazon.com/images/I/81FvJT29e5L._AC_SX300_.jpg",
@@ -12036,13 +11623,6 @@ const RANKING_POOL = [
     page: "product-fujisawa-almond-fish-6g-32.html",
   },
   {
-    name: "マツモト 徳用おつまみ昆布 100g",
-    excerpt: "北海道産昆布のうまみを生かして軽く調味した、薄くて食べやすいおやつ昆布。お徳用の100g入り。",
-    img: "https://m.media-amazon.com/images/I/51hFONJFVAL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00U2DMRMY?tag=hide0122-22",
-    page: "product-matsumoto-tokuyo-otsumami-konbu-100g.html",
-  },
-  {
     name: "トーノー おつまみしじみ 柚子胡椒 42g×5袋",
     excerpt: "味付けしじみとひまわり種子を柚子こしょうで味付けした、爽やかな香りと辛さのおつまみ。42g×5袋入り。",
     img: "https://m.media-amazon.com/images/I/81PKU87AuFL._AC_SX300_.jpg",
@@ -12125,13 +11705,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61AbBCGa8ZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FPFVVJ32?tag=hide0122-22",
     page: "product-sanko-cheese-almond-235g.html",
-  },
-  {
-    name: "越後製菓 大きな柿の種",
-    excerpt: "国産米100%使用の大粒タイプの柿の種。90g×12袋のまとめ買いセット。",
-    img: "https://m.media-amazon.com/images/I/81ROWZ0fTvL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07Q9YKDZY?tag=hide0122-22",
-    page: "product-echigo-seika-okaki-kakinotane-12.html",
   },
   {
     name: "ホテイ やきとり塩味",
@@ -12449,13 +12022,6 @@ const RANKING_POOL = [
     page: "product-businessleather-factory-cardcase-leather.html",
   },
   {
-    name: "コクヨ 個別フォルダー ファイルボックス付き",
-    excerpt: "案件ごとに書類を分けられる個別フォルダー100枚と専用ファイルボックスのセット。",
-    img: "https://m.media-amazon.com/images/I/51t+K3RmOIL._AC_SY450_.jpg",
-    link: "https://www.amazon.co.jp/dp/B001DISVOK?tag=hide0122-22",
-    page: "product-kokuyo-individual-folder-filebox-a4prif.html",
-  },
-  {
     name: "マルマン ニーモシネ ノートパッド",
     excerpt: "1枚ずつ切り取れるA5サイズのノートパッド。5mm方眼罫でペンホルダー付き。",
     img: "https://m.media-amazon.com/images/I/71Ddbq-nU2L._AC_SY450_.jpg",
@@ -12538,13 +12104,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51GPGUcJFrL._SX522_.jpg",
     link: "https://www.amazon.co.jp/dp/B0G3XB8Z79?tag=hide0122-22",
     page: "product-sekisui-kraft-tape-no500.html",
-  },
-  {
-    name: "アイリスオーヤマ 段ボールBOX",
-    excerpt: "引っ越しや発送に使えるMサイズの段ボール箱10枚セット。",
-    img: "https://m.media-amazon.com/images/I/41TYWNrHnXL._SX342_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000WCEII6?tag=hide0122-22",
-    page: "product-iris-ohyama-cardboard-box-dbm5.html",
   },
   {
     name: "コクヨ 液体のり カクノリ",
@@ -13051,13 +12610,6 @@ const RANKING_POOL = [
     page: "product-jyx-wireless-mic-speaker-set.html",
   },
   {
-    name: "CICONIA 全身発光LEDパーティースピーカー",
-    excerpt: "本体360度が音楽に連動して発光するLEDパーティースピーカー。ハンドルと車輪付きでキャリーカートのように持ち運べ、...",
-    img: "https://m.media-amazon.com/images/I/610UTG0-mcL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BHCFRQN1?tag=hide0122-22",
-    page: "product-ciconia-led-party-speaker-ctgy10a.html",
-  },
-  {
     name: "Anker Soundcore Rave 3S",
     excerpt: "AIボーカルリムーバーを搭載した最大200Wのパーティースピーカー。音源からボーカルを除去してカラオケ音源に変えられ...",
     img: "https://m.media-amazon.com/images/I/71WWZhtYxRL._AC_SY606_.jpg",
@@ -13070,13 +12622,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71vZIdwtELL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B08TTCHNP2?tag=hide0122-22",
     page: "product-w-king-t9-2-led-party-speaker.html",
-  },
-  {
-    name: "東芝 パーティースピーカー AX-WSP60",
-    excerpt: "フロアスタンディング型のパーティースピーカー。7色のLEDが音楽に合わせて演出し、マイク入力2系統とマイクボイス変換...",
-    img: "https://m.media-amazon.com/images/I/31fMnOrxUBL._AC_SY300_SX300_QL70_ML2_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0G2R34NG4?tag=hide0122-22",
-    page: "product-toshiba-ax-wsp60-party-speaker.html",
   },
   {
     name: "BEHRINGER HA400",
@@ -13331,20 +12876,6 @@ const RANKING_POOL = [
     page: "product-ciao-churu-sougou-eiyoshoku-80.html",
   },
   {
-    name: "無印良品 猫草栽培セット 2個入り",
-    excerpt: "土を使わない猫草栽培セット。エン麦種子付きで2回分栽培できます。",
-    img: "https://m.media-amazon.com/images/I/71CHyJUUH0L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01ETRMJEE?tag=hide0122-22",
-    page: "product-muji-nekokusa-saibai-set.html",
-  },
-  {
-    name: "ペティオ プラクト 歯みがきデンタルガム まぐろ味",
-    excerpt: "プラズマ乳酸菌配合の猫用デンタルガム。まぐろ味のスティックタイプです。",
-    img: "https://m.media-amazon.com/images/I/71UtXlSMyvL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08X9JJZ38?tag=hide0122-22",
-    page: "product-petio-plact-dental-gum-maguro-cat.html",
-  },
-  {
     name: "ペティオ フリーズドライ 全5種セット",
     excerpt: "保存料・着色料無添加のフリーズドライおやつ5種セット。少量ずつ味を試せます。",
     img: "https://m.media-amazon.com/images/I/71HrM3+Q8pL._AC_SX300_.jpg",
@@ -13399,13 +12930,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71ynAKIE-qL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CB9SPBC7?tag=hide0122-22",
     page: "product-nbone-dental-ring-salmon-dog.html",
-  },
-  {
-    name: "カインズ Pet'sOne 紙製のネコ砂 13.5L",
-    excerpt: "再生パルプを使った紙製の猫砂。固まる・流せる・燃やせるタイプです。",
-    img: "https://m.media-amazon.com/images/I/61nGL3OqTnL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0C8MP7QS3?tag=hide0122-22",
-    page: "product-cainz-petsone-paper-litter-135l.html",
   },
   {
     name: "Cat's Best スマートペレット 10L",
@@ -13532,13 +13056,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/616eLaaM8yL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CPHKXDRP?tag=hide0122-22",
     page: "product-tamiya-craft-tool-basic-set-74016.html",
-  },
-  {
-    name: "ねんどろいど 初音ミク(千本桜Ver.)",
-    excerpt: "楽曲『千本桜』の初音ミクをねんどろいど化した塗装済み可動フィギュア。表情パーツ2種と桜大幣・二輪車が付属。",
-    img: "https://m.media-amazon.com/images/I/51eudVYiGmL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GFCMN9Y5?tag=hide0122-22",
-    page: "product-gsc-nendoroid-senbonzakura-miku.html",
   },
   {
     name: "GSIクレオス ガンダムマーカー ベーシックセット",
@@ -13744,13 +13261,6 @@ const RANKING_POOL = [
     page: "product-goture-fishing-set-19pc.html",
   },
   {
-    name: "ダイワ 23レガリス LT2500S-DH",
-    excerpt: "ギア比5.3・自重195gのダイワ 23レガリス スピニングリールです。",
-    img: "https://m.media-amazon.com/images/I/51m7mzy5q7L._AC_SY355_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CCN5C9KR?tag=hide0122-22",
-    page: "product-daiwa-legalis-lt2500s-reel.html",
-  },
-  {
     name: "THKFISH ルアーセット153点",
     excerpt: "ハードルアーやソフトベイトなど153点が入った収納ケース付きセットです。",
     img: "https://m.media-amazon.com/images/I/81rwSUjfEUL._AC_SY355_.jpg",
@@ -13821,13 +13331,6 @@ const RANKING_POOL = [
     page: "product-creer-yoga-rug-towel.html",
   },
   {
-    name: "ESTILO 乾燥機 衣類乾燥機 3.5kg",
-    excerpt: "室内に置ける据え置き型の小型衣類乾燥機。スマートPTCヒーターで約60℃の低温を保ちながら、フェイスタオル20枚分の衣類をまとめて乾燥できるとされるモデル。",
-    img: "https://m.media-amazon.com/images/I/615N9ULyFXL._AC_SX466_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0FP5KVBR3?tag=hide0122-22",
-    page: "product-estilo-clothes-dryer-35kg.html",
-  },
-  {
     name: "アイリスオーヤマ 靴乾燥機 SD-C2-W",
     excerpt: "雨の日に濡れた靴や、汗による湿気が気になるスニーカーの内部を乾かせる家庭用靴乾燥機。標準・革靴・低騒音の3モードとタイマー機能を備える。",
     img: "https://m.media-amazon.com/images/I/514b+62R7qL._AC_SX425_.jpg",
@@ -13896,13 +13399,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61Rrd-pcRRL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B09BYT3JCN?tag=hide0122-22",
     page: "product-sylphease-comforter-cover.html",
-  },
-  {
-    name: "昭和西川 枕カバー 綿100％ 日本製 ピロケース 63×43cm用 サテン織 ネオカラー",
-    excerpt: "細番手40番手の糸を使ったサテン織で、なめらかな肌ざわりと上品な光沢が特徴の枕カバー。日本製で綿100%の天然素材。",
-    img: "https://m.media-amazon.com/images/I/61mm167ApBL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CHYXNBY1?tag=hide0122-22",
-    page: "product-showanishikawa-pillow-cover.html",
   },
   {
     name: "クモリ(Kumori) 洗える ラグ 軽量 185x185cm フランネル 滑り止め付き",
@@ -14295,13 +13791,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/81OirLEc3HL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B006UXTKYS?tag=hide0122-22",
     page: "product-bonform-rubber-arrow-floormat.html",
-  },
-  {
-    name: "ユピテル ドライブレコーダー WDT510c",
-    excerpt: "国内メーカー・ユピテルのスタンダードモデル前後2カメラドライブレコーダー。フロントはHDR搭載200万画素FullHD、リアは100万画素で、GPS・Gセンサー・音声記録を備える。",
-    img: "https://m.media-amazon.com/images/I/71mTZtMdyIL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08F52DWJX?tag=hide0122-22",
-    page: "product-yupiteru-wdt510c-dashcam.html",
   },
   {
     name: "ACMEZING 車載ホルダー クリップ+吸盤",
@@ -14906,32 +14395,11 @@ const RANKING_POOL = [
     page: "product-sumikko-tokage-plush-m.html",
   },
   {
-    name: "TAMASHII NATIONS フィギュアーツmini 鬼滅の刃 冨岡義勇",
-    excerpt: "約90mmのデフォルメフィギュア。PVC・ABS製の塗装済み可動フィギュアで、鬼滅の刃の冨岡義勇を手のひらサイズで飾…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B08C3HY2BV.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08C3HY2BV?tag=hide0122-22",
-    page: "product-figuarts-mini-tomioka-giyu.html",
-  },
-  {
     name: "サンリオ ハローキティ ぬいぐるみ(スタンダード)S",
     excerpt: "サンリオの定番キャラクター、ハローキティの標準サイズぬいぐるみ。飾ったり抱っこしたりと、幅広い遊び方ができる定番アイ…",
     img: "https://images-na.ssl-images-amazon.com/images/P/B07DTGP5GS.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07DTGP5GS?tag=hide0122-22",
     page: "product-sanrio-hellokitty-plush-standard-s.html",
-  },
-  {
-    name: "サンリオ マイメロディ ぬいぐるみ(スタンダード)S",
-    excerpt: "ふわふわのフード付き衣装が目印のマイメロディのぬいぐるみ。柔らかい手触りとかわいらしいリボンが特徴の定番デザイン。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B07GNCP913.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07GNCP913?tag=hide0122-22",
-    page: "product-sanrio-mymelody-plush-standard-s.html",
-  },
-  {
-    name: "ディズニー ディズニーキャラクター ファニーフェイス ぬいぐるみS くまのプーさん",
-    excerpt: "高さ約19cmのぬいぐるみ。表情豊かな「ファニーフェイス」デザインが特徴の、くまのプーさんのコンパクトなぬいぐるみ。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B095R8W7NS.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B095R8W7NS?tag=hide0122-22",
-    page: "product-disney-funnyface-pooh-plush-s.html",
   },
   {
     name: "ワイルドリパブリック ビーバー ぬいぐるみ カドルキンズ 10921",
@@ -14976,13 +14444,6 @@ const RANKING_POOL = [
     page: "product-hape-my-practical-toolset.html",
   },
   {
-    name: "タカラトミー 人生ゲーム",
-    excerpt: "ルーレットを回してコマを進め、人生の出来事を疑似体験する定番ボードゲーム。最大6人で遊べる、家族や友人との集まりに向…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B01C812MAE.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01C812MAE?tag=hide0122-22",
-    page: "product-takaratomy-jinsei-game.html",
-  },
-  {
     name: "任天堂 トランプ ナップ 622(藍)",
     excerpt: "PET樹脂を使った、シャッフルしやすい定番のトランプ。七並べやスピード、大富豪など、幅広いカードゲームに使える。",
     img: "https://images-na.ssl-images-amazon.com/images/P/B001FLYYJ6.01._SX300_.jpg",
@@ -14995,13 +14456,6 @@ const RANKING_POOL = [
     img: "https://images-na.ssl-images-amazon.com/images/P/B0009XJZFY.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0009XJZFY?tag=hide0122-22",
     page: "product-nintendo-hanafuda-daitoryo-black.html",
-  },
-  {
-    name: "エンスカイ(ENSKY) にほんごであそぼ いろはかるた",
-    excerpt: "NHK Eテレの番組をもとにした、いろはかるた。厚手のカードで、読み札には解説も付き、ひらがなの学習と遊びを両立できる。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B0002UAL3Y.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0002UAL3Y?tag=hide0122-22",
-    page: "product-ensky-nihongo-asobo-irohakaruta.html",
   },
   {
     name: "グランディング(Grounding) 街コロ(Machi Koro)",
@@ -15025,53 +14479,11 @@ const RANKING_POOL = [
     page: "product-tamiya-148-zerosen-21.html",
   },
   {
-    name: "バンダイスピリッツ ENTRY GRADE 機動戦士ガンダム RX-78-2 ガンダム(ライトパッケージVer.)",
-    excerpt: "1/144スケールの色分け済みプラモデル。接着剤・ニッパー不要のスナップフィット方式で、初めてでも組み立てやすい素組…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B08HF3PVVZ.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08HF3PVVZ?tag=hide0122-22",
-    page: "product-bandai-eg-rx78-2-lightpkg.html",
-  },
-  {
-    name: "タミヤ 仕上げ材シリーズ タミヤセメント(流し込みタイプ) 87038",
-    excerpt: "プラモデルの組み立てに使う、流し込みタイプの接着剤。細い筆で接合部に流し込んで使う、本格的なプラモデル製作に向いたタ…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B000BMYWYC.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000BMYWYC?tag=hide0122-22",
-    page: "product-tamiya-cement-87038.html",
-  },
-  {
     name: "遊戯王OCG デュエルモンスターズ デッキビルドパック グローリアス・ヴィクターズ BOX",
     excerpt: "コナミデジタルエンタテインメント公式の遊戯王OCGブースターBOX。デッキビルドパックのテーマに沿ったカードがまとめ…",
     img: "https://images-na.ssl-images-amazon.com/images/P/B0H24ZY4K3.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H24ZY4K3?tag=hide0122-22",
     page: "product-yugioh-deckbuildpack-gloriousvictors.html",
-  },
-  {
-    name: "Ultra Pro カードデッキボックス 80枚用 ブラック",
-    excerpt: "スリーブに入れたカードを約80枚収納できるデッキボックス。ふた部分がぴったり閉まる仕様で、持ち運びや保管に向いている。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B0002TT3B6.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0002TT3B6?tag=hide0122-22",
-    page: "product-ultrapro-deckbox-black-80.html",
-  },
-  {
-    name: "Ultra Pro トップローダーホルダー プレミアム(オールクリア) 25枚入り",
-    excerpt: "硬質素材でカード1枚ずつを保護する、透明なトップローダー。standard規格の3×4インチサイズに対応し、コレクシ…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B00095M5C2.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00095M5C2?tag=hide0122-22",
-    page: "product-ultrapro-premium-toploader-25.html",
-  },
-  {
-    name: "KMC(ケイエムシー) カードボックス1000",
-    excerpt: "約1000枚のカードをまとめて収納できる、大容量タイプの収納ボックス。コレクション全体を保管する用途に向いている。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B0007N7P8K.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0007N7P8K?tag=hide0122-22",
-    page: "product-kmc-cardbox-1000.html",
-  },
-  {
-    name: "エポック社 1000ピース ジグソーパズル ディズニー Frozen 2 Collection",
-    excerpt: "アナと雪の女王2のキャラクターが描かれた1000ピースのジグソーパズル。完成後に飾れるパズルデコレーション仕様。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B07Y26SY4L.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07Y26SY4L?tag=hide0122-22",
-    page: "product-epoch-jigsaw-1000-frozen2.html",
   },
   {
     name: "ボーネルンド マグ・フォーマー(MAGFORMERS) ベーシックセット [62ピース]",
@@ -15359,13 +14771,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51Dq16Yw4OL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01CHNRLUY?tag=hide0122-22",
     page: "product-bos-poopbag-s-90.html",
-  },
-  {
-    name: "エリエール Pet キミおもい パワフル消臭シート ワイド 54枚",
-    excerpt: "極小ポリマーでアンモニア臭に配慮したワイドサイズのペットシーツ。瞬間吸収設計。",
-    img: "https://m.media-amazon.com/images/I/71Tr-lS-abL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CGXCP3C6?tag=hide0122-22",
-    page: "product-elleair-pet-sheet-wide-54.html",
   },
   {
     name: "消臭力 [まとめ買い] ペット用 置き型 フルーティーガーデン 400mL×6個",
@@ -16075,13 +15480,6 @@ const RANKING_POOL = [
     page: "product-yupiteru-a1200a-radar-detector.html",
   },
   {
-    name: "MJXD バックモニター ワイヤレス バックカメラモニターセット",
-    excerpt: "ケーブル配線が不要なワイヤレスタイプのバックカメラモニターセット。",
-    img: "https://m.media-amazon.com/images/I/71ETHqHJdNL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DJZ1D2Q7?tag=hide0122-22",
-    page: "product-mjxd-wireless-backup-camera-monitor.html",
-  },
-  {
     name: "Pioneer パワーアンプ GM-D2400",
     excerpt: "小型・省電力設計ながら100W×4chを実現するクラスDパワーアンプ。",
     img: "https://m.media-amazon.com/images/I/51Dm7b6QnGL._AC_SX300_.jpg",
@@ -16152,25 +15550,11 @@ const RANKING_POOL = [
     page: "product-carmate-black-resin-restorer-c136z.html",
   },
   {
-    name: "KURE サビ取りストロング 250g",
-    excerpt: "鉄・銅・真鍮などのサビや、アルミ・ステンレス・陶器・樹脂に付着したもらいサビを除去するジェルタイプのサビ取り剤。",
-    img: "https://m.media-amazon.com/images/I/71BuhvKal1L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CJ4P1P7L?tag=hide0122-22",
-    page: "product-kure-rust-remover-strong-1436.html",
-  },
-  {
     name: "KURE オイルシステム 多走行車用エンジンオイル添加剤 180ml",
     excerpt: "5年経過もしくは5万km以上走行した四輪ガソリン車を主な対象とするエンジンオイル添加剤。",
     img: "https://m.media-amazon.com/images/I/61HfKU1WImL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00HI7SZKU?tag=hide0122-22",
     page: "product-kure-oil-system-additive-2121.html",
-  },
-  {
-    name: "GUM(ガム) お口/のど 殺菌スプレー ハーブミントタイプ 15mL",
-    excerpt: "サンスター(GUM)の指定医薬部外品の携帯用スプレー。口腔内の殺菌・消毒や口臭の除去を目的とし、吐き出し不要で使えます。",
-    img: "https://m.media-amazon.com/images/I/71j1mIPupkL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B06VY8Q6QZ?tag=hide0122-22",
-    page: "product-gum-mouth-throat-spray.html",
   },
   {
     name: "TWINBIRD 衣類スチーマー ハンディアイロン スチームアイロン アイボリー SA-4097VO",
@@ -16348,13 +15732,6 @@ const RANKING_POOL = [
     page: "product-irisohyama-circulator-humidifier-hck5519.html",
   },
   {
-    name: "東洋アルミ 網戸用フィルター ホワイト 約200×96cm アレルブロックフィルター 5405",
-    excerpt: "抗アレル物質加工ポリエステル繊維の網戸用フィルター。面ファスナーで簡単に着脱でき、花粉などのアレル物質のキャッチに役立つ。",
-    img: "https://m.media-amazon.com/images/I/718oZ7kmRSL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07BBTWQ57?tag=hide0122-22",
-    page: "product-toyoaluminum-window-screen-filter-5405.html",
-  },
-  {
     name: "日本特殊塗料 防音一番オトナシート(5枚入り)",
     excerpt: "裏紙をはがして貼るだけの制振シート。エアコン室外機や電気洗濯機などの金属薄板構造物の振動音を抑える。",
     img: "https://m.media-amazon.com/images/I/81JXtcEpGAL._AC_SX300_.jpg",
@@ -16444,13 +15821,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61aYje5FT9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00A7MNYL8?tag=hide0122-22",
     page: "product-taketora-happy-mini-walker.html",
-  },
-  {
-    name: "楽々健 折り畳み式歩行器 固定型",
-    excerpt: "アルミ製の折りたたみ式固定型歩行器。高さ5段階(77.5〜87.5cm)、重量約4.33kg、前後キャスター付き。",
-    img: "https://m.media-amazon.com/images/I/51b9c8nwdSL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07BQMP5YZ?tag=hide0122-22",
-    page: "product-rakurakuken-folding-walker-fixed.html",
   },
   {
     name: "楽々健 アルミ四点杖 ラクステッキ 4",
@@ -16549,13 +15919,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51WB1VAMy-L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B089QVKS3K?tag=hide0122-22",
     page: "product-irisohyama-step-inbath-chair-ys-200.html",
-  },
-  {
-    name: "ハウス食品 やさしくラクケア とろとろ煮込み 8種類",
-    excerpt: "なめらかなペースト状のレトルト介護食。すき焼き風・ビーフカレー風など8種類×各1食(計8個)。",
-    img: "https://m.media-amazon.com/images/I/71W+Gkq3M8L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B09L648KSR?tag=hide0122-22",
-    page: "product-house-yasashiku-rakucare-torotoro-nikomi-8.html",
   },
   {
     name: "ハウス食品 やさしくラクケア やわらか食デザート 20食",
@@ -16845,13 +16208,6 @@ const RANKING_POOL = [
     page: "product-sanko-hamster-pipeset-loop.html",
   },
   {
-    name: "みどり商会 ピタリ適温プラス 2号",
-    excerpt: "小動物・爬虫類向けの屋内用パネルヒーター。自己温度制御機能で環境温度の変化に応じて発熱量を自動調整し、ケージ内を一定の暖かさに保ちます。",
-    img: "https://m.media-amazon.com/images/I/A1BI-369++L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B004IH1VRC?tag=hide0122-22",
-    page: "product-midori-pitari-tekion-plus-2.html",
-  },
-  {
     name: "アカナ（ACANA）パシフィカドッグレシピ 11.4kg【国内正規品】",
     excerpt: "太平洋サーモンやニシン、カレイなど魚のみの動物原材料を使った穀物不使用のドッグフード。高タンパク設計で、大容量の11.4kgサイズです。",
     img: "https://m.media-amazon.com/images/I/71O8y8NMSAL._AC_SX300_.jpg",
@@ -16887,25 +16243,11 @@ const RANKING_POOL = [
     page: "product-mogumogutime-tosaka-treat-75g.html",
   },
   {
-    name: "Orijen（オリジン）キャットフード キャット&amp;キトゥン 340g【国内正規品】",
-    excerpt: "放し飼いチキンや七面鳥、新鮮な魚などを高い割合で配合した全年齢対応のプレミアムキャットフード。動物性タンパク質を重視した設計です。",
-    img: "https://m.media-amazon.com/images/I/811YCB1VibL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01I3J63J6?tag=hide0122-22",
-    page: "product-orijen-cat-kitten-340g.html",
-  },
-  {
     name: "Purina Friskies ウェットキャットフード バラエティパック 40缶",
     excerpt: "複数のレシピを詰め合わせたウェットキャットフードの大容量缶詰セット。とろみのあるグレービーやソースで、多頭飼いの毎日の食事に使いやすい構成です。",
     img: "https://m.media-amazon.com/images/I/91SPhFTd0xL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0777J8V5J?tag=hide0122-22",
     page: "product-friskies-wetcat-variety-40cans.html",
-  },
-  {
-    name: "スマック またたび（純末）2.5g",
-    excerpt: "有効成分を多く含むとされる虫えい果の純末を100%使用したまたたび粉末。爪とぎのしつけや遊びのきっかけ作りに使える定番アイテムです。",
-    img: "https://m.media-amazon.com/images/I/81ttdi0iEfS._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000FQRW32?tag=hide0122-22",
-    page: "product-smack-matatabi-junmatsu-2-5g.html",
   },
   {
     name: "CIAO（チャオ）ちゅ~る 下部尿路配慮 とりささみ 4本",
@@ -16992,13 +16334,6 @@ const RANKING_POOL = [
     page: "product-muka-kukan-deodorizer-630g.html",
   },
   {
-    name: "ライオンケミカル ペットのいる部屋の消臭ビーズ 無香料 320g",
-    excerpt: "植物系消臭成分を浸透させたクリスタルビーズタイプの消臭剤。無香料タイプで、玄関やリビングなどペットのニオイが気になる場所に使えます。",
-    img: "https://m.media-amazon.com/images/I/61705ISTFcL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07ZVB3NZP?tag=hide0122-22",
-    page: "product-lionchemical-petroom-deodorant-beads-320g.html",
-  },
-  {
     name: "Teamoy 犬マナーベルト 3枚セット オス メッシュ裏地 吸収層付き 防水加工生地",
     excerpt: "メッシュ裏地と吸収層、防水加工生地を組み合わせたオス犬用マナーベルトの3枚セット。洗い替えしながら衛生的に使い続けられます。",
     img: "https://m.media-amazon.com/images/I/61xR84T6MCL._AC_SX300_.jpg",
@@ -17048,13 +16383,6 @@ const RANKING_POOL = [
     page: "product-iwaya-dakko-mimi-tabby.html",
   },
   {
-    name: "マテル ジュラシックワールド(JURASSIC WORLD) ダメージ! ひかる ピロラプトル",
-    excerpt: "ボタンを押すとダメージが3段階で光って吠える、全長約18.5cmの恐竜アクションフィギュア。無料アプリと連動。",
-    img: "https://m.media-amazon.com/images/I/71EU1ftjQAL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CNYBXG9W?tag=hide0122-22",
-    page: "product-mattel-jurassicworld-pyroraptor.html",
-  },
-  {
     name: "カミオジャパン ポケモン メモ パタパタメモ みんな仲良し",
     excerpt: "パタパタと開閉するフリップ式カバー付きの、ポケモンデザインのメモ帳。6柄の中紙を収録。",
     img: "https://m.media-amazon.com/images/I/51utXdNPC6L._AC_SX300_.jpg",
@@ -17067,13 +16395,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61zrz880-4L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FC67QNQJ?tag=hide0122-22",
     page: "product-kamio-snoopy-seal-binder.html",
-  },
-  {
-    name: "Canバッチgood! キラキラいっぱいDXセット",
-    excerpt: "ハンドルを回すだけで直径約3cmの缶バッジが作れる、バンダイのメイキングトイ。",
-    img: "https://m.media-amazon.com/images/I/71caCd2AOwL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01F8KR4QE?tag=hide0122-22",
-    page: "product-bandai-canbatch-good-kirakira-dx.html",
   },
   {
     name: "アーテック(Artec) 木製ダイヤル式 金庫型 貯金箱 クラフトキット",
@@ -17622,13 +16943,6 @@ const RANKING_POOL = [
     page: "product-panasonic-viera-tv-50a90b.html",
   },
   {
-    name: "Xiaomi Smart Band 9",
-    excerpt: "本体重量約15.8gの軽量スマートバンド。最大21日間のバッテリー持続と150種類以上のスポーツモード。",
-    img: "https://m.media-amazon.com/images/I/51K8rY56sfL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0D8WQ94W5?tag=hide0122-22",
-    page: "product-xiaomi-smart-band-9.html",
-  },
-  {
     name: "GARMIN vívosmart 5 バンド型スマートウォッチ",
     excerpt: "コネクテッドGPS対応の活動量計。Body Battery・ストレス値・睡眠スコアを記録する日本正規品。",
     img: "https://m.media-amazon.com/images/I/51dOnzc367L._AC_SX300_.jpg",
@@ -17755,13 +17069,6 @@ const RANKING_POOL = [
     page: "product-bluelet-okudake-premium-perfume-fleur-savon-70x4.html",
   },
   {
-    name: "小林製薬 ブルーレットドボン ドボン2倍 トイレタンク洗浄剤 ハーブ120g",
-    excerpt: "トイレのタンクに直接入れる粉末タイプの洗浄剤。流すたびにイオンパワーで汚れを落とし、掃除の負担を減らすとされる製品で、2倍タイプはハーブの香り・120g入りです。",
-    img: "https://m.media-amazon.com/images/I/81NzmvifXML._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CD3RFNTV?tag=hide0122-22",
-    page: "product-bluelet-dobon-2bai-tank-herb-120.html",
-  },
-  {
     name: "消臭力 プレミアムアロマ トイレ用 置き型 ベルベットムスク 400mL×3個",
     excerpt: "トイレに置くタイプの消臭・芳香剤。パフューマー厳選のフレグランスオイル配合とされる香水調のベルベットムスクの香りで、ナノパウダー配合の消臭剤が空間の悪臭を吸着するとされる、400mL×3個のまとめ買いセットです。",
     img: "https://m.media-amazon.com/images/I/71tDFlJ2csL._AC_SX300_.jpg",
@@ -17802,13 +17109,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61OgVEQFOlL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CGTLF1ZG?tag=hide0122-22",
     page: "product-cowbrand-mutenka-awa-bodysoap-refill-450.html",
-  },
-  {
-    name: "【医薬部外品】ビオレu 泡ハンドソープ つめかえ用 770ml",
-    excerpt: "1プッシュで洗いやすい泡が出る医薬部外品の泡ハンドソープ。殺菌成分（イソプロピルメチルフェノール）を配合し、マイルドシトラスの香り、素肌と同じ弱酸性のつめかえ用770mlです。",
-    img: "https://m.media-amazon.com/images/I/71ZUe+eVIdL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BY2NZFJR?tag=hide0122-22",
-    page: "product-kao-biore-u-foam-handsoap-refill-770.html",
   },
   {
     name: "マーナ (marna) ボディスポンジ 背中も洗えるシャボンボール やわらかめ ミックスブルー B873B",
@@ -17923,13 +17223,6 @@ const RANKING_POOL = [
     page: "product-laundrin-classic-floral-softener-refill-1440.html",
   },
   {
-    name: "トップ ナノックス(NANOX) トップ エリそで用 本体 250g",
-    excerpt: "洗濯前に衣類の襟や袖などに塗って使う、部分洗い用の前処理剤。皮脂汚れを分解する酵素を配合し、蛍光剤は無配合。ムラなく塗れる「ぬりぬりスポンジヘッド」付き容器の250g本体です。",
-    img: "https://m.media-amazon.com/images/I/617G8+WdDTL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0012P1WQS?tag=hide0122-22",
-    page: "product-top-nanox-erisode-spot-cleaner-250.html",
-  },
-  {
     name: "フランドリー (FLaundry) 洗濯ハンガー 干し分け角ハンガー 52ピンチ 大容量 ホワイト&グレー ダイヤ Daiya 058111",
     excerpt: "3種類のピンチ（洗濯ばさみ）で衣類に合わせて干し分けられる角ハンガー。52ピンチの大容量で、傾き・回転を抑えるフックや竿に固定するストッパー付き、ホワイト&グレーの北欧風デザインです。",
     img: "https://m.media-amazon.com/images/I/51np6va3WVL._AC_SX300_.jpg",
@@ -17963,13 +17256,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71SOcubwE+L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0016VCJLU?tag=hide0122-22",
     page: "product-vessel-famidora8-screwdriver-set-td800.html",
-  },
-  {
-    name: "アイリスオーヤマ 充電式 電動ドライバー 10.8V バッテリー・充電器付 軽量&スピード調節機能 DIY初心者でも使いやすい JCD28 【10.8V共通バッテリーシリーズ】",
-    excerpt: "10.8Vバッテリーと充電器がセットになった充電式ドリルドライバー。回転2段階切替と13段階のトルク調整、LEDライトを備え、DIYの家具組み立てや穴あけ向け。",
-    img: "https://m.media-amazon.com/images/I/5112gJn3KVL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07N47P66D?tag=hide0122-22",
-    page: "product-irisohyama-cordless-driver-108v-jcd28.html",
   },
   {
     name: "SK11(エスケー11) 充電式LEDワークライト メイン600lm(無段階調光)/トップ150lm 180度開閉+回転 底面マグネット USB-タイプC充電 SLW-600DMFD",
@@ -18322,13 +17608,6 @@ const RANKING_POOL = [
     page: "product-hasbro-connect-four-a5640.html",
   },
   {
-    name: "すごろくや 犯人は踊る",
-    excerpt: "手札を交換しながら犯人カードを推理する、3〜8人・約10分のブラフ系カードゲーム。8歳以上。",
-    img: "https://m.media-amazon.com/images/I/71qzrK0IivL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B017IBJGIK?tag=hide0122-22",
-    page: "product-sugorokuya-hannin-wa-odoru.html",
-  },
-  {
     name: "GP カタン ジュニア版",
     excerpt: "カタンのルールを簡略化したジュニア版。6歳以上・2〜4人・約30分で遊べるファミリー向けボードゲーム。",
     img: "https://m.media-amazon.com/images/I/81IEOuH8ATL._AC_SX300_.jpg",
@@ -18663,13 +17942,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/81ltfC2gZmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00E0GLOH8?tag=hide0122-22",
     page: "product-mania-pro-shop-sekisei-inko-3l.html",
-  },
-  {
-    name: "SANKO ハムスター用砂浴び砂 バスサンド 1kg",
-    excerpt: "ハムスターの砂浴び用に作られた無香タイプの砂。原材料は砂のみの1kg入りで、ケージ内の砂浴び容器や砂場に使えます。",
-    img: "https://m.media-amazon.com/images/I/61buZzv9SCL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000TE1NXA?tag=hide0122-22",
-    page: "product-sanko-hamster-bathsand-1kg.html",
   },
   {
     name: "ジェックス 柔ごこち 1.2kg 紙よりふわふわ ホワイトパルプマット 天然広葉樹パルプ100% 消臭+抗菌 床材",
@@ -19918,25 +19190,11 @@ const RANKING_POOL = [
     page: "product-holts-bumper-putty-black-mh118.html",
   },
   {
-    name: "Holts(ホルツ) 洗車&補修用品 傷消し&コンパウンドセット R→FINE スクラッチゼロ MH681 全塗装色対応",
-    excerpt: "ホルツの、キズ消しからツヤ出しまでできるコンパウンド30gのセット。全塗装色対応。",
-    img: "https://m.media-amazon.com/images/I/71JBmSOm-+L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07TXSDNQM?tag=hide0122-22",
-    page: "product-holts-scratch-zero-compound-set-mh681.html",
-  },
-  {
     name: "山善 ワインセラー 24本収納 60L コンプレッサー式 5〜20℃ YFWC-60L(B) ブラック",
     excerpt: "コンプレッサー式で5〜20℃の温度調節ができる、24本収納・60Lの家庭用ワインセラー。チャイルドロックとLED庫内灯を備える",
     img: "https://m.media-amazon.com/images/I/61+r9CMz-kL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FYLMBPST?tag=hide0122-22",
     page: "product-yamazen-wine-cellar-24-yfwc-60l.html",
-  },
-  {
-    name: "アイリスオーヤマ ワインセラー 12本収納 33L ペルチェ式 12〜18℃ ミラーガラス スリム PWC-331P-B ブラック",
-    excerpt: "12本収納・33Lのペルチェ式ワインセラー。12〜18℃の温度設定で、幅約25cmのスリムな本体",
-    img: "https://m.media-amazon.com/images/I/51wbj94y0GS._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08PY6K1M2?tag=hide0122-22",
-    page: "product-iris-ohyama-wine-cellar-12-pwc-331p-b.html",
   },
   {
     name: "SAMKYO 冷凍庫 70L 幅35.6cm スリム 自動霜取り 急速冷凍 -27℃ ファン式 前開き ZU70SD ホワイト",
@@ -20105,13 +19363,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71A5zRU7YBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DTHJRW37?tag=hide0122-22",
     page: "product-ohm-led-solar-sensor-wall-light-ls-b400jw-sd2.html",
-  },
-  {
-    name: "アイリスオーヤマ LEDセンサーライト コンセント式 フットライト 明暗センサータイプ CSL-IS ホワイト",
-    excerpt: "コンセントに差し込むだけの明暗センサー付きフットライト。暗いと点灯し、明るいと消灯する、幅5.6cmの小型サイズ",
-    img: "https://m.media-amazon.com/images/I/51k20WlBAyL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DW8D8NS8?tag=hide0122-22",
-    page: "product-iris-ohyama-sensor-light-csl-is.html",
   },
   {
     name: "オーム電機 充電式LEDブックライト 読書灯 クリップライト 本につけるライト NIT-BYL2TDW 06-5219",
@@ -20660,25 +19911,11 @@ const RANKING_POOL = [
     page: "product-panasonic-solota-dishwasher-np-tml1-w.html",
   },
   {
-    name: "TOSHIBA(東芝) 冷蔵庫 幅47.9㎝ 153L GR-W15BZ1(W) 2ドア 自動霜取り 右開きタイプ ひとり暮らし 省スペース 耐熱天板 2025年モデル セミマットホワイト",
-    excerpt: "定格内容積153L（冷蔵室110L・冷凍室43L）の2ドア冷蔵庫。幅47.9cm、自動霜取り、耐熱100℃のテーブルボード付き",
-    img: "https://m.media-amazon.com/images/I/511hdXuBr8L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DNM6Z6JX?tag=hide0122-22",
-    page: "product-toshiba-fridge-153l-gr-w15bz1.html",
-  },
-  {
     name: "アイリスオーヤマ 冷蔵庫 90L 一人暮らし コンパクト 小型 静音 新生活 ブラック IRSD-9B-B",
     excerpt: "定格内容積90L（冷凍室28L・冷蔵室62L）の2ドア冷蔵庫。幅約47.8cm、製氷皿と貯氷ケース付き、天板は耐荷重30kg",
     img: "https://m.media-amazon.com/images/I/51Csds0cTIL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08PY1SHTK?tag=hide0122-22",
     page: "product-iris-ohyama-fridge-90l-irsd-9b-b.html",
-  },
-  {
-    name: "ハイセンス 冷蔵庫 幅47.5cm 87L 右開き HR-B91HW ホワイト 2ドア スリム 小型 コンパクト 一人暮らし",
-    excerpt: "87Lの直冷式2ドア冷蔵庫。幅47.5×高さ86.2cmで、3段ドアポケット・強化ガラス棚・耐熱天板を備える",
-    img: "https://m.media-amazon.com/images/I/51N2JYQcvLL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BZ8HLJ5G?tag=hide0122-22",
-    page: "product-hisense-fridge-87l-hr-b91hw.html",
   },
   {
     name: "アクア(AQUA) 冷蔵庫 小型冷蔵庫 ポータブル冷蔵庫 30L 一人暮らし ミニ冷蔵庫 冷凍庫 -20℃~20℃温度調節 車載家庭両用 コンプレッサー式 静音設計 2WAY電源対応 DC12V/24V/AC100V 2つの収納スペース 買い溜め 冷凍食品保存 キャンプ アウトドア 寝室 オフィス スリム設計 省エネ AQP-M3R グレージュ",
@@ -21381,13 +20618,6 @@ const RANKING_POOL = [
     page: "product-cover-hololive-ocg-startdeck-hajime-white.html",
   },
   {
-    name: "カードファイト!! ヴァンガード ぶっちぎりスタートデッキ 天導ゼロ",
-    excerpt: "天導ゼロのカードを収録したヴァンガードの構築済みスタートデッキ。55枚・ドラゴンエンパイア・ティーン向け。",
-    img: "https://m.media-amazon.com/images/I/81jWAPaac+L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DSKGPMS2?tag=hide0122-22",
-    page: "product-bushiroad-vanguard-bucchigiri-startdeck-zero.html",
-  },
-  {
     name: "バンダイ バトルスピリッツ エントリーデッキ 赫焔ノ風牙【26RSD01】",
     excerpt: "バトルスピリッツの入門向け構築済みデッキ。デッキ40枚・コアシート2枚・ルールカード5枚入り。",
     img: "https://m.media-amazon.com/images/I/81rD7REdx5L._AC_SX300_.jpg",
@@ -21416,13 +20646,6 @@ const RANKING_POOL = [
     page: "product-pokemon-deckcase-mega-charizard-x.html",
   },
   {
-    name: "ジーピー カタン スタンダード版 2026年版",
-    excerpt: "資源を集めて島を開拓する戦略ボードゲームの基本セット。3〜4人・8歳以上・60分以上。デザイン刷新の2026年版。",
-    img: "https://m.media-amazon.com/images/I/81xuRjMI7AL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GNLZX2DJ?tag=hide0122-22",
-    page: "product-gp-catan-standard-2026.html",
-  },
-  {
     name: "アークライト ジャスト・ワン(3-7人用 20分 8才以上)",
     excerpt: "全員で協力してヒミツの言葉を当てる協力型のパーティーゲーム。3〜7人・約20分・8歳以上。",
     img: "https://m.media-amazon.com/images/I/61fvQhgAKbL._AC_SX300_.jpg",
@@ -21442,13 +20665,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61aZNq7INGL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B073CM2RVL?tag=hide0122-22",
     page: "product-oinkgames-nine-tiles.html",
-  },
-  {
-    name: "ハズブロ モノポリー クラシックゲーム 収納トレイ付 G0009",
-    excerpt: "土地や駅を売買して資産を築く定番ボードゲームのリニューアル版。2〜6人・8歳以上・収納トレイ付き。",
-    img: "https://m.media-amazon.com/images/I/81t4Vu31ctL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0FWJCXSFM?tag=hide0122-22",
-    page: "product-hasbro-monopoly-classic-g0009.html",
   },
   {
     name: "ホビージャパン ディクシット(2021年新版)日本語版",
@@ -21561,13 +20777,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61NnrC-2N0L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DPMJT9G6?tag=hide0122-22",
     page: "product-takaratomyarts-disney-nuipan-mickey-sitting-s.html",
-  },
-  {
-    name: "タカラトミー ブルーイ ぬいぐるみ(S) テディブルーイ",
-    excerpt: "アニメ「ブルーイ」のニット素材ぬいぐるみ。高さ約20cm・3歳以上・電池不要。",
-    img: "https://m.media-amazon.com/images/I/6120AZF7UZL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0H2XNJZGX?tag=hide0122-22",
-    page: "product-takaratomy-bluey-plush-s-teddy-bluey.html",
   },
   {
     name: "セキグチ NETFLIX ONE PIECE Season2 チョッパーぬいぐるみ 656103",
