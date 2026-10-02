@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Synology DS223j 2ベイNASキットの特徴・選び方｜GEARNOTE</title>
+<meta name="description" content="Synology DS223j（2ベイNASキット・HDD別売）の特徴を整理。プライベートクラウドの仕組みや、初めてのNAS選びで確認したいポイントをまとめました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="Synology DS223j 2ベイNASキットの特徴・選び方｜GEARNOTE">
+<meta property="og:description" content="Synology DS223j（2ベイNASキット・HDD別売）の特徴を整理。プライベートクラウドの仕組みや、初めてのNAS選びで確認したいポイントをまとめました。">
+<meta property="og:url" content="https://gearnote.net/product-synology-ds223j-nas-2bay">
+<link rel="canonical" href="https://gearnote.net/product-synology-ds223j-nas-2bay">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://m.media-amazon.com/images/I/51ZeLSrQ8dL._AC_SL1500_.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Synology DS223j 2ベイNASキットの特徴・選び方｜GEARNOTE">
+<meta name="twitter:description" content="Synology DS223j（2ベイNASキット・HDD別売）の特徴を整理。プライベートクラウドの仕組みや、初めてのNAS選びで確認したいポイントをまとめました。">
+<meta name="twitter:image" content="https://m.media-amazon.com/images/I/51ZeLSrQ8dL._AC_SL1500_.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://gearnote.net/"}, {"@type": "ListItem", "position": 2, "name": "本・文房具", "item": "https://gearnote.net/category-books"}, {"@type": "ListItem", "position": 3, "name": "Synology DS223j 2ベイNASキット"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"HDDは付属していますか？","acceptedAnswer":{"@type":"Answer","text":"付属しません。ドライブベイは2台分用意されていますが、HDDは別途、NAS用に設計された製品を購入する必要があります。"}},{"@type":"Question","name":"外出先からもアクセスできますか？","acceptedAnswer":{"@type":"Answer","text":"QuickConnect機能を使うことで、複雑なポート開放の設定をせずに、インターネット経由で外出先からアクセスできるとされています。"}},{"@type":"Question","name":"どのくらいの人数・用途を想定した製品ですか？","acceptedAnswer":{"@type":"Answer","text":"家庭やごく少人数での使用を想定した初心者向けモデルとされています。写真・動画のバックアップや、家族間でのファイル共有が主な用途です。"}},{"@type":"Question","name":"RAID 1を組むと、実効容量はどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"RAID 1（ミラーリング）は同じデータを2台のHDDに書き込むため、実効容量はHDD1台分になります。容量を優先する場合はBasicやJBOD構成を検討します。"}},{"@type":"Question","name":"設定が難しそうですが、初心者でも使えますか？","acceptedAnswer":{"@type":"Answer","text":"初心者向けの2ベイNASとして案内されており、セットアップガイドに沿って進める設計です。ただし、ネットワークやRAIDの基本的な考え方は、事前に把握しておくとスムーズです。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="category-books.html">本・文房具</a> ／ Synology DS223j 2ベイNASキット</p>
+</div>
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="pd-grid">
+      <div class="pd-image">
+        <img src="https://m.media-amazon.com/images/I/51ZeLSrQ8dL._AC_SL1500_.jpg" alt="Synology DS223j 2ベイNASキット">
+      </div>
+      <div class="pd-info">
+        <span class="pd-cat">本・文房具</span>
+        <h1>Synology DS223j 2ベイNASキット DiskStation（HDD別売・国内正規代理店品）</h1>
+        <p class="pd-desc">写真・動画・書類などを一元管理できる、初めてのNAS向け2ベイモデル。クアッドコアCPUとDDR4 1GBメモリを搭載し、専用OS「DSM」でファイル共有やバックアップ、外出先からのアクセスに対応する。ドライブベイは2台で、HDDは付属しないため別途用意する必要がある。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a></p>
+        <div class="pd-cta">
+          <a href="https://www.amazon.co.jp/dp/B0C8814GKB?tag=hide0122-22" class="btn btn-amazon" target="_blank" rel="nofollow sponsored noopener">Amazonで最新価格を見る</a>
+          <a href="category-books.html" class="btn btn-ghost">他の本・文房具も見る</a>
+          <a href="category-books.html" class="btn btn-ghost back-link">&larr; 戻る</a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>商品情報・仕様</h2>
+        <div class="spec-table-wrap">
+          <table class="spec-table">
+            <tbody>
+              <tr><th>ブランド</th><td>Synology</td></tr>
+              <tr><th>型番</th><td>DS223j</td></tr>
+              <tr><th>ドライブベイ数</th><td>2台（HDD付属なし・別売）</td></tr>
+              <tr><th>CPU</th><td>Realtek RTD1619B（64bit クアッドコア 1.7GHz）</td></tr>
+              <tr><th>メモリ</th><td>DDR4 1GB</td></tr>
+              <tr><th>RAIDタイプ</th><td>SHR（Synology Hybrid RAID）、Basic、JBOD、RAID 0、RAID 1</td></tr>
+              <tr><th>インターフェース</th><td>1GbE LANポート×1、USB3.2 Gen1ポート×2</td></tr>
+              <tr><th>対応プロトコル</th><td>SMB、AFP、NFS、FTP、WebDAV、iSCSI、SSH ほか</td></tr>
+              <tr><th>本体サイズ</th><td>165×100×225.5mm（高さ×幅×奥行）</td></tr>
+              <tr><th>ノイズレベル</th><td>18.2dB(A)</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="pd-source-note">※仕様はAmazon商品ページの技術仕様欄をもとに記載しています。最新情報は必ずAmazon商品ページでご確認ください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>結論：こんな人に向いている</h2>
+        <div class="pd-verdict">
+          Synology DS223jは<strong>「スマホやパソコンの写真・動画・書類を一元管理し、自分専用のクラウドとして家族と共有したい」</strong>初めてのNAS購入者に向いたモデルです。2ベイ構成でRAID 1などのミラーリングを組めば、片方のHDDが故障してももう片方にデータを残せる仕組みを作れます。HDDは別売のため、容量に合わせて別途用意する必要があります。
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>選び方のポイント</h2>
+        <h3>NASとは何か、外付けHDDとの違い</h3>
+        <p>NAS（ネットワーク接続ストレージ）は、LANやインターネット経由で複数のパソコン・スマホからアクセスできるストレージ機器です。USBでパソコン1台にしかつなげない外付けHDDと異なり、家じゅうの機器から同時にアクセスでき、外出先からもアプリ経由でファイルを確認できます。一方で、初期設定にはネットワークの知識がある程度必要で、外付けHDDよりも導入のハードルは高めです。</p>
+        <h3>ドライブベイ数とRAID構成</h3>
+        <p>本商品は2ベイ構成で、RAID 1（ミラーリング）を組むと、2台のHDDに同じデータを書き込み、片方が故障してももう片方からデータを取り出せます。ただし実効容量は2台分の合計ではなく1台分になります。容量を優先するならBasicやJBOD、安全性を優先するならRAID 1やSHRを検討します。</p>
+        <h3>CPU・メモリと用途の目安</h3>
+        <p>仕様表ではクアッドコアCPU（1.7GHz）とDDR4 1GBメモリと記載されています。ファイルのバックアップや共有が中心の軽い用途向けの構成とされ、複数人が同時に動画を編集するような負荷の高い用途には、より上位のメモリ搭載モデルが必要になる場合があります。</p>
+        <h3>HDDは別売という前提</h3>
+        <p>本商品にはHDDが付属しません。NAS向けに設計された「NAS用HDD」（24時間稼働を想定した製品）を、容量とベイ数に合わせて別途購入する必要があります。購入時は本体価格だけでなく、HDD代も含めた総額で比較することが重要です。</p>
+        <h3>対応プロトコルとアクセス方法</h3>
+        <p>SMB、AFP、NFS、FTP、WebDAVなど幅広いプロトコルに対応するとされ、Windows・Mac・Linuxいずれからもアクセスできます。専用アプリ「QuickConnect」を使えば、複雑なポート開放をせずに外出先からアクセスできる仕組みも用意されています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>スペックの読み方</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table">
+            <thead>
+              <tr>
+                <th>項目</th>
+                <th>この商品の記載</th>
+                <th>見方・目安</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th>ドライブベイ数</th>
+                <td class="this-product">2台（HDD別売）</td>
+                <td>RAID 1を組む場合、実効容量はHDD1台分になります。</td>
+              </tr>
+              <tr>
+                <th>CPU</th>
+                <td class="this-product">クアッドコア 1.7GHz</td>
+                <td>ファイル共有・バックアップ中心の軽い用途向けの目安です。</td>
+              </tr>
+              <tr>
+                <th>メモリ</th>
+                <td class="this-product">DDR4 1GB</td>
+                <td>上位モデルはメモリを増設・搭載でき、より負荷の高い用途に対応します。</td>
+              </tr>
+              <tr>
+                <th>LANポート</th>
+                <td class="this-product">1GbE×1</td>
+                <td>家庭内ネットワークでの転送速度の上限に関わります。</td>
+              </tr>
+              <tr>
+                <th>対応RAID</th>
+                <td class="this-product">SHR、Basic、JBOD、RAID 0/1</td>
+                <td>データ保護を重視するならRAID 1・SHRを検討します。</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="pd-source-note">※「この商品の記載」は本ページの仕様表・商品説明に基づきます。「見方・目安」は当該タイプの商品に共通する一般的な考え方です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>こんな人におすすめ・おすすめしない</h2>
+        <div class="reco-grid">
+          <div class="reco-box yes">
+            <h3>✅ おすすめな人</h3>
+            <ul>
+              <li>スマホ・パソコンの写真や動画を一元管理し、バックアップしたい人</li>
+              <li>家族や離れた場所に住む親族と、データを共有したい人</li>
+              <li>初めてNASを導入する、わかりやすい管理画面を求める人</li>
+              <li>RAID 1でデータの冗長化をしたい人</li>
+            </ul>
+          </div>
+          <div class="reco-box no">
+            <h3>❌ おすすめしない人</h3>
+            <ul>
+              <li>4K動画編集など、高い処理性能を必要とする人（上位モデルが必要）</li>
+              <li>NAS用HDDの追加購入コストをかけたくない人</li>
+              <li>ネットワーク設定を一切したくない、すぐ使いたい人</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>メリット・デメリット</h2>
+        <div class="pros-cons">
+          <div class="pc-box good">
+            <h3>👍 メリット</h3>
+            <ul>
+              <li>複数のパソコン・スマホから同時にアクセスできるプライベートクラウドを構築できる</li>
+              <li>RAID 1・SHRでデータの冗長化ができる（仕様表）</li>
+              <li>SMB・AFP・NFSなど幅広いプロトコルに対応（仕様表）</li>
+              <li>QuickConnect機能で外出先からのアクセスも設定しやすい</li>
+            </ul>
+          </div>
+          <div class="pc-box bad">
+            <h3>👎 デメリット</h3>
+            <ul>
+              <li>HDDが別売で、別途購入コストがかかる</li>
+              <li>初期設定にはある程度のネットワーク知識が必要</li>
+              <li>CPU・メモリは軽い用途向けで、負荷の高い処理には不向き</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>使い方・お手入れ・注意点</h2>
+        <ul>
+          <li><strong>NAS用HDDを用意する</strong>：24時間稼働を想定して設計されたNAS向けHDDを、容量・ベイ数に合わせて選びます。</li>
+          <li><strong>初期設定はガイドに沿って行う</strong>：Synologyのセットアップ画面の案内に従い、DSM（管理用OS）のインストールとユーザー登録を行います。</li>
+          <li><strong>RAID構成は用途に応じて選ぶ</strong>：容量重視ならBasic・JBOD、データ保護重視ならRAID 1・SHRを選びます。構成は後から変更しづらいため、最初に決めておきます。</li>
+          <li><strong>設置場所は風通しのよい場所にする</strong>：24時間稼働する機器のため、熱がこもらない場所に設置し、通気口をふさがないようにします。</li>
+          <li><strong>定期的にファームウェアを更新する</strong>：セキュリティ面でも、DSMのアップデートは定期的に確認することが推奨されます。</li>
+          <li><strong>重要データは複数の手段でバックアップする</strong>：NAS自体も故障するリスクはあるため、特に重要なデータはクラウドサービスなど別の手段にも保存しておくと安心です。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>こんな組み合わせ・代替案</h2>
+        <h3>他ブランドのNASと比較するなら</h3>
+        <p>より高性能なCPU・メモリを求める場合は、<a href="product-ugreen-nasync-dh2300-nas.html">UGREEN NASync DH2300 2ベイNAS</a>も比較の対象になります。用途や予算に応じて選びます。</p>
+        <h3>単体の外付けストレージで足りるなら</h3>
+        <p>複数端末からの同時アクセスが不要で、1台のパソコンでのバックアップ用途が中心なら、<a href="product-seagate-onetouch-hdd-2tb.html">Seagate One Touch ポータブルHDD</a>や<a href="product-wd-my-passport-ssd-1tb.html">WD My Passport SSD</a>のような外付けストレージの方がシンプルに導入できます。</p>
+        <h3>ネットワーク環境を整えるなら</h3>
+        <p>NASの転送速度を活かすには、有線LAN環境の整備も重要です。ルーターやLANケーブルの規格もあわせて確認しておくと安心です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>HDDは付属していますか？</h3>
+            <p>付属しません。ドライブベイは2台分用意されていますが、HDDは別途、NAS用に設計された製品を購入する必要があります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>外出先からもアクセスできますか？</h3>
+            <p>QuickConnect機能を使うことで、複雑なポート開放の設定をせずに、インターネット経由で外出先からアクセスできるとされています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>どのくらいの人数・用途を想定した製品ですか？</h3>
+            <p>家庭やごく少人数での使用を想定した初心者向けモデルとされています。写真・動画のバックアップや、家族間でのファイル共有が主な用途です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>RAID 1を組むと、実効容量はどうなりますか？</h3>
+            <p>RAID 1（ミラーリング）は同じデータを2台のHDDに書き込むため、実効容量はHDD1台分になります。容量を優先する場合はBasicやJBOD構成を検討します。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>設定が難しそうですが、初心者でも使えますか？</h3>
+            <p>初心者向けの2ベイNASとして案内されており、セットアップガイドに沿って進める設計です。ただし、ネットワークやRAIDの基本的な考え方は、事前に把握しておくとスムーズです。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218170" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218170" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+        <span class="visit-counter"><img src="https://visitor-badge.laobi.icu/badge?page_id=gearnote-stellular-macaron-701072" alt="visits" loading="lazy"></span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

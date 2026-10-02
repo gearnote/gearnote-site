@@ -2,13 +2,38 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GEARNOTE｜毎日をちょっと便利にするガジェットレビュー</title>
-<meta name="description" content="ガジェット・生活家電をプロ目線で本音レビュー。ランキングと購入前に知っておきたいポイントをまとめています。">
-<meta name="robots" content="noindex, nofollow">
+<title>GEARNOTE｜スペックと選び方で比べる商品比較メディア</title>
+<meta name="description" content="ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。">
+<meta name="robots" content="index, follow">
+<meta name="google-site-verification" content="fpKcqWLq5JYqpoIr4S2-rtRmn0IRr_3YuRIcpBlG4Js" />
+<meta name="google-site-verification" content="xUkw_PBbncTaAcsImY0Ng3OIY6WMxj10JgazfR_0r0w" />
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="GEARNOTE｜スペックと選び方で比べる商品比較メディア">
+<meta property="og:description" content="ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。">
+<meta property="og:url" content="https://gearnote.net/">
+<link rel="canonical" href="https://gearnote.net/">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GEARNOTE｜スペックと選び方で比べる商品比較メディア">
+<meta name="twitter:description" content="ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "GEARNOTE", "url": "https://gearnote.net/", "description": "ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。"}</script>
 </head>
 <body>
 
@@ -16,27 +41,29 @@
   <div class="header-hairline"></div>
   <div class="wrap">
     <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
     <nav class="main-nav">
       <a href="index.html" class="active">ホーム</a>
       <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
       <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
       <a href="about.html">このサイトについて</a>
     </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
     <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
   </div>
 </header>
 
 <section class="hero">
   <div class="wrap">
-    <span class="eyebrow">GADGET &amp; LIFESTYLE REVIEW</span>
-    <h1>買う前に、ちゃんと知りたい。<br>本音の<span>ガジェットレビュー</span>。</h1>
-    <p>スペック表だけじゃわからない「実際どうなの？」を、良い点も気になる点も正直に。忙しいあなたの製品選びを助けるレビューサイトです。</p>
-    <div class="hero-actions">
-      <a href="#ranking" class="btn btn-primary">人気ランキングを見る</a>
-      <a href="about.html" class="btn btn-ghost">サイトについて</a>
-    </div>
+    <span class="eyebrow">PRODUCT COMPARISON MEDIA</span>
+    <h1>買う前に比べたい<br>スペックと選び方でわかる<br><span>商品比較メディア</span></h1>
+    <p>ガジェットから生活家電、美容、食品、日用品まで——あなたの製品選びを後押しします。</p>
     <div class="hero-badges">
-      <div class="hero-badge"><span class="num">実機</span>すべて実際に使用して検証</div>
+      <div class="hero-badge"><span class="num">厳選</span>運営が気になった商品を紹介</div>
       <div class="hero-badge-sep"></div>
       <div class="hero-badge"><span class="num">正直</span>メリットも気になる点も掲載</div>
       <div class="hero-badge-sep"></div>
@@ -47,104 +74,50 @@
 
 <div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
 
-<section class="section" id="ranking" data-reveal-group>
-  <div class="wrap">
-    <div class="section-head">
-      <div>
-        <span class="tag">Ranking</span>
-        <h2>今売れている人気アイテム Top 5</h2>
-        <p class="desc">閲覧数・クリック実績をもとに毎週更新している人気ランキングです。</p>
-      </div>
-    </div>
-
-    <div class="ranking-list">
-      <div class="rank-card is-best" data-reveal>
-        <div class="best-ribbon">BEST BUY</div>
-        <div class="rank-num">01</div>
-        <div class="thumb">🎧</div>
-        <div class="rank-body">
-          <div class="stars">★★★★★</div>
-          <h3>ワイヤレスノイズキャンセリングイヤホン</h3>
-          <p>長時間駆動と静音性のバランスが良く、テレワークにも◎。</p>
-        </div>
-        <a href="https://www.amazon.co.jp/dp/XXXXXXXXXX?tag=your-affiliate-id-22" class="btn btn-amazon btn-sm" target="_blank" rel="nofollow sponsored noopener">Amazonで見る</a>
-      </div>
-
-      <div class="rank-card" data-reveal>
-        <div class="rank-num">02</div>
-        <div class="thumb alt3">🤖</div>
-        <div class="rank-body">
-          <div class="stars">★★★★☆</div>
-          <h3>マッピング機能付きロボット掃除機</h3>
-          <p>間取りを記憶して効率よく掃除。水拭き対応モデルが人気。</p>
-        </div>
-        <a href="https://www.amazon.co.jp/dp/XXXXXXXXXX?tag=your-affiliate-id-22" class="btn btn-amazon btn-sm" target="_blank" rel="nofollow sponsored noopener">Amazonで見る</a>
-      </div>
-
-      <div class="rank-card" data-reveal>
-        <div class="rank-num">03</div>
-        <div class="thumb alt4">🪥</div>
-        <div class="rank-body">
-          <div class="stars">★★★★☆</div>
-          <h3>音波式電動歯ブラシ スターターセット</h3>
-          <p>替えブラシが手頃で継続しやすい。旅行用ケース付き。</p>
-        </div>
-        <a href="https://www.amazon.co.jp/dp/XXXXXXXXXX?tag=your-affiliate-id-22" class="btn btn-amazon btn-sm" target="_blank" rel="nofollow sponsored noopener">Amazonで見る</a>
-      </div>
-
-      <div class="rank-card" data-reveal>
-        <div class="rank-num">04</div>
-        <div class="thumb alt2">🔌</div>
-        <div class="rank-body">
-          <div class="stars">★★★★☆</div>
-          <h3>65W GaN 急速充電器（3ポート）</h3>
-          <p>ノートPCとスマホを同時充電できる小型サイズが便利。</p>
-        </div>
-        <a href="https://www.amazon.co.jp/dp/XXXXXXXXXX?tag=your-affiliate-id-22" class="btn btn-amazon btn-sm" target="_blank" rel="nofollow sponsored noopener">Amazonで見る</a>
-      </div>
-
-      <div class="rank-card" data-reveal>
-        <div class="rank-num">05</div>
-        <div class="thumb alt5">💡</div>
-        <div class="rank-body">
-          <div class="stars">★★★★☆</div>
-          <h3>スマート電球（音声操作対応）</h3>
-          <p>既存の照明器具にそのまま設置でき、初期投資が少ない。</p>
-        </div>
-        <a href="https://www.amazon.co.jp/dp/XXXXXXXXXX?tag=your-affiliate-id-22" class="btn btn-amazon btn-sm" target="_blank" rel="nofollow sponsored noopener">Amazonで見る</a>
-      </div>
-    </div>
+<!-- 特集バナー(横3列)。新しい特集を出すときは3枚を入れ替え、残りは特集一覧(features.html)から辿れるようにする。プライム感謝祭は日程発表後に文言更新。 -->
+<div class="wrap">
+  <div class="event-banner-row">
+    <a href="feature-winter-prep-2026.html" class="event-banner-card">
+      <img src="card-winter-prep-2026.png" alt="冬支度特集｜暖房・加湿・寝具からあったか小物まで70商品をGEARNOTEがピックアップ" loading="eager">
+    </a>
+    <a href="feature-prime-appreciation-202610.html" class="event-banner-card">
+      <img src="card-prime-appreciation-202610.png" alt="Coming Soon｜Amazonプライム感謝祭特集（10月16日(金)〜19日(月)開催予定・先行セールは10月13日(火)から）" loading="eager">
+    </a>
+    <a href="feature-bosai-goods-2026.html" class="event-banner-card">
+      <img src="card-bosai-goods-2026.png" alt="防災グッズ特集｜水・食料・トイレ・明かり・電源を用途別に整理" loading="eager">
+    </a>
   </div>
-</section>
+  <p class="event-banner-more">その他の特集：<a href="feature-year-end-cleaning-2026.html">年末大掃除</a>｜<a href="feature-year-end-gift-2026.html">年末年始ギフト</a>｜<a href="feature-furusato-nozei-2026.html">ふるさと納税</a>｜<a href="feature-new-life-2026.html">新生活</a>｜<a href="feature-work-from-home-2026.html">在宅ワーク</a>｜<a href="features.html">特集一覧を見る →</a></p>
+</div>
 
-<section class="section section-alt" data-reveal-group>
+<section class="section section-tight" id="ranking" data-reveal-group>
   <div class="wrap">
     <div class="section-head">
       <div>
-        <span class="tag">Category</span>
-        <h2>カテゴリーから探す</h2>
+        <span class="tag">Pick Up</span>
+        <h2>GEARNOTE運営が選ぶ 今週の注目3選</h2>
+        <p class="desc">GEARNOTE運営が気になった商品の中から、週替わりで3点をピックアップしてご紹介しています。ジャンルの異なる商品を並べているため、優劣を比較するランキングではなく「今週気になる3点」としてご覧ください。</p>
       </div>
     </div>
-    <div class="cat-grid">
-      <div class="cat-card" data-reveal>
-        <div class="icon">🎧</div>
-        <h3>イヤホン・オーディオ</h3>
-        <p>音質・装着感を比較</p>
+
+    <div class="ranking-list" id="ranking-list">
+      <div class="rank-card" data-reveal>
+        <div class="rank-num">1</div>
+        <div class="thumb"><a href="product-hills-science-diet-dog-adult-12kg.html"><img src="https://m.media-amazon.com/images/I/71gxg8nQaaL._AC_SX300_.jpg" alt="ヒルズ サイエンスダイエット ドッグフード" width="300" height="300" loading="lazy"></a></div>
+        <div class="rank-body"><h3><a href="product-hills-science-diet-dog-adult-12kg.html">ヒルズ サイエンスダイエット ドッグフード</a></h3><p>小粒で食べやすい成犬用ドライフード。</p></div>
+        <a href="product-hills-science-diet-dog-adult-12kg.html" class="btn btn-amazon btn-sm">くわしく見る</a>
       </div>
-      <div class="cat-card" data-reveal>
-        <div class="icon">🏠</div>
-        <h3>生活家電</h3>
-        <p>時短・時短家電まとめ</p>
+      <div class="rank-card" data-reveal>
+        <div class="rank-num">2</div>
+        <div class="thumb"><a href="product-unitedathle-56oz-hq-tshirt.html"><img src="https://m.media-amazon.com/images/I/51JX9J3xZJL._AC_SX300_.jpg" alt="ユナイテッドアスレ 5.6OZ Tシャツ" width="300" height="300" loading="lazy"></a></div>
+        <div class="rank-body"><h3><a href="product-unitedathle-56oz-hq-tshirt.html">ユナイテッドアスレ 5.6OZ Tシャツ</a></h3><p>4.1OZより厚手の5.6OZ生地を使った定番Tシャツ。</p></div>
+        <a href="product-unitedathle-56oz-hq-tshirt.html" class="btn btn-amazon btn-sm">くわしく見る</a>
       </div>
-      <div class="cat-card" data-reveal>
-        <div class="icon">📱</div>
-        <h3>スマートホーム</h3>
-        <p>便利ガジェット特集</p>
-      </div>
-      <div class="cat-card" data-reveal>
-        <div class="icon">💆</div>
-        <h3>美容・健康</h3>
-        <p>セルフケア家電</p>
+      <div class="rank-card" data-reveal>
+        <div class="rank-num">3</div>
+        <div class="thumb"><a href="product-lepro-headlamp-300lm-usbc.html"><img src="https://m.media-amazon.com/images/I/61Tti6PJ9eL._AC_SX300_.jpg" alt="Lepro ヘッドライト 充電式" width="300" height="300" loading="lazy"></a></div>
+        <div class="rank-body"><h3><a href="product-lepro-headlamp-300lm-usbc.html">Lepro ヘッドライト 充電式</a></h3><p>スポット・ワイドビーム切替と赤色サブライトを搭載した小型軽量ヘッドライト。</p></div>
+        <a href="product-lepro-headlamp-300lm-usbc.html" class="btn btn-amazon btn-sm">くわしく見る</a>
       </div>
     </div>
   </div>
@@ -152,7 +125,160 @@
 
 <div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
 
-<section class="section" id="brands" data-reveal-group>
+<section class="section section-tight" id="new-arrivals" data-reveal-group>
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">New</span>
+        <h2>新着商品</h2>
+        <p class="desc">最近追加した商品をピックアップしています。</p>
+      </div>
+    </div>
+    <div class="product-grid" id="new-arrivals-list">
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-sony-alpha-a6400.html"><img src="https://m.media-amazon.com/images/I/61vnt2YEmbL._AC_SX425_.jpg" alt="ソニー α6400（ILCE-6400）" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-sony-alpha-a6400.html">ソニー α6400（ILCE-6400）</a></h3><p class="excerpt">レンズ交換式のAPS-Cミラーレス一眼カメラ。高速AFとファインダー撮影が楽しめる本格モデル。</p><div class="product-meta cta-only"><a href="product-sony-alpha-a6400.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-tapo-rv20-max-plus-robot-vacuum.html"><img src="https://m.media-amazon.com/images/I/51Wo5bN21GL._AC_SX425_.jpg" alt="Tapo RV20 Max Plus ロボット掃除機" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-tapo-rv20-max-plus-robot-vacuum.html">Tapo RV20 Max Plus</a></h3><p class="excerpt">LiDARナビゲーション搭載の薄型ロボット掃除機。5300Pa強力吸引・水拭き両用で自動ゴミ収集機付き。</p><div class="product-meta cta-only"><a href="product-tapo-rv20-max-plus-robot-vacuum.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-delonghi-ecp3220j-espresso-maker.html"><img src="https://m.media-amazon.com/images/I/81isvpnG+fL._AC_SX500_.jpg" alt="デロンギ エスプレッソメーカー ECP3220J" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-delonghi-ecp3220j-espresso-maker.html">デロンギ エスプレッソメーカー ECP3220J</a></h3><p class="excerpt">ミルクフロッサー付きの手動式エスプレッソマシン。カプチーノやラテアートも楽しめるコンパクトモデル。</p><div class="product-meta cta-only"><a href="product-delonghi-ecp3220j-espresso-maker.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-skii-genoptics-infinite-aura-essence.html"><img src="https://m.media-amazon.com/images/I/71CNgqSKMEL._AC_SX466_.jpg" alt="SK-II ジェノプティクス インフィニットオーラ エッセンス" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-skii-genoptics-infinite-aura-essence.html">SK-II ジェノプティクス インフィニットオーラ エッセンス</a></h3><p class="excerpt">薬用美白美容液。ナイアシンアミドとピテラ™を配合し、シミ・シワ改善をサポートする医薬部外品。</p><div class="product-meta cta-only"><a href="product-skii-genoptics-infinite-aura-essence.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-amazon-fire-hd-10.html"><img src="https://m.media-amazon.com/images/I/61nwWehfm0L._AC_SX425_.jpg" alt="Amazon Fire HD 10 インチ タブレット" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-amazon-fire-hd-10.html">Amazon Fire HD 10 タブレット</a></h3><p class="excerpt">フルHDディスプレイ搭載の10インチタブレット。動画・電子書籍を大画面でゆったり楽しめる。</p><div class="product-meta cta-only"><a href="product-amazon-fire-hd-10.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-underarmour-hg-armour-comp-mock-ls.html"><img src="https://m.media-amazon.com/images/I/61sbPCjsyaL._AC_SX522_.jpg" alt="UNDER ARMOUR UA HG アーマー コンプレッション モックネック" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-underarmour-hg-armour-comp-mock-ls.html">UNDER ARMOUR UA HG アーマー コンプレッション</a></h3><p class="excerpt">通気性とUPF50のUVカット機能を備えた長袖コンプレッションインナー。モックネックデザイン。</p><div class="product-meta cta-only"><a href="product-underarmour-hg-armour-comp-mock-ls.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-acegene-ragrentice-backpack.html"><img src="https://m.media-amazon.com/images/I/71iUdTqmgiL._AC_SY500_.jpg" alt="エースジーン ラグレンティス リュックサック" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-acegene-ragrentice-backpack.html">エースジーン ラグレンティス ビジネスリュック</a></h3><p class="excerpt">19L→24Lへ容量拡張できる薄型スタイリッシュなビジネスリュック。リフレクター付きでセットアップ機能も。</p><div class="product-meta cta-only"><a href="product-acegene-ragrentice-backpack.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-amazon-basics-smart-led-bulb.html"><img src="https://m.media-amazon.com/images/I/71gGDOq9Q8L._AC_SX342_.jpg" alt="Amazonベーシック スマートLED電球" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-amazon-basics-smart-led-bulb.html">Amazonベーシック スマートLED電球</a></h3><p class="excerpt">Alexa対応・WiFi接続の調光可能スマートLED電球。色温度も音声やアプリで調整できる。</p><div class="product-meta cta-only"><a href="product-amazon-basics-smart-led-bulb.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-adidas-sport-sp0063-sunglasses.html"><img src="https://m.media-amazon.com/images/I/41c5Zmau40L._AC_SX679_.jpg" alt="adidas Sport SP0063 マットブラック スポーツサングラス" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-adidas-sport-sp0063-sunglasses.html">adidas Sport SP0063 サングラス</a></h3><p class="excerpt">スポーツシーン向けに設計されたラップアラウンド型サングラス。専用ケース付き。</p><div class="product-meta cta-only"><a href="product-adidas-sport-sp0063-sunglasses.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-savas-mpc100-cocoa.html"><img src="https://m.media-amazon.com/images/I/71fK1c2MHZL._AC_SX466_.jpg" alt="ザバス カゼイン&ホエイ プロテイン MPC100 ココア味" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-savas-mpc100-cocoa.html">ザバス カゼイン&ホエイ プロテイン MPC100</a></h3><p class="excerpt">カゼインとホエイをブレンド。吸収がゆるやかな就寝前向けプロテイン、ココア味810g。</p><div class="product-meta cta-only"><a href="product-savas-mpc100-cocoa.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
+
+<section class="section section-tight" id="picks" data-reveal-group>
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Pick Up</span>
+        <h2>おすすめ商品</h2>
+        <p class="desc">上記の3選以外にも、GEARNOTE運営が気になっているアイテムをピックアップしています。</p>
+      </div>
+    </div>
+    <div class="product-grid" id="picks-list">
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-brita-water-filter-pot-cartridge-3.html"><img src="https://m.media-amazon.com/images/I/51V0+b1BpOL._AC_SX300_.jpg" alt="ブリタ 浄水器 ポット型 カートリッジ3個付" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-brita-water-filter-pot-cartridge-3.html">ブリタ 浄水器 ポット型 カートリッジ3個付</a></h3><p class="excerpt">PFOS/PFOA除去試験済みのカートリッジでまろやかな味わいの水に。スリムで冷蔵庫にも収まりやすい。</p><div class="product-meta cta-only"><a href="product-brita-water-filter-pot-cartridge-3.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-bousai-no-mikata-emergency-backpack-45.html"><img src="https://m.media-amazon.com/images/I/81QIJyAZyQL._AC_SX300_.jpg" alt="防災のミカタ 防災グッズセット 45点" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-bousai-no-mikata-emergency-backpack-45.html">防災のミカタ 防災グッズセット 45点</a></h3><p class="excerpt">簡易トイレや保存食・保存水など、災害時に必要なものを45点まとめたリュック型防災セット。すぐ持ち出せる形。</p><div class="product-meta cta-only"><a href="product-bousai-no-mikata-emergency-backpack-45.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-oxiclean-ex-3270.html"><img src="https://m.media-amazon.com/images/I/71o+IzDBZbL._AC_SX300_.jpg" alt="オキシクリーン EX 3270g" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-oxiclean-ex-3270.html">オキシクリーン EX 3270g</a></h3><p class="excerpt">つけ置き洗いで頑固な汚れまでしっかり落とせる酸素系漂白剤。洗濯だけでなく掃除にも使える大容量。</p><div class="product-meta cta-only"><a href="product-oxiclean-ex-3270.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-homspark-triangle-corner-drain-net-holder.html"><img src="https://m.media-amazon.com/images/I/71mfhmImbhL._AC_SX300_.jpg" alt="Homspark 三角コーナー いらず 吸盤ホルダー" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-homspark-triangle-corner-drain-net-holder.html">Homspark 三角コーナー いらず 吸盤ホルダー</a></h3><p class="excerpt">強力吸盤でシンクの角にしっかり固定できる三角コーナー。直置きしないのでサビや汚れがつきにくく、水切れも良い。</p><div class="product-meta cta-only"><a href="product-homspark-triangle-corner-drain-net-holder.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-scrubbing-bubbles-flushable-toilet-brush-16.html"><img src="https://m.media-amazon.com/images/I/71AQanXj3mL._AC_SX300_.jpg" alt="スクラビングバブル 流せるトイレブラシ" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-scrubbing-bubbles-flushable-toilet-brush-16.html">スクラビングバブル 流せるトイレブラシ</a></h3><p class="excerpt">使い終わったらそのまま流せる使い捨てタイプ。洗剤付きでフチ裏の汚れまでしっかり落とし、除菌・消臭効果もある。</p><div class="product-meta cta-only"><a href="product-scrubbing-bubbles-flushable-toilet-brush-16.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-quickle-wiper-wet-sheet-strong-48.html"><img src="https://m.media-amazon.com/images/I/81luosLOauL._AC_SX300_.jpg" alt="クイックルワイパー 立体吸着ウエットシート 48枚" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-quickle-wiper-wet-sheet-strong-48.html">クイックルワイパー 立体吸着ウエットシート 48枚</a></h3><p class="excerpt">ほこりや髪の毛、フローリングの油汚れまでしっかり取れる水分たっぷりのウエットシート。48枚入りでコスパも良い。</p><div class="product-meta cta-only"><a href="product-quickle-wiper-wet-sheet-strong-48.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-soflan-aroma-rich-juliet-2000.html"><img src="https://m.media-amazon.com/images/I/61OrBrRMAJL._AC_SX300_.jpg" alt="ソフランアロマリッチ 柔軟剤 2000ml" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-soflan-aroma-rich-juliet-2000.html">ソフランアロマリッチ 柔軟剤 2000ml</a></h3><p class="excerpt">上品な香りが長く続く液体柔軟剤。衣類がふわふわで静電気も防げる。メガジャンボサイズでコスパも良い。</p><div class="product-meta cta-only"><a href="product-soflan-aroma-rich-juliet-2000.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-pipe-unish-pro-cleaner-3.html"><img src="https://m.media-amazon.com/images/I/71ZxHBWfH9L._AC_SX300_.jpg" alt="パイプユニッシュ プロ パイプクリーナー 3本セット" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-pipe-unish-pro-cleaner-3.html">パイプユニッシュ プロ パイプクリーナー 3本セット</a></h3><p class="excerpt">濃縮ゲルが排水管の奥のぬめりや髪の毛を分解。使用後は流れがスムーズに戻り、ニオイも軽減される。</p><div class="product-meta cta-only"><a href="product-pipe-unish-pro-cleaner-3.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-iroka-flair-fragrance-softener-1200.html"><img src="https://m.media-amazon.com/images/I/71GvgDXbTWL._AC_SX300_.jpg" alt="IROKA フレアフレグランス 柔軟剤 1200ml" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-iroka-flair-fragrance-softener-1200.html">IROKA フレアフレグランス 柔軟剤 1200ml</a></h3><p class="excerpt">香水のように上質で透明感のある香りの液体柔軟剤。仕上がりは柔らかく静電気も抑える。</p><div class="product-meta cta-only"><a href="product-iroka-flair-fragrance-softener-1200.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-kiseki-toothbrush-3.html"><img src="https://m.media-amazon.com/images/I/51R44Jzh9aL._AC_SX300_.jpg" alt="奇跡の歯ブラシ 3本セット" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-kiseki-toothbrush-3.html">奇跡の歯ブラシ 3本セット</a></h3><p class="excerpt">薄型ヘッドで奥歯まで届きやすく、歯間の汚れもしっかり落とせる大人用歯ブラシ。個別包装の3本セット。</p><div class="product-meta cta-only"><a href="product-kiseki-toothbrush-3.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-lenor-aroma-jewel-hotel-420.html"><img src="https://m.media-amazon.com/images/I/71QSlAd-9rL._AC_SX300_.jpg" alt="レノア アロマジュエル HOTEL 香り付けビーズ" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-lenor-aroma-jewel-hotel-420.html">レノア アロマジュエル HOTEL 香り付けビーズ</a></h3><p class="excerpt">洗濯物に上品な香りをプラスするビーズ。</p><div class="product-meta cta-only"><a href="product-lenor-aroma-jewel-hotel-420.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+      <div class="product-card" data-reveal>
+        <div class="product-thumb"><a href="product-sansan-sponge-4set.html"><img src="https://m.media-amazon.com/images/I/71Pxx6Uk0VL._AC_SX300_.jpg" alt="サンサンスポンジ 4個セット" loading="lazy"></a></div>
+        <div class="product-body"><h3><a href="product-sansan-sponge-4set.html">サンサンスポンジ 4個セット</a></h3><p class="excerpt">食器洗いからお風呂、レンジ周りまで使える万能スポンジ。</p><div class="product-meta cta-only"><a href="product-sansan-sponge-4set.html" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
+
+<section id="categories" class="section section-alt section-tight" data-reveal-group>
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Category</span>
+        <h2>カテゴリーから探す</h2>
+        <p class="desc">気になるカテゴリーを選ぶと、商品一覧のページに移動します。</p>
+      </div>
+    </div>
+    <div class="cat-tabs" role="tablist">
+      <a href="category-audio.html" class="cat-tab">🎧 イヤホン・オーディオ</a>
+      <a href="category-home.html" class="cat-tab">🏠 生活家電</a>
+      <a href="category-smart.html" class="cat-tab">📱 ガジェット・スマホ・PC</a>
+      <a href="category-beauty.html" class="cat-tab">💆 美容・健康</a>
+      <a href="category-food.html" class="cat-tab">🍙 食べ物</a>
+      <a href="category-drinks.html" class="cat-tab">☕ 飲料</a>
+      <a href="category-daily.html" class="cat-tab">🧴 日用品・消耗品</a>
+      <a href="category-baby.html" class="cat-tab">👶 ベビー・キッズ</a>
+      <a href="category-care.html" class="cat-tab">🧓 介護用品</a>
+      <a href="category-fashion.html" class="cat-tab">👕 ファッション</a>
+      <a href="category-pets.html" class="cat-tab">🐾 ペット用品</a>
+      <a href="category-sports.html" class="cat-tab">⛺ スポーツ・アウトドア</a>
+      <a href="category-books.html" class="cat-tab">📚 本・文房具</a>
+      <a href="category-car.html" class="cat-tab">🚗 車・バイク用品</a>
+      <a href="category-kitchen.html" class="cat-tab">🍳 キッチン用品</a>
+      <a href="category-toys.html" class="cat-tab">🧸 おもちゃ</a>
+      <a href="category-games.html" class="cat-tab">🎮 ゲーム</a>
+    </div>
+  </div>
+</section>
+
+<div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
+
+<section class="section section-tight" id="brands" data-reveal-group>
   <div class="wrap">
     <div class="section-head">
       <div>
@@ -161,70 +287,31 @@
         <p class="desc">気になるメーカーが決まっている方は、ブランド名から製品を探せます。</p>
       </div>
     </div>
-    <div class="brand-genres">
-      <div class="brand-genre" data-reveal>
-        <h3 class="brand-genre-title">イヤホン・オーディオ</h3>
-        <div class="brand-row">
-          <a href="https://www.amazon.co.jp/s?k=Sony&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">S</span><span class="name">Sony</span></a>
-          <a href="https://www.amazon.co.jp/s?k=Bose&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">B</span><span class="name">Bose</span></a>
-          <a href="https://www.amazon.co.jp/s?k=Anker+Soundcore&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">A</span><span class="name">Anker Soundcore</span></a>
-          <a href="https://www.amazon.co.jp/s?k=JBL&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">J</span><span class="name">JBL</span></a>
-        </div>
-      </div>
-
-      <div class="brand-genre" data-reveal>
-        <h3 class="brand-genre-title">生活家電</h3>
-        <div class="brand-row">
-          <a href="https://www.amazon.co.jp/s?k=Panasonic&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">P</span><span class="name">Panasonic</span></a>
-          <a href="https://www.amazon.co.jp/s?k=Dyson&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">D</span><span class="name">Dyson</span></a>
-          <a href="https://www.amazon.co.jp/s?k=SHARP&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">S</span><span class="name">SHARP</span></a>
-          <a href="https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%A4%E3%83%9E&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">I</span><span class="name">アイリスオーヤマ</span></a>
-        </div>
-      </div>
-
-      <div class="brand-genre" data-reveal>
-        <h3 class="brand-genre-title">スマートホーム</h3>
-        <div class="brand-row">
-          <a href="https://www.amazon.co.jp/s?k=Xiaomi&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">X</span><span class="name">Xiaomi</span></a>
-          <a href="https://www.amazon.co.jp/s?k=Amazon+Echo&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">A</span><span class="name">Amazon（Echo）</span></a>
-          <a href="https://www.amazon.co.jp/s?k=Google+Nest&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">G</span><span class="name">Google</span></a>
-          <a href="https://www.amazon.co.jp/s?k=SwitchBot&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">S</span><span class="name">SwitchBot</span></a>
-        </div>
-      </div>
-
-      <div class="brand-genre" data-reveal>
-        <h3 class="brand-genre-title">美容家電</h3>
-        <div class="brand-row">
-          <a href="https://www.amazon.co.jp/s?k=Philips&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">P</span><span class="name">Philips</span></a>
-          <a href="https://www.amazon.co.jp/s?k=%E3%83%A4%E3%83%BC%E3%83%9E%E3%83%B3&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">Y</span><span class="name">YA-MAN</span></a>
-          <a href="https://www.amazon.co.jp/s?k=Braun&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">B</span><span class="name">Braun</span></a>
-          <a href="https://www.amazon.co.jp/s?k=%E3%82%B3%E3%82%A4%E3%82%BA%E3%83%9F&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">K</span><span class="name">コイズミ</span></a>
-        </div>
-      </div>
-
-      <div class="brand-genre" data-reveal>
-        <h3 class="brand-genre-title">コスメ・化粧品</h3>
-        <div class="brand-row">
-          <a href="https://www.amazon.co.jp/s?k=%E8%B3%87%E7%94%9F%E5%A0%82&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">資</span><span class="name">資生堂</span></a>
-          <a href="https://www.amazon.co.jp/s?k=SK-II&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">S</span><span class="name">SK-II</span></a>
-          <a href="https://www.amazon.co.jp/s?k=ORBIS&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">O</span><span class="name">ORBIS</span></a>
-          <a href="https://www.amazon.co.jp/s?k=DHC&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">D</span><span class="name">DHC</span></a>
-          <a href="https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%82%BB&tag=your-affiliate-id-22" class="brand-chip" target="_blank" rel="nofollow sponsored noopener"><span class="mark">K</span><span class="name">KOSE</span></a>
-        </div>
-      </div>
+    <div class="brand-tabs">
+      <a href="brand-sony.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="S"></span><span class="name">Sony</span></a>
+      <a href="brand-jbl.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="J"></span><span class="name">JBL</span></a>
+      <a href="brand-anker.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="A"></span><span class="name">Anker</span></a>
+      <a href="brand-panasonic.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="P"></span><span class="name">Panasonic</span></a>
+      <a href="brand-dyson.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="D"></span><span class="name">Dyson</span></a>
+      <a href="brand-xiaomi.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="X"></span><span class="name">Xiaomi</span></a>
+      <a href="brand-switchbot.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="S"></span><span class="name">SwitchBot</span></a>
+      <a href="brand-braun.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="B"></span><span class="name">Braun</span></a>
+      <a href="brand-shiseido.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="資"></span><span class="name">資生堂</span></a>
+      <a href="brand-acegene.html" class="brand-chip"><span class="mark" aria-hidden="true" data-letter="エ"></span><span class="name">エースジーン</span></a>
     </div>
+    <a href="brands.html" class="see-all-link">すべてのブランドを見る →</a>
   </div>
 </section>
 
 <div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
 
-<section class="section">
+<section class="section section-tight">
   <div class="wrap">
     <div class="cta-banner">
       <div class="cta-banner-inner">
         <h2>気になる製品は見つかりましたか？</h2>
         <p>ジャンル・ブランドからも探せます。気になるカテゴリーをチェックしてみてください。</p>
-        <a href="#brands" class="btn btn-amazon" style="display:inline-flex;width:auto;">ブランドから探す</a>
+        <a href="all-products.html" class="btn btn-amazon" style="display:inline-flex;width:auto;">全商品から探す</a>
       </div>
     </div>
   </div>
@@ -235,32 +322,48 @@
     <div class="footer-grid">
       <div>
         <div class="footer-logo">GEARNOTE</div>
-        <p>ガジェット・生活家電のレビューメディア。実際に使って感じたことを、正直に発信しています。</p>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218170" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218170" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
       </div>
       <div>
         <h4>サイトマップ</h4>
         <ul>
           <li><a href="index.html">ホーム</a></li>
           <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
           <li><a href="index.html#brands">ブランド</a></li>
+          <li><a href="compare-index.html">違いを比較する</a></li>
         </ul>
       </div>
       <div>
         <h4>サイト情報</h4>
         <ul>
           <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
           <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
           <li><a href="about.html#privacy">プライバシーポリシー</a></li>
         </ul>
       </div>
     </div>
     <div class="disclosure">
-      ※当サイトは制作中のプレビューです。商品名・価格・リンクはすべて仮のサンプルであり、実際の販売・レビュー実績を示すものではありません。当サイトは将来的に、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定された、アフィリエイトプログラムであるAmazonアソシエイト・プログラムを利用する予定です（参加審査の承認後、本表記を正式なものに更新します）。
-      <div class="copyright">&copy; 2026 GEARNOTE. All rights reserved.</div>
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+        <span class="visit-counter"><img src="https://visitor-badge.laobi.icu/badge?page_id=gearnote-stellular-macaron-701072" alt="visits" loading="lazy"></span>
+      </div>
     </div>
   </div>
 </footer>
 
+<script src="js/ranking-data.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>

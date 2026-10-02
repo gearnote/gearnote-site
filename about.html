@@ -2,10 +2,32 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>このサイトについて｜GEARNOTE</title>
-<meta name="description" content="GEARNOTEのサイト概要、運営者情報、アフィリエイト表記、プライバシーポリシーについて。">
-<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="GEARNOTEのサイト概要、運営情報、アフィリエイト表記、プライバシーポリシーについて。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="このサイトについて｜GEARNOTE">
+<meta property="og:description" content="GEARNOTEのサイト概要、運営情報、アフィリエイト表記、プライバシーポリシーについて。">
+<meta property="og:url" content="https://gearnote.net/about">
+<link rel="canonical" href="https://gearnote.net/about">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="このサイトについて｜GEARNOTE">
+<meta name="twitter:description" content="GEARNOTEのサイト概要、運営情報、アフィリエイト表記、プライバシーポリシーについて。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
@@ -16,13 +38,19 @@
   <div class="header-hairline"></div>
   <div class="wrap">
     <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
     <nav class="main-nav">
       <a href="index.html">ホーム</a>
       <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
       <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
       <a href="about.html" class="active">このサイトについて</a>
     </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
     <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
   </div>
 </header>
 
@@ -33,31 +61,44 @@
 <div class="wrap">
   <div class="legal">
     <h1>このサイトについて</h1>
-    <p class="updated">最終更新日：2026年9月4日</p>
+    <p class="updated">最終更新日：2026年9月20日</p>
 
     <h2>サイト概要</h2>
-    <p>「GEARNOTE（ギアノート）」は、ガジェット・生活家電・美容健康アイテムなどを中心に、実際に使用したうえでの感想をまとめているレビューメディアです。スペック表だけではわかりにくい「使い心地」「良い点」「気になる点」を、できるだけ正直に紹介することを心がけています。</p>
-    <p>紹介している製品は、当サイト運営者が独自の基準で選定したものであり、特定のメーカー・販売者から報酬を受けて掲載しているものではありません（提供品を使用したレビューを行う場合は、その旨を記事内に明記します）。</p>
+    <p>「GEARNOTE（ギアノート）」は、ガジェット・生活家電・美容・食品・日用品・ペット用品など幅広いジャンルの商品を対象に、スペックや商品の特徴を整理して、買う前の判断を助けることを目的にした商品比較メディアです。スペック表だけではわかりにくい「向いている人」「気になる点」を、できるだけ正直にまとめることを心がけています。</p>
+    <p>紹介している製品は、当サイト運営が独自の基準で選定したものであり、特定のメーカー・販売者から報酬を受けて掲載しているものではありません（提供品を使用したレビューを行う場合は、その旨を記事内に明記します）。</p>
 
-    <h2>運営者情報</h2>
+    <h2>商品の選定基準・情報の出典</h2>
+    <p>当サイトで紹介する商品は、各商品のAmazon商品ページに掲載されている商品名・仕様・特徴などの情報を運営が確認したうえで選定しています。掲載内容が商品と一致していないと判断した商品は掲載を見送ることがあります。</p>
+    <p>「向いている人」「気になる点」は、商品ページに掲載されている仕様・特徴と、その商品カテゴリーで一般的に知られている選び方の観点にもとづいて運営が整理したものです。Amazonのカスタマーレビューや星評価は、Amazonアソシエイト・プログラムの規約に従い、当サイトでは表示・転載していません。</p>
+    <p id="data-freshness">記事中の仕様などの情報は、記事の執筆または直近の更新を行った時点でAmazon商品ページに表示されていた内容にもとづきます。これらの情報は変更されることがあり、実際の内容と差異が生じている場合があります。価格・在庫・星評価・レビューは、Amazonアソシエイト・プログラムの規約に従い、当サイトでは表示していません。最新の価格・在庫・レビュー・情報は、必ず各商品のAmazon商品ページでご確認ください。</p>
+    <p>トップページの「GEARNOTE運営が選ぶ 今週の注目5選」は、運営が気になった商品を週替わりで紹介しているものです。ジャンルの異なる商品を並べているため、実際の売上・販売数や優劣を比較するランキングではなく、あくまで「今週気になる商品の一覧」としてご覧ください。</p>
+
+    <h2 id="author">運営情報・編集体制</h2>
     <ul>
       <li>サイト名：GEARNOTE</li>
-      <li>運営者：［運営者名・屋号を入力］</li>
-      <li>お問い合わせ：［問い合わせ用メールアドレスまたはフォームURLを入力］</li>
+      <li>運営：H＆C（個人運営）</li>
       <li>運営開始：2026年</li>
     </ul>
-    <p>※上記は仮の情報です。公開前に実際の運営者情報に差し替えてください。</p>
+    <p>GEARNOTEは、H＆Cが一人で企画・執筆・更新まで行っている個人運営のメディアです。編集部という組織や複数の執筆者が在籍しているわけではなく、実際に商品を比較検討するのが好きな一個人として、Amazon上の仕様や特徴を一つひとつ確認しながら記事を作成しています。特定の資格や専門機関に所属しているわけではなく、あくまで「購入者と同じ目線で仕様を読み込み、要点を整理する」ことを心がけています。記事末尾や商品ページの署名表記「GEARNOTE運営（H＆C）」は、すべてこの運営自身による確認・執筆を意味します。</p>
+    <p>記事内容に誤りや古い情報を見つけた場合は、修正のうえ「最終更新日」を更新します。指摘・お問い合わせについては現時点で専用の窓口を設けていませんが、可能な範囲で対応します。</p>
+
+    <h2 id="criteria">ランキング・おすすめ度の算出基準</h2>
+    <p>当サイトは実機を用いた独自の性能測定（ラボテストや耐久試験など）は行っていません。紹介文中の「おすすめ」「〇〇が強み」といった評価は、以下の観点を運営が総合的に判断してつけたものです。</p>
+    <ul>
+      <li><strong>スペック・機能：</strong>商品ページに掲載されている仕様（サイズ・重量・容量・対応規格・機能など）を比較し、用途に合うかどうかを判断します。</li>
+      <li><strong>使い方との相性：</strong>「どんな人に向いているか」「どんな人には向かないか」を、仕様と商品カテゴリーの一般的な選び方の観点から整理し、良い点ばかりを並べず、購入前に知っておいてほしい注意点も優先して記載しています。</li>
+      <li><strong>スペックとコストのバランス：</strong>同カテゴリー内の類似商品と比較したときの機能・サイズ・付属品などのバランスも判断材料にしています。</li>
+      <li><strong>比較記事内での並び順：</strong>ランキング記事の「全N商品比較表」は、運営が用途や機能面から総合的に判断した順序で並べています。機能タイプが大きく異なる商品を並べる場合は、その旨を記事内で補足しています。</li>
+    </ul>
+    <p>上記はいずれも独自の実機テストに基づく客観的な順位付けではなく、公開されている商品情報にもとづく運営の見解です。購入の最終判断は、必ず各商品のAmazon商品ページで最新の情報をご確認のうえ行ってください。</p>
 
     <h2 id="disclosure">アフィリエイト表記</h2>
-    <p>※現在このサイトは制作中のプレビューであり、Amazonアソシエイト・プログラムへの参加審査はまだ完了していません。以下は、審査承認後に正式に有効となる表記です。</p>
-    <p>当サイトは、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定された、アフィリエイトプログラムであるAmazonアソシエイト・プログラムを利用する予定です。</p>
-    <p>当サイトに掲載されている商品リンクを経由して商品が購入された場合、当サイト運営者は各ECサイトが定める紹介料（アフィリエイト報酬）を受け取ることがあります。なお、紹介料の有無によって記事内容やおすすめ度が左右されることはありません。</p>
-    <p>掲載している価格・在庫状況・仕様等の情報は記事執筆時点のものであり、変更されている場合があります。ご購入の際は、必ず各商品ページで最新の情報をご確認ください。</p>
+    <p><strong>Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。</strong></p>
+    <p>当サイトは、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定された、アフィリエイトプログラムであるAmazonアソシエイト・プログラムに参加しています。</p>
+    <p>当サイトに掲載されている商品リンクを経由して商品が購入された場合、当サイト運営は各ECサイトが定める紹介料（アフィリエイト報酬）を受け取ることがあります。なお、紹介料の有無によって記事内容やおすすめ度が左右されることはありません。</p>
+    <p>掲載している仕様等の情報は記事執筆時点のものであり、変更されている場合があります。ご購入の際は、必ず各商品ページで最新の情報をご確認ください。</p>
 
     <h2 id="privacy">プライバシーポリシー</h2>
-
-    <h2>個人情報の取得について</h2>
-    <p>当サイトでは、お問い合わせフォームをご利用いただく際に、お名前・メールアドレス等の個人情報をご入力いただく場合があります。取得した個人情報は、お問い合わせへの回答など、利用目的の範囲内で適切に管理し、ご本人の同意なく第三者に開示・提供することはありません。</p>
 
     <h2>Cookie（クッキー）について</h2>
     <p>当サイトでは、利便性向上やアクセス状況の把握のためにCookieを使用する場合があります。Cookieには個人を特定する情報は含まれません。ブラウザの設定によりCookieを無効にすることも可能ですが、その場合サイトの一部機能がご利用いただけないことがあります。</p>
@@ -69,17 +110,14 @@
     <p>当サイトは、Amazonアソシエイト・プログラムをはじめとするアフィリエイトプログラムを利用しています。これらのプログラムを通じて商品・サービスのリンクを掲載し、リンク経由での購入に応じて紹介料を得ることがあります（詳細は上記「アフィリエイト表記」をご覧ください）。</p>
 
     <h2>免責事項</h2>
-    <p>当サイトのコンテンツ・情報について、可能な限り正確な情報を掲載するよう努めておりますが、正確性や安全性を保証するものではありません。当サイトに掲載された内容によって生じた損害等について、運営者は一切の責任を負いかねますので、あらかじめご了承ください。</p>
+    <p>当サイトのコンテンツ・情報について、可能な限り正確な情報を掲載するよう努めておりますが、正確性や安全性を保証するものではありません。当サイトに掲載された内容によって生じた損害等について、運営は一切の責任を負いかねますので、あらかじめご了承ください。</p>
     <p>当サイトからリンクやバナーで移動したサイトで提供される情報、サービス等について、当サイトは一切の責任を負いません。</p>
 
     <h2>著作権について</h2>
-    <p>当サイトに掲載している文章・画像等の著作権は、当サイト運営者または正当な権利を有する第三者に帰属します。無断での転載・複製はお控えください。</p>
+    <p>当サイトに掲載している文章・画像等の著作権は、当サイト運営または正当な権利を有する第三者に帰属します。無断での転載・複製はお控えください。</p>
 
     <h2>プライバシーポリシーの変更について</h2>
     <p>当サイトは、法令等を遵守し、必要に応じて本ポリシーの内容を予告なく変更することがあります。変更後のプライバシーポリシーは、当ページに掲載した時点から効力を生じるものとします。</p>
-
-    <h2>お問い合わせ</h2>
-    <p>本ポリシーに関するお問い合わせは、［問い合わせ用メールアドレスまたはフォームURLを入力］までお願いいたします。</p>
   </div>
 </div>
 
@@ -88,13 +126,22 @@
     <div class="footer-grid">
       <div>
         <div class="footer-logo">GEARNOTE</div>
-        <p>ガジェット・生活家電のレビューメディア。実際に使って感じたことを、正直に発信しています。</p>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218170" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218170" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142379&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
       </div>
       <div>
         <h4>サイトマップ</h4>
         <ul>
           <li><a href="index.html">ホーム</a></li>
           <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
           <li><a href="index.html#brands">ブランド</a></li>
         </ul>
       </div>
@@ -102,13 +149,15 @@
         <h4>サイト情報</h4>
         <ul>
           <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
           <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
           <li><a href="about.html#privacy">プライバシーポリシー</a></li>
         </ul>
       </div>
     </div>
     <div class="disclosure">
-      ※当サイトは制作中のプレビューです。商品名・価格・リンクはすべて仮のサンプルであり、実際の販売・レビュー実績を示すものではありません。当サイトは将来的に、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定された、アフィリエイトプログラムであるAmazonアソシエイト・プログラムを利用する予定です（参加審査の承認後、本表記を正式なものに更新します）。
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
       <div class="copyright">&copy; 2026 GEARNOTE. All rights reserved.</div>
     </div>
   </div>
