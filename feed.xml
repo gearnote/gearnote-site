@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 02 Oct 2026 16:28:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 17:17:42 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -162,10 +162,122 @@
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Anker Power Bank（10000mAh）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-power-bank-10000mah</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-power-bank-10000mah</guid>
+    <description>Anker Power Bank（10000mAh, 22.5W）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Zolo Power Bank の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-zolo-power-bank</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-zolo-power-bank</guid>
+    <description>Anker Zolo Power Bank（10K, 30W, ケーブル一体型）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Bose QC Ultra Earbuds 2の特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-quietcomfort-ultra-earbuds-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-ultra-earbuds-2</guid>
+    <description>Bose QuietComfort Ultra Earbuds（第2世代）の特徴を整理。メリット・デメリット、AirPods 4・WF-1000XM6との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ミニオイルヒーター NJ0505E の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-mini-oil-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-mini-oil-heater</guid>
+    <description>De&#x27;Longhi(デロンギ) ミニオイルヒーター NJ0505Eの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ファンヒーター カプスーラ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-capsula-fan-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-capsula-fan-heater</guid>
+    <description>De&#x27;Longhi(デロンギ) ファンヒーター カプスーラ HFX30C11-AGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
+    <description>Dyson Purifier Hot+Cool 空気清浄ファンヒーターの特徴を整理。メリット・デメリット、シャープKI-TX75・KI-TS50との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson Supersonic Travel ドライヤーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-supersonic-travel</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-supersonic-travel</guid>
+    <description>Dyson Supersonic Travel ヘアドライヤーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson V12 Detectの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-v12-detect</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-v12-detect</guid>
+    <description>Dyson V12 Detect Slim Fluffyの特徴を整理。メリット・デメリット、シャープ EC-FR9・Dyson PencilVacとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>アイリスオーヤマ 超音波式加湿器の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-iris-ohyama-humidifier</link>
     <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-humidifier</guid>
     <description>アイリスオーヤマ 超音波式加湿器 UHM-280S-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ナノケアドライヤー EH-NA0Kの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-nanocare-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-nanocare-dryer</guid>
+    <description>パナソニック ナノケアドライヤー EH-NA0Kの特徴を整理。メリット・デメリット、シャープ IB-WX901・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ReFaビューテックドライヤーの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-refa-beautech-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-refa-beautech-dryer</guid>
+    <description>ReFa ビューテックドライヤー スマートWの特徴を整理。メリット・デメリット、パナソニック ナノケア・シャープ IB-WX901との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ EC-FR9の特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ec-fr9</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ec-fr9</guid>
+    <description>シャープ コードレススティック掃除機 EC-FR9の特徴を整理。メリット・デメリット、Dyson V12 Detect・PencilVacとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 加湿レス空気清浄機 FU-SC01 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-fu-sc01</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-fu-sc01</guid>
+    <description>シャープ 加湿レス空気清浄機 FU-SC01-W プラズマクラスター7000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ ヘアドライヤー IB-P801 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ib-p801</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ib-p801</guid>
+    <description>シャープ ヘアドライヤー IB-P801-B プラズマクラスター 速乾エアロフォルムの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ IB-WX901の特徴｜大風量ドライヤーの選び方・デメリット｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ib-wx901</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ib-wx901</guid>
+    <description>シャープ ヘアドライヤー IB-WX901の特徴を整理。メリット・デメリット、パナソニック ナノケア・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ KI-TX75の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-tx75</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-tx75</guid>
+    <description>シャープ 空気清浄機 KI-TX75の特徴を整理。メリット・デメリット、KI-TS50・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>WF-1000XM6レビュー｜音質・ノイキャン・デメリットを徹底検証｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-wf-1000xm6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-wf-1000xm6</guid>
+    <description>ソニー WF-1000XM6の特徴を整理。メリット・デメリット、AirPods 4・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -243,118 +355,6 @@
     <link>https://gearnote.net/ranking-home-training</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-home-training</guid>
     <description>PROIRONダンベル・腹筋ローラー・パワーグリップを徹底比較。各商品の特徴をもとに、目的別におすすめの自宅トレーニング器具を紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>文房具おすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-stationery</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-stationery</guid>
-    <description>ジェットストリーム4&amp;1・フリクションライト・トンボ色鉛筆を徹底比較。各商品の特徴をもとに、用途別におすすめの定番文房具を紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>洗車用品おすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-wash</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-wash</guid>
-    <description>シュアラスターシャンプー・超ガラコ・マイクロファイバー洗車タオルを徹底比較。各商品の特徴をもとに、洗う・撥水・拭き上げの観点からおすすめの洗車用品を紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>フライパンおすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-frying-pans</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-frying-pans</guid>
-    <description>貝印・ティファール・サーモスのフライパンを徹底比較。各商品の特徴をもとに、軽さ・熱伝導・耐久性の観点からおすすめのフライパンを紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファミリーゲームおすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-family-games</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-family-games</guid>
-    <description>UNO・ジェンガ・スタディ将棋を徹底比較。各商品の特徴をもとに、人数・年齢・遊び方の観点からおすすめのファミリーゲームを紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゲームコントローラーおすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-controllers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-controllers</guid>
-    <description>Switch2 Proコントローラー・DualSense・Joy-Conを徹底比較。各商品の特徴をもとに、対応機種・プレイスタイル別におすすめのコントローラーを紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>空気清浄機おすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-air-purifiers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
-    <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを徹底比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ コーヒーマシン比較｜マグニフィカS・スティローザ・ラ・スペシャリスタ｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-coffee-machines</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
-    <description>デロンギの人気コーヒーマシン3機種、マグニフィカS・スティローザ・ラ・スペシャリスタ・アルテを各商品の特徴から徹底比較。評価・選び方をまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズシェーバー比較｜シリーズ9・ラムダッシュPRO・フィリップス5000｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mens-shavers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
-    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。価格・剃り味・お手入れのしやすさをまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>柔軟剤比較｜レノアハピネス・IROKA・ソフランアロマリッチ｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fabric-softeners</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fabric-softeners</guid>
-    <description>レノア ハピネス・IROKAフレアフレグランス・ソフランアロマリッチを各商品の特徴から徹底比較。香りの特徴・容量・価格をまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ティファールの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-tfal</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-tfal</guid>
-    <description>ティファール製品の特徴、フライパン・電気ケトル・圧力鍋の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マキタの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-makita</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-makita</guid>
-    <description>マキタ製品の特徴、充電式工具・掃除機・アウトドア用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>COSORIの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-cosori</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-cosori</guid>
-    <description>COSORI製品の特徴、ノンフライヤーの容量別の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Belkinの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-belkin</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-belkin</guid>
-    <description>Belkin製品の特徴、充電器・MagSafeアクセサリー・iPhoneケースの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CIOの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-cio</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-cio</guid>
-    <description>CIO製品の特徴、充電器・モバイルバッテリー・ケーブルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>UGREENの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-ugreen</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-ugreen</guid>
-    <description>UGREEN製品の特徴、充電器・モバイルバッテリー・USB-Cハブの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CANMAKE（キャンメイク）の商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-canmake</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-canmake</guid>
-    <description>CANMAKE（キャンメイク）の特徴、プチプラコスメの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
