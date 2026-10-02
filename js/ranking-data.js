@@ -24889,4 +24889,25 @@ const RANKING_POOL = [
     link: "https://www.amazon.co.jp/dp/B07XZ9ZRVZ?tag=hide0122-22",
     page: "product-neutrogena-norwegian-formula-intense-repair-body-450ml.html",
   },
+  {
+    name: "Anker Soundcore P42i",
+    excerpt: "ウルトラノイズキャンセリング3.5とLDACに対応した完全ワイヤレスイヤホン。片耳約4.4gの小型設計でIP55、ワイヤレス充電に対応。",
+    img: "https://m.media-amazon.com/images/I/61bXdMEoojL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0GZT9GP7W?tag=hide0122-22",
+    page: "product-anker-soundcore-p42i.html",
+  },
+  {
+    name: "ハイセンス 洗濯機 5.5kg HW-K55B",
+    excerpt: "幅約50cmのスリムな5.5kg全自動洗濯機。最短14分の洗濯、風乾燥、予約機能に対応した1〜2人暮らし向けモデル。",
+    img: "https://m.media-amazon.com/images/I/51Z4nPSeIeL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0DDPQ3HWZ?tag=hide0122-22",
+    page: "product-hisense-washing-machine-55kg-hw-k55b.html",
+  },
+  {
+    name: "ロジクール ワイヤレスマウス M185",
+    excerpt: "USBレシーバーで接続する小型のワイヤレスマウス。左右対称の形状で、単3形乾電池1本で最大12ヶ月使える。",
+    img: "https://m.media-amazon.com/images/I/41gi5BVUmDS._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0956X785M?tag=hide0122-22",
+    page: "product-logicool-m185-wireless-mouse.html",
+  },
 ];

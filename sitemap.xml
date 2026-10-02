@@ -2472,7 +2472,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-books</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -2732,7 +2732,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-noise-cancelling-earbuds</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3032,7 +3032,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-logicool</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5902,7 +5902,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-wireless-mouse</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -24819,5 +24819,20 @@
     <loc>https://gearnote.net/brand-neutrogena</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-anker-soundcore-p42i</loc>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-hisense-washing-machine-55kg-hw-k55b</loc>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-logicool-m185-wireless-mouse</loc>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
