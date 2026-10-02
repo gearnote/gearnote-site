@@ -3311,25 +3311,11 @@ const RANKING_POOL = [
     page: "product-koizumi-salon-sense-iron.html",
   },
   {
-    name: "アイリスオーヤマ 超音波式加湿器 UHM-280S-W",
-    excerpt: "タンク容量2.8Lで最大10時間連続加湿。アロマ対応でしずく型のコンパクトデザイン。",
-    img: "https://m.media-amazon.com/images/I/41acUSm4l1L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07JD75B3Y?tag=hide0122-22",
-    page: "product-iris-ohyama-humidifier.html",
-  },
-  {
     name: "SwitchBot LED電球 スマートライト（2個パック）",
     excerpt: "既存のE26口金にそのまま設置可能。音声操作・アプリ調光調色に対応し、ハブ不要でWi-Fi直結できる。",
     img: "https://m.media-amazon.com/images/I/61Eujy5orgL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09KCF5Z79?tag=hide0122-22",
     page: "product-switchbot-led-bulb.html",
-  },
-  {
-    name: "MacBook Neo（A18 Proチップ、13インチ）",
-    excerpt: "Apple Intelligenceのために設計。最大16時間バッテリーで、日常使いにも学生生活にも十分なスタミナ。",
-    img: "https://m.media-amazon.com/images/I/61svvKTKTlL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GR6F619Z?tag=hide0122-22",
-    page: "product-macbook-neo.html",
   },
   {
     name: "Amazon Fire TV Stick 4K Max",
@@ -3393,13 +3379,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51XtAeUz6rL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DTCQNYXZ?tag=hide0122-22",
     page: "product-aulumu-g05-air-stand.html",
-  },
-  {
-    name: "Apple iPhone 17 Pro Max",
-    excerpt: "ProMotion採用6.9インチディスプレイ、A19 Proチップ搭載。Pro Fusionカメラシステムを搭載。",
-    img: "https://m.media-amazon.com/images/I/71R8VsJ07nL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0FQG234S7?tag=hide0122-22",
-    page: "product-iphone-17-pro-max.html",
   },
   {
     name: "Apple iPhone Air",
@@ -3596,20 +3575,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61c-XLj-ShL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DSJB2627?tag=hide0122-22",
     page: "product-braun-series9-sport.html",
-  },
-  {
-    name: "パナソニック ラムダッシュPRO メンズシェーバー",
-    excerpt: "6枚刃で全自動洗浄充電器・USB充電ケース付き。お風呂剃りにも対応。",
-    img: "https://m.media-amazon.com/images/I/61HtZ6o9FZL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BZXST1RS?tag=hide0122-22",
-    page: "product-panasonic-ramdash-pro.html",
-  },
-  {
-    name: "HOKUTO 防湿庫・ドライボックス HB-50EM",
-    excerpt: "タッチパネルでオートドライ＆省エネ機能搭載。デジタル湿度表示とLEDライト内蔵でカメラ・レンズの湿度管理が手軽にできる50Lタイプ。",
-    img: "https://m.media-amazon.com/images/I/61Kew2eT9eL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01HJ6Q6VO?tag=hide0122-22",
-    page: "product-hokuto-dry-box.html",
   },
   {
     name: "ブラウン 洗浄液 8個入 CCR8",
@@ -3925,13 +3890,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/41TPEcNmxKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CFZHRRLQ?tag=hide0122-22",
     page: "product-sharp-ib-p801.html",
-  },
-  {
-    name: "シャープ AQUOS 4T-C65FN1",
-    excerpt: "N-Blackパネルと直下型アクティブLED駆動による高画質65V型テレビ。AI Google TV機能搭載。",
-    img: "https://m.media-amazon.com/images/I/61f7hIBezmL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0C6K2QJW6?tag=hide0122-22",
-    page: "product-sharp-aquos-4t-c65fn1.html",
   },
   {
     name: "シャープ ハンディファン PJ-HS01",
@@ -8017,13 +7975,6 @@ const RANKING_POOL = [
     page: "product-vibaleg-tablet-zarm-bedside.html",
   },
   {
-    name: "Jabra Elite 10 完全ワイヤレスイヤホン",
-    excerpt: "Jabraアドバンスト ANCと6マイク通話、Dolby Atmos対応空間サウンド、IP57防塵防水",
-    img: "https://m.media-amazon.com/images/I/51WU7llFEEL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CH86QNSG?tag=hide0122-22",
-    page: "product-jabra-elite-10-earbuds.html",
-  },
-  {
     name: "Ulanzi MA30 スマホ三脚（MagSafe対応）",
     excerpt: "全金属製・両面マグネットでiPhoneをワンタッチ固定。三脚・スタンド・自撮り棒の3WAY",
     img: "https://m.media-amazon.com/images/I/71UQyBlJzLL._AC_SX300_.jpg",
@@ -8136,13 +8087,6 @@ const RANKING_POOL = [
     page: "product-panasonic-lumix-g100d.html",
   },
   {
-    name: "GoPro HERO13 Black",
-    excerpt: "HyperSmooth 6.0の手ブレ補正と水深10m耐水性能を備えたアクションカメラ。最大5.3K動画に対応。",
-    img: "https://m.media-amazon.com/images/I/41bUBCq81cL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DRCQTXFF?tag=hide0122-22",
-    page: "product-gopro-hero13-black.html",
-  },
-  {
     name: "Peak Design エブリデイ スリング 6L",
     excerpt: "容量6L、3コンパートメント・5ポケットのワンショルダー型カメラバッグ。国内正規品。",
     img: "https://m.media-amazon.com/images/I/61zfoqp6mpL._AC_SX300_.jpg",
@@ -8199,25 +8143,11 @@ const RANKING_POOL = [
     page: "product-kenko-variable-ndx2-77mm.html",
   },
   {
-    name: "VSGO カメラクリーニングキット VS-A7E",
-    excerpt: "ブロアー・レンズペン・クロス・センサークリーニングスワブがまとまった携帯用お手入れセット。",
-    img: "https://m.media-amazon.com/images/I/61IGGuKpxxL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B09NVCJJTX?tag=hide0122-22",
-    page: "product-vsgo-vs-a7e-cleaning-kit.html",
-  },
-  {
     name: "SONY 純正バッテリー NP-FW50",
     excerpt: "ZV-E10・α6400などに対応する純正リチャージャブルバッテリー。インフォリチウム機能で残量を1%刻みで表示。",
     img: "https://m.media-amazon.com/images/I/51fXzxMkAwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B003NJVY14?tag=hide0122-22",
     page: "product-sony-np-fw50-genuine-battery.html",
-  },
-  {
-    name: "Anker PowerExpand 2-in-1 SDカードリーダー",
-    excerpt: "SD・microSDを同時接続できるUSB-C接続カードリーダー。UHS-II対応で最大312MB/sの高速転送。",
-    img: "https://m.media-amazon.com/images/I/61PjjCslDwL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B091GHVBSZ?tag=hide0122-22",
-    page: "product-anker-powerexpand-sdcard-reader.html",
   },
   {
     name: "Godox TT350S スピードライト（SONY対応）",
@@ -9767,13 +9697,6 @@ const RANKING_POOL = [
     page: "product-teijin-comforter-e006.html",
   },
   {
-    name: "タンスのゲン ラグ 3畳",
-    excerpt: "200×250cm・全厚約9mmの洗えるラグ。裏地に滑り止め付き不織布を採用し、リビングや寝室の床に敷きやすい。",
-    img: "https://m.media-amazon.com/images/I/8118RxmIAkL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0HHRNJW79?tag=hide0122-22",
-    page: "product-tansunogen-rug-3jo-200x250.html",
-  },
-  {
     name: "Baibu Home 座布団クッション",
     excerpt: "PP綿と高反発ウレタンの2層構造で厚み約7cmの床置き座布団。カバーは取り外して丸洗いできる。",
     img: "https://m.media-amazon.com/images/I/81E5Q3Mrq9L._AC_SX300_.jpg",
@@ -9947,13 +9870,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/519pVeWAMLL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B09R9K88WF?tag=hide0122-22",
     page: "product-pigeon-baby-foam-soap-500ml.html",
-  },
-  {
-    name: "折りたたみベビーバス 温度計付き",
-    excerpt: "折りたためる新生児〜キッズ向けのベビーバス。温度計と高温アラーム、水抜き栓、滑り止め設計を備え、使わないときはコンパクトに収納できる。",
-    img: "https://m.media-amazon.com/images/I/51tZWgHpLEL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08HPXYKHK?tag=hide0122-22",
-    page: "product-mangety-baby-bathtub-foldable.html",
   },
   {
     name: "温湿度計 ベビールーム対応",
@@ -10251,13 +10167,6 @@ const RANKING_POOL = [
     page: "product-stander-transfer-pole.html",
   },
   {
-    name: "ケアテックジャパン 車椅子 ハピネス",
-    excerpt: "自走・介助兼用のアルミ製折りたたみ車椅子。メッシュシートは取り外して洗濯可能、ノーパンクタイヤ。",
-    img: "https://m.media-amazon.com/images/I/71ZdRiKVlzL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00S0OANLO?tag=hide0122-22",
-    page: "product-caretechjapan-happiness-wheelchair-ca10su.html",
-  },
-  {
     name: "川端滝三郎商店 靴べら 80cm",
     excerpt: "立ったまま靴を履ける全長80.5cmの長柄靴べら。ブナ材の削り出しで、紐通し穴付き。",
     img: "https://m.media-amazon.com/images/I/31Ds92Vyn3L._AC_SX300_.jpg",
@@ -10312,13 +10221,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/41O73nZ00FL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CGC5PX41?tag=hide0122-22",
     page: "product-rakurakuken-kelly-pad.html",
-  },
-  {
-    name: "イーサプライ 浴槽台 ステップ",
-    excerpt: "浴槽内に沈めて使う高さ17cmの浴槽台。自重設計とミニ吸盤で浮きにくい構造。",
-    img: "https://m.media-amazon.com/images/I/517dtDVFJJL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07C7383XV?tag=hide0122-22",
-    page: "product-esupply-yokusoudai-step-eex-supa10v.html",
   },
   {
     name: "いたわりお風呂手すり 600",
@@ -10608,13 +10510,6 @@ const RANKING_POOL = [
     page: "product-tanita-balance-cushion-ts959.html",
   },
   {
-    name: "GronG トレーニンググローブ リストラップ付き",
-    excerpt: "リストラップが一体になった、両手用のトレーニンググローブ。マジックテープで手首を固定しながら使えます。",
-    img: "https://m.media-amazon.com/images/I/71+XWFXXkAL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01N12NLYM?tag=hide0122-22",
-    page: "product-grong-training-glove.html",
-  },
-  {
     name: "ALLOUT リストラップ",
     excerpt: "高重量トレーニング時の手首の安定を目的とした、エラスティック素材配合のリストラップです。",
     img: "https://m.media-amazon.com/images/I/71xHNlGM0PL._AC_SX300_.jpg",
@@ -10683,13 +10578,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51VO1VNJLTL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07R45MY1Y?tag=hide0122-22",
     page: "product-topeak-modular-cage2.html",
-  },
-  {
-    name: "créer(クレエ) 自転車カバー 210D",
-    excerpt: "210Dオックスフォード生地を使用した、防水・UVカット仕様の自転車カバーです。",
-    img: "https://m.media-amazon.com/images/I/41Sbc3RKwnL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B076BVPCJP?tag=hide0122-22",
-    page: "product-creer-bicycle-cover.html",
   },
   {
     name: "KURE(呉工業) Made For Speed チェーンルブ ドライ",
@@ -12547,13 +12435,6 @@ const RANKING_POOL = [
     page: "product-shachihata-business-stamper-anf0001.html",
   },
   {
-    name: "キングジム ボックスファイル キーニ",
-    excerpt: "使わないときは薄くたためるボックスファイル。A4ヨコ・3コンパートメント。",
-    img: "https://m.media-amazon.com/images/I/61HVUFQH3JL._AC_SY450_.jpg",
-    link: "https://www.amazon.co.jp/dp/B09LQGFBK4?tag=hide0122-22",
-    page: "product-kingjim-boxfile-keeny-kw4033.html",
-  },
-  {
     name: "コクヨ ルーズリーフバインダー キャンパス",
     excerpt: "A4・2穴のルーズリーフ用バインダー。最大100枚収容でページの入れ替えが自由。",
     img: "https://m.media-amazon.com/images/I/41SN6FEEmLL._AC_SY450_.jpg",
@@ -12671,13 +12552,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/31qH6VidnEL._SX342_.jpg",
     link: "https://www.amazon.co.jp/dp/B091SLGLFP?tag=hide0122-22",
     page: "product-kokuyo-kakunori-liquidglue.html",
-  },
-  {
-    name: "ニトムズ 透明梱包テープ",
-    excerpt: "段ボール梱包用の透明OPPテープ。幅50mm×長さ50mが5巻セット。",
-    img: "https://m.media-amazon.com/images/I/811-n0Ke2oL._SX385_.jpg",
-    link: "https://www.amazon.co.jp/dp/B076CC8NB3?tag=hide0122-22",
-    page: "product-nitoms-opp-tape-3303.html",
   },
   {
     name: "プラス テープカッター",
@@ -13128,13 +13002,6 @@ const RANKING_POOL = [
     page: "product-aone-label-seal-72312-a4-12.html",
   },
   {
-    name: "ヤマハ コンパクトサウンドバー SR-C20A",
-    excerpt: "横幅60cmのコンパクトサウンドバー。クリアボイスとバスエクステンションでテレビのセリフを聞き取りやすくし、Blue...",
-    img: "https://m.media-amazon.com/images/I/61pP2YfHQTS._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08GKSWTNQ?tag=hide0122-22",
-    page: "product-yamaha-sr-c20a-soundbar.html",
-  },
-  {
     name: "デノン AVR-X580BT",
     excerpt: "5.2chのAVサラウンドレシーバー。HDMI入力4系統・出力1系統がすべて8K/60Hz・4K/120Hzに対応し...",
     img: "https://m.media-amazon.com/images/I/61XBsdPL+JL._AC_SX425_.jpg",
@@ -13177,13 +13044,6 @@ const RANKING_POOL = [
     page: "product-jbl-partybox-310.html",
   },
   {
-    name: "ソニー SRS-XP500",
-    excerpt: "縦置き・横置きのマルチレイアウトに対応した重低音スピーカー。防滴IPX4、マイク端子・ギター端子を搭載し、MEGA ...",
-    img: "https://m.media-amazon.com/images/I/71oVMgeoIIS._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0936CCD2Z?tag=hide0122-22",
-    page: "product-sony-srs-xp500.html",
-  },
-  {
     name: "JYX ワイヤレスマイク&スピーカーセット",
     excerpt: "ワイヤレスマイク2本が付属する、アナウンス機能も備えたカラオケスピーカー。6.5インチウーハーとツイーターを搭載し、...",
     img: "https://m.media-amazon.com/images/I/81Jk0R2DMdL._AC_SX425_.jpg",
@@ -13217,20 +13077,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/31fMnOrxUBL._AC_SY300_SX300_QL70_ML2_.jpg",
     link: "https://www.amazon.co.jp/dp/B0G2R34NG4?tag=hide0122-22",
     page: "product-toshiba-ax-wsp60-party-speaker.html",
-  },
-  {
-    name: "スタインバーグ UR22C",
-    excerpt: "USB3.0(Type-C)接続の2chオーディオインターフェイス。最大32bit/192kHzに対応し、フルメタル...",
-    img: "https://m.media-amazon.com/images/I/71nxTUya+DL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07YG4KVCF?tag=hide0122-22",
-    page: "product-steinberg-ur22c-audio-interface.html",
-  },
-  {
-    name: "Akai MPK mini MK2",
-    excerpt: "25鍵のコンパクトなUSB MIDIキーボード。8つのバックライト付きMPCスタイルパッドと調整可能なジョイスティッ...",
-    img: "https://m.media-amazon.com/images/I/61Lk3gQrKfL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00IJ6QAO2?tag=hide0122-22",
-    page: "product-akai-mpk-mini-mk2-midi-keyboard.html",
   },
   {
     name: "BEHRINGER HA400",
@@ -13618,13 +13464,6 @@ const RANKING_POOL = [
     page: "product-nylabone-chicken-bone-chew-m.html",
   },
   {
-    name: "ROGZ UTILITY 首輪・リードセット L",
-    excerpt: "反射ステッチ入りのナイロン製首輪・リードセット。中型~大型犬向けです。",
-    img: "https://m.media-amazon.com/images/I/71hIQi+TQzL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BLN4JS68?tag=hide0122-22",
-    page: "product-rogz-utility-collar-leash-set-l.html",
-  },
-  {
     name: "Sunraymascota 犬用ハーネス XS",
     excerpt: "頭や足を通さずマジックテープで着脱できる犬用ハーネス。超小型犬向けです。",
     img: "https://m.media-amazon.com/images/I/51brwEu-deL._AC_SX300_.jpg",
@@ -13702,13 +13541,6 @@ const RANKING_POOL = [
     page: "product-gsc-nendoroid-senbonzakura-miku.html",
   },
   {
-    name: "ミニプラ 爆上戦隊ブンブンジャー ブンブンカーセット",
-    excerpt: "『爆上戦隊ブンブンジャー』の工具不要組み立てキット。ラムネ菓子付きの食玩で、他シリーズと組み合わせて別形態にもなる。",
-    img: "https://m.media-amazon.com/images/I/71pFexQM+oL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CSYB93KM?tag=hide0122-22",
-    page: "product-miniplaz-bakuage-sentai-bunbunjar-car-set.html",
-  },
-  {
     name: "GSIクレオス ガンダムマーカー ベーシックセット",
     excerpt: "ガンダムのオリジナルカラーを再現する模型塗装用マーカー6色セット。アルコール系塗料5色と水性のスミ入れ用筆ペンを収録。",
     img: "https://m.media-amazon.com/images/I/71mHX-6zl8L._AC_SX300_.jpg",
@@ -13784,13 +13616,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71cfxsE4GTL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FQNJ2LY7?tag=hide0122-22",
     page: "product-showa-note-pokemon-pencilcase-usugata-black.html",
-  },
-  {
-    name: "サンリオキャラクターズ ぬりえ付きクレヨンペン",
-    excerpt: "軽い力でしっかり発色するクレヨンペンとぬりえ2枚がセットになった文具。サンリオキャラクターズデザイン。",
-    img: "https://m.media-amazon.com/images/I/61snj4f4PgL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0FB8VDY21?tag=hide0122-22",
-    page: "product-aiplanning-sanrio-crayonpen-nurie-pink.html",
   },
   {
     name: "山形工房 競技用けん玉「大空」",
@@ -14344,13 +14169,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/51gSnNc3kOL._AC_SX679_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GHRJXMZZ?tag=hide0122-22",
     page: "product-wpc-classic-long-umbrella.html",
-  },
-  {
-    name: "WejaGO キッズレインスーツ 上下セット ランドセル対応 反射材付き 防水",
-    excerpt: "通学や自転車移動を想定した、子供用のセパレートタイプレインスーツ。",
-    img: "https://m.media-amazon.com/images/I/41qhoFBbYnL._AC_SX569_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0D7HRGVRM?tag=hide0122-22",
-    page: "product-wejago-kids-rain-suit-set.html",
   },
   {
     name: "カジメイク 防水シューズカバー ロング R-320 反射テープ付き",
@@ -14983,13 +14801,6 @@ const RANKING_POOL = [
     page: "product-anker-hdmi-switch-2in1out.html",
   },
   {
-    name: "ソニー ホームシアターシステム 5.1ch HT-RT5",
-    excerpt: "バースピーカー・サブウーファー・リアスピーカー2台をワイヤレス接続できる省スペースな5.1chホームシアターシステム。",
-    img: "https://m.media-amazon.com/images/I/51KuOlwX8FL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01527WP1W?tag=hide0122-22",
-    page: "product-sony-ht-rt5-hometheater.html",
-  },
-  {
     name: "Amazonベーシック ダイナミックサウンドスピーカー（USB接続PCスピーカー）",
     excerpt: "USB給電・プラグアンドプレイで使える左右2個1組のコンパクトPCスピーカー。インライン音量調整付きでシンプルに導入できる。",
     img: "https://m.media-amazon.com/images/I/9150Qb9FTwL._AC_SX300_.jpg",
@@ -15016,20 +14827,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/713x7rD-RpL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B011QEOWVQ?tag=hide0122-22",
     page: "product-elecom-lbt-spwp200-led-speaker.html",
-  },
-  {
-    name: "DOSS Extreme Boom S Bluetoothスピーカー",
-    excerpt: "60W大音量・IPX6防水・7色LEDライト搭載のポータブルスピーカー。TWSステレオペアリングにも対応。",
-    img: "https://m.media-amazon.com/images/I/811J9gKU1vL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CWTHCMPB?tag=hide0122-22",
-    page: "product-doss-extreme-boom-s.html",
-  },
-  {
-    name: "Tribit StormBox Bluetoothスピーカー BTS30",
-    excerpt: "IPX7完全防水・24W出力の360度サウンドスピーカー。20時間連続再生に対応し、アウトドアやお風呂でも使える。",
-    img: "https://m.media-amazon.com/images/I/71Xg1BBSgUL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07YY5X9QT?tag=hide0122-22",
-    page: "product-tribit-stormbox-bts30.html",
   },
   {
     name: "40s Bluetoothスピーカー CW1M（2個セット）",
@@ -15067,20 +14864,6 @@ const RANKING_POOL = [
     page: "product-pioneer-dj-ddj-flx4.html",
   },
   {
-    name: "AKOZLIN キーボードスタンド X型 折りたたみ",
-    excerpt: "7段階で高さ30～96cmに調整できる折りたたみ式X型キーボードスタンド。54～88鍵の電子キーボードに対応。",
-    img: "https://m.media-amazon.com/images/I/51u1FMDGSzL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08H21NXHD?tag=hide0122-22",
-    page: "product-akozlin-keyboard-stand.html",
-  },
-  {
-    name: "CAHAYA A枠 ギタースタンド",
-    excerpt: "柔らかい首枕とEVAフォームアームでギターを保護する、折りたたみ式のA枠ギタースタンド。最大耐荷重約10kg。",
-    img: "https://m.media-amazon.com/images/I/61V2DtVXbqL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0B6C5SVQN?tag=hide0122-22",
-    page: "product-cahaya-guitar-stand.html",
-  },
-  {
     name: "Marshall ワイヤレスポータブル防水スピーカー Emberton II",
     excerpt: "アンプブランドMarshallのコンパクトポータブルスピーカー。True Stereophonicによる360度サウンド、IP67防水、連続再生30時間以上。",
     img: "https://m.media-amazon.com/images/I/81fkcBjZndL._AC_SX300_.jpg",
@@ -15088,32 +14871,11 @@ const RANKING_POOL = [
     page: "product-marshall-emberton-2.html",
   },
   {
-    name: "Ultimate Ears WONDERBOOM2 Bluetoothスピーカー",
-    excerpt: "IP67防水・防塵で水に浮くポータブルスピーカー。360度サウンドとアウトドアブースト機能で屋外でも活躍する。",
-    img: "https://m.media-amazon.com/images/I/71cD6S18oYL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07SM7VTL9?tag=hide0122-22",
-    page: "product-ue-wonderboom-2.html",
-  },
-  {
-    name: "funks ソーラー充電スピーカー",
-    excerpt: "ソーラーパネルによる補助充電に対応した車載・アウトドア向けBluetoothスピーカー。カラビナフック付きで持ち運びやすい。",
-    img: "https://m.media-amazon.com/images/I/51FfAQZhzXL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B09D7S2488?tag=hide0122-22",
-    page: "product-funks-solar-speaker.html",
-  },
-  {
     name: "Tribit XSound Go Bluetoothスピーカー",
     excerpt: "IPX7完全防水・16W出力のシンプルなポータブルスピーカー。24時間連続再生、TWSペアリングにも対応。",
     img: "https://m.media-amazon.com/images/I/71b122pwbpL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B075V4GJV1?tag=hide0122-22",
     page: "product-tribit-xsound-go.html",
-  },
-  {
-    name: "デノン(Denon) DSB150BT ポータブルワイヤレススピーカー Envaya Mini",
-    excerpt: "40mmフルレンジドライバー2基とパッシブラジエーターを搭載した防水防塵スピーカー。aptX Low Latency対応、最大8台のマルチペアリングが可能。",
-    img: "https://m.media-amazon.com/images/I/81nyDsc4VPL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0777M2V7Z?tag=hide0122-22",
-    page: "product-denon-envaya-mini.html",
   },
   {
     name: "OneOdio Pro10 有線オーバーイヤーヘッドホン（密閉型）",
@@ -15130,13 +14892,6 @@ const RANKING_POOL = [
     page: "product-philips-shp9500-headphones.html",
   },
   {
-    name: "パイオニア(Pioneer DJ) HDJ-CUE1 オンイヤー有線DJヘッドホン",
-    excerpt: "新しくDJを始める人向けのオンイヤーDJヘッドホン。大音量の部屋でもクリアにキューイングでき、折りたたみ式で持ち運びやすい。",
-    img: "https://m.media-amazon.com/images/I/81KRgK0ziEL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08GBZFRN3?tag=hide0122-22",
-    page: "product-pioneer-dj-hdj-cue1.html",
-  },
-  {
     name: "SONY ステレオヘッドホン MDR-7506",
     excerpt: "放送・レコーディング業界で長年使われてきた密閉ダイナミック型のスタジオモニターヘッドホン。折りたたみ式で持ち運びやすい。",
     img: "https://m.media-amazon.com/images/I/51F-Ok9xuzL._AC_SX300_.jpg",
@@ -15144,25 +14899,11 @@ const RANKING_POOL = [
     page: "product-sony-mdr-7506.html",
   },
   {
-    name: "Anker Soundcore Life Q20（Bluetooth5.0 オーバーイヤー型ヘッドホン）",
-    excerpt: "アクティブノイズキャンセリング搭載の折りたたみ式ワイヤレスヘッドホン。最大40時間再生、専用トラベルポーチ付きで持ち運びやすい。",
-    img: "https://m.media-amazon.com/images/I/61kV3qWxT-L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07YDZJZD1?tag=hide0122-22",
-    page: "product-anker-soundcore-life-q20.html",
-  },
-  {
     name: "すみっコぐらし ぬいぐるみM とかげ MR55901",
     excerpt: "すみっコが恐竜に扮した「とかげ」のぬいぐるみ。マシュマロのような柔らかい手触りで、他のすみっコぐらしシリーズと並べて…",
     img: "https://images-na.ssl-images-amazon.com/images/P/B01DBT2RFM.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01DBT2RFM?tag=hide0122-22",
     page: "product-sumikko-tokage-plush-m.html",
-  },
-  {
-    name: "ポケットモンスター ポケモン ぬいぐるみ イーブイ 高さ約19cm",
-    excerpt: "高さ約19cmのぬいぐるみ。丸みのあるフォルムと柔らかい手触りが特徴の、ポケモンの定番キャラクターのひとつ。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B01LYBPOQP.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01LYBPOQP?tag=hide0122-22",
-    page: "product-pokemon-eevee-plush.html",
   },
   {
     name: "TAMASHII NATIONS フィギュアーツmini 鬼滅の刃 冨岡義勇",
@@ -15214,13 +14955,6 @@ const RANKING_POOL = [
     page: "product-bandai-blocklabo-anpanman-vehicle-bucket.html",
   },
   {
-    name: "タカラトミー マジカルプレイタイム ホンモノバーコードをJANJANスキャン！おしゃべりバーコードレジスター",
-    excerpt: "家にある商品のバーコードを読み取って遊べる、レジスターごっこのおもちゃ。スキャン音や会計音などのサウンドで、本格的な…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B09H7NPH77.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B09H7NPH77?tag=hide0122-22",
-    page: "product-takaratomy-janjan-barcode-register.html",
-  },
-  {
     name: "ジョイパレット おでかけ三輪車アンパンマンごうV(ブイ) 0211",
     excerpt: "1.5歳から使える三輪車。保護者が操作できる押棒とストッパーが付き、フリーペダル機能で成長に合わせて使い方を変えられる。",
     img: "https://images-na.ssl-images-amazon.com/images/P/B0C2YKJCTR.01._SX300_.jpg",
@@ -15242,25 +14976,11 @@ const RANKING_POOL = [
     page: "product-hape-my-practical-toolset.html",
   },
   {
-    name: "ジョイパレット アンパンマン たたいて!まわして!トントン大工さん",
-    excerpt: "ハンマーで釘を打ったり、ねじを回したりする動きを再現できる、アンパンマンデザインの大工さんごっこおもちゃ。工具の収納…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B07CZSYQSR.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07CZSYQSR?tag=hide0122-22",
-    page: "product-joypalette-anpanman-tonton-daiku.html",
-  },
-  {
     name: "タカラトミー 人生ゲーム",
     excerpt: "ルーレットを回してコマを進め、人生の出来事を疑似体験する定番ボードゲーム。最大6人で遊べる、家族や友人との集まりに向…",
     img: "https://images-na.ssl-images-amazon.com/images/P/B01C812MAE.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01C812MAE?tag=hide0122-22",
     page: "product-takaratomy-jinsei-game.html",
-  },
-  {
-    name: "メガハウス みんなでオセロ",
-    excerpt: "黒と白の石を挟んでひっくり返す、定番のボードゲーム。シンプルなルールで、子どもから大人まで幅広く遊べる。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B00CR4MYJM.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00CR4MYJM?tag=hide0122-22",
-    page: "product-megahouse-othello-minnade.html",
   },
   {
     name: "任天堂 トランプ ナップ 622(藍)",
@@ -15291,13 +15011,6 @@ const RANKING_POOL = [
     page: "product-grounding-machikoro.html",
   },
   {
-    name: "GSIクレオス Mr.カラー 特色セット CS669 エースコンバット UNF リッジバックス隊",
-    excerpt: "エースコンバットシリーズの機体塗装に対応した、複数色入りのMr.カラー特色セット。プラモデル用の模型塗料。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B00LX0PDN0.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00LX0PDN0?tag=hide0122-22",
-    page: "product-gsicreos-mrcolor-cs669-acecombat.html",
-  },
-  {
     name: "タミヤ 1/24 スポーツカーシリーズ No.123 トヨタ スープラ",
     excerpt: "1/24スケールのスポーツカープラモデル。実車のディテールを再現したパーツ構成で、組み立てと塗装の両方を楽しめる。",
     img: "https://images-na.ssl-images-amazon.com/images/P/B000WN57YE.01._SX300_.jpg",
@@ -15326,25 +15039,11 @@ const RANKING_POOL = [
     page: "product-tamiya-cement-87038.html",
   },
   {
-    name: "タミヤ メイクアップ材シリーズ No.18 高級面相筆(中) 87018",
-    excerpt: "プラモデルの細部塗装に使う面相筆。先端が細く、パーツの縁取りやスミ入れなど、細かい塗装作業に向いている。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B000BN6JGU.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000BN6JGU?tag=hide0122-22",
-    page: "product-tamiya-menso-brush-87018.html",
-  },
-  {
     name: "遊戯王OCG デュエルモンスターズ デッキビルドパック グローリアス・ヴィクターズ BOX",
     excerpt: "コナミデジタルエンタテインメント公式の遊戯王OCGブースターBOX。デッキビルドパックのテーマに沿ったカードがまとめ…",
     img: "https://images-na.ssl-images-amazon.com/images/P/B0H24ZY4K3.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H24ZY4K3?tag=hide0122-22",
     page: "product-yugioh-deckbuildpack-gloriousvictors.html",
-  },
-  {
-    name: "ヴァイスシュヴァルツ ブースターパック アクセル・ワールド BOX",
-    excerpt: "ブシロード公式のヴァイスシュヴァルツ ブースターBOX。アニメ「アクセル・ワールド」のキャラクターカードがまとめて封…",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B00961O7NU.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00961O7NU?tag=hide0122-22",
-    page: "product-weiss-schwarz-accelworld-box.html",
   },
   {
     name: "Ultra Pro カードデッキボックス 80枚用 ブラック",
@@ -15359,13 +15058,6 @@ const RANKING_POOL = [
     img: "https://images-na.ssl-images-amazon.com/images/P/B00095M5C2.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00095M5C2?tag=hide0122-22",
     page: "product-ultrapro-premium-toploader-25.html",
-  },
-  {
-    name: "アローン(ALLONE) カードスリーブ 2重目 ミニ 62×89mm 70枚入",
-    excerpt: "ミニサイズのトレーディングカードに対応した、2重目用の超硬質カードスリーブ。傷や汚れからカードを保護する。",
-    img: "https://images-na.ssl-images-amazon.com/images/P/B0BWS3J647.01._SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BWS3J647?tag=hide0122-22",
-    page: "product-allone-mini-sleeve-70.html",
   },
   {
     name: "KMC(ケイエムシー) カードボックス1000",
@@ -15821,13 +15513,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/81JI6Aie4TL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BPLF9G62?tag=hide0122-22",
     page: "product-final-fantasy-16-ps5.html",
-  },
-  {
-    name: "バイオハザード RE:4 ゴールドエディション -PS5",
-    excerpt: "追加コンテンツ「SEPARATE WAYS」を含むサバイバルホラー・アクション。CERO17才以上対象",
-    img: "https://m.media-amazon.com/images/I/81EeJOWy2VL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CW32RSS6?tag=hide0122-22",
-    page: "product-biohazard-re4-gold-edition-ps5.html",
   },
   {
     name: "鉄拳8 -PS5",
@@ -16502,13 +16187,6 @@ const RANKING_POOL = [
     page: "product-alumis-spin-dryer-apd60.html",
   },
   {
-    name: "アイリスオーヤマ 衣類乾燥除湿機 スピード乾燥 除湿量5.0L サーキュレーター機能付 デシカント式 DDD-50E",
-    excerpt: "デシカント式で低温期でも除湿力が落ちにくいとされる衣類乾燥除湿機。サーキュレーター機能を内蔵し部屋干しの生乾き対策に活用できる。",
-    img: "https://m.media-amazon.com/images/I/510+4uk4+9L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07516S773?tag=hide0122-22",
-    page: "product-irisohyama-clothes-dryer-dehumidifier-ddd50e.html",
-  },
-  {
     name: "東芝 ズボンプレッサー ブラック スタンド型 HIP-T56-K",
     excerpt: "プレスシートで二重線を防ぎながら、プレス熱による除菌・消臭繊維内蔵などの機能を備えたスタンド型ズボンプレッサー。",
     img: "https://m.media-amazon.com/images/I/41CNMRszccL._AC_SX300_.jpg",
@@ -17132,13 +16810,6 @@ const RANKING_POOL = [
     page: "product-ticktwister-otom-tick-remover-set.html",
   },
   {
-    name: "ノミ取り首輪 ペット用 犬猫兼用 ノミ・ダニ・蚊よけ サイズ調節可能",
-    excerpt: "犬猫兼用で使える調節可能なノミ・ダニ・蚊よけ首輪。防水仕様で、サイズ調節でさまざまな体格のペットに合わせやすい設計です。",
-    img: "https://m.media-amazon.com/images/I/51MahYAxzmL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0F5B7C3QS?tag=hide0122-22",
-    page: "product-flea-tick-collar-adjustable-dogcat.html",
-  },
-  {
     name: "ペティオ プラクト 歯みがきデンタルガム 超小型〜小型犬 ハード 70g",
     excerpt: "牛皮のコラーゲン繊維で噛みながら汚れをからめとるとされる、超小型犬〜小型犬向けのスティック型デンタルガム。プラズマ乳酸菌配合でグレインフリーの70gです。",
     img: "https://m.media-amazon.com/images/I/71M6HiP3ZZL._AC_SX300_.jpg",
@@ -17160,25 +16831,11 @@ const RANKING_POOL = [
     page: "product-petio-zuttone-diaper-pad-m.html",
   },
   {
-    name: "三晃商会 SANKO ワイルドホーム フェレット",
-    excerpt: "横幅約80cmの広々スペースを確保したフェレット用ケージ。軽量ワイヤーと深型ベースのシンプルな構造で、お手入れのしやすさに配慮されています。",
-    img: "https://m.media-amazon.com/images/I/515GW8oR4eL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0048YLX4G?tag=hide0122-22",
-    page: "product-sanko-wildhome-ferret-cage.html",
-  },
-  {
     name: "三晃商会 SANKO バードケージ30",
     excerpt: "セキセイインコや文鳥など小型の小鳥向けの屋内用ケージ。奥行30cmのスリム設計と手乗り用パーチで、コミュニケーションを取りやすい構造です。",
     img: "https://m.media-amazon.com/images/I/51LxNtQTyHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0043AUY1S?tag=hide0122-22",
     page: "product-sanko-birdcage30.html",
-  },
-  {
-    name: "良品Life 小鳥 餌入れ 外付け 水入れ 自動給餌器 2個セット",
-    excerpt: "ケージに固定できる外付けタイプの餌入れ・水入れセット。透明な容器で残量が確認しやすく、こぼれにくい設計です。",
-    img: "https://m.media-amazon.com/images/I/61PupPf59AL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0C2C5RBYD?tag=hide0122-22",
-    page: "product-ryohinlife-bird-feeder-waterer-2set.html",
   },
   {
     name: "三晃商会 SANKO ハムスターパイプセット ループ",
@@ -17230,32 +16887,11 @@ const RANKING_POOL = [
     page: "product-mogumogutime-tosaka-treat-75g.html",
   },
   {
-    name: "N&amp;D キヌア ヘアボール（毛玉ケア）成猫用 ダック 1.5kg",
-    excerpt: "キヌアを配合し、豊富な食物繊維で毛の排出をサポートする成猫用ヘアボールケアフード。人工保存料不使用で、イタリア産の原材料を使用しています。",
-    img: "https://m.media-amazon.com/images/I/71l58v7eUxL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0CCW3DBLM?tag=hide0122-22",
-    page: "product-nd-quinoa-hairball-duck-cat-1-5kg.html",
-  },
-  {
-    name: "ペットライン キャネットチップ 多頭飼い用 ミックス 7.4kg",
-    excerpt: "まぐろ・かつお・舌平目の3つの風味をミックスした国産ロングセラーのキャットフード。7.4kgの大容量で、多頭飼いの家庭向けに作られています。",
-    img: "https://m.media-amazon.com/images/I/91zzxhaiHDL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B075T6LPX2?tag=hide0122-22",
-    page: "product-canet-chip-multicat-mix-7-4kg.html",
-  },
-  {
     name: "Orijen（オリジン）キャットフード キャット&amp;キトゥン 340g【国内正規品】",
     excerpt: "放し飼いチキンや七面鳥、新鮮な魚などを高い割合で配合した全年齢対応のプレミアムキャットフード。動物性タンパク質を重視した設計です。",
     img: "https://m.media-amazon.com/images/I/811YCB1VibL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01I3J63J6?tag=hide0122-22",
     page: "product-orijen-cat-kitten-340g.html",
-  },
-  {
-    name: "モンプチ バッグ ドライ 毛玉ケア 5種のブレンド 成猫用 600g",
-    excerpt: "かつお・まぐろ・鯛・海藻・オーツ麦の5種類をブレンドした成猫用フード。天然の食物繊維で毛玉の排出に配慮した設計です。",
-    img: "https://m.media-amazon.com/images/I/714FGJUuK8L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B00IIJG31K?tag=hide0122-22",
-    page: "product-monpetit-dry-hairball-5blend-600g.html",
   },
   {
     name: "Purina Friskies ウェットキャットフード バラエティパック 40缶",
@@ -17286,13 +16922,6 @@ const RANKING_POOL = [
     page: "product-inaba-yakikatsuo-senior-cat-15.html",
   },
   {
-    name: "キャティーマン（CattyMan）猫にまたたび 粉末 0.5g×10包",
-    excerpt: "0.5gずつ個包装されたまたたび粉末。1回分が小分けになっているため使いすぎを防ぎやすく、長期保存にも配慮された設計です。",
-    img: "https://m.media-amazon.com/images/I/61SAJzrxkhL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B001LDAMVW?tag=hide0122-22",
-    page: "product-cattyman-matatabi-powder-10pack.html",
-  },
-  {
     name: "（まとめ買い）ペットプロ 純国産 しっとりささみ 薄切り 40g【×20】",
     excerpt: "100%九州産の鶏食肉を使用し、小さな口でも食べやすい薄切りに仕上げたささみおやつ。まとめ買い向けの20袋セットです。",
     img: "https://m.media-amazon.com/images/I/51jE4Ofns5L._AC_SX300_.jpg",
@@ -17305,20 +16934,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71hQ4CgSzAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01EMSVVIK?tag=hide0122-22",
     page: "product-jollypets-soccerball-15cm.html",
-  },
-  {
-    name: "WININMETA 犬用ロープおもちゃ 天然コットン 大型犬・中型犬用 3点セット",
-    excerpt: "100%天然コットンを使用した引っ張りっこロープの3点セット。噛みながら歯の汚れへのアプローチも期待できる、大型犬・中型犬向けの構成です。",
-    img: "https://m.media-amazon.com/images/I/71XM0dSV4VL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BTHGQHZW?tag=hide0122-22",
-    page: "product-wininmeta-cottonrope-largedog-3set.html",
-  },
-  {
-    name: "CAGOO パズルフィーダー 犬餌入れ 知育玩具 木製 骨の形",
-    excerpt: "骨の形をした木製の知育おもちゃ。フードやおやつを隠すことで食べるスピードをコントロールし、犬の嗅覚と問題解決能力を刺激します。",
-    img: "https://m.media-amazon.com/images/I/61dmP9Hw+QL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07VKN5CHP?tag=hide0122-22",
-    page: "product-cagoo-puzzlefeeder-wooden-bone.html",
   },
   {
     name: "Hyper Pet オリジナルグラブタブ ドッグサッカーボール ストラップ付き（12.7cm）",
@@ -17370,25 +16985,11 @@ const RANKING_POOL = [
     page: "product-rogz-reflectcat-collar.html",
   },
   {
-    name: "アイリスオーヤマ 猫用システムトイレ ハーフタイプ スターターセット ONCH-530",
-    excerpt: "トイレ本体・消臭サンド・消臭シートがセットになったハーフタイプのシステムトイレ。段差が低く、シニア猫や子猫にも使いやすい設計です。",
-    img: "https://m.media-amazon.com/images/I/61-nxKyjRuL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08VHFRZ13?tag=hide0122-22",
-    page: "product-irisohyama-system-toilet-half-starter.html",
-  },
-  {
     name: "無香空間 置き型消臭剤 小林製薬 本体 無香料 特大 630g",
     excerpt: "香りを使わずアミノ酸系消臭成分で気になるニオイに対応する据え置き型の消臭剤。ペットのいる部屋や玄関、クローゼットなど幅広い場所で使えます。",
     img: "https://m.media-amazon.com/images/I/81FZCY2LRKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F83PNQNZ?tag=hide0122-22",
     page: "product-muka-kukan-deodorizer-630g.html",
-  },
-  {
-    name: "ペットプロ マナーベルト 犬用 S ブラック／ボーダー",
-    excerpt: "アンモニア消臭シートを生地に織り込んだオス犬用マナーベルト。マジックテープで着脱が簡単な、来客時やお出かけ時に便利なSサイズです。",
-    img: "https://m.media-amazon.com/images/I/816AAefPaRL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0086ZIPL2?tag=hide0122-22",
-    page: "product-petpro-mannerbelt-s.html",
   },
   {
     name: "ライオンケミカル ペットのいる部屋の消臭ビーズ 無香料 320g",
@@ -17655,13 +17256,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/715DYjP2-6L._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B07QNPH3XG?tag=hide0122-22",
     page: "product-carmate-ailebebe-utatane-cushion.html",
-  },
-  {
-    name: "Ergobaby(エルゴベビー) インファントインサートIII（新生児 対面抱き用）抱っこ紐用 グレー 1か月〜 CKEGIIAGRYV3",
-    excerpt: "新生児期の対面抱きをサポートするエルゴベビー用インサート。対象1〜4ヶ月・体重3.2〜5.5kg。",
-    img: "https://m.media-amazon.com/images/I/91xllcxbacL._AC_SX425_.jpg",
-    link: "https://www.amazon.co.jp/dp/B01ET1L3G0?tag=hide0122-22",
-    page: "product-ergobaby-infant-insert3.html",
   },
   {
     name: "ママ&キッズ (Mama&Kids) サンスクリーンミルク 80g SPF33／PA+++／UV耐水性★★ ウォータープルーフ ノンケミカル",
@@ -18026,13 +17620,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71fTsLlo8wL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08R7H8RNS?tag=hide0122-22",
     page: "product-panasonic-viera-tv-50a90b.html",
-  },
-  {
-    name: "Chromecast with Google TV（HD）",
-    excerpt: "Google TV搭載のスティック型ストリーミング端末。フルHD（最大2K相当）HDR出力、Dolby Vision・HDR10+対応、音声リモコン付属。",
-    img: "https://m.media-amazon.com/images/I/31XTRT20OnL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0BCG8274Y?tag=hide0122-22",
-    page: "product-google-chromecast-with-google-tv-hd.html",
   },
   {
     name: "Xiaomi Smart Band 9",
@@ -19561,13 +19148,6 @@ const RANKING_POOL = [
     page: "product-jbl-partybox-520.html",
   },
   {
-    name: "JBL PARTYBOX110",
-    excerpt: "最大約160W出力で、133mmウーファー2基と57mmツイーター2基を搭載したライティング付きパーティースピーカー。マイク入力・ギター入力・IPX4防滴に対応。",
-    img: "https://m.media-amazon.com/images/I/91-knB1MUsL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B09FJCK9VT?tag=hide0122-22",
-    page: "product-jbl-partybox-110.html",
-  },
-  {
     name: "JBL PARTYBOX ON THE GO 2",
     excerpt: "ワイヤレスマイク2本が付属した、最大100W出力のポータブルパーティースピーカー。ショルダーストラップ付きで、IPX4防水（商品名記載）。",
     img: "https://m.media-amazon.com/images/I/71b9wHi26FL._AC_SX300_.jpg",
@@ -19797,13 +19377,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/515LuCugyuL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CYYZ78NJ?tag=hide0122-22",
     page: "product-shure-mv7-plus-podcast-mic.html",
-  },
-  {
-    name: "Fender MUSTANG MICRO",
-    excerpt: "ギターやベースに直接差し込んで使うオールインワンの超小型ヘッドフォンアンプ。オンボードDSP、USB充電式バッテリー、USB-Cのレコーディング出力を備える。",
-    img: "https://m.media-amazon.com/images/I/619Z+pKP54L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B08TRQS1TX?tag=hide0122-22",
-    page: "product-fender-mustang-micro-headphone-amp.html",
   },
   {
     name: "VOX amPlug 3 AC30",
@@ -20450,13 +20023,6 @@ const RANKING_POOL = [
     page: "product-haier-washing-machine-55kg-jw-hs55c.html",
   },
   {
-    name: "三菱電機 ふとん乾燥機 布団乾燥機 靴乾燥 ダニ対策 乾燥マット付 夏冬モード ホワイト AD-X50-W",
-    excerpt: "乾燥マット付きの三菱電機のふとん乾燥機。ふとん2枚・靴乾燥に対応し、夏冬モードとダニ対策を備える",
-    img: "https://m.media-amazon.com/images/I/81z-AphZXKL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B018FFA84E?tag=hide0122-22",
-    page: "product-mitsubishi-futon-dryer-ad-x50-w.html",
-  },
-  {
     name: "コロナ 窓用エアコン 4.5〜8畳 ウインドエアコン 冷房専用 Relala CW-1826R シティホワイト",
     excerpt: "窓枠に取り付けて使う冷房専用の窓用エアコン。畳数のめやすは50Hzで4.5〜7畳、60Hzで5〜8畳",
     img: "https://m.media-amazon.com/images/I/41V6dokWKhL._AC_SX300_.jpg",
@@ -20714,13 +20280,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/71gr4jnEvhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GL1MZPH9?tag=hide0122-22",
     page: "product-toshiba-living-fan-dc-tf-30dl28a.html",
-  },
-  {
-    name: "山善 扇風機 リビング DCモーター 静音 リモコン付き 左右自動首振り 風量切替9段階 入切タイマー付 アイスグレー YLX-DJD30E(IG)",
-    excerpt: "DCモーター・7枚羽根の静音リビング扇風機。風量9段階、入切ダブルタイマー、リズム風・おやすみモード、高さ66〜84.5cmの調節に対応",
-    img: "https://m.media-amazon.com/images/I/61+nJLlBxFL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DZH2DGYS?tag=hide0122-22",
-    page: "product-yamazen-living-fan-dc-ylx-djd30e.html",
   },
   {
     name: "Levoit(レボイト) 扇風機 タワーファン 静音 DCモーター 羽なし 7.9m/s 温度センサー付き LTF-F362-WJP",
@@ -21176,13 +20735,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/41hzOe-leHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DB2FHNT2?tag=hide0122-22",
     page: "product-tefal-access-steam-easy-dt7132j0.html",
-  },
-  {
-    name: "TOSHIBA(東芝) ドラム式洗濯乾燥機 幅60㎝ 洗濯12kg 乾燥7kg 左開き TW-127XM4L(W) グランホワイト ヒートポンプ 大風量乾燥 Ag+抗菌水 洗剤自動投入 大容量",
-    excerpt: "洗濯12kg・乾燥7kgのヒートポンプ式ドラム式洗濯乾燥機。洗剤・柔軟剤の自動投入、ウルトラファインバブル洗浄に対応",
-    img: "https://m.media-amazon.com/images/I/61Wt2ICVNvL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0F5GKHB88?tag=hide0122-22",
-    page: "product-toshiba-drum-washer-dryer-12kg-tw-127xm4l.html",
   },
   {
     name: "ブラウン 電動歯ブラシ オーラルB iO2",
@@ -21729,13 +21281,6 @@ const RANKING_POOL = [
     img: "https://m.media-amazon.com/images/I/61bTaEk7TML._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DXDTR6F8?tag=hide0122-22",
     page: "product-bandai-30mm-eexm-40-igulight-01.html",
-  },
-  {
-    name: "フィギュアライズスタンダード ドラゴンボール 人造人間18号",
-    excerpt: "ドラゴンボールの人造人間18号のFigure-rise Standard。表情パーツ3種・気功波エフェクト付き、15歳以上。",
-    img: "https://m.media-amazon.com/images/I/51mnaVi2P6L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B07TRLR3H8?tag=hide0122-22",
-    page: "product-bandai-figurerise-standard-android18.html",
   },
   {
     name: "ハセガワ 1/72 F-14A トムキャット 大西洋空母航空団 E14",
