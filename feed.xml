@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 02 Oct 2026 17:17:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 17:22:55 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -162,6 +162,20 @@
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
+    <link>https://gearnote.net/product-airpods-4</link>
+    <guid isPermaLink="true">https://gearnote.net/product-airpods-4</guid>
+    <description>Apple AirPods 4（ANCモデル）の特徴を整理。メリット・デメリット、WF-1000XM6・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple AirPods 5（アクティブノイズキャンセリング搭載）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-airpods-5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-airpods-5</guid>
+    <description>Apple AirPods 5の特徴を整理。進化したアクティブノイズキャンセリング、ライブ翻訳、H2チップ、IP57防塵防水など、メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Anker Power Bank（10000mAh）の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-anker-power-bank-10000mah</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-power-bank-10000mah</guid>
@@ -288,24 +302,24 @@
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ノイズキャンセリングイヤホンおすすめ3選比較｜GEARNOTE</title>
+    <title>ノイズキャンセリングイヤホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-noise-cancelling-earbuds</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-noise-cancelling-earbuds</guid>
-    <description>AirPods 4・WF-1000XM6・Bose QC Ultra Earbuds 2を徹底比較。各商品の特徴をもとに、装着感・遮音性・音質・価格の観点からおすすめのノイズキャンセリングイヤホンを紹介します。</description>
+    <description>AirPods 4・WF-1000XM6・Bose QC Ultra Earbuds 2を徹底比較。各商品の特徴をもとに、装着感・遮音性・音質・価格の観点からおすすめのノイズキャンセリングイヤホンを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ヘアドライヤーおすすめ3選比較｜GEARNOTE</title>
+    <title>ヘアドライヤーおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-hair-dryers</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-hair-dryers</guid>
-    <description>パナソニック ナノケア・シャープ IB-WX901・ReFaビューテックを徹底比較。各商品の特徴をもとに、速乾性・静音性・ツヤ仕上げの観点からおすすめのヘアドライヤーを紹介します。</description>
+    <description>パナソニック ナノケア・シャープ IB-WX901・ReFaビューテックを徹底比較。各商品の特徴をもとに、速乾性・静音性・ツヤ仕上げの観点からおすすめのヘアドライヤーを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コードレス掃除機おすすめ3選比較｜GEARNOTE</title>
+    <title>コードレス掃除機おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-cordless-vacuums</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-cordless-vacuums</guid>
-    <description>シャープ EC-FR9・Dyson V12 Detect・Dyson PencilVacを徹底比較。各商品の特徴をもとに、吸引力・軽さの観点からおすすめのコードレス掃除機を紹介します。</description>
+    <description>シャープ EC-FR9・Dyson V12 Detect・Dyson PencilVacを徹底比較。各商品の特徴をもとに、吸引力・軽さの観点からおすすめのコードレス掃除機を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -316,45 +330,31 @@
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>プロテインバーおすすめ3選比較｜GEARNOTE</title>
+    <title>プロテインバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-protein-bars</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-protein-bars</guid>
-    <description>inバープロテイン・ザバス・カロリーメイトを徹底比較。各商品の特徴をもとに、食感・たんぱく質量・価格の観点からおすすめのプロテインバーを紹介します。</description>
+    <description>inバープロテイン・ザバス・カロリーメイトを徹底比較。各商品の特徴をもとに、食感・たんぱく質量・価格の観点からおすすめのプロテインバーを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ミネラルウォーターおすすめ3選比較｜GEARNOTE</title>
+    <title>ミネラルウォーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-mineral-water</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-mineral-water</guid>
-    <description>財宝温泉水・のむシリカ・い・ろ・は・すを徹底比較。各商品の特徴をもとに、口当たり・成分・価格の観点からおすすめのミネラルウォーターを紹介します。</description>
+    <description>財宝温泉水・のむシリカ・い・ろ・は・すを徹底比較。各商品の特徴をもとに、口当たり・成分・価格の観点からおすすめのミネラルウォーターを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>歯磨き粉おすすめ3選比較｜GEARNOTE</title>
+    <title>歯磨き粉おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-toothpaste</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-toothpaste</guid>
-    <description>システマEX W・クリーンデンタル・Ora2を徹底比較。各商品の特徴をもとに、歯周病予防・口臭ケア・ホワイトニングの観点からおすすめの歯磨き粉を紹介します。</description>
+    <description>システマEX W・クリーンデンタル・Ora2を徹底比較。各商品の特徴をもとに、歯周病予防・口臭ケア・ホワイトニングの観点からおすすめの歯磨き粉を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>リュックおすすめ3選比較｜GEARNOTE</title>
+    <title>リュックおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-backpacks</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-backpacks</guid>
-    <description>エースジーン・アヴィレックス・カナナプロジェクトを徹底比較。各商品の特徴をもとに、機能性・軽さ・デザインの観点からおすすめのリュックを紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キャットフードおすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cat-food</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cat-food</guid>
-    <description>ピュリナワン・ニュートロ・カルカンを徹底比較。各商品の特徴をもとに、食いつき・匂い・価格の観点からおすすめのキャットフードを紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>宅トレ器具おすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-home-training</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-home-training</guid>
-    <description>PROIRONダンベル・腹筋ローラー・パワーグリップを徹底比較。各商品の特徴をもとに、目的別におすすめの自宅トレーニング器具を紹介します。</description>
+    <description>エースジーン・アヴィレックス・カナナプロジェクトを徹底比較。各商品の特徴をもとに、機能性・軽さ・デザインの観点からおすすめのリュックを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
