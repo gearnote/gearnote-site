@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 02 Oct 2026 16:04:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 16:11:35 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -176,6 +176,125 @@
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ヘアドライヤーおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-hair-dryers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-hair-dryers</guid>
+    <description>パナソニック ナノケア・シャープ IB-WX901・ReFaビューテックを徹底比較。各商品の特徴をもとに、速乾性・静音性・ツヤ仕上げの観点からおすすめのヘアドライヤーを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コードレス掃除機おすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cordless-vacuums</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cordless-vacuums</guid>
+    <description>シャープ EC-FR9・Dyson V12 Detect・Dyson PencilVacを徹底比較。各商品の特徴をもとに、吸引力・軽さの観点からおすすめのコードレス掃除機を紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートフォンおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smartphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
+    <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さ・価格の観点からおすすめのスマートフォンを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>プロテインバーおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-protein-bars</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-protein-bars</guid>
+    <description>inバープロテイン・ザバス・カロリーメイトを徹底比較。各商品の特徴をもとに、食感・たんぱく質量・価格の観点からおすすめのプロテインバーを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ミネラルウォーターおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mineral-water</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mineral-water</guid>
+    <description>財宝温泉水・のむシリカ・い・ろ・は・すを徹底比較。各商品の特徴をもとに、口当たり・成分・価格の観点からおすすめのミネラルウォーターを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>歯磨き粉おすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-toothpaste</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-toothpaste</guid>
+    <description>システマEX W・クリーンデンタル・Ora2を徹底比較。各商品の特徴をもとに、歯周病予防・口臭ケア・ホワイトニングの観点からおすすめの歯磨き粉を紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>リュックおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-backpacks</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-backpacks</guid>
+    <description>エースジーン・アヴィレックス・カナナプロジェクトを徹底比較。各商品の特徴をもとに、機能性・軽さ・デザインの観点からおすすめのリュックを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キャットフードおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cat-food</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cat-food</guid>
+    <description>ピュリナワン・ニュートロ・カルカンを徹底比較。各商品の特徴をもとに、食いつき・匂い・価格の観点からおすすめのキャットフードを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>宅トレ器具おすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-home-training</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-home-training</guid>
+    <description>PROIRONダンベル・腹筋ローラー・パワーグリップを徹底比較。各商品の特徴をもとに、目的別におすすめの自宅トレーニング器具を紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>文房具おすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-stationery</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-stationery</guid>
+    <description>ジェットストリーム4&amp;1・フリクションライト・トンボ色鉛筆を徹底比較。各商品の特徴をもとに、用途別におすすめの定番文房具を紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>洗車用品おすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-car-wash</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-car-wash</guid>
+    <description>シュアラスターシャンプー・超ガラコ・マイクロファイバー洗車タオルを徹底比較。各商品の特徴をもとに、洗う・撥水・拭き上げの観点からおすすめの洗車用品を紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>フライパンおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-frying-pans</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-frying-pans</guid>
+    <description>貝印・ティファール・サーモスのフライパンを徹底比較。各商品の特徴をもとに、軽さ・熱伝導・耐久性の観点からおすすめのフライパンを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファミリーゲームおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-family-games</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-family-games</guid>
+    <description>UNO・ジェンガ・スタディ将棋を徹底比較。各商品の特徴をもとに、人数・年齢・遊び方の観点からおすすめのファミリーゲームを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ゲームコントローラーおすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-controllers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-controllers</guid>
+    <description>Switch2 Proコントローラー・DualSense・Joy-Conを徹底比較。各商品の特徴をもとに、対応機種・プレイスタイル別におすすめのコントローラーを紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>空気清浄機おすすめ3選比較｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-air-purifiers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
+    <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを徹底比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ コーヒーマシン比較｜マグニフィカS・スティローザ・ラ・スペシャリスタ｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-coffee-machines</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
+    <description>デロンギの人気コーヒーマシン3機種、マグニフィカS・スティローザ・ラ・スペシャリスタ・アルテを各商品の特徴から徹底比較。評価・選び方をまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズシェーバー比較｜シリーズ9・ラムダッシュPRO・フィリップス5000｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mens-shavers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
+    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。価格・剃り味・お手入れのしやすさをまとめました。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>柔軟剤比較｜レノアハピネス・IROKA・ソフランアロマリッチ｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-fabric-softeners</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-fabric-softeners</guid>
@@ -236,125 +355,6 @@
     <link>https://gearnote.net/brand-heroine-make</link>
     <guid isPermaLink="true">https://gearnote.net/brand-heroine-make</guid>
     <description>ヒロインメイクのマスカラ・アイライナーの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HEAVY ROTATION（ヘビーローテーション）の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-heavyrotation</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-heavyrotation</guid>
-    <description>HEAVY ROTATION（ヘビーローテーション）のアイブロウ・マスカラの特徴、プチプラなのに高機能な理由、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KATE（ケイト）の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-kate</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-kate</guid>
-    <description>KATEのリップ・アイメイクの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>MAQuillAGE（マキアージュ）の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-maquillage</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-maquillage</guid>
-    <description>マキアージュのベースメイク・ポイントメイクの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>INTEGRATE（インテグレート）の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-integrate</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-integrate</guid>
-    <description>インテグレートのアイメイク・ベースメイクの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CEZANNE（セザンヌ）の商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-cezanne</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-cezanne</guid>
-    <description>CEZANNE（セザンヌ）の特徴、驚異的な低価格とプチプラコスメの実力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>rom&amp;nd（ロムアンド）の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-romand</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-romand</guid>
-    <description>rom&amp;nd（ロムアンド）製品の特徴、リップ・アイメイクの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロート製薬の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-rohto</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-rohto</guid>
-    <description>ロート製薬（肌ラボ・メラノCC・メンソレータム）の特徴、プチプラからドクターズコスメまで幅広いブランド展開の魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Sharkの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-shark</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-shark</guid>
-    <description>Shark（シャーク）製品の特徴、コードレス掃除機・ヘアドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>花王の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-kao</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-kao</guid>
-    <description>花王製品の特徴、日焼け止め・洗剤・ベビー用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファンケル（FANCL）の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-fancl</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-fancl</guid>
-    <description>ファンケル（FANCL）製品の特徴、無添加スキンケア・サプリメントの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>VT COSMETICSの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-vt-cosmetics</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-vt-cosmetics</guid>
-    <description>VT COSMETICSのCICA（シカ）ケアシリーズの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャンプー・ヘアケア用品おすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-hair-care-products</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-hair-care-products</guid>
-    <description>オルビス エッセンスイン ヘアミルク・plus eau シャンプー・トリートメント・DHC Q10美容液 シャンプーを徹底比較。各商品の特徴をもとに、髪質・使用感・価格の観点からおすすめのヘアケア用品を紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ナッツ・保存食おすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-nuts-preserved-food</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-nuts-preserved-food</guid>
-    <description>by Amazon 素焼きミックスナッツ・by Amazon 有塩ミックスナッツ・IRODORIYA チキンジャーキーを徹底比較。各商品の特徴をもとに、栄養バランス・食べやすさ・価格の観点からおすすめのナッツ・保存食を紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モバイルバッテリーおすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-power-banks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-power-banks</guid>
-    <description>Anker Power Bank（10000mAh）・Anker Power Bank（25000mAh）・Anker Zolo Power Bankを徹底比較。各商品の特徴をもとに、容量・出力・価格の観点からおすすめのモバイルバッテリーを紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>飲み物・ドリンクウェアおすすめ3選比較｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-drinkware</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-drinkware</guid>
-    <description>ハルクファクター プロテインシェイカー・岩崎工業 ラストロウェア 冷水筒・サーモス 真空断熱ケータイマグを徹底比較。各商品の特徴をもとに、用途・お手入れのしやすさ・価格の観点からおすすめのドリンクウェアを紹介します。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ANUA（アヌア）の商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-anua</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-anua</guid>
-    <description>ANUA（アヌア）の特徴、韓国コスメとしての実力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>medicube（メディキューブ）の商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-medicube</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-medicube</guid>
-    <description>medicube（メディキューブ）の特徴、スキンケアと美容機器の両方を手がける強み、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

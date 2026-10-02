@@ -1175,6 +1175,10 @@ img.cat-product-thumb {
 .compare-table td.compare-row-product a.compare-row-name:hover { text-decoration: underline; }
 .compare-table td.compare-row-note { color: var(--text-muted); font-size: 0.85rem; }
 .compare-table.compare-table-full { table-layout: fixed; }
+/* 選び方ガイドの多列表: 狭い画面では幅を確保して横スクロール、表内リンクはリンクと分かる見た目に */
+.compare-table.guide-table { min-width: 760px; }
+.compare-table.guide-table thead th:first-child, .compare-table.guide-table tbody th:first-child { width: 18%; }
+.compare-table.guide-table a { color: var(--brand-light); text-decoration: underline; text-underline-offset: 3px; font-weight: 600; }
 .compare-table thead th.compare-col-product { width: 26%; }
 .compare-table thead th.compare-col-rating { width: 15%; }
 .compare-table thead th
