@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 03 Oct 2026 13:08:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 14:20:21 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -33,6 +33,13 @@
     <link>https://gearnote.net/brand-apple</link>
     <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
     <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Braunの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-braun</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
+    <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -92,6 +99,20 @@
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Philipsの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-philips</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
+    <description>Philips製品の特徴、電動シェーバー・電動歯ブラシの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ReFaの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-refa</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-refa</guid>
+    <description>ReFaの美顔器・ドライヤー・ヘアアイロンの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>SHARPの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-sharp</link>
     <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
@@ -110,6 +131,13 @@
     <link>https://gearnote.net/brand-skii</link>
     <guid isPermaLink="true">https://gearnote.net/brand-skii</guid>
     <description>SK-IIの化粧水・美容液の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBotの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-switchbot</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-switchbot</guid>
+    <description>SwitchBot製品の特徴、スマートホーム機器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/product-delonghi-capsula-fan-heater</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-capsula-fan-heater</guid>
     <description>De&#x27;Longhi(デロンギ) ファンヒーター カプスーラ HFX30C11-AGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DHC 薬用リップクリーム の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dhc-lip-cream</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dhc-lip-cream</guid>
-    <description>DHC 薬用リップクリーム 1.5gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dyson Cool CF1 扇風機の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dyson-cool-cf1</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dyson-cool-cf1</guid>
-    <description>Dyson Cool CF1 扇風機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
-    <description>Dyson Purifier Hot+Cool 空気清浄ファンヒーターの特徴を整理。メリット・デメリット、シャープKI-TX75・KI-TS50との比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dyson Supersonic Travel ドライヤーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dyson-supersonic-travel</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dyson-supersonic-travel</guid>
-    <description>Dyson Supersonic Travel ヘアドライヤーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
