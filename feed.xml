@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 03 Oct 2026 07:25:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 07:43:58 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -26,6 +26,13 @@
     <link>https://gearnote.net/brand-anker</link>
     <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
     <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Appleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-apple</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
+    <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-eufy-homevac-h11-handheld</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-homevac-h11-handheld</guid>
     <description>Anker Eufy(ユーフィ) HomeVac H11（ハンディクリーナー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Eufy eufyCam S4 屋外防犯カメラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-eufy-cam-s4-outdoor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-eufy-cam-s4-outdoor</guid>
-    <description>Anker Eufy(ユーフィ) eufyCam S4 屋外用防犯カメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
