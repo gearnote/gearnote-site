@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-apple</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3027,7 +3027,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-logicool</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -25059,5 +25059,55 @@
     <loc>https://gearnote.net/guide-headphone</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-logicool-mx-master-3s-bluetooth-edition</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-logicool-c920n-webcam</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-logicool-pebble-keys-2-k380s</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-apple-magic-mouse-usbc-black</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-apple-magic-trackpad-usbc-black</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-samsung-t7-portable-ssd-1tb</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-lg-27u730a-b-4k-usbc-monitor</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-apple-20w-usbc-power-adapter</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-apple-iphone17-silicone-case-magsafe-light-moss</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-anker-maggo-power-bank-10000mah-slim-a1664</loc>
+    <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
