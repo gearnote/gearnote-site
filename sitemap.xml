@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-anker</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-dyson</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-iris-ohyama</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -72,7 +72,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-koizumi</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-panasonic</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -102,7 +102,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-sharp</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3027,7 +3027,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-logicool</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3667,7 +3667,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-elecom</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -10127,7 +10127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -26088,6 +26088,191 @@
   <url>
     <loc>https://gearnote.net/product-panasonic-cordless-steam-iron-ni-wl710-k</loc>
     <lastmod>2026-10-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-panasonic-ceramic-fan-heater-ds-fas1200-w</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-muji-ceramic-fan-heater-mj-sch1</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dyson-hot-cool-hf1</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-sharp-humidifying-ceramic-heater-hx-tk12-w</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-ohyama-panel-heater-guru-poka-aph-r12b</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-ohyama-mini-oil-heater-poh-505k-md</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-ohyama-oil-heater-ioh-1208ks-w</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-carbon-heater-dc-s097</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-kotatsu-table-gkrn-f120h</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-plaza-kotatsu-futon-180x220-greige</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-koizumi-electric-shiki-blanket-kds-40242</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-ohyama-electric-blanket-ehb-1913-t</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-electric-shiki-blanket-yms-18</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-ohyama-hot-carpet-2jo-ihc-20-h</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-hot-carpet-2jo-auc-201</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-maruka-yutanpo-a-ace-2-5l</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-hakugen-earth-range-de-yutapon-l</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-rx325-w</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-zojirushi-steam-humidifier-ee-mb20-ga</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-sharp-hybrid-humidifier-hv-t75-w</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cm-s100-w</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cv-th150-w</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-hitachi-futon-dryer-at-dry-hfk-cv1b</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-futon-dryer-double-nozzle-zfe-w800</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-samsung-990-pro-nvme-ssd-1tb</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-samsung-990-evo-plus-nvme-ssd-1tb</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-sandisk-extreme-portable-ssd-e70-1tb</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-elecom-usbc-dock-5in1-dst-w01</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-elecom-usbc-dock-6in1-slim-dst-w09</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-anker-usbc-hub-10in1-monitor-stand</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-logicool-c922n-webcam</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-logicool-brio-100-webcam-c660gr</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-kingston-canvas-go-plus-microsd-256gb</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-sandisk-extreme-microsd-256gb-sdsqxh9</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-nec-aterm-am-7200d8be-wifi7-router</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-tp-link-deco-be22-1pack</loc>
+    <lastmod>2026-10-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-elecom-laptop-stand-folding-tbwdsdrawamsv</loc>
+    <lastmod>2026-10-04</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
