@@ -6,7 +6,63 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 04 Oct 2026 15:26:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 16:00:55 +0000</lastBuildDate>
+  <item>
+    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
+    <description>Amazon「プライム感謝祭」は2026年10月16日(金)〜19日(月)に開催予定（先行セールは10月13日(火)から）。今のうちにやっておくこと、過去の開催日、家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品をGEARNOTEがピックアップして紹介します。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>特集一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/features</link>
+    <guid isPermaLink="true">https://gearnote.net/features</guid>
+    <description>GEARNOTEの特集ページ一覧。季節や用途ごとに、掲載商品を選び方のポイントと注意点つきでまとめたページを掲載しています。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ポータブル電源の選び方ガイド｜容量Wh・出力W・ポート・電池の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-portable-power-station</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-portable-power-station</guid>
+    <description>ポータブル電源の容量（Wh）と定格出力（W）の読み方、電池の種類、ポート構成、充電方法といった仕様表の見方と、家電の消費電力との照合のしかた、保管や使用時の注意点を解説します。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>冷蔵庫の選び方ガイド｜容量・幅・ドア数・設置の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-refrigerator</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-refrigerator</guid>
+    <description>一人暮らし向けの小型冷蔵庫を中心に、容量（定格内容積）、サイズ、ドア数と開き方、霜取り方式、年間消費電力量といった仕様表の見方と、搬入経路や放熱スペースなど設置前に確認したい点を解説します。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>洗濯機の選び方ガイド｜容量・縦型とドラム式・設置条件の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-washing-machine</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-washing-machine</guid>
+    <description>洗濯機の容量（kg）の考え方、縦型・二槽式・ドラム式洗濯乾燥機の違い、防水パンやサイズなど設置条件、運転音・使用水量・コースといった仕様表の見方を、当サイト掲載の機種の記載値とあわせて解説します。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電子レンジ・オーブンレンジの選び方ガイド｜容量・機能・庫内サイズの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-microwave-oven</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-microwave-oven</guid>
+    <description>単機能の電子レンジ、オーブンレンジ、スチームオーブンレンジの違い、庫内容量と庫内サイズの見方、東日本・西日本の周波数（ヘルツ）、出力（W）とオーブン温度といった仕様表の読み方を解説します。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズ電動シェーバーの選び方ガイド｜往復式・回転式・刃数・防水の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-mens-shaver</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-mens-shaver</guid>
+    <description>メンズ電動シェーバーの往復式と回転式の違い、刃数の数え方、防水・水洗い、充電と使用時間、お手入れや替刃といった仕様表の見方を、当サイト掲載のブラウン・パナソニック・フィリップスなどの記載値とあわせて解説します。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電動歯ブラシの選び方ガイド｜音波式・振動数・モード・ブラシヘッドの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-electric-toothbrush</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-electric-toothbrush</guid>
+    <description>電動歯ブラシの駆動方式（音波振動・回転など）、振動数の表記、モードと押し付け防止センサー、ブラシヘッドの形状と交換、充電方式といった仕様表の見方を、当サイト掲載のオーラルB・ソニッケアー・ドルツなどの記載値とあわせて解説します。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -299,62 +355,6 @@
     <link>https://gearnote.net/brand-ugreen</link>
     <guid isPermaLink="true">https://gearnote.net/brand-ugreen</guid>
     <description>UGREEN製品の特徴、充電器・モバイルバッテリー・USB-Cハブの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロート製薬の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-rohto</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-rohto</guid>
-    <description>ロート製薬（肌ラボ・メラノCC・メンソレータム）の特徴、プチプラからドクターズコスメまで幅広いブランド展開の魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アサヒ飲料の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-asahi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-asahi</guid>
-    <description>アサヒ飲料製品の特徴、お茶・炭酸飲料・コーヒーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>サントリーの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-suntory</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-suntory</guid>
-    <description>サントリー製品の特徴、水・お茶・機能性飲料の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-headphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
-    <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを徹底比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質・価格の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>美顔器・ボディケア家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-body-care-devices</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-body-care-devices</guid>
-    <description>ReFa CARAT・パナソニック スチーマー ナノケア・ヤーマン ミーゼ スカルプリフト プラスを徹底比較。各商品の特徴をもとに、使い方・ケア部位・価格の観点からおすすめの美顔器・ボディケア家電を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスマウスおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-wireless-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-wireless-mouse</guid>
-    <description>エレコム 握りの極み・ロジクール M220 静音マウス・ロジクール MX Master 3を徹底比較。各商品の特徴をもとに、握りやすさ・静音性・機能性の観点からおすすめのワイヤレスマウスを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車の補修・メンテナンス用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-maintenance</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-maintenance</guid>
-    <description>ソフト99 ウレタンクリアー・KURE LOOX ヘッドライトクリア・ソフト99 ガラコワイパー替えゴムを徹底比較。各商品の特徴をもとに、施工のしやすさ・効果・価格の観点からおすすめの補修・メンテナンス用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カーパーツ・整備・安全用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-parts-safety</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-parts-safety</guid>
-    <description>エーモン 非常信号灯・パナソニック カオス バッテリー・KURE スーパー5-56を徹底比較。各商品の特徴をもとに、用途・耐久性・価格の観点からおすすめのカーパーツ・整備・安全用品を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
