@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 04 Oct 2026 13:30:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 15:26:10 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -120,6 +120,13 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>食べ物の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-food</link>
     <guid isPermaLink="true">https://gearnote.net/category-food</guid>
@@ -162,6 +169,13 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ペット用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-pets</link>
+    <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
+    <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-sports</link>
     <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
@@ -197,10 +211,24 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>プロテインバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-protein-bars</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-protein-bars</guid>
+    <description>inバープロテイン・ザバス・カロリーメイトを徹底比較。各商品の特徴をもとに、食感・たんぱく質量・価格の観点からおすすめのプロテインバーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ミネラルウォーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-mineral-water</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-mineral-water</guid>
     <description>財宝温泉水・のむシリカ・い・ろ・は・すを徹底比較。各商品の特徴をもとに、口当たり・成分・価格の観点からおすすめのミネラルウォーターを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キャットフードおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cat-food</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cat-food</guid>
+    <description>ピュリナワン・ニュートロ・カルカンを徹底比較。各商品の特徴をもとに、食いつき・匂い・価格の観点からおすすめのキャットフードを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -288,6 +316,13 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>サントリーの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-suntory</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-suntory</guid>
+    <description>サントリー製品の特徴、水・お茶・機能性飲料の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-headphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/ranking-car-parts-safety</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-car-parts-safety</guid>
     <description>エーモン 非常信号灯・パナソニック カオス バッテリー・KURE スーパー5-56を徹底比較。各商品の特徴をもとに、用途・耐久性・価格の観点からおすすめのカーパーツ・整備・安全用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>掃除・清掃用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cleaning-supplies</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cleaning-supplies</guid>
-    <description>オキシクリーン EX・サンサンスポンジ・Homspark 三角コーナー いらずを徹底比較。各商品の特徴をもとに、用途・洗浄力・価格の観点からおすすめの掃除・清掃用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活雑貨おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-daily-essentials</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-daily-essentials</guid>
-    <description>ブラウン 洗浄液 CCR8・ハクバ レンズクリーニングティッシュ・ブリタ 浄水器 ポット型を徹底比較。各商品の特徴をもとに、用途・使いやすさ・価格の観点からおすすめの生活雑貨を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ナッツ・保存食おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-nuts-preserved-food</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-nuts-preserved-food</guid>
-    <description>by Amazon 素焼きミックスナッツ・by Amazon 有塩ミックスナッツ・IRODORIYA チキンジャーキーを徹底比較。各商品の特徴をもとに、栄養バランス・食べやすさ・価格の観点からおすすめのナッツ・保存食を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>扇風機・サーキュレーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fans-circulators</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fans-circulators</guid>
-    <description>アイリスオーヤマ サーキュレーター・マキタ 充電式ファン CF203D・シャープ サーキュレーター PK-S1801を徹底比較。各商品の特徴をもとに、風量・持ち運びやすさ・価格の観点からおすすめの扇風機・サーキュレーターを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cooking-appliances</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
-    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性・価格の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
