@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 04 Oct 2026 08:43:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 09:29:03 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -26,6 +26,13 @@
     <link>https://gearnote.net/brand-apple</link>
     <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
     <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-delonghi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
+    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -68,6 +75,13 @@
     <link>https://gearnote.net/brand-sharp</link>
     <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
     <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBotの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-switchbot</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-switchbot</guid>
+    <description>SwitchBot製品の特徴、スマートホーム機器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -120,10 +134,24 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>コードレス掃除機おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cordless-vacuums</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cordless-vacuums</guid>
+    <description>シャープ EC-FR9・Dyson V12 Detect・Dyson PencilVacを徹底比較。各商品の特徴をもとに、吸引力・軽さの観点からおすすめのコードレス掃除機を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>空気清浄機おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-air-purifiers</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
     <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを徹底比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コーヒーマシン・コーヒー器具比較｜デロンギ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-coffee-machines</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
+    <description>コーヒーマシン・コーヒー器具の比較ページです。デロンギの人気3機種（マグニフィカS・スティローザ・ラ・スペシャリスタ）を各商品の特徴から比較し、全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -138,6 +166,13 @@
     <link>https://gearnote.net/brand-tfal</link>
     <guid isPermaLink="true">https://gearnote.net/brand-tfal</guid>
     <description>ティファール製品の特徴、フライパン・電気ケトル・圧力鍋の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>マキタの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-makita</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-makita</guid>
+    <description>マキタ製品の特徴、充電式工具・掃除機・アウトドア用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -239,6 +274,20 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>DJIの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dji</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dji</guid>
+    <description>DJIのスマホ用ジンバル・ワイヤレスマイクなど撮影機材の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Insta360の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-insta360</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-insta360</guid>
+    <description>Insta360の360度カメラ・アクションカメラの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>山善の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-yamazen</link>
     <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
@@ -267,6 +316,13 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>HARIO(ハリオ)の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-hario</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-hario</guid>
+    <description>HARIO(ハリオ)の耐熱ガラス製品の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-tiger</link>
     <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
@@ -281,6 +337,13 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>dreameの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dreame</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dreame</guid>
+    <description>dreameの水拭き掃除機・掃除家電の特徴、選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>加湿器の選び方ガイド｜方式・畳数・タンク容量の見方｜GEARNOTE</title>
     <link>https://gearnote.net/guide-humidifier</link>
     <guid isPermaLink="true">https://gearnote.net/guide-humidifier</guid>
@@ -292,69 +355,6 @@
     <link>https://gearnote.net/guide-power-bank</link>
     <guid isPermaLink="true">https://gearnote.net/guide-power-bank</guid>
     <description>モバイルバッテリーの容量（mAh・Wh）、出力W・USB PD、ケーブル一体型・マグネット式・半固体電池の違い、機内持ち込みの考え方を、仕様表の見方とあわせて解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>炊飯器の選び方ガイド｜IH・圧力IH・マイコン式と合数の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-rice-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-rice-cooker</guid>
-    <description>炊飯器の加熱方式（マイコン式・IH式・圧力IH式）、内釜の素材と厚み、炊飯容量（合数）、保温やお手入れの見方を、人数や使い方別の考え方とあわせて解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドライヤーの選び方ガイド｜風量・温度・重さ・イオン機能の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-hair-dryer</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-hair-dryer</guid>
-    <description>ヘアドライヤーの風量（㎥/分）・温風温度・重さ・イオン機能・ノズルの見方を、髪の長さや使い方別の考え方とあわせて解説します。機能の説明は仕様の範囲にとどめた内容です。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>空気清浄機の選び方ガイド｜適用畳数・フィルター・加湿機能の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-air-purifier</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-air-purifier</guid>
-    <description>空気清浄機の適用畳数や清浄時間、HEPAなどのフィルター方式、加湿機能付きの違い、運転音とお手入れの見方を、部屋や使い方別の考え方とあわせて解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コードレス掃除機の選び方ガイド｜吸引方式・稼働時間・重さの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-cordless-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-cordless-vacuum</guid>
-    <description>コードレス掃除機の集じん方式（サイクロン式・紙パック式など）、稼働時間、バッテリー、重さ、ゴミ捨てやヘッドの見方を、住まい別の考え方とあわせて解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>暖房器具の選び方ガイド｜方式別の特徴と安全面の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-heater</guid>
-    <description>セラミックファンヒーター・オイルヒーター・電気毛布・ホットカーペットなど電気式暖房器具の方式別の特徴、消費電力や適用畳数の見方、使うときの安全面を解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスマウスの選び方ガイド｜接続方式・形状・静音・電池寿命の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-wireless-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-wireless-mouse</guid>
-    <description>ワイヤレスマウスの接続方式（2.4GHzレシーバー式・Bluetooth・Logi Bolt）、形状（左右対称・縦型）、静音クリック、DPI、電池寿命、対応OSといった仕様の見方を、使う場面別に解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロボット掃除機の選び方ガイド｜吸引力Pa・ナビゲーション・ステーションの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-robot-vacuum</guid>
-    <description>ロボット掃除機の吸引力（Pa）、ナビゲーション方式（LiDAR・レーザー）、水拭き機能、自動ゴミ収集ステーション、アプリ連携・Wi-Fi対応といった仕様の見方を、住まい別の考え方とあわせて解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘッドホンの選び方ガイド｜密閉型・開放型・ノイズキャンセリング・再生時間の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-headphone</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-headphone</guid>
-    <description>ヘッドホンの密閉型・開放型、ワイヤレスと有線、ノイズキャンセリング、インピーダンス、LDACなどのコーデック、再生時間といった仕様の見方を、使う場面別に解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電気毛布・ホットカーペットの選び方ガイド｜サイズ・温度調節・洗濯と安全面の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-electric-blanket</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-electric-blanket</guid>
-    <description>電気毛布（掛け・敷き・兼用）とホットカーペット、こたつの違い、サイズ・温度調節・タイマー・洗濯可否といった仕様表の見方と、低温やけどなど安全に使うための注意点を解説します。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
