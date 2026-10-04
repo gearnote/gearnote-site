@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 04 Oct 2026 09:29:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 10:22:12 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -26,6 +26,13 @@
     <link>https://gearnote.net/brand-apple</link>
     <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
     <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Braunの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-braun</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
+    <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -120,6 +127,13 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ゲームの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-games</link>
+    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
+    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>キッチン用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-kitchen</link>
     <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
@@ -152,6 +166,13 @@
     <link>https://gearnote.net/ranking-coffee-machines</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
     <description>コーヒーマシン・コーヒー器具の比較ページです。デロンギの人気3機種（マグニフィカS・スティローザ・ラ・スペシャリスタ）を各商品の特徴から比較し、全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズシェーバー比較｜シリーズ9・ラムダッシュPRO・フィリップス5000｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mens-shavers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
+    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。価格・剃り味・お手入れのしやすさをまとめました。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -201,6 +222,13 @@
     <link>https://gearnote.net/ranking-headphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
     <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを徹底比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質・価格の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美顔器・ボディケア家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-body-care-devices</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-body-care-devices</guid>
+    <description>ReFa CARAT・パナソニック スチーマー ナノケア・ヤーマン ミーゼ スカルプリフト プラスを徹底比較。各商品の特徴をもとに、使い方・ケア部位・価格の観点からおすすめの美顔器・ボディケア家電を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/brand-tiger</link>
     <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
     <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEIの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-huawei</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-huawei</guid>
-    <description>HUAWEI（ファーウェイ）製品の特徴、ワイヤレスイヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>dreameの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dreame</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dreame</guid>
-    <description>dreameの水拭き掃除機・掃除家電の特徴、選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>加湿器の選び方ガイド｜方式・畳数・タンク容量の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-humidifier</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-humidifier</guid>
-    <description>加湿器の4つの方式（超音波式・加熱式・気化式・ハイブリッド式）の違いと、適用畳数・加湿量・タンク容量・運転音などスペック表の見方を、置き場所別の考え方とあわせて解説します。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モバイルバッテリーの選び方ガイド｜容量・出力W・機内持ち込みの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-power-bank</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-power-bank</guid>
-    <description>モバイルバッテリーの容量（mAh・Wh）、出力W・USB PD、ケーブル一体型・マグネット式・半固体電池の違い、機内持ち込みの考え方を、仕様表の見方とあわせて解説します。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
