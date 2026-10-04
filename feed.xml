@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 04 Oct 2026 07:02:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 07:02:41 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -50,10 +50,24 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Philipsの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-philips</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
+    <description>Philips製品の特徴、電動シェーバー・電動歯ブラシの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>SHARPの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-sharp</link>
     <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
     <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomiの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-xiaomi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
+    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -71,6 +85,13 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>空気清浄機おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-air-purifiers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
+    <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを徹底比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ロジクールの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-logicool</link>
     <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
@@ -85,10 +106,206 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Belkinの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-belkin</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-belkin</guid>
+    <description>Belkin製品の特徴、充電器・MagSafeアクセサリー・iPhoneケースの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>扇風機・サーキュレーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-fans-circulators</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-fans-circulators</guid>
+    <description>アイリスオーヤマ サーキュレーター・マキタ 充電式ファン CF203D・シャープ サーキュレーター PK-S1801を徹底比較。各商品の特徴をもとに、風量・持ち運びやすさ・価格の観点からおすすめの扇風機・サーキュレーターを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cooking-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
+    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性・価格の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPhoneケース・アクセサリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-iphone-accessories</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-iphone-accessories</guid>
+    <description>TORRAS iPhone 17 ガラスフィルム・TORRAS Guardian-Mag ケース・TORRAS Ostand Q3を徹底比較。各商品の特徴をもとに、保護性能・機能性・価格の観点からおすすめのiPhoneアクセサリーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>テレビ・ストリーミング機器おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-tv-streaming</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-tv-streaming</guid>
+    <description>Amazon Fire TV Stick 4K Max・Amazon Fire TV Stick HD・シャープ AQUOS 4T-C65FN1を徹底比較。各商品の特徴をもとに、画質・機能性・価格の観点からおすすめのテレビ・ストリーミング機器を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>山善の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-yamazen</link>
     <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
     <description>山善の家電・家具・キッチン用品などの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
+    <description>Amazonプライム感謝祭の先行セールが開催中です（10月13日〜15日）。本番は10月16日(金)〜19日(月)。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品をGEARNOTEがピックアップして紹介します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>特集一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/features</link>
+    <guid isPermaLink="true">https://gearnote.net/features</guid>
+    <description>GEARNOTEの特集ページ一覧。季節や用途ごとに、掲載商品を選び方のポイントと注意点つきでまとめたページを掲載しています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>バッファローの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-buffalo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-buffalo</guid>
+    <description>バッファロー(BUFFALO)のポータブルSSD・USBメモリ・PC周辺機器の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tiger</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
+    <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>HUAWEIの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-huawei</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-huawei</guid>
+    <description>HUAWEI（ファーウェイ）製品の特徴、ワイヤレスイヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>加湿器の選び方ガイド｜方式・畳数・タンク容量の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-humidifier</guid>
+    <description>加湿器の4つの方式（超音波式・加熱式・気化式・ハイブリッド式）の違いと、適用畳数・加湿量・タンク容量・運転音などスペック表の見方を、置き場所別の考え方とあわせて解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>空気清浄機の選び方ガイド｜適用畳数・フィルター・加湿機能の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-air-purifier</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-air-purifier</guid>
+    <description>空気清浄機の適用畳数や清浄時間、HEPAなどのフィルター方式、加湿機能付きの違い、運転音とお手入れの見方を、部屋や使い方別の考え方とあわせて解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コードレス掃除機の選び方ガイド｜吸引方式・稼働時間・重さの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-cordless-vacuum</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-cordless-vacuum</guid>
+    <description>コードレス掃除機の集じん方式（サイクロン式・紙パック式など）、稼働時間、バッテリー、重さ、ゴミ捨てやヘッドの見方を、住まい別の考え方とあわせて解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>暖房器具の選び方ガイド｜方式別の特徴と安全面の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-heater</guid>
+    <description>セラミックファンヒーター・オイルヒーター・電気毛布・ホットカーペットなど電気式暖房器具の方式別の特徴、消費電力や適用畳数の見方、使うときの安全面を解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロボット掃除機の選び方ガイド｜吸引力Pa・ナビゲーション・ステーションの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-robot-vacuum</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-robot-vacuum</guid>
+    <description>ロボット掃除機の吸引力（Pa）、ナビゲーション方式（LiDAR・レーザー）、水拭き機能、自動ゴミ収集ステーション、アプリ連携・Wi-Fi対応といった仕様の見方を、住まい別の考え方とあわせて解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電気毛布・ホットカーペットの選び方ガイド｜サイズ・温度調節・洗濯と安全面の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-electric-blanket</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-electric-blanket</guid>
+    <description>電気毛布（掛け・敷き・兼用）とホットカーペット、こたつの違い、サイズ・温度調節・タイマー・洗濯可否といった仕様表の見方と、低温やけどなど安全に使うための注意点を解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>除湿機・衣類乾燥除湿機の選び方ガイド｜方式・除湿能力・タンク容量の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-dehumidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-dehumidifier</guid>
+    <description>コンプレッサー式・デシカント式・ハイブリッド式の除湿機の違いと、定格除湿能力・適用畳数・タンク容量・運転音・連続排水など、衣類乾燥除湿機のスペック表の見方を、部屋干しや結露対策などの使う場面別に解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ふとん乾燥機・衣類乾燥機の選び方ガイド｜タイプ・容量・設置条件の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-futon-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-futon-dryer</guid>
+    <description>マット式・ノズル式のふとん乾燥機、小型衣類乾燥機、ドラム式洗濯乾燥機、靴乾燥機の違いと、乾燥容量・消費電力・運転音・設置条件などスペック表の見方を、使う場面別に解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>外付けSSD・HDD・メモリーカードの選び方ガイド｜容量・転送速度・規格の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-external-storage</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-external-storage</guid>
+    <description>ポータブルSSD、外付けHDD、内蔵SSD、microSD・SDカードの違いと、容量・インターフェース規格・読み書き速度・耐衝撃・対応機器など、ストレージ製品のスペック表の見方を用途別に解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>USB-Cハブ・ドッキングステーションの選び方ガイド｜ポート・映像出力・給電の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-usb-c-hub</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-usb-c-hub</guid>
+    <description>USB-Cハブ、ドッキングステーション、Thunderbolt ドック、USB-Aハブの違いと、ポート構成・映像出力（4K）・PD給電・データ転送速度など、スペック表の見方を使う場面別に解説します。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック コードレススティック掃除機 MC-NX700K-Wの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-cordless-vacuum-mc-nx700k-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-cordless-vacuum-mc-nx700k-w</guid>
+    <description>パナソニック コードレススティック掃除機 MC-NX700K-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ECOVACS DEEBOT T50S OMNI ロボット掃除機の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ecovacs-deebot-t50s-omni</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ecovacs-deebot-t50s-omni</guid>
+    <description>ECOVACS DEEBOT T50S OMNI ロボット掃除機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBot ロボット掃除機 K11+の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-robot-vacuum-k11-plus</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-robot-vacuum-k11-plus</guid>
+    <description>SwitchBot ロボット掃除機 K11+の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Tineco FLOOR ONE i5 Stretch 水拭き掃除機の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tineco-floor-one-i5-stretch</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tineco-floor-one-i5-stretch</guid>
+    <description>Tineco FLOOR ONE i5 Stretch 水拭き掃除機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>roborock Qrevo L Pro ロボット掃除機の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-roborock-qrevo-l-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-roborock-qrevo-l-pro</guid>
+    <description>roborock Qrevo L Pro ロボット掃除機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 加湿空気清浄機 KI-SX70-Wの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-humidifying-air-purifier-ki-sx70-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-humidifying-air-purifier-ki-sx70-w</guid>
+    <description>シャープ 加湿空気清浄機 KI-SX70-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson HushJet shizuka 空気清浄機 SP01の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-hushjet-shizuka-sp01</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-hushjet-shizuka-sp01</guid>
+    <description>Dyson HushJet shizuka 空気清浄機 SP01の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 加湿空気清浄機 KI-SS50-Wの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-ss50-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-ss50-w</guid>
+    <description>シャープ 加湿空気清浄機 KI-SS50-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -138,223 +355,6 @@
     <link>https://gearnote.net/product-iris-ohyama-oil-heater-ioh-1208ks-w</link>
     <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-oil-heater-ioh-1208ks-w</guid>
     <description>アイリスオーヤマ オイルヒーター ストレート メカ式 IOH-1208KS-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 遠赤外線カーボンヒーター 900W/450W 自動首振り DC-S097(B) の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-carbon-heater-dc-s097</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-carbon-heater-dc-s097</guid>
-    <description>山善 遠赤外線カーボンヒーター 900W/450W 自動首振り DC-S097(B)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 こたつテーブル 長方形 幅120×奥行80cm 継脚タイプ GKRN-F120H(OBR) の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-kotatsu-table-gkrn-f120h</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-kotatsu-table-gkrn-f120h</guid>
-    <description>山善 こたつテーブル 長方形 幅120×奥行80cm 継脚タイプ GKRN-F120H(OBR)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスプラザ こたつ掛布団 長方形 180×220cm 省スペース グレージュ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-plaza-kotatsu-futon-180x220-greige</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-plaza-kotatsu-futon-180x220-greige</guid>
-    <description>アイリスプラザ こたつ掛布団 長方形 180×220cm 省スペース グレージュの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 電気毛布 敷毛布 130×80cm 丸洗い可 KDS-40242 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-koizumi-electric-shiki-blanket-kds-40242</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-electric-shiki-blanket-kds-40242</guid>
-    <description>コイズミ 電気毛布 敷毛布 130×80cm 丸洗い可 KDS-40242の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ 電気敷毛布 190×130cm スライド温度調整 EHB-1913-T の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-electric-blanket-ehb-1913-t</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-electric-blanket-ehb-1913-t</guid>
-    <description>アイリスオーヤマ 電気敷毛布 190×130cm スライド温度調整 EHB-1913-Tの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 電気敷毛布 130×80cm シングル 洗える YMS-18 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-electric-shiki-blanket-yms-18</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-electric-shiki-blanket-yms-18</guid>
-    <description>山善 電気敷毛布 130×80cm シングル 洗える YMS-18の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ ホットカーペット 2畳 176×176cm IHC-20-H の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-hot-carpet-2jo-ihc-20-h</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-hot-carpet-2jo-ihc-20-h</guid>
-    <description>アイリスオーヤマ ホットカーペット 2畳 176×176cm IHC-20-Hの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 ホットカーペット 2畳 170×170cm 5段階 6時間オートオフ AUC-201 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-hot-carpet-2jo-auc-201</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-hot-carpet-2jo-auc-201</guid>
-    <description>山善 ホットカーペット 2畳 170×170cm 5段階 6時間オートオフ AUC-201の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マルカ 湯たんぽ Aエース 2.5L 袋付 022524 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-maruka-yutanpo-a-ace-2-5l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-maruka-yutanpo-a-ace-2-5l</guid>
-    <description>マルカ 湯たんぽ Aエース 2.5L 袋付 022524の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>白元アース レンジでゆたぽん 入浴剤1個付き 洗えるカバー付 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-hakugen-earth-range-de-yutapon-l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hakugen-earth-range-de-yutapon-l</guid>
-    <description>白元アース レンジでゆたぽん 入浴剤1個付き 洗えるカバー付の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ダイニチ ハイブリッド式加湿器 RXタイプ 5畳/8畳 HD-RX325-W の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-rx325-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dainichi-hybrid-humidifier-hd-rx325-w</guid>
-    <description>ダイニチ ハイブリッド式加湿器 RXタイプ 5畳/8畳 HD-RX325-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 スチーム式加湿器 1.8L コンパクトタイプ グリーン EE-MB20-GA の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-zojirushi-steam-humidifier-ee-mb20-ga</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-steam-humidifier-ee-mb20-ga</guid>
-    <description>象印 スチーム式加湿器 1.8L コンパクトタイプ グリーン EE-MB20-GAの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ ハイブリッド式加湿器 HV-T75-W プラズマクラスター7000 タンク4L の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-hybrid-humidifier-hv-t75-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-hybrid-humidifier-hv-t75-w</guid>
-    <description>シャープ ハイブリッド式加湿器 HV-T75-W プラズマクラスター7000 タンク4Lの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ 衣類乾燥除湿機 CM-S100-W コンプレッサー方式 10L 冷風機能付き の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cm-s100-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cm-s100-w</guid>
-    <description>シャープ 衣類乾燥除湿機 CM-S100-W コンプレッサー方式 10L 冷風機能付きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ 衣類乾燥除湿機 CV-TH150-W ハイブリッド方式 プラズマクラスター25000 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cv-th150-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cv-th150-w</guid>
-    <description>シャープ 衣類乾燥除湿機 CV-TH150-W ハイブリッド方式 プラズマクラスター25000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>日立 ふとん乾燥機 アッとドライ HFK-CV1B AH ブルーグレー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-hitachi-futon-dryer-at-dry-hfk-cv1b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hitachi-futon-dryer-at-dry-hfk-cv1b</guid>
-    <description>日立 ふとん乾燥機 アッとドライ HFK-CV1B AH ブルーグレーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 布団乾燥機 ダブルノズル ふとん2枚同時 マット不要 ZFE-W800(W) の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-futon-dryer-double-nozzle-zfe-w800</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-futon-dryer-double-nozzle-zfe-w800</guid>
-    <description>山善 布団乾燥機 ダブルノズル ふとん2枚同時 マット不要 ZFE-W800(W)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung 990 PRO 1TB NVMe M.2 内蔵SSD MZ-V9P1T0B-IT/EC の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-990-pro-nvme-ssd-1tb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-990-pro-nvme-ssd-1tb</guid>
-    <description>Samsung 990 PRO 1TB NVMe M.2 内蔵SSD MZ-V9P1T0B-IT/ECの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung 990 EVO Plus 1TB NVMe M.2 内蔵SSD MZ-V9S1T0B-IT/EC の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-990-evo-plus-nvme-ssd-1tb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-990-evo-plus-nvme-ssd-1tb</guid>
-    <description>Samsung 990 EVO Plus 1TB NVMe M.2 内蔵SSD MZ-V9S1T0B-IT/ECの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SanDisk エクストリーム ポータブルSSD 1TB SDSSDE70-1T00-G25 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sandisk-extreme-portable-ssd-e70-1tb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sandisk-extreme-portable-ssd-e70-1tb</guid>
-    <description>SanDisk エクストリーム ポータブルSSD 1TB SDSSDE70-1T00-G25の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エレコム USB-Cハブ ドッキングステーション 5in1 PD100W HDMI 4K30Hz DST-W01 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elecom-usbc-dock-5in1-dst-w01</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elecom-usbc-dock-5in1-dst-w01</guid>
-    <description>エレコム USB-Cハブ ドッキングステーション 5in1 PD100W HDMI 4K30Hz DST-W01の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エレコム USB-Cドッキングステーション 6in1 スリムタイプ PD100W 4K60Hz DST-W09 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elecom-usbc-dock-6in1-slim-dst-w09</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elecom-usbc-dock-6in1-slim-dst-w09</guid>
-    <description>エレコム USB-Cドッキングステーション 6in1 スリムタイプ PD100W 4K60Hz DST-W09の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker USB-C ハブ (10-in-1, Monitor Stand) モニタースタンド一体型 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-usbc-hub-10in1-monitor-stand</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-usbc-hub-10in1-monitor-stand</guid>
-    <description>Anker USB-C ハブ (10-in-1, Monitor Stand) モニタースタンド一体型の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール Webカメラ C922n フルHD 1080P ストリーミング用 三脚付き の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logicool-c922n-webcam</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-c922n-webcam</guid>
-    <description>ロジクール Webカメラ C922n フルHD 1080P ストリーミング用 三脚付きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール ウェブカメラ Brio 100 C660GR グラファイト フルHD 1080P の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logicool-brio-100-webcam-c660gr</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-brio-100-webcam-c660gr</guid>
-    <description>ロジクール ウェブカメラ Brio 100 C660GR グラファイト フルHD 1080Pの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Kingston Canvas Go! Plus Gen4 microSDXC 256GB SDCG4/256GB の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kingston-canvas-go-plus-microsd-256gb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kingston-canvas-go-plus-microsd-256gb</guid>
-    <description>Kingston Canvas Go! Plus Gen4 microSDXC 256GB SDCG4/256GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SanDisk Extreme microSD UHS-Iカード 256GB SDSQXH9-256G-GHQMA の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sandisk-extreme-microsd-256gb-sdsqxh9</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sandisk-extreme-microsd-256gb-sdsqxh9</guid>
-    <description>SanDisk Extreme microSD UHS-Iカード 256GB SDSQXH9-256G-GHQMAの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>NEC Aterm Wi-Fi 7 ルーター AM-7200D8BE デュアルバンド 8ストリーム の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-nec-aterm-am-7200d8be-wifi7-router</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nec-aterm-am-7200d8be-wifi7-router</guid>
-    <description>NEC Aterm Wi-Fi 7 ルーター AM-7200D8BE デュアルバンド 8ストリームの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>TP-Link Deco BE22 メッシュWi-Fi 7ルーター BE3600 1-pack の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tp-link-deco-be22-1pack</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tp-link-deco-be22-1pack</guid>
-    <description>TP-Link Deco BE22 メッシュWi-Fi 7ルーター BE3600 1-packの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エレコム ノートパソコンスタンド 折り畳み式 耐荷重5kg シルバー TBWDSDRAWAMSV の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elecom-laptop-stand-folding-tbwdsdrawamsv</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elecom-laptop-stand-folding-tbwdsdrawamsv</guid>
-    <description>エレコム ノートパソコンスタンド 折り畳み式 耐荷重5kg シルバー TBWDSDRAWAMSVの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker MagGo Wireless Charger (Stand) ブラック A25X1 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-maggo-wireless-charger-stand-a25x1</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-maggo-wireless-charger-stand-a25x1</guid>
-    <description>Anker MagGo Wireless Charger (Stand) ブラック A25X1の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
