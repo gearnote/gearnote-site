@@ -6,7 +6,91 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 03 Oct 2026 22:54:55 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 07:02:14 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Ankerの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-anker</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
+    <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dysonの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dyson</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dyson</guid>
+    <description>Dyson製品の特徴、掃除機・ヘアケア・空気清浄機の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-koizumi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
+    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SHARPの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sharp</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
+    <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-logicool</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
+    <description>ロジクール製品の特徴、マウス・キーボード・Webカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコムの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-elecom</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-elecom</guid>
+    <description>エレコムのマウス・キーボード・USBハブなどPC周辺機器の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-yamazen</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
+    <description>山善の家電・家具・キッチン用品などの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>パナソニック セラミックファンヒーター 防滴仕様 切タイマー付 DS-FAS1200-W の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-panasonic-ceramic-fan-heater-ds-fas1200-w</link>
@@ -267,95 +351,11 @@
     <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>全商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/all-products</link>
-    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
-    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-amazon-echo</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
-    <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Ankerの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-anker</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
-    <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Appleの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-apple</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
-    <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Braunの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-braun</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
-    <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-delonghi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
-    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DHCの商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dhc</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dhc</guid>
-    <description>DHCの特徴、クレンジングオイルやサプリメントの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dysonの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dyson</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dyson</guid>
-    <description>Dyson製品の特徴、掃除機・ヘアケア・空気清浄機の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Eufyの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-eufy</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-eufy</guid>
-    <description>Eufy製品の特徴、ロボット掃除機・防犯カメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-iris-ohyama</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
-    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KOSEの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-kose</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-kose</guid>
-    <description>KOSE製品の特徴、スキンケア・ベースメイク・ポイントメイクの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ORBISの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-orbis</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-orbis</guid>
-    <description>ORBIS製品の特徴、洗顔・化粧水・UVケアの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Panasonicの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-panasonic</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
-    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    <title>Anker MagGo Wireless Charger (Stand) ブラック A25X1 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-maggo-wireless-charger-stand-a25x1</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-maggo-wireless-charger-stand-a25x1</guid>
+    <description>Anker MagGo Wireless Charger (Stand) ブラック A25X1の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
