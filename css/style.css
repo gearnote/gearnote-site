@@ -1604,3 +1604,6 @@ img.cat-product-thumb {
 .quiz-card-go { display: block; margin-top: 10px; font-weight: 700; color: var(--gold, #b08d57); }
 .card-compare { margin-left: 8px; font-size: 0.78rem; padding: 6px 12px; cursor: pointer; }
 .product-meta { flex-wrap: wrap; row-gap: 8px; }
+.cat-product-item .cmp-btn { position: absolute; right: 8px; bottom: 6px; min-width: 32px; height: 24px; padding: 0 6px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.25); background: rgba(23,20,15,0.6); color: #fff; font-size: 12px; line-height: 1; cursor: pointer; z-index: 5; }
+.cat-product-item .cmp-btn:hover { border-color: var(--brand-light); }
+.cat-product-item .cmp-btn.active { color: var(--brand-light); border-color: var(--brand-light); background: rgba(23,20,15,0.85); }

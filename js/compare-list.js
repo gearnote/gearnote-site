@@ -102,7 +102,38 @@
     });
   }
 
-  function init() { navLink(); productButton(); cardButtons(); }
+  // カテゴリー・ブランドの一覧（画像と名前が一体のカード）にも、小さな比較ボタンを重ねる（全商品一覧など数千件のページは対象外）
+  function catButtons() {
+    var cards = document.querySelectorAll(".cat-product-item");
+    if (!cards.length || cards.length > 700) return;
+    function refresh(btn, slug) {
+      var on = load().indexOf(slug) >= 0;
+      btn.textContent = on ? "✓" : "⚖";
+      btn.setAttribute("aria-label", on ? "比較リストから外す" : "比較リストに追加");
+      btn.title = on ? "比較リストから外す" : "比較リストに追加";
+      btn.classList.toggle("active", on);
+    }
+    cards.forEach(function (card) {
+      if (card.querySelector(".cmp-btn")) return;
+      var slug = (card.getAttribute("href") || "").replace(/\.html.*$/, "");
+      if (!/^product-[a-z0-9-]+$/.test(slug)) return;
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "cmp-btn";
+      b.addEventListener("click", function (ev) {
+        ev.preventDefault(); ev.stopPropagation();
+        var list = load(), i = list.indexOf(slug);
+        if (i >= 0) list.splice(i, 1);
+        else if (list.length >= MAX) { b.title = "比較リストは最大" + MAX + "商品までです"; b.textContent = "!"; return; }
+        else list.push(slug);
+        save(list); refresh(b, slug); navLink();
+      });
+      card.appendChild(b);
+      refresh(b, slug);
+    });
+  }
+
+  function init() { navLink(); productButton(); cardButtons(); catButtons(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
   window.addEventListener("storage", function (e) { if (e.key === KEY) navLink(); });
 })();
