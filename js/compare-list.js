@@ -71,7 +71,38 @@
     render();
   }
 
-  function init() { navLink(); productButton(); }
+  // 一覧・特集・新着などの商品カードに、小さな「＋ 比較」ボタンを付ける
+  function cardButtons() {
+    var cards = document.querySelectorAll(".product-card");
+    if (!cards.length || slugOfPage()) return;
+    function refresh(btn, slug) {
+      var on = load().indexOf(slug) >= 0;
+      btn.textContent = on ? "✓ 比較中" : "＋ 比較";
+      btn.setAttribute("aria-pressed", on ? "true" : "false");
+    }
+    cards.forEach(function (card) {
+      var a = card.querySelector('a[href^="product-"]');
+      var meta = card.querySelector(".product-meta");
+      if (!a || !meta || meta.querySelector(".card-compare")) return;
+      var slug = a.getAttribute("href").replace(/\.html.*$/, "");
+      if (!/^product-[a-z0-9-]+$/.test(slug)) return;
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "btn btn-ghost btn-sm card-compare";
+      b.addEventListener("click", function (ev) {
+        ev.preventDefault();
+        var list = load(), i = list.indexOf(slug);
+        if (i >= 0) list.splice(i, 1);
+        else if (list.length >= MAX) { b.textContent = "最大" + MAX + "商品まで"; return; }
+        else list.push(slug);
+        save(list); refresh(b, slug); navLink();
+      });
+      meta.appendChild(b);
+      refresh(b, slug);
+    });
+  }
+
+  function init() { navLink(); productButton(); cardButtons(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
   window.addEventListener("storage", function (e) { if (e.key === KEY) navLink(); });
 })();

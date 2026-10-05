@@ -1602,3 +1602,5 @@ img.cat-product-thumb {
 .quiz-card-title { display: block; font-weight: 700; font-size: 1.1rem; margin-bottom: 6px; }
 .quiz-card-desc { display: block; font-size: 0.9rem; color: var(--text-muted); line-height: 1.7; }
 .quiz-card-go { display: block; margin-top: 10px; font-weight: 700; color: var(--gold, #b08d57); }
+.card-compare { margin-left: 8px; font-size: 0.78rem; padding: 6px 12px; cursor: pointer; }
+.product-meta { flex-wrap: wrap; row-gap: 8px; }
