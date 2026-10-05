@@ -6,12 +6,19 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 05 Oct 2026 17:39:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 17:42:06 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
     <guid isPermaLink="true">https://gearnote.net/all-products</guid>
     <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-amazon-echo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
+    <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -22,6 +29,13 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Appleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-apple</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
+    <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Boseの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-bose</link>
     <guid isPermaLink="true">https://gearnote.net/brand-bose</guid>
@@ -29,10 +43,45 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Braunの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-braun</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
+    <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-delonghi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
+    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>DHCの商品一覧｜ブランド特集｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dhc</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dhc</guid>
+    <description>DHCの特徴、クレンジングオイルやサプリメントの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dysonの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dyson</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dyson</guid>
+    <description>Dyson製品の特徴、掃除機・ヘアケア・空気清浄機の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Eufyの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-eufy</link>
     <guid isPermaLink="true">https://gearnote.net/brand-eufy</guid>
     <description>Eufy製品の特徴、ロボット掃除機・防犯カメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Googleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-google</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
+    <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -50,6 +99,27 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>コイズミの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-koizumi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
+    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>KOSEの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-kose</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-kose</guid>
+    <description>KOSE製品の特徴、スキンケア・ベースメイク・ポイントメイクの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ORBISの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-orbis</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-orbis</guid>
+    <description>ORBIS製品の特徴、洗顔・化粧水・UVケアの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Panasonicの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-panasonic</link>
     <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
@@ -57,10 +127,45 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Philipsの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-philips</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
+    <description>Philips製品の特徴、電動シェーバー・電動歯ブラシの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ReFaの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-refa</link>
     <guid isPermaLink="true">https://gearnote.net/brand-refa</guid>
     <description>ReFaの美顔器・ドライヤー・ヘアアイロンの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SHARPの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sharp</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
+    <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>資生堂の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-shiseido</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-shiseido</guid>
+    <description>SHISEIDO（資生堂）のスキンケア・ベースメイクの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SK-IIの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-skii</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-skii</guid>
+    <description>SK-IIの化粧水・美容液の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Sonyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sony</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
+    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -78,6 +183,20 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>YA-MANの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-ya-man</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-ya-man</guid>
+    <description>YA-MANの美顔器・脱毛器・ヘアケア家電の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>すべてのブランド｜GEARNOTE</title>
+    <link>https://gearnote.net/brands</link>
+    <guid isPermaLink="true">https://gearnote.net/brands</guid>
+    <description>イヤホン・オーディオ、生活家電、スマートホーム、美容家電、コスメ・化粧品まで、ジャンル別にブランドから商品を探せます。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
     <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
@@ -89,6 +208,34 @@
     <link>https://gearnote.net/category-beauty</link>
     <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
     <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-daily</link>
+    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
+    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>食べ物の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-food</link>
+    <guid isPermaLink="true">https://gearnote.net/category-food</guid>
+    <description>プロテインバー・栄養補助食品、おつまみ・珍味、お菓子・スイーツ、ナッツ・保存食まで、特徴をもとに厳選した食品一覧。</description>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -113,10 +260,80 @@
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>おもちゃの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
+    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ゲームの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-games</link>
+    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
+    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アヴィレックスの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-avirex</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-avirex</guid>
+    <description>アヴィレックスのバッグ・リュックの特徴、ミリタリーテイストの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カナナプロジェクトの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-kanana-project</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-kanana-project</guid>
+    <description>カナナプロジェクト製品の特徴、リュック・ショルダーバッグ・トートの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エースジーンの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-acegene</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-acegene</guid>
+    <description>エースジーン製品の特徴、ビジネスリュック・バッグ・スーツケースの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カステルバジャックの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-castelbajac</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-castelbajac</guid>
+    <description>カステルバジャック製品の特徴、バッグ・財布・小物の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ペット用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-pets</link>
+    <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
+    <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-sports</link>
+    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
+    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>本・文房具の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-books</link>
     <guid isPermaLink="true">https://gearnote.net/category-books</guid>
     <description>筆記具・ノート・ファイル・梱包用品・PC周辺機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-car</link>
+    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
+    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -138,223 +355,6 @@
     <link>https://gearnote.net/ranking-hair-dryers</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-hair-dryers</guid>
     <description>パナソニック ナノケア・シャープ IB-WX901・ReFaビューテックを徹底比較。各商品の特徴をもとに、速乾性・静音性・ツヤ仕上げの観点からおすすめのヘアドライヤーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コーヒーマシン・コーヒー器具比較｜デロンギ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-coffee-machines</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
-    <description>コーヒーマシン・コーヒー器具の比較ページです。デロンギの人気3機種（マグニフィカS・スティローザ・ラ・スペシャリスタ）を各商品の特徴から比較し、全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ティファールの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-tfal</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-tfal</guid>
-    <description>ティファール製品の特徴、フライパン・電気ケトル・圧力鍋の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>TORRASの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-torras</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-torras</guid>
-    <description>TORRAS製品の特徴、iPhoneケース・保護フィルム・MagSafeアクセサリーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>UGREENの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-ugreen</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-ugreen</guid>
-    <description>UGREEN製品の特徴、充電器・モバイルバッテリー・USB-Cハブの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アサヒ飲料の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-asahi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-asahi</guid>
-    <description>アサヒ飲料製品の特徴、お茶・炭酸飲料・コーヒーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-headphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
-    <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを徹底比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質・価格の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスマウスおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-wireless-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-wireless-mouse</guid>
-    <description>エレコム 握りの極み・ロジクール M220 静音マウス・ロジクール MX Master 3を徹底比較。各商品の特徴をもとに、握りやすさ・静音性・機能性の観点からおすすめのワイヤレスマウスを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>炭酸・エナジー・スポーツドリンクおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-soda-sports-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-soda-sports-drinks</guid>
-    <description>コカ・コーラ・ポカリスエット・レッドブルを徹底比較。各商品の特徴をもとに、用途・成分・価格の観点からおすすめの炭酸・エナジー・スポーツドリンクを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>扇風機・サーキュレーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fans-circulators</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fans-circulators</guid>
-    <description>アイリスオーヤマ サーキュレーター・マキタ 充電式ファン CF203D・シャープ サーキュレーター PK-S1801を徹底比較。各商品の特徴をもとに、風量・持ち運びやすさ・価格の観点からおすすめの扇風機・サーキュレーターを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cooking-appliances</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
-    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性・価格の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>急速充電器おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-gan-chargers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-gan-chargers</guid>
-    <description>Anker Nano II 65W・UGREEN Nexode 65W小型充電器・Anker Nano Charger 70Wを徹底比較。各商品の特徴をもとに、出力・サイズ・価格の観点からおすすめの急速充電器を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モバイルバッテリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-power-banks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-power-banks</guid>
-    <description>Anker Power Bank（10000mAh）・Anker Power Bank（25000mAh）・Anker Zolo Power Bankを徹底比較。各商品の特徴をもとに、容量・出力・価格の観点からおすすめのモバイルバッテリーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>飲み物・ドリンクウェアおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-drinkware</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-drinkware</guid>
-    <description>ハルクファクター プロテインシェイカー・岩崎工業 ラストロウェア 冷水筒・サーモス 真空断熱ケータイマグを徹底比較。各商品の特徴をもとに、用途・お手入れのしやすさ・価格の観点からおすすめのドリンクウェアを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートホームデバイスおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-smart-home-devices</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-smart-home-devices</guid>
-    <description>SwitchBot ハブ3・Amazon Echo Dot 第5世代・Eufy SmartTrack Card E30を徹底比較。各商品の特徴をもとに、機能・使い勝手・価格の観点からおすすめのスマートホームデバイスを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>iPhoneケース・アクセサリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-iphone-accessories</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-iphone-accessories</guid>
-    <description>TORRAS iPhone 17 ガラスフィルム・TORRAS Guardian-Mag ケース・TORRAS Ostand Q3を徹底比較。各商品の特徴をもとに、保護性能・機能性・価格の観点からおすすめのiPhoneアクセサリーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DJIの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dji</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dji</guid>
-    <description>DJIのスマホ用ジンバル・ワイヤレスマイクなど撮影機材の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バッファローの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-buffalo</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-buffalo</guid>
-    <description>バッファロー(BUFFALO)のポータブルSSD・USBメモリ・PC周辺機器の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-tiger</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
-    <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shokzの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-shokz</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-shokz</guid>
-    <description>Shokzのオープンイヤー型イヤホン・骨伝導ヘッドホンの特徴、選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano Power Bank (MagGo, Plus) の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-black</guid>
-    <description>Anker Nano Power Bank (MagGo, Plus) 10000mAh ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano USB-C ハブ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-nano-usbc-hub-10in1-240hz-display-dark-gray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-usbc-hub-10in1-240hz-display-dark-gray</guid>
-    <description>Anker Nano USB-C ハブ (10-in-1, 240Hz, Display) ダークグレーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>UGREEN 45W Type-C 急速充電器（ディスプレイ付き・折りたたみプラグ） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ugreen-45w-usbc-charger-display-iphone-detect</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ugreen-45w-usbc-charger-display-iphone-detect</guid>
-    <description>UGREEN 45W Type-C 急速充電器（ディスプレイ付き・折りたたみプラグ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Satechi Slim EX ワイヤレスマウス 静音クリック ブラッシュ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-satechi-slim-ex-wireless-mouse-blush</link>
-    <guid isPermaLink="true">https://gearnote.net/product-satechi-slim-ex-wireless-mouse-blush</guid>
-    <description>Satechi Slim EX ワイヤレスマウス 静音クリック ブラッシュの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Smart Band 11 Active スマートバンド の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-smart-band-11-active</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-smart-band-11-active</guid>
-    <description>Xiaomi Smart Band 11 Active スマートバンドの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Watch 6 Lite スマートウォッチ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-watch-6-lite</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-watch-6-lite</guid>
-    <description>Xiaomi REDMI Watch 6 Lite スマートウォッチの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi スマートカメラ C500 Neo 室内用 3.5K 見守りカメラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-smart-camera-c500-neo</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-smart-camera-c500-neo</guid>
-    <description>Xiaomi スマートカメラ C500 Neo 室内用 3.5K 見守りカメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DJI Osmo Nano On-the-Go コンボ (128GB) の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dji-osmo-nano-on-the-go-combo-128gb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-nano-on-the-go-combo-128gb</guid>
-    <description>DJI Osmo Nano On-the-Go コンボ (128GB) ウェアラブルVlogカメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Eufy eufyCam C37 4K 屋外防犯カメラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-eufy-eufycam-c37-4k</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-eufy-eufycam-c37-4k</guid>
-    <description>Anker Eufy eufyCam C37 4K 屋外防犯カメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Kindle 32GB 最新モデル アルミニウムデザイン 6インチ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-kindle-32gb-aluminum-alpine-sky-blue</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-kindle-32gb-aluminum-alpine-sky-blue</guid>
-    <description>Amazon Kindle 32GB 最新モデル アルミニウムデザイン 6インチ アルペンスカイブルーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バッファロー Wi-Fi 7 ルーター WSR6500BE6P/N10G 有線10Gbps の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-buffalo-wifi7-router-wsr6500be6p-n10g</link>
-    <guid isPermaLink="true">https://gearnote.net/product-buffalo-wifi7-router-wsr6500be6p-n10g</guid>
-    <description>バッファロー Wi-Fi 7 ルーター WSR6500BE6P/N10G 有線10Gbpsの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ティファール 電気ケトル ジャスティン グレージュ 1.0L KO5J1BJ0 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tefal-electric-kettle-justin-greige-10l-ko5j1bj0</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tefal-electric-kettle-justin-greige-10l-ko5j1bj0</guid>
-    <description>ティファール 電気ケトル ジャスティン グレージュ 1.0L KO5J1BJ0の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
