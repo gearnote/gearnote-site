@@ -1568,3 +1568,13 @@ img.cat-product-thumb {
 .ct-notice { display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 8px; }
 .ct-actions { display: flex; flex-direction: column; gap: 6px; align-items: flex-start; }
 .ct-none { color: var(--text-muted); }
+
+/* ===== 最近見た商品（2026-10-06） ===== */
+.recent-strip { margin: 28px 0 8px; padding: 16px 18px; border: 1px solid var(--border, rgba(127,127,127,0.25)); border-radius: 14px; }
+.recent-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; }
+.recent-title { font-weight: 700; font-size: 0.98rem; }
+.recent-clear { background: none; border: none; color: var(--text-muted); font-size: 0.82rem; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; padding: 4px; }
+.recent-row { display: flex; gap: 12px; overflow-x: auto; padding-bottom: 6px; scroll-snap-type: x proximity; }
+.recent-item { flex: 0 0 120px; scroll-snap-align: start; text-decoration: none; font-size: 0.78rem; line-height: 1.45; color: inherit; }
+.recent-item img { display: block; width: 120px; height: 120px; object-fit: contain; background: #fff; border-radius: 10px; margin-bottom: 6px; }
+.recent-item span { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }

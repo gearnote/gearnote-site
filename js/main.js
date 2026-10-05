@@ -479,4 +479,8 @@ document.addEventListener("DOMContentLoaded", () => {
   s.src = "js/compare-list.js";
   s.defer = true;
   document.head.appendChild(s);
+  var r = document.createElement("script");
+  r.src = "js/recent-views.js";
+  r.defer = true;
+  document.head.appendChild(r);
 })();
