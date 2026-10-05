@@ -39,7 +39,8 @@
         var th = tr.querySelector("th"), td = tr.querySelector("td");
         if (th && td) rows.push([th.textContent.trim(), td.textContent.trim()]);
       });
-      var p = { slug: slug, name: h1 ? h1.textContent.trim() : slug, img: og ? og.getAttribute("content") : "", amazon: amazon ? amazon.getAttribute("href") : "", amazonLabel: amazon ? amazon.textContent.trim() : "", notice: notice, rows: rows };
+      var gl = d.querySelector(".guide-link a");
+      var p = { guide: gl ? { href: gl.getAttribute("href"), text: gl.textContent.trim() } : null, slug: slug, name: h1 ? h1.textContent.trim() : slug, img: og ? og.getAttribute("content") : "", amazon: amazon ? amazon.getAttribute("href") : "", amazonLabel: amazon ? amazon.textContent.trim() : "", notice: notice, rows: rows };
       cache[slug] = p;
       return p;
     });
@@ -74,12 +75,15 @@
       if (onlyDiff && !diff) return "";
       return '<tr class="' + (diff ? "ct-diff" : "") + '"><th>' + esc(k) + "</th>" + vals.map(function (v) { return "<td>" + (v ? esc(v) : '<span class="ct-none">—</span>') + "</td>"; }).join("") + "</tr>";
     }).join("");
+    var guides = [];
+    products.forEach(function (p) { if (p.guide && /^guide-[a-z-]+\.html$/.test(p.guide.href) && !guides.some(function (g) { return g.href === p.guide.href; })) guides.push(p.guide); });
+    var guideHtml = guides.length ? '<p class="ct-guides"><strong>仕様の見方：</strong>' + guides.map(function (g) { return '<a href="' + esc(g.href) + '">' + esc(g.text) + "</a>"; }).join("／") + "</p>" : "";
     var shareUrl = location.origin + "/compare-tool.html?p=" + products.map(function (p) { return p.slug; }).join(",");
     root.innerHTML = '<div class="ct-bar"><label><input type="checkbox" id="ct-onlydiff"' + (onlyDiff ? " checked" : "") + '> 違いのある項目だけ表示</label>' +
       '<button type="button" class="btn btn-ghost btn-sm" id="ct-copy">この比較のURLをコピー</button>' +
       (sharedMode ? ' <a class="btn btn-ghost btn-sm" href="compare-tool.html" id="ct-mine">自分の比較リストを見る</a>' : ' <button type="button" class="btn btn-ghost btn-sm" id="ct-clear">リストを空にする</button>') + "</div>" +
       '<div class="ct-wrap"><table class="ct-table"><thead>' + head + "</thead><tbody>" + body + "</tbody></table></div>" +
-      '<p class="pd-source-note">※仕様は、各商品ページ（Amazon商品ページの掲載情報をもとに記載）の「商品情報・仕様」を並べたものです。空欄（—）は、その商品ページに記載がない項目です。最新情報は必ずAmazon商品ページでご確認ください。</p>';
+      guideHtml + '<p class="pd-source-note">※仕様は、各商品ページ（Amazon商品ページの掲載情報をもとに記載）の「商品情報・仕様」を並べたものです。空欄（—）は、その商品ページに記載がない項目です。最新情報は必ずAmazon商品ページでご確認ください。</p>';
     var cb = document.getElementById("ct-onlydiff");
     if (cb) cb.addEventListener("change", function () { onlyDiff = cb.checked; render(products); });
     var cp = document.getElementById("ct-copy");
