@@ -472,3 +472,11 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 })();
+
+// 比較リスト（商品ページのボタンとヘッダーのリンク）
+(function () {
+  var s = document.createElement("script");
+  s.src = "js/compare-list.js";
+  s.defer = true;
+  document.head.appendChild(s);
+})();

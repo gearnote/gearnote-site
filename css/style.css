@@ -1545,3 +1545,26 @@ img.cat-product-thumb {
   .install-banner-row { padding: 10px 14px; gap: 10px; }
   .install-banner-btn { padding: 7px 12px; font-size: 0.78rem; }
 }
+
+/* ===== 比較リスト（2026-10-06） ===== */
+.compare-toggle { margin-left: 0; cursor: pointer; }
+.compare-hint { margin: 8px 0 0; font-size: 0.85rem; color: var(--text-muted); }
+.compare-hint a { text-decoration: underline; text-underline-offset: 3px; }
+.nav-compare { white-space: nowrap; }
+.compare-empty { padding: 28px 0; }
+.compare-loading { color: var(--text-muted); padding: 24px 0; }
+.ct-bar { display: flex; flex-wrap: wrap; gap: 12px 16px; align-items: center; margin: 4px 0 16px; font-size: 0.92rem; }
+.ct-bar label { display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+.ct-wrap { overflow-x: auto; border: 1px solid var(--border, rgba(127,127,127,0.25)); border-radius: 12px; }
+.ct-table { border-collapse: collapse; width: 100%; min-width: 560px; font-size: 0.9rem; }
+.ct-table th, .ct-table td { padding: 10px 12px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--border, rgba(127,127,127,0.2)); }
+.ct-table tbody th { width: 130px; min-width: 110px; font-weight: 700; position: sticky; left: 0; background: var(--surface, var(--bg)); z-index: 1; }
+.ct-table td { min-width: 150px; line-height: 1.6; }
+.ct-table tr.ct-diff td { background: rgba(176, 141, 87, 0.10); }
+.ct-corner { width: 130px; min-width: 110px; position: sticky; left: 0; background: var(--surface, var(--bg)); z-index: 2; }
+.ct-prod { min-width: 150px; vertical-align: top; font-weight: 500; }
+.ct-prod img { display: block; width: 110px; height: 110px; object-fit: contain; background: #fff; border-radius: 8px; margin-bottom: 8px; }
+.ct-name { display: block; font-size: 0.88rem; line-height: 1.45; margin-bottom: 8px; }
+.ct-notice { display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 8px; }
+.ct-actions { display: flex; flex-direction: column; gap: 6px; align-items: flex-start; }
+.ct-none { color: var(--text-muted); }
