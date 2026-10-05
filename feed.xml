@@ -6,7 +6,56 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 05 Oct 2026 09:10:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 09:17:16 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-daily</link>
+    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
+    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>食べ物の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-food</link>
+    <guid isPermaLink="true">https://gearnote.net/category-food</guid>
+    <description>プロテインバー・栄養補助食品、おつまみ・珍味、お菓子・スイーツ、ナッツ・保存食まで、特徴をもとに厳選した食品一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>エリエール シャワートイレ用トイレットペーパーの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-elleair-washlet-toilet-paper-72</link>
@@ -75,6 +124,27 @@
     <link>https://gearnote.net/product-switchbot-hub3</link>
     <guid isPermaLink="true">https://gearnote.net/product-switchbot-hub3</guid>
     <description>SwitchBot ハブ3 スマートリモコン(Alexa対応)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ペット用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-pets</link>
+    <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
+    <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-kitchen</link>
+    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
+    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
     <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -246,6 +316,34 @@
     <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>お茶・健康茶おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-tea-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-tea-drinks</guid>
+    <description>コカ・コーラ やかんの麦茶・コカ・コーラ 綾鷹・キリン 生茶を徹底比較。各商品の特徴をもとに、味わい・カフェインの有無・価格の観点からおすすめのお茶飲料を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ナッツ・保存食おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-nuts-preserved-food</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-nuts-preserved-food</guid>
+    <description>by Amazon 素焼きミックスナッツ・by Amazon 有塩ミックスナッツ・IRODORIYA チキンジャーキーを徹底比較。各商品の特徴をもとに、栄養バランス・食べやすさ・価格の観点からおすすめのナッツ・保存食を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲み物・ドリンクウェアおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-drinkware</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-drinkware</guid>
+    <description>ハルクファクター プロテインシェイカー・岩崎工業 ラストロウェア 冷水筒・サーモス 真空断熱ケータイマグを徹底比較。各商品の特徴をもとに、用途・お手入れのしやすさ・価格の観点からおすすめのドリンクウェアを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>犬用首輪・ハーネス・リードおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-dog-collars-leashes</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-dog-collars-leashes</guid>
+    <description>Rabbitgoo ハーネスリードセット・BELLA &amp; PAL ハーネスリードセット・ペティオ リールリードロードを徹底比較。各商品の特徴をもとに、安全性・使いやすさ・価格の観点からおすすめの犬用首輪・ハーネス・リードを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ANUA アゼライン酸15インテンスカーミングセラム の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-anua-azelaic-acid-15-serum</link>
     <guid isPermaLink="true">https://gearnote.net/product-anua-azelaic-acid-15-serum</guid>
@@ -257,104 +355,6 @@
     <link>https://gearnote.net/product-natureremo-mini2</link>
     <guid isPermaLink="true">https://gearnote.net/product-natureremo-mini2</guid>
     <description>Nature Remo mini 2(ネイチャーリモ ミニ2) スマートリモコンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Nature Remo Lapis の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-natureremo-lapis</link>
-    <guid isPermaLink="true">https://gearnote.net/product-natureremo-lapis</guid>
-    <description>Nature Remo Lapis(ネイチャーリモ ラピス) スマートリモコンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Nature Remo nano の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-natureremo-nano</link>
-    <guid isPermaLink="true">https://gearnote.net/product-natureremo-nano</guid>
-    <description>Nature Remo nano(ネイチャーリモ ナノ) スマートリモコンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo H110 スマートハブ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-h110-smart-hub</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-h110-smart-hub</guid>
-    <description>TP-Link Tapo H110 赤外線スマートハブの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo P105 スマートプラグ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-p105-smart-plug</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-p105-smart-plug</guid>
-    <description>TP-Link Tapo P105 WiFiスマートプラグの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KINUJO ストレートヘアアイロン LM225 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kinujo-straight-iron</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kinujo-straight-iron</guid>
-    <description>KINUJO(キヌージョ) ストレートヘアアイロン 絹女 LM225の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Google Nest Wifi ルーター の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-google-nest-wifi-router</link>
-    <guid isPermaLink="true">https://gearnote.net/product-google-nest-wifi-router</guid>
-    <description>Google Nest Wifi ルーター（メッシュネットワーク対応）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Philips Sonicare for Kids HX6322/06の特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-philips-sonicare-kids</link>
-    <guid isPermaLink="true">https://gearnote.net/product-philips-sonicare-kids</guid>
-    <description>Philips Sonicare for Kids 子供用電動歯ブラシ HX6322/06の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>PHILIPS T8015 11インチタブレットの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-philips-t8015-tablet</link>
-    <guid isPermaLink="true">https://gearnote.net/product-philips-t8015-tablet</guid>
-    <description>PHILIPS T8015 11インチタブレット（国内正規品）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KINUJO カールアイロン 32mm の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kinujo-curl-iron-32mm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kinujo-curl-iron-32mm</guid>
-    <description>KINUJO(キヌージョ) カールアイロン 絹女 32mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール ゲーミングキーボード G213r の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logicool-g213-gaming-keyboard</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-g213-gaming-keyboard</guid>
-    <description>Logicool G ゲーミングキーボード G213rの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dickies WD42283 ワークショーツの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dickies-42283-workshorts</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dickies-42283-workshorts</guid>
-    <description>ディッキーズ WD42283 13インチポケットワークショーツの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KINUJO ミニアイロン ドゥー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kinujo-mini-iron-deux</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kinujo-mini-iron-deux</guid>
-    <description>KINUJO(キヌージョ) ミニアイロン ドゥー MINI IRON deuxの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KINUJO 2WAY IRON の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kinujo-2way-iron</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kinujo-2way-iron</guid>
-    <description>KINUJO(キヌージョ) 2WAY IRON 32mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo P110M スマートプラグ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-p110m-smart-plug</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-p110m-smart-plug</guid>
-    <description>TP-Link Tapo P110M Matter対応スマートプラグの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
