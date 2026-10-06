@@ -3,16 +3,16 @@
    ========================================================================== */
 
 :root {
-  --bg: #f6f4ef;
-  --surface: #ffffff;
-  --surface-alt: #efeadf;
-  --text: #1e1b17;
-  --text-muted: #7c7468;
-  --border: #e4ddcd;
+  --bg: #14120e;
+  --surface: #1c1913;
+  --surface-alt: #211d16;
+  --text: #f1ede2;
+  --text-muted: #a89e8c;
+  --border: #2e2a20;
 
   --brand: #8a6d3b;
   --brand-light: #b08d57;
-  --brand-dark: #17140f;
+  --brand-dark: #0c0a07;
 
   --amazon: #b08d57;
   --amazon-dark: #8a6d3b;
@@ -27,30 +27,6 @@
   --shadow-lg: 0 18px 40px rgba(30, 26, 20, 0.10);
 
   --container: 1120px;
-  color-scheme: light;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #14120e;
-    --surface: #1c1913;
-    --surface-alt: #211d16;
-    --text: #f1ede2;
-    --text-muted: #a89e8c;
-    --border: #2e2a20;
-    --brand-dark: #0c0a07;
-    color-scheme: dark;
-  }
-}
-
-:root[data-theme="dark"] {
-  --bg: #14120e;
-  --surface: #1c1913;
-  --surface-alt: #211d16;
-  --text: #f1ede2;
-  --text-muted: #a89e8c;
-  --border: #2e2a20;
-  --brand-dark: #0c0a07;
   color-scheme: dark;
 }
 
@@ -1622,3 +1598,5 @@ img.cat-product-thumb {
 .nav-search button { background: none; border: none; cursor: pointer; font-size: 0.95rem; padding: 4px; }
 .quiz-share { margin: 14px 0 0; }
 @media (min-width: 1300px) { .nav-search { display: flex; } }
+/* ダークモード固定（2026-10-06）：切替ボタンは表示しない */
+.theme-toggle { display: none !important; }

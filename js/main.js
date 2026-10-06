@@ -43,26 +43,13 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // ダークモード固定：切替ボタンは取り除き、過去に保存されたライト設定も無効にする
   const themeToggle = document.getElementById("theme-toggle");
-  if (themeToggle) {
-    const getTheme = () => {
-      const attr = document.documentElement.getAttribute("data-theme");
-      if (attr) return attr;
-      return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-    };
-    const updateIcon = () => {
-      themeToggle.textContent = getTheme() === "dark" ? "☀️" : "🌙";
-    };
-    themeToggle.addEventListener("click", () => {
-      const next = getTheme() === "dark" ? "light" : "dark";
-      document.documentElement.setAttribute("data-theme", next);
-      try {
-        localStorage.setItem("gearnote-theme", next);
-      } catch (e) {}
-      updateIcon();
-    });
-    updateIcon();
-  }
+  if (themeToggle) themeToggle.remove();
+  document.documentElement.setAttribute("data-theme", "dark");
+  try {
+    localStorage.removeItem("gearnote-theme");
+  } catch (e) {}
 
   const rankingList = document.getElementById("ranking-list");
   const picksList = document.getElementById("picks-list");
