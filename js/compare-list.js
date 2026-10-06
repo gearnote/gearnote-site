@@ -139,7 +139,22 @@
     if (a && location.pathname.replace(/\/+$/, "").split("/").pop().replace(/\.html$/, "") !== "all-products") a.setAttribute("href", "search.html");
   }
 
-  function init() { navSearch(); navLink(); productButton(); cardButtons(); catButtons(); }
+  // ヘッダーの小さな検索ボックス（広い画面のみ表示。送信すると search.html?q=… に移る）
+  function headerSearch() {
+    var group = document.querySelector(".nav-group");
+    var nav = group && group.querySelector(".main-nav");
+    if (!group || !nav || group.querySelector(".nav-search")) return;
+    if (/(^|\/)search(\.html)?$/.test(location.pathname)) return;
+    var f = document.createElement("form");
+    f.className = "nav-search";
+    f.action = "search.html";
+    f.method = "get";
+    f.setAttribute("role", "search");
+    f.innerHTML = '<input type="search" name="q" placeholder="商品を検索" aria-label="商品を検索" autocomplete="off"><button type="submit" aria-label="検索">🔍</button>';
+    nav.parentNode.insertBefore(f, nav.nextSibling);
+  }
+
+  function init() { navSearch(); headerSearch(); navLink(); productButton(); cardButtons(); catButtons(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
   window.addEventListener("storage", function (e) { if (e.key === KEY) navLink(); });
 })();

@@ -1616,3 +1616,9 @@ img.cat-product-thumb {
 .site-search-count { margin: 10px 0 0; color: var(--text-muted); font-size: 0.9rem; }
 .site-search-cat { display: block; font-size: 0.72rem; color: var(--text-muted); margin-top: 2px; }
 .site-search-empty[hidden], #site-search-more[hidden] { display: none; }
+.nav-search { display: none; align-items: center; gap: 4px; margin: 0 8px 0 4px; }
+.nav-search input { width: 130px; height: 32px; padding: 0 10px; border: 1px solid var(--border-strong, rgba(127,127,127,0.4)); border-radius: 16px; background: transparent; color: inherit; font-size: 0.85rem; }
+.nav-search input:focus { outline: none; border-color: var(--gold, #b08d57); width: 170px; }
+.nav-search button { background: none; border: none; cursor: pointer; font-size: 0.95rem; padding: 4px; }
+.quiz-share { margin: 14px 0 0; }
+@media (min-width: 1300px) { .nav-search { display: flex; } }

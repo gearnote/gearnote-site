@@ -54,7 +54,22 @@
     html += '<p style="margin-top:18px;"><a class="btn btn-amazon" href="' + Q.guide + '.html">選び方ガイドで、仕様の見方をくわしく読む</a> <button type="button" class="btn btn-ghost quiz-retry">もう一度診断する</button></p>' +
       '<p class="pd-source-note">※一般的な目安です。特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書をご確認ください。</p></div>';
     app.innerHTML = html;
-    app.querySelector(".quiz-retry").addEventListener("click", function () { step = 0; answers = []; showQuestion(); });
+    // 結果の共有（回答をURLに入れる。回答の中身は番号だけで、個人情報は含まない）
+    var shareUrl = location.origin + location.pathname + "?a=" + answers.join(".");
+    var shareBox = document.createElement("p");
+    shareBox.className = "quiz-share";
+    shareBox.innerHTML = '<button type="button" class="btn btn-ghost btn-sm quiz-copy">この結果のURLをコピー</button> ' +
+      (navigator.share ? '<button type="button" class="btn btn-ghost btn-sm quiz-nshare">共有する</button>' : "");
+    app.querySelector(".quiz-result").insertBefore(shareBox, app.querySelector(".pd-source-note"));
+    shareBox.querySelector(".quiz-copy").addEventListener("click", function () {
+      var b = this;
+      function done() { b.textContent = "コピーしました"; setTimeout(function () { b.textContent = "この結果のURLをコピー"; }, 1800); }
+      if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(shareUrl).then(done, function () { window.prompt("URLをコピーしてください", shareUrl); });
+      else window.prompt("URLをコピーしてください", shareUrl);
+    });
+    var ns = shareBox.querySelector(".quiz-nshare");
+    if (ns) ns.addEventListener("click", function () { navigator.share({ title: document.title, text: "診断結果：" + top.name + "が候補でした", url: shareUrl }).catch(function () {}); });
+    app.querySelector(".quiz-retry").addEventListener("click", function () { step = 0; answers = []; try { history.replaceState(null, "", location.pathname); } catch (e) {} showQuestion(); });
     app.querySelectorAll(".quiz-cmp").forEach(function (b) {
       b.addEventListener("click", function () {
         var C = window.GearnoteCompare; if (!C) { location.href = "compare-tool.html"; return; }
@@ -67,5 +82,12 @@
     app.scrollIntoView({ block: "start" });
   }
 
+  // 共有URL（?a=0.2.1）から結果を開く
+  var m = location.search.match(/[?&]a=([0-9.]+)/);
+  if (m) {
+    var parts = m[1].split(".").map(function (x) { return parseInt(x, 10); });
+    var okShared = parts.length === Q.questions.length && parts.every(function (v, i) { return v >= 0 && v < Q.questions[i].options.length; });
+    if (okShared) { answers = parts; step = Q.questions.length - 1; showResult(); return; }
+  }
   showQuestion();
 })();
