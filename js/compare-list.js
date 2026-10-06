@@ -135,7 +135,7 @@
 
   // ヘッダーの「商品検索」を、キーワード検索ができる search.html に向ける（全商品一覧は search.html から辿れる）
   function navSearch() {
-    var a = document.querySelector('.main-nav a[href="all-products.html"]');
+    var a = document.querySelector('.main-nav a[href$="all-products.html"], .main-nav a[href$="all-products"]');
     if (a && location.pathname.replace(/\/+$/, "").split("/").pop().replace(/\.html$/, "") !== "all-products") a.setAttribute("href", "search.html");
   }
 

@@ -1597,6 +1597,6 @@ img.cat-product-thumb {
 .nav-search input:focus { outline: none; border-color: var(--gold, #b08d57); width: 170px; }
 .nav-search button { background: none; border: none; cursor: pointer; font-size: 0.95rem; padding: 4px; }
 .quiz-share { margin: 14px 0 0; }
-@media (min-width: 1300px) { .nav-search { display: flex; } .main-nav > a[href="all-products.html"], .main-nav > a[href="search.html"] { display: none; } }
+@media (min-width: 1300px) { .nav-search { display: flex; } .main-nav > a[href$="all-products"], .main-nav > a[href$="all-products.html"], .main-nav > a[href$="search"], .main-nav > a[href$="search.html"] { display: none; } }
 /* ダークモード固定（2026-10-06）：切替ボタンは表示しない */
 .theme-toggle { display: none !important; }
