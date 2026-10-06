@@ -133,7 +133,13 @@
     });
   }
 
-  function init() { navLink(); productButton(); cardButtons(); catButtons(); }
+  // ヘッダーの「商品検索」を、キーワード検索ができる search.html に向ける（全商品一覧は search.html から辿れる）
+  function navSearch() {
+    var a = document.querySelector('.main-nav a[href="all-products.html"]');
+    if (a && location.pathname.replace(/\/+$/, "").split("/").pop().replace(/\.html$/, "") !== "all-products") a.setAttribute("href", "search.html");
+  }
+
+  function init() { navSearch(); navLink(); productButton(); cardButtons(); catButtons(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
   window.addEventListener("storage", function (e) { if (e.key === KEY) navLink(); });
 })();
