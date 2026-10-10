@@ -55,7 +55,8 @@
       '<p class="pd-source-note">※一般的な目安です。特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書をご確認ください。</p></div>';
     app.innerHTML = html;
     // 結果の共有（回答をURLに入れる。回答の中身は番号だけで、個人情報は含まない）
-    var shareUrl = location.origin + location.pathname + "?a=" + answers.join(".");
+    // 共有URLは「結果ごとの専用ページ」（画像カードつき）。回答の番号は含めない。
+    var shareUrl = location.origin + "/quiz-" + Q.slug + "-r-" + keys[0];
     var shareBox = document.createElement("p");
     shareBox.className = "quiz-share";
     shareBox.innerHTML = '<button type="button" class="btn btn-ghost btn-sm quiz-copy">この結果のURLをコピー</button> ' +
