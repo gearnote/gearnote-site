@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 11 Oct 2026 10:17:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 11:25:56 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -267,6 +267,20 @@
     <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>デロンギ コーヒーグラインダー KG200JN の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-kg200jn</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-kg200jn</guid>
+    <description>デロンギ コーヒーグラインダー KG200JN カッター式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ミニオイルヒーター NJ0505E の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-mini-oil-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-mini-oil-heater</guid>
+    <description>De&#x27;Longhi(デロンギ) ミニオイルヒーター NJ0505Eの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
     <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/category-pets</link>
     <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
     <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
-    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-sports</link>
-    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
-    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
-    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>本・文房具の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-books</link>
-    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
-    <description>筆記具・ノート・ファイル・梱包用品・PC周辺機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
     <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
