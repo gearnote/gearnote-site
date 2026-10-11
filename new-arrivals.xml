@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 11 Oct 2026 08:58:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 09:05:09 +0000</lastBuildDate>
+  <item>
+    <title>Apple iPhone 18 Pro 256GB シルバー</title>
+    <link>https://gearnote.net/product-apple-iphone-18-pro-256gb-silver</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-256gb-silver</guid>
+    <description>Appleのスマートフォン「iPhone 18 Pro」の256GB・シルバーです。</description>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple MagSafe対応 iPhone 18 Pro Max クリアケース</title>
+    <link>https://gearnote.net/product-apple-iphone-18-pro-max-clear-case-magsafe</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-max-clear-case-magsafe</guid>
+    <description>Appleの「MagSafe対応 iPhone 18 Pro Max クリアケース」です。</description>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>BenQ GW2791P 27インチ アイケアモニター FHD IPS 120Hz</title>
+    <link>https://gearnote.net/product-benq-gw2791p-27-fhd-ips-120hz-eyecare-monitor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-benq-gw2791p-27-fhd-ips-120hz-eyecare-monitor</guid>
+    <description>BenQ（ベンキュージャパン）の27インチ アイケアモニター「GW2791P」です。</description>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック 電気毛布 約140×80cm DB-U13T-C（ベージュ）</title>
+    <link>https://gearnote.net/product-panasonic-electric-blanket-db-u13t-c-140x80</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-electric-blanket-db-u13t-c-140x80</guid>
+    <description>パナソニックの電気毛布「DB-U13T-C」（ベージュ）です。</description>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ツインバード 衣類乾燥除湿機 空気清浄機能付 JS-E956W（ホワイト・クロス布巾セット）</title>
+    <link>https://gearnote.net/product-twinbird-clothes-dryer-dehumidifier-air-purifier-js-e956w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-twinbird-clothes-dryer-dehumidifier-air-purifier-js-e956w</guid>
+    <description>ツインバードの空気清浄機能付き衣類乾燥除湿機「JS-E956W」（ホワイト）に、マーナのクロス布巾が付くセットです。</description>
+    <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>アリエール 液体 除菌+カビ撃減 洗濯洗剤 本体670g</title>
     <link>https://gearnote.net/product-ariel-liquid-detergent-99-jokin-kabi-gekigen-670g-body</link>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/product-koizumi-electric-stove-steam-keh-0960-h</link>
     <guid isPermaLink="true">https://gearnote.net/product-koizumi-electric-stove-steam-keh-0960-h</guid>
     <description>コイズミ(Koizumi)の電気ストーブ（グレー）、型番KEH-0960/Hです。</description>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 平形電気あんか KHA-06262（チェック柄）</title>
-    <link>https://gearnote.net/product-koizumi-flat-electric-warmer-kha-06262</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-flat-electric-warmer-kha-06262</guid>
-    <description>コイズミ(Koizumi)の平形電気あんか（チェック柄）、型番KHA-06262です。</description>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 電気掛敷毛布 188×120cm KDK-60261</title>
-    <link>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-60261</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-60261</guid>
-    <description>コイズミ(Koizumi)の電気掛敷毛布、型番KDK-60261です。</description>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アクロン おしゃれ着用洗剤 ふんわりなめらかケア 本体430ml フローラルブーケの香り</title>
-    <link>https://gearnote.net/product-lion-acron-fluffy-smooth-care-floral-bouquet-430ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lion-acron-fluffy-smooth-care-floral-bouquet-430ml</guid>
-    <description>ライオンのおしゃれ着用洗剤「アクロン ふんわりなめらかケア」の本体430ml（フローラルブーケの香り）です。</description>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Logicool G G512 X 75 ゲーミングキーボード リニア 日本語配列</title>
-    <link>https://gearnote.net/product-logicool-g512x-75-gaming-keyboard-linear-white-g512x-75-lnwhd</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-g512x-75-gaming-keyboard-linear-white-g512x-75-lnwhd</guid>
-    <description>Logicool G（ロジクールG）の有線ゲーミングキーボード「G512 X 75」（ホワイト、リニア、日本語配列）、型番G512X-75-LNWHd（Amazon.co.jp限定）です。</description>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール Signature Comfort Plus M840LOW</title>
-    <link>https://gearnote.net/product-logicool-signature-comfort-plus-m840low-off-white</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-signature-comfort-plus-m840low-off-white</guid>
-    <description>ロジクール(Logicool)の右利き用ワイヤレスマウス「Signature Comfort Plus M840」（オフホワイト）、型番M840LOWです。</description>
     <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
