@@ -32,6 +32,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"診断クイズ","item":"https://gearnote.net/quiz"},{"@type":"ListItem","position":3,"name":"モニター"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ゲーミングモニターは、リフレッシュレートが高ければ使えますか？","acceptedAnswer":{"@type":"Answer","text":"高いリフレッシュレートを使うには、つなぐ機器やケーブルの対応が必要です。表記の最大値が条件つきである場合もあるため、接続端子のバージョンと対応するHzを商品ページで確認してください。"}},{"@type":"Question","name":"モバイルモニターは、USB-Cでつなげば映らないことはありませんか？","acceptedAnswer":{"@type":"Answer","text":"つなぐ機器がUSB-Cでの映像出力に対応しているかどうかによります。機器側の仕様で確認してください。モバイルモニターはつないだ機器から給電する機種が多いため、必要な給電も確認が必要です。"}},{"@type":"Question","name":"診断結果は、特定の商品をすすめるものですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。"}},{"@type":"Question","name":"結果は、どのように決まりますか？","acceptedAnswer":{"@type":"Answer","text":"選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。"}},{"@type":"Question","name":"回答は、保存されたり送信されたりしますか？","acceptedAnswer":{"@type":"Answer","text":"回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。"}},{"@type":"Question","name":"診断のあと、どう進めればよいですか？","acceptedAnswer":{"@type":"Answer","text":"結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。"}}]}</script>
 </head>
 <body>
 
@@ -70,11 +71,37 @@
       </div>
     </div>
     <div id="quiz-app" class="quiz-app"><p class="compare-loading">読み込み中…</p></div>
-    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果の種類」と、<a href="guide-monitor.html">選び方ガイド</a>をご覧ください。</p></noscript>
+    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果のタイプ一覧」と、<a href="guide-monitor.html">選び方ガイド</a>をご覧ください。</p></noscript>
     <div class="pd-deep" style="margin-top:34px;">
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading">診断結果の種類（目安）</h2>
+        <h2 class="pd-deep-heading">この診断でわかること</h2>
+        <p>3つの質問に答えるだけで、モニターの「タイプ」の目安がわかります。結果は4つのタイプ（事務・ノートPC向けタイプ（24〜27インチ）、画質重視タイプ（4K・色域の表記つき）、ゲーミングタイプ（高リフレッシュレート）、モバイルモニター（持ち運びタイプ））のうち、回答に近いものが表示されます。</p>
+        <ul><li>質問1：主な使い方は？（選択肢4つ）</li><li>質問2：つなぐ機器は？（選択肢3つ）</li><li>質問3：置き場所は？（選択肢2つ）</li></ul>
+        <p>結果には、そのタイプの特徴、仕様表で見るポイント、使うときの注意点、GEARNOTEに掲載している同じ種類の商品、選び方ガイドへのリンクが表示されます。</p>
+        <p>この診断が示すのは、商品の優劣ではなく「どの種類から検討するとよいか」の目安です。個々の商品の性能や適合は、商品ページの仕様表とメーカーの案内で確認してください。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">選ぶときの3つの視点</h2>
+        <h3>1. 主な使い方から、画面サイズと解像度を絞る</h3><p>仕事や勉強なら24〜27インチの標準的なモニター、写真や動画の編集なら4Kや色域の表記を確認できるタイプ、ゲームならリフレッシュレート（Hz）が高いタイプ、外出先やサブ画面ならモバイルモニターが候補です。</p><h3>2. つなぐ機器と、端子・給電を確認する</h3><p>ノートPCとケーブル1本（USB-C）でつなぎたい場合は、USB-Cの映像出力と給電出力（W）が仕様表のポイントです。デスクトップPCやゲーム機なら、HDMIやDisplayPortのバージョンと対応するHzを見ます。スマホやタブレットにつなぐ場合は、機器側の対応も確認します。</p><h3>3. 置き場所と調整機能を見る</h3><p>机に置く場合は、高さ・角度の調整幅や、ほかの機器（スタンドやモニターアーム）との相性が確認ポイントです。持ち運ぶモバイルモニターは、重さ・厚さ、スタンドやカバーの有無、バッテリー内蔵ではなくつないだ機器から給電する機種が多い点にも注意します。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">診断結果のタイプ一覧（全4タイプ）</h2>
         <ul class="quiz-types"><li><strong>事務・ノートPC向けタイプ（24〜27インチ）</strong>：仕事や勉強で使われる、標準的な大きさのモニターです。ノートPCとケーブル1本（USB-C）でつなげて、充電もできる機種があります。</li><li><strong>画質重視タイプ（4K・色域の表記つき）</strong>：写真や動画の編集などで、画質や色の表記を確認したいときに選ばれるタイプです。解像度や色域は、商品ページの表記条件を確認して選びます。</li><li><strong>ゲーミングタイプ（高リフレッシュレート）</strong>：1秒あたりの画面の更新回数（リフレッシュレート）が高い機種で、動きの速いゲームを遊ぶ人に選ばれます。つなぐ機器の対応も確認が必要です。</li><li><strong>モバイルモニター（持ち運びタイプ）</strong>：薄型・軽量で、ノートPCやスマホと一緒に持ち運んで使うタイプです。バッテリー内蔵ではなく、つないだ機器から給電する機種が多いので、確認が必要です。</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">タイプ別・仕様表で見るポイント</h2>
+        <p>診断結果の画面に表示される「仕様表で見るポイント」を、タイプ別にまとめました。商品ページの「商品情報・仕様」と見比べるときの項目の目安です。</p>
+        <h3>事務・ノートPC向けタイプ（24〜27インチ）</h3><ul><li>画面サイズと解像度（フルHD・4Kなど）</li><li>パネルの種類と、表示の見え方の表記</li><li>接続端子（USB-C・HDMI・DisplayPort）と、USB-Cの給電出力（W）</li><li>高さ・角度の調整、ほかの機器との相性（スタンド・モニターアーム）</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-benq-gw2490t-monitor.html">BenQ GW2490T 23.8インチ アイケアモニター</a>、<a href="product-lg-27u730a-b-4k-usbc-monitor.html">LG モニター 27U730A-B 27インチ 4K IPS USB-C PD90W</a>、<a href="product-dell-s2725qc-27-4k-usbc-monitor.html">Dell S2725QC 27インチ 4K モニター（USB Type-C対応）</a>、<a href="product-iodata-ex-cu273as-f-27-4k-usbc-90w-monitor.html">IODATA モニター 27インチ 4K USB-C 90W給電</a></p><h3>画質重視タイプ（4K・色域の表記つき）</h3><ul><li>解像度（4Kなど）と、画面サイズ</li><li>色域の表記（sRGBなど）と、その条件</li><li>パネルの種類と、視野角の表記</li><li>接続端子と、給電出力（W）</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-benq-pd2732u-creator-monitor.html">BenQ Creative Pro PD2732U 27インチ 4K</a>、<a href="product-lg-27u730a-b-4k-usbc-monitor.html">LG モニター 27U730A-B 27インチ 4K IPS USB-C PD90W</a>、<a href="product-dell-s2725qc-27-4k-usbc-monitor.html">Dell S2725QC 27インチ 4K モニター（USB Type-C対応）</a></p><h3>ゲーミングタイプ（高リフレッシュレート）</h3><ul><li>リフレッシュレート（Hz）と、応答速度の表記条件</li><li>解像度と、画面サイズ</li><li>接続端子（HDMI・DisplayPort）のバージョンと対応するHz</li><li>スタンドの調整幅</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-benq-mobiuz-ex251-gaming-monitor.html">BenQ MOBIUZ EX251 24.5インチ ゲーミングモニター</a>、<a href="product-benq-zowie-xl2540xplus-monitor.html">BenQ ZOWIE XL2540X+ 24.1インチ フルHD 280Hz</a></p><h3>モバイルモニター（持ち運びタイプ）</h3><ul><li>画面サイズと解像度、本体の重さ・厚さ</li><li>接続方式（USB-C映像出力への対応など）と、必要な給電</li><li>スタンド・カバーの有無と、角度の調整</li><li>スピーカー・タッチ操作の有無</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-asus-zenscreen-mb169ck-portable-monitor.html">ASUS ポータブルモニター ZenScreen MB169CK-J 15.6インチ</a>、<a href="product-iris-ohyama-monitor.html">アイリスオーヤマ モバイルモニター 15.6インチ</a></p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">あわせて読みたい</h2>
+        <ul><li><a href="guide-monitor.html">モニター（ディスプレイ）の選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="guide-usb-c-hub.html">USB-Cハブ・ドッキングステーションの選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="guide-keyboard.html">キーボードの選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="feature-work-from-home-2026.html">在宅ワーク・デスク環境特集</a>：テーマ別にまとめたページ</li><li><a href="category-smart.html">ガジェット・スマホ・PCの商品一覧</a>：掲載商品を一覧で見る</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">よくある質問</h2>
+        <div class="faq-list"><div class="faq-item"><h3><span class="q-mark">Q.</span>ゲーミングモニターは、リフレッシュレートが高ければ使えますか？</h3><p>高いリフレッシュレートを使うには、つなぐ機器やケーブルの対応が必要です。表記の最大値が条件つきである場合もあるため、接続端子のバージョンと対応するHzを商品ページで確認してください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>モバイルモニターは、USB-Cでつなげば映らないことはありませんか？</h3><p>つなぐ機器がUSB-Cでの映像出力に対応しているかどうかによります。機器側の仕様で確認してください。モバイルモニターはつないだ機器から給電する機種が多いため、必要な給電も確認が必要です。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断結果は、特定の商品をすすめるものですか？</h3><p>いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>結果は、どのように決まりますか？</h3><p>選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>回答は、保存されたり送信されたりしますか？</h3><p>回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断のあと、どう進めればよいですか？</h3><p>結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。</p></div></div>
+      </div>
+      <div class="pd-deep-section">
         <p class="pd-source-note">※一般的な目安です。特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書とメーカー情報をご確認ください。価格・在庫は変動するためAmazon商品ページでご確認ください。</p>
       </div>
     </div>

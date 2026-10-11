@@ -32,6 +32,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"診断クイズ","item":"https://gearnote.net/quiz"},{"@type":"ListItem","position":3,"name":"コーヒーメーカー"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"全自動とドリップ式は、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"全自動は豆を挽く工程から湯を注ぐ工程までを1台で行うタイプで、ミルのお手入れが必要になり、本体が大きくなる傾向があります。ドリップ式は粉をセットして湯を注ぐタイプで、コンパクトでお手入れも簡単な傾向があります。"}},{"@type":"Question","name":"エスプレッソマシンは、初めてでも扱えますか？","acceptedAnswer":{"@type":"Answer","text":"操作とお手入れに慣れが必要とされています。仕様表では、ポンプの圧力（気圧）の表記、ミルクを泡立てるスチームノズルの有無、豆から挽けるか・粉やカプセルに対応しているかを見ます。スチームや抽出口は高温になるため、取扱説明書の注意に従ってください。"}},{"@type":"Question","name":"診断結果は、特定の商品をすすめるものですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。"}},{"@type":"Question","name":"結果は、どのように決まりますか？","acceptedAnswer":{"@type":"Answer","text":"選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。"}},{"@type":"Question","name":"回答は、保存されたり送信されたりしますか？","acceptedAnswer":{"@type":"Answer","text":"回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。"}},{"@type":"Question","name":"診断のあと、どう進めればよいですか？","acceptedAnswer":{"@type":"Answer","text":"結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。"}}]}</script>
 </head>
 <body>
 
@@ -70,11 +71,37 @@
       </div>
     </div>
     <div id="quiz-app" class="quiz-app"><p class="compare-loading">読み込み中…</p></div>
-    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果の種類」と、<a href="guide-coffee-maker.html">選び方ガイド</a>をご覧ください。</p></noscript>
+    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果のタイプ一覧」と、<a href="guide-coffee-maker.html">選び方ガイド</a>をご覧ください。</p></noscript>
     <div class="pd-deep" style="margin-top:34px;">
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading">診断結果の種類（目安）</h2>
+        <h2 class="pd-deep-heading">この診断でわかること</h2>
+        <p>3つの質問に答えるだけで、コーヒーメーカーの「方式」の目安がわかります。結果は4つのタイプ（全自動（ミル付き）タイプ、ドリップ式（粉から淹れるタイプ）、エスプレッソマシン、抽出にこだわるタイプ）のうち、回答に近いものが表示されます。</p>
+        <ul><li>質問1：コーヒーを飲む量は？（選択肢2つ）</li><li>質問2：どんな淹れ方が好み？（選択肢4つ）</li><li>質問3：お手入れについては？（選択肢2つ）</li></ul>
+        <p>結果には、そのタイプの特徴、仕様表で見るポイント、使うときの注意点、GEARNOTEに掲載している同じ種類の商品、選び方ガイドへのリンクが表示されます。</p>
+        <p>この診断が示すのは、商品の優劣ではなく「どの種類から検討するとよいか」の目安です。個々の商品の性能や適合は、商品ページの仕様表とメーカーの案内で確認してください。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">選ぶときの3つの視点</h2>
+        <h3>1. 飲む量は「抽出できる杯数」で見る</h3><p>1〜2杯を手軽に飲むのか、家族や来客で数杯まとめて淹れるのかで、見るべき杯数（最大・最小）が変わります。水タンクの容量と本体サイズも、置き場所とあわせて確認します。</p><h3>2. 淹れ方の好みで、方式が分かれる</h3><p>豆から挽きたい場合は全自動（ミル付き）、粉で手軽に淹れたい場合はドリップ式、エスプレッソやラテも楽しみたい場合はエスプレッソマシン、抽出の温度や湯の注ぎ方にこだわりたい場合は抽出にこだわるタイプが候補です。2つ目の質問がこの分かれ目です。</p><h3>3. お手入れの手間は、方式によって大きく違う</h3><p>全自動はミルの部分のお手入れが必要で、ミルの自動洗浄の有無が確認ポイントです。ドリップ式は本体がコンパクトでお手入れが簡単な傾向があり、エスプレッソマシンは操作とお手入れに慣れが必要とされています。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">診断結果のタイプ一覧（全4タイプ）</h2>
         <ul class="quiz-types"><li><strong>全自動（ミル付き）タイプ</strong>：豆を挽く、湯を注ぐ、までを1台で行うタイプです。挽きたての豆で淹れられる一方、ミルの部分のお手入れが必要で、本体が大きくなる傾向があります。</li><li><strong>ドリップ式（粉から淹れるタイプ）</strong>：粉をセットして、湯を注いでドリップするタイプです。本体が比較的コンパクトで、お手入れも簡単な傾向があり、数杯分をまとめて淹れたいときに使われます。</li><li><strong>エスプレッソマシン</strong>：圧力をかけて、濃いコーヒー（エスプレッソ）を抽出するタイプです。ミルクを加えるラテなどにも使われますが、操作とお手入れに慣れが必要です。</li><li><strong>抽出にこだわるタイプ</strong>：湯温や注ぎ方など、抽出の条件にこだわった設計のコーヒーメーカーです。1杯ずつ丁寧に淹れる使い方に向きますが、機種ごとに操作や対応する豆・粉の形が異なります。</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">タイプ別・仕様表で見るポイント</h2>
+        <p>診断結果の画面に表示される「仕様表で見るポイント」を、タイプ別にまとめました。商品ページの「商品情報・仕様」と見比べるときの項目の目安です。</p>
+        <h3>全自動（ミル付き）タイプ</h3><ul><li>ミルの方式・挽き目の調整と、ミルの自動洗浄の有無</li><li>抽出できる杯数（最大・最小）</li><li>保温や、ドリップ中の湯温に関わる機能</li><li>水タンク・フィルター・ミルのお手入れの手順</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-twinbird-coffee-maker-cmd457b.html">ツインバード 全自動コーヒーメーカー ミル付き 日本製 3杯用</a>、<a href="product-siroca-cafebako-sc-a372.html">siroca(シロカ) 全自動コーヒーメーカー カフェばこ SC-A372</a>、<a href="product-panasonic-coffee-maker-nc-a58-w.html">パナソニック 全自動コーヒーメーカー NC-A58-W 沸騰循環 ミル自動洗浄 ホワイト</a></p><h3>ドリップ式（粉から淹れるタイプ）</h3><ul><li>抽出できる杯数と、サーバーの種類（ガラス・ステンレスなど）</li><li>保温の時間・方式</li><li>フィルターの種類（ペーパー・メッシュなど）</li><li>水タンクの容量と、本体サイズ</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-toffy-aroma-drip-coffee-maker-k-cm5.html">【Toffy/トフィー】 アロマドリップコーヒーメーカー K-CM5 スレートグリーン</a>、<a href="product-zojirushi-coffee-maker-ec-ma60-tz.html">象印マホービン コーヒーメーカー 6杯用 珈琲通 グレイッシュブラウン</a>、<a href="product-tiger-coffee-maker-drip-adc-n060k.html">タイガー魔法瓶 コーヒーメーカー ドリップ式 6杯用 ADC-N060K</a>、<a href="product-tiger-coffee-maker-hybrid-adf-a060ko.html">タイガー魔法瓶(TIGER) コーヒーメーカー ADF-A060KO</a></p><h3>エスプレッソマシン</h3><ul><li>ポンプの圧力（気圧）の表記</li><li>スチームノズル（ミルクを泡立てる機能）の有無</li><li>豆から挽けるか、粉・カプセル対応か</li><li>本体サイズと、給水タンクの容量</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-delonghi-ecp3220j-espresso-maker.html">De&#x27;Longhi(デロンギ) エスプレッソメーカー ECP3220J</a>、<a href="product-philips-espresso-2300.html">フィリップス 2300シリーズ 全自動エスプレッソマシン (EP2330/10)</a></p><h3>抽出にこだわるタイプ</h3><ul><li>湯温や抽出モードの調整幅</li><li>対応する杯数と、使用する粉・豆の形</li><li>お手入れの手順</li><li>デザインとサイズ（置き場所）</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-balmuda-the-brew-k06a-bk.html">バルミューダ ザ・ブリュー コーヒーメーカー K06A-BK</a>、<a href="product-panasonic-coffee-maker-nc-a58-w.html">パナソニック 全自動コーヒーメーカー NC-A58-W 沸騰循環 ミル自動洗浄 ホワイト</a></p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">あわせて読みたい</h2>
+        <ul><li><a href="guide-coffee-maker.html">コーヒーメーカーの選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="guide-electric-kettle.html">電気ケトルの選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="ranking-coffee-machines.html">コーヒーマシン・コーヒー器具の商品比較表</a>：同じ種類の商品の仕様を一覧で並べて確認</li><li><a href="compare-delonghi-dedica-kg521j-vs-kg200jn.html">デロンギ コーヒーグラインダー KG521JとKG200JNの違いを比較</a>：2〜3商品の違いを並べて確認</li><li><a href="category-home.html">生活家電の商品一覧</a>：掲載商品を一覧で見る</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">よくある質問</h2>
+        <div class="faq-list"><div class="faq-item"><h3><span class="q-mark">Q.</span>全自動とドリップ式は、何が違いますか？</h3><p>全自動は豆を挽く工程から湯を注ぐ工程までを1台で行うタイプで、ミルのお手入れが必要になり、本体が大きくなる傾向があります。ドリップ式は粉をセットして湯を注ぐタイプで、コンパクトでお手入れも簡単な傾向があります。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>エスプレッソマシンは、初めてでも扱えますか？</h3><p>操作とお手入れに慣れが必要とされています。仕様表では、ポンプの圧力（気圧）の表記、ミルクを泡立てるスチームノズルの有無、豆から挽けるか・粉やカプセルに対応しているかを見ます。スチームや抽出口は高温になるため、取扱説明書の注意に従ってください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断結果は、特定の商品をすすめるものですか？</h3><p>いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>結果は、どのように決まりますか？</h3><p>選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>回答は、保存されたり送信されたりしますか？</h3><p>回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断のあと、どう進めればよいですか？</h3><p>結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。</p></div></div>
+      </div>
+      <div class="pd-deep-section">
         <p class="pd-source-note">※一般的な目安です。特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書とメーカー情報をご確認ください。価格・在庫は変動するためAmazon商品ページでご確認ください。</p>
       </div>
     </div>

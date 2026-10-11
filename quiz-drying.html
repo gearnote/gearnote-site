@@ -32,6 +32,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"診断クイズ","item":"https://gearnote.net/quiz"},{"@type":"ListItem","position":3,"name":"冬の部屋干し"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"除湿機とサーキュレーターは、一緒に使えますか？","acceptedAnswer":{"@type":"Answer","text":"組み合わせて使われることが多い組み合わせです。除湿機で湿度を下げ、サーキュレーターで洗濯物に風を当てる使い方があります。洗濯物がファンや本体に巻き込まれないよう、距離を空けるなど、取扱説明書の注意に従ってください。"}},{"@type":"Question","name":"布団乾燥機で、衣類や靴も乾かせますか？","acceptedAnswer":{"@type":"Answer","text":"機種によっては、靴や衣類の乾燥に使えるアタッチメントやモードがあります。すべての機種が衣類に対応しているわけではないため、使えるもの（布団・靴・衣類）とアタッチメントの有無を、商品ページの仕様で確認してください。"}},{"@type":"Question","name":"診断結果は、特定の商品をすすめるものですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。"}},{"@type":"Question","name":"結果は、どのように決まりますか？","acceptedAnswer":{"@type":"Answer","text":"選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。"}},{"@type":"Question","name":"回答は、保存されたり送信されたりしますか？","acceptedAnswer":{"@type":"Answer","text":"回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。"}},{"@type":"Question","name":"診断のあと、どう進めればよいですか？","acceptedAnswer":{"@type":"Answer","text":"結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。"}}]}</script>
 </head>
 <body>
 
@@ -70,11 +71,37 @@
       </div>
     </div>
     <div id="quiz-app" class="quiz-app"><p class="compare-loading">読み込み中…</p></div>
-    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果の種類」と、<a href="guide-dehumidifier.html">選び方ガイド</a>をご覧ください。</p></noscript>
+    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果のタイプ一覧」と、<a href="guide-dehumidifier.html">選び方ガイド</a>をご覧ください。</p></noscript>
     <div class="pd-deep" style="margin-top:34px;">
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading">診断結果の種類（目安）</h2>
+        <h2 class="pd-deep-heading">この診断でわかること</h2>
+        <p>3つの質問に答えるだけで、冬の部屋干しで「何から検討するとよいか」の目安がわかります。結果は3つのタイプ（衣類乾燥除湿機、サーキュレーター、布団乾燥機）のうち、回答に近いものが表示されます。</p>
+        <ul><li>質問1：洗濯物の量は？（選択肢3つ）</li><li>質問2：いちばんの悩みは？（選択肢4つ）</li><li>質問3：置き場所の条件は？（選択肢2つ）</li></ul>
+        <p>結果には、そのタイプの特徴、仕様表で見るポイント、使うときの注意点、GEARNOTEに掲載している同じ種類の商品、選び方ガイドへのリンクが表示されます。</p>
+        <p>この診断が示すのは、商品の優劣ではなく「どの種類から検討するとよいか」の目安です。個々の商品の性能や適合は、商品ページの仕様表とメーカーの案内で確認してください。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">選ぶときの3つの視点</h2>
+        <h3>1. 洗濯物の量と頻度で、家電の規模が変わる</h3><p>毎日家族分の洗濯物を干す場合は衣類乾燥除湿機、1〜2人分の少量ならサーキュレーター、布団や靴も乾かしたい場合は布団乾燥機が候補になります。最初の質問は、この「量と対象」を選ぶ形です。</p><h3>2. 悩みが「湿気」か「乾きムラ」か「布団」かを分ける</h3><p>部屋が湿っぽい・結露が気になる場合は除湿機、風が当たらず乾きにムラがある場合はサーキュレーター、布団を乾かしたい場合は布団乾燥機と、悩みによって働きが異なります。除湿機とサーキュレーターは、組み合わせて使われることも多い家電です。</p><h3>3. 置き場所と本体サイズを先に確認する</h3><p>省スペースを優先するならサーキュレーターや布団乾燥機、多少大きくてもよいなら除湿機、という分け方が目安です。除湿機は定格除湿能力（L/日）を使う地域の電源周波数の値で比べ、タンク容量や連続排水の有無、運転音と重さも仕様表で見ます。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">診断結果のタイプ一覧（全3タイプ）</h2>
         <ul class="quiz-types"><li><strong>衣類乾燥除湿機</strong>：湿度を下げて洗濯物を乾かす家電です。気温が低い時期は、方式によって得意不得意があるとされています（デシカント式やハイブリッド式は低温時でも使いやすいとされます）。</li><li><strong>サーキュレーター</strong>：空気をかき混ぜて、洗濯物に風を当てる家電です。除湿機と組み合わせて使われることも多く、場所をとりにくいものもあります。</li><li><strong>布団乾燥機</strong>：温風で布団を乾燥・暖める家電で、機種によっては靴や衣類の乾燥に使えるアタッチメントやモードがあります。すべての機種が衣類に対応しているわけではありません。</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">タイプ別・仕様表で見るポイント</h2>
+        <p>診断結果の画面に表示される「仕様表で見るポイント」を、タイプ別にまとめました。商品ページの「商品情報・仕様」と見比べるときの項目の目安です。</p>
+        <h3>衣類乾燥除湿機</h3><ul><li>定格除湿能力（L/日）：使う地域の電源周波数の値で比べる</li><li>除湿できる広さの目安と、衣類乾燥の目安時間</li><li>タンク容量・連続排水の有無</li><li>運転音と本体の重さ</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-sharp-clothes-dryer-dehumidifier-cm-s100-w.html">シャープ 衣類乾燥除湿機 CM-S100-W コンプレッサー方式 10L 冷風機能付き</a>、<a href="product-sharp-clothes-dryer-dehumidifier-cv-th150-w.html">シャープ 衣類乾燥除湿機 CV-TH150-W ハイブリッド方式</a>、<a href="product-irisohyama-clothes-dryer-dehumidifier-ddd50e.html">アイリスオーヤマ 衣類乾燥除湿機 スピード乾燥 サーキュレーター機能付き｜DDD-50E</a>、<a href="product-corona-clothes-dryer-dehumidifier-cdp63a3.html">CORONA(コロナ) 衣類乾燥除湿機 【日本生産】</a></p><h3>サーキュレーター</h3><ul><li>首振りの方向（上下左右）と風量の段階</li><li>風が届く距離・適用畳数の目安</li><li>運転音とタイマー・リモコンの有無</li><li>本体サイズ・重さ</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-iris-ohyama-circulator-az-sds15tec-w.html">アイリスオーヤマ サーキュレーター DCモーター AZ-SDS15TEC-W</a>、<a href="product-switchbot-circulator-lite.html">SwitchBot サーキュレーター Lite DCモーター 静音 首振り 30畳対応</a>、<a href="product-iris-ohyama-circulator-pcfmkd15ec.html">アイリスオーヤマ サーキュレーター</a></p><h3>布団乾燥機</h3><ul><li>使えるもの（布団・靴・衣類）とアタッチメントの有無</li><li>乾燥にかかる時間の目安（条件つき）</li><li>本体の重さと収納のしやすさ</li><li>マット式・ホース式など、方式の違い</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-hitachi-futon-dryer-at-dry-hfk-cv1b.html">日立 ふとん乾燥機 アッとドライ HFK-CV1B AH ブルーグレー</a>、<a href="product-yamazen-futon-dryer-double-nozzle-zfe-w800.html">山善 布団乾燥機 ダブルノズル ふとん2枚同時 マット不要 ZFE-W800(W)</a>、<a href="product-iris-ohyama-futon-dryer-fkc3.html">アイリスオーヤマ 布団乾燥機 カラリエ FK-C3-WP｜シングルノズルタイプ</a></p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">あわせて読みたい</h2>
+        <ul><li><a href="guide-dehumidifier.html">除湿機・衣類乾燥除湿機の選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="guide-futon-dryer.html">ふとん乾燥機・衣類乾燥機の選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="guide-circulator-fan.html">サーキュレーター・扇風機の選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="ranking-fans-circulators.html">扇風機・サーキュレーターの商品比較表</a>：同じ種類の商品の仕様を一覧で並べて確認</li><li><a href="compare-iris-ohyama-circulator-dc-28-vs-sharp-pk-s1801.html">アイリスオーヤマ DCサーキュレーターとシャープ PK-S1801の違いを比較</a>：2〜3商品の違いを並べて確認</li><li><a href="feature-winter-prep-2026.html">冬支度特集</a>：テーマ別にまとめたページ</li><li><a href="category-home.html">生活家電の商品一覧</a>：掲載商品を一覧で見る</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">よくある質問</h2>
+        <div class="faq-list"><div class="faq-item"><h3><span class="q-mark">Q.</span>除湿機とサーキュレーターは、一緒に使えますか？</h3><p>組み合わせて使われることが多い組み合わせです。除湿機で湿度を下げ、サーキュレーターで洗濯物に風を当てる使い方があります。洗濯物がファンや本体に巻き込まれないよう、距離を空けるなど、取扱説明書の注意に従ってください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>布団乾燥機で、衣類や靴も乾かせますか？</h3><p>機種によっては、靴や衣類の乾燥に使えるアタッチメントやモードがあります。すべての機種が衣類に対応しているわけではないため、使えるもの（布団・靴・衣類）とアタッチメントの有無を、商品ページの仕様で確認してください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断結果は、特定の商品をすすめるものですか？</h3><p>いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>結果は、どのように決まりますか？</h3><p>選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>回答は、保存されたり送信されたりしますか？</h3><p>回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断のあと、どう進めればよいですか？</h3><p>結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。</p></div></div>
+      </div>
+      <div class="pd-deep-section">
         <p class="pd-source-note">※一般的な目安です。特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書とメーカー情報をご確認ください。価格・在庫は変動するためAmazon商品ページでご確認ください。</p>
       </div>
     </div>

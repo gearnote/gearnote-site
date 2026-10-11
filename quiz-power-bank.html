@@ -32,6 +32,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"診断クイズ","item":"https://gearnote.net/quiz"},{"@type":"ListItem","position":3,"name":"モバイルバッテリー"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ケーブル一体型は、ケーブルが傷んだらどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"ケーブルが傷んだときの扱いは、製品ごとに異なります。内蔵ケーブルの出力はポートごとに異なる場合もあるため、各商品ページの出力の表記条件とあわせて確認してください。"}},{"@type":"Question","name":"マグネット式のモバイルバッテリーは、どの機種で使えますか？","acceptedAnswer":{"@type":"Answer","text":"対応機種（MagSafe対応・Qi2対応など）が商品ごとに書かれています。ワイヤレス充電中は本体が熱くなる場合があり、厚いケースでは磁力が弱まる場合もあります。金属製のケースやカードを挟まないなど、取扱説明書に従ってください。"}},{"@type":"Question","name":"診断結果は、特定の商品をすすめるものですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。"}},{"@type":"Question","name":"結果は、どのように決まりますか？","acceptedAnswer":{"@type":"Answer","text":"選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。"}},{"@type":"Question","name":"回答は、保存されたり送信されたりしますか？","acceptedAnswer":{"@type":"Answer","text":"回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。"}},{"@type":"Question","name":"診断のあと、どう進めればよいですか？","acceptedAnswer":{"@type":"Answer","text":"結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。"}}]}</script>
 </head>
 <body>
 
@@ -70,11 +71,37 @@
       </div>
     </div>
     <div id="quiz-app" class="quiz-app"><p class="compare-loading">読み込み中…</p></div>
-    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果の種類」と、<a href="guide-power-bank.html">選び方ガイド</a>をご覧ください。</p></noscript>
+    <noscript><p>診断クイズにはJavaScriptが必要です。下の「診断結果のタイプ一覧」と、<a href="guide-power-bank.html">選び方ガイド</a>をご覧ください。</p></noscript>
     <div class="pd-deep" style="margin-top:34px;">
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading">診断結果の種類（目安）</h2>
+        <h2 class="pd-deep-heading">この診断でわかること</h2>
+        <p>3つの質問に答えるだけで、モバイルバッテリーの「タイプ」の目安がわかります。結果は4つのタイプ（薄型・軽量タイプ（10000mAh前後）、ケーブル一体型タイプ、高出力・大容量タイプ（ノートPCも充電）、マグネット式タイプ）のうち、回答に近いものが表示されます。</p>
+        <ul><li>質問1：主に充電したい機器は？（選択肢3つ）</li><li>質問2：重視することは？（選択肢4つ）</li><li>質問3：飛行機で使う予定はありますか？（選択肢2つ）</li></ul>
+        <p>結果には、そのタイプの特徴、仕様表で見るポイント、使うときの注意点、GEARNOTEに掲載している同じ種類の商品、選び方ガイドへのリンクが表示されます。回答によっては、安全面の補足が結果に加わります。</p>
+        <p>この診断が示すのは、商品の優劣ではなく「どの種類から検討するとよいか」の目安です。個々の商品の性能や適合は、商品ページの仕様表とメーカーの案内で確認してください。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">選ぶときの3つの視点</h2>
+        <h3>1. 充電したい機器から、必要な出力（W）を考える</h3><p>スマホやワイヤレスイヤホン中心なら10000mAh前後の薄型・軽量タイプ、ノートPCやタブレットも充電するなら高出力・大容量タイプが候補です。ノートPCは必要な出力（W）が機器ごとに異なるため、PC側の仕様で確認してください。</p><h3>2. 持ち歩き方で、形状を選ぶ</h3><p>薄さと軽さを優先するか、ケーブルを別に持ちたくないか（ケーブル一体型）、iPhoneにマグネットで付けたいか（マグネット式）で、候補のタイプが分かれます。マグネット式は、対応機種とワイヤレス出力、ケースの厚みとの相性も見ます。</p><h3>3. 容量の表記と、飛行機でのルールを確認する</h3><p>容量はmAhで書かれる場合とWhで書かれる場合があります。飛行機に持ち込む場合の容量（Wh）の上限や個数、預け入れの可否は、航空会社や国のルールで決まっているため、搭乗前に必ず最新のルールを確認してください。PSEマークの有無も仕様表で見ます。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">診断結果のタイプ一覧（全4タイプ）</h2>
         <ul class="quiz-types"><li><strong>薄型・軽量タイプ（10000mAh前後）</strong>：スマホを1〜2回充電できる容量を目安にした、持ち歩きやすいタイプです。薄さや重さと、出力・ポート数のバランスを見て選ばれます。</li><li><strong>ケーブル一体型タイプ</strong>：本体にUSB-Cケーブルが付いている（または巻き取れる）タイプで、ケーブルを別に持ち歩く手間を減らせます。ケーブルが傷んだときの扱いは、製品ごとに異なります。</li><li><strong>高出力・大容量タイプ（ノートPCも充電）</strong>：ノートPCやタブレットも充電できる出力と容量をもつタイプです。本体が大きく重くなる傾向があり、飛行機への持ち込みなどのルールの確認も大切です。</li><li><strong>マグネット式タイプ</strong>：iPhoneの背面に、マグネットで付けて使うタイプです。ワイヤレス充電の方式で、ケーブルなしで充電できます。有線に比べて、充電の速さに違いが出る場合があります。</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">タイプ別・仕様表で見るポイント</h2>
+        <p>診断結果の画面に表示される「仕様表で見るポイント」を、タイプ別にまとめました。商品ページの「商品情報・仕様」と見比べるときの項目の目安です。</p>
+        <h3>薄型・軽量タイプ（10000mAh前後）</h3><ul><li>容量（mAh）と、出力（W）の表記</li><li>本体の薄さ・重さ</li><li>ポートの種類と数（USB-C・USB-A）</li><li>PSEマークの有無と、パススルー充電への対応</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-anker-power-bank-10000mah.html">Anker Power Bank（10000mAh, 22.5W）</a>、<a href="product-cio-smartcoby-pro-slim-35w.html">CIO モバイルバッテリー SMARTCOBY Pro SLIM 35W</a>、<a href="product-torras-minimag-pro-battery.html">TORRAS MiniMag Pro モバイルバッテリー 半固体電池 10000mAh</a>、<a href="product-owltech-semi-solid-power-bank-10000-oec-lpb10024.html">オウルテック 準固体電池 モバイルバッテリー 10000mAh</a></p><h3>ケーブル一体型タイプ</h3><ul><li>ケーブルの種類（USB-C・Lightningなど）と長さ</li><li>容量（mAh）と、最大出力（W）の表記</li><li>本体のサイズ・重さ</li><li>ケーブル以外のポート数</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-anker-zolo-power-bank.html">Anker Zolo Power Bank（10K, 30W, ケーブル一体型）</a>、<a href="product-anker-power-bank-25000mah.html">Anker Power Bank（25000mAh, Built-In &amp;</a>、<a href="product-anker-power-bank-20000mah-87w-builtin-usbc-cable.html">Anker Power Bank（20000mAh, 87W, Built-In</a>、<a href="product-anker-nano-power-bank-maggo-plus-10000mah-black.html">Anker Nano Power Bank (MagGo, Plus)</a></p><h3>高出力・大容量タイプ（ノートPCも充電）</h3><ul><li>USB-Cポートの最大出力（W）と、合計出力</li><li>容量（mAh・Wh）と、本体への入力（急速充電）の出力</li><li>ポートの種類と、同時充電時の出力配分</li><li>本体サイズ・重さ</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-anker-prime-power-bank-20100mah-220w.html">Anker Prime Power Bank（20100mAh, 220W）ブラック</a>、<a href="product-ugreen-nexode-power-bank-20000mah-pb536-45w.html">UGREEN Nexode モバイルバッテリー 20000mAh PD45W</a>、<a href="product-xiaomi-33w-powerbank-20000.html">Xiaomi(シャオミ) 33W Power Bank 20000mAh</a>、<a href="product-anker-power-bank-20000mah-87w-builtin-usbc-cable.html">Anker Power Bank（20000mAh, 87W, Built-In</a></p><h3>マグネット式タイプ</h3><ul><li>対応機種（MagSafe対応・Qi2対応など）と、ワイヤレス出力（W）</li><li>有線ポートの有無と、有線の出力</li><li>容量（mAh）と、本体の厚み・重さ</li><li>ケースとの相性（厚いケースでは磁力が弱まる場合）</li></ul><p>GEARNOTEに掲載しているこのタイプの商品：<a href="product-anker-nano-power-bank-maggo-plus-10000mah-black.html">Anker Nano Power Bank (MagGo, Plus)</a>、<a href="product-cio-smartcoby-ex02-magnetic-powerbank.html">CIO SMARTCOBY Ex02 マグネット ワイヤレス充電 モバイルバッテリー</a>、<a href="product-torras-minimag-pro-battery.html">TORRAS MiniMag Pro モバイルバッテリー 半固体電池 10000mAh</a></p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">あわせて読みたい</h2>
+        <ul><li><a href="guide-power-bank.html">モバイルバッテリーの選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="guide-usb-charger.html">USB充電器・充電ケーブルの選び方ガイド</a>：仕様表の見方と、選ぶときの考え方</li><li><a href="ranking-power-banks.html">モバイルバッテリーの商品比較表</a>：同じ種類の商品の仕様を一覧で並べて確認</li><li><a href="ranking-gan-chargers.html">急速充電器の商品比較表</a>：同じ種類の商品の仕様を一覧で並べて確認</li><li><a href="compare-anker-power-bank-10000-vs-25000.html">Anker Power Bank 10000mAhと25000mAhの違いを比較</a>：2〜3商品の違いを並べて確認</li><li><a href="compare-anker-nano-maggo-slim-5000-vs-plus-10000.html">Anker Nano Power Bank MagGo Slim 5000mAhとMagGo Plus 10000mAhの違いを比較</a>：2〜3商品の違いを並べて確認</li><li><a href="compare-anker-power-bank-10000-vs-belkin-boostcharge-10000.html">Anker Power Bank 10000mAhとBelkin BoostCharge 10000mAhの違いを比較</a>：2〜3商品の違いを並べて確認</li><li><a href="feature-bosai-goods-2026.html">防災グッズ特集</a>：テーマ別にまとめたページ</li></ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading">よくある質問</h2>
+        <div class="faq-list"><div class="faq-item"><h3><span class="q-mark">Q.</span>ケーブル一体型は、ケーブルが傷んだらどうなりますか？</h3><p>ケーブルが傷んだときの扱いは、製品ごとに異なります。内蔵ケーブルの出力はポートごとに異なる場合もあるため、各商品ページの出力の表記条件とあわせて確認してください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>マグネット式のモバイルバッテリーは、どの機種で使えますか？</h3><p>対応機種（MagSafe対応・Qi2対応など）が商品ごとに書かれています。ワイヤレス充電中は本体が熱くなる場合があり、厚いケースでは磁力が弱まる場合もあります。金属製のケースやカードを挟まないなど、取扱説明書に従ってください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断結果は、特定の商品をすすめるものですか？</h3><p>いいえ。結果は、商品ではなく「種類・方式・タイプ」の目安です。結果の下には、その種類でGEARNOTEに掲載している商品が表示されますが、順位や優劣をつけたものではありません。実際に選ぶときは、各商品ページの仕様表とAmazonの商品ページで最新の情報を確認してください。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>結果は、どのように決まりますか？</h3><p>選んだ選択肢ごとに、タイプ別の点数が加わり、合計が高いタイプが「候補」として表示されます。2番目のタイプの合計が1点差以内で近い場合は、「次に近い種類」も表示されます。点数のつけ方は、仕様の一般的な見方にもとづく目安です。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>回答は、保存されたり送信されたりしますか？</h3><p>回答はお使いのブラウザの中だけで処理され、GEARNOTEには送信されません。結果のURLを共有する場合も、URLに含まれるのは結果のタイプだけで、回答の内容や個人情報は含まれません。</p></div><div class="faq-item"><h3><span class="q-mark">Q.</span>診断のあと、どう進めればよいですか？</h3><p>結果の種類が決まったら、選び方ガイドで仕様表の見方を確認し、商品比較表や比較記事で、同じ種類の商品の仕様を並べて見ると絞り込みやすくなります。気になる商品は、比較リストに追加して最大4つまで並べて見られます。</p></div></div>
+      </div>
+      <div class="pd-deep-section">
         <p class="pd-source-note">※一般的な目安です。特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書とメーカー情報をご確認ください。価格・在庫は変動するためAmazon商品ページでご確認ください。</p>
       </div>
     </div>
