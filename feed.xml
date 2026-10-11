@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 11 Oct 2026 19:43:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 20:00:00 +0000</lastBuildDate>
   <item>
     <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
     <link>https://gearnote.net/product-airpods-4</link>
@@ -29,6 +29,13 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>コカ・コーラ 綾鷹の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ayataka-green-tea</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ayataka-green-tea</guid>
+    <description>コカ・コーラ 綾鷹の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Bose SoundLink Max の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-bose-soundlink-max</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-max</guid>
@@ -40,6 +47,13 @@
     <link>https://gearnote.net/product-bose-soundwear-companion</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-soundwear-companion</guid>
     <description>Bose SoundWear Companion speaker（ウェアラブルネックスピーカー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コカ・コーラ 爽健美茶の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-coca-cola-soukenbicha-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-coca-cola-soukenbicha-24</guid>
+    <description>コカ・コーラ 爽健美茶 600mlPET×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -89,6 +103,13 @@
     <link>https://gearnote.net/product-kirin-gogo-no-koucha-mutou-24</link>
     <guid isPermaLink="true">https://gearnote.net/product-kirin-gogo-no-koucha-mutou-24</guid>
     <description>キリン 午後の紅茶 おいしい無糖 500ml×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ポカリスエット 24本 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-pocari-sweat-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-pocari-sweat-24</guid>
+    <description>ポカリスエット 大塚製薬 水分補給 ケース販売 500ml×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -173,6 +194,13 @@
     <link>https://gearnote.net/product-anpanman-purichi-beans-plush</link>
     <guid isPermaLink="true">https://gearnote.net/product-anpanman-purichi-beans-plush</guid>
     <description>セガフェイブ(SEGA FAVE) プリちぃ ビーンズ コレクション アンパンマンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>い・ろ・は・すの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-i-lohas-natural-water-2l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-i-lohas-natural-water-2l</guid>
+    <description>い・ろ・は・す 2L PET ラベルレス×8本の特徴を整理。メリット・デメリット、財宝温泉水・のむシリカとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/product-kanana-project-pj8-3rd-freeway-backpack</link>
     <guid isPermaLink="true">https://gearnote.net/product-kanana-project-pj8-3rd-freeway-backpack</guid>
     <description>Kanana project リュックサック B5 長財布収納可 PJ8-3rd フリーウェイリュック 62101 8Lの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト ECD-1 ショルダーバッグの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-ecd1-shoulder-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-ecd1-shoulder-bag</guid>
-    <description>カナナプロジェクト コレクション ショルダーバッグ 縦型 軽量 ECD-1 19082の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エースジーン ホバーライトボディバッグの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-acegene-hoverlight-body-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/product-acegene-hoverlight-body-bag</guid>
-    <description>エースジーン ボディバッグ ホバーライト 33cmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エースジーン リテントリー ビジネスバッグの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-acegene-retentry-business-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/product-acegene-retentry-business-bag</guid>
-    <description>エースジーン(ACE GENE) ビジネスバッグ リテントリー 42cm B4対応の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エースジーン ビジネストート スリブライト の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-acegene-slibrite-tote</link>
-    <guid isPermaLink="true">https://gearnote.net/product-acegene-slibrite-tote</guid>
-    <description>ace.GENE(エースジーン) ビジネストート スリブライト 62521の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
