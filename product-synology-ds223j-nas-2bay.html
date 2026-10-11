@@ -32,7 +32,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://gearnote.net/"}, {"@type": "ListItem", "position": 2, "name": "本・文房具", "item": "https://gearnote.net/category-books"}, {"@type": "ListItem", "position": 3, "name": "Synology DS223j 2ベイNASキット"}]}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"HDDは付属していますか？","acceptedAnswer":{"@type":"Answer","text":"付属しません。ドライブベイは2台分用意されていますが、HDDは別途、NAS用に設計された製品を購入する必要があります。"}},{"@type":"Question","name":"外出先からもアクセスできますか？","acceptedAnswer":{"@type":"Answer","text":"QuickConnect機能を使うことで、複雑なポート開放の設定をせずに、インターネット経由で外出先からアクセスできるとされています。"}},{"@type":"Question","name":"どのくらいの人数・用途を想定した製品ですか？","acceptedAnswer":{"@type":"Answer","text":"家庭やごく少人数での使用を想定した初心者向けモデルとされています。写真・動画のバックアップや、家族間でのファイル共有が主な用途です。"}},{"@type":"Question","name":"RAID 1を組むと、実効容量はどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"RAID 1（ミラーリング）は同じデータを2台のHDDに書き込むため、実効容量はHDD1台分になります。容量を優先する場合はBasicやJBOD構成を検討します。"}},{"@type":"Question","name":"設定が難しそうですが、初心者でも使えますか？","acceptedAnswer":{"@type":"Answer","text":"初心者向けの2ベイNASとして案内されており、セットアップガイドに沿って進める設計です。ただし、ネットワークやRAIDの基本的な考え方は、事前に把握しておくとスムーズです。"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"消費電力とファンを教えてください。","acceptedAnswer":{"@type":"Answer","text":"メーカー公式サイトの製品ページでは、消費電力は16.31W（アクセス時）、4W（HDDハイバネーション時）、ファンは92×92mm×1と記載されています。"}},{"@type":"Question","name":"搭載ポートと保証期間を教えてください。","acceptedAnswer":{"@type":"Answer","text":"メーカー公式サイトの製品ページでは、RJ-45 1GbE LAN×1、USB 3.2 Gen 1×2、保証は2年ハードウェア保証と記載されています。"}},{"@type":"Question","name":"HDDは付属していますか？","acceptedAnswer":{"@type":"Answer","text":"付属しません。ドライブベイは2台分用意されていますが、HDDは別途、NAS用に設計された製品を購入する必要があります。"}},{"@type":"Question","name":"外出先からもアクセスできますか？","acceptedAnswer":{"@type":"Answer","text":"QuickConnect機能を使うことで、複雑なポート開放の設定をせずに、インターネット経由で外出先からアクセスできるとされています。"}},{"@type":"Question","name":"どのくらいの人数・用途を想定した製品ですか？","acceptedAnswer":{"@type":"Answer","text":"家庭やごく少人数での使用を想定した初心者向けモデルとされています。写真・動画のバックアップや、家族間でのファイル共有が主な用途です。"}},{"@type":"Question","name":"RAID 1を組むと、実効容量はどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"RAID 1（ミラーリング）は同じデータを2台のHDDに書き込むため、実効容量はHDD1台分になります。容量を優先する場合はBasicやJBOD構成を検討します。"}},{"@type":"Question","name":"設定が難しそうですが、初心者でも使えますか？","acceptedAnswer":{"@type":"Answer","text":"初心者向けの2ベイNASとして案内されており、セットアップガイドに沿って進める設計です。ただし、ネットワークやRAIDの基本的な考え方は、事前に把握しておくとスムーズです。"}}]}</script>
 </head>
 <body>
 
@@ -233,9 +233,48 @@
         <p>NASの転送速度を活かすには、有線LAN環境の整備も重要です。ルーターやLANケーブルの規格もあわせて確認しておくと安心です。</p>
       </div>
 
+      <!-- prod-offspec-v1:start -->
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <h2 class="pd-deep-heading"><span class="num">09</span>メーカー公開仕様（寸法・質量・定格など）</h2>
+        <div class="spec-table-wrap">
+          <table class="spec-table">
+            <thead><tr><th>項目</th><th>内容</th></tr></thead>
+            <tbody>
+              <tr><th>型番</th><td>DiskStation DS223j</td></tr>
+              <tr><th>CPU</th><td>Realtek RTD1619B（4コア・4スレッド、64ビット、1.7GHz）</td></tr>
+              <tr><th>メモリ</th><td>1GB DDR4 non-ECC</td></tr>
+              <tr><th>ベイ数・対応ドライブ</th><td>2×3.5インチSATA HDD または 2.5インチSATA SSD（2.5インチの取り付けにはオプションのドライブホルダー〈Type C〉が必要）</td></tr>
+              <tr><th>外寸（高さ×幅×深さ）</th><td>165×100×225.5mm</td></tr>
+              <tr><th>重量</th><td>0.88kg</td></tr>
+              <tr><th>消費電力</th><td>16.31W（アクセス時）、4W（HDDハイバネーション時）</td></tr>
+              <tr><th>騒音</th><td>18.2dB(A)</td></tr>
+              <tr><th>ポート</th><td>RJ-45 1GbE LAN×1、USB 3.2 Gen 1×2</td></tr>
+              <tr><th>ファン</th><td>92×92mm×1</td></tr>
+              <tr><th>電源</th><td>電源アダプタ 60W、AC入力100〜240V、50/60Hz（単相）</td></tr>
+              <tr><th>保証</th><td>2年ハードウェア保証</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="pd-prose">
+          <p>メーカーの製品ページでは、CPUはRealtek RTD1619B（4コア、1.7GHz）、メモリは1GB DDR4、ベイは3.5インチSATA HDDまたは2.5インチSATA SSD×2と示されています。外寸は165×100×225.5mm、重量は0.88kgです。</p>
+          <p>消費電力はアクセス時16.31W、HDDハイバネーション時4W、騒音は18.2dB(A)で、ポートは1GbE LAN×1とUSB 3.2 Gen 1×2です。保証は2年ハードウェア保証と記載されています。</p>
+        </div>
+        <p class="pd-source-note">出典：メーカー公式サイトの製品情報（Synology、型番 DS223j、確認日 2026-10-12）</p>
+        <p class="pd-source-note">※仕様は製品の改訂などにより変更されることがあります。購入前に、メーカーの最新の製品情報と商品に同梱の取扱説明書でご確認ください。</p>
+      </div>
+      <!-- prod-offspec-v1:end -->
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
         <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>消費電力とファンを教えてください。</h3>
+            <p>メーカー公式サイトの製品ページでは、消費電力は16.31W（アクセス時）、4W（HDDハイバネーション時）、ファンは92×92mm×1と記載されています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>搭載ポートと保証期間を教えてください。</h3>
+            <p>メーカー公式サイトの製品ページでは、RJ-45 1GbE LAN×1、USB 3.2 Gen 1×2、保証は2年ハードウェア保証と記載されています。</p>
+          </div>
           <div class="faq-item">
             <h3><span class="q-mark">Q.</span>HDDは付属していますか？</h3>
             <p>付属しません。ドライブベイは2台分用意されていますが、HDDは別途、NAS用に設計された製品を購入する必要があります。</p>
