@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 10 Oct 2026 10:17:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 08:12:03 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -141,6 +141,13 @@
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>モバイルバッテリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-power-banks</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-power-banks</guid>
+    <description>Anker Power Bank（10000mAh）・Anker Power Bank（25000mAh）・Anker Zolo Power Bankを徹底比較。各商品の特徴をもとに、容量・出力・価格の観点からおすすめのモバイルバッテリーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>テレビ・ストリーミング機器おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-tv-streaming</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-tv-streaming</guid>
@@ -152,6 +159,27 @@
     <link>https://gearnote.net/brand-yamazen</link>
     <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
     <description>山善の家電・家具・キッチン用品などの特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載34商品の仕様を一覧で確認できます。</description>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>違いを比較する記事一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-index</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
+    <description>GEARNOTEの「AとBの違い」比較記事49本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>roborock Q10V+ ロボット掃除機 水拭き両用 自動ゴミ収集 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-roborock-q10v-plus-robot-vacuum</link>
+    <guid isPermaLink="true">https://gearnote.net/product-roborock-q10v-plus-robot-vacuum</guid>
+    <description>roborock(ロボロック) Q10V+ ロボット掃除機 水拭き 両用 自動ゴミ収集 障害物回避 お掃除ロボット【Qシリーズ高総合力モデルの特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ILIFE アイライフ ロボット掃除機 A30 Pro の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ilife-a30-pro-robot-vacuum</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ilife-a30-pro-robot-vacuum</guid>
+    <description>アイライフ(ILIFE) ロボット掃除機 10000Pa強力吸引 自動ゴミ収集 最大60日間ゴミ捨て不要 水拭き 両用 自動充電 A30 Pの特徴を整理。メリット・デメリットをまとめました。</description>
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/guide-futon-dryer</link>
     <guid isPermaLink="true">https://gearnote.net/guide-futon-dryer</guid>
     <description>マット式・ノズル式のふとん乾燥機、小型衣類乾燥機、ドラム式洗濯乾燥機、靴乾燥機の違いと、乾燥容量・消費電力・運転音・設置条件などスペック表の見方を、使う場面別に解説します。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートウォッチの選び方ガイド｜対応スマホ・バッテリー・GPS・防水の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-smartwatch</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-smartwatch</guid>
-    <description>スマートウォッチ・スマートバンドの種類と、対応するスマホ（iPhone／Android）、バッテリー持続時間、GPS、防水、決済機能などスペック表の見方を、使う目的別に解説します。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>外付けSSD・HDD・メモリーカードの選び方ガイド｜容量・転送速度・規格の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-external-storage</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-external-storage</guid>
-    <description>ポータブルSSD、外付けHDD、内蔵SSD、microSD・SDカードの違いと、容量・インターフェース規格・読み書き速度・耐衝撃・対応機器など、ストレージ製品のスペック表の見方を用途別に解説します。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>USB-Cハブ・ドッキングステーションの選び方ガイド｜ポート・映像出力・給電の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-usb-c-hub</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-usb-c-hub</guid>
-    <description>USB-Cハブ、ドッキングステーション、Thunderbolt ドック、USB-Aハブの違いと、ポート構成・映像出力（4K）・PD給電・データ転送速度など、スペック表の見方を使う場面別に解説します。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>USB充電器・充電ケーブルの選び方ガイド｜W数・GaN・PD・ケーブル規格の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-usb-charger</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-usb-charger</guid>
-    <description>USB充電器（GaN・PD対応）と充電ケーブルの選び方を、最大出力（W数）、ポート構成、自動分配、ケーブルの対応ワット数・データ転送速度、安全面の確認ポイントとあわせて、使う場面別に解説します。</description>
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
