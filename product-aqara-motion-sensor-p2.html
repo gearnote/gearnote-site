@@ -32,7 +32,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://gearnote.net/"}, {"@type": "ListItem", "position": 2, "name": "ガジェット・スマホ・PC", "item": "https://gearnote.net/category-smart"}, {"@type": "ListItem", "position": 3, "name": "Aqara 人感センサー P2"}]}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Aqaraハブがなくても使えますか？","acceptedAnswer":{"@type":"Answer","text":"Matter over Threadに対応しているため、Apple HomePod miniなどMatter対応のハブ機能を持つ機器があれば、Aqara純正ハブなしでもHomeKit等と連携できるとされています。ただしAqara Homeアプリ自体で直接使うにはスマートリモコンM3 Hubなどが別途必要です。"}},{"@type":"Question","name":"屋外に設置できますか？","acceptedAnswer":{"@type":"Answer","text":"本ページで参照した仕様表に防水性能の記載はなく、室内でのウォールマウント設置を想定した製品です。屋外設置は避けることをおすすめします。"}},{"@type":"Question","name":"ペットにも反応しますか？","acceptedAnswer":{"@type":"Answer","text":"本ページで参照した仕様表にペット除外機能の具体的な記載はありません。検出感度の調整はAqara Homeアプリから可能とされています。"}},{"@type":"Question","name":"Alexaで何ができますか？","acceptedAnswer":{"@type":"Answer","text":"「Alexa、バスルームに人がいますか？」のような音声コマンドで検出状況を確認できると案内されています。ただし内蔵光センサーの機能はAlexaでは非対応とされています。"}},{"@type":"Question","name":"電池はどのくらい持ちますか？","acceptedAnswer":{"@type":"Answer","text":"メーカー記載では約2年間電池交換不要とされています。実際の持続時間は使用頻度や環境によって変動します。"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Aqaraハブがなくても使えますか？","acceptedAnswer":{"@type":"Answer","text":"Matter over Threadに対応しているため、Apple HomePod miniなどMatter対応のハブ機能を持つ機器があれば、Aqara純正ハブなしでもHomeKit等と連携できるとされています。ただしAqara Homeアプリ自体で直接使うにはスマートリモコンM3 Hubなどが別途必要です。"}},{"@type":"Question","name":"屋外に設置できますか？","acceptedAnswer":{"@type":"Answer","text":"本ページで参照した仕様表に防水性能の記載はなく、室内でのウォールマウント設置を想定した製品です。屋外設置は避けることをおすすめします。"}},{"@type":"Question","name":"ペットにも反応しますか？","acceptedAnswer":{"@type":"Answer","text":"本ページで参照した仕様表にペット除外機能の具体的な記載はありません。検出感度の調整はAqara Homeアプリから可能とされています。"}},{"@type":"Question","name":"Alexaで何ができますか？","acceptedAnswer":{"@type":"Answer","text":"「Alexa、バスルームに人がいますか？」のような音声コマンドで検出状況を確認できると案内されています。ただし内蔵光センサーの機能はAlexaでは非対応とされています。"}},{"@type":"Question","name":"電池はどのくらい持ちますか？","acceptedAnswer":{"@type":"Answer","text":"メーカー記載では約2年間電池交換不要とされています。実際の持続時間は使用頻度や環境によって変動します。"}},{"@type":"Question","name":"接続規格は？","acceptedAnswer":{"@type":"Answer","text":"仕様表にMatter over Thread（2.4GHz帯Wi-Fi対応）と記載されています。"}},{"@type":"Question","name":"検出範囲は？","acceptedAnswer":{"@type":"Answer","text":"仕様表に最大7m、水平方向170°／垂直方向45°と記載されています。"}},{"@type":"Question","name":"対応エコシステムは？","acceptedAnswer":{"@type":"Answer","text":"仕様表にApple HomeKit・Google Home・Amazon Alexaと記載されています。"}}]}</script>
 </head>
 <body>
 
@@ -223,8 +223,102 @@
         </ul>
       </div>
 
+      <!-- gp-deepen:s -->
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading"><span class="num">08</span>こんな組み合わせ・代替案</h2>
+        <h2 class="pd-deep-heading"><span class="num">08</span>スペック表の用語とチェックポイント</h2>
+        <h3>人感センサーとは</h3>
+        <p>人の動きを検知して、照明などの自動化に使う機器です。この商品はAqaraの人感センサーP2で、色はホワイトです。</p>
+        <h3>接続規格</h3>
+        <p>Matter over Threadで、2.4GHz帯Wi-Fi対応と記載されています。専用ハブなしでの連携と説明されています。</p>
+        <h3>対応エコシステム</h3>
+        <p>Apple HomeKit、Google Home、Amazon Alexaです。</p>
+        <h3>検出範囲</h3>
+        <p>最大7m、水平方向170°／垂直方向45°と記載されています。環境で変わります。</p>
+        <h3>内蔵センサー</h3>
+        <p>人感（動体検知）センサーと光センサー（照度検知）です。</p>
+        <h3>取り付け・電池</h3>
+        <p>ウォールマウントで、360°スタンドが付属します。重量は0.03kg、電池は約2年間交換不要（メーカー記載）です。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>購入前に確認したいこと</h2>
+        <ul>
+          <li><strong>Threadボーダールーター</strong>：Threadの利用には、ボーダールーターが必要な場合があります。</li>
+          <li><strong>ハブの有無</strong>：Aqaraアプリのアラーム機能にはAqaraハブが必要です。</li>
+          <li><strong>設置場所</strong>：屋内向けで、熱源や直射日光を避けます。</li>
+          <li><strong>ペットの反応</strong>：検知の対象は、仕様表に記載がありません。</li>
+        </ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>こんな場面での使い方</h2>
+        <h3>廊下の照明の自動点灯</h3>
+        <p>動きで点灯します。</p>
+        <h3>明るさに応じた制御</h3>
+        <p>光センサーを使います。</p>
+        <h3>留守中の動きの確認</h3>
+        <p>アラーム機能を使います。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>使い始めの流れ</h2>
+        <ol>
+          <li><strong>電池を入れる</strong>：向きを確認して入れます。</li>
+          <li><strong>アプリに登録する</strong>：対応アプリで追加します。</li>
+          <li><strong>設置する</strong>：検知したい場所に向けます。</li>
+          <li><strong>連携を設定する</strong>：照明などと連動させます。</li>
+        </ol>
+        <p class="pd-source-note">※一般的な手順の目安です。実際の操作は取扱説明書・メーカーの案内に従ってください。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>長く使うための補足</h2>
+        <ul>
+          <li><strong>ホコリ</strong>：乾いた布で拭きます。</li>
+          <li><strong>電池・電源</strong>：電池の残量や電源を定期的に確認します。</li>
+          <li><strong>設置場所</strong>：水のかかる場所を避けます。</li>
+        </ul>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">13</span>うまく動かないときの確認ポイント</h2>
+        <ul>
+          <li><strong>反応しない</strong>：電池と設置の向きを確認します。</li>
+          <li><strong>誤検知する</strong>：設置場所を見直します。</li>
+          <li><strong>連携できない</strong>：ハブとアプリの設定を確認します。</li>
+        </ul>
+        <p class="pd-source-note">※一般的な確認項目です。具体的な操作手順やリセット方法は、取扱説明書・メーカーの案内に従ってください。</p>
+      </div>
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">14</span>同じ種類の商品との見比べ方</h2>
+        <p>人感センサーは、接続規格・検出範囲・内蔵センサー・電池で比べると違いがわかります。P2はMatter over Threadで、最大7mです。<a href="product-switchbot-motion-sensor-pro.html">SwitchBot 人感センサーPro</a>が比較対象です。</p>
+        <p>選び方は<a href="guide-smart-remote.html">スマートリモコンの選び方ガイド</a>、ランキングは<a href="ranking-smart-home-devices.html">スマートホーム機器のランキング</a>で確認できます。</p>
+        <p class="pd-source-note">各商品ページの「商品情報・仕様」の記載を抜き出して並べています。仕様表に記載のない項目は「記載なし」と表示しています。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table">
+            <thead>
+              <tr>
+                <th>商品</th>
+                <th>商品タイプ</th>
+                <th>対応連携</th>
+                <th>電源</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th>Aqara 人感センサー P2 Matter対応</th>
+                <td class="this-product">ウォールマウント（360°スタンド付属）</td>
+                <td class="this-product">Apple HomeKit・Google Home・Amazonほか</td>
+                <td class="this-product">約2年間電池交換不要（メーカー記載）</td>
+              </tr>
+              <tr>
+                <th><a href="product-switchbot-motion-sensor-pro.html">SwitchBot 人感センサーPro ミリ波レーダー搭載</a></th>
+                <td>人感センサーPro</td>
+                <td>Alexa・Google Home・Siri・LINE</td>
+                <td>電池式</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!-- gp-deepen:e -->
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">15</span>こんな組み合わせ・代替案</h2>
         <h3>紛失防止タグと組み合わせて家全体をスマート化するなら</h3>
         <p>スマートホームの導入を広げたい場合は、<a href="product-eufy-smarttrack-link.html">Eufy SmartTrack Link</a>のような紛失防止タグと組み合わせて使う方法もあります。</p>
         <h3>他社製ハブと比較したいなら</h3>
@@ -235,7 +329,7 @@
       </div>
 
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <h2 class="pd-deep-heading"><span class="num">16</span>よくある質問</h2>
         <div class="faq-list">
           <div class="faq-item">
             <h3><span class="q-mark">Q.</span>Aqaraハブがなくても使えますか？</h3>
@@ -257,6 +351,20 @@
             <h3><span class="q-mark">Q.</span>電池はどのくらい持ちますか？</h3>
             <p>メーカー記載では約2年間電池交換不要とされています。実際の持続時間は使用頻度や環境によって変動します。</p>
           </div>
+          <!-- gp-deepen:fs -->
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>接続規格は？</h3>
+            <p>仕様表にMatter over Thread（2.4GHz帯Wi-Fi対応）と記載されています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>検出範囲は？</h3>
+            <p>仕様表に最大7m、水平方向170°／垂直方向45°と記載されています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>対応エコシステムは？</h3>
+            <p>仕様表にApple HomeKit・Google Home・Amazon Alexaと記載されています。</p>
+          </div>
+          <!-- gp-deepen:fe -->
         </div>
       </div>
 
