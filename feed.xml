@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 12 Oct 2026 00:10:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 00:48:25 +0000</lastBuildDate>
   <item>
     <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
     <link>https://gearnote.net/product-airpods-4</link>
@@ -47,6 +47,20 @@
     <link>https://gearnote.net/product-anker-power-bank-10000mah</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-power-bank-10000mah</guid>
     <description>Anker Power Bank（10000mAh, 22.5W）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Soundcore P31i の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-p31i</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-p31i</guid>
+    <description>Anker Soundcore P31i の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple AirTag（第2世代）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-airtag-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-airtag-2</guid>
+    <description>Apple AirTag（第2世代）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -106,10 +120,31 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Bose QC Ultra Earbuds 2の特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-quietcomfort-ultra-earbuds-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-ultra-earbuds-2</guid>
+    <description>Bose QuietComfort Ultra Earbuds（第2世代）の特徴を整理。メリット・デメリット、AirPods 4・WF-1000XM6との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Bose SoundLink Max の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-bose-soundlink-max</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-max</guid>
     <description>Bose SoundLink Max Portable Speakerの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Bose Smart Ultra Soundbar の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-smart-ultra-soundbar</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-smart-ultra-soundbar</guid>
+    <description>Bose Smart Ultra Soundbar（Dolby Atmos対応）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Bose Ultra Open Earbuds の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-ultra-open-earbuds</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-ultra-open-earbuds</guid>
+    <description>Bose Ultra Open Earbuds（オープンイヤー型ワイヤレスイヤホン）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -134,6 +169,13 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Anker Eufy X10 Pro Omni の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-x10-pro-omni</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-x10-pro-omni</guid>
+    <description>Anker Eufy（ユーフィ）X10 Pro Omni ロボット掃除機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Eufy Robot Vacuum Omni C28 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-eufy-omni-c28</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-omni-c28</guid>
@@ -141,10 +183,24 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Eufy SmartTrack Card E30の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-smarttrack-card-e30</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-smarttrack-card-e30</guid>
+    <description>Eufy SmartTrack Card E30（充電式紛失防止トラッカー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Eufy Security Indoor Cam S350 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-eufy-indoor-cam-s350</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-indoor-cam-s350</guid>
     <description>Anker Eufy Security Indoor Cam S350 見守りカメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufy Video Doorbell E340 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-video-doorbell-e340</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-video-doorbell-e340</guid>
+    <description>Anker Eufy Video Doorbell E340 スマホ連動ドアホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -204,10 +260,24 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>パナソニック エネループ 単3形の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-eneloop-aa-4</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-eneloop-aa-4</guid>
+    <description>パナソニック エネループ 単3形 スタンダードモデル 充電池 4本パックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ナノケアドライヤー EH-NA0Kの特徴・デメリット・比較｜GEARNOTE</title>
     <link>https://gearnote.net/product-panasonic-nanocare-dryer</link>
     <guid isPermaLink="true">https://gearnote.net/product-panasonic-nanocare-dryer</guid>
     <description>パナソニック ナノケアドライヤー EH-NA0Kの特徴を整理。メリット・デメリット、シャープ IB-WX901・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ラムダッシュPROの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-ramdash-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-ramdash-pro</guid>
+    <description>パナソニック ラムダッシュPROの特徴を整理。メリット・デメリット、ブラウンシリーズ9・フィリップス5000シリーズとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -285,76 +355,6 @@
     <link>https://gearnote.net/product-sharp-ki-tx75</link>
     <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-tx75</guid>
     <description>シャープ 空気清浄機 KI-TX75の特徴を整理。メリット・デメリット、KI-TS50・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ サーキュレーター PK-S1801 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-pk-s1801</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-pk-s1801</guid>
-    <description>シャープ サーキュレーター PK-S1801 プラズマクラスターNEXTの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー SRS-XB100 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-srs-xb100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-srs-xb100</guid>
-    <description>ソニー SRS-XB100 ワイヤレススピーカーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>WF-1000XM6レビュー｜音質・ノイキャン・デメリットを徹底検証｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wf-1000xm6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wf-1000xm6</guid>
-    <description>ソニー WF-1000XM6の特徴を整理。メリット・デメリット、AirPods 4・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー LinkBuds WF-L900の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-linkbuds-wf-l900</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-linkbuds-wf-l900</guid>
-    <description>ソニー(SONY) LinkBuds WF-L900の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー WH-1000XM6 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wh-1000xm6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-1000xm6</guid>
-    <description>ソニー WH-1000XM6 ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー WH-CH520 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wh-ch520</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ch520</guid>
-    <description>ソニー WH-CH520 ワイヤレスヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー WH-CH720N の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wh-ch720n</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ch720n</guid>
-    <description>ソニー WH-CH720N ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>UNO(ウノ)の特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-uno-card-game</link>
-    <guid isPermaLink="true">https://gearnote.net/product-uno-card-game</guid>
-    <description>マテルゲーム ウノ(UNO) カードゲームの特徴を整理。メリット・デメリット、ジェンガ・スタディ将棋との比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>サンリオ オーロラ立体シール ハローキティの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sanrio-hello-kitty-aurora-sticker</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sanrio-hello-kitty-aurora-sticker</guid>
-    <description>サンリオ(SANRIO) オーロラ立体シール ハローキティ 225223の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Techspace 知育玩具 スピード勝負の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-techspace-speed-puzzle-blocks</link>
-    <guid isPermaLink="true">https://gearnote.net/product-techspace-speed-puzzle-blocks</guid>
-    <description>Techspace 知育玩具 スピード勝負(積木108個/カード20枚)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
