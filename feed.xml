@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 12 Oct 2026 00:48:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 01:18:54 +0000</lastBuildDate>
   <item>
     <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
     <link>https://gearnote.net/product-airpods-4</link>
@@ -47,6 +47,13 @@
     <link>https://gearnote.net/product-anker-power-bank-10000mah</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-power-bank-10000mah</guid>
     <description>Anker Power Bank（10000mAh, 22.5W）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Soundcore 2 スピーカーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-2</guid>
+    <description>Anker Soundcore 2 ポータブルBluetoothスピーカーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -127,6 +134,20 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Bose QuietComfort Ultra Headphones の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-quietcomfort-ultra-headphones-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-ultra-headphones-2</guid>
+    <description>Bose QuietComfort Ultra Headphones（第2世代）ワイヤレスヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Bose SoundLink Flex（第2世代）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-soundlink-flex-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-flex-2</guid>
+    <description>Bose SoundLink Flex Portable Speaker（第2世代）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Bose SoundLink Max の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-bose-soundlink-max</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-max</guid>
@@ -159,6 +180,34 @@
     <link>https://gearnote.net/product-coca-cola-soukenbicha-24</link>
     <guid isPermaLink="true">https://gearnote.net/product-coca-cola-soukenbicha-24</guid>
     <description>コカ・コーラ 爽健美茶 600mlPET×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ コーヒーグラインダー デディカ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-dedica-kg521j</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-dedica-kg521j</guid>
+    <description>デロンギ コーヒーグラインダー デディカ KG521J-Mの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ラ・スペシャリスタ・アルテ の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-specialista-arte</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-specialista-arte</guid>
+    <description>デロンギ ラ・スペシャリスタ・アルテ EC9155Jの特徴を整理。メリット・デメリット、マグニフィカS・スティローザとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ スティローザの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-stilrosa-ec235j</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-stilrosa-ec235j</guid>
+    <description>デロンギ エスプレッソメーカー スティローザ EC235Jの特徴を整理。メリット・デメリット、マグニフィカS・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ファンヒーター カプスーラ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-capsula-fan-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-capsula-fan-heater</guid>
+    <description>De&#x27;Longhi(デロンギ) ファンヒーター カプスーラ HFX30C11-AGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -267,6 +316,13 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Panasonic 充電式EVOLTA 充電器セットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-evolta-charger-set-aa2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-evolta-charger-set-aa2</guid>
+    <description>Panasonic 充電式EVOLTA 充電器セット 単3形充電池2本付 お手軽モデルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ナノケアドライヤー EH-NA0Kの特徴・デメリット・比較｜GEARNOTE</title>
     <link>https://gearnote.net/product-panasonic-nanocare-dryer</link>
     <guid isPermaLink="true">https://gearnote.net/product-panasonic-nanocare-dryer</guid>
@@ -299,62 +355,6 @@
     <link>https://gearnote.net/product-sharp-ec-fr9</link>
     <guid isPermaLink="true">https://gearnote.net/product-sharp-ec-fr9</guid>
     <description>シャープ コードレススティック掃除機 EC-FR9の特徴を整理。メリット・デメリット、Dyson V12 Detect・PencilVacとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ 加湿レス空気清浄機 FU-SC01 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-fu-sc01</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-fu-sc01</guid>
-    <description>シャープ 加湿レス空気清浄機 FU-SC01-W プラズマクラスター7000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ ヘルシオ AX-LSX3A の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-healsio-ax-lsx3a</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-healsio-ax-lsx3a</guid>
-    <description>シャープ ウォーターオーブン ヘルシオ AX-LSX3Aの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ ヘルシオ ホットクック KN-HW16G の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-hotcook-kn-hw16g</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-hotcook-kn-hw16g</guid>
-    <description>シャープ ヘルシオ ホットクック KN-HW16G-W 自動調理鍋の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ ヘアドライヤー IB-P801 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-ib-p801</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-ib-p801</guid>
-    <description>シャープ ヘアドライヤー IB-P801-B プラズマクラスター 速乾エアロフォルムの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ IB-WX901の特徴｜大風量ドライヤーの選び方・デメリット｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-ib-wx901</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-ib-wx901</guid>
-    <description>シャープ ヘアドライヤー IB-WX901の特徴を整理。メリット・デメリット、パナソニック ナノケア・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ 空気清浄機 KC-S50W の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-kc-s50w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-kc-s50w</guid>
-    <description>シャープ 空気清浄機 KC-S50W-W プラズマクラスター7000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ KI-TS50の特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-ki-ts50</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-ts50</guid>
-    <description>シャープ 空気清浄機 KI-TS50の特徴を整理。メリット・デメリット、KI-TX75・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ KI-TX75の特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-ki-tx75</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-tx75</guid>
-    <description>シャープ 空気清浄機 KI-TX75の特徴を整理。メリット・デメリット、KI-TS50・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
