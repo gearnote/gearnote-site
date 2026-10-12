@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 12 Oct 2026 11:47:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 14:07:41 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -173,6 +173,13 @@
     <link>https://gearnote.net/product-ariel-gel-ball-100</link>
     <guid isPermaLink="true">https://gearnote.net/product-ariel-gel-ball-100</guid>
     <description>アリエール ジェルボール【大容量】100個 部屋干し＆スポーツの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アサヒ飲料 十六茶麦茶の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-asahi-juroku-cha-mugicha-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-asahi-juroku-cha-mugicha-24</guid>
+    <description>アサヒ飲料 十六茶麦茶 660ml×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-delonghi-water-filter-dlsc002</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-water-filter-dlsc002</guid>
     <description>デロンギ 純正ウォーターフィルター DLSC002の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ ファンヒーター カプスーラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-capsula-fan-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-capsula-fan-heater</guid>
-    <description>De&#x27;Longhi(デロンギ) ファンヒーター カプスーラ HFX30C11-AGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
