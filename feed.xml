@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 12 Oct 2026 03:11:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 03:39:27 +0000</lastBuildDate>
   <item>
     <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
     <link>https://gearnote.net/product-airpods-4</link>
@@ -225,6 +225,13 @@
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>デロンギ マグニフィカSの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-magnifica-s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-s</guid>
+    <description>デロンギ 全自動コーヒーマシン マグニフィカSの特徴を整理。メリット・デメリット、スティローザ・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>デロンギ ラ・スペシャリスタ・アルテ の特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-delonghi-specialista-arte</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-specialista-arte</guid>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-nintendo-switch-2</link>
     <guid isPermaLink="true">https://gearnote.net/product-nintendo-switch-2</guid>
     <description>Nintendo Switch 2（日本語・国内専用）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック エネループ 単3形の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-eneloop-aa-4</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-eneloop-aa-4</guid>
-    <description>パナソニック エネループ 単3形 スタンダードモデル 充電池 4本パックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
