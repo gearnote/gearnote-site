@@ -32,7 +32,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://gearnote.net/"}, {"@type": "ListItem", "position": 2, "name": "ガジェット・スマホ・PC", "item": "https://gearnote.net/category-smart"}, {"@type": "ListItem", "position": 3, "name": "Tapo P105 スマートプラグ"}]}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ハブは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"P105はハブ不要で、コンセントに直接差すだけでWi-Fi経由でスマホ操作ができます。赤外線家電の操作にはTapo H110などのハブが別途必要です。"}},{"@type":"Question","name":"消費電力は測れますか？","acceptedAnswer":{"@type":"Answer","text":"P105は、消費電力のモニタリング機能を備えていません。測りたい場合は、上位のP110系を検討してください。"}},{"@type":"Question","name":"エアコンやヒーターにも使えますか？","acceptedAnswer":{"@type":"Answer","text":"消費電力が大きい家電は、定格電流の範囲と、安全面を確認する必要があります。無人での自動オンは、慎重に判断してください。"}},{"@type":"Question","name":"海外のコンセントで使えますか？","acceptedAnswer":{"@type":"Answer","text":"日本のコンセントと100Vを前提とした製品と考えられます。海外での使用は、商品ページの対応電圧を確認してください。"}},{"@type":"Question","name":"停電のあと、家電はどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"復電時の状態は、設定や機器で異なります。復電後に自動でオンになる設定では、安全性を確認してください。"}},{"@type":"Question","name":"型番は？","acceptedAnswer":{"@type":"Answer","text":"仕様表にTapo P105/Aと記載されています。"}},{"@type":"Question","name":"定格電流は？","acceptedAnswer":{"@type":"Answer","text":"仕様表に最大負荷電流10Aと記載されています。"}},{"@type":"Question","name":"素材は？","acceptedAnswer":{"@type":"Answer","text":"仕様表にプラスチックと記載されています。"}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"対応するWi-Fiの周波数帯を教えてください。","acceptedAnswer":{"@type":"Answer","text":"メーカー公式サイトの製品ページ（日本向け）では、IEEE 802.11b/g/n、周波数は2.4GHzと記載されています。"}},{"@type":"Question","name":"寸法と最大負荷を教えてください。","acceptedAnswer":{"@type":"Answer","text":"メーカー公式サイトの製品ページ（日本向け）では、寸法は60×38×33mm、最大負荷は1000W・10Aと記載されています。"}},{"@type":"Question","name":"ハブは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"P105はハブ不要で、コンセントに直接差すだけでWi-Fi経由でスマホ操作ができます。赤外線家電の操作にはTapo H110などのハブが別途必要です。"}},{"@type":"Question","name":"消費電力は測れますか？","acceptedAnswer":{"@type":"Answer","text":"P105は、消費電力のモニタリング機能を備えていません。測りたい場合は、上位のP110系を検討してください。"}},{"@type":"Question","name":"エアコンやヒーターにも使えますか？","acceptedAnswer":{"@type":"Answer","text":"消費電力が大きい家電は、定格電流の範囲と、安全面を確認する必要があります。無人での自動オンは、慎重に判断してください。"}},{"@type":"Question","name":"海外のコンセントで使えますか？","acceptedAnswer":{"@type":"Answer","text":"メーカーの仕様では、電源はAC100〜125V、50/60Hzです。海外での使用は、現地の電圧とコンセント形状を確認してください。"}},{"@type":"Question","name":"停電のあと、家電はどうなりますか？","acceptedAnswer":{"@type":"Answer","text":"復電時の状態は、設定や機器で異なります。復電後に自動でオンになる設定では、安全性を確認してください。"}},{"@type":"Question","name":"型番は？","acceptedAnswer":{"@type":"Answer","text":"仕様表にTapo P105/Aと記載されています。"}},{"@type":"Question","name":"定格電流は？","acceptedAnswer":{"@type":"Answer","text":"仕様表に最大負荷電流10Aと記載されています。"}},{"@type":"Question","name":"素材は？","acceptedAnswer":{"@type":"Answer","text":"仕様表にプラスチックと記載されています。"}}]}</script>
 </head>
 <body>
 
@@ -329,9 +329,43 @@
         <p class="guide-link" data-guide="smart-remote">選び方に迷ったら、<a href="guide-smart-remote.html">スマートリモコン・スマートホームハブの選び方ガイド｜赤外線・Matter・Wi-Fi帯域・対応家電の見方</a>も参考にしてください。</p>
       </div>
 
+      <!-- prod-offspec-v1:start -->
       <div class="pd-deep-section">
-        <h2 class="pd-deep-heading"><span class="num">16</span>よくある質問</h2>
+        <h2 class="pd-deep-heading"><span class="num">16</span>メーカー公開仕様（寸法・質量・定格など）</h2>
+        <div class="spec-table-wrap">
+          <table class="spec-table">
+            <thead><tr><th>項目</th><th>内容</th></tr></thead>
+            <tbody>
+              <tr><th>無線規格</th><td>IEEE 802.11b/g/n（Bluetooth 4.2は初期設定時のみ）</td></tr>
+              <tr><th>周波数</th><td>2.4GHz</td></tr>
+              <tr><th>電源</th><td>AC100〜125V、50/60Hz（極性付きコンセント／プラグ）</td></tr>
+              <tr><th>最大負荷</th><td>1000W、10A（一般用途・抵抗負荷）</td></tr>
+              <tr><th>寸法</th><td>60×38×33mm</td></tr>
+              <tr><th>動作温度</th><td>0℃〜40℃</td></tr>
+              <tr><th>認証</th><td>FCC、RoHS</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="pd-prose">
+          <p>メーカーの製品ページ（日本向け）では、無線規格はIEEE 802.11b/g/nで周波数は2.4GHz、Bluetooth 4.2は初期設定時のみ使用と示されています。電源はAC100〜125V、50/60Hz、最大負荷は1000W・10Aです。</p>
+          <p>寸法は60×38×33mm、動作温度は0℃〜40℃と記載されています。メーカーの仕様ページに重量の記載はありません。</p>
+        </div>
+        <p class="pd-source-note">出典：メーカー公式サイトの製品情報（TP-Link Japan、型番 Tapo P105、確認日 2026-10-12）</p>
+        <p class="pd-source-note">※仕様は製品の改訂などにより変更されることがあります。購入前に、メーカーの最新の製品情報と商品に同梱の取扱説明書でご確認ください。</p>
+      </div>
+      <!-- prod-offspec-v1:end -->
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">17</span>よくある質問</h2>
         <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>対応するWi-Fiの周波数帯を教えてください。</h3>
+            <p>メーカー公式サイトの製品ページ（日本向け）では、IEEE 802.11b/g/n、周波数は2.4GHzと記載されています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>寸法と最大負荷を教えてください。</h3>
+            <p>メーカー公式サイトの製品ページ（日本向け）では、寸法は60×38×33mm、最大負荷は1000W・10Aと記載されています。</p>
+          </div>
           <div class="faq-item">
             <h3><span class="q-mark">Q.</span>ハブは必要ですか？</h3>
             <p>P105はハブ不要で、コンセントに直接差すだけでWi-Fi経由でスマホ操作ができます。赤外線家電の操作には<a href="product-tapo-h110-smart-hub.html">Tapo H110</a>などのハブが別途必要です。</p>
@@ -346,7 +380,7 @@
           </div>
           <div class="faq-item">
             <h3><span class="q-mark">Q.</span>海外のコンセントで使えますか？</h3>
-            <p>日本のコンセントと100Vを前提とした製品と考えられます。海外での使用は、商品ページの対応電圧を確認してください。</p>
+            <p>メーカーの仕様では、電源はAC100〜125V、50/60Hzです。海外での使用は、現地の電圧とコンセント形状を確認してください。</p>
           </div>
           <div class="faq-item">
             <h3><span class="q-mark">Q.</span>停電のあと、家電はどうなりますか？</h3>
