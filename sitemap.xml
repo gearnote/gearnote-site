@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -72,7 +72,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-koizumi</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-audio</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5842,7 +5842,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-portable-speakers</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -10127,7 +10127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -21387,7 +21387,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/feature-winter-prep-2026</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -21417,7 +21417,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/feature-work-from-home-2026</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -27962,7 +27962,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -29313,6 +29313,31 @@
   <url>
     <loc>https://gearnote.net/product-koizumi-ceramic-heater-cube-kph-1226c-w-tower-oscillating</loc>
     <lastmod>2026-10-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-lexar-es5-portable-ssd-2tb-magsafe</loc>
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-samsung-galaxy-watch-ultra2-titanium-silver</loc>
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-60268t-sleep-timer</loc>
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor</loc>
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint</loc>
+    <lastmod>2026-10-13</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
