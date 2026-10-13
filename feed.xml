@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 13 Oct 2026 10:36:29 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 10:37:18 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -71,10 +71,24 @@
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Dyson OnTrac ヘッドホンの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-ontrac</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-ontrac</guid>
+    <description>Dyson OnTrac ヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Dyson PencilWash 水拭き掃除機の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-dyson-pencilwash</link>
     <guid isPermaLink="true">https://gearnote.net/product-dyson-pencilwash</guid>
     <description>Dyson PencilWash コードレス水拭き掃除機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
+    <description>Dyson Purifier Hot+Cool 空気清浄ファンヒーターの特徴を整理。メリット・デメリット、シャープKI-TX75・KI-TS50との比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -99,10 +113,38 @@
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>カシオ F-91W 腕時計の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-collection-f91w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-collection-f91w</guid>
+    <description>カシオ コレクション F-91W-1JH 腕時計の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カシオ W-218H 腕時計の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-collection-w218h</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-collection-w218h</guid>
+    <description>[カシオ] 腕時計 カシオコレクション W-218H-1BJF メンズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>本・文房具の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-books</link>
     <guid isPermaLink="true">https://gearnote.net/category-books</guid>
     <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBot LEDシーリングライトプロの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-ceiling-light-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-ceiling-light-pro</guid>
+    <description>SwitchBot LEDシーリングライトプロ 8畳の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBot 人感センサーPro の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-motion-sensor-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-motion-sensor-pro</guid>
+    <description>SwitchBot 人感センサーPro（ミリ波レーダー搭載）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -113,10 +155,24 @@
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>SwitchBot キーパッド の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-keypad</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-keypad</guid>
+    <description>SwitchBot キーパッド 暗証番号 スマートロックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Xiaomi ロボット掃除機 S40C の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-xiaomi-robot-vacuum-s40c</link>
     <guid isPermaLink="true">https://gearnote.net/product-xiaomi-robot-vacuum-s40c</guid>
     <description>Xiaomi シャオミ ロボット掃除機 S40C 5,000Pa強力吸引の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi エアフライヤー 6.5L の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-air-fryer-65l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-air-fryer-65l</guid>
+    <description>Xiaomi エアフライヤー 6.5L大容量 家庭用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -162,10 +218,129 @@
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Google Pixel Buds 2aの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-google-pixel-buds-2a</link>
+    <guid isPermaLink="true">https://gearnote.net/product-google-pixel-buds-2a</guid>
+    <description>Google Pixel Buds 2a GA06155-JPの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Insta360 X6 通常版 8K 360度カメラ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-insta360-x6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-insta360-x6</guid>
+    <description>Insta360 X6 8K 360度カメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カシオ G-SHOCK GA-2100-1A1JF カーボンコアガード の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-g-shock-ga-2100-1a1jf</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-g-shock-ga-2100-1a1jf</guid>
+    <description>カシオ G-SHOCK GA-2100-1A1JF カーボンコアガード 国内正規品 メンズ ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム Nintendo Switch2専用 液晶保護フィルム ガラス 光沢 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-glass-film-glossy-switch2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-glass-film-glossy-switch2</guid>
+    <description>エレコム Nintendo Switch2専用 液晶保護フィルム ガラス 光沢 ARコートの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>山善の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-yamazen</link>
     <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
     <description>山善の家電・家具・キッチン用品などの特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載34商品の仕様を一覧で確認できます。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Galaxy 45W Power Adapter（Samsung純正）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-samsung-galaxy-45w-power-adapter</link>
+    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-45w-power-adapter</guid>
+    <description>Samsung純正Galaxy 45W Power Adapter（USB-C急速充電器・国内正規品）の特徴を整理。付属ケーブル込みの急速充電アダプターのメリット・デメリット、おすすめな人をまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBot RGBICフロアライト LEDスタンドライト ブラック の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-rgbic-floor-light</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-rgbic-floor-light</guid>
+    <description>SwitchBot RGBICフロアライト LEDスタンドライト ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ シャワーチェア 背もたれ付き SCT-350 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-irisohyama-shower-chair-sct-350</link>
+    <guid isPermaLink="true">https://gearnote.net/product-irisohyama-shower-chair-sct-350</guid>
+    <description>アイリスオーヤマ シャワーチェア 背もたれ付き 風呂椅子 ロータイプ SCT-350 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム（ELECOM）バランスボール 65cm の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-balance-ball-65cm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-balance-ball-65cm</guid>
+    <description>エレコム バランスボール65cmの特徴を整理。耐荷重・サイズ、使い方やメリット・デメリットをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カシオ コレクション STW-1000 ソーラー電波ランニングウォッチ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-stw1000-runners-watch</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-stw1000-runners-watch</guid>
+    <description>カシオ コレクション STW-1000 ソーラー電波ランニングウォッチの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム LEDリングライト DE-L01BK の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-ring-light-clip-16cm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-ring-light-clip-16cm</guid>
+    <description>エレコム(ELECOM) LEDリングライト クリップライト 16cm 3色モード/10段階調光 USB給電 ブラック DE-L01BKの特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>CASIO G-SHOCK GBD-H2000-1AJR（G-SQUAD GPS 心拍計搭載）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-gshock-gbd-h2000</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-gshock-gbd-h2000</guid>
+    <description>CASIO G-SHOCK GBD-H2000-1AJR（G-SQUAD GPS 心拍計搭載）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Samsung Galaxy Watch8 40mmの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-samsung-galaxy-watch8-40mm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-watch8-40mm</guid>
+    <description>Samsung Galaxy Watch8 40mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【1台4役・花粉対策】SwitchBot 空気清浄機 Table - 脱臭 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-air-purifier-table-wood</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-air-purifier-table-wood</guid>
+    <description>【1台4役・花粉対策】SwitchBot 空気清浄機 Table - 脱臭 ワイヤレス充電 25畳 静音 小型 省エネ HEPA フィルター 除菌の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[カシオ] 腕時計 カシオ コレクション の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-mq24-7b2lljh-analog-watch</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-mq24-7b2lljh-analog-watch</guid>
+    <description>カシオ コレクション MQ-24-7B2LLJHの特徴を整理。円形ケースのアナログ腕時計、日常生活用防水、国内正規品の仕様、メリット・デメリット、向いている人をまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[カシオ] 腕時計 ジーショック 【国内正規品】DW-5600UBB-1JF の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-g-shock-dw-5600ubb-1jf</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-g-shock-dw-5600ubb-1jf</guid>
+    <description>カシオ G-SHOCK DW-5600UBB-1JFの特徴を整理。オールブラックのスクエアフェイス、耐衝撃構造、20気圧防水、ストップウオッチ・タイマーの仕様、メリット・デメリットをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>G-SHOCK GW-M5610U-1JF カシオ 腕時計 メンズ ブラック 国内正規品 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-g-shock-gw-m5610u-1jf</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-g-shock-gw-m5610u-1jf</guid>
+    <description>カシオ G-SHOCK GW-M5610U-1JFの特徴を整理。電波ソーラー（マルチバンド6）、20気圧防水、耐衝撃構造、ワールドタイムなどの仕様、メリット・デメリットをまとめました。</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[カシオ] 腕時計 カシオ コレクション 【国内正規品】A158WA-1JH メンズ シルバー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-casio-a158wa-1jh-digital-watch</link>
+    <guid isPermaLink="true">https://gearnote.net/product-casio-a158wa-1jh-digital-watch</guid>
+    <description>カシオ コレクション A158WA-1JHの特徴を整理。メタルバンドのデジタルウオッチ、日常生活用防水、LEDライト、ストップウォッチの仕様、メリット・デメリットをまとめました。</description>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -180,181 +355,6 @@
     <link>https://gearnote.net/feature-winter-prep-2026</link>
     <guid isPermaLink="true">https://gearnote.net/feature-winter-prep-2026</guid>
     <description>冬支度に役立つ商品を用途別にまとめた特集。暖房・加湿と結露対策・部屋干し・寝具・小物・温かい飲み物・乾燥ケア・電気まわり・車の準備まで、選び方のポイントと安全上の注意つきで紹介します。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>特集一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/features</link>
-    <guid isPermaLink="true">https://gearnote.net/features</guid>
-    <description>GEARNOTEの特集ページ一覧。季節や用途ごとに、掲載商品を選び方のポイントと注意点つきでまとめたページを掲載しています。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>在宅ワーク・デスク環境特集｜入力機器・画面・音・照明・電源まわりを用途別に整理｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-work-from-home-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-work-from-home-2026</guid>
-    <description>在宅ワークの机まわりに関わる商品を用途別にまとめた特集。キーボード・マウス、画面まわり、ヘッドホンとマイク、デスクの明かり、電源・配線、文房具、飲み物、室内環境、ネットワークまで、選び方のポイントと使うときの注意つきで紹介します。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Brotherの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-brother</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-brother</guid>
-    <description>ブラザー工業(Brother Industries)のプリンター・インクカートリッジの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dearnatura</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dearnatura</guid>
-    <description>ディアナチュラ(Dear-Natura)のサプリメントの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>【EC限定】ディアナチュラスタイル 亜鉛 90粒(90日) アサヒ サプリの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-style-zinc-90</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-style-zinc-90</guid>
-    <description>ディアナチュラスタイル 亜鉛 90粒(90日)の特徴を整理。1日1粒で続けやすい亜鉛サプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エレコム 電源タップ 3個口 ホコリ防止シャッターの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elecom-power-strip-3port-dust-shutter</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elecom-power-strip-3port-dust-shutter</guid>
-    <description>エレコム 電源タップ 3個口 ホコリ防止シャッターの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラスタイル マルチビタミン 90粒(90日) アサヒ サプリの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-style-multivitamin-90</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-style-multivitamin-90</guid>
-    <description>ディアナチュラスタイル マルチビタミン 90粒(90日)の特徴を整理。1日1粒でビタミン12種を補給できるサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラスタイル 葉酸×鉄・カルシウム 180粒(90日) アサヒ サプリの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-style-folicacid-iron-calcium-180</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-style-folicacid-iron-calcium-180</guid>
-    <description>ディアナチュラスタイル 葉酸×鉄・カルシウム 180粒(90日)の特徴を整理。妊活・妊娠中・授乳期に配慮した栄養補助食品のメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラゴールド EPA&amp;DHA 360粒(60日) 機能性表示食品の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-gold-epa-dha-360</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-gold-epa-dha-360</guid>
-    <description>ディアナチュラゴールド EPA&amp;DHA 360粒(60日)の特徴を整理。機能性表示食品として届出されたEPA・DHAサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラ ストロング39アミノ マルチビタミン&amp;ミネラルの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-strong39amino-multivitamin-mineral-300</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-strong39amino-multivitamin-mineral-300</guid>
-    <description>ディアナチュラ ストロング39アミノ マルチビタミン&amp;ミネラル 300粒(100日)の特徴を整理。ビタミン・ミネラル・アミノ酸をまとめて補給できるサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラスタイル ビタミンC MIX 120粒(60日) アサヒ サプリの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-style-vitaminc-mix-120</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-style-vitaminc-mix-120</guid>
-    <description>ディアナチュラスタイル ビタミンC MIX 120粒(60日)の特徴を整理。ビタミンCを軸にした栄養補助食品のメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラ カルシウム・マグネシウム・亜鉛・ビタミンD 540粒(90日分)の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-calcium-magnesium-zinc-vitamind-540</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-calcium-magnesium-zinc-vitamind-540</guid>
-    <description>ディアナチュラ カルシウム・マグネシウム・亜鉛・ビタミンD 540粒(90日分)の特徴を整理。4種の栄養機能食品を1日6粒でまとめて補給できるサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラ DHA with イチョウ葉 240粒(60日分)の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-dha-with-ginkgo-240</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-dha-with-ginkgo-240</guid>
-    <description>ディアナチュラ DHA with イチョウ葉 240粒(60日分)の特徴を整理。DHAにイチョウ葉エキスを加えたカプセルサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラ ノコギリヤシ 120粒(60日分)の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-saw-palmetto-120</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-saw-palmetto-120</guid>
-    <description>ディアナチュラ ノコギリヤシ 120粒(60日分)の特徴を整理。ノコギリヤシ果実エキスを配合したソフトカプセルサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラゴールド ルテイン&amp;ゼアキサンチン 120粒(60日分)の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-gold-lutein-zeaxanthin-120</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-gold-lutein-zeaxanthin-120</guid>
-    <description>ディアナチュラゴールド ルテイン&amp;ゼアキサンチン 120粒(60日分)[機能性表示食品]の特徴を整理。ルテイン・ゼアキサンチンを配合したサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラ ビタミンB群 60粒(60日) アサヒ サプリ Dear-Naturaの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-vitaminb-60</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-vitaminb-60</guid>
-    <description>ディアナチュラ ビタミンB群 60粒(60日)の特徴を整理。1日1粒で続けやすいビタミンB群サプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラ ビタミンE 60粒(60日) アサヒ サプリ Dear-Naturaの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-vitamine-60</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-vitamine-60</guid>
-    <description>ディアナチュラ ビタミンE 60粒(60日)の特徴を整理。1日1粒で続けやすいビタミンEサプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラ ヘム鉄 60粒(60日) アサヒ サプリ Dear-Natura 国内工場で生産の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-heme-iron-60</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-heme-iron-60</guid>
-    <description>ディアナチュラ ヘム鉄 60粒(60日)の特徴を整理。1日1粒で続けやすいヘム鉄サプリのメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ディアナチュラスタイル DHA 180粒(60日) アサヒ サプリの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dearnatura-style-dha-180</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dearnatura-style-dha-180</guid>
-    <description>ディアナチュラスタイル DHA 180粒(60日)の特徴を整理。DHAを配合した栄養補助食品のメリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>新着商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/new-arrivals</link>
-    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
-    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lexar ES5 ポータブルSSD 2TB MagSafe対応 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lexar-es5-portable-ssd-2tb-magsafe</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lexar-es5-portable-ssd-2tb-magsafe</guid>
-    <description>Lexar ES5 ポータブルSSD 2TB MagSafe対応の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung Galaxy Watch Ultra2 チタニウム シルバー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-galaxy-watch-ultra2-titanium-silver</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-watch-ultra2-titanium-silver</guid>
-    <description>Samsung Galaxy Watch Ultra2 チタニウム シルバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 電気掛敷毛布 KDK-60268T 快眠タイマー付き の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-60268t-sleep-timer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-60268t-sleep-timer</guid>
-    <description>コイズミ 電気掛敷毛布 KDK-60268T 快眠タイマー付きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 セラミックファンヒーター DMSF-J063(W) ホワイト の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor</guid>
-    <description>山善 セラミックファンヒーター DMSF-J063(W) ホワイトの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Harman Kardon Luna 2 ミント（HKLUNA2MIT） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint</link>
-    <guid isPermaLink="true">https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint</guid>
-    <description>Harman Kardon Luna 2 ミント（HKLUNA2MIT）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
