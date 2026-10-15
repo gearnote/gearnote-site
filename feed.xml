@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 15 Oct 2026 17:12:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 17:13:25 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -19,6 +19,20 @@
     <link>https://gearnote.net/category-beauty</link>
     <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
     <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ 電気ケトル アイコナ・ヴィンテージ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-icona-vintage-kettle</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-icona-vintage-kettle</guid>
+    <description>デロンギ 電気ケトル アイコナ・ヴィンテージ KBOV1240Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ファンヒーター カプスーラ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-capsula-fan-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-capsula-fan-heater</guid>
+    <description>De&#x27;Longhi(デロンギ) ファンヒーター カプスーラ HFX30C11-AGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -337,24 +351,10 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ティファール ハンドブレンダー べビーマルチの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tefal-hand-blender-baby-multi</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tefal-hand-blender-baby-multi</guid>
-    <description>ティファール ハンドブレンダー べビーマルチ HB65H8JPAの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dyson Purifier Big+Quiet の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dyson-purifier-big-quiet</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-big-quiet</guid>
-    <description>Dyson(ダイソン) 空気清浄機 Purifier Big+Quiet（BP02）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オルビスユー エッセンスローション の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-orbis-u-essence-lotion</link>
-    <guid isPermaLink="true">https://gearnote.net/product-orbis-u-essence-lotion</guid>
-    <description>オルビス(ORBIS) ユー エッセンスローション（化粧水）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>アイリスオーヤマ 圧力IHジャー炊飯器 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-pressure-ih-rice-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-pressure-ih-rice-cooker</guid>
+    <description>アイリスオーヤマ 圧力IHジャー炊飯器 5.5合 極厚火釜 銘柄炊きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
