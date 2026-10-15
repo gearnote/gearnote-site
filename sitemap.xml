@@ -24922,7 +24922,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/guides</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -29364,5 +29364,11 @@
     <loc>https://gearnote.net/product-koizumi-sheathed-heater-kss-1026a-h-1000w</loc>
     <lastmod>2026-10-15</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-glossary</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
