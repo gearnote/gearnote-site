@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 15 Oct 2026 15:51:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 15:54:54 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>デオコ 薬用ボディクレンズの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-deoco-body-cleanse</link>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-rohto-hadalabo-shirojun-lotion</link>
     <guid isPermaLink="true">https://gearnote.net/product-rohto-hadalabo-shirojun-lotion</guid>
     <description>肌ラボ 白潤プレミアム 薬用浸透美白化粧水 170mLの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メラノCC 薬用しみ対策美白化粧水の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-melano-cc-toner</link>
-    <guid isPermaLink="true">https://gearnote.net/product-melano-cc-toner</guid>
-    <description>メラノCC 薬用しみ対策美白化粧水 しっとり 170mlの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キュレル 皮脂トラブルケア化粧水 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-curel-sebum-trouble-lotion</link>
-    <guid isPermaLink="true">https://gearnote.net/product-curel-sebum-trouble-lotion</guid>
-    <description>キュレル 花王(Kao) 皮脂トラブルケア化粧水 150mlの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
