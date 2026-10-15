@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 15 Oct 2026 11:55:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 15:01:06 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -183,6 +183,13 @@
     <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>スマートホームデバイスおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smart-home-devices</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smart-home-devices</guid>
+    <description>SwitchBot ハブ3・Amazon Echo Dot 第5世代・Eufy SmartTrack Card E30を徹底比較。各商品の特徴をもとに、機能・使い勝手の観点からおすすめのスマートホームデバイスを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>TIRTIR マスクフィットクッション の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tirtir-mask-fit-cushion</link>
     <guid isPermaLink="true">https://gearnote.net/product-tirtir-mask-fit-cushion</guid>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-monster-hunter-rise-sunbreak-switch</link>
     <guid isPermaLink="true">https://gearnote.net/product-monster-hunter-rise-sunbreak-switch</guid>
     <description>モンスターハンターライズ+サンブレイク セット Best Price -Switchの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-yamazen</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
-    <description>山善の家電・家具・キッチン用品などの特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載34商品の仕様を一覧で確認できます。</description>
     <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
