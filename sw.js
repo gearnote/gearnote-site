@@ -1,9 +1,11 @@
 // GEARNOTE service worker — minimal, just enough for PWA installability + a fast repeat-visit shell.
 // Network-first for HTML, CSS and JS (the site redeploys every few days, so returning visitors must
-// always get the latest code); cache-first only for assets that truly never change (icons).
-const CACHE = "gearnote-shell-v2";
+// always get the latest code); cache-first only for the app icons. Banner/card images reuse the same
+// file name when a phase changes (e.g. Prime Coming Soon -> live), so they must be network-first too.
+const CACHE = "gearnote-shell-v3";
 const SHELL = ["/", "/css/style.css", "/js/main.js", "/icon-192.png"];
-const NETWORK_FIRST_EXT = [".html", ".css", ".js"];
+const NETWORK_FIRST_EXT = [".html", ".css", ".js", ".png", ".jpg", ".jpeg", ".webp", ".svg"];
+const CACHE_FIRST_PREFIX = ["/icon-", "/apple-touch-icon"];
 
 self.addEventListener("install", (event) => {
   self.skipWaiting();
@@ -23,7 +25,8 @@ self.addEventListener("fetch", (event) => {
 
   const url = new URL(req.url);
   const isNavigate = req.mode === "navigate" || req.headers.get("accept")?.includes("text/html");
-  const isNetworkFirst = isNavigate || NETWORK_FIRST_EXT.some((ext) => url.pathname.endsWith(ext));
+  const isIcon = CACHE_FIRST_PREFIX.some((p) => url.pathname.startsWith(p));
+  const isNetworkFirst = !isIcon && (isNavigate || NETWORK_FIRST_EXT.some((ext) => url.pathname.endsWith(ext)));
 
   if (isNetworkFirst) {
     event.respondWith(

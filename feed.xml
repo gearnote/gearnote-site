@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 15 Oct 2026 15:01:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 15:09:22 +0000</lastBuildDate>
+  <item>
+    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
+    <description>Amazonプライム感謝祭が開催中です（10月16日(金)〜19日(月)）。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品をGEARNOTEがピックアップして紹介します。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>特集一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/features</link>
+    <guid isPermaLink="true">https://gearnote.net/features</guid>
+    <description>GEARNOTEの特集ページ一覧。季節や用途ごとに、掲載商品を選び方のポイントと注意点つきでまとめたページを掲載しています。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-mamacook-freeze-dried-sasami-cat-150g</link>
     <guid isPermaLink="true">https://gearnote.net/product-mamacook-freeze-dried-sasami-cat-150g</guid>
     <description>ママクック フリーズドライのササミ 猫用 150gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ストリートファイター6 -PS5 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-street-fighter-6-ps5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-street-fighter-6-ps5</guid>
-    <description>ストリートファイター6 -PS5の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モンスターハンターライズ+サンブレイク セット Best Price -Switch の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-monster-hunter-rise-sunbreak-switch</link>
-    <guid isPermaLink="true">https://gearnote.net/product-monster-hunter-rise-sunbreak-switch</guid>
-    <description>モンスターハンターライズ+サンブレイク セット Best Price -Switchの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
