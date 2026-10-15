@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 15 Oct 2026 16:53:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 17:12:56 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -50,10 +50,24 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アイリスオーヤマ 超音波式加湿器の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-humidifier</guid>
+    <description>アイリスオーヤマ 超音波式加湿器 UHM-280S-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>オルビス エッセンスイン ヘアミルクの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-orbis-essence-in-hair-milk</link>
     <guid isPermaLink="true">https://gearnote.net/product-orbis-essence-in-hair-milk</guid>
     <description>オルビス（ORBIS）エッセンスイン ヘアミルクの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ナノケアドライヤー EH-NA0Kの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-nanocare-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-nanocare-dryer</guid>
+    <description>パナソニック ナノケアドライヤー EH-NA0Kの特徴を整理。メリット・デメリット、シャープ IB-WX901・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -309,6 +323,27 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ティファール 電気ケトル ジャスティン ロックの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tefal-justin-lock-kettle-12l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tefal-justin-lock-kettle-12l</guid>
+    <description>ティファール 電気ケトル ジャスティン ロック 1.2L ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善 コンパクトオーブントースター の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</guid>
+    <description>山善(YAMAZEN) トースター オーブントースター 2枚焼き コンパクト YTCB-C120の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ティファール ハンドブレンダー べビーマルチの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tefal-hand-blender-baby-multi</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tefal-hand-blender-baby-multi</guid>
+    <description>ティファール ハンドブレンダー べビーマルチ HB65H8JPAの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Dyson Purifier Big+Quiet の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-dyson-purifier-big-quiet</link>
     <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-big-quiet</guid>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/product-orbis-u-essence-lotion</link>
     <guid isPermaLink="true">https://gearnote.net/product-orbis-u-essence-lotion</guid>
     <description>オルビス(ORBIS) ユー エッセンスローション（化粧水）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オルビスユー ジェルモイスチャライザー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-orbis-u-gel-moisturizer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-orbis-u-gel-moisturizer</guid>
-    <description>ORBIS U ジェルモイスチャライザーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ORBIS ドライスキンジェルローションの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-orbis-dryskin-gel-lotion</link>
-    <guid isPermaLink="true">https://gearnote.net/product-orbis-dryskin-gel-lotion</guid>
-    <description>ORBIS(オルビス) ドライスキンジェルローションの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ORBIS パーフェクトUVリキッドファンデーション の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-orbis-perfect-uv-liquid-foundation</link>
-    <guid isPermaLink="true">https://gearnote.net/product-orbis-perfect-uv-liquid-foundation</guid>
-    <description>オルビス パーフェクトUVリキッドファンデーション SPF50・PA++++の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ORBIS サンスクリーンパウダー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-orbis-sunscreen-powder</link>
-    <guid isPermaLink="true">https://gearnote.net/product-orbis-sunscreen-powder</guid>
-    <description>オルビス サンスクリーンパウダー リフィル SPF50+・PA++++の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オルビス レチフォーカス アイクリームの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-orbis-retifocus-eye-cream</link>
-    <guid isPermaLink="true">https://gearnote.net/product-orbis-retifocus-eye-cream</guid>
-    <description>オルビス(ORBIS) レチフォーカス アイクリーム 15gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
