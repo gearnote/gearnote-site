@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 15 Oct 2026 16:33:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 16:53:32 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -36,6 +36,20 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
+    <description>Dyson Purifier Hot+Cool 空気清浄ファンヒーターの特徴を整理。メリット・デメリット、シャープKI-TX75・KI-TS50との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufy Robot Vacuum Auto-Empty C10の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-robot-vacuum-c10</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-robot-vacuum-c10</guid>
+    <description>Eufy Robot Vacuum Auto-Empty C10の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>オルビス エッセンスイン ヘアミルクの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-orbis-essence-in-hair-milk</link>
     <guid isPermaLink="true">https://gearnote.net/product-orbis-essence-in-hair-milk</guid>
@@ -47,6 +61,41 @@
     <link>https://gearnote.net/product-refa-aira-mirror-comb</link>
     <guid isPermaLink="true">https://gearnote.net/product-refa-aira-mirror-comb</guid>
     <description>ReFa Aira ミラーコームの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 衣類乾燥除湿機 CV-T190 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-cv-t190</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-cv-t190</guid>
+    <description>シャープ 衣類乾燥除湿機 CV-T190-W コンプレッサー方式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 加湿レス空気清浄機 FU-SC01 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-fu-sc01</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-fu-sc01</guid>
+    <description>シャープ 加湿レス空気清浄機 FU-SC01-W プラズマクラスター7000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ KI-TS50の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-ts50</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-ts50</guid>
+    <description>シャープ 空気清浄機 KI-TS50の特徴を整理。メリット・デメリット、KI-TX75・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ KI-TX75の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-tx75</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-tx75</guid>
+    <description>シャープ 空気清浄機 KI-TX75の特徴を整理。メリット・デメリット、KI-TS50・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ サーキュレーター PK-S1801 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-pk-s1801</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-pk-s1801</guid>
+    <description>シャープ サーキュレーター PK-S1801 プラズマクラスターNEXTの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -260,6 +309,13 @@
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Dyson Purifier Big+Quiet の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-purifier-big-quiet</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-big-quiet</guid>
+    <description>Dyson(ダイソン) 空気清浄機 Purifier Big+Quiet（BP02）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>オルビスユー エッセンスローション の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-orbis-u-essence-lotion</link>
     <guid isPermaLink="true">https://gearnote.net/product-orbis-u-essence-lotion</guid>
@@ -299,62 +355,6 @@
     <link>https://gearnote.net/product-orbis-retifocus-eye-cream</link>
     <guid isPermaLink="true">https://gearnote.net/product-orbis-retifocus-eye-cream</guid>
     <description>オルビス(ORBIS) レチフォーカス アイクリーム 15gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オルビスユー ドット クリームモイスチャライザーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-orbis-udot-cream-moisturizer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-orbis-udot-cream-moisturizer</guid>
-    <description>オルビス(ORBIS) オルビスユードット クリームモイスチャライザー 50gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キャンメイク シェーディングパウダー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-canmake-shading-powder</link>
-    <guid isPermaLink="true">https://gearnote.net/product-canmake-shading-powder</guid>
-    <description>キャンメイク シェーディングパウダー01 イエローブラウンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒロインメイク ロング&amp;カールマスカラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-heroine-make-long-curl-mascara</link>
-    <guid isPermaLink="true">https://gearnote.net/product-heroine-make-long-curl-mascara</guid>
-    <description>ヒロインメイク ロング&amp;カールマスカラ アドバンストフィルム 01 漆黒ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒロインメイク カールキープ マスカラベース の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-heroine-make-curl-keep-mascara-base</link>
-    <guid isPermaLink="true">https://gearnote.net/product-heroine-make-curl-keep-mascara-base</guid>
-    <description>ヒロインメイクSP カールキープ マスカラベースの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒロインメイク スピーディーポイントメイクリムーバー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-heroine-make-point-remover</link>
-    <guid isPermaLink="true">https://gearnote.net/product-heroine-make-point-remover</guid>
-    <description>ヒロインメイクSP スピーディーポイントメイクリムーバー 120mLの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒロインメイク プライムリキッドアイライナー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-heroine-make-prime-eyeliner-richkeep</link>
-    <guid isPermaLink="true">https://gearnote.net/product-heroine-make-prime-eyeliner-richkeep</guid>
-    <description>ヒロインメイク プライムリキッドアイライナー リッチキープ 01 漆黒ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒロインメイク アイラッシュセラムEX の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-heroine-make-eyelash-serum-ex</link>
-    <guid isPermaLink="true">https://gearnote.net/product-heroine-make-eyelash-serum-ex</guid>
-    <description>ヒロインメイク アイラッシュセラムEX 5.5g まつげ美容液の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒロインメイク ソフトディファイン クリームペンシルN の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-heroine-make-cream-pencil-eyeliner</link>
-    <guid isPermaLink="true">https://gearnote.net/product-heroine-make-cream-pencil-eyeliner</guid>
-    <description>ヒロインメイク ソフトディファイン クリームペンシルN 01 ナチュラルブラウンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
