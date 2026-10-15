@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -67,12 +67,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-jbl</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/brand-koizumi</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-audio</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -5837,7 +5837,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-headphones</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -10127,7 +10127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -27962,7 +27962,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -29338,6 +29338,31 @@
   <url>
     <loc>https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint</loc>
     <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</loc>
+    <lastmod>2026-10-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-asus-proart-router-prt-be5000-wifi7</loc>
+    <lastmod>2026-10-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-jbl-live-780nc-green-jbllive780ncgrn</loc>
+    <lastmod>2026-10-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-electric-stove-ds-sak061-h-obstacle-sensor</loc>
+    <lastmod>2026-10-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-koizumi-sheathed-heater-kss-1026a-h-1000w</loc>
+    <lastmod>2026-10-15</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

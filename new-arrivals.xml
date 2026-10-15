@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 15 Oct 2026 07:34:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 09:00:01 +0000</lastBuildDate>
+  <item>
+    <title>ASUS ProArt Router PRT-BE5000 Wi-Fi 7ルーター</title>
+    <link>https://gearnote.net/product-asus-proart-router-prt-be5000-wifi7</link>
+    <guid isPermaLink="true">https://gearnote.net/product-asus-proart-router-prt-be5000-wifi7</guid>
+    <description>ASUSのWi-Fi 7（802.11be）対応ルーター「PRT-BE5000」です。</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL LIVE 780 NC グリーン（JBLLIVE780NCGRN）</title>
+    <link>https://gearnote.net/product-jbl-live-780nc-green-jbllive780ncgrn</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-live-780nc-green-jbllive780ncgrn</guid>
+    <description>JBLのワイヤレスヘッドホン「LIVE 780 NC」のグリーンです。</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ シーズヒーター KSS-1026A/H 1000/500W</title>
+    <link>https://gearnote.net/product-koizumi-sheathed-heater-kss-1026a-h-1000w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-sheathed-heater-kss-1026a-h-1000w</guid>
+    <description>コイズミのシーズヒーター「KSS-1026A/H」です。商品ページには、じんわり温まるシーズヒーター、1000W／500Wの切り替え、幅広めの2灯タイプ、通電状態がわかりやすい電源ランプ。</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Samsung Galaxy Tab S12+ 256GB Wi-Fi グレー</title>
+    <link>https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</link>
+    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</guid>
+    <description>サムスンのAndroidタブレット「Galaxy Tab S12+」の256GB・Wi-Fiモデル（グレー）です。</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善 電気ストーブ DS-SAK061(H) 障害物センサー搭載</title>
+    <link>https://gearnote.net/product-yamazen-electric-stove-ds-sak061-h-obstacle-sensor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-electric-stove-ds-sak061-h-obstacle-sensor</guid>
+    <description>山善の電気ストーブ「DS-SAK061(H)」です。商品ページには、障害物が近づいたり触れたりすると自動で電源が切れる障害物センサー、転倒時に運転が止まる設計。</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Harman Kardon Luna 2 ミント（HKLUNA2MIT）</title>
     <link>https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-xiaomi-poco-f9-ultra-16gb-512gb-black</guid>
     <description>Xiaomi（シャオミ）のスマートフォン「POCO F9 Ultra」、16GB＋512GBの日本語版（ブラック）です。</description>
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI 17 4GB+256GB 7500mAh 6.9インチ</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-17-4gb-256gb-lotus-purple</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-17-4gb-256gb-lotus-purple</guid>
-    <description>Xiaomi（シャオミ）のスマートフォン「REDMI 17」、4GB＋256GBのロータスパープルです。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 電気敷毛布 140×80cm フランネル ライトグレー</title>
-    <link>https://gearnote.net/product-yamazen-electric-shiki-blanket-140x80-ems-fk150ee-lgy</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-electric-shiki-blanket-140x80-ems-fk150ee-lgy</guid>
-    <description>山善（YAMAZEN）の電気敷毛布、140×80cmのフランネル生地・型番EMS-FK150EE(LGY)（ライトグレー）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 スチーム式加湿器 3.0L ガラス KS-TM3(DGY)</title>
-    <link>https://gearnote.net/product-yamazen-glass-steam-humidifier-ks-tm3-dgy</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-glass-steam-humidifier-ks-tm3-dgy</guid>
-    <description>山善（YAMAZEN）のスチーム式加湿器、型番KS-TM3(DGY)（ダークグレー）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 ツインヒートプラス カーボンヒーター＋シーズヒーター DBC-L123(MW)</title>
-    <link>https://gearnote.net/product-yamazen-twin-heat-plus-carbon-sheath-heater-dbc-l123-mw</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-twin-heat-plus-carbon-sheath-heater-dbc-l123-mw</guid>
-    <description>山善（YAMAZEN）の電気ヒーター「ツインヒートプラス」、型番DBC-L123(MW)（マットホワイト）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple Watch Series 12（GPSモデル）46mm</title>
-    <link>https://gearnote.net/product-apple-watch-series-12-46mm-gps-black-aluminum</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-watch-series-12-46mm-gps-black-aluminum</guid>
-    <description>Apple（アップル）のスマートウォッチ「Apple Watch Series 12（GPSモデル）」、46mmのブラックアルミニウムケースとブラックスポーツバンドの組み合わせです。</description>
-    <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
