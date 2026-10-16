@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 16 Oct 2026 11:15:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 12:36:11 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -117,6 +117,13 @@
     <link>https://gearnote.net/product-delonghi-icona-vintage-kettle</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-icona-vintage-kettle</guid>
     <description>デロンギ 電気ケトル アイコナ・ヴィンテージ KBOV1240Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ オーブントースター ディスティンタ・ペルラ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-distinta-oven-toaster</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-distinta-oven-toaster</guid>
+    <description>De&#x27;Longhi(デロンギ) オーブントースター ディスティンタ・ペルラ EOI408Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-castelbajac-torque-keyholder</link>
     <guid isPermaLink="true">https://gearnote.net/product-castelbajac-torque-keyholder</guid>
     <description>CASTELBAJAC（カステルバジャック）キーホルダー 096631 トルク小物の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CASTELBAJAC Link 2WAYミニトート の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-castelbajac-link-2way-minitote</link>
-    <guid isPermaLink="true">https://gearnote.net/product-castelbajac-link-2way-minitote</guid>
-    <description>CASTELBAJAC（カステルバジャック）ミニトートバッグ ショルダーバッグ 2WAY Link(リンク) 030212の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
