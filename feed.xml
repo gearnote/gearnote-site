@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 16 Oct 2026 05:40:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 06:04:14 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -54,6 +54,13 @@
     <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
     <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
     <description>Dyson Purifier Hot+Cool 空気清浄ファンヒーターの特徴を整理。メリット・デメリット、シャープKI-TX75・KI-TS50との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エリエール 消臭プラス トイレットペーパーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elleair-deodorant-plus-toilet-paper-72</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elleair-deodorant-plus-toilet-paper-72</guid>
+    <description>エリエール トイレットペーパー 消臭プラス(+) 25m×72ロールの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -152,6 +159,13 @@
     <link>https://gearnote.net/product-sony-wh-ult900n</link>
     <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ult900n</guid>
     <description>ソニー WH-ULT900N（ULT WEAR）ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>サンリオ オーロラ立体シール ハローキティの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sanrio-hello-kitty-aurora-sticker</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sanrio-hello-kitty-aurora-sticker</guid>
+    <description>サンリオ(SANRIO) オーロラ立体シール ハローキティ 225223の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-acegene-flexroof2-business-trolley</link>
     <guid isPermaLink="true">https://gearnote.net/product-acegene-flexroof2-business-trolley</guid>
     <description>ace.GENE スーツケース 機内持込み可 ビジネストローリー フレックスルーフ2 43cmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ティファール 電気ケトル ジャスティン ロックの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tefal-justin-lock-kettle-12l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tefal-justin-lock-kettle-12l</guid>
-    <description>ティファール 電気ケトル ジャスティン ロック 1.2L ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 コンパクトオーブントースター の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</guid>
-    <description>山善(YAMAZEN) トースター オーブントースター 2枚焼き コンパクト YTCB-C120の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
