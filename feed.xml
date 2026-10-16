@@ -6,12 +6,33 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 16 Oct 2026 08:55:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 09:16:24 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
     <guid isPermaLink="true">https://gearnote.net/all-products</guid>
     <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBLの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-jbl</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-jbl</guid>
+    <description>JBL製品の特徴、Bluetoothスピーカー・パーティースピーカー・イヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-koizumi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
+    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -26,6 +47,20 @@
     <link>https://gearnote.net/category-care</link>
     <guid isPermaLink="true">https://gearnote.net/category-care</guid>
     <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/product-kanana-project-pj8-3rd-shoulder-bag</link>
     <guid isPermaLink="true">https://gearnote.net/product-kanana-project-pj8-3rd-shoulder-bag</guid>
     <description>カナナプロジェクト ショルダーバッグ タテ型 PJ8-3rdの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト シェリ ショルダーバッグの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-cheri-shoulder-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-cheri-shoulder-bag</guid>
-    <description>カナナプロジェクト コレクション ショルダーバッグ シェリ 17943の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト ストロール ショルダーバッグ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-stroll-antibacterial-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-stroll-antibacterial-bag</guid>
-    <description>Kanana project カナナプロジェクト コレクション ショルダーバッグ 抗菌・抗ウィルスポケット付 ストロール 67213の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト エブリーリュック の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-everyday-backpack</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-everyday-backpack</guid>
-    <description>Kanana project エブリーリュック SP1-D 31661の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト DYL サリール ショルダーバッグ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-dyl-sarielle-shoulder-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-dyl-sarielle-shoulder-bag</guid>
-    <description>Kanana project カナナプロジェクト コレクション ショルダーバッグ DYL サリール 2WAY仕様の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト エマ ランチトート の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-emma-lunch-tote</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-emma-lunch-tote</guid>
-    <description>Kanana project コレクション トートバッグ エマ ランチトート No.67691の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
