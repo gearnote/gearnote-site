@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 16 Oct 2026 06:22:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 08:55:11 +0000</lastBuildDate>
+  <item>
+    <title>エレコム ワイヤレスキーボード TK-QT11FMMABK 静音フルサイズ</title>
+    <link>https://gearnote.net/product-elecom-wireless-keyboard-tk-qt11fmmabk-quiet-full-size</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-wireless-keyboard-tk-qt11fmmabk-quiet-full-size</guid>
+    <description>エレコムのワイヤレスキーボード「TK-QT11FMMABK」です。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL WAVE BUDS 3 ティール（JBLWBUDS3TEL）</title>
+    <link>https://gearnote.net/product-jbl-wave-buds-3-teal-jblwbuds3tel</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-buds-3-teal-jblwbuds3tel</guid>
+    <description>JBLの完全ワイヤレスイヤホン「WAVE BUDS 3」のティールです。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ 電気掛敷毛布 KDK-75266D 188×120cm</title>
+    <link>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-75266d-188x120</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-75266d-188x120</guid>
+    <description>コイズミの電気掛敷毛布「KDK-75266D」です。商品ページには、サイズ188×120cm、消費電力75W、電磁波カット仕様、頭寒足熱配線、ダニ退治、室温センサー。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SteelSeries Aerox 3 WL Gen 2</title>
+    <link>https://gearnote.net/product-steelseries-aerox-3-wl-gen2-fortnite-62720</link>
+    <guid isPermaLink="true">https://gearnote.net/product-steelseries-aerox-3-wl-gen2-fortnite-62720</guid>
+    <description>SteelSeriesのワイヤレスゲーミングマウス「Aerox 3 WL Gen 2」のFortniteモデル（型番62720）です。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善 電気ストーブ DS-SD084(AB) 障害物センサー搭載 小型</title>
+    <link>https://gearnote.net/product-yamazen-electric-stove-ds-sd084-ab-compact-obstacle-sensor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-electric-stove-ds-sd084-ab-compact-obstacle-sensor</guid>
+    <description>山善の小型の電気ストーブ「DS-SD084(AB)」です。商品ページには、障害物を検知すると自動で電源が切れる障害物センサー、転倒OFFスイッチ。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>ASUS ProArt Router PRT-BE5000 Wi-Fi 7ルーター</title>
     <link>https://gearnote.net/product-asus-proart-router-prt-be5000-wifi7</link>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/product-siroca-3d-circulator-japandi-sf-15a221-tr</link>
     <guid isPermaLink="true">https://gearnote.net/product-siroca-3d-circulator-japandi-sf-15a221-tr</guid>
     <description>siroca（シロカ）の3Dサーキュレーター「Japandi」、型番SF-15A221(TR)・煤色（モカブラウン）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラック</title>
-    <link>https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko</guid>
-    <description>タイガー魔法瓶の圧力IH炊飯器、一升炊き（容量1.8L）の型番JPV-X180KO（オフブラック）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー 圧力IH炊飯器 5.5合 JPV-X100WO オフホワイト</title>
-    <link>https://gearnote.net/product-tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo</guid>
-    <description>タイガー魔法瓶の圧力IH炊飯器、5.5合炊き（容量1L）の型番JPV-X100WO（オフホワイト）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>東芝 コードレス紙パック式掃除機 VC-P400Z(H) 抗菌消臭紙パックVPF-31付き</title>
-    <link>https://gearnote.net/product-toshiba-cordless-paper-pack-vacuum-vc-p400z-h-set</link>
-    <guid isPermaLink="true">https://gearnote.net/product-toshiba-cordless-paper-pack-vacuum-vc-p400z-h-set</guid>
-    <description>東芝のコードレス紙パック式スティック掃除機、型番VC-P400Z(H)（モランディグレー）に抗菌消臭紙パックVPF-31（5枚入）が付くAmazon.co.jp限定セットです。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi コードレス掃除機 4C F205 ホワイト</title>
-    <link>https://gearnote.net/product-xiaomi-cordless-vacuum-4c-f205-white</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-cordless-vacuum-4c-f205-white</guid>
-    <description>Xiaomi（シャオミ）のスティック型コードレス掃除機「4C」、型番F205（ホワイト）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi POCO F9 Ultra 16GB+512GB 日本語版 ブラック</title>
-    <link>https://gearnote.net/product-xiaomi-poco-f9-ultra-16gb-512gb-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-poco-f9-ultra-16gb-512gb-black</guid>
-    <description>Xiaomi（シャオミ）のスマートフォン「POCO F9 Ultra」、16GB＋512GBの日本語版（ブラック）です。</description>
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

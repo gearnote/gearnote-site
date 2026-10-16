@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 16 Oct 2026 06:22:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 08:55:09 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -19,6 +19,20 @@
     <link>https://gearnote.net/category-beauty</link>
     <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
     <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>おもちゃの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
+    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-kanana-project-emma-lunch-tote</link>
     <guid isPermaLink="true">https://gearnote.net/product-kanana-project-emma-lunch-tote</guid>
     <description>Kanana project コレクション トートバッグ エマ ランチトート No.67691の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト キャリーケース アムローズTR の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-carry-case-amrose</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-carry-case-amrose</guid>
-    <description>カナナプロジェクト コレクション キャリーケース VYG アムローズTR 22Lの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カナナプロジェクト エマ A4トートの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kanana-project-emma-a4-tote</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-emma-a4-tote</guid>
-    <description>Kanana project コレクション トートバッグ A4サイズ対応 エマ No.67692の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
