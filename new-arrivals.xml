@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:59:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 15:22:06 +0000</lastBuildDate>
   <item>
     <title>エレコム ワイヤレスキーボード TK-QT11FMMABK 静音フルサイズ</title>
     <link>https://gearnote.net/product-elecom-wireless-keyboard-tk-qt11fmmabk-quiet-full-size</link>
@@ -246,13 +246,6 @@
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ジョイ W除菌+消臭 食器用洗剤 贅沢ライム&amp;エルダーフラワーの香り 詰め替え1550mL</title>
-    <link>https://gearnote.net/product-joy-w-jokin-shokki-detergent-luxury-lime-elderflower-refill-1550ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-joy-w-jokin-shokki-detergent-luxury-lime-elderflower-refill-1550ml</guid>
-    <description>P&amp;Gのジョイ「W除菌+消臭」食器用洗剤、贅沢ライム＆エルダーフラワーの香りの詰め替え1550mL（超ジャンボサイズ）です。</description>
-    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>Keychron K3 HE 磁気スイッチキーボード JIS配列 ホワイト</title>
     <link>https://gearnote.net/product-keychron-k3-he-magnetic-switch-keyboard-jis-white</link>
     <guid isPermaLink="true">https://gearnote.net/product-keychron-k3-he-magnetic-switch-keyboard-jis-white</guid>
@@ -355,6 +348,13 @@
     <link>https://gearnote.net/product-siroca-3d-circulator-japandi-sf-15a221-tr</link>
     <guid isPermaLink="true">https://gearnote.net/product-siroca-3d-circulator-japandi-sf-15a221-tr</guid>
     <description>siroca（シロカ）の3Dサーキュレーター「Japandi」、型番SF-15A221(TR)・煤色（モカブラウン）です。</description>
+    <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラック</title>
+    <link>https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko</guid>
+    <description>タイガー魔法瓶の圧力IH炊飯器、一升炊き（容量1.8L）の型番JPV-X180KO（オフブラック）です。</description>
     <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
