@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 17 Oct 2026 08:06:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 08:07:11 +0000</lastBuildDate>
   <item>
     <title>ブラックキャップ 屋外用の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-blackcap-outdoor</link>
@@ -274,6 +274,13 @@
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Seagate One Touch ポータブルHDD 2TBの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-seagate-onetouch-hdd-2tb</link>
+    <guid isPermaLink="true">https://gearnote.net/product-seagate-onetouch-hdd-2tb</guid>
+    <description>Seagate One Touch ポータブルHDD 2TB（USB3.0・パスワード機能付き）の特徴を整理。外付けHDDとSSDの違いや、データ復旧サービスの内容をまとめました。</description>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>エルパ デスクUSBタップ PD20W クランプ式の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-elpa-desk-usb-tap-pd20w</link>
     <guid isPermaLink="true">https://gearnote.net/product-elpa-desk-usb-tap-pd20w</guid>
@@ -337,24 +344,17 @@
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>RODE VideoMicro II の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-rode-videomicro-ii</link>
+    <guid isPermaLink="true">https://gearnote.net/product-rode-videomicro-ii</guid>
+    <description>RODE VideoMicro IIの特徴を整理。スーパーカーディオイド指向性やプラグインパワー方式、Vlog撮影での使い方をまとめました。</description>
+    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>バスマジックリン パワフル泡洗浄の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-bathmagiclean-powerful-foam-350</link>
     <guid isPermaLink="true">https://gearnote.net/product-bathmagiclean-powerful-foam-350</guid>
     <description>バスマジックリン パワフル泡洗浄 香りが残らないタイプ 本体350mlの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルサン ワンプッシュ 霧タイプの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-balsan-onepush-kiri-46-5g</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balsan-onepush-kiri-46-5g</guid>
-    <description>バルサン ワンプッシュ 霧タイプ くん煙剤 46.5g（6~10畳用）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Kindle（16GB）の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-kindle</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-kindle</guid>
-    <description>Amazon Kindle（16GB・第11世代）6インチディスプレイの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
