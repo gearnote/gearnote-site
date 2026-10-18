@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 13:44:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 13:46:09 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -113,6 +113,13 @@
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>トリガーポイント グリッド フォームローラー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-triggerpoint-grid-foam-roller</link>
+    <guid isPermaLink="true">https://gearnote.net/product-triggerpoint-grid-foam-roller</guid>
+    <description>トリガーポイント(TRIGGERPOINT) グリッド フォームローラー 筋膜ローラーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>スワンズ 子供用スイミングゴーグルの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-swans-kids-swimming-goggle-sj9</link>
     <guid isPermaLink="true">https://gearnote.net/product-swans-kids-swimming-goggle-sj9</guid>
@@ -124,6 +131,13 @@
     <link>https://gearnote.net/product-rozally-ab-roller-wheel</link>
     <guid isPermaLink="true">https://gearnote.net/product-rozally-ab-roller-wheel</guid>
     <description>腹筋ローラー アブローラーの特徴を整理。メリット・デメリット、PROIRONダンベル・パワーグリップとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヤマシタ エギ王K エギングの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamashita-egiking-2-5-muramura-cherry</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamashita-egiking-2-5-muramura-cherry</guid>
+    <description>ヤマシタ エギング エギ王K 2.5号 ムラムラチェリーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-merrell-moab3-gore-tex-mens</link>
     <guid isPermaLink="true">https://gearnote.net/product-merrell-moab3-gore-tex-mens</guid>
     <description>MERRELL（メレル） Moab 3 Synthetic Gore-Tex ハイキングシューズ メンズ の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マルカン こしたてプチ豆腐 10g入 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-marukan-koshitate-petit-tofu</link>
-    <guid isPermaLink="true">https://gearnote.net/product-marukan-koshitate-petit-tofu</guid>
-    <description>マルカン こしたてプチ豆腐の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>OGK KABUTO 自転車ヘルメット RECT（レクト）M/L 57-60cm JCF公認 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ogk-kabuto-rect-bicycle-helmet-ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ogk-kabuto-rect-bicycle-helmet-ml</guid>
-    <description>OGK KABUTO 自転車ヘルメット RECT（レクト）M/L 57-60cm JCF公認の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
