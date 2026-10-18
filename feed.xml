@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 14:47:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 14:56:37 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -295,6 +295,20 @@
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ヤーマン トリートメントアイロン シャインプロ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yaman-treatment-iron-shine-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yaman-treatment-iron-shine-pro</guid>
+    <description>ヤーマン トリートメントアイロン シャインプロ HC21Gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヤーマン スムースアイロン フォトイオン カールの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yaman-smooth-iron-curl</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yaman-smooth-iron-curl</guid>
+    <description>ヤーマン(YA-MAN) カールヘアアイロン スムースアイロン フォトイオン 32mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-smartphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
@@ -337,24 +351,10 @@
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cooking-appliances</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
-    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>NATURE REPUBLIC ビタペアC 集中美容液 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-naturerepublic-vitac-serum</link>
-    <guid isPermaLink="true">https://gearnote.net/product-naturerepublic-vitac-serum</guid>
-    <description>NATURE REPUBLIC(ネイチャーリパブリック) ビタペアC 集中美容液の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>NATURE REPUBLIC ハニーメルティングリップ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-naturerepublic-honey-melting-lip</link>
-    <guid isPermaLink="true">https://gearnote.net/product-naturerepublic-honey-melting-lip</guid>
-    <description>NATURE REPUBLIC(ネイチャーリパブリック) ハニーメルティングリップの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>ヤーマン フォトプラス EX スムースS の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yaman-photoplus-ex-smooth-s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yaman-photoplus-ex-smooth-s</guid>
+    <description>ヤーマン 美顔器 フォトプラス EX スムースS 低刺激モデル HRF20L2の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
