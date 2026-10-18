@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 14:17:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 14:18:45 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -33,6 +33,13 @@
     <link>https://gearnote.net/category-smart</link>
     <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
     <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブラウン シルク・エピル レディースシェーバー LS5160 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-braun-silk-epil-ladyshaver-ls5160</link>
+    <guid isPermaLink="true">https://gearnote.net/product-braun-silk-epil-ladyshaver-ls5160</guid>
+    <description>ブラウン 脱毛器 レディースシェーバー シルク・エピル ボディ用 角質ケア付 LS5160R1の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -117,6 +124,13 @@
     <link>https://gearnote.net/product-yonex-wet-super-grip</link>
     <guid isPermaLink="true">https://gearnote.net/product-yonex-wet-super-grip</guid>
     <description>YONEX テニス グリップテープ ウェットスーパーグリップの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>CASTELBAJAC(カステルバジャック) ミニリュック クレア 68732 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-castelbajac-claire-minibackpack-68732</link>
+    <guid isPermaLink="true">https://gearnote.net/product-castelbajac-claire-minibackpack-68732</guid>
+    <description>カステルバジャック ミニリュック クレア 68732の特徴を整理。モノグラムデザイン、長財布やペットボトルが入るサイズ感など、メリット・デメリットをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-popmart-10thanniversary-phone-charm</link>
     <guid isPermaLink="true">https://gearnote.net/product-popmart-10thanniversary-phone-charm</guid>
     <description>POP MART THE MONSTERS 10th Anniversaryシリーズ フォンチャームの特徴を整理。ブラインドボックス形式やサイズ、メリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>POP MART THE MONSTERS Big into Energyの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-popmart-bigintoenergy-rocktheuniverse-plush</link>
-    <guid isPermaLink="true">https://gearnote.net/product-popmart-bigintoenergy-rocktheuniverse-plush</guid>
-    <description>POP MART THE MONSTERS Big into Energy ROCK THE UNIVERSE ぬいぐるみの特徴を整理。サイズや素材、メリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>POP MART THE MONSTERS 10thの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-popmart-10thanniversary-zimomo-plush</link>
-    <guid isPermaLink="true">https://gearnote.net/product-popmart-10thanniversary-zimomo-plush</guid>
-    <description>POP MART THE MONSTERS 10th Anniversaryシリーズ ZIMOMOぬいぐるみの特徴を整理。サイズや素材、メリット・デメリットをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
