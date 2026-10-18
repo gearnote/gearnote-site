@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 14:42:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 14:43:19 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -166,6 +166,13 @@
     <link>https://gearnote.net/product-triggerpoint-grid-foam-roller</link>
     <guid isPermaLink="true">https://gearnote.net/product-triggerpoint-grid-foam-roller</guid>
     <description>トリガーポイント(TRIGGERPOINT) グリッド フォームローラー 筋膜ローラーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ユナイテッドアスレ 4.1OZドライTシャツの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-unitedathle-41oz-dry-tshirt</link>
+    <guid isPermaLink="true">https://gearnote.net/product-unitedathle-41oz-dry-tshirt</guid>
+    <description>ユナイテッドアスレ 4.1OZドライ Tシャツの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-newbalance-rcvry-slide</link>
     <guid isPermaLink="true">https://gearnote.net/product-newbalance-rcvry-slide</guid>
     <description>New Balance サンダル Fresh Foam RCVRY Slide v1の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>New Balance スウェットジョガーパンツ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-newbalance-small-logo-sweatpants</link>
-    <guid isPermaLink="true">https://gearnote.net/product-newbalance-small-logo-sweatpants</guid>
-    <description>New Balance Small logo スウェットジョガーパンツ(MP41519)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
