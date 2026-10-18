@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 14:56:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 15:06:44 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -103,6 +103,13 @@
     <link>https://gearnote.net/product-premm-shampoo-dispenser-triple</link>
     <guid isPermaLink="true">https://gearnote.net/product-premm-shampoo-dispenser-triple</guid>
     <description>PREMM シャンプーディスペンサー マグネット シャンプーボトル 壁掛け トリプル340ml×3の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Prime Charger（200W, 6 Ports, GaN）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-prime-charger-200w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-prime-charger-200w</guid>
+    <description>Anker Prime Charger（200W, 6 Ports, GaN）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -208,6 +215,13 @@
     <link>https://gearnote.net/product-yamashita-egiking-2-5-muramura-cherry</link>
     <guid isPermaLink="true">https://gearnote.net/product-yamashita-egiking-2-5-muramura-cherry</guid>
     <description>ヤマシタ エギング エギ王K 2.5号 ムラムラチェリーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>WILL CLENS シューズパウダーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-willclens-shoe-deodorant-powder</link>
+    <guid isPermaLink="true">https://gearnote.net/product-willclens-shoe-deodorant-powder</guid>
+    <description>WILL CLENS シューズパウダー 日本製 消臭パウダーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-haku-melanofocus-iv</link>
     <guid isPermaLink="true">https://gearnote.net/product-haku-melanofocus-iv</guid>
     <description>HAKU（ハク）メラノフォーカスIV 45gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エスプリーク アクアリー スキンウェア ファンデーション の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-esprique-aqualy-foundation</link>
-    <guid isPermaLink="true">https://gearnote.net/product-esprique-aqualy-foundation</guid>
-    <description>ESPRIQUE(エスプリーク) アクアリー スキンウェア カバー ファンデーション SPF50/PA++++の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヤーマン フォトプラス EX スムースS の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yaman-photoplus-ex-smooth-s</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yaman-photoplus-ex-smooth-s</guid>
-    <description>ヤーマン 美顔器 フォトプラス EX スムースS 低刺激モデル HRF20L2の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

@@ -10112,7 +10112,7 @@ const RANKING_POOL = [
   },
   {
     name: "マンドゥカ(Manduka) プロライト ヨガマット 5mm PROlite",
-    excerpt: "厚さ5mm・約1.8kgのPVC素材で、表面と裏面で役割が分かれた構造をうたうMandukaのヨガマットです。",
+    excerpt: "厚さ5mmのPVC素材で、表面と裏面で役割が分かれた構造をうたうMandukaのヨガマットです。",
     img: "https://m.media-amazon.com/images/I/61R2S0-m-fL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B003OUQ8QS?tag=hide0122-22",
     page: "product-manduka-prolite-yoga-mat-5mm.html",
@@ -10511,7 +10511,7 @@ const RANKING_POOL = [
   },
   {
     name: "ミレー(MILLET) ヴァリエ ポーチ MIS0592",
-    excerpt: "ザックのショルダーハーネスに外付けできる、フルパッド仕様の約1L・110gの小型ポーチです。",
+    excerpt: "ザックのショルダーハーネスに外付けできる、フルパッド仕様の約0.5L・120gの小型ポーチです。",
     img: "https://m.media-amazon.com/images/I/61+qJTmeCiL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C6LDN9HX?tag=hide0122-22",
     page: "product-millet-varie-pouch-mis0592.html",
@@ -10588,7 +10588,7 @@ const RANKING_POOL = [
   },
   {
     name: "ニッタク(Nittaku) 卓球ボール 3スター プレミアム クリーン",
-    excerpt: "直径40mmのプラスチック製で、抗ウイルス・抗菌加工をうたう、日本製の国際卓球連盟公認球です。",
+    excerpt: "直径40mmのプラスチック製で、抗ウイルス・抗菌加工をうたう、日本製のボールです。ニッタク公式サイトのお知らせでは、このクリーンボールは廃番とされています。",
     img: "https://m.media-amazon.com/images/I/51s0V+hdLGL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BFHWYTW7?tag=hide0122-22",
     page: "product-nittaku-3star-premium-clean-ball.html",
