@@ -6,7 +6,49 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 08:43:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 09:55:53 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-koizumi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
+    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smartphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
+    <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cooking-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
+    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>XPPen ペンタブ Deco mini7W V2の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-xppen-deco-mini7w-v2</link>
@@ -50,10 +92,38 @@
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
+    <description>Amazonプライム感謝祭が開催中です（10月16日(金)〜19日(月)）。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品をGEARNOTEがピックアップして紹介します。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>冬支度特集｜暖房・加湿・寝具・ぽかぽか小物まとめ｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-winter-prep-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-winter-prep-2026</guid>
+    <description>冬支度に役立つ商品を用途別にまとめた特集。暖房・加湿と結露対策・部屋干し・寝具・小物・温かい飲み物・乾燥ケア・電気まわり・車の準備まで、選び方のポイントと安全上の注意つきで紹介します。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Ninjaの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-ninja</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-ninja</guid>
+    <description>Ninja（SharkNinja）製品の特徴、自動調理器・ノンフライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Synology DiskStation DS225+ 2ベイ NASキットの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-synology-ds225plus-nas-kit-2bay</link>
     <guid isPermaLink="true">https://gearnote.net/product-synology-ds225plus-nas-kit-2bay</guid>
     <description>Synology DiskStation DS225+ 2ベイ NASキット（2ベイ・Intel Celeron 4コア・2GBメモリ・2.5GbE対応）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -127,38 +197,10 @@
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>全商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/all-products</link>
-    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
-    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>Appleの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-apple</link>
     <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
     <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-koizumi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
-    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活家電の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-home</link>
-    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
-    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
-    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -288,13 +330,6 @@
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-smartphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
-    <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>ロジクールの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-logicool</link>
     <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/product-bandai-purikyua-ochitan-plush</link>
     <guid isPermaLink="true">https://gearnote.net/product-bandai-purikyua-ochitan-plush</guid>
     <description>バンダイ 名探偵プリキュア！おでかけしよ♪お世話して、かわいがって？おしゃべりポチタンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ONE PIECEカードゲーム EB-03 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bandai-onepiece-cardgame-eb03</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bandai-onepiece-cardgame-eb03</guid>
-    <description>バンダイ(BANDAI) ONE PIECEカードゲーム エクストラブースター ONE PIECE Heroines Edition【EB-03】の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドラゴンボールスーパーカードゲーム スタートデッキ ベジータ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bandai-dragonball-cardgame-startdeck</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bandai-dragonball-cardgame-startdeck</guid>
-    <description>バンダイ ドラゴンボールスーパーカードゲーム フュージョンワールド スタートデッキ ベジータ [FS02]の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Kindle Paperwhite の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-kindle-paperwhite</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-kindle-paperwhite</guid>
-    <description>Amazon Kindle Paperwhite（16GB）7インチディスプレイの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Echo Show 5 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-echo-show-5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-echo-show-5</guid>
-    <description>Amazon Echo Show 5（第3世代）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Kindle Scribe の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-kindle-scribe</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-kindle-scribe</guid>
-    <description>Amazon Kindle Scribe（2026年発売・32GB）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
