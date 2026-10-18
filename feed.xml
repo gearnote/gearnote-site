@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 13:28:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 13:31:55 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -78,6 +78,13 @@
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>UNO(ウノ)の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-uno-card-game</link>
+    <guid isPermaLink="true">https://gearnote.net/product-uno-card-game</guid>
+    <description>マテルゲーム ウノ(UNO) カードゲームの特徴を整理。メリット・デメリット、ジェンガ・スタディ将棋との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ラキュー フリースタイル100ブラックの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-laq-freestyle-100-black</link>
     <guid isPermaLink="true">https://gearnote.net/product-laq-freestyle-100-black</guid>
@@ -117,6 +124,13 @@
     <link>https://gearnote.net/product-lego-classic-yellow-ideabox</link>
     <guid isPermaLink="true">https://gearnote.net/product-lego-classic-yellow-ideabox</guid>
     <description>レゴ(LEGO) クラシック 黄色のアイデアボックス＜スペシャル＞の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シルバニアファミリー ペルシャネコのみつごちゃんの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sylvanian-families-persian-cat-triplets</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sylvanian-families-persian-cat-triplets</guid>
+    <description>シルバニアファミリー 人形【ペルシャネコのみつごちゃん】の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -166,6 +180,13 @@
     <link>https://gearnote.net/product-it-takes-two-switch</link>
     <guid isPermaLink="true">https://gearnote.net/product-it-takes-two-switch</guid>
     <description>It Takes Two - Switchの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>たまごっちパラダイス の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tamagotchi-paradise</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tamagotchi-paradise</guid>
+    <description>バンダイ Tamagotchi Paradise（たまごっちパラダイス）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/product-otamatone-colors-blue-cube</link>
     <guid isPermaLink="true">https://gearnote.net/product-otamatone-colors-blue-cube</guid>
     <description>キューブ オタマトーン カラーズ ブルーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ストレッチポール EX の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-stretchpole-ex</link>
-    <guid isPermaLink="true">https://gearnote.net/product-stretchpole-ex</guid>
-    <description>ストレッチポール EXの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドラゴンクエストVII Reimagined -Switch2 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dragon-quest-vii-reimagined-switch2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dragon-quest-vii-reimagined-switch2</guid>
-    <description>ドラゴンクエストVII Reimagined -Switch2の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アストロボット（ASTRO BOT）-PS5 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-astro-bot-ps5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-astro-bot-ps5</guid>
-    <description>アストロボット（ASTRO BOT）-PS5の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
