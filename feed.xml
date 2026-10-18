@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 12:57:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 13:00:39 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -124,6 +124,20 @@
     <link>https://gearnote.net/product-karrimor-cleave-30-backpack</link>
     <guid isPermaLink="true">https://gearnote.net/product-karrimor-cleave-30-backpack</guid>
     <description>カリマー cleave 30登山リュックの仕様を整理。ロールトップ構造やショルダーハーネスの見方、メリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>KATOJI(カトージ) B型ベビーカー TOBERU（デニム） 生後7ヶ月から の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-katoji-toberu-stroller</link>
+    <guid isPermaLink="true">https://gearnote.net/product-katoji-toberu-stroller</guid>
+    <description>カトージ B型ベビーカー TOBERUの仕様を整理。軽量コンパクト・レインカバー付きなど特徴とメリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>PIP BABY ステップ シャンプーハット の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-pipbaby-step-shampoo-hat</link>
+    <guid isPermaLink="true">https://gearnote.net/product-pipbaby-step-shampoo-hat</guid>
+    <description>PIP BABY ステップ シャンプーハットの仕様を整理。3ステップで水に慣れる設計など特徴とメリット・デメリットをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-ezviz-pet-camera-c6n</link>
     <guid isPermaLink="true">https://gearnote.net/product-ezviz-pet-camera-c6n</guid>
     <description>EZVIZ ペットカメラ C6Nの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゴブレットゴブラーズの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-goblet-gobblers</link>
-    <guid isPermaLink="true">https://gearnote.net/product-goblet-gobblers</guid>
-    <description>すごろくや ゴブレットゴブラーズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Echo Spot の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-echo-spot</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-echo-spot</guid>
-    <description>Amazon Echo Spot（2024年発売）スマートアラームクロック with Alexaの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
