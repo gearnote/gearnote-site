@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 09:44:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 09:49:04 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -33,6 +33,13 @@
     <link>https://gearnote.net/ranking-smartphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
     <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヤーマン キャビスパ 360の特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yaman-cabispa-360</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yaman-cabispa-360</guid>
+    <description>ヤーマン ボディ用美容器 キャビスパ 360 HDS100Bの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -260,6 +267,13 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>カネヨ石鹸 ランドリーソープ 135g 洗たくせっけん（固形）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kaneyo-landry-soap-bar-135g</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kaneyo-landry-soap-bar-135g</guid>
+    <description>カネヨ石鹸 ランドリーソープ 135g 洗たくせっけん（固形・ホワイトローズの香り）の特徴を整理。部分洗いに使える固形石けんタイプ、メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Insta360 ヘビーデューティークランプ の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-insta360-heavy-duty-clamp</link>
     <guid isPermaLink="true">https://gearnote.net/product-insta360-heavy-duty-clamp</guid>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-helinox-tactical-sunset-chair</link>
     <guid isPermaLink="true">https://gearnote.net/product-helinox-tactical-sunset-chair</guid>
     <description>ヘリノックス(Helinox)「タクティカルサンセットチェア」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Helinox タクティカルテーブル Mサイズの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-helinox-tactical-table-m</link>
-    <guid isPermaLink="true">https://gearnote.net/product-helinox-tactical-table-m</guid>
-    <description>ヘリノックス(Helinox)「タクティカルテーブル Mサイズ」の特徴を整理。サイズ、重量、耐荷重、注意点をまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Helinox テーブルワン ハードトップの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-helinox-table-one-hardtop</link>
-    <guid isPermaLink="true">https://gearnote.net/product-helinox-table-one-hardtop</guid>
-    <description>ヘリノックス(Helinox)「テーブルワン ハードトップ」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
