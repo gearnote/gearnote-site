@@ -6,12 +6,19 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 18 Oct 2026 15:12:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 08:50:46 +0000</lastBuildDate>
   <item>
     <title>登山・トレッキング用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-mountaineering-gear</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-mountaineering-gear</guid>
     <description>キャラバン C1_02S トレッキングシューズ・TheFitLife トレッキングポール・GM CLIMBING ナイロンスリングを徹底比較。各商品の特徴をもとに、安全性・使いやすさの観点からおすすめの登山・トレッキング用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アウトドア・キャンプ用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-camping-gear</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-camping-gear</guid>
+    <description>Lepro ヘッドライト・ロゴス 氷点下パック・コールマン クーラーボックス テイク6を徹底比較。各商品の特徴をもとに、用途・機能性の観点からおすすめのアウトドア・キャンプ用品を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -141,10 +148,129 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Helinox チェアワンの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-chair-one</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-chair-one</guid>
+    <description>ヘリノックス(Helinox)「チェアワン」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox チェアツーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-chair-two</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-chair-two</guid>
+    <description>ヘリノックス(Helinox)「チェアツー」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox グラウンドチェアの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-ground-chair</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-ground-chair</guid>
+    <description>ヘリノックス(Helinox)「グラウンドチェア」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox サンセットチェアの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-sunset-chair</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-sunset-chair</guid>
+    <description>ヘリノックス(Helinox)「サンセットチェア」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox コットワン コンバーチブルの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-cot-one-convertible</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-cot-one-convertible</guid>
+    <description>ヘリノックス(Helinox)「コットワン コンバーチブル」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox テーブルワンの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-table-one</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-table-one</guid>
+    <description>ヘリノックス(Helinox)「テーブルワン」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox チェアゼロの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-chair-zero</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-chair-zero</guid>
+    <description>ヘリノックス(Helinox)「チェアゼロ」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox ビーチチェアの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-beach-chair</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-beach-chair</guid>
+    <description>ヘリノックス(Helinox)「ビーチチェア」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox チェアワンLの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-chair-one-l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-chair-one-l</guid>
+    <description>ヘリノックス(Helinox)「チェアワンL」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox タクティカルチェアの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-tactical-chair</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-tactical-chair</guid>
+    <description>ヘリノックス(Helinox)「タクティカルチェア」の特徴を整理。重量、サイズ、収納サイズ、耐荷重、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox タクティカルサンセットチェアの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-tactical-sunset-chair</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-tactical-sunset-chair</guid>
+    <description>ヘリノックス(Helinox)「タクティカルサンセットチェア」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox タクティカルテーブル Mサイズの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-tactical-table-m</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-tactical-table-m</guid>
+    <description>ヘリノックス(Helinox)「タクティカルテーブル Mサイズ」の特徴を整理。サイズ、重量、耐荷重、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox テーブルワン ハードトップの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-table-one-hardtop</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-table-one-hardtop</guid>
+    <description>ヘリノックス(Helinox)「テーブルワン ハードトップ」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinox フェスティバルチェアの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-helinox-festival-chair</link>
+    <guid isPermaLink="true">https://gearnote.net/product-helinox-festival-chair</guid>
+    <description>ヘリノックス(Helinox)「フェスティバルチェア」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Helinoxの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-helinox</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-helinox</guid>
+    <description>ヘリノックス(Helinox)のアウトドアチェアの特徴、選び方をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>オウルテック 準固体電池モバイルバッテリー 10000mAhの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-owltech-semi-solid-power-bank-10000-oec-lpb10024</link>
     <guid isPermaLink="true">https://gearnote.net/product-owltech-semi-solid-power-bank-10000-oec-lpb10024</guid>
     <description>オウルテック 準固体電池モバイルバッテリー 10000mAh（OEC-LPB10024-BK）の特徴を整理。容量、PD30W出力、デジタル表示、2台同時充電、選び方と注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Spigen Galaxy S26 Ultra ケース オプティック・アーマー (ブラック)の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spigen-optic-armor-galaxy-s26-ultra-case-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spigen-optic-armor-galaxy-s26-ultra-case-black</guid>
+    <description>Spigen Galaxy S26 Ultra ケース オプティック・アーマー (ブラック)（スライド式カメラカバー・米軍MIL規格取得・ストラップホール）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Spigen Xperia 1 VII ケース ラギッド・アーマー (マット・ブラック)の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spigen-rugged-armor-xperia-1-vii-case-matte-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spigen-rugged-armor-xperia-1-vii-case-matte-black</guid>
+    <description>Spigen Xperia 1 VII ケース ラギッド・アーマー (マット・ブラック)（TPU・米軍MIL規格取得・XRDフォーム・ストラップホール）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -159,6 +285,41 @@
     <link>https://gearnote.net/product-adam-elements-avistar-c01-gen2-smart-tag-black</link>
     <guid isPermaLink="true">https://gearnote.net/product-adam-elements-avistar-c01-gen2-smart-tag-black</guid>
     <description>ADAM elements AVISTAR C01 第2世代 スマートタグ（ブラック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>IODATA GCFX ゲーミングモニター 24.5型 フルHD 260Hz EX-GD252UHB（ブラック） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor</guid>
+    <description>IODATA GCFX ゲーミングモニター 24.5型 フルHD 260Hz EX-GD252UHB（ブラック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Nothing Phone (3a) Lite 8GB+128GB ブラック の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nothing-phone-3a-lite-8gb-128gb-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nothing-phone-3a-lite-8gb-128gb-black</guid>
+    <description>Nothing Phone (3a) Lite 8GB+128GB ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>NEC LAVIE Tab T12 12.1型 Wi-Fiモデル 6GB/128GB（Amazon.co.jp限定・クラウドグレー） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</guid>
+    <description>NEC LAVIE Tab T12 12.1型 Wi-Fiモデル 6GB/128GB（Amazon.co.jp限定・クラウドグレー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ドウシシャ mistone600S スチーム式加湿器 KSB-604BE（ベージュ・3Lタンク） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-doshisha-mistone600s-steam-humidifier-ksb-604be-beige</link>
+    <guid isPermaLink="true">https://gearnote.net/product-doshisha-mistone600s-steam-humidifier-ksb-604be-beige</guid>
+    <description>ドウシシャ mistone600S スチーム式加湿器 KSB-604BE（ベージュ・3Lタンク）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善 ホットカーペット 3畳相当 185×230cm フローリング調 YZD-301FL(LBR) の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style</guid>
+    <description>山善 ホットカーペット 3畳相当 185×230cm フローリング調 YZD-301FL(LBR)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -194,167 +355,6 @@
     <link>https://gearnote.net/product-braun-bodygroomer-prox-xt5300</link>
     <guid isPermaLink="true">https://gearnote.net/product-braun-bodygroomer-prox-xt5300</guid>
     <description>ブラウン(Braun) ボディグルーマー PRO X XT5300-b ボディシェーバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン シルク・エピル レディースシェーバー LS5160 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-silk-epil-ladyshaver-ls5160</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-silk-epil-ladyshaver-ls5160</guid>
-    <description>ブラウン 脱毛器 レディースシェーバー シルク・エピル ボディ用 角質ケア付 LS5160R1の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン 電気シェーバー EN10 鼻毛カッター の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-en10-nose-trimmer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-en10-nose-trimmer</guid>
-    <description>ブラウン(Braun) 電気シェーバー EN10 鼻毛カッターの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>FINAL FANTASY VII REVELATION -PS5の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ff7-revelation-ps5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ff7-revelation-ps5</guid>
-    <description>FINAL FANTASY VII REVELATION（ファイナルファンタジーVII リベレーション）-PS5 の発売日・作品情報をまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>富士の源水 天然水 48本の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-fuji-no-gensui-water-48</link>
-    <guid isPermaLink="true">https://gearnote.net/product-fuji-no-gensui-water-48</guid>
-    <description>富士の源水 富士山の天然水 500ml×24本×2(48本) シリカ17mg/Lの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>奇跡の歯ブラシ 3本セットの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kiseki-toothbrush-3</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kiseki-toothbrush-3</guid>
-    <description>奇跡の歯ブラシ [ふつう] クリアブラック 3本セット おとな用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Laundrin&#x27; ディフューザーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-laundrin-diffuser</link>
-    <guid isPermaLink="true">https://gearnote.net/product-laundrin-diffuser</guid>
-    <description>Laundrin&#x27; ディフューザー リラックスグリーンティーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オキシクリーン EXの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-oxiclean-ex-3270</link>
-    <guid isPermaLink="true">https://gearnote.net/product-oxiclean-ex-3270</guid>
-    <description>オキシクリーン EX 3270g 粉タイプ 酸素系漂白剤の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パイプユニッシュ プロ パイプクリーナーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-pipe-unish-pro-cleaner-3</link>
-    <guid isPermaLink="true">https://gearnote.net/product-pipe-unish-pro-cleaner-3</guid>
-    <description>パイプユニッシュ プロ パイプクリーナー 濃縮タイプ 400グラム×3の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>PREMM シャンプーディスペンサー トリプル の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-premm-shampoo-dispenser-triple</link>
-    <guid isPermaLink="true">https://gearnote.net/product-premm-shampoo-dispenser-triple</guid>
-    <description>PREMM シャンプーディスペンサー マグネット シャンプーボトル 壁掛け トリプル340ml×3の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Prime Charger（200W, 6 Ports, GaN）の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-prime-charger-200w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-prime-charger-200w</guid>
-    <description>Anker Prime Charger（200W, 6 Ports, GaN）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スクラビングバブル 流せるトイレブラシ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-scrubbing-bubbles-flushable-toilet-brush-16</link>
-    <guid isPermaLink="true">https://gearnote.net/product-scrubbing-bubbles-flushable-toilet-brush-16</guid>
-    <description>スクラビングバブル 流せるトイレブラシ フローラルソープの香り 本体+付け替え用(16個)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>UNO(ウノ)の特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-uno-card-game</link>
-    <guid isPermaLink="true">https://gearnote.net/product-uno-card-game</guid>
-    <description>マテルゲーム ウノ(UNO) カードゲームの特徴を整理。メリット・デメリット、ジェンガ・スタディ将棋との比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ラキュー フリースタイル100ブラックの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-laq-freestyle-100-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-laq-freestyle-100-black</guid>
-    <description>ラキュー(LaQ) フリースタイル(FreeStyle) 100ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>nanoblock ナノブロック ピカチュウの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-nanoblock-pikachu</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nanoblock-pikachu</guid>
-    <description>nanoblockナノブロック ポケットモンスター ピカチュウ NBPM-001の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>井村屋 えいようかんの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-imuraya-eiyo-yokan</link>
-    <guid isPermaLink="true">https://gearnote.net/product-imuraya-eiyo-yokan</guid>
-    <description>井村屋 えいようかん 60グラム×5の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヨネックス ウェットスーパーグリップの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yonex-wet-super-grip</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yonex-wet-super-grip</guid>
-    <description>YONEX テニス グリップテープ ウェットスーパーグリップの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CASTELBAJAC(カステルバジャック) ミニリュック クレア 68732 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-castelbajac-claire-minibackpack-68732</link>
-    <guid isPermaLink="true">https://gearnote.net/product-castelbajac-claire-minibackpack-68732</guid>
-    <description>カステルバジャック ミニリュック クレア 68732の特徴を整理。モノグラムデザイン、長財布やペットボトルが入るサイズ感など、メリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロゴス 氷点下パックの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logos-hyoten-pack-m</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logos-hyoten-pack-m</guid>
-    <description>ロゴス(LOGOS) 倍速凍結・氷点下パック Mサイズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>トリガーポイント グリッド フォームローラー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-triggerpoint-grid-foam-roller</link>
-    <guid isPermaLink="true">https://gearnote.net/product-triggerpoint-grid-foam-roller</guid>
-    <description>トリガーポイント(TRIGGERPOINT) グリッド フォームローラー 筋膜ローラーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ユナイテッドアスレ 4.1OZドライTシャツの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-unitedathle-41oz-dry-tshirt</link>
-    <guid isPermaLink="true">https://gearnote.net/product-unitedathle-41oz-dry-tshirt</guid>
-    <description>ユナイテッドアスレ 4.1OZドライ Tシャツの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スワンズ 子供用スイミングゴーグルの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-swans-kids-swimming-goggle-sj9</link>
-    <guid isPermaLink="true">https://gearnote.net/product-swans-kids-swimming-goggle-sj9</guid>
-    <description>スワンズ(SWANS) 子ども用スイミングゴーグル SJ-9の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>腹筋ローラーの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-rozally-ab-roller-wheel</link>
-    <guid isPermaLink="true">https://gearnote.net/product-rozally-ab-roller-wheel</guid>
-    <description>腹筋ローラー アブローラーの特徴を整理。メリット・デメリット、PROIRONダンベル・パワーグリップとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コロンブス アメダス 防水・防汚スプレーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-columbus-amedas-waterproof-spray-420ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-columbus-amedas-waterproof-spray-420ml</guid>
-    <description>コロンブス アメダス 防水・防汚スプレー 420mL 靴・バッグ・衣類用の特徴を整理。メリット・デメリットをまとめました。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
