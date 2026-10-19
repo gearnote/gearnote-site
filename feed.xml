@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 11:03:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 11:05:19 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -26,6 +26,20 @@
     <link>https://gearnote.net/category-smart</link>
     <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
     <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブリタ 浄水器 ポット型の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-brita-water-filter-pot-cartridge-3</link>
+    <guid isPermaLink="true">https://gearnote.net/product-brita-water-filter-pot-cartridge-3</guid>
+    <description>ブリタ 浄水器 ポット型 リクエリ マクストラプロ カートリッジ3個付の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Prime Charger（200W, 6 Ports, GaN）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-prime-charger-200w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-prime-charger-200w</guid>
+    <description>Anker Prime Charger（200W, 6 Ports, GaN）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-shure-mv7-plus-podcast-mic</link>
     <guid isPermaLink="true">https://gearnote.net/product-shure-mv7-plus-podcast-mic</guid>
     <description>SHURE MV7+ ポッドキャストマイクロホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Fender MUSTANG MICROの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-fender-mustang-micro-headphone-amp</link>
-    <guid isPermaLink="true">https://gearnote.net/product-fender-mustang-micro-headphone-amp</guid>
-    <description>Fender MUSTANG MICROの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゼンハイザー HD 480 PRO PLUSの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sennheiser-hd-480-pro-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sennheiser-hd-480-pro-plus</guid>
-    <description>ゼンハイザー HD 480 PRO PLUSの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
