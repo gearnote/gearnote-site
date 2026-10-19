@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 12:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 12:02:20 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -54,6 +54,13 @@
     <link>https://gearnote.net/product-prime-charger-200w</link>
     <guid isPermaLink="true">https://gearnote.net/product-prime-charger-200w</guid>
     <description>Anker Prime Charger（200W, 6 Ports, GaN）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>レッドブル エナジードリンク 24本 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-redbull-energy-drink-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-redbull-energy-drink-24</guid>
+    <description>レッドブル エナジードリンク 250ml×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -337,24 +344,17 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>SAMOURAI WOMAN サムライウーマン ワンラブ オードトワレ 40mL の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-samourai-woman-onelove-edt-40ml</link>
+    <guid isPermaLink="true">https://gearnote.net/product-samourai-woman-onelove-edt-40ml</guid>
+    <description>SAMOURAI WOMAN サムライウーマン ワンラブ オードトワレ40mLの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ゼンハイザー HD 280 Pro 密閉型ヘッドホン の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-sennheiser-hd-280-pro</link>
     <guid isPermaLink="true">https://gearnote.net/product-sennheiser-hd-280-pro</guid>
     <description>ゼンハイザー HD 280 Proの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カストロール エンジンオイル GTX ULTRACLEAN 0W-20 API の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-castrol-gtx-ultraclean-0w20-4l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-castrol-gtx-ultraclean-0w20-4l</guid>
-    <description>カストロール エンジンオイル GTX ULTRACLEAN 0W-20 API SP 4L 部分合成油の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-yamazen</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
-    <description>山善の家電・家具・キッチン用品などの特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載34商品の仕様を一覧で確認できます。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
