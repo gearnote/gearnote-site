@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 13:19:32 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 13:23:20 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -40,6 +40,20 @@
     <link>https://gearnote.net/product-dyson-cool-cf1</link>
     <guid isPermaLink="true">https://gearnote.net/product-dyson-cool-cf1</guid>
     <description>Dyson Cool CF1 扇風機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日田天領水 2L×10本の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hita-tenryosui-2l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hita-tenryosui-2l</guid>
+    <description>日田天領水 2L×10本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日田天領水 ミネラルウォーターの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hita-tenryosui-water</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hita-tenryosui-water</guid>
+    <description>日田天領水 ミネラルウォーター 500ml×24本×2ケースの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-nike-everyday-crew-socks</link>
     <guid isPermaLink="true">https://gearnote.net/product-nike-everyday-crew-socks</guid>
     <description>ナイキ エブリデイクッションド トレーニング クルーソックス（SX7664）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Champion キャップ 181-019Aの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-champion-cap-181019a</link>
-    <guid isPermaLink="true">https://gearnote.net/product-champion-cap-181019a</guid>
-    <description>チャンピオン キャップ 181-019Aの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dickies アイゼンハワー フロントジップジャケットの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dickies-eisenhower-jacket</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dickies-eisenhower-jacket</guid>
-    <description>Dickies メンズ アイゼンハワー フロントジップジャケットの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
