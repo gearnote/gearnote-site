@@ -6,7 +6,35 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 08:50:46 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 09:43:35 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smartphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
+    <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>登山・トレッキング用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-mountaineering-gear</link>
@@ -92,6 +120,20 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>カストロール エンジンオイル GTX ULTRACLEAN 0W-20 API の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-castrol-gtx-ultraclean-0w20-4l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-castrol-gtx-ultraclean-0w20-4l</guid>
+    <description>カストロール エンジンオイル GTX ULTRACLEAN 0W-20 API SP 4L 部分合成油の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-yamazen</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-yamazen</guid>
+    <description>山善の家電・家具・キッチン用品などの特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載34商品の仕様を一覧で確認できます。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>平安伸銅工業 突っ張り棒 ジャッキ式強力極太タイプ NGP-70 ホワイト の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-heianshindo-tension-rod-ngp70</link>
     <guid isPermaLink="true">https://gearnote.net/product-heianshindo-tension-rod-ngp70</guid>
@@ -113,6 +155,13 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Tabata(タバタ) ゴルフ ロングティー ウッドティー プロスリムロング の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tabata-wood-tee-long-60pc</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tabata-wood-tee-long-60pc</guid>
+    <description>Tabata ウッドティー プロスリムロング 60本入の特徴を整理。材質・入数などの仕様、メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ミレー(MILLET) ヴァリエ ポーチ MIS0592 ショルダーポーチ の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-millet-varie-pouch-mis0592</link>
     <guid isPermaLink="true">https://gearnote.net/product-millet-varie-pouch-mis0592</guid>
@@ -124,6 +173,20 @@
     <link>https://gearnote.net/product-nittaku-3star-premium-clean-ball</link>
     <guid isPermaLink="true">https://gearnote.net/product-nittaku-3star-premium-clean-ball</guid>
     <description>ニッタク 卓球ボール 3スター プレミアム クリーンの特徴を整理。サイズ・素材・特徴などの仕様、メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>サンビー 印鑑ケース フォーマルケース IB-FO1212 ブラック の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sanby-inkan-case-formal</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sanby-inkan-case-formal</guid>
+    <description>12mm用の携帯用印鑑ケース。メーカー公式サイトでは、樹脂に皮革風の型押しを施したフォーマルケースと記載されています。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>W-KING T9-2の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-w-king-t9-2-led-party-speaker</link>
+    <guid isPermaLink="true">https://gearnote.net/product-w-king-t9-2-led-party-speaker</guid>
+    <description>W-KING T9-2 80W LEDパーティースピーカーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -141,10 +204,66 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>resqme 緊急脱出ツール 2-in-1 シートベルトカッター＆ウィンドウブレーカー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-resqme-emergency-escape-tool</link>
+    <guid isPermaLink="true">https://gearnote.net/product-resqme-emergency-escape-tool</guid>
+    <description>resqme 緊急脱出ツールの特徴を整理。シートベルトカッターとウィンドウブレーカーを兼ねるキーホルダー型ツールの使い方をまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>みどり商会 ピタリ適温プラス 2号 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-midori-pitari-tekion-plus-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-midori-pitari-tekion-plus-2</guid>
+    <description>みどり商会 ピタリ適温プラス 2号の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
+    <description>Amazonプライム感謝祭が開催中です（10月16日(金)〜19日(月)）。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品をGEARNOTEがピックアップして紹介します。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>冬支度特集｜暖房・加湿・寝具・ぽかぽか小物まとめ｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-winter-prep-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-winter-prep-2026</guid>
+    <description>冬支度に役立つ商品を用途別にまとめた特集。暖房・加湿と結露対策・部屋干し・寝具・小物・温かい飲み物・乾燥ケア・電気まわり・車の準備まで、選び方のポイントと安全上の注意つきで紹介します。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>在宅ワーク・デスク環境特集｜入力機器・画面・音・照明・電源まわりを用途別に整理｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-work-from-home-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-work-from-home-2026</guid>
+    <description>在宅ワークの机まわりに関わる商品を用途別にまとめた特集。キーボード・マウス、画面まわり、ヘッドホンとマイク、デスクの明かり、電源・配線、文房具、飲み物、室内環境、ネットワークまで、選び方のポイントと使うときの注意つきで紹介します。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新生活・一人暮らしスタート特集｜そろえるものを用途別に整理｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-new-life-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-new-life-2026</guid>
+    <description>新生活・一人暮らしの準備を、キッチン・洗濯と掃除・寝具と収納・照明と電源・日用品・季節家電・ガジェット・引っ越し用品・まとめ買い向けの飲料と食品に分けて整理。何からそろえるかの考え方と、選ぶときの確認点・使うときの注意つき。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シーガー(Seaguar) PEライン PE X8 エックスエイト 8本組 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-seaguar-pe-x8-8braid</link>
+    <guid isPermaLink="true">https://gearnote.net/product-seaguar-pe-x8-8braid</guid>
+    <description>シーガー(Seaguar) PEライン PE X8 エックスエイト 8本組の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>SOUNDPEATS Air6 HS ワイヤレスイヤホン インナーイヤー型 LDACの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-soundpeats-air6-hs</link>
     <guid isPermaLink="true">https://gearnote.net/product-soundpeats-air6-hs</guid>
     <description>SOUNDPEATS Air6 HSの特徴を整理。半入耳式インナーイヤー型の装着感と13mmドライバーなど、メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Insta360 ヘビーデューティークランプ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-insta360-heavy-duty-clamp</link>
+    <guid isPermaLink="true">https://gearnote.net/product-insta360-heavy-duty-clamp</guid>
+    <description>Insta360 ヘビーデューティークランプの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -237,125 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-helinox-table-one-hardtop</guid>
     <description>ヘリノックス(Helinox)「テーブルワン ハードトップ」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Helinox フェスティバルチェアの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-helinox-festival-chair</link>
-    <guid isPermaLink="true">https://gearnote.net/product-helinox-festival-chair</guid>
-    <description>ヘリノックス(Helinox)「フェスティバルチェア」の商品ページです。数値の仕様は掲載せず、注意点をまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Helinoxの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-helinox</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-helinox</guid>
-    <description>ヘリノックス(Helinox)のアウトドアチェアの特徴、選び方をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オウルテック 準固体電池モバイルバッテリー 10000mAhの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-owltech-semi-solid-power-bank-10000-oec-lpb10024</link>
-    <guid isPermaLink="true">https://gearnote.net/product-owltech-semi-solid-power-bank-10000-oec-lpb10024</guid>
-    <description>オウルテック 準固体電池モバイルバッテリー 10000mAh（OEC-LPB10024-BK）の特徴を整理。容量、PD30W出力、デジタル表示、2台同時充電、選び方と注意点をまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Spigen Galaxy S26 Ultra ケース オプティック・アーマー (ブラック)の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-spigen-optic-armor-galaxy-s26-ultra-case-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-spigen-optic-armor-galaxy-s26-ultra-case-black</guid>
-    <description>Spigen Galaxy S26 Ultra ケース オプティック・アーマー (ブラック)（スライド式カメラカバー・米軍MIL規格取得・ストラップホール）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Spigen Xperia 1 VII ケース ラギッド・アーマー (マット・ブラック)の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-spigen-rugged-armor-xperia-1-vii-case-matte-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-spigen-rugged-armor-xperia-1-vii-case-matte-black</guid>
-    <description>Spigen Xperia 1 VII ケース ラギッド・アーマー (マット・ブラック)（TPU・米軍MIL規格取得・XRDフォーム・ストラップホール）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>EcoFlow RIVER 3 ポータブル電源 230Wh AC定格300W の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ecoflow-river-3-230wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ecoflow-river-3-230wh</guid>
-    <description>EcoFlow RIVER 3 ポータブル電源 230Wh AC定格300W 小型 リン酸鉄リチウムの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ADAM elements AVISTAR C01 第2世代 スマートタグ（ブラック） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-adam-elements-avistar-c01-gen2-smart-tag-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-adam-elements-avistar-c01-gen2-smart-tag-black</guid>
-    <description>ADAM elements AVISTAR C01 第2世代 スマートタグ（ブラック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>IODATA GCFX ゲーミングモニター 24.5型 フルHD 260Hz EX-GD252UHB（ブラック） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor</guid>
-    <description>IODATA GCFX ゲーミングモニター 24.5型 フルHD 260Hz EX-GD252UHB（ブラック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Nothing Phone (3a) Lite 8GB+128GB ブラック の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-nothing-phone-3a-lite-8gb-128gb-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nothing-phone-3a-lite-8gb-128gb-black</guid>
-    <description>Nothing Phone (3a) Lite 8GB+128GB ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>NEC LAVIE Tab T12 12.1型 Wi-Fiモデル 6GB/128GB（Amazon.co.jp限定・クラウドグレー） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</guid>
-    <description>NEC LAVIE Tab T12 12.1型 Wi-Fiモデル 6GB/128GB（Amazon.co.jp限定・クラウドグレー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドウシシャ mistone600S スチーム式加湿器 KSB-604BE（ベージュ・3Lタンク） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-doshisha-mistone600s-steam-humidifier-ksb-604be-beige</link>
-    <guid isPermaLink="true">https://gearnote.net/product-doshisha-mistone600s-steam-humidifier-ksb-604be-beige</guid>
-    <description>ドウシシャ mistone600S スチーム式加湿器 KSB-604BE（ベージュ・3Lタンク）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 ホットカーペット 3畳相当 185×230cm フローリング調 YZD-301FL(LBR) の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style</guid>
-    <description>山善 ホットカーペット 3畳相当 185×230cm フローリング調 YZD-301FL(LBR)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>全商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/all-products</link>
-    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
-    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-koizumi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
-    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活家電の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-home</link>
-    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
-    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
-    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン ボディグルーマー PRO X XT5300 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-bodygroomer-prox-xt5300</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-bodygroomer-prox-xt5300</guid>
-    <description>ブラウン(Braun) ボディグルーマー PRO X XT5300-b ボディシェーバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
