@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 11:33:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 11:42:03 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -47,6 +47,13 @@
     <link>https://gearnote.net/product-prime-charger-200w</link>
     <guid isPermaLink="true">https://gearnote.net/product-prime-charger-200w</guid>
     <description>Anker Prime Charger（200W, 6 Ports, GaN）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カナナプロジェクト ストロール ショルダーバッグ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kanana-project-stroll-antibacterial-bag</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kanana-project-stroll-antibacterial-bag</guid>
+    <description>Kanana project カナナプロジェクト コレクション ショルダーバッグ 抗菌・抗ウィルスポケット付 ストロール 67213の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -152,6 +159,13 @@
     <link>https://gearnote.net/product-yaman-cabispa-360</link>
     <guid isPermaLink="true">https://gearnote.net/product-yaman-cabispa-360</guid>
     <description>ヤーマン ボディ用美容器 キャビスパ 360 HDS100Bの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カーパーツ・整備・安全用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-car-parts-safety</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-car-parts-safety</guid>
+    <description>エーモン 非常信号灯・パナソニック カオス バッテリー・KURE スーパー5-56を徹底比較。各商品の特徴をもとに、用途・耐久性の観点からおすすめのカーパーツ・整備・安全用品を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-heianshindo-tension-rod-ngp70</link>
     <guid isPermaLink="true">https://gearnote.net/product-heianshindo-tension-rod-ngp70</guid>
     <description>平安伸銅工業 突っ張り棒 ジャッキ式強力極太タイプ NGP-70 ホワイトの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エルパ(ELPA) エアコンリモコン 汎用 主要メーカー16社対応 RC-AC38 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elpa-aircon-remote-rcac38</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elpa-aircon-remote-rcac38</guid>
-    <description>エルパ(ELPA) エアコンリモコン 汎用 主要メーカー16社対応 RC-AC38の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルサン エアコン排水ホース用 防虫剤練り込みキャップ 4個入 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-balsan-aircon-drain-cap</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balsan-aircon-drain-cap</guid>
-    <description>バルサン エアコン排水ホース用 防虫剤練り込みキャップ 4個入の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

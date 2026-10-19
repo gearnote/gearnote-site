@@ -3802,7 +3802,7 @@ const RANKING_POOL = [
   },
   {
     name: "Dyson Cool CF1 扇風機",
-    excerpt: "羽根のないデザインでパワフルな風を届けるリビング扇風機、ホワイト/シルバー。Amazon.co.jp限定モデル。",
+    excerpt: "羽根のないデザインの扇風機、ホワイト/シルバー。メーカー公式サイトでは、最大消費電力30W、最小風量時18.5dBと記載されています。",
     img: "https://m.media-amazon.com/images/I/51pPo9tJR5L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GV2ZM1NL?tag=hide0122-22",
     page: "product-dyson-cool-cf1.html",
@@ -7969,7 +7969,7 @@ const RANKING_POOL = [
   },
   {
     name: "GUM(ガム)歯間ブラシ I字型(サイズ:S(3)) 20本入×3個",
-    excerpt: "歯間部の歯周プラーク（歯垢）を除去する目的の歯間ブラシ。薄型ロングハンドルと携帯用キャップ付きで、20本入りが3個セット。",
+    excerpt: "I字型の歯間ブラシ。メーカー公式サイトでは、薄型ハンドル、三角毛、抗菌毛、保管キャップ付と記載されています。20本入りが3個セット。",
     img: "https://m.media-amazon.com/images/I/71tGq2pN3lL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BY8K2VDQ?tag=hide0122-22",
     page: "product-gum-interdental-brush-i-s3-20x3.html",
@@ -16643,7 +16643,7 @@ const RANKING_POOL = [
   },
   {
     name: "GUM(ガム) プラスデンタルリンス 低刺激ノンアルコールタイプ 900ml×2本+おまけ付き 医薬部外品",
-    excerpt: "殺菌剤CPC（塩化セチルピリジニウム）を配合した、歯周病予防をうたう医薬部外品の液体ハミガキ。低刺激・ノンアルコールタイプで、ハーブミントの風味、900ml×2本のセットです。",
+    excerpt: "殺菌剤CPC（塩化セチルピリジニウム）を配合した、歯周病予防をうたう医薬部外品の液体ハミガキ。低刺激・ノンアルコールタイプで、900ml×2本のセットです。",
     img: "https://m.media-amazon.com/images/I/71qhsGY4duL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B8N5V888?tag=hide0122-22",
     page: "product-gum-plus-dental-rinse-nonalcohol-900x2.html",
@@ -23148,7 +23148,7 @@ const RANKING_POOL = [
   },
   {
     name: "GUM(ガム) お口/のど 殺菌スプレー ハーブミントタイプ 15mL",
-    excerpt: "サンスター(GUM)の指定医薬部外品の携帯用スプレー。口腔内の殺菌・消毒や口臭の除去を目的とし、吐き出し不要で使えます。",
+    excerpt: "サンスター(GUM)の指定医薬部外品の携帯用スプレー。メーカー公式サイトでは、殺菌成分CPC配合、吐き出し不要、約160プッシュと記載されています。",
     img: "https://m.media-amazon.com/images/I/71j1mIPupkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B06VY8Q6QZ?tag=hide0122-22",
     page: "product-gum-mouth-throat-spray.html",
