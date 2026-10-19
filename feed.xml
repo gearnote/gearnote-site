@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 11:05:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 11:08:42 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -33,6 +33,13 @@
     <link>https://gearnote.net/product-brita-water-filter-pot-cartridge-3</link>
     <guid isPermaLink="true">https://gearnote.net/product-brita-water-filter-pot-cartridge-3</guid>
     <description>ブリタ 浄水器 ポット型 リクエリ マクストラプロ カートリッジ3個付の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL Endurance Run 3の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-endurance-run-3</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-endurance-run-3</guid>
+    <description>JBL Endurance Run 3 USB-Cスポーツイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -225,6 +232,13 @@
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>クナイプ バスソルト グーテナハト 850gの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kneipp-gutenacht-bathsalt-850g</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kneipp-gutenacht-bathsalt-850g</guid>
+    <description>クナイプ(Kneipp) バスソルト グーテナハト ホップ&amp;バレリアンの香り 850gの特徴を整理。香り・成分・ドイツ製という背景、選び方やメリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>平安伸銅工業 突っ張り棒 ジャッキ式強力極太タイプ NGP-70 ホワイト の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-heianshindo-tension-rod-ngp70</link>
     <guid isPermaLink="true">https://gearnote.net/product-heianshindo-tension-rod-ngp70</guid>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-resqme-emergency-escape-tool</link>
     <guid isPermaLink="true">https://gearnote.net/product-resqme-emergency-escape-tool</guid>
     <description>resqme 緊急脱出ツールの特徴を整理。シートベルトカッターとウィンドウブレーカーを兼ねるキーホルダー型ツールの使い方をまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>みどり商会 ピタリ適温プラス 2号 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-midori-pitari-tekion-plus-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-midori-pitari-tekion-plus-2</guid>
-    <description>みどり商会 ピタリ適温プラス 2号の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SHURE MV7+の特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shure-mv7-plus-podcast-mic</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shure-mv7-plus-podcast-mic</guid>
-    <description>SHURE MV7+ ポッドキャストマイクロホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
