@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 20 Oct 2026 12:48:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 12:49:55 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -337,6 +337,13 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ミネラルウォーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mineral-water</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mineral-water</guid>
+    <description>財宝温泉水・のむシリカ・い・ろ・は・すを徹底比較。各商品の特徴をもとに、口当たり・成分の観点からおすすめのミネラルウォーターを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>歯磨き粉おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-toothpaste</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-toothpaste</guid>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/ranking-cat-food</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-cat-food</guid>
     <description>ピュリナワン・ニュートロ・カルカンを徹底比較。各商品の特徴をもとに、食いつき・匂いの観点からおすすめのキャットフードを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズシェーバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mens-shavers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
-    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。剃り味・お手入れのしやすさをまとめました。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
