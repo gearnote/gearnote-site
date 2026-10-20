@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 20 Oct 2026 12:06:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 12:07:02 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -274,6 +274,13 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>コカ・コーラ やかんの麦茶の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yakan-mugicha</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yakan-mugicha</guid>
+    <description>コカ・コーラ やかんの麦茶の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-smartphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-cezanne-eyelash-serum-ex</link>
     <guid isPermaLink="true">https://gearnote.net/product-cezanne-eyelash-serum-ex</guid>
     <description>セザンヌ まつげ美容液EX クリアの特徴を整理。カラー、形状、全成分、使用上の注意をまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CEZANNE（セザンヌ）の商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-cezanne</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-cezanne</guid>
-    <description>CEZANNE（セザンヌ）の特徴、コスメの実力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
