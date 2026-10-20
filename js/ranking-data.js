@@ -2731,7 +2731,7 @@ const RANKING_POOL = [
   },
   {
     name: "サントリー 胡麻麦茶 トクホ 12本",
-    excerpt: "血圧が高めの方に適した特定保健用食品(トクホ)の麦茶。すっきりとした胡麻麦茶の風味で飲みやすい。",
+    excerpt: "特定保健用食品（トクホ）区分の麦茶。すっきりとした胡麻麦茶の風味。",
     img: "https://m.media-amazon.com/images/I/71syHn43eiL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00M7TBYES?tag=hide0122-22",
     page: "product-suntory-goma-mugicha-tokuho-12.html",
@@ -2815,21 +2815,21 @@ const RANKING_POOL = [
   },
   {
     name: "クリーンデンタル トータルケア 歯磨き粉",
-    excerpt: "「くせになる使用感」の薬用ハミガキ。磨いた後のさっぱり感が翌朝まで続き、口臭も気にならなくなる。",
+    excerpt: "医薬部外品の薬用ハミガキ。甘くない塩味のペーストで、内容量は100g。",
     img: "https://m.media-amazon.com/images/I/81KG6UJSChL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CSVN5MZT?tag=hide0122-22",
     page: "product-clean-dental-total-care-toothpaste-100.html",
   },
   {
     name: "システマ EX メディカルクール 3個+フロス付き",
-    excerpt: "高濃度フッ素配合の薬用ハミガキ。歯茎の状態が良くなり口臭が気にならなくなったという声が多い。",
+    excerpt: "高濃度フッ素（1450ppm）配合の薬用ハミガキ。130g×3個にフロスが付いたセットです。",
     img: "https://m.media-amazon.com/images/I/71Nn04iP9LL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BD4GHJ2L?tag=hide0122-22",
     page: "product-systema-ex-medical-cool-toothpaste-3-floss.html",
   },
   {
     name: "システマ EX W ハミガキ 3個+フロス付き",
-    excerpt: "高濃度フッ素配合で歯周病予防に使える薬用ハミガキ。マイルドな味で磨き上がりもスッキリ。",
+    excerpt: "高濃度フッ素配合の薬用ハミガキ。フレッシュクリアミント風味、125g×3個にフロスが付いたセットです。",
     img: "https://m.media-amazon.com/images/I/71kBDIzWQOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BD4P4MJ2?tag=hide0122-22",
     page: "product-systema-ex-w-toothpaste-3-floss.html",
@@ -14172,7 +14172,7 @@ const RANKING_POOL = [
   },
   {
     name: "ヒルズ サイエンス・ダイエット〈プロ〉 ドッグフード 健康ガード 腎臓・心臓 小粒 7歳~ 高齢犬用 3.3kg",
-    excerpt: "7歳以上の中大型犬向けに腎臓・心臓の健康に配慮した機能性健康食。処方不要で購入可能。",
+    excerpt: "7歳以上の中大型犬向けの総合栄養食。小粒、内容量3.3kg。",
     img: "https://m.media-amazon.com/images/I/716CEkDBPyL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00O7GNOJW?tag=hide0122-22",
     page: "product-hills-pro-healthguard-kidney-heart-3-3kg.html",
@@ -16629,7 +16629,7 @@ const RANKING_POOL = [
   },
   {
     name: "クリニカ アドバンテージ +ホワイトニング [医薬部外品] ハミガキ クリアミント 130g×3個+フロス付き",
-    excerpt: "高濃度フッ素（1450ppm）を配合した医薬部外品の薬用ハミガキ。ホワイトエナメル処方で着色汚れを浮かせて落とすとされ、クリアミントの香味、130g×3個にフロスが付いたセットです。",
+    excerpt: "高濃度フッ素（1450ppm）を配合した医薬部外品の薬用ハミガキ。クリアミントの香味、130g×3個にフロスが付いたセットです。",
     img: "https://m.media-amazon.com/images/I/71hxwGtrsOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BD4DWD1N?tag=hide0122-22",
     page: "product-lion-clinica-advantage-whitening-toothpaste-130x3-floss.html",
@@ -19457,7 +19457,7 @@ const RANKING_POOL = [
   },
   {
     name: "ブラウン 電動歯ブラシ オーラルB iO5",
-    excerpt: "5つのモードとモード表示ディスプレイを備えたオーラルB iOシリーズ。ホワイトニングモードや超やわらかクリーンなど用途別に切り替えられる。",
+    excerpt: "5つのモードとモード表示ディスプレイを備えたオーラルB iOシリーズ。標準、やわらかクリーンなどのモードを切り替えられる。",
     img: "https://m.media-amazon.com/images/I/71WItIVTM-L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BDG1VPN7?tag=hide0122-22",
     page: "product-braun-oral-b-io5.html",
@@ -22070,7 +22070,7 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE クールミント 500ml",
-    excerpt: "強めの清涼感が特徴の定番タイプ。口臭・歯肉炎・歯石沈着を予防する医薬部外品。",
+    excerpt: "強めの清涼感があるアルコールタイプのマウスウォッシュ。医薬部外品、500ml。",
     img: "https://m.media-amazon.com/images/I/61Tp6OyAPoL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B002E1AWQU?tag=hide0122-22",
     page: "product-listerine-coolmint-500ml.html",
@@ -22091,7 +22091,7 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE プロケア 1000ml",
-    excerpt: "歯石・歯垢の沈着予防に着目。ノンアルコールで6歳から使える低刺激設計。",
+    excerpt: "ノンアルコールで6歳から使えるマウスウォッシュ。クリアミント味、1000ml。",
     img: "https://m.media-amazon.com/images/I/61nTr6rO09L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FP2LL7RH?tag=hide0122-22",
     page: "product-listerine-procare-1000ml.html",
@@ -25542,21 +25542,21 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック 家庭用エアーマッサージャー レッグリフレ 足先~ふくらはぎ 4コース 温感機能搭載 ダークグレー EW-RA180-H",
-    excerpt: "パナソニック レッグリフレ EW-RA180-H。管理医療機器の表示、足先〜ふくらはぎ対応のブーツタイプ、10個のエアーバッグ、20パターンの手技・4コース、足先の温感機能。診断・治療の効果を示すものではありません。",
+    excerpt: "パナソニック レッグリフレ EW-RA180-H。管理医療機器の表示、足先〜ふくらはぎ対応のブーツタイプ、10個のエアーバッグ、20パターンの手技・4コース、足先の温感機能。診断・治療を目的としたものではありません。",
     img: "https://m.media-amazon.com/images/I/91SN0o2VxDL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09GJJJWPB?tag=hide0122-22",
     page: "product-panasonic-leg-refre-ew-ra180-h.html",
   },
   {
     name: "アテックス ATEX マッサージ器 フットマッサージャー ふくらはぎゅ コードレス 足 マッサージ ふくらはぎ エアバック エアの力でぎゅっと加圧 ヒーター付き ホットマッサージ グレー AX-HJ360gr",
-    excerpt: "アテックス ふくらはぎゅ AX-HJ360gr。コードレス充電式、上下2層のエアバック、3段階ヒーター（約40/43/46℃）、ふくらはぎ周囲約30〜48cm対応、約450g。診断・治療の効果を示すものではありません。",
+    excerpt: "アテックス ふくらはぎゅ AX-HJ360gr。コードレス充電式、上下2層のエアバック、3段階ヒーター（約40/43/46℃）、ふくらはぎ周囲約30〜48cm対応、約450g。診断・治療を目的としたものではありません。",
     img: "https://m.media-amazon.com/images/I/71s-cEop75L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DT6MVT5C?tag=hide0122-22",
     page: "product-atex-ax-hj360gr-calf-massager.html",
   },
   {
     name: "アテックス ATEX マッサージ器 足 ふくらはぎ 足裏 ルルド フットマッサージ プロもみ®フットマッサージャー AX-HP117gr グレー 指圧 ヒーター搭載 ホットマッサージ エア",
-    excerpt: "アテックス ルルド プロもみフットマッサージャー AX-HP117gr。もみ玉（最大2.5cm突出）・エアバック・ヒーター（約45℃）、18通りの使い方、約15分自動OFF、約2kg。診断・治療の効果を示すものではありません。",
+    excerpt: "アテックス ルルド プロもみフットマッサージャー AX-HP117gr。もみ玉（最大2.5cm突出）・エアバック・ヒーター（約45℃）、18通りの使い方、約15分自動OFF、約2kg。診断・治療を目的としたものではありません。",
     img: "https://m.media-amazon.com/images/I/61d7ze-jkEL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CLL68G6S?tag=hide0122-22",
     page: "product-atex-lourdes-ax-hp117gr-foot-massager.html",
@@ -25675,7 +25675,7 @@ const RANKING_POOL = [
   },
   {
     name: "オムロン 上腕式血圧計 HEM-7140シリーズ HCR-7204T",
-    excerpt: "オムロン 上腕式血圧計 HEM-7140シリーズ HCR-7204T。管理医療機器、対象腕周17〜36cm、フィットカフ、体動・不規則脈波お知らせ、OMRON connect アプリ対応、単3形アルカリ乾電池4個。診断・治療の効果を示すものではありません。",
+    excerpt: "オムロン 上腕式血圧計 HEM-7140シリーズ HCR-7204T。管理医療機器、対象腕周17〜36cm、フィットカフ、体動・不規則脈波お知らせ、OMRON connect アプリ対応、単3形アルカリ乾電池4個。診断・治療を目的としたものではありません。",
     img: "https://m.media-amazon.com/images/I/61NGckiLMvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D9NSJ9PZ?tag=hide0122-22",
     page: "product-omron-upper-arm-blood-pressure-monitor-hcr-7204t.html",
@@ -25689,7 +25689,7 @@ const RANKING_POOL = [
   },
   {
     name: "テルモ 電子体温計 C232P ET-C232P01 (ET-C232P後継品)",
-    excerpt: "テルモ 電子体温計 C232P ET-C232P01。予測式（予測・実測兼用）で平均約20秒、検温終了音、前回値メモリ、オートパワーオフ、電池交換可能（LR41×2個）、収納ケース付き。診断・治療の効果を示すものではありません。",
+    excerpt: "テルモ 電子体温計 C232P ET-C232P01。予測式（予測・実測兼用）で平均約20秒、検温終了音、前回値メモリ、オートパワーオフ、電池交換可能（LR41×2個）、収納ケース付き。診断・治療を目的としたものではありません。",
     img: "https://m.media-amazon.com/images/I/41YEGjikd+L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BQLRML1S?tag=hide0122-22",
     page: "product-terumo-electronic-thermometer-et-c232p01.html",
