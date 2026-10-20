@@ -876,7 +876,7 @@ const RANKING_POOL = [
   },
   {
     name: "カネヨ石鹸 塩素系漂白剤 キッチンブリーチ 5kg",
-    excerpt: "次亜塩素酸ナトリウム配合の塩素系漂白剤。除菌・消臭・漂白効果の業務用5kg。",
+    excerpt: "次亜塩素酸ナトリウム配合の塩素系漂白剤。用途は漂白・除菌・消臭の業務用5kg。",
     img: "https://m.media-amazon.com/images/I/717LAh1OFPL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0055QG3UU?tag=hide0122-22",
     page: "product-kaneyo-chlorine-bleach-kitchen-5kg.html",
@@ -1842,7 +1842,7 @@ const RANKING_POOL = [
   },
   {
     name: "ニュートロ ナチュラルチョイス 室内猫用",
-    excerpt: "厳選自然素材を使用し香料・着色料無添加で仕上げた室内猫用ドライキャットフード。食いつきの良さでリピーターが多いロングセラー。",
+    excerpt: "室内猫用のアダルト向けドライキャットフード。チキン味で内容量は2kg。",
     img: "https://m.media-amazon.com/images/I/61QMSrXbt7L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00CD278N0?tag=hide0122-22",
     page: "product-nutro-natural-choice-indoor-cat-2kg.html",
@@ -1863,7 +1863,7 @@ const RANKING_POOL = [
   },
   {
     name: "Rela Kino インソール",
-    excerpt: "ジェルとPUの低反発素材を組み合わせ、かかとと土踏まずをしっかり支えるインソール。",
+    excerpt: "ジェルとPUの低反発素材を組み合わせ、かかとと土踏まずを支えるインソール。",
     img: "https://m.media-amazon.com/images/I/71G7VXdCxaL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B459NXC1?tag=hide0122-22",
     page: "product-relakino-insole-archsupport.html",
@@ -2906,7 +2906,7 @@ const RANKING_POOL = [
   },
   {
     name: "奇跡の歯ブラシ 3本セット",
-    excerpt: "薄型ヘッドで奥歯まで届きやすく、歯間の汚れもしっかり落とせる大人用歯ブラシ。個別包装の3本セット。",
+    excerpt: "薄型ヘッドの大人用歯ブラシ。3本セット。",
     img: "https://m.media-amazon.com/images/I/51R44Jzh9aL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07W8SW6SN?tag=hide0122-22",
     page: "product-kiseki-toothbrush-3.html",
@@ -4264,7 +4264,7 @@ const RANKING_POOL = [
   },
   {
     name: "ニューバランス サポーティブリバウンドインソール",
-    excerpt: "土踏まずからかかとを支える軽量インソール。歩行時の安定感とクッション性を強化。",
+    excerpt: "毎日の使用を想定して設計された靴用インソール。XSから2XLまでのサイズ展開。",
     img: "https://m.media-amazon.com/images/I/71ZBOf3dE-L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09Z993D18?tag=hide0122-22",
     page: "product-nb-supportive-rebound-insole-rcp280.html",
@@ -7948,7 +7948,7 @@ const RANKING_POOL = [
   },
   {
     name: "KINCHO ゴキブリがいなくなるスプレー 200mL",
-    excerpt: "部屋の隅や家具の裏にスプレーしておくバリアタイプの駆除剤。1ヵ月ゴキブリを寄せつけにくくする、トコジラミにも対応。",
+    excerpt: "部屋の隅や家具の裏にスプレーしておくバリアタイプの駆除剤。持続の目安は1ヵ月で、トコジラミも対象。",
     img: "https://m.media-amazon.com/images/I/71LvovaHZYL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08WB9J321?tag=hide0122-22",
     page: "product-kincho-gokiburi-inakunaru-spray-200.html",
@@ -15705,7 +15705,7 @@ const RANKING_POOL = [
   },
   {
     name: "【正規品】Tick Twister ティックツイスター マダニ取り 大小2本組セット",
-    excerpt: "フランスの獣医外科医が開発したマダニ除去専用器具。クルクル回して取ることでマダニの口吻を残さず、皮膚への負担を抑えて除去できます。",
+    excerpt: "フランスの獣医外科医が開発したマダニ除去専用器具。クルクル回して外すタイプです。",
     img: "https://m.media-amazon.com/images/I/71EjRi5riUL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09D9LGMY9?tag=hide0122-22",
     page: "product-ticktwister-otom-tick-remover-set.html",
@@ -16608,7 +16608,7 @@ const RANKING_POOL = [
   },
   {
     name: "きき湯 マグネシウム炭酸湯 カボスの香り 360g 約12回分 炭酸 薬用入浴剤",
-    excerpt: "炭酸ガスと温泉ミネラル（硫酸マグネシウム）を配合した医薬部外品の薬用入浴剤。すっきりしたカボスの香りで、青緑色の透明なお湯になる360g（約12回分）の粉末タイプ、計量スプーン付きです。",
+    excerpt: "炭酸ガスと硫酸マグネシウムを配合した医薬部外品の薬用入浴剤。すっきりしたカボスの香りで、青緑色の透明なお湯になる360g（約12回分）の粉末タイプ、計量スプーン付きです。",
     img: "https://m.media-amazon.com/images/I/81RR6B3DkvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CCXZXTXS?tag=hide0122-22",
     page: "product-kikiyu-magnesium-tansan-yu-kabosu-360.html",
@@ -25682,14 +25682,14 @@ const RANKING_POOL = [
   },
   {
     name: "オムロン 体重 体組成計 カラダスキャン ブラック KRD-603T2-BK スマホ連動 データ自動転送 自動認識 乗るだけで測定開始 50g単位 BMI 骨格筋率 体脂肪率",
-    excerpt: "オムロン 体重体組成計 カラダスキャン KRD-603T2-BK。50g単位、自動認識・乗るだけで測定開始、4秒高速測定、スマートフォンへのデータ自動転送、約1.7kg。測定値は参考値で、診断・治療を目的とするものではありません。",
+    excerpt: "オムロン 体重体組成計 カラダスキャン KRD-603T2-BK。50g単位、自動認識・乗るだけで測定開始、4秒高速測定、スマートフォンへのデータ自動転送、約1.7kg。測定値は参考値で、診断を目的とするものではありません。",
     img: "https://m.media-amazon.com/images/I/61nmp37zKwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C2J6BX53?tag=hide0122-22",
     page: "product-omron-karada-scan-krd-603t2-bk.html",
   },
   {
     name: "テルモ 電子体温計 C232P ET-C232P01 (ET-C232P後継品)",
-    excerpt: "テルモ 電子体温計 C232P ET-C232P01。予測式（予測・実測兼用）で平均約20秒、検温終了音、前回値メモリ、オートパワーオフ、電池交換可能（LR41×2個）、収納ケース付き。診断・治療を目的としたものではありません。",
+    excerpt: "テルモ 電子体温計 C232P ET-C232P01。予測式（予測・実測兼用）で平均約20秒、検温終了音、前回値メモリ、オートパワーオフ、電池交換可能（LR41×2個）、収納ケース付き。診断を目的としたものではありません。",
     img: "https://m.media-amazon.com/images/I/41YEGjikd+L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BQLRML1S?tag=hide0122-22",
     page: "product-terumo-electronic-thermometer-et-c232p01.html",
