@@ -1198,14 +1198,14 @@ const RANKING_POOL = [
   },
   {
     name: "ディアナチュラ ヘム鉄 60粒(60日) アサヒ サプリ Dear-Natura 国内工場で生産",
-    excerpt: "吸収されやすいとされるヘム鉄を1日1粒で。60日分の続けやすいタイプ。",
+    excerpt: "ヘム鉄を配合した栄養補助食品。1日1粒の目安で60日分。",
     img: "https://m.media-amazon.com/images/I/71lpfmE+okL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CF4J8T1H?tag=hide0122-22",
     page: "product-dearnatura-heme-iron-60.html",
   },
   {
     name: "ディアナチュラスタイル ビタミンC MIX 120粒(60日) アサヒ サプリ Dear-Natura 国内工場で生産",
-    excerpt: "ビタミンCを1日2粒で補給できるサプリ。60日分のパウチタイプ。",
+    excerpt: "ビタミンCを配合した栄養補助食品。1日2粒の目安で60日分のパウチタイプ。",
     img: "https://m.media-amazon.com/images/I/710FtBdAAXL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07GSDJ6T2?tag=hide0122-22",
     page: "product-dearnatura-style-vitaminc-mix-120.html",
@@ -2794,7 +2794,7 @@ const RANKING_POOL = [
   },
   {
     name: "APAGARD プレミオ 歯磨き粉 3個セット",
-    excerpt: "泡立たないタイプでしっかり磨けている感覚がある。",
+    excerpt: "医薬部外品の歯みがき粉。100g×3個のセットです。",
     img: "https://m.media-amazon.com/images/I/61USj40xRBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01N4NN84D?tag=hide0122-22",
     page: "product-apagard-premio-toothpaste-3.html",
@@ -2941,7 +2941,7 @@ const RANKING_POOL = [
   },
   {
     name: "クイックル トイレ つめかえ用 ジャンボパック",
-    excerpt: "便器から床まで1枚でしっかり掃除できる厚手のトイレ掃除シート。ミントの香りで掃除後もすっきり。",
+    excerpt: "フロア・便器・壁に使えるトイレ掃除シートのつめかえ用。ミントの香り。",
     img: "https://m.media-amazon.com/images/I/711cLHnmVsL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07BH52QPY?tag=hide0122-22",
     page: "product-quickle-toilet-cleaner-mint-60.html",
@@ -3396,7 +3396,7 @@ const RANKING_POOL = [
   },
   {
     name: "デオコ 薬用ボディクレンズ",
-    excerpt: "【医薬部外品】ラクトン・白泥・ビタミンC誘導体・殺菌成分配合の薬用ボディソープ、350mL。",
+    excerpt: "【医薬部外品】フローラルの香りの薬用ボディソープ、350mL。",
     img: "https://m.media-amazon.com/images/I/61pC9HtqjkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B079LFC4PZ?tag=hide0122-22",
     page: "product-deoco-body-cleanse.html",
@@ -4229,7 +4229,7 @@ const RANKING_POOL = [
   },
   {
     name: "ヒルズ サイエンス・ダイエット キャットフード アダルト 2.8kg",
-    excerpt: "1〜6歳の成猫向けドライフード。下部尿路の健康維持を考慮したチキン味。",
+    excerpt: "1〜6歳の成猫向けのチキン味ドライフード。内容量は2.8kgです。",
     img: "https://m.media-amazon.com/images/I/81qU2Z8xXsL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00MFBEYMM?tag=hide0122-22",
     page: "product-hills-sciencediet-cat-adult-28kg.html",
@@ -7990,7 +7990,7 @@ const RANKING_POOL = [
   },
   {
     name: "メンズビオレ 薬用デオドラントボディウォッシュ 1200ml",
-    excerpt: "デオドラント成分配合の薬用泡で毛穴汚れを落とすとされる男性向けボディソープ。フレッシュなミントの香り、つめかえ用特大1200ml。",
+    excerpt: "メンズビオレの薬用ボディウォッシュ。フレッシュなミントの香り、つめかえ用特大1200ml。",
     img: "https://m.media-amazon.com/images/I/71PDlsVAkTL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GVRV8R8D?tag=hide0122-22",
     page: "product-mensbiore-yakuyo-deodorant-bodywash-1200.html",
@@ -8795,7 +8795,7 @@ const RANKING_POOL = [
   },
   {
     name: "バスクリン 極みの湯 森の香り 600g",
-    excerpt: "名湯探索チームがプロデュースしたにごりタイプの粉末入浴剤。乳緑色のお湯と森の香りで、疲労回復・冷え症などの効能を記載する医薬部外品。",
+    excerpt: "にごりタイプの粉末入浴剤。乳緑色のお湯と森の香りの医薬部外品、600g。",
     img: "https://m.media-amazon.com/images/I/81TW4eWwr0L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BHWL7JYD?tag=hide0122-22",
     page: "product-bathclin-kiwaminoyu-forest-600g.html",
@@ -9447,7 +9447,7 @@ const RANKING_POOL = [
   },
   {
     name: "SeaBirds 車椅子用クッション",
-    excerpt: "理学療法士監修の車椅子用クッション。高密度モールドウレタンで体圧分散、骨盤を支える立体成型。",
+    excerpt: "車椅子用クッション。高密度モールドウレタンで、立体成型と裏面の滑り止め加工を備えています。",
     img: "https://m.media-amazon.com/images/I/81KUJZBJxdL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09MLCDSL5?tag=hide0122-22",
     page: "product-seabirds-wheelchair-cushion.html",
@@ -12513,7 +12513,7 @@ const RANKING_POOL = [
   },
   {
     name: "ロイヤルカナン 消化器サポート 食事療法食 2kg",
-    excerpt: "消化器の状態に配慮した猫用の食事療法食。獣医師の指導のもとでの給与が案内されています。",
+    excerpt: "猫用の食事療法食。獣医師の指導のもとでの給与が案内されています。",
     img: "https://m.media-amazon.com/images/I/41kGuSitHmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DPYCGLRM?tag=hide0122-22",
     page: "product-royalcanin-digestive-care-cat-2kg.html",
@@ -14193,7 +14193,7 @@ const RANKING_POOL = [
   },
   {
     name: "キャットフード サイエンスダイエット キトン 猫用 12ヶ月まで チキン 1.4kg 子猫",
-    excerpt: "成長期の子猫向けドライフード。DHA・タウリン配合で妊娠・授乳期の母猫にも案内。",
+    excerpt: "12ヶ月までの子猫向けのチキン味ドライフード。妊娠・授乳期の母猫にも案内されています。",
     img: "https://m.media-amazon.com/images/I/71HpNqkNzWL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CG1KS19C?tag=hide0122-22",
     page: "product-hills-sciencediet-cat-kitten-1-4kg.html",
@@ -15642,7 +15642,7 @@ const RANKING_POOL = [
   },
   {
     name: "ハビナース 口腔保湿ジェルプラス パイナップルの香り",
-    excerpt: "舌苔などの汚れが気になる場合に使う口腔保湿ジェル。清掃成分ブロメラインを配合し、口腔内の乾燥・口臭予防を目的とした介護用品です。",
+    excerpt: "パイナップルの香りの口腔用ジェル。内容量50gの介護用品です。",
     img: "https://m.media-amazon.com/images/I/71Pwgf5LDJL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FHWGFNSN?tag=hide0122-22",
     page: "product-habinurse-oralgel-plus-pineapple.html",
@@ -22105,7 +22105,7 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE トータルケア グリーンティー 1500ml",
-    excerpt: "天然緑茶成分配合の低刺激ノンアルコールタイプ。1500mlの大容量。",
+    excerpt: "天然緑茶成分配合のノンアルコールタイプ。1500mlの大容量。",
     img: "https://m.media-amazon.com/images/I/61rQ5PYgO6L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GTYC3FM5?tag=hide0122-22",
     page: "product-listerine-total-care-greentea-1500ml.html",
@@ -22119,14 +22119,14 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE トータルケアプラス 1500ml",
-    excerpt: "アルコール配合・ストロングミント味の大容量オールインワン処方。",
+    excerpt: "アルコール配合・ストロングミント味の大容量1500mlボトル。",
     img: "https://m.media-amazon.com/images/I/71NgbqoWLHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09B9MX8JX?tag=hide0122-22",
     page: "product-listerine-totalcareplus-1500ml.html",
   },
   {
     name: "LISTERINE トータルケアゼロプラス 500ml",
-    excerpt: "ノンアルコール・低刺激タイプのクリーンミント味。持ち運びやすい500mlサイズ。",
+    excerpt: "ノンアルコールタイプのクリーンミント味。500mlのコンパクトサイズ。",
     img: "https://m.media-amazon.com/images/I/61jfl2BECnL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07GVFWGJT?tag=hide0122-22",
     page: "product-listerine-total-care-zero-plus-500ml.html",
@@ -23722,7 +23722,7 @@ const RANKING_POOL = [
   },
   {
     name: "トイレクイックル 容器入 10枚入",
-    excerpt: "トイレ掃除用の流せる厚手シート。容器入り10枚、ミントの香り。拭いた場所は99%除菌・24時間抗菌、ウイルス除去、消臭(いずれも条件付き)と記載。",
+    excerpt: "トイレ掃除用の流せる厚手シート。容器入り10枚、ミントの香り。",
     img: "https://m.media-amazon.com/images/I/81FEstN8KKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HBBWWXFZ?tag=hide0122-22",
     page: "product-toilet-quickle-container-10.html",
@@ -25016,8 +25016,8 @@ const RANKING_POOL = [
     page: "product-apple-watch-series-12-42mm-light-gold-sand-sm.html",
   },
   {
-    name: "Apple Watch Series 11(GPSモデル)- 42mmスペースグレイアルミニウムケースとブラックスポーツバンド - M/L、睡眠時無呼吸、高血圧パターン、血中酸素、心電図、排卵推定、心拍数、服薬、マインドフルネス、ノイズ、睡眠スコア、転倒検出、IPX6X防塵、泳げる耐水、Suica対応、高速充電対応",
-    excerpt: "Apple Watch Series 11（GPSモデル）42mm・スペースグレイアルミニウム／ブラックスポーツバンド M/L。睡眠スコア、心電図、血中酸素、最大24時間バッテリー、50m耐水、Suica対応。",
+    name: "Apple Watch Series 11（GPSモデル）42mm スペースグレイアルミニウムケース／ブラックスポーツバンド M/L",
+    excerpt: "Apple Watch Series 11（GPSモデル）42mm・スペースグレイアルミニウム／ブラックスポーツバンド M/L。最大24時間バッテリー、50m耐水、Suica対応。",
     img: "https://m.media-amazon.com/images/I/71roT3lDUvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FQFQ2PH4?tag=hide0122-22",
     page: "product-apple-watch-series-11-42mm-space-gray-black-ml.html",
