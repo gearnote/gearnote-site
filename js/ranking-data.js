@@ -2780,14 +2780,14 @@ const RANKING_POOL = [
   },
   {
     name: "システマ DENT. SP-T ジェル",
-    excerpt: "歯茎のケアに特化したジェルタイプの薬用ハミガキ。",
+    excerpt: "ジェルタイプの薬用ハミガキ（ハーブミント風味、85g）。",
     img: "https://m.media-amazon.com/images/I/41K1AojsDdL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00FXJP0XU?tag=hide0122-22",
     page: "product-systema-dent-sp-t-gel-85.html",
   },
   {
     name: "3M クリンプロ 歯みがきペースト 2本",
-    excerpt: "低発泡・低研磨のマイルドな使い心地。歯がスベスベになる感覚が長続きし、歯に優しい処方。",
+    excerpt: "低発泡・低研磨タイプの歯みがきペースト。ソフトミントフレーバーの90g×2本セットです。",
     img: "https://m.media-amazon.com/images/I/51nxxdiiJUL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B081CWXQ4Y?tag=hide0122-22",
     page: "product-3m-clinpro-toothpaste-f1450-2.html",
@@ -2801,14 +2801,14 @@ const RANKING_POOL = [
   },
   {
     name: "MARVIS ホワイト・ミント歯磨き粉",
-    excerpt: "イタリア製の高級歯磨き粉。デザイン性の高いパッケージも人気。",
+    excerpt: "イタリア製の歯磨き粉（ホワイト・ミント、75ml）。フッ素フリーと記載されています。",
     img: "https://m.media-amazon.com/images/I/71YZOFchQRL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B000MEKG30?tag=hide0122-22",
     page: "product-marvis-white-mint-toothpaste-75.html",
   },
   {
     name: "Ora2 プレミアムステインクリアペースト 2個+おまけ",
-    excerpt: "タバコのヤニなど着色汚れのケアに使えるホワイトニング歯磨き粉。味・香りが強すぎず歯がツルツルになる。",
+    excerpt: "医薬部外品の歯磨き粉。100g×2個におまけが付くセットで、特徴欄にはフッ素配合・無香料・無防腐剤と記載されています。",
     img: "https://m.media-amazon.com/images/I/71OWpdV2r-L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CS5Q3DTJ?tag=hide0122-22",
     page: "product-ora2-premium-stain-clear-paste-2.html",
@@ -4047,7 +4047,7 @@ const RANKING_POOL = [
   },
   {
     name: "SK-II ジェノプティクス インフィニットオーラ エッセンス",
-    excerpt: "薬用美白美容液。ナイアシンアミドとピテラ™を配合し、シミ・シワ改善をサポートする医薬部外品。",
+    excerpt: "医薬部外品の美容液（75mL）。ナイアシンアミドとピテラ™が記載され、ホワイトフローラルの香りです。",
     img: "https://m.media-amazon.com/images/I/71CNgqSKMEL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DZCS2Y8S?tag=hide0122-22",
     page: "product-skii-genoptics-infinite-aura-essence.html",
@@ -4810,7 +4810,7 @@ const RANKING_POOL = [
   },
   {
     name: "NONIO プラス ホワイトニング 130g×2個+フロス付き",
-    excerpt: "口臭予防とホワイトニングを両立できる医薬部外品の歯磨き粉。フロス付きのAmazon限定セット。",
+    excerpt: "医薬部外品の歯磨き粉。フッ素1450ppm配合、130g×2個にフロスが付くAmazon限定セット。",
     img: "https://m.media-amazon.com/images/I/41ZsLSPTBML._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08DRT1QC4?tag=hide0122-22",
     page: "product-nonio-plus-whitening-130x2-floss.html",
@@ -7983,7 +7983,7 @@ const RANKING_POOL = [
   },
   {
     name: "モンダミン プレミアムケア ゴールドミント マウスウォッシュ",
-    excerpt: "アース製薬の薬用マウスウォッシュ。低刺激タイプ（刺激度目安2/5段階）で、口臭・むし歯・歯肉炎の予防をうたう医薬部外品の洗口液、1000mL。",
+    excerpt: "アース製薬の薬用マウスウォッシュ。ゴールドミント味の1000mLで、刺激度目安は2/5段階とされている医薬部外品の洗口液です。",
     img: "https://m.media-amazon.com/images/I/61R3P2XLY1L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FM7L78GP?tag=hide0122-22",
     page: "product-mondamin-premiumcare-goldmint-mouthwash-1000.html",
@@ -9054,7 +9054,7 @@ const RANKING_POOL = [
   },
   {
     name: "ミューズ ボタニカル 薬用ボディウォッシュ 詰め替え450mL",
-    excerpt: "植物由来成分を配合した薬用ボディウォッシュ。デオドラント処方のクリアモイストタイプ、詰め替え用450mLパック。",
+    excerpt: "薬用ボディウォッシュの詰め替え用450mLパック。オレンジブロッサム&フレッシュシトラスの香りです。",
     img: "https://m.media-amazon.com/images/I/71CV1RRHRjL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FT7GN9MB?tag=hide0122-22",
     page: "product-muse-botanical-bodywash-deodorant-refill-450.html",
@@ -14802,7 +14802,7 @@ const RANKING_POOL = [
   },
   {
     name: "メディカルブレス CPC ローズ 口臭ケアタブレット",
-    excerpt: "殺菌成分CPC配合の指定医薬部外品タブレット。口中に含んで溶かすタイプで、テンダーローズ風味です。",
+    excerpt: "指定医薬部外品のタブレット（24粒入り）。口中に含んで溶かすタイプで、テンダーローズ風味です。",
     img: "https://m.media-amazon.com/images/I/514o4NQxWVL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CK4SL365?tag=hide0122-22",
     page: "product-medicalbreath-cpc-tablet.html",
@@ -16664,7 +16664,7 @@ const RANKING_POOL = [
   },
   {
     name: "シュミテクト 薬用 コンプリートワンEXプレミアム 薬用ハミガキ フレッシュシトラス 90g",
-    excerpt: "知覚過敏による不快感や痛みを防ぐことを掲げた、オールインワンの薬用ハミガキ。10の働きを1本にまとめたと説明され、ホワイトニングを追求したクレンジング処方で、フレッシュシトラスの香味、90gです。",
+    excerpt: "フレッシュシトラスの香味の薬用ハミガキ（90g）。フッ素1450ppm配合で、6歳未満は使用できない旨が記載されています。",
     img: "https://m.media-amazon.com/images/I/714wwas2H6L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CD6QGKV6?tag=hide0122-22",
     page: "product-shumitect-complete-one-ex-premium-fresh-citrus-90.html",
@@ -22084,7 +22084,7 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE ホワイトニング 1000ml",
-    excerpt: "着色汚れを浮かせて落としコーティングするホワイトニングタイプ。",
+    excerpt: "口に含んでブラッシングしてから使うタイプのマウスウォッシュ（1000ml）。",
     img: "https://m.media-amazon.com/images/I/61lVDR0qQ9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07B8S4FM6?tag=hide0122-22",
     page: "product-listerine-whitening-1000ml.html",
@@ -22098,7 +22098,7 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE トータルケア 歯周マイルド",
-    excerpt: "抗炎症成分GK2配合で歯周病予防に着目。超マイルドなノンアルコール処方。",
+    excerpt: "ノンアルコールのマウスウォッシュ。1700mlつめかえ＋250mlお試しサイズのセットです。",
     img: "https://m.media-amazon.com/images/I/71Rai5SMgnL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HCLQ19L9?tag=hide0122-22",
     page: "product-listerine-total-care-shishu-mild-1700-250.html",
@@ -22133,7 +22133,7 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE トータルケア歯周クリア 1000ml+100mlセット",
-    excerpt: "歯周病（歯肉炎・歯周炎）予防に着目したノンアルコール・低刺激タイプ。",
+    excerpt: "ノンアルコールの医薬部外品マウスウォッシュ（液体歯磨）。1000mlに携帯用100mlが付いたセットです。",
     img: "https://m.media-amazon.com/images/I/71YZDUnDTPL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08H26L6FN?tag=hide0122-22",
     page: "product-listerine-total-care-shishu-clear-1000-100.html",
