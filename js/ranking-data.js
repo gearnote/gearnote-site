@@ -24498,8 +24498,8 @@ const RANKING_POOL = [
     page: "product-iris-ohyama-panel-heater-guru-poka-aph-r12b.html",
   },
   {
-    name: "アイリスオーヤマ ヒーター オイルヒーター 3.3畳 ウェーブ型 500W 小型 コンパクト 温度調節可能 転倒オフ機能 メカ式 足元 省エネ 暖房 POH-505K-MD 木目ダークブラウン",
-    excerpt: "消費電力500Wの小型オイルヒーター（ウェーブ型）。適用の目安は3.3畳、幅約14×奥行約24.5×高さ約38.5cm、重量3.2kg。転倒時自動OFF・サーモスタット機能を備える。",
+    name: "アイリスオーヤマ ヒーター オイルヒーター ウェーブ型 500W 小型 コンパクト 温度調節可能 転倒オフ機能 メカ式 足元 省エネ 暖房 POH-505K-MD 木目ダークブラウン",
+    excerpt: "消費電力500Wの小型オイルヒーター（ウェーブ型）。適用床面積の目安は断熱材なしの木造住宅で約1.2畳まで、幅約14×奥行約24.5×高さ約38.5cm、重量3.2kg。転倒時自動OFF・サーモスタット機能を備える。",
     img: "https://m.media-amazon.com/images/I/51uYpd1CcBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08M41NMW2?tag=hide0122-22",
     page: "product-iris-ohyama-mini-oil-heater-poh-505k-md.html",
