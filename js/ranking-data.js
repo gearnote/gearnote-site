@@ -1478,7 +1478,7 @@ const RANKING_POOL = [
   },
   {
     name: "マツヨシ 口腔ケアスポンジ 50本",
-    excerpt: "個包装で衛生的な使い捨て口腔ケアスポンジ。",
+    excerpt: "個包装の使い捨てタイプのスポンジ。50本入り。",
     img: "https://m.media-amazon.com/images/I/719sUFXV+-L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0748JTRNG?tag=hide0122-22",
     page: "product-matsuyoshi-kokuku-care-sponge-50.html",
@@ -4180,7 +4180,7 @@ const RANKING_POOL = [
   },
   {
     name: "デオナチュレ ソフトストーンW ワキ用 2個セット",
-    excerpt: "手を汚さず塗れる直塗りタイプの制汗剤スティック。無香料で朝塗るだけで長時間持続。",
+    excerpt: "手を汚さず塗れる直塗りタイプのスティック（医薬部外品）。無香料です。",
     img: "https://m.media-amazon.com/images/I/41GK97wEzhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B083LWRKS7?tag=hide0122-22",
     page: "product-deonatulle-soft-stone-w-2set.html",
@@ -4789,7 +4789,7 @@ const RANKING_POOL = [
   },
   {
     name: "ビオスリーHi錠 270錠",
-    excerpt: "酪酸菌・乳酸菌・糖化菌の3種の活性菌で腸内フローラを整える指定医薬部外品の整腸剤。",
+    excerpt: "酪酸菌・ラクトミン（乳酸菌）・糖化菌を含む指定医薬部外品。270錠入り。",
     img: "https://m.media-amazon.com/images/I/81XVBVBpCzL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07NF22TP7?tag=hide0122-22",
     page: "product-biothree-hi-270.html",
@@ -5869,7 +5869,7 @@ const RANKING_POOL = [
   },
   {
     name: "PETLINKMORE 犬猫用 口腔ケアサプリ NORMAL",
-    excerpt: "フードに混ぜるだけの粉末デンタルふりかけ。",
+    excerpt: "フードに混ぜるだけの粉末タイプのサプリメント。",
     img: "https://m.media-amazon.com/images/I/61l4DerNrZL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C4PL2SMY?tag=hide0122-22",
     page: "product-petlinkmore-oral-care-supplement.html",
@@ -7878,7 +7878,7 @@ const RANKING_POOL = [
   },
   {
     name: "アースノーマット 本体 黒ブタ 60日",
-    excerpt: "有効成分メトフルトリン配合の防除用医薬部外品。コンセント式で1日12時間使用60日間、無香料タイプの蚊除け器具。",
+    excerpt: "有効成分メトフルトリン配合の防除用医薬部外品。コンセント式の無香料タイプで、取替えボトルは60日用です。",
     img: "https://m.media-amazon.com/images/I/71wiqQwkEML._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B000R3JAS8?tag=hide0122-22",
     page: "product-earth-nomat-black-pig-60days.html",
@@ -9524,7 +9524,7 @@ const RANKING_POOL = [
   },
   {
     name: "サルバ 尿とりパッド 男性用",
-    excerpt: "固定ホールで男性器を固定し、ズレを防ぐ設計の尿とりパッド。弱酸性素材で45枚入り。",
+    excerpt: "固定ホールを備えた男性用の尿とりパッド。45枚入り。",
     img: "https://m.media-amazon.com/images/I/61fXMO1LOBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CH2FJ9DX?tag=hide0122-22",
     page: "product-salva-nyoutoripad-dansei.html",
@@ -9552,7 +9552,7 @@ const RANKING_POOL = [
   },
   {
     name: "BOS おむつが臭わない袋 大人用L",
-    excerpt: "使用済みおむつのにおいを抑える専用処理袋。無香料・マチ付き、90枚入り×2箱。",
+    excerpt: "使用済みおむつを入れて捨てる専用の処理袋。マチ付き、90枚入り×2箱。",
     img: "https://m.media-amazon.com/images/I/21OSa24O5GL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08GSQXT9P?tag=hide0122-22",
     page: "product-bos-omutsu-nioumasenai-otona-l.html",
@@ -9671,7 +9671,7 @@ const RANKING_POOL = [
   },
   {
     name: "いたわりお風呂手すり 600",
-    excerpt: "浴室での使用を想定したネジ固定式の手すり。抗菌・防カビ仕様、縦横どちらでも取り付け可能。",
+    excerpt: "浴室での使用を想定したネジ固定式の手すり。AES樹脂製、耐荷重100KG。",
     img: "https://m.media-amazon.com/images/I/21iBr+r4HEL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B007RX3KJG?tag=hide0122-22",
     page: "product-itawari-bathroom-handrail-600.html",
@@ -15537,7 +15537,7 @@ const RANKING_POOL = [
   },
   {
     name: "小林製薬 ポータブルトイレ消臭液 400ml×2個",
-    excerpt: "ポータブルトイレ用の消臭液。400ml×2個(約32回分×2)、無色透明、クリーンミントの香り。",
+    excerpt: "ポータブルトイレ用の液。400ml×2個、無色透明、クリーンミントの香り。",
     img: "https://m.media-amazon.com/images/I/9105It8KxxL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07CNNZXJW?tag=hide0122-22",
     page: "product-kobayashi-portable-toilet-shoushuueki-400-2.html",
@@ -15663,7 +15663,7 @@ const RANKING_POOL = [
   },
   {
     name: "プラス フードカッター はさみ 介護食 フィットカットカーブ ひとくちカット",
-    excerpt: "食事をひとくちサイズにカットする介護食用のはさみ。根元から刃先まで均等に切れるベルヌーイカーブ刃と、滑りやすい食材をつかむマイクロギザ刃を採用しています。",
+    excerpt: "食事をひとくちサイズにカットする食事用のはさみ。刃の形状としてベルヌーイカーブ刃とマイクロギザ刃を採用しています。",
     img: "https://m.media-amazon.com/images/I/7131MoqYkAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08XYW44HF?tag=hide0122-22",
     page: "product-plus-foodcutter-fitcut-sc145aw.html",
@@ -15677,7 +15677,7 @@ const RANKING_POOL = [
   },
   {
     name: "大塚製薬工場 経口補水液 オーエスワンゼリーパウチ 200g×6袋",
-    excerpt: "水・電解質を補給するための経口補水液をゼリータイプにした製品。消費者庁許可の個別評価型病者用食品で、飲み込みにくさがある場合にも配慮された形状です。",
+    excerpt: "経口補水液をゼリータイプにした製品。消費者庁許可の特別用途食品（病者用食品）で、200gのパウチ入りです。",
     img: "https://m.media-amazon.com/images/I/618rxWs7F3L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01C6LEE5M?tag=hide0122-22",
     page: "product-os1-jelly-pouch-200g6.html",
@@ -16643,7 +16643,7 @@ const RANKING_POOL = [
   },
   {
     name: "GUM(ガム) プラスデンタルリンス 低刺激ノンアルコールタイプ 900ml×2本+おまけ付き 医薬部外品",
-    excerpt: "殺菌剤CPC（塩化セチルピリジニウム）を配合した、歯周病予防をうたう医薬部外品の液体ハミガキ。低刺激・ノンアルコールタイプで、900ml×2本のセットです。",
+    excerpt: "サンスターの医薬部外品の液体ハミガキ。薬用成分は塩化セチルピリジニウムとグリチルリチン酸2K、ノンアルコールタイプで、900ml×2本のセットです。",
     img: "https://m.media-amazon.com/images/I/71qhsGY4duL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B8N5V888?tag=hide0122-22",
     page: "product-gum-plus-dental-rinse-nonalcohol-900x2.html",
@@ -16656,8 +16656,8 @@ const RANKING_POOL = [
     page: "product-lion-systema-toothbrush-compact-4row-normal-6-floss.html",
   },
   {
-    name: "ハウメル 知覚過敏ケア 薬用ハミガキ 100g 歯の穴を埋める 小林製薬 医薬部外品",
-    excerpt: "歯がしみる原因とされる象牙細管を、乳酸アルミニウムで埋めて知覚過敏症状を防ぐとされる医薬部外品の薬用ハミガキ。硝酸カリウムが痛みの伝達を防ぐとされ、リフレッシュミント味の100gです。",
+    name: "ハウメル 知覚過敏ケア 薬用ハミガキ 100g 小林製薬 医薬部外品",
+    excerpt: "医薬部外品の薬用ハミガキ。薬用成分として硝酸カリウム、乳酸アルミニウム、モノフルオロリン酸ナトリウム(フッ素)、塩化セチルピリジニウムが記載されています。リフレッシュミント味の100gです。",
     img: "https://m.media-amazon.com/images/I/812440-wewL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08X2GKRBK?tag=hide0122-22",
     page: "product-kobayashi-howmel-chikakubin-care-toothpaste-100.html",
@@ -17315,7 +17315,7 @@ const RANKING_POOL = [
   },
   {
     name: "ダニアース スプレー ハーブの香り 300ml ダニの駆除&予防 増殖抑制",
-    excerpt: "布団・寝具、カーペット、布製ソファ、ぬいぐるみなどにスプレーするダニ用の殺虫スプレー。ダニの駆除と予防（増殖抑制）をうたい、肌刺激テスト済みとされる、ハーブの香りの300mlです。",
+    excerpt: "布団・寝具、カーペット、布製ソファ、ぬいぐるみなどに使うダニ用のスプレー（防除用医薬部外品）。ハーブの香りの300mlです。",
     img: "https://m.media-amazon.com/images/I/51B0ui1afLL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B079LN3V6Y?tag=hide0122-22",
     page: "product-earth-daniearth-spray-herb-300.html",
@@ -17357,7 +17357,7 @@ const RANKING_POOL = [
   },
   {
     name: "アース・ペット 薬用 ノミ・マダニとり＆蚊よけ首輪 ブルー 小型犬用 35cm",
-    excerpt: "ノミ・マダニの駆除と蚊よけをうたう動物用医薬部外品の首輪。フェノトリンとピリプロキシフェンを配合し、約1週間で効果が現れ始め約6か月続くとされる小型犬用35cmです。",
+    excerpt: "動物用医薬部外品の首輪。有効成分はフェノトリンとピリプロキシフェンと記載されている、小型犬用35cmです。",
     img: "https://m.media-amazon.com/images/I/81DUoJCyDsL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00BH9Y7MU?tag=hide0122-22",
     page: "product-earthpet-yakuyou-nomi-madani-kayoke-collar-small-dog-35cm.html",
@@ -20915,7 +20915,7 @@ const RANKING_POOL = [
   },
   {
     name: "フマキラー コバエ ワンプッシュ プレミアム 60回分 65ml",
-    excerpt: "コバエに直接噴射して駆除し、発生源にスプレーすると約2週間発生を予防すると説明された、65ml・60回分のワンプッシュ式殺虫スプレー。",
+    excerpt: "フマキラーのワンプッシュ式コバエ用スプレー（殺虫剤）。65ml・60回分で、有効成分はトランスフルトリンとフェノトリンと記載されています。",
     img: "https://m.media-amazon.com/images/I/81jhgtJ-AuL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0859W8D4H?tag=hide0122-22",
     page: "product-fumakilla-kobae-onepush-premium-60.html",
@@ -23148,7 +23148,7 @@ const RANKING_POOL = [
   },
   {
     name: "GUM(ガム) お口/のど 殺菌スプレー ハーブミントタイプ 15mL",
-    excerpt: "サンスター(GUM)の指定医薬部外品の携帯用スプレー。メーカー公式サイトでは、殺菌成分CPC配合、吐き出し不要、約160プッシュと記載されています。",
+    excerpt: "サンスター(GUM)の指定医薬部外品の携帯用スプレー。有効成分はセチルピリジニウム塩化物水和物（CPC）、吐き出し不要と記載されています。",
     img: "https://m.media-amazon.com/images/I/71j1mIPupkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B06VY8Q6QZ?tag=hide0122-22",
     page: "product-gum-mouth-throat-spray.html",
@@ -26809,7 +26809,7 @@ const RANKING_POOL = [
   },
   {
     name: "Ora2 オーラツー フィールズ ステインクリアペースト フレッシュリーフグリーンティー 70g 単品 医薬部外品",
-    excerpt: "Ora2 フィールズ ステインクリアペースト フレッシュリーフグリーンティー 70g（医薬部外品）。ステイン除去をうたう薬用ハミガキ、フッ素1450ppm配合と記載、6歳未満は使用を控える。",
+    excerpt: "Ora2 フィールズ ステインクリアペースト フレッシュリーフグリーンティー 70g（医薬部外品）。フッ素1450ppm配合と記載、6歳未満は使用を控える。",
     img: "https://m.media-amazon.com/images/I/61MBsvfxg6L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H6TQHLM3?tag=hide0122-22",
     page: "product-ora2-feels-stain-clear-paste-fresh-leaf-green-tea-70g.html",
