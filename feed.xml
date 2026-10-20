@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 20 Oct 2026 10:12:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 10:13:46 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -40,6 +40,13 @@
     <link>https://gearnote.net/category-daily</link>
     <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
     <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -106,6 +113,13 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>歯磨き粉おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-toothpaste</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-toothpaste</guid>
+    <description>システマEX W・クリーンデンタル・Ora2を徹底比較。各商品の特徴をもとに、歯周病予防・口臭ケア・ホワイトニングの観点からおすすめの歯磨き粉を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>トロピカーナ エッセンシャルズ マルチビタミンの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tropicana-essentials-multivitamin</link>
     <guid isPermaLink="true">https://gearnote.net/product-tropicana-essentials-multivitamin</guid>
@@ -124,6 +138,20 @@
     <link>https://gearnote.net/ranking-batteries</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-batteries</guid>
     <description>パナソニック エネループ・パナソニック エボルタNEO・Panasonic 充電式EVOLTA 充電器セットを徹底比較。各商品の特徴をもとに、用途・寿命の観点からおすすめの電池・充電池を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ペットデンタルケア・虫除けおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-pet-dental-pest</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-pet-dental-pest</guid>
+    <description>ダニ捕りラボ ダニ取りシート・デンタアニマル 歯磨きジェル・グリニーズ 猫用 歯みがきスナックを徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめのペットケア用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>排泄・清潔ケア用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-elderly-hygiene-care</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-elderly-hygiene-care</guid>
+    <description>アイリスオーヤマ 防水シーツ・マツヨシ 口腔ケアスポンジ・ライフリー うす型軽快パンツを徹底比較。各商品の特徴をもとに、使いやすさ・吸収力の観点からおすすめの排泄・清潔ケア用品を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -159,6 +187,13 @@
     <link>https://gearnote.net/product-matsuyoshi-kokuku-care-sponge-50</link>
     <guid isPermaLink="true">https://gearnote.net/product-matsuyoshi-kokuku-care-sponge-50</guid>
     <description>マツヨシ 口腔ケアスポンジ 50本 個包装 花形の商品情報。形状、材質、サイズ、入数、使用上の注意をまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>明治 メイバランスミニ アソートBOX 125ml×24本 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-meiji-meibalance-mini-assortbox-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-meiji-meibalance-mini-assortbox-24</guid>
+    <description>明治 メイバランスミニ アソートBOX 125ml×24本 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -309,52 +344,17 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>森永 クリニコ エンジョイクリミール お試し8本セット の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-clinico-enjoy-climeal-8set</link>
-    <guid isPermaLink="true">https://gearnote.net/product-clinico-enjoy-climeal-8set</guid>
-    <description>森永 クリニコ エンジョイクリミール お試し8本セット 125ml×8種の商品情報を整理。内容量・栄養成分表示・使用上の注意をまとめました。</description>
+    <title>スケーター 木目すくいやすいプレート NPLS2 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-skater-sukuiyasui-plate-npls2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-skater-sukuiyasui-plate-npls2</guid>
+    <description>スケーター 木目すくいやすいプレート NPLS2 クリーム 日本製 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>サルバ 白十字 尿とりパッドスーパー 男性用 2回吸収 45枚の商品情報｜GEARNOTE</title>
-    <link>https://gearnote.net/product-salva-nyoutoripad-dansei</link>
-    <guid isPermaLink="true">https://gearnote.net/product-salva-nyoutoripad-dansei</guid>
-    <description>サルバ 白十字 尿とりパッドスーパー 男性用 2回吸収 45枚の商品情報。サイズ、枚数、吸収量の目安、あて方、使用上の注意をまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>白十字 サルバ ケアシーツ使い捨てタイプ 6枚入 80cm*160cm ブルー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-salva-careseat-disposable</link>
-    <guid isPermaLink="true">https://gearnote.net/product-salva-careseat-disposable</guid>
-    <description>白十字 サルバ ケアシーツ使い捨てタイプ 6枚入 80cm*160cm ブルーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>からだふきタオル 超大判 20本入 60×30cm アクティ 温めても使える の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-acty-karadafuki-towel-choobanban</link>
-    <guid isPermaLink="true">https://gearnote.net/product-acty-karadafuki-towel-choobanban</guid>
-    <description>からだふきタオル 超大判 20本入 60×30cm アクティ 温めても使えるの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>BOS おむつが臭わない袋 大人用 Lサイズ 90枚入 2箱セット の商品情報｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bos-omutsu-nioumasenai-otona-l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bos-omutsu-nioumasenai-otona-l</guid>
-    <description>BOS おむつが臭わない袋 大人用 Lサイズ 90枚入 2箱セットの商品情報。サイズ、入数、使い方、メーカー記載の注意をまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>テーブルからすべらない食事エプロン 花畑柄 ハビナース 裏面すべり止め加工 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-habinurse-suberanai-shokuji-apron</link>
-    <guid isPermaLink="true">https://gearnote.net/product-habinurse-suberanai-shokuji-apron</guid>
-    <description>テーブルからすべらない食事エプロン 花畑柄 ハビナース 裏面すべり止め加工 テーブルにピタッとフィット 強撥水加工 脇ギャザーで食べこぼしガード 食べこぼしが多い方に 介護用 大人用 108×78㎝ 1018250の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>リッチェル 使っていいね!すくいやすい小鉢 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-richell-sukuiyasui-kobachi</link>
-    <guid isPermaLink="true">https://gearnote.net/product-richell-sukuiyasui-kobachi</guid>
-    <description>リッチェル 使っていいね!すくいやすい小鉢の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>アサヒグループ食品 まんぷく日和 やわらかごはん の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-asahi-manpukubiyori-yawaraka-gohan</link>
+    <guid isPermaLink="true">https://gearnote.net/product-asahi-manpukubiyori-yawaraka-gohan</guid>
+    <description>アサヒグループ食品 まんぷく日和 やわらかごはん 150g×6個 介護食 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
