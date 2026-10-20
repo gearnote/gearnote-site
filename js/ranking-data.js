@@ -8480,7 +8480,7 @@ const RANKING_POOL = [
   },
   {
     name: "カゴメ つぶより野菜",
-    excerpt: "国産野菜6種を使用し、食塩・砂糖・香料・保存料を使わずに仕上げた野菜ジュース。缶入り195g×15本。",
+    excerpt: "メーカー公式サイトでは食塩・砂糖は使用していないと記載されている野菜ジュース。195g×15本。",
     img: "https://m.media-amazon.com/images/I/61bgd2gibzL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B09HZ56WJ3?tag=hide0122-22",
     page: "product-kagome-tsubuyori-yasai-195g-15.html",
@@ -15704,7 +15704,7 @@ const RANKING_POOL = [
     page: "product-aniha-liquid-dental-water-additive-200ml.html",
   },
   {
-    name: "【正規品】Tick Twister ティックツイスター マダニ取り 大小2本組セット",
+    name: "【正規品】Tick Twister ティックツイスター マダニ取り",
     excerpt: "フランスの獣医外科医が開発したマダニ除去専用器具。クルクル回して外すタイプです。",
     img: "https://m.media-amazon.com/images/I/71EjRi5riUL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09D9LGMY9?tag=hide0122-22",
@@ -16635,8 +16635,8 @@ const RANKING_POOL = [
     page: "product-lion-clinica-advantage-whitening-toothpaste-130x3-floss.html",
   },
   {
-    name: "LISTERINE(リステリン) トータルケア ゼロプラス マウスウォッシュ 液体歯磨 低刺激 ノンアルコール クリーンミント味 1000ml+100mlセット",
-    excerpt: "アルコールを含まない低刺激処方の医薬部外品マウスウォッシュ（液体歯磨）。クリーンミント味で、1000mlの本体に携帯用100mlが付いたセットです。",
+    name: "LISTERINE(リステリン) トータルケア ゼロプラス マウスウォッシュ 液体歯磨 低刺激 ノンアルコール 1000ml+100mlセット",
+    excerpt: "アルコールを含まない低刺激処方の医薬部外品マウスウォッシュ（液体歯磨）。1000mlの本体に携帯用100mlが付いたセットです。",
     img: "https://m.media-amazon.com/images/I/714BPyqVvvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07K3F3XXB?tag=hide0122-22",
     page: "product-listerine-total-care-zero-plus-1000-100.html",
@@ -22126,7 +22126,7 @@ const RANKING_POOL = [
   },
   {
     name: "LISTERINE トータルケアゼロプラス 500ml",
-    excerpt: "ノンアルコールタイプのクリーンミント味。500mlのコンパクトサイズ。",
+    excerpt: "ノンアルコールタイプ。500mlのコンパクトサイズ。",
     img: "https://m.media-amazon.com/images/I/61jfl2BECnL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07GVFWGJT?tag=hide0122-22",
     page: "product-listerine-total-care-zero-plus-500ml.html",
