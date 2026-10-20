@@ -2136,7 +2136,7 @@ const RANKING_POOL = [
   },
   {
     name: "デンタアニマル 歯磨きジェル",
-    excerpt: "獣医師・薬剤師監修の犬猫用デンタルケアジェル。味を気に入って嫌がらず舐めてくれるという声が多くオーラルケア習慣化に役立つ。",
+    excerpt: "獣医師・薬剤師監修と記載された犬猫用の歯みがきジェル。",
     img: "https://m.media-amazon.com/images/I/71YdcfI9BqL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F1FF6TKW?tag=hide0122-22",
     page: "product-dentaanimal-pet-toothgel.html",
@@ -8963,7 +8963,7 @@ const RANKING_POOL = [
   },
   {
     name: "バスロマン 薬泉 あたため浴 600g",
-    excerpt: "温泉成分・生薬を独自配合したにごりタイプの薬用入浴剤。湯上がり後も温まり感が続くとされる粉末タイプ。",
+    excerpt: "粉末タイプのにごり入浴剤（医薬部外品）。香りは草花の香りと記載されています。",
     img: "https://m.media-amazon.com/images/I/81uF0WFu3VL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B095C211ZZ?tag=hide0122-22",
     page: "product-basuroman-atatameyoku-600g.html",
@@ -14158,7 +14158,7 @@ const RANKING_POOL = [
   },
   {
     name: "ヒルズ サイエンス・ダイエット ドッグフード 小型犬用 シニア 7歳以上 チキン 5kg 高齢犬用 ドライ",
-    excerpt: "7歳以上の小型犬向けシニア用フード。ナトリウム・リンを調整し関節ケア成分も配合。",
+    excerpt: "7歳以上の小型犬向けシニア用ドライフード。チキン味で、粒は小粒です。",
     img: "https://m.media-amazon.com/images/I/71+0wIsiopL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B081MPJM31?tag=hide0122-22",
     page: "product-hills-sciencediet-dog-senior-small-5kg.html",
@@ -15775,7 +15775,7 @@ const RANKING_POOL = [
   },
   {
     name: "CIAO（チャオ）ちゅ~る 下部尿路配慮 とりささみ 4本",
-    excerpt: "鶏ささみを使った液状の猫用おやつ。下部尿路の健康維持に配慮した設計とされる、4本入りのちゅ~るです。",
+    excerpt: "鶏ささみを使った液状の猫用おやつ。4本入りのちゅ~るです。",
     img: "https://m.media-amazon.com/images/I/61MeU7UO6MS._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B06XFVKCYS?tag=hide0122-22",
     page: "product-ciao-churu-urinary-torisasami-4pack.html",
@@ -16650,7 +16650,7 @@ const RANKING_POOL = [
   },
   {
     name: "システマ ハブラシ ふつう コンパクト4列 6本セット+ フロス付き 薄型ヘッド 超極細毛 歯ブラシ",
-    excerpt: "進化した薄型ヘッドと超極細毛を採用した、歯周病ケアをうたう歯ブラシ。ヘッドはコンパクトサイズの4列タイプで、毛のかたさはふつう、6本セットにフロス1本が付いています。ハンドルの色は選べません。",
+    excerpt: "薄型ヘッドと超極細毛を採用した歯ブラシ。ヘッドはコンパクトサイズの4列タイプで、毛のかたさはふつう、6本セットにフロス1本が付いています。ハンドルの色は選べません。",
     img: "https://m.media-amazon.com/images/I/81R0vCrIdUL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07XLS1V3S?tag=hide0122-22",
     page: "product-lion-systema-toothbrush-compact-4row-normal-6-floss.html",
@@ -17364,7 +17364,7 @@ const RANKING_POOL = [
   },
   {
     name: "アニハ 犬用歯磨きふりかけ 獣医師監修 個包装30包入 チキン＆かつおミックス味",
-    excerpt: "ごはんにふりかけて与える、粉末タイプの口腔ケア用フード。乳酸菌やオリゴ糖などを配合し、生後3か月の幼犬から使える個包装30包入りです。",
+    excerpt: "ごはんにふりかけて与える、粉末タイプの犬用ふりかけ。生後3か月の幼犬から使える個包装30包入りです。",
     img: "https://m.media-amazon.com/images/I/71jzo5gfhRL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DGLMBVVJ?tag=hide0122-22",
     page: "product-aniha-dog-dental-furikake-chicken-katsuo-30.html",
@@ -17469,14 +17469,14 @@ const RANKING_POOL = [
   },
   {
     name: "ビューティープロ キャットフード 下部尿路の健康維持 低脂肪 1歳から チキン味 1.4kg",
-    excerpt: "獣医師監修とうたう国産ドライフード。マグネシウムを調整し脂肪分を約20%カットしたチキン味で、280g×5袋の小分け包装です。",
+    excerpt: "国産のドライフード。チキン味の成猫用で、280g×5袋の小分け包装です。",
     img: "https://m.media-amazon.com/images/I/61tlsc54w7L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01N27NVZM?tag=hide0122-22",
     page: "product-beautypro-cat-urinary-lowfat-chicken-1-4kg.html",
   },
   {
     name: "健康缶 パウチ シニア猫用 エイジングケア 40g×12袋入り",
-    excerpt: "11歳ころからのシニア猫向けのまぐろペースト。リンとナトリウムを調整し、なめて食べられるレトルトパウチ12袋入りです。",
+    excerpt: "11歳ころからのシニア猫向けのまぐろペースト。なめて食べられるレトルトパウチ12袋入りです。",
     img: "https://m.media-amazon.com/images/I/81JFjOZEbOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00UHEST3Y?tag=hide0122-22",
     page: "product-kenkokan-pouch-senior-aging-care-40g12.html",
@@ -22139,15 +22139,15 @@ const RANKING_POOL = [
     page: "product-listerine-total-care-shishu-clear-1000-100.html",
   },
   {
-    name: "LISTERINE(リステリン) トータルケア ゼロプラス 超マイルド 1000ml+100mlセット マウスウォッシュ 液体歯磨 低刺激 ノンアルコール 超マイルドミント味 低刺激タイプ 医薬部外品",
-    excerpt: "トータルケアシリーズの超低刺激処方タイプ。クール感を抑えた穏やかなフレーバーでマウスウォッシュ初心者にも使いやすい。",
+    name: "LISTERINE(リステリン) トータルケア ゼロプラス 超マイルド 1000ml+100mlセット マウスウォッシュ 液体歯磨 ノンアルコール 超マイルドミント味 医薬部外品",
+    excerpt: "トータルケアシリーズのノンアルコールタイプ。クール感を抑えた超マイルドミント味で、1000mlに携帯用100mlが付いたセットです。",
     img: "https://m.media-amazon.com/images/I/718lHaVyHCL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HCM47FVP?tag=hide0122-22",
     page: "product-listerine-total-care-zero-plus-ultramild-1000-100.html",
   },
   {
-    name: "LISTERINE(リステリン) クールミント 1000ml×2個 マウスウォッシュ 殺菌 爽快 口臭 歯肉炎 予防 医薬部外品 薬用 ミント味 【まとめ買い】",
-    excerpt: "爽快感重視の定番タイプを1000ml×2本のまとめ買いパックにしたセット。強めの清涼感が続くミント味。",
+    name: "LISTERINE(リステリン) クールミント 1000ml×2個 マウスウォッシュ 医薬部外品 薬用 ミント味 【まとめ買い】",
+    excerpt: "ミント味のマウスウォッシュ（医薬部外品）を1000ml×2本のまとめ買いパックにしたセット。ストロングミント味と記載されています。",
     img: "https://m.media-amazon.com/images/I/71-sth82L6L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07XZC1QR3?tag=hide0122-22",
     page: "product-listerine-coolmint-1000ml-2set.html",
@@ -26067,7 +26067,7 @@ const RANKING_POOL = [
   },
   {
     name: "ライオン PETKISS 歯みがきジェル チキン風味 ペット用 単品 LIONPET",
-    excerpt: "ライオン PETKISS 歯みがきジェル チキン風味。犬・猫のどちらにも使えるジェルタイプ、食べられる成分と記載、外部使用のみ、刺激が続く場合は使用中止して獣医師に相談。",
+    excerpt: "ライオン PETKISS 歯みがきジェル チキン風味。犬・猫のどちらにも使えるジェルタイプ、食べられる成分と記載、すすぎ不要、刺激が続く場合は使用中止して獣医師に相談。",
     img: "https://m.media-amazon.com/images/I/71lO89aR+WL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B06XBT416D?tag=hide0122-22",
     page: "product-lion-petkiss-dental-gel-chicken-40g.html",
