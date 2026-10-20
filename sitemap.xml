@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-apple</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -57,7 +57,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-google</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -72,7 +72,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-koizumi</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -2742,7 +2742,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-smartphones</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -10127,7 +10127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -27962,7 +27962,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -29469,6 +29469,31 @@
   <url>
     <loc>https://gearnote.net/product-yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style</loc>
     <lastmod>2026-10-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-samsung-galaxy-z-fold8-512gb-graphite</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-apple-ipad-air-13-m4-128gb-starlight</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-google-pixel-watch-5-45mm-matte-black-wifi</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-ceramic-fan-heater-dsf-s123-w-human-sensor</loc>
+    <lastmod>2026-10-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-koizumi-steam-humidifier-khm-2061-c-personal-beige</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
