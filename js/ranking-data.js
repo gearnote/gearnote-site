@@ -841,7 +841,7 @@ const RANKING_POOL = [
   },
   {
     name: "カネヨ石鹸 薬用ハンドソープ 5L",
-    excerpt: "殺菌・消毒タイプの薬用ハンドソープ。シトラスの香りで大容量5L。",
+    excerpt: "薬用ハンドソープ。シトラスの香りで大容量5L。",
     img: "https://m.media-amazon.com/images/I/61pLBmYWDzL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H2GK76CF?tag=hide0122-22",
     page: "product-kaneyo-medicated-handsoap-citrus-5l.html",
@@ -4124,7 +4124,7 @@ const RANKING_POOL = [
   },
   {
     name: "ゴキジェットプロ 450ml",
-    excerpt: "家具の裏側や隙間に潜むゴキブリを速効退治するアース製薬の殺虫スプレー。",
+    excerpt: "家具の裏側や隙間に使うアース製薬のゴキブリ用殺虫スプレー。",
     img: "https://m.media-amazon.com/images/I/61aofy+-X4L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BPLNN4TN?tag=hide0122-22",
     page: "product-gokijet-pro-450ml.html",
@@ -7437,7 +7437,7 @@ const RANKING_POOL = [
   },
   {
     name: "ANUA PDRN100ヒアルロン酸カプセルセラムマスクパック 7枚入り",
-    excerpt: "PDRN・ヒアルロン酸・加水分解コラーゲン配合の水分グロウマスクパック",
+    excerpt: "PDRN・ヒアルロン酸・加水分解コラーゲン配合のシートマスクパック",
     img: "https://m.media-amazon.com/images/I/51YpbCN4iKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DSFSFN6P?tag=hide0122-22",
     page: "product-anua-pdrn-capsule-serum-mask-7.html",
@@ -7899,7 +7899,7 @@ const RANKING_POOL = [
   },
   {
     name: "カビキラー お風呂に置くだけ防カビジェル",
-    excerpt: "置くだけ・貼るだけで浴室のカビを予防するカートリッジ式ジェル。約6週間持続、本体+替え3個のセット。",
+    excerpt: "置くだけ・貼るだけで使うカートリッジ式の浴室用防カビジェル。交換の目安は約6週間、本体+替え3個のセット。",
     img: "https://m.media-amazon.com/images/I/81JCqMqxrxL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FPPXJ3YN?tag=hide0122-22",
     page: "product-kabikiller-antimold-gel-3p.html",
@@ -7934,7 +7934,7 @@ const RANKING_POOL = [
   },
   {
     name: "フマキラー おうちバリアスプレー 400ml",
-    excerpt: "玄関・網戸・室外機下など家の外周にあらかじめ噴霧するバリアスプレー。蚊・ハエ・ゴキブリ・マダニ・トコジラミに対応。",
+    excerpt: "玄関・網戸・室外機下など家の外周にあらかじめ噴霧するバリアスプレー。対象に蚊・ハエ・ゴキブリ・マダニ・トコジラミが記載されている。",
     img: "https://m.media-amazon.com/images/I/71XEcS1-LmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GHQLS73J?tag=hide0122-22",
     page: "product-fumakilla-ouchi-barrier-spray-400.html",
@@ -8774,7 +8774,7 @@ const RANKING_POOL = [
   },
   {
     name: "虫コナーズプレミアム ベランダ用 366日",
-    excerpt: "吊るすだけで366日効果が続くとされる無臭タイプの蚊除けネット。ベランダに設置して長期間使える予防型。",
+    excerpt: "吊るすだけで使える無臭タイプの蚊除けネット。使用期間の目安は366日とされ、ベランダに設置して使う吊り下げタイプ。",
     img: "https://m.media-amazon.com/images/I/81lkkKRRFZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CV3NP9CJ?tag=hide0122-22",
     page: "product-mushikonazu-premium-veranda-366days.html",
@@ -16552,7 +16552,7 @@ const RANKING_POOL = [
   },
   {
     name: "液体ブルーレットおくだけ プレミアムパフューム 水洗トイレ用 洗浄剤 フルールシャボン つけ替用 70ml×4個",
-    excerpt: "トイレタンクの上に置くだけの液体洗浄剤。流すたびに便器表面をコートし、汚れの付着を抑えるとされる洗浄・防汚成分を配合。香水調のフルールシャボンの香りで、つけ替用70ml×4個入りです。",
+    excerpt: "トイレタンクに設置する液体洗浄剤。香水調のフルールシャボンの香りで、つけ替用70ml×4個入りです。",
     img: "https://m.media-amazon.com/images/I/91cHXL5TXML._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B078H7ZGWL?tag=hide0122-22",
     page: "product-bluelet-okudake-premium-perfume-fleur-savon-70x4.html",
@@ -17329,7 +17329,7 @@ const RANKING_POOL = [
   },
   {
     name: "KINCHO クモがいなくなるスプレー 蜘蛛の巣 予防 ジェット 噴射 駆除 450mL",
-    excerpt: "クモの駆除・忌避と、クモの巣を張らせない造網阻止をうたうジェットタイプの殺虫スプレー。軒下や天井など手の届きにくい場所にも処理しやすく、屋内使用もできる旨が記載された450mLの無香料タイプです。",
+    excerpt: "クモ用のジェットタイプの殺虫スプレー。450mLの無香料タイプで、有効成分はピレスロイド（シフルトリン・トランスフルトリン）です。使用場所や使い方はパッケージの表示に従います。",
     img: "https://m.media-amazon.com/images/I/71I7P6VVWoL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B086LJTYX7?tag=hide0122-22",
     page: "product-kincho-kumo-ga-inakunaru-spray-450.html",
