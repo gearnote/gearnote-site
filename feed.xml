@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 20 Oct 2026 11:51:53 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 11:57:33 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -26,6 +26,13 @@
     <link>https://gearnote.net/brand-google</link>
     <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
     <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -78,6 +85,20 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>クリーンデンタルの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-clean-dental-total-care-toothpaste-100</link>
+    <guid isPermaLink="true">https://gearnote.net/product-clean-dental-total-care-toothpaste-100</guid>
+    <description>クリーンデンタル トータルケア 歯磨き粉の特徴を整理。メリット・デメリット、システマEX W・Ora2との比較、向き不向きをまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ミニオイルヒーター NJ0505E の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-mini-oil-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-mini-oil-heater</guid>
+    <description>De&#x27;Longhi(デロンギ) ミニオイルヒーター NJ0505Eの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>パナソニック エボルタNEO 単4形の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-panasonic-evolta-neo-aaa-28</link>
     <guid isPermaLink="true">https://gearnote.net/product-panasonic-evolta-neo-aaa-28</guid>
@@ -92,6 +113,13 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>サントリー 胡麻麦茶 トクホ 12本 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-suntory-goma-mugicha-tokuho-12</link>
+    <guid isPermaLink="true">https://gearnote.net/product-suntory-goma-mugicha-tokuho-12</guid>
+    <description>[トクホ] サントリー 胡麻麦茶 350ml×12本の特徴を整理。メリット・デメリット、向き不向きをまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>コクヨ キャンパスノート ドット入り罫線の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-kokuyo-campus-notebook-dot</link>
     <guid isPermaLink="true">https://gearnote.net/product-kokuyo-campus-notebook-dot</guid>
@@ -99,10 +127,24 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ヒルズ サイエンスダイエット ドッグフードの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hills-science-diet-dog-adult-12kg</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hills-science-diet-dog-adult-12kg</guid>
+    <description>ヒルズ サイエンスダイエット ドッグフード アダルト 1~6歳 小粒 チキン 12kgの特徴を整理。対象年齢、粒の大きさ、内容量、保存方法の注意をまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ペット用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-pets</link>
     <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
     <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>システマ EX メディカルクール 3個+フロス付き の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-systema-ex-medical-cool-toothpaste-3-floss</link>
+    <guid isPermaLink="true">https://gearnote.net/product-systema-ex-medical-cool-toothpaste-3-floss</guid>
+    <description>システマ EX ハミガキ メディカルクール 130g×3個＋フロス付きの特徴を整理。メリット・デメリット、向き不向きをまとめました。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -120,10 +162,45 @@
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ケイト スティックコンシーラーA の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kate-stick-concealer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kate-stick-concealer</guid>
+    <description>KATE(ケイト) スティックコンシーラーA ナチュラルベージュの特徴を整理。メリット・デメリット、向き不向きをまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>花王 サクセス 薬用育毛トニック の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kao-success-hair-tonic</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kao-success-hair-tonic</guid>
+    <description>サクセス 薬用育毛トニック 無香料 325gの仕様を整理。区分・成分名・容量・使い方・注意点をまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ORBIS クリア ウォッシュ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-orbis-clear-wash</link>
+    <guid isPermaLink="true">https://gearnote.net/product-orbis-clear-wash</guid>
+    <description>ORBIS（オルビス）クリア ウォッシュ 濃密泡 洗顔フォーム 120gの仕様を整理。内容量・香り・区分・使い方・注意点をまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファンケル ブライトニング乳液 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-fancl-brightening-emulsion</link>
+    <guid isPermaLink="true">https://gearnote.net/product-fancl-brightening-emulsion</guid>
+    <description>ファンケル ブライトニング 乳液 II しっとりの特徴を整理。メリット・デメリット、向き不向きをまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>トロピカーナ エッセンシャルズ マルチビタミンの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tropicana-essentials-multivitamin</link>
     <guid isPermaLink="true">https://gearnote.net/product-tropicana-essentials-multivitamin</guid>
     <description>トロピカーナ エッセンシャルズ マルチビタミン 330ml×12本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>サントリー 特水 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-suntory-tokusui-functional-water</link>
+    <guid isPermaLink="true">https://gearnote.net/product-suntory-tokusui-functional-water</guid>
+    <description>サントリー 特水 600ml×24本【機能性表示食品】の仕様を整理。内容量、原材料、栄養成分、保存方法をまとめました。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -278,83 +355,6 @@
     <link>https://gearnote.net/product-panasonic-evolta-neo-aa-28pack</link>
     <guid isPermaLink="true">https://gearnote.net/product-panasonic-evolta-neo-aa-28pack</guid>
     <description>パナソニック エボルタNEO 単3形 アルカリ乾電池 28本パック LR6NJA/28Sの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デュラセル オプティマム 単3形アルカリ乾電池の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-duracell-optimum-aa-alkaline-battery-8</link>
-    <guid isPermaLink="true">https://gearnote.net/product-duracell-optimum-aa-alkaline-battery-8</guid>
-    <description>デュラセル オプティマム 単3形アルカリ乾電池 8本入りの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KINCHO コンバット 蟻用 駆除剤の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kincho-combat-ant-bait-12</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kincho-combat-ant-bait-12</guid>
-    <description>KINCHO コンバット 蟻用 駆除剤 12個入の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>金鳥の渦巻 蚊取り線香 30巻 缶の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kincho-uzumaki-katorisenko-30</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kincho-uzumaki-katorisenko-30</guid>
-    <description>金鳥の渦巻 蚊取り線香 30巻 缶（防除用医薬部外品）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック 替えブラシ ドルツ EW0800-Kの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-doltz-ew0800-k-brushhead</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-doltz-ew0800-k-brushhead</guid>
-    <description>パナソニック 替えブラシ ドルツ 極細毛ブラシ コンパクト EW0800-K（2本組）の特徴を整理。対応機種、交換目安、メリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KINCHO 虫よけカオリング ブルー 30個入の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kincho-kaoring-mushiyoke-ring-30</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kincho-kaoring-mushiyoke-ring-30</guid>
-    <description>大日本除虫菊（KINCHO）虫よけカオリング ブルー 12時間持続 30個入の特徴を整理。殺虫成分不使用という性質、使いどころ、注意点をまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ ワインセラー 8本収納 25L PWC-251P-B の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-wine-cellar-pwc251p-b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-wine-cellar-pwc251p-b</guid>
-    <description>アイリスオーヤマ ワインセラー 8本収納 25L PWC-251P-Bの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ナビス ボディタオル 持ち手付き 7-4047-01 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-navis-body-towel-handle</link>
-    <guid isPermaLink="true">https://gearnote.net/product-navis-body-towel-handle</guid>
-    <description>ナビス ボディタオル 持ち手付き 7-4047-01 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アテント テープ止めタイプ Mサイズ 20枚 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-attento-tape-m-20</link>
-    <guid isPermaLink="true">https://gearnote.net/product-attento-tape-m-20</guid>
-    <description>アテント テープ止めタイプ Mサイズ 20枚 大人用紙おむつ の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マツヨシ 使い捨て手袋 ニトリルグローブ Mサイズ の商品情報｜GEARNOTE</title>
-    <link>https://gearnote.net/product-matsuyoshi-nitrile-gloves-m-100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-matsuyoshi-nitrile-gloves-m-100</guid>
-    <description>マツヨシ 使い捨て手袋 ニトリルグローブ Mサイズ 100枚入りの商品情報。材質、サイズ、厚さ、適合規格、入数をまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スケーター 木目すくいやすいプレート NPLS2 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-skater-sukuiyasui-plate-npls2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-skater-sukuiyasui-plate-npls2</guid>
-    <description>スケーター 木目すくいやすいプレート NPLS2 クリーム 日本製 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アサヒグループ食品 まんぷく日和 やわらかごはん の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-asahi-manpukubiyori-yawaraka-gohan</link>
-    <guid isPermaLink="true">https://gearnote.net/product-asahi-manpukubiyori-yawaraka-gohan</guid>
-    <description>アサヒグループ食品 まんぷく日和 やわらかごはん 150g×6個 介護食 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

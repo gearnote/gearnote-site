@@ -3823,7 +3823,7 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック ボディトリマー ER-NGKJ3-S",
-    excerpt: "VIO対応の充電式ボディシェーバー。長さ調整ができ、お風呂剃りにも対応。Amazon.co.jp限定モデル。",
+    excerpt: "充電式のボディトリマー。メーカーの仕様ページでは、長さそろえアタッチメントは3～12mm（1mm刻み）、防水設計で水洗い可と記載されています。",
     img: "https://m.media-amazon.com/images/I/51RRlK+oOpL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F2RJWGVJ?tag=hide0122-22",
     page: "product-panasonic-body-trimmer.html",
@@ -19527,7 +19527,7 @@ const RANKING_POOL = [
   },
   {
     name: "フィリップス オールインワントリマー 3000シリーズ MG3921/15",
-    excerpt: "ヘア・ボディ・耳鼻毛・VIOまで使えるアタッチメント10種の充電式トリマー。0.5mm単位で長さを調整できる調節式コーム付き。",
+    excerpt: "12種類のアタッチメントが付属する充電式オールインワントリマー。メーカーのページでは、長さ調節は0.5～16mmと記載されています。",
     img: "https://m.media-amazon.com/images/I/71k8DTNmVyL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FQW4KWRD?tag=hide0122-22",
     page: "product-philips-allinone-trimmer-mg3921.html",
