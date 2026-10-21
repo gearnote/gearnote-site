@@ -3704,7 +3704,7 @@ const RANKING_POOL = [
   },
   {
     name: "デロンギ ダブルウォールグラス",
-    excerpt: "190ml（満水時270ml）の二重構造グラス。保温保冷性が高く、コーヒーの層が美しく見えるデザイン。",
+    excerpt: "190ml（満水時270ml）の二重構造グラス。2個セットで、仕様欄に二重構造による保温保冷性が記載されています。",
     img: "https://m.media-amazon.com/images/I/61xLTH+gbsL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00AENUZLM?tag=hide0122-22",
     page: "product-delonghi-double-wall-glass.html",
@@ -5084,7 +5084,7 @@ const RANKING_POOL = [
   },
   {
     name: "UGREEN USB Type C ケーブル 100W 1m",
-    excerpt: "VGP2026受賞の高耐久ケーブル。ノートPCの急速充電もこれ一本。",
+    excerpt: "VGP2026受賞と記載されたUSB-Cケーブル。ノートPCの急速充電もこれ一本。",
     img: "https://m.media-amazon.com/images/I/61DgZxJhEZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07V78HMDQ?tag=hide0122-22",
     page: "product-ugreen-usbc-cable-100w-1m.html",
@@ -5939,7 +5939,7 @@ const RANKING_POOL = [
   },
   {
     name: "TheFitLife トレッキングポール 折畳み登山ストック 2本セット",
-    excerpt: "軽量アルミ製の折りたたみ式トレッキングポール2本セット。レバーロック式で長さ調整が簡単、折りたたみ時約36cmとコンパク",
+    excerpt: "アルミ合金製の折りたたみ式トレッキングポール2本セット。レバーロック式で、収納サイズは約36cm。",
     img: "https://m.media-amazon.com/images/I/71yFf+olWNL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BSC49M24?tag=hide0122-22",
     page: "product-thefitlife-trekking-pole-2set.html",
@@ -9902,7 +9902,7 @@ const RANKING_POOL = [
   },
   {
     name: "SMRG 自転車ヘルメット SR-SEH",
-    excerpt: "SG認証を取得した軽量な自転車ヘルメット。",
+    excerpt: "SG認証を取得した自転車ヘルメット。",
     img: "https://m.media-amazon.com/images/I/61ZdL+6tfvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FCLV63QK?tag=hide0122-22",
     page: "product-smrg-road-helmet-sr-seh.html",
@@ -11512,7 +11512,7 @@ const RANKING_POOL = [
   },
   {
     name: "TORINOX 偏光サングラス ベーシック",
-    excerpt: "偏光レンズとUV400カットを備えた軽量なウェリントン型サングラス",
+    excerpt: "偏光レンズとUV400カットを備えたウェリントン型サングラス",
     img: "https://m.media-amazon.com/images/I/51WG8Dv9v9L._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D1CVYRKX?tag=hide0122-22",
     page: "product-torinox-polarized-sunglasses.html",
@@ -13024,7 +13024,7 @@ const RANKING_POOL = [
   },
   {
     name: "シルフィーズ 掛け布団カバー シングル ロング 綿100% 150×210cm ピンク",
-    excerpt: "肌にやさしい綿100%素材の掛け布団カバー。内部8箇所のスナップボタンでズレを防止し、全開ファスナーで布団の出し入れがしやすい。",
+    excerpt: "綿100%素材の掛け布団カバー。内部8箇所のスナップボタンでズレを防止し、全開ファスナーで布団の出し入れがしやすい。",
     img: "https://m.media-amazon.com/images/I/61Rrd-pcRRL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B09BYT3JCN?tag=hide0122-22",
     page: "product-sylphease-comforter-cover.html",
@@ -14109,7 +14109,7 @@ const RANKING_POOL = [
   },
   {
     name: "Vanjua グルーミングコーム 猫用 犬用 ノミ取りコーム 1本 ステンレス製 全長18cm",
-    excerpt: "歯の間隔約0.1cmのステンレス製ノミ取りコーム。丸型先端で皮膚に配慮した設計。",
+    excerpt: "歯の間隔約0.1cm、先端が丸型のステンレス製ノミ取りコーム。全長18cm。",
     img: "https://m.media-amazon.com/images/I/71udTn6F9iL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HHCGX3F1?tag=hide0122-22",
     page: "product-vanjua-flea-comb-stainless-18cm.html",
@@ -14627,7 +14627,7 @@ const RANKING_POOL = [
   },
   {
     name: "マリーゴールド キッチン用グローブ M",
-    excerpt: "天然ゴムとニトリルゴムを組み合わせたキッチン用手袋。コットン裏地で装着感に配慮した設計。",
+    excerpt: "天然ゴムとニトリルゴムを組み合わせたキッチン用手袋。裏地は綿（植毛）。",
     img: "https://m.media-amazon.com/images/I/41-tVVe92GL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00OH02UT8?tag=hide0122-22",
     page: "product-marigold-kitchen-gloves-m.html",
@@ -14641,7 +14641,7 @@ const RANKING_POOL = [
   },
   {
     name: "東洋佐々木ガラス ビヤーグラス310ml",
-    excerpt: "日本製のビール専用形状グラス。容量約310mlで缶ビール1本分を飲みきりやすいサイズ。",
+    excerpt: "日本製のビール専用形状グラス。容量は約310ml。",
     img: "https://m.media-amazon.com/images/I/61Ktr9I23dL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07BT5LXYD?tag=hide0122-22",
     page: "product-toyo-sasaki-beer-glass-310ml-ajiwai.html",
@@ -21370,7 +21370,7 @@ const RANKING_POOL = [
   },
   {
     name: "SOUNDPEATS Air6 HS インナーイヤー型",
-    excerpt: "半入耳式の軽量インナーイヤー型イヤホン。片耳約0.4g、13mmトリプルマグネットドライバー、最大45時間再生。",
+    excerpt: "半入耳式のインナーイヤー型イヤホン。13mmトリプルマグネットドライバー、ケース込み最大45時間再生。",
     img: "https://m.media-amazon.com/images/I/51NP6EKG0OL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0G4MHVNSB?tag=hide0122-22",
     page: "product-soundpeats-air6-hs.html",
