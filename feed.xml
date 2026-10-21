@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 20 Oct 2026 13:16:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 07:29:51 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -75,6 +75,13 @@
     <link>https://gearnote.net/brand-skii</link>
     <guid isPermaLink="true">https://gearnote.net/brand-skii</guid>
     <description>SK-IIの化粧水・美容液の特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
+    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/ranking-toothpaste</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-toothpaste</guid>
     <description>システマEX W・クリーンデンタル・Ora2を比較。各商品の区分・内容量・セット内容をもとに、歯磨き粉を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キャットフードおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cat-food</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cat-food</guid>
-    <description>ピュリナワン・ニュートロ・カルカンを徹底比較。各商品の特徴をもとに、食いつき・匂いの観点からおすすめのキャットフードを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
