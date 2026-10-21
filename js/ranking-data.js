@@ -1674,7 +1674,7 @@ const RANKING_POOL = [
   },
   {
     name: "Amazonベーシック ヨガマット",
-    excerpt: "しっかりとした厚みで膝や肘が痛くなりにくいヨガマット。適度な弾力でポーズも取りやすくキャリーストラップ付きで持ち運びも簡単。",
+    excerpt: "厚め12mmで、キャリーストラップが付いたヨガマットです。",
     img: "https://m.media-amazon.com/images/I/614WulLW5zL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01LP0U5X0?tag=hide0122-22",
     page: "product-amazonbasics-yoga-mat-12mm.html",
@@ -2248,7 +2248,7 @@ const RANKING_POOL = [
   },
   {
     name: "アヴィレックス リュック AVX593",
-    excerpt: "たっぷり入るボックス型リュック。背面メッシュでムレを軽減、PC収納も可能でタウンユースから通勤まで幅広く使える。",
+    excerpt: "ボックス型のリュック。素材はポリエステル×ターポリン、ポケット6箇所（外側3/内側3）でPC収納可と記載されています。",
     img: "https://m.media-amazon.com/images/I/618D3QngHcL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B079Z3DYYT?tag=hide0122-22",
     page: "product-avirex-backpack-avx593.html",
@@ -2311,7 +2311,7 @@ const RANKING_POOL = [
   },
   {
     name: "ALLOUT パワーグリップ プロ",
-    excerpt: "滑らないグリップ力を発揮するトレーニング用リストラップ。デッドリフトやラットプルダウンで握力を気にせず追い込める。",
+    excerpt: "材質はゴム、用途はパワーリフティング用グリップと記載された、トレーニング用のパワーグリップです（正規品、XLサイズ、オレンジ）。",
     img: "https://m.media-amazon.com/images/I/71mH4T1p9eL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07QYRF17Z?tag=hide0122-22",
     page: "product-allout-power-grip-pro.html",
@@ -5645,7 +5645,7 @@ const RANKING_POOL = [
   },
   {
     name: "Lamicall フック付きスマホ三脚スタンド",
-    excerpt: "スタンド・三脚・自撮り棒・フックの4役をこなす折りたたみ式。MagSafe対応で片手着脱可能。",
+    excerpt: "スタンド・三脚・自撮り棒・フックの4役の折りたたみ式。MagSafe対応の内蔵磁石と付属メタルリングで固定します。",
     img: "https://m.media-amazon.com/images/I/61pWO72PgmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FPX988DG?tag=hide0122-22",
     page: "product-lamicall-foldable-tripod-hook-magsafe.html",
@@ -5946,7 +5946,7 @@ const RANKING_POOL = [
   },
   {
     name: "APEGG 登山用カラビナ 6個セット S字型",
-    excerpt: "高硬度アルミ合金製のS字カラビナ6個セット。耐荷重30kgで防サビ加工が施されており、キャンプ・登山でのギアの吊り下げや",
+    excerpt: "高硬度アルミ合金製のS字カラビナ6個セット。仕様欄の耐荷重は30kgで、カラーはブラックです。",
     img: "https://m.media-amazon.com/images/I/712G199q8iL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DZXJ9RK5?tag=hide0122-22",
     page: "product-apegg-carabiner-6set.html",
@@ -8060,7 +8060,7 @@ const RANKING_POOL = [
   },
   {
     name: "藤栄 干し分けランドリー アルミハンガー 40ピンチ",
-    excerpt: "40個のピンチが付いたアルミ製の角ハンガー。ドアフック付きで室内干しにも対応し、折り畳んで省スペースに収納できる。",
+    excerpt: "40個のピンチが付いた角ハンガー。取り付けタイプはドアマウントで、折り畳み式。",
     img: "https://m.media-amazon.com/images/I/515gOPP-uDL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DBL2H84H?tag=hide0122-22",
     page: "product-fujiei-hoshiwake-aluminum-hanger-40pinch.html",
@@ -9320,7 +9320,7 @@ const RANKING_POOL = [
   },
   {
     name: "フード付きベビーバスローブ 6重ガーゼ",
-    excerpt: "お風呂上がりの赤ちゃんをすっぽり包めるフード付きのバスローブ。6重ガーゼ素材で、フードの内側もガーゼ素材のため髪の水分も吸収しやすい。",
+    excerpt: "お風呂上がりの赤ちゃん向けのフード付きバスローブ。素材はコットン（6重ガーゼ）で、仕様欄に超吸水性と記載されています。",
     img: "https://m.media-amazon.com/images/I/916Z19+81pL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B09HM1KDLL?tag=hide0122-22",
     page: "product-angerolux-hooded-baby-bathrobe.html",
@@ -9958,7 +9958,7 @@ const RANKING_POOL = [
   },
   {
     name: "ALLOUT リストラップ",
-    excerpt: "高重量トレーニング時の手首の安定を目的とした、エラスティック素材配合のリストラップです。",
+    excerpt: "手・手首用のリストラップ。素材はポリエステル（エラスティック素材20％配合）で、18インチと24インチのサイズがあります。",
     img: "https://m.media-amazon.com/images/I/71xHNlGM0PL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CXPS3XSS?tag=hide0122-22",
     page: "product-allout-wrist-wrap.html",
@@ -10679,7 +10679,7 @@ const RANKING_POOL = [
   },
   {
     name: "Bassdash(バスダッシュ) ASTRO フィッシンググローブ",
-    excerpt: "指先をカットしたデザインで、細かい作業をしながらグリップ力と紫外線対策を両立するフィッシンググローブです。",
+    excerpt: "指先をカットしたデザインで、UVカット対応（甲側生地）と記載されたフィッシンググローブです。",
     img: "https://m.media-amazon.com/images/I/81Wj96ZGPHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08ZSBKZ4H?tag=hide0122-22",
     page: "product-bassdash-astro-fishing-glove.html",
@@ -10812,7 +10812,7 @@ const RANKING_POOL = [
   },
   {
     name: "アデリア(ADERIA) ワイングラス 180ml Aライン 6個セット 日本製 L-6830",
-    excerpt: "太足で安定感のある日本製ワイングラス180ml、6個セット。",
+    excerpt: "日本製のガラス製ワイングラス、容量約180ml、6個セット。",
     img: "https://m.media-amazon.com/images/I/61q0CYXE5nL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00OAXF6GG?tag=hide0122-22",
     page: "product-aderia-a-line-wine-glass-180ml-6set.html",
@@ -12037,7 +12037,7 @@ const RANKING_POOL = [
   },
   {
     name: "LAMY サファリ 万年筆(F・黒)",
-    excerpt: "ドイツ発の定番万年筆。持ち方が自然に身につくグリップと丈夫なボディ。",
+    excerpt: "細字（F）・ブラックの万年筆。カートリッジ・コンバーター両用式で、正規輸入品です。",
     img: "https://m.media-amazon.com/images/I/51GeQUw5HRL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B000KL7RJG?tag=hide0122-22",
     page: "product-lamy-safari-fountainpen-f-black.html",
@@ -12667,7 +12667,7 @@ const RANKING_POOL = [
   },
   {
     name: "福猫物語 エアネスト 猫用ハーネス S",
-    excerpt: "最大3mまで伸縮するリード付きの猫用ハーネス。バックル固定タイプです。",
+    excerpt: "伸縮リードが付属した猫用ハーネス。留め具はバックルです。",
     img: "https://m.media-amazon.com/images/I/71yDJTYZ1WL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FLXXLV1V?tag=hide0122-22",
     page: "product-fukunekomonogatari-airnest-harness-cat-s.html",
@@ -13031,7 +13031,7 @@ const RANKING_POOL = [
   },
   {
     name: "クモリ(Kumori) 洗える ラグ 軽量 185x185cm フランネル 滑り止め付き",
-    excerpt: "なめらかなフランネル素材を使用した正方形ラグ。裏面滑り止め加工で床の上でもズレにくく、ホットカーペットや床暖房にも対応する。",
+    excerpt: "フランネル素材を使用した185×185cmの正方形ラグ。裏地に滑り止め加工があり、ホットカーペット対応と記載されています。",
     img: "https://m.media-amazon.com/images/I/51PgUuMAeCL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GHNZ7D4H?tag=hide0122-22",
     page: "product-kumori-rug-185.html",
@@ -13122,7 +13122,7 @@ const RANKING_POOL = [
   },
   {
     name: "GAONA(ガオナ) これカモ ドレンホース エアコン用 4.0m (長さ調節可能 取替・延長用 取付簡単) GA-KW013",
-    excerpt: "エアコンの排水に使うドレンホースの取替・延長用アイテム。長さ調節が可能で、日本製・ポリエチレン製の4.0mタイプ。",
+    excerpt: "エアコンの排水に使うドレンホースの取替・延長用アイテム。生産国は日本、ポリエチレン製の4.0mタイプ。",
     img: "https://m.media-amazon.com/images/I/61Q0TZphTlL._AC_SY450_.jpg",
     link: "https://www.amazon.co.jp/dp/B01MRHJXLD?tag=hide0122-22",
     page: "product-gaona-drain-hose-40m.html",
@@ -13612,7 +13612,7 @@ const RANKING_POOL = [
   },
   {
     name: "ベビーカー用バッグ オーガナイザー",
-    excerpt: "ほとんどのベビーカーに取り付けられる収納バッグ。2つのドリンクホルダーと取り外し可能なポーチ、メッシュポケットを備えた多機能タイプ。",
+    excerpt: "ドリンクホルダー2つ、メッシュポケット、取り外し可能なポーチを備えたベビーカー用バッグ。素材はポリエステルと記載されています。",
     img: "https://m.media-amazon.com/images/I/81Vvp8ZZGLL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B06XBYQN5K?tag=hide0122-22",
     page: "product-activewinner-stroller-organizer-bag.html",
@@ -14102,7 +14102,7 @@ const RANKING_POOL = [
   },
   {
     name: "デンタルトイ ティーザー 犬用おもちゃ 歯磨きおもちゃ L ベーコンフレーバー（ハーツ/チューデント）",
-    excerpt: "おにぎり型で噛んで遊べる歯磨きおもちゃ。ベーコンフレーバー付きの中大型犬向けLサイズ。",
+    excerpt: "ベーコンフレーバー付きの犬用歯磨きおもちゃ。Lサイズ（12~20kg向け）。",
     img: "https://m.media-amazon.com/images/I/81ZQ5R87DHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B001APIX1W?tag=hide0122-22",
     page: "product-hartz-dental-toy-teaser-l-bacon.html",
@@ -14529,7 +14529,7 @@ const RANKING_POOL = [
   },
   {
     name: "ラストロウェア 弁当箱イージーケア ランチボックススリム800ml",
-    excerpt: "パッキンと吸気弁をフタに一体化した1段スリムタイプの弁当箱。食洗機・電子レンジ対応で通勤・通学の毎日使いに。",
+    excerpt: "パッキン一体型の1段スリムタイプの弁当箱（容量800ml）。食洗機・電子レンジに対応します（本体・中仕切）。",
     img: "https://m.media-amazon.com/images/I/51tIPvWl-YL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DP6BGXCB?tag=hide0122-22",
     page: "product-iwasaki-rustorware-lunchbox-slim-800ml-dark-gray.html",
@@ -14872,7 +14872,7 @@ const RANKING_POOL = [
   },
   {
     name: "インセント(Incent) 吉野ひのき エッセンシャルオイル 10ml",
-    excerpt: "AEAJ表示基準適合認定精油の国産ヒノキ精油。紀伊産のひのきを水蒸気蒸留法で抽出した100%天然オイルです。",
+    excerpt: "AEAJ表示基準適合認定精油の国産ヒノキ精油。原産国は日本（紀伊）で、木部を水蒸気蒸留法で抽出したオイルです。",
     img: "https://m.media-amazon.com/images/I/61g5iVTePwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0065UZF2C?tag=hide0122-22",
     page: "product-incent-yoshino-hinoki-oil.html",
@@ -15068,7 +15068,7 @@ const RANKING_POOL = [
   },
   {
     name: "JACO ElitePro デジタルタイヤ空気圧ゲージ 100PSI",
-    excerpt: "工業用ANSIグレード2A規格に校正されたデジタルタイヤ空気圧ゲージ。",
+    excerpt: "ASMEグレード2A規格（±0.50%フルスケール）の校正精度を持つデジタルタイヤ空気圧ゲージ。",
     img: "https://m.media-amazon.com/images/I/61u9AtYCrDL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07VV78RZ1?tag=hide0122-22",
     page: "product-jaco-elitepro-digital-tire-gauge.html",
@@ -15782,7 +15782,7 @@ const RANKING_POOL = [
   },
   {
     name: "いなばペットフード 焼かつお 15本入り 高齢猫用 本格だしミックス味",
-    excerpt: "新鮮な宗田鰹をじっくり焼き上げ、かつお節エキスと煮干しエキスをミックスした高齢猫向けのやわらかい焼きかつおスナックです。",
+    excerpt: "かつお節エキスと煮干しエキスの本格だしミックス味の、高齢猫用の焼かつおスナックです。",
     img: "https://m.media-amazon.com/images/I/61UjnzAIKmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0836MDBGH?tag=hide0122-22",
     page: "product-inaba-yakikatsuo-senior-cat-15.html",
@@ -15796,14 +15796,14 @@ const RANKING_POOL = [
   },
   {
     name: "Jolly Pets（ジョリーペッツ）犬用 ジョリー サッカーボール 6インチ（15.2cm）",
-    excerpt: "穴が開いても潰れにくい特殊素材「Jolly Flex」を使用したサッカーボール型おもちゃ。水に浮くため屋外や水遊びにも使える設計です。",
+    excerpt: "天然ゴム（Jolly Flex素材）を使用したサッカーボール型の犬用おもちゃ。穴が開いても空気が抜けにくい構造で、屋内・屋外・水遊びに対応します（仕様表）。",
     img: "https://m.media-amazon.com/images/I/71hQ4CgSzAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01EMSVVIK?tag=hide0122-22",
     page: "product-jollypets-soccerball-15cm.html",
   },
   {
     name: "Hyper Pet オリジナルグラブタブ ドッグサッカーボール ストラップ付き（12.7cm）",
-    excerpt: "ボールの縫い目にナイロンタブが縫い付けられたサッカーボール型おもちゃ。タブとハンドルにより予測できない跳ね方をし、フェッチ遊びを盛り上げます。",
+    excerpt: "ボールの縫い目にナイロンタブが縫い付けられたサッカーボール型おもちゃ。ナイロン製グラブタブとハンドルが付いています。",
     img: "https://m.media-amazon.com/images/I/71ZuWgSnHkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08H4BQC8W?tag=hide0122-22",
     page: "product-hyperpet-grabtabs-soccerball.html",
@@ -15985,7 +15985,7 @@ const RANKING_POOL = [
   },
   {
     name: "FieldNew 虫取り網 直径30cm/網目1mm 5段伸縮",
-    excerpt: "網目1mmで小さな虫も逃しにくい、5段伸縮式の虫取り網。網枠は三つ折り、コンパクトに収納できる。",
+    excerpt: "網目1mm、5段伸縮式の折りたたみ式虫取り網。収納時のロッドの長さは41cmです。",
     img: "https://m.media-amazon.com/images/I/71XZPRbmfuL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CZNHPT5C?tag=hide0122-22",
     page: "product-fieldnew-mushitori-net.html",
@@ -16048,7 +16048,7 @@ const RANKING_POOL = [
   },
   {
     name: "HOMEhome ベビーカー レインカバー A型 B型 防水 防寒 防風 ユニバーサルサイズ 収納ポーチ付き（ブラック）",
-    excerpt: "A型・B型ベビーカーに対応する軽量レインカバー。大きなクリアウィンドウと防水ファスナー付き。",
+    excerpt: "A型・B型ベビーカーに対応するレインカバー（ユニバーサルフィット）。EVA素材で、収納ポーチが付属します。",
     img: "https://m.media-amazon.com/images/I/612-dnGC39L._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CK2BG7T2?tag=hide0122-22",
     page: "product-homehome-stroller-raincover.html",
@@ -17609,7 +17609,7 @@ const RANKING_POOL = [
   },
   {
     name: "ここねこ本舗 猫 首輪 安全 セーフティー 鈴付き 和柄 軽い 調整可能 日本製 ハンドメイド 春爛漫・紺",
-    excerpt: "京都産ちりめん紐を使った、鈴付きの猫用首輪。重さが加わると外れるセーフティクリップ付きで、約10〜30cmまで調整できる日本製ハンドメイドです。",
+    excerpt: "ちりめん紐を使った、鈴付きの猫用首輪。重さが加わると外れるセーフティクリップ付きで、約10〜30cmまで調整できる日本製ハンドメイドです。",
     img: "https://m.media-amazon.com/images/I/515Ymqrtm0L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09SZ2R6HM?tag=hide0122-22",
     page: "product-kokoneko-honpo-cat-safety-collar-bell-wagara.html",
@@ -18988,7 +18988,7 @@ const RANKING_POOL = [
   },
   {
     name: "【国内正規品】エアロプレス(AeroPress) 本体 エアロプレスオリジナル コーヒーメーカー フィルター付 圧力抽出",
-    excerpt: "空気圧で押し出して抽出する、割れにくいポリプロピレン製の手動コーヒーメーカー。フィルター付きで、幅11.2×高さ19.4cm・約300g",
+    excerpt: "圧力抽出式の、ポリプロピレン製の手動コーヒーメーカー。フィルター付きで、幅11.2×高さ19.4cm・約300g",
     img: "https://m.media-amazon.com/images/I/51bibnwkSNL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C13M12JY?tag=hide0122-22",
     page: "product-aeropress-original-coffee-maker.html",
@@ -19849,7 +19849,7 @@ const RANKING_POOL = [
   },
   {
     name: "不二貿易 座椅子 コンパクト 幅42cm ブラック 軽量 42段ギア リクライニング ふわもこ フロアチェア 38147",
-    excerpt: "幅42cmのコンパクトなふわもこ座椅子。国産KOYOの42段ギアでリクライニングでき、本体約3kg・耐荷重80kg",
+    excerpt: "幅42cmのふわもこ座椅子。42段ギア（KOYO製）でリクライニングでき、本体約3kg・耐荷重80kg",
     img: "https://m.media-amazon.com/images/I/51WKLGW2nOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07NHKPGMB?tag=hide0122-22",
     page: "product-fujiboeki-floor-chair-compact-42gear-38147.html",
@@ -21258,7 +21258,7 @@ const RANKING_POOL = [
   },
   {
     name: "Fanttik X8 APEX 電動空気入れ",
-    excerpt: "最大150PSI対応のコードレス電動空気入れ。誤差±1PSIの高精度測定。",
+    excerpt: "最大150PSI対応のコードレス電動空気入れ。連続使用時間は最大40分。",
     img: "https://m.media-amazon.com/images/I/71o8dPDBZcL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09YD2D96V?tag=hide0122-22",
     page: "product-fanttik-x8-apex-electric-air-pump.html",
@@ -21979,7 +21979,7 @@ const RANKING_POOL = [
   },
   {
     name: "ファブリーズ トイレ用消臭芳香剤 シャボン",
-    excerpt: "壁や天井まで防臭コートするトイレ用の置き型消臭芳香剤。約8週間持続。",
+    excerpt: "オイル（置き型）タイプのトイレ用消臭芳香剤。香りの持続期間は約8週間。",
     img: "https://m.media-amazon.com/images/I/81fzHdYZohL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FJLTC7L8?tag=hide0122-22",
     page: "product-febreze-toilet-deodorizer-shabon.html",
@@ -22238,7 +22238,7 @@ const RANKING_POOL = [
   },
   {
     name: "Lamicall 超コンパクト ノートパソコンスタンド",
-    excerpt: "スマホ・タブレット・ノートパソコンに対応するX字型の多機能アルミスタンド。折りたたみサイズ17.7×4cm、重量113g。",
+    excerpt: "タブレット・ノートパソコンに対応する折りたたみ式のアルミ合金スタンド。折りたたみサイズ17.7×4cm、重量約113g。",
     img: "https://m.media-amazon.com/images/I/61DJS8NoGSL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GX68JTM5?tag=hide0122-22",
     page: "product-lamicall-laptop-stand-foldable.html",
@@ -25563,7 +25563,7 @@ const RANKING_POOL = [
   },
   {
     name: "【国内正規品】FOREO LUNA 4 mini フォレオ ルナ4 ミニ スマートクレンジングデバイス 美顔器 電動洗顔ブラシ シリコーン製 (パールピンク)",
-    excerpt: "FOREO LUNA 4 mini（パールピンク）。シリコーン製の2ゾーンブラシヘッド、T-SONIC音波振動・12段階の強さ調節、30秒クイックモード、防水、充電式、質量0.09kg。洗顔用の機器であり、肌への効果を示すものではありません。",
+    excerpt: "FOREO LUNA 4 mini（パールピンク）。シリコーン製の2ゾーンブラシヘッド、T-SONIC音波振動・12段階の強さ調節、30秒グローブーストモード、防水、充電式、質量0.09kg。洗顔用の機器であり、肌への効果を示すものではありません。",
     img: "https://m.media-amazon.com/images/I/719bsSmpzhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BFJHB8G9?tag=hide0122-22",
     page: "product-foreo-luna-4-mini-pearl-pink-f1306.html",
