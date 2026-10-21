@@ -16818,7 +16818,7 @@ const RANKING_POOL = [
   },
   {
     name: "BODUM ボダム コーヒーメーカー コーヒープレス CHAMBORD シャンボール フレンチプレス コーヒーメーカー 350ml シルバー ステンレスフィルター ガラスビーカー 浸漬式 コーヒー 【正規品】 1923-16",
-    excerpt: "耐熱ガラスと金属フレームのクラシックなデザインが特徴のフレンチプレス。350mlで、ステンレスフィルターを使う浸漬式のコーヒーメーカー。",
+    excerpt: "本体が耐熱ガラスのフレンチプレス。350mlで、ステンレスフィルターを使う浸漬式のコーヒーメーカー。",
     img: "https://m.media-amazon.com/images/I/61aSC1lAonL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0051OOM68?tag=hide0122-22",
     page: "product-bodum-chambord-french-press-350ml.html",
