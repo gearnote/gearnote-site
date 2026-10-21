@@ -21111,7 +21111,7 @@ const RANKING_POOL = [
   },
   {
     name: "バンスクリップ SM 植物由来の樹脂 セルロースアセテート 小さめでもしっかりとまる ブラウンブルー",
-    excerpt: "明治13年創業のかんざしメーカーの流れをくむブランドのバンスクリップ。セルロースアセテート製のSMサイズで、重さは11gです。",
+    excerpt: "ブランド「美人髪KOEIDO」のバンスクリップ。セルロースアセテート製のSMサイズで、重さは11gです。",
     img: "https://m.media-amazon.com/images/I/71JHXd+qebL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DXF4JGD5?tag=hide0122-22",
     page: "product-koeido-acetate-banana-clip-sm.html",
