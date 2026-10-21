@@ -6051,7 +6051,7 @@ const RANKING_POOL = [
   },
   {
     name: "ゴメクサス(Gomexus) R4 リールスタンド 48mm",
-    excerpt: "ダイワ・シマノ製スピニングリールに対応した軽量リールスタンド。リールやロッドの傷防止と見た目のカスタムを両",
+    excerpt: "ダイワ・シマノ製スピニングリールに対応したリールスタンド。リールやロッドの傷防止と見た目のカスタムを両",
     img: "https://m.media-amazon.com/images/I/61GYSw1n7BL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0824SC66Y?tag=hide0122-22",
     page: "product-gomexus-r4-reel-stand-48mm.html",
@@ -6072,7 +6072,7 @@ const RANKING_POOL = [
   },
   {
     name: "GEX(ジェックス) ラビレット ヒノキア消臭砂 7.5L",
-    excerpt: "トイレに流せるヒノキ素材の消臭砂。",
+    excerpt: "トイレに流せる小動物用の消臭砂。",
     img: "https://m.media-amazon.com/images/I/81m5znaqYYL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CYZ2YKSJ?tag=hide0122-22",
     page: "product-gex-rabbitto-hinokia-toilet-sand.html",
@@ -7444,7 +7444,7 @@ const RANKING_POOL = [
   },
   {
     name: "ビオルチア Bio Lucia アイラッシュセラム まつ毛美容液 6mL",
-    excerpt: "日本製まつ毛美容液。チップ&スクリューブラシの2WAYでまつ毛・眉毛・涙袋に使用可",
+    excerpt: "まつ毛美容液。チップ&スクリューブラシの2WAYでまつ毛・眉毛・涙袋に使用可",
     img: "https://m.media-amazon.com/images/I/61G6DRg97FL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CK165RK2?tag=hide0122-22",
     page: "product-biolucia-eyelash-serum-6ml.html",
@@ -12317,7 +12317,7 @@ const RANKING_POOL = [
   },
   {
     name: "HyperX Cloud Stinger 2 Core",
-    excerpt: "約266gの軽量設計を採用した有線ゲーミングヘッドセット。DTS Headphone:X空間オーディオとスイングミュ...",
+    excerpt: "質量約266gの有線ゲーミングヘッドセット。DTS Headphone:X空間オーディオとスイングミュ...",
     img: "https://m.media-amazon.com/images/I/712K0Qq4iQL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BCFKG49M?tag=hide0122-22",
     page: "product-hyperx-cloud-stinger-2-core.html",
@@ -12842,7 +12842,7 @@ const RANKING_POOL = [
   },
   {
     name: "goodr OGシリーズ スポーツサングラス",
-    excerpt: "偏光レンズとUV400カットを備えた軽量約21gのスポーツサングラスです。",
+    excerpt: "偏光レンズとUV400カットを備えた約21gのスポーツサングラスです。",
     img: "https://m.media-amazon.com/images/I/31tJqVGOosL._AC_SX679_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D7X6R7NF?tag=hide0122-22",
     page: "product-goodr-og-sports-sunglasses.html",
@@ -21230,7 +21230,7 @@ const RANKING_POOL = [
   },
   {
     name: "Fanttik Slim V10 APEX ハンディクリーナー",
-    excerpt: "吸引・送風・空気入れの4役をこなす軽量ハンディクリーナー。最大19,000Pa。",
+    excerpt: "吸引・送風・空気入れの4役をこなすハンディクリーナー。最大19,000Pa。",
     img: "https://m.media-amazon.com/images/I/71cKFxx8iEL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DXVJ5Y39?tag=hide0122-22",
     page: "product-fanttik-slim-v10-apex-handy-cleaner.html",
