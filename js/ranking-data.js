@@ -1100,7 +1100,7 @@ const RANKING_POOL = [
   },
   {
     name: "Insta360 自撮り棒三脚リモコンキット",
-    excerpt: "三脚と自撮り棒を1本にまとめたInsta360純正アクセサリー。ワイヤレスリモコン付き。",
+    excerpt: "三脚と自撮り棒を1本にまとめたInsta360のアクセサリー。ミニリモコンが同梱。",
     img: "https://m.media-amazon.com/images/I/61Hmy6A2EZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DP3ZWSR4?tag=hide0122-22",
     page: "product-insta360-folding-selfie-stick-tripod-kit.html",
@@ -1604,7 +1604,7 @@ const RANKING_POOL = [
   },
   {
     name: "マーナ 極 冷凍ごはん容器",
-    excerpt: "すのこ付きでべたつきを防ぐ冷凍ごはん容器。",
+    excerpt: "電子レンジ・食洗機に対応する冷凍ごはん容器。4個入り。",
     img: "https://m.media-amazon.com/images/I/41UkacNNleL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CR5QV6ZQ?tag=hide0122-22",
     page: "product-marna-kiwami-frozen-rice-container-4set.html",
@@ -1828,7 +1828,7 @@ const RANKING_POOL = [
   },
   {
     name: "ミナパック 緩衝材 エアーキャップ",
-    excerpt: "日本製の透明度が高くしっかりとした梱包用エアークッション材。幅400mmで扱いやすくフリマ発送や引っ越し梱包に重宝する。",
+    excerpt: "日本製の梱包用エアーキャップ。幅400mm×全長10m、コアレス（芯なし）。",
     img: "https://m.media-amazon.com/images/I/61rLseAsjBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H2Y4H2QY?tag=hide0122-22",
     page: "product-sakai-minapack-bubblewrap-400mm.html",
@@ -2276,7 +2276,7 @@ const RANKING_POOL = [
   },
   {
     name: "PROIRON ダンベル 3kg 2個セット",
-    excerpt: "ネオプレンソフトコーティングで握りやすく、床を傷つけにくいダンベル。カラーで重量が分かれ宅トレ初心者から使いやすいと人気。",
+    excerpt: "1個3kgの2個セットのダンベル。材質は鉄とネオプレンコーティング、特徴はノンスリップ加工。",
     img: "https://m.media-amazon.com/images/I/81tUzmxBNCL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01C9NXXTK?tag=hide0122-22",
     page: "product-proiron-dumbbell-3kg-set.html",
@@ -4502,7 +4502,7 @@ const RANKING_POOL = [
   },
   {
     name: "椅子脚カバー カルガルー 8個入",
-    excerpt: "椅子の脚に取り付けるだけで床の傷や音を防ぐカバー。",
+    excerpt: "素材はフッ素樹脂、木製脚に対応する椅子脚カバー。8個入り。",
     img: "https://m.media-amazon.com/images/I/71XC3fsCTWL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D9XS9THX?tag=hide0122-22",
     page: "product-karugaruu-isuashi-cover-8set.html",
@@ -4838,7 +4838,7 @@ const RANKING_POOL = [
   },
   {
     name: "Hansleep カーテン 1級遮光 2枚組",
-    excerpt: "遮光度99.99%の1級遮光カーテン。断熱・防音機能付きで冷暖房効率もアップ。",
+    excerpt: "遮光度99.99%の1級遮光カーテン。商品名に断熱・防寒・防音と記載。2枚組。",
     img: "https://m.media-amazon.com/images/I/71RlNccD2YL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08GC1KJ3J?tag=hide0122-22",
     page: "product-hansleep-curtain-blackout-2set-gray.html",
@@ -17560,7 +17560,7 @@ const RANKING_POOL = [
   },
   {
     name: "KONG（コング） デンタルウァバ スモール（ピンク） 引っ張りっこ レトリーブ",
-    excerpt: "雪だるま型のボディとヒラヒラした5本の足が特徴の、引っ張りっことレトリーブ用のおもちゃ。スクイーク音が鳴るバリスティックナイロン製です。",
+    excerpt: "引っ張りっことレトリーブ用の犬用おもちゃ。特徴欄にバリスティックナイロン（強化生地）、スクイーク（笛）入り、丸洗い可と記載。",
     img: "https://m.media-amazon.com/images/I/814cuZspH9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01FLMMPO0?tag=hide0122-22",
     page: "product-kong-dental-wubba-small-pink.html",
@@ -21300,7 +21300,7 @@ const RANKING_POOL = [
   },
   {
     name: "Fanttik Slim V10 Mix ハンディクリーナー",
-    excerpt: "16000Paの吸引力を持つ軽量515gの4in1ハンディクリーナー。水洗い可能なダストカップを搭載。",
+    excerpt: "最大16,000Pa・本体重量約515gの4in1ハンディクリーナー。ダストカップは水洗い可能。",
     img: "https://m.media-amazon.com/images/I/61o+A0xGtwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DG1KQ9QJ?tag=hide0122-22",
     page: "product-fanttik-slim-v10-mix-handy-cleaner.html",
@@ -23848,7 +23848,7 @@ const RANKING_POOL = [
   },
   {
     name: "[日本技研工業] タフなゴミ袋 半透明 45L 50枚入り 2種素材配合 強くて裂けにくい 耐久性 厚み0.025×横650×縦800mm TA-5",
-    excerpt: "ごみ袋。45L、半透明、50枚入り。厚み0.025mm、横650mm×縦800mm。高密度ポリエチレンと低密度ポリエチレンを配合し、裂けにくいと説明。",
+    excerpt: "ごみ袋。45L、半透明、50枚入り。厚み0.025mm、横650mm×縦800mm。高密度ポリエチレンと低密度ポリエチレンの2種配合で、特徴欄に耐久性と記載。",
     img: "https://m.media-amazon.com/images/I/61PSHDIT-lL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B004VISVXU?tag=hide0122-22",
     page: "product-nihon-giken-tough-trash-bag-45l-50-ta5.html",
