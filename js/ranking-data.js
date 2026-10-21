@@ -358,14 +358,14 @@ const RANKING_POOL = [
   },
   {
     name: "d'Alba ホワイトトリュフ バイタルスプレーセラム",
-    excerpt: "ローズ花オイルを配合した二層式の携帯用ミスト美容液50ml。化粧水・美容液・オイルの3役を兼ねるとされる。",
+    excerpt: "ローズ花オイルを配合した二層式のミスト美容液50ml。",
     img: "https://m.media-amazon.com/images/I/61ZJ6foEH2L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DDXL4NKB?tag=hide0122-22",
     page: "product-dalba-vital-spray-serum.html",
   },
   {
     name: "CIO NovaPort DUOⅡ 65W",
-    excerpt: "USB-C×2ポートで2台同時充電できる小型PD急速充電器。GaNチップと電力自動最適配分機能を搭載。",
+    excerpt: "USB-C×2ポートで2台同時充電できるPD急速充電器。GaNチップと電力自動最適配分機能を搭載。",
     img: "https://m.media-amazon.com/images/I/71Zi4tqVRdL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D53VKL36?tag=hide0122-22",
     page: "product-cio-novaport-duo2-65w.html",
@@ -694,7 +694,7 @@ const RANKING_POOL = [
   },
   {
     name: "COMFEE' サーキュレーター 28畳 リモコン付き",
-    excerpt: "28畳対応の扇風機兼用サーキュレーター。風量9段階調節、左右自動首振り、おやすみモード約30dB。",
+    excerpt: "28畳対応のサーキュレーター。風量9段階調節、左右自動首振り、おやすみモード約30dB。",
     img: "https://m.media-amazon.com/images/I/71101arGxDL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DZCQSLNV?tag=hide0122-22",
     page: "product-comfee-circulator-28jo.html",
@@ -1688,7 +1688,7 @@ const RANKING_POOL = [
   },
   {
     name: "BEACO 撥水王 リュックカバー",
-    excerpt: "耐水圧2000mmの高撥水生地を使ったリュック用レインカバー。",
+    excerpt: "リュック用の撥水レインカバー。M（25〜35L）対応、重量100g。",
     img: "https://m.media-amazon.com/images/I/61AYuQOpwbL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BGRVM9FV?tag=hide0122-22",
     page: "product-beaco-backpack-rain-cover.html",
@@ -2430,14 +2430,14 @@ const RANKING_POOL = [
   },
   {
     name: "ハズブロ公式ジェンガ(2025)",
-    excerpt: "54本の木製ブロックでタワーを積み上げる定番パーティーゲーム。無料の公式Webアプリで新しい遊び方にも挑戦でき、家族で盛り上がる。",
+    excerpt: "木製ブロックでタワーを積み上げるゲーム。Webアプリ対応、対象年齢6歳以上。",
     img: "https://m.media-amazon.com/images/I/81oo1vev9EL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FBVQPYK4?tag=hide0122-22",
     page: "product-hasbro-jenga-2025.html",
   },
   {
     name: "TAETOE 磁石対戦ゲーム",
-    excerpt: "約30個の磁気駒を交互に縄の輪へ入れ、くっついたら取り除く対戦ゲーム。ルールが単純で3才から高齢者まで盛り上がる。",
+    excerpt: "約30個の磁気駒を交互に縄の輪へ入れ、くっついたら取り除く対戦ゲーム。対象年齢は商品ページで確認してください。",
     img: "https://m.media-amazon.com/images/I/71J1KxS5C3L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FY33RF1Z?tag=hide0122-22",
     page: "product-taetoe-magnet-battle-game.html",
@@ -2934,7 +2934,7 @@ const RANKING_POOL = [
   },
   {
     name: "Dove ボディーソープ 大容量詰替 2.8kg",
-    excerpt: "瞬間浸透うるおいミルクとトリプルセラミド配合で、洗い上がりもつっぱらずしっとり。8.5個分の大容量詰替。",
+    excerpt: "トリプルセラミド配合・濃密泡と記載された大容量詰替（2.8kg、8.5個分）。",
     img: "https://m.media-amazon.com/images/I/61A15mA+mxL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CD7BHBYG?tag=hide0122-22",
     page: "product-dove-body-soap-refill-2-8kg.html",
@@ -2990,7 +2990,7 @@ const RANKING_POOL = [
   },
   {
     name: "ブラウン オーラルB iO6 電動歯ブラシ",
-    excerpt: "丸型ブラシの回転で歯垢を除去。トラベルケース＋替えブラシ3本付きで始めやすい。",
+    excerpt: "丸型（ラウンド）ブラシの充電式電動歯ブラシ。防水・タイマー付属・トラベルサイズと記載。",
     img: "https://m.media-amazon.com/images/I/71zDUjCdp4L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CWZY9DQ9?tag=hide0122-22",
     page: "product-braun-oral-b-io6.html",
@@ -4565,7 +4565,7 @@ const RANKING_POOL = [
   },
   {
     name: "ドリテック 勉強タイマー タイムアップ2",
-    excerpt: "試験日までの日数設定や消音機能を備えた勉強用タイマー。図書館や自習室でも音を気にせず使える。",
+    excerpt: "消音・デイカウント・ロック機能を備えた勉強用タイマー。",
     img: "https://m.media-amazon.com/images/I/61mNuGuPJBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DBY8JCQ5?tag=hide0122-22",
     page: "product-dretec-benkyo-timer-timeup2-pink.html",
@@ -5680,7 +5680,7 @@ const RANKING_POOL = [
   },
   {
     name: "曙産業 バターケース カッター・フォーク付き 200g用",
-    excerpt: "板状バター200gを丸ごと収納でき、上から押すだけで約5gずつカットできる日本製バターケース。",
+    excerpt: "200g用のバターケース。カット量は1回あたり約5g、カッターとピックフォーク付きの日本製。",
     img: "https://m.media-amazon.com/images/I/61w9RIiCslL._AC_SY679_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DCNLC2S4?tag=hide0122-22",
     page: "product-akebono-butter-case-cutter-200g.html",
@@ -6485,7 +6485,7 @@ const RANKING_POOL = [
   },
   {
     name: "Time Timer MOD Home Edition 60分 学習タイマー（レイクブルー）",
-    excerpt: "残り時間が赤い面積で見える60分アナログタイマー。ノブを回すだけの簡単操作で、勉強・仕事の時間管理に",
+    excerpt: "残り時間が色の面積で見える60分タイマー。アラームのON/OFF切り替え付き",
     img: "https://m.media-amazon.com/images/I/61zOfU+vplL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B08K9GFDMP?tag=hide0122-22",
     page: "product-time-timer-mod-home-lakeblue.html",
@@ -10329,7 +10329,7 @@ const RANKING_POOL = [
   },
   {
     name: "Tabata(タバタ) ゴルフ ロングティー ウッドティー プロスリムロング 60本入",
-    excerpt: "長さ40mm・60本入りの、芝に刺しやすいやや細身の木製ゴルフティー（ウッドティー）です。",
+    excerpt: "60本入りの、芝に刺しやすいやや細身の木製ゴルフティー（ウッドティー）です。",
     img: "https://m.media-amazon.com/images/I/61vMgv9k-FL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01FWYWRJK?tag=hide0122-22",
     page: "product-tabata-wood-tee-long-60pc.html",
@@ -11974,7 +11974,7 @@ const RANKING_POOL = [
   },
   {
     name: "3M 結束バンド",
-    excerpt: "屋外用ナイロン結束バンド。先端カーブで目通しがスムーズ、100本入り。",
+    excerpt: "屋外用のナイロン66結束バンド。長さ200mm、100本入り。",
     img: "https://m.media-amazon.com/images/I/71Bc0s+zVFL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B004OCMPH6?tag=hide0122-22",
     page: "product-3m-cabletie-outdoor-200mm.html",
@@ -11995,7 +11995,7 @@ const RANKING_POOL = [
   },
   {
     name: "三菱鉛筆 ユニボール シグノ RT1",
-    excerpt: "ペン先の角をなくした新配合インクのノック式ゲルインクボールペン。0.5mm黒。",
+    excerpt: "ノック式のゲルインクボールペン。0.5mm黒。",
     img: "https://m.media-amazon.com/images/I/51zroOTcXnL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B00B58C6M6?tag=hide0122-22",
     page: "product-mitsubishi-signo-rt1-05-black.html",
@@ -21090,7 +21090,7 @@ const RANKING_POOL = [
   },
   {
     name: "imaa(アイマ) 今治タオル タオルハンカチ ハンドタオル メンズ ビジネス 6枚セット 綿100% 日本製 吸水 25cm Aアソート",
-    excerpt: "今治タオル認定ネーム付きの綿100%タオルハンカチ6枚セット。25×25cmで、ビジネスにも合わせやすいアソート柄です。",
+    excerpt: "今治タオル認定ネーム付きの綿100%タオルハンカチ6枚セット。25×25cmのAアソートです。",
     img: "https://m.media-amazon.com/images/I/81NRGQEZC2L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B4N6P6GR?tag=hide0122-22",
     page: "product-imaa-imabari-towel-handkerchief-6set.html",
@@ -23785,7 +23785,7 @@ const RANKING_POOL = [
   },
   {
     name: "ミマスクリーンケア 緑の魔女 泡タイプ トイレ(トイレ用洗剤) 450mL",
-    excerpt: "便器・便座や床の汚れに使う泡タイプのトイレ用洗剤。450mL、液性は中性、ミントの香り、逆さスプレーで使える。",
+    excerpt: "便器・便座や床の汚れに使う泡タイプのトイレ用洗剤。450mL、液性は中性、ミントの香り。",
     img: "https://m.media-amazon.com/images/I/51TLGE1LsSL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B079ZBYJFK?tag=hide0122-22",
     page: "product-mimasu-midori-no-majo-toilet-foam-450.html",
