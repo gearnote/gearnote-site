@@ -2787,7 +2787,7 @@ const RANKING_POOL = [
   },
   {
     name: "3M クリンプロ 歯みがきペースト 2本",
-    excerpt: "低発泡・低研磨タイプの歯みがきペースト。ソフトミントフレーバーの90g×2本セットです。",
+    excerpt: "ソフトミントフレーバーの歯みがきペースト。90g×2本セットです。",
     img: "https://m.media-amazon.com/images/I/51nxxdiiJUL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B081CWXQ4Y?tag=hide0122-22",
     page: "product-3m-clinpro-toothpaste-f1450-2.html",
@@ -13115,7 +13115,7 @@ const RANKING_POOL = [
   },
   {
     name: "TROND LEDフロアランプ 調光機能付き 30W 3000K 温白色 高さ71インチ モジュラーロッドデザイン Halo X",
-    excerpt: "4本のモジュラーアルミロッドで組み立てるLEDフロアランプ。タッチセンサー式で5段階の明るさに調光でき、壁スイッチでのオンオフにも対応する。",
+    excerpt: "タッチセンサー式で5段階の明るさに調光でき、壁スイッチでのオンオフにも対応するLEDフロアランプ。",
     img: "https://m.media-amazon.com/images/I/61V803N4rWL._AC_SX342_.jpg",
     link: "https://www.amazon.co.jp/dp/B07PJMYY99?tag=hide0122-22",
     page: "product-trond-floor-lamp-halox.html",
@@ -13976,7 +13976,7 @@ const RANKING_POOL = [
   },
   {
     name: "OneOdio Pro10 有線オーバーイヤーヘッドホン（密閉型）",
-    excerpt: "50mmドライバー搭載の密閉型モニターヘッドホン。片耳モニタリング対応の回転式イヤーカップと、デュアル端子で音楽シェアもできる。",
+    excerpt: "密閉型の有線オーバーイヤーヘッドホン。重量約236g、6.35mm／3.5mmデュアル端子で着脱式ケーブル2種類が付属。",
     img: "https://m.media-amazon.com/images/I/81NKzbHAXLL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07PMK6M3K?tag=hide0122-22",
     page: "product-oneodio-pro10-headphones.html",
@@ -14032,7 +14032,7 @@ const RANKING_POOL = [
   },
   {
     name: "任天堂 トランプ ナップ 622(藍)",
-    excerpt: "PET樹脂を使った、シャッフルしやすい定番のトランプ。七並べやスピード、大富豪など、幅広いカードゲームに使える。",
+    excerpt: "PET樹脂（プラスチック製）の任天堂のトランプ。対象年齢は3歳〜。",
     img: "https://images-na.ssl-images-amazon.com/images/P/B001FLYYJ6.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B001FLYYJ6?tag=hide0122-22",
     page: "product-nintendo-trump-nap622.html",
@@ -16069,7 +16069,7 @@ const RANKING_POOL = [
   },
   {
     name: "[Ponbaby] マザーズリュック マザーズバッグ ベーシックモデル 23L 大容量 16ポケット 軽量 オールブラック",
-    excerpt: "23L・16ポケットの大容量マザーズリュック。哺乳瓶用防水ポケットや撥水加工付き。",
+    excerpt: "23L・16ポケットの大容量マザーズリュック。表地ナイロンで撥水剤加工付き。",
     img: "https://m.media-amazon.com/images/I/71uWIisQIeL._AC_SX679_.jpg",
     link: "https://www.amazon.co.jp/dp/B09PY285P8?tag=hide0122-22",
     page: "product-ponbaby-mothers-backpack-basic23l.html",
