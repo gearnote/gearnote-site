@@ -14263,7 +14263,7 @@ const RANKING_POOL = [
   },
   {
     name: "【LOVE PETS by BESTEVER】 ペットトイ えび天 Shrimp Tempra",
-    excerpt: "海老の天ぷらを模したぬいぐるみ型おもちゃ。噛むと音が鳴る小型・中型犬向け。",
+    excerpt: "えび天をモチーフにしたペットトイ。ダンブル素材（モコモコ生地）で小型・中型犬向け。",
     img: "https://m.media-amazon.com/images/I/51BeEZQWOKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00A87M5OY?tag=hide0122-22",
     page: "product-bestever-shrimp-tempura-toy.html",
