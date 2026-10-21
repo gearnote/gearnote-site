@@ -2080,7 +2080,7 @@ const RANKING_POOL = [
   },
   {
     name: "サンサンスポンジ 4個セット",
-    excerpt: "驚きの水切れと泡立ちが特徴の丈夫なキッチンスポンジ。",
+    excerpt: "ポリウレタン（PU）製のキッチンスポンジ。4個セット。",
     img: "https://m.media-amazon.com/images/I/71Pxx6Uk0VL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07T35N29H?tag=hide0122-22",
     page: "product-sansan-sponge-4set.html",
@@ -5827,7 +5827,7 @@ const RANKING_POOL = [
   },
   {
     name: "cocomall 犬用首輪 3M反射材料 ナイロン製 Mサイズ",
-    excerpt: "夜道でも安心の3M反射ステッチとワンタッチバックル。",
+    excerpt: "3M反射ステッチとワンタッチバックルを備えたナイロン製の犬用首輪。",
     img: "https://m.media-amazon.com/images/I/61A0Cv4V00L._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B08XK9LJRY?tag=hide0122-22",
     page: "product-cocomall-dog-collar-m-brown.html",
@@ -5974,7 +5974,7 @@ const RANKING_POOL = [
   },
   {
     name: "トレッキンググローブ スマホ対応 登山手袋",
-    excerpt: "スマートフォン対応のタッチパネル機能付きトレッキンググローブ。防寒性とグリップ力を両立し、登山・ハイキング・キャンプでの",
+    excerpt: "スマートフォン対応のタッチパネル機能付きトレッキンググローブ。用途は登山・ハイキング・キャンプ。",
     img: "https://m.media-amazon.com/images/I/61ckilVFMFL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D1B6K52Y?tag=hide0122-22",
     page: "product-trekking-glove-smartphone-touch.html",
@@ -6891,14 +6891,14 @@ const RANKING_POOL = [
   },
   {
     name: "オーム電機 LEDデスクランプ クランプタイプ LTC-LS36-W",
-    excerpt: "天板に挟んで固定するクランプ式のLEDデスクランプ。LED36灯・約420lm・タッチスイッチ、2,000円台",
+    excerpt: "天板に挟んで固定するクランプ式のLEDデスクランプ。LED36灯・約420lm・タッチスイッチ",
     img: "https://m.media-amazon.com/images/I/51EERHns4ZL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B07MJ97QWZ?tag=hide0122-22",
     page: "product-ohm-led-desk-lamp-clamp-ltc-ls36-w.html",
   },
   {
     name: "MAXZEN 冷凍庫 家庭用 66L 上開き チェストフリーザー JF066ML01WH",
-    excerpt: "冷凍食品のまとめ買いに便利な66Lの上開きチェストフリーザー。ワイヤーバスケット付きで1万円台",
+    excerpt: "冷凍食品のまとめ買いに便利な66Lの上開きチェストフリーザー。ワイヤーバスケット付き",
     img: "https://m.media-amazon.com/images/I/31UqQADW6iL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BGPXH5GT?tag=hide0122-22",
     page: "product-maxzen-chest-freezer-66l-jf066ml01wh.html",
@@ -6912,7 +6912,7 @@ const RANKING_POOL = [
   },
   {
     name: "東洋佐々木ガラス 薄氷 うすらい タンブラー 370ml HSハードストロング B-21112CS",
-    excerpt: "飲み口が薄いイオン強化ガラスのタンブラー370ml。ビールやハイボールに合う日本製、700円台",
+    excerpt: "飲み口が薄いイオン強化ガラスのタンブラー370ml。ビールやハイボールに合う日本製",
     img: "https://m.media-amazon.com/images/I/51F91z7qySL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B00S94TS16?tag=hide0122-22",
     page: "product-toyo-sasaki-usurai-tumbler-370ml.html",
@@ -10672,7 +10672,7 @@ const RANKING_POOL = [
   },
   {
     name: "プロックス(PROX) ラバーランディングネット 15型",
-    excerpt: "魚にやさしいラバーネットと、軽量なアルミシャフトを採用したランディングネットです。",
+    excerpt: "ラバーネットを採用したランディングネットです。ハンドルはアルミニウム、グリップはゴム素材。",
     img: "https://m.media-amazon.com/images/I/5110VXcwJhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01614ZDQO?tag=hide0122-22",
     page: "product-prox-landing-net-15.html",
@@ -12996,7 +12996,7 @@ const RANKING_POOL = [
   },
   {
     name: "COMFEE' 冷凍庫 32L 幅47.5cm 前開き ミニ 小型 家庭用 コンパクト 直立式 セカンド冷凍庫 RCD40WH1JP(E)",
-    excerpt: "前開き式で庫内が見渡しやすい、コンパクトな直立式の小型冷凍庫。7段階の温度調節に対応し、主冷蔵庫の冷凍室では足りない分のストック用に使える。",
+    excerpt: "前開き式の直立式冷凍庫（32L）。7段階の温度調節に対応し、ドアの材質は強化ガラス。",
     img: "https://m.media-amazon.com/images/I/41OM5CY2DgL._AC_SX466_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DCVRJ2QL?tag=hide0122-22",
     page: "product-comfee-freezer-32l.html",
@@ -13276,7 +13276,7 @@ const RANKING_POOL = [
   },
   {
     name: "Yomao 折りたたみ傘 12本骨 ワンタッチ自動開閉 晴雨兼用 黒コーティング 直径105cm",
-    excerpt: "12本骨構造で耐風性を意識した、ワンタッチ自動開閉タイプの折りたたみ傘。",
+    excerpt: "12本骨構造の、ワンタッチ自動開閉タイプの折りたたみ傘。",
     img: "https://m.media-amazon.com/images/I/71IpeyzilLL._AC_SX679_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GVN619BC?tag=hide0122-22",
     page: "product-yomao-12rib-auto-folding-umbrella.html",
@@ -13745,14 +13745,14 @@ const RANKING_POOL = [
   },
   {
     name: "和平フレイズ 調理器具 ターナー キッチンピア 日本製 KR-3199",
-    excerpt: "ステンレス製のシンプルなターナー。金属部はステンレス鋼、日本製で約75gと軽量。",
+    excerpt: "ステンレス製のシンプルなターナー。金属部はステンレス鋼、日本製で重量は約75g。",
     img: "https://m.media-amazon.com/images/I/71vB1axFMDL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0044D560S?tag=hide0122-22",
     page: "product-wahei-freiz-turner-kitchenpia-kr3199.html",
   },
   {
     name: "グリーンパン メイフラワー フライパン24cm",
-    excerpt: "PFOA・PFASフリーのセラミックコーティングフライパン。天然木ハンドルでIH・ガス両対応。",
+    excerpt: "PFOA・PFASを含まないとされる（商品説明）セラミックコーティングのフライパン。天然木ハンドルでIH・ガス両対応。",
     img: "https://m.media-amazon.com/images/I/61U8kf24cQL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07H916J5T?tag=hide0122-22",
     page: "product-greenpan-mayflower-frypan-24cm.html",
@@ -14277,7 +14277,7 @@ const RANKING_POOL = [
   },
   {
     name: "KONG(コング) スクイークエアー M 3個入 フェルト生地",
-    excerpt: "歯や歯ぐきに配慮したフェルト生地のテニスボール型おもちゃ。鳴り笛入り3個セット。",
+    excerpt: "フェルト生地のテニスボール型おもちゃ。鳴り笛入り3個セット。",
     img: "https://m.media-amazon.com/images/I/81b6TwYbg9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00MIL0946?tag=hide0122-22",
     page: "product-kong-squeakair-tennisball-m3.html",
