@@ -7913,7 +7913,7 @@ const RANKING_POOL = [
   },
   {
     name: "3M スコッチブライト ハイブリッドネットスポンジ 6個",
-    excerpt: "2種類のネットで油汚れとこびりつき汚れの両方に対応するキッチンスポンジ。デリケートな食器を傷つけにくい設計。",
+    excerpt: "ハイブリッドネットのキッチンスポンジ。材質はポリエステルで6個セット。",
     img: "https://m.media-amazon.com/images/I/81TZ1NdZPxL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09DX1R4RQ?tag=hide0122-22",
     page: "product-3m-scotchbrite-hybrid-net-sponge-6.html",
@@ -10798,7 +10798,7 @@ const RANKING_POOL = [
   },
   {
     name: "アイトー(Aito) aito製作所 ナチュラルカラー 美濃焼マグカップ 320ml ブルーグレー 517301",
-    excerpt: "持ち手が大きく安定感のある美濃焼マグカップ320ml。",
+    excerpt: "磁器の美濃焼マグカップ320ml。電子レンジ・食洗機対応。",
     img: "https://m.media-amazon.com/images/I/61W4WxdCAPL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C337K392?tag=hide0122-22",
     page: "product-aito-natural-color-mino-mug-320ml.html",
