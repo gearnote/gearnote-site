@@ -1786,7 +1786,7 @@ const RANKING_POOL = [
   },
   {
     name: "iwaki 耐熱ガラス保存容器",
-    excerpt: "大小さまざまなサイズがそろう耐熱ガラス保存容器のセット。",
+    excerpt: "耐熱ガラス製の保存容器のシステムセット。",
     img: "https://m.media-amazon.com/images/I/71XRtQZiVtL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09XWQJWYC?tag=hide0122-22",
     page: "product-iwaki-glass-storage-system-set.html",
@@ -1989,7 +1989,7 @@ const RANKING_POOL = [
   },
   {
     name: "岩崎工業 ラストロウェア 冷水筒",
-    excerpt: "横置きできて冷蔵庫のドアポケットにも収まるシームレス構造の冷水筒。",
+    excerpt: "横置きに対応した、シームレス構造の冷水筒。",
     img: "https://m.media-amazon.com/images/I/51FZtUZLl2L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09QLZHYRD?tag=hide0122-22",
     page: "product-iwasaki-lustroware-cold-water-jug.html",
@@ -2066,7 +2066,7 @@ const RANKING_POOL = [
   },
   {
     name: "アオビホ ノートパソコンスタンド",
-    excerpt: "無段階で高さ・角度調整できるアルミ製ノートパソコンスタンド。安定感がありタイピングしてもブレにくいとテレワークユーザーに人気。",
+    excerpt: "無段階で高さ・角度調整できるアルミ製ノートパソコンスタンド。折りたたみ式で、15.6インチまで対応。",
     img: "https://m.media-amazon.com/images/I/51qAU2BxTDL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BCK3V2X6?tag=hide0122-22",
     page: "product-aoviho-laptop-stand.html",
@@ -4278,7 +4278,7 @@ const RANKING_POOL = [
   },
   {
     name: "フォクスセンス ビジネスシューズ ストレートチップ",
-    excerpt: "立ったまま履ける本革ビジネスシューズ。軽量で防滑性も良く通勤に人気。",
+    excerpt: "立ったまま履ける本革ビジネスシューズ。特徴欄に軽量・防滑・通気性の記載あり。",
     img: "https://m.media-amazon.com/images/I/71IJ428y-rL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CBJVD19T?tag=hide0122-22",
     page: "product-foxsense-business-shoes-straight-tip.html",
@@ -9327,7 +9327,7 @@ const RANKING_POOL = [
   },
   {
     name: "fungoo ベビープレイマット 折りたたみ",
-    excerpt: "厚み2cmの折りたたみ式プレイマット。シックハウス関連の検査を実施しているとされ、両面デザインでリバーシブルに使える。",
+    excerpt: "厚み2cmの折りたたみ式プレイマット。仕様表では防水、滑り止め、両面使用可と記載されている。",
     img: "https://m.media-amazon.com/images/I/61fLW0jUc0L._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F6MGKVNF?tag=hide0122-22",
     page: "product-fungoo-baby-playmat-200x180.html",
@@ -10763,7 +10763,7 @@ const RANKING_POOL = [
   },
   {
     name: "貝印(KAI) 泡立て器 25cm オーバルハンドル Kai House Select DL6270",
-    excerpt: "オーバルハンドルで握りやすい18-8ステンレス製の泡立て器。",
+    excerpt: "オーバルハンドルの18-8ステンレス製の泡立て器。",
     img: "https://m.media-amazon.com/images/I/51l-h9+dbmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01CODB1WG?tag=hide0122-22",
     page: "product-kai-house-select-whisk-25cm-dl6270.html",
@@ -11960,7 +11960,7 @@ const RANKING_POOL = [
   },
   {
     name: "川上産業 プチプチ",
-    excerpt: "国産技術による2層構造のプチプチ緩衝材ロール。紙芯なしで省スペース。",
+    excerpt: "2層構造のプチプチ緩衝材ロール。巾400mm×全長10m、紙芯なし。",
     img: "https://m.media-amazon.com/images/I/51WOPlBkkML._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B01D79Z578?tag=hide0122-22",
     page: "product-kawakami-sangyo-bubblewrap-400mm.html",
@@ -19408,7 +19408,7 @@ const RANKING_POOL = [
   },
   {
     name: "ハイアール(Haier) 二槽式洗濯機 5kg 幅77.0cm ステンレス脱水槽 給水切替 洗い分け 節水 ホワイト JW-HSW50A(W)",
-    excerpt: "洗濯槽と脱水槽が別々の5kg二槽式洗濯機。ステンレス脱水槽、給水切替、同時運転による分け洗いに対応",
+    excerpt: "洗濯槽と脱水槽が別々の5kg二槽式洗濯機。ステンレス脱水槽、給水切替、洗い分けの記載あり",
     img: "https://m.media-amazon.com/images/I/5181hsBMbKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DW416M2L?tag=hide0122-22",
     page: "product-haier-twin-tub-washer-5kg-jw-hsw50a.html",
@@ -19975,7 +19975,7 @@ const RANKING_POOL = [
   },
   {
     name: "青島文化教材社 1/24 ザ・モデルカー No.39 ホンダ PP1 ビート 1991",
-    excerpt: "1/24の定番シリーズ、ホンダ ビート（1991）。ハードトップ部品付属の未塗装キット。",
+    excerpt: "1/24のザ・モデルカーシリーズ、ホンダ ビート（1991）。ハードトップ部品付属の未塗装キット。",
     img: "https://m.media-amazon.com/images/I/61xVoCe5OcL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01N6UFXYH?tag=hide0122-22",
     page: "product-aoshima-124-themodelcar-no39-honda-beat.html",
@@ -21713,7 +21713,7 @@ const RANKING_POOL = [
   },
   {
     name: "KONG コングタイヤ スモール",
-    excerpt: "タイヤ型の噛むおもちゃ。フードを詰められる形状で、しつけ・歯固め・分離不安対策に使える。",
+    excerpt: "タイヤ型の噛むおもちゃ。仕様表の推奨用途はチューイング、プレイング、メンタルヘルス。",
     img: "https://m.media-amazon.com/images/I/61BxZ6552NL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00ZZAFXAC?tag=hide0122-22",
     page: "product-kong-tire-small.html",
