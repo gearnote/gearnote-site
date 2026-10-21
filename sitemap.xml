@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -52,12 +52,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-eufy</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/brand-google</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5897,7 +5897,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-wireless-mouse</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -10127,7 +10127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -21442,7 +21442,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-buffalo</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -29494,6 +29494,31 @@
   <url>
     <loc>https://gearnote.net/product-koizumi-steam-humidifier-khm-2061-c-personal-beige</loc>
     <lastmod>2026-10-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-google-pixel-watch-5-41mm-matte-black-wifi</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-buffalo-trackball-mouse-bstbb700bkx-graphite-black</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-anker-eufy-smart-display-e10-64gb</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-toffy-mistal-personal-led-humidifier-hf15-cg-champagne-gold</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-ceramic-fan-heater-ykdsf-vd121-c-dual-sensor</loc>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
