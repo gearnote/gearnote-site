@@ -708,7 +708,7 @@ const RANKING_POOL = [
   },
   {
     name: "COMFEE' オーブントースター CF-MD081 2枚焼き",
-    excerpt: "食パン2枚焼きの1000Wハイパワートースター。ダイヤル1つのシンプル操作、焼き網・受け皿は取り外して洗える",
+    excerpt: "食パン2枚焼きのオーブントースター。最大1000W、ダイヤル式（つまみ1つでの時間設定）、付属品は焼き網と受け皿。",
     img: "https://m.media-amazon.com/images/I/61KNOuQ+-aL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DLGXS2DL?tag=hide0122-22",
     page: "product-comfee-oven-toaster-cf-md081.html",
@@ -729,7 +729,7 @@ const RANKING_POOL = [
   },
   {
     name: "COMFEE' 電子レンジ 17L ターンテーブル CF-EM203-BK ブラック",
-    excerpt: "17L・ターンテーブル式の電子レンジ。ヘルツフリー・消音モード付きで一人暮らし向け。",
+    excerpt: "17L・ターンテーブル式の電子レンジ。ヘルツフリー・消音モード付き。",
     img: "https://m.media-amazon.com/images/I/71d+8LZm4kL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DLGXSQZS?tag=hide0122-22",
     page: "product-comfee-microwave-17l-turntable.html",
@@ -4138,7 +4138,7 @@ const RANKING_POOL = [
   },
   {
     name: "ECO PLUS 冷蔵庫マット Mサイズ",
-    excerpt: "冷蔵庫下の床をキズ・凹みから守る透明マット。厚さ2mmで500Lクラスに対応。",
+    excerpt: "冷蔵庫下の床をキズ・凹みから守るマット。厚さ2mmで500Lクラスに対応。",
     img: "https://m.media-amazon.com/images/I/618gdX-hCWL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09248MSXW?tag=hide0122-22",
     page: "product-ecoplus-fridge-mat-m.html",
@@ -5021,7 +5021,7 @@ const RANKING_POOL = [
   },
   {
     name: "COMFEE' 冷蔵庫 132L RCT128BL1JP(E)",
-    excerpt: "一人暮らしにちょうど良い大容量冷凍庫付きコンパクト冷蔵庫。静音設計。",
+    excerpt: "幅47cm・容量132Lの2ドア（右開き）冷蔵庫。急冷モードと耐熱天板を備えると商品名に記載。",
     img: "https://m.media-amazon.com/images/I/41NOBigoBmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DCVR3S24?tag=hide0122-22",
     page: "product-comfee-fridge-132l.html",
@@ -5168,7 +5168,7 @@ const RANKING_POOL = [
   },
   {
     name: "UGREEN USB Type C 変換アダプター 2個セット",
-    excerpt: "USB-A機器をType-Cポートで使えるコンパクトな変換アダプター。",
+    excerpt: "USB-A機器をType-Cポートで使える変換アダプター。",
     img: "https://m.media-amazon.com/images/I/61DCiauYJ8L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B9N3QSL3?tag=hide0122-22",
     page: "product-ugreen-usbc-adapter-2set.html",
@@ -5211,7 +5211,7 @@ const RANKING_POOL = [
   },
   {
     name: "Mlikero インナースリーブ300枚",
-    excerpt: "コスパの良いパーフェクトサイズのインナースリーブ300枚。",
+    excerpt: "パーフェクトサイズ（64×89mm）のインナースリーブ300枚。クリア・ソフトタイプ（一重目）。",
     img: "https://m.media-amazon.com/images/I/71zfVaT6XYL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0G48NL7F5?tag=hide0122-22",
     page: "product-mlikero-inner-sleeve-300-perfect-size.html",
@@ -8886,7 +8886,7 @@ const RANKING_POOL = [
   },
   {
     name: "クリスタルガイザー 500ml×24本",
-    excerpt: "アメリカ・カリフォルニア生まれのミネラルウォーター。硬度38mg/Lの軟水で、大塚食品が国内正規輸入・販売する日本向け仕様。",
+    excerpt: "原産国アメリカ合衆国のミネラルウォーター。硬度38mg/Lの軟水で、輸入・販売元は大塚食品。",
     img: "https://m.media-amazon.com/images/I/717qQDOT8dL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B004WMJ4EK?tag=hide0122-22",
     page: "product-crystal-geyser-water-500-24.html",
@@ -9145,7 +9145,7 @@ const RANKING_POOL = [
   },
   {
     name: "TCL 43V6C（Google TV搭載 4K液晶テレビ）",
-    excerpt: "Google TVを標準搭載し、Netflix・Prime Videoなど主要配信アプリをリモコン一つで楽しめる43V型の4K液晶テレビ。",
+    excerpt: "Google TVを搭載した43V型の4K液晶テレビ。HDR10・HLG対応、AirPlay 2・Google Cast、Wチューナー内蔵。",
     img: "https://m.media-amazon.com/images/I/71jUdzHja4L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DW3JD7SH?tag=hide0122-22",
     page: "product-tcl-43v6c-google-tv.html",
@@ -9993,7 +9993,7 @@ const RANKING_POOL = [
   },
   {
     name: "WAQ REPELLENT LANTERN 蚊除け機能搭載ランタン",
-    excerpt: "加熱式の蚊よけ機能を搭載した、小型のLEDランタンです。テントやタープ下での使用を想定しています。",
+    excerpt: "蚊よけ機能を搭載したランタンです。明るさは最小5lm〜最大600lmで無段階に調整できると記載されています。",
     img: "https://m.media-amazon.com/images/I/41ex4cpAitL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DF2629L8?tag=hide0122-22",
     page: "product-waq-repellent-lantern.html",
@@ -11911,7 +11911,7 @@ const RANKING_POOL = [
   },
   {
     name: "ロディア メモパッド No.11",
-    excerpt: "フランス発の定番メモパッド。5mm方眼罫でミシン目入り、携帯しやすいサイズ。",
+    excerpt: "フランス製のメモパッド。5mm方眼罫、携帯しやすいサイズ。",
     img: "https://m.media-amazon.com/images/I/51aOrlEHjmL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B002NJBDVQ?tag=hide0122-22",
     page: "product-rhodia-block-no11-orange.html",
@@ -11953,7 +11953,7 @@ const RANKING_POOL = [
   },
   {
     name: "ぺんてる エナージェル",
-    excerpt: "2001年発売、世界120以上の国と地域で販売されるゲルインクボールペン。",
+    excerpt: "2001年発売のゲルインキボールペン（ノック式）。ボール径0.5mm、重さ13g。",
     img: "https://m.media-amazon.com/images/I/61KukRnFoEL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B00LBRR7GQ?tag=hide0122-22",
     page: "product-pentel-energel-knock-05-black.html",
@@ -12604,7 +12604,7 @@ const RANKING_POOL = [
   },
   {
     name: "デオトイレ 本体セット ハーフカバー",
-    excerpt: "シートとサンドのW消臭構造を採用した猫用システムトイレ本体です。",
+    excerpt: "ハーフカバータイプの猫用システムトイレ本体です。専用サンドと専用シートを使う構成です。",
     img: "https://m.media-amazon.com/images/I/71Hqs1kBzzL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09TW3QJ2T?tag=hide0122-22",
     page: "product-deotoilet-body-set-halfcover.html",
@@ -13927,7 +13927,7 @@ const RANKING_POOL = [
   },
   {
     name: "Gigastone ワイヤレスカラオケマイク（スピーカー内蔵）",
-    excerpt: "スピーカーを内蔵した持ち運びできるカラオケマイク。Bluetooth5.0でスマホと接続し、最大11時間連続使用できる。",
+    excerpt: "スピーカー内蔵のワイヤレスカラオケマイク。接続技術はBluetooth、コネクタは3.5mm端子とUSB端子。",
     img: "https://m.media-amazon.com/images/I/81-TZ82XGOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08TGMX3BL?tag=hide0122-22",
     page: "product-gigastone-karaoke-mic.html",
@@ -15124,7 +15124,7 @@ const RANKING_POOL = [
   },
   {
     name: "カビキラー 洗濯槽クリーナー(塩素系液体タイプ) 550g×3本 お掃除手袋つき",
-    excerpt: "全自動洗濯機・ドラム式洗濯機・ステンレス槽に対応する塩素系液体タイプの洗濯槽クリーナー。1〜2ヶ月に1回の使用が目安。",
+    excerpt: "全自動洗濯機・ドラム式洗濯機・ステンレス槽に対応する塩素系液体タイプの洗濯槽クリーナー。550g×3本、手袋つき。",
     img: "https://m.media-amazon.com/images/I/71su+lstfkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0824R99HC?tag=hide0122-22",
     page: "product-kabikiller-washer-tub-cleaner-3p.html",
@@ -16727,7 +16727,7 @@ const RANKING_POOL = [
   },
   {
     name: "不二貿易 ランドリーバスケット スリム アイボリー 洗濯カゴ 折りたたみ 取っ手付き 内側撥水加工 32810",
-    excerpt: "口が広く洗濯物を入れやすい、折りたためるスリムタイプのランドリーボックス。コットン素材でアイボリーのワンポイントデザイン、取っ手付きで、内側撥水加工の記載があります。",
+    excerpt: "折りたためるスリムタイプのランドリーボックス。コットン素材でアイボリーのワンポイントデザイン、取っ手付きで、内側撥水加工の記載があります。",
     img: "https://m.media-amazon.com/images/I/71b5AGg8NhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01N0UT0X6?tag=hide0122-22",
     page: "product-fujiboeki-laundry-box-slim-ivory-32810.html",
@@ -20759,7 +20759,7 @@ const RANKING_POOL = [
   },
   {
     name: "エリエール Pet キミおもい カチッと 固まる ネコ砂 7L",
-    excerpt: "ベントナイトと活性炭を原材料にした、固まるタイプの猫砂。おしっこをすばやく吸水してカチッと固まる、無香料の7Lです。",
+    excerpt: "ベントナイトと活性炭を原材料にした、固まるタイプの猫砂。カチッと固まる、無香の7Lです。",
     img: "https://m.media-amazon.com/images/I/61fu0xgWMbL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CGXF9VQR?tag=hide0122-22",
     page: "product-elleair-pet-kimiomoi-katchiri-cat-litter-7l.html",
@@ -21209,7 +21209,7 @@ const RANKING_POOL = [
   },
   {
     name: "COMFEE' 電気ポット 2.2L マイコン式",
-    excerpt: "4段階保温・再沸モード・給水量選択に対応したマイコン式電気ポット。安心ロック・空焚き防止で安全性にも配慮",
+    excerpt: "4段階保温・再沸モード・給水量選択に対応したマイコン式電気ポット。安心ロック・空焚き防止を仕様欄に記載。",
     img: "https://m.media-amazon.com/images/I/71eEMSswipL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DY1J9L7T?tag=hide0122-22",
     page: "product-comfee-electric-pot-22l.html",
@@ -22644,7 +22644,7 @@ const RANKING_POOL = [
   },
   {
     name: "BLUNT METRO 折りたたみ傘",
-    excerpt: "BLUNTTips構造で耐風性を高めた折りたたみ傘。UVカット率約90%で日傘としても使用可能。オートオープン対応。",
+    excerpt: "耐風タイプとされる折りたたみ傘。UVカット率約90%で日傘としても使用可能。オートオープン対応。",
     img: "https://m.media-amazon.com/images/I/51O3bBRhv2L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B092SDPMP6?tag=hide0122-22",
     page: "product-blunt-metro-umbrella.html",
@@ -23897,7 +23897,7 @@ const RANKING_POOL = [
   },
   {
     name: "アリエール ミライ 超濃縮 液体【大容量】1170g 部屋干し&スポーツ消臭 コンパクト 洗濯洗剤 詰め替え",
-    excerpt: "超濃縮の液体洗濯洗剤の詰め替え。1170g、部屋干し&スポーツ消臭向けで、タテ・ドラム・自動投入洗濯機に対応する。",
+    excerpt: "超濃縮の液体洗濯洗剤の詰め替え。1170g、部屋干し&スポーツ向けで、タテ・ドラム・自動投入洗濯機に対応する。",
     img: "https://m.media-amazon.com/images/I/81Q6tlo6qvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F6XZRNQ5?tag=hide0122-22",
     page: "product-ariel-mirai-chonoshuku-liquid-refill-1170.html",
