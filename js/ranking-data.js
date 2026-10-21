@@ -1940,7 +1940,7 @@ const RANKING_POOL = [
   },
   {
     name: "プーマ Vコート バルクスニーカー",
-    excerpt: "中敷きのクッション性が高く軽量で歩きやすいスニーカー。シンプルなデザインで合わせやすくコスパの良さが人気。",
+    excerpt: "人工皮革と合成繊維のアッパー、ゴムソール、レースアップのユニセックス大人向けスニーカー。",
     img: "https://m.media-amazon.com/images/I/5142tS8Om4L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09LCLQRVZ?tag=hide0122-22",
     page: "product-puma-vcourt-bulk-sneaker.html",
@@ -4782,7 +4782,7 @@ const RANKING_POOL = [
   },
   {
     name: "ルックプラス バスタブクレンジング 2000ml",
-    excerpt: "こすらず洗浄できる銀イオンプラス配合のお風呂用洗剤。詰め替え2000mlの大容量タイプ。",
+    excerpt: "銀イオンプラスで抗菌、こすらず洗浄と記載のお風呂用洗剤。詰め替え用2000ml。",
     img: "https://m.media-amazon.com/images/I/619LkfHZgbL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C1N1NHTM?tag=hide0122-22",
     page: "product-lookplus-bathtub-cleansing-2000ml.html",
@@ -5582,7 +5582,7 @@ const RANKING_POOL = [
   },
   {
     name: "SoraraBeauty ネイルチップ専用接着シール 240枚入",
-    excerpt: "現役ネイリスト監修のネイルチップ専用両面テープ。0.3mmの極薄タイプで、自然な仕上がりを実現するつけ爪用接着シール。",
+    excerpt: "ネイルチップ専用の接着シール。厚さ0.3mm、240枚入り。",
     img: "https://m.media-amazon.com/images/I/81P3pyKZXrL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F5V8YGLP?tag=hide0122-22",
     page: "product-sorarabeauty-nailtip-adhesive-seal-240.html",
@@ -5785,7 +5785,7 @@ const RANKING_POOL = [
   },
   {
     name: "SCHITEC 犬おもちゃ 音の出る 6点セット",
-    excerpt: "噛むと音が鳴る卵型おもちゃの6個セット。",
+    excerpt: "音の出る犬用おもちゃの6個セット。素材は天然ラテックス、対象は小型犬。",
     img: "https://m.media-amazon.com/images/I/61hWkNqZE8L._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B085RYZVBB?tag=hide0122-22",
     page: "product-schitec-sound-toy-6set.html",
@@ -7528,7 +7528,7 @@ const RANKING_POOL = [
   },
   {
     name: "Srhythm ヘッドホンスタンド",
-    excerpt: "重心を下に配置したアルミ合金の加重ベースで安定。シリコン製ヘッド部でヘッドホンを傷つけにくい",
+    excerpt: "アルミ合金の加重ベース、シリコン製ヘッド部のヘッドホンスタンド。重量213g、寸法12×12×24cm",
     img: "https://m.media-amazon.com/images/I/41ezfFSWJGL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B56HVCZT?tag=hide0122-22",
     page: "product-srhythm-headphone-stand.html",
@@ -13318,7 +13318,7 @@ const RANKING_POOL = [
   },
   {
     name: "Meguiar's ゴールドクラス 洗車シャンプー",
-    excerpt: "米国発の洗車ケミカルブランドMeguiar'sのフォームタイプ洗車シャンプー。洗浄と同時にワックス保護膜を残す設計とされ、生分解性の処方で泡立ちがよく、フォームキャノンにも対応するとされる。",
+    excerpt: "Meguiar'sのフォームタイプ洗車シャンプー。生分解性・染料不使用、フォームキャノン使用時は5:1で希釈と記載されています。",
     img: "https://m.media-amazon.com/images/I/81HCN2EyH2L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0009IQXFO?tag=hide0122-22",
     page: "product-meguiars-g7164-gold-class-shampoo-conditioner.html",
@@ -13871,7 +13871,7 @@ const RANKING_POOL = [
   },
   {
     name: "岡部 業務用割り箸 竹丸箸500膳 PB-356",
-    excerpt: "割らずに使える竹丸箸をポリ完封の個包装で500膳まとめた業務用パック。",
+    excerpt: "竹丸箸をポリ完封の個包装で500膳（100膳×5個）まとめた業務用パック。",
     img: "https://m.media-amazon.com/images/I/81Kk6OOCNCL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D452VY5W?tag=hide0122-22",
     page: "product-okabe-waribashi-takemaru-500zen-pb356.html",
@@ -14326,7 +14326,7 @@ const RANKING_POOL = [
   },
   {
     name: "Pixyo ペットトイレ 猫・犬用 グリッド着脱式 分解丸洗いOK すのこ構造",
-    excerpt: "グリッドとトレーを分解して丸洗いできるトイレ。すのこ構造で足が汚れにくい低床設計。",
+    excerpt: "グリッド着脱式、分解丸洗いOKのすのこ構造トイレ。サイズ64×44.5×4.4cm。",
     img: "https://m.media-amazon.com/images/I/61BLNurqbZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HDJ7LYHF?tag=hide0122-22",
     page: "product-pixyo-pet-toilet-grid-tray.html",
@@ -14564,7 +14564,7 @@ const RANKING_POOL = [
   },
   {
     name: "パール金属 グリルパン AZ-7049",
-    excerpt: "鉄製フタ付きのオール熱源対応グリルパン。焼くだけでなく蒸し焼き調理にも使える。",
+    excerpt: "鉄製フタ付きのオール熱源対応グリルパン。材質は鉄（シリコーン樹脂塗装）。",
     img: "https://m.media-amazon.com/images/I/61aJfbcfv0L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GRTTPLWR?tag=hide0122-22",
     page: "product-pearl-metal-grill-pan-az7049.html",
@@ -15586,7 +15586,7 @@ const RANKING_POOL = [
   },
   {
     name: "シンエイテクノ 段差解消スロープ タッチスロープ 80-30",
-    excerpt: "屋内の小さな段差をなだらかにするスロープ。カットして長さを調整でき、つまずきにくい設計です。歩行器やお掃除ロボットの通過にも使われています。",
+    excerpt: "屋内の小さな段差をなだらかにするスロープ。高さ3.0cm、勾配14度、材質は発泡素材。",
     img: "https://m.media-amazon.com/images/I/41pNg2IqyIL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B009L3A8YK?tag=hide0122-22",
     page: "product-shineitechno-touchslope-8030.html",
@@ -15831,7 +15831,7 @@ const RANKING_POOL = [
   },
   {
     name: "MAMORE 犬 メッシュハーネス 胴輪 超小型犬用 XSサイズ",
-    excerpt: "通気性の良いメッシュ素材を使用した超小型犬向けハーネス。マジックテープで着脱しやすく、チワワなど小柄な犬種に配慮したXSサイズです。",
+    excerpt: "メッシュ素材の超小型犬向けハーネス。マジックテープ式、XSサイズ、対象はチワワなど超小型犬。",
     img: "https://m.media-amazon.com/images/I/91Xu6S8EioL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08BFNH1H9?tag=hide0122-22",
     page: "product-mamore-mesh-harness-xs.html",
@@ -21342,7 +21342,7 @@ const RANKING_POOL = [
   },
   {
     name: "SOUNDPEATS GoFree 2s オープンイヤーイヤホン",
-    excerpt: "C字型ブリッジでズレにくい耳掛け型オープンイヤー。15.4mm大口径ドライバー。",
+    excerpt: "耳掛け型オープンイヤー。15.4mmドライバー、LDAC対応、IPX5。",
     img: "https://m.media-amazon.com/images/I/61WBvCYIHLL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H395CLHX?tag=hide0122-22",
     page: "product-soundpeats-gofree-2s.html",
@@ -23225,7 +23225,7 @@ const RANKING_POOL = [
   },
   {
     name: "Samsung T7 ポータブルSSD 1TB",
-    excerpt: "USB 3.2 Gen 2接続の1TBポータブルSSD。最大読み出し1,050MB/秒、AES 256bit暗号化、重量72g、3年間の限定保証",
+    excerpt: "USB 3.2 Gen 2接続の1TBポータブルSSD。最大読み出し1,050MB/秒、AES 256bit暗号化、3年間の限定保証",
     img: "https://m.media-amazon.com/images/I/61abr1GXtZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DM23XSH6?tag=hide0122-22",
     page: "product-samsung-t7-portable-ssd-1tb.html",
