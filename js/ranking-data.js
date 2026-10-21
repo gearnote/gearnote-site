@@ -3158,7 +3158,7 @@ const RANKING_POOL = [
   },
   {
     name: "PITAKA UltraGuard iPhone 17 Pro Max ケース",
-    excerpt: "軍用グレードの耐衝撃性能を備えたフルカバーケース。アラミド繊維採用で薄型軽量、MagSafe対応。",
+    excerpt: "アラミド繊維製のフルカバーケース。耐衝撃、MagSafe対応が仕様表に記載されています。",
     img: "https://m.media-amazon.com/images/I/613TxsXVHJL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FP2BMF5F?tag=hide0122-22",
     page: "product-pitaka-ultraguard-iphone17promax.html",
@@ -9944,7 +9944,7 @@ const RANKING_POOL = [
   },
   {
     name: "PROIRON ケトルベル 8kg",
-    excerpt: "一体型鋳鉄製の8kgケトルベル。全身トレーニングに使う。",
+    excerpt: "鋳鉄製の8kgケトルベル。全身トレーニングに使う。",
     img: "https://m.media-amazon.com/images/I/91Nu1NpIWjL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07WJZLD4M?tag=hide0122-22",
     page: "product-proiron-kettlebell-8kg.html",
@@ -10056,7 +10056,7 @@ const RANKING_POOL = [
   },
   {
     name: "AESTIQUO ランニングライト クリップライト 充電式",
-    excerpt: "約31gの超軽量クリップライト。ウェアやバッグに取り付けて、夜間の視認性を高めるためのライトです。",
+    excerpt: "約31gのクリップライト。ウェアやバッグに取り付けて、夜間の視認性を高めるためのライトです。",
     img: "https://m.media-amazon.com/images/I/61HFaeNNTgL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H5WYFLQC?tag=hide0122-22",
     page: "product-aestiquo-running-clip-light.html",
@@ -17427,7 +17427,7 @@ const RANKING_POOL = [
   },
   {
     name: "PAL&amp;I パルアイ ドッグフード プレミアム 1kg 無添加 グルテンフリー 九州産鶏肉使用",
-    excerpt: "九州産鶏肉と国産の穀物・野菜を使ったノンオイルコーティングのドライフード。小麦グルテンフリーで、成犬期〜シニア期の犬が対象の1kgです。",
+    excerpt: "九州産鶏肉を使ったノンオイルコーティングのドライフード。小麦グルテンフリーで、成犬期〜シニア期の犬が対象の1kgです。",
     img: "https://m.media-amazon.com/images/I/71ryMXYASKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09LC67SLH?tag=hide0122-22",
     page: "product-pal-and-i-premium-dogfood-chicken-1kg.html",
@@ -26305,7 +26305,7 @@ const RANKING_POOL = [
   },
   {
     name: "バスクリン アロマスパークリング 30g×30包 6種の香り 個包装 アソート アロマ 粉末 入浴剤",
-    excerpt: "バスクリン アロマスパークリング 30g×30包 6種の香り。発泡ビーズ、天然アロマ配合、透明湯とにごり湯のアソート、生後3か月以上の赤ちゃんと入浴時も使えると記載。",
+    excerpt: "バスクリン アロマスパークリング 30g×30包 6種の香り。発泡ビーズ、天然アロマ配合、透明湯とにごり湯のアソート。",
     img: "https://m.media-amazon.com/images/I/81Wtpsd1KuL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D5Y51VNV?tag=hide0122-22",
     page: "product-bathclin-aroma-sparkling-30x30-6scents.html",
