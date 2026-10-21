@@ -11575,7 +11575,7 @@ const RANKING_POOL = [
   },
   {
     name: "KIZAWA カーボン折りたたみ傘",
-    excerpt: "カーボンファイバー骨で軽量に仕上げた折りたたみ傘",
+    excerpt: "カーボンファイバー骨を使用した折りたたみ傘。親骨50cmタイプは約84g、5級撥水のナイロン生地です。",
     img: "https://m.media-amazon.com/images/I/619pFv8mWzL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0865M8NX7?tag=hide0122-22",
     page: "product-kizawa-carbon-folding-umbrella.html",
@@ -13066,7 +13066,7 @@ const RANKING_POOL = [
   },
   {
     name: "ライクイット (like-it) 靴収納 シューズラック スリム 5段 ショートブーツ収納 省スペース 組み立て簡単 玄関 CUBE",
-    excerpt: "玄関の省スペースに置けるスリムな据え置き型シューズラック。5段構成でショートブーツの収納にも対応し、組み立ても簡単な日本製。",
+    excerpt: "玄関の省スペースに置けるスリムな5段のシューズラック。素材はポリプロピレン、耐荷重約5kg（各段あたり約1kg）、生産国は日本です。",
     img: "https://m.media-amazon.com/images/I/51Pj42f18EL._AC_SY606_.jpg",
     link: "https://www.amazon.co.jp/dp/B00GQON28G?tag=hide0122-22",
     page: "product-likeit-shoe-rack-cube.html",
