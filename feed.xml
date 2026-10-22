@@ -6,7 +6,203 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 21 Oct 2026 11:30:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 06:21:46 +0000</lastBuildDate>
+  <item>
+    <title>オーブントースターの選び方ガイド｜庫内サイズ・ヒーター・温度調節・消費電力の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-oven-toaster</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-oven-toaster</guid>
+    <description>オーブントースターの種類（標準タイプ・スチーム付き・ポップアップ）、焼ける枚数と庫内サイズ、ヒーター構成、温度調節とタイマー、消費電力、お手入れといった仕様表の見方を、当サイト掲載のバルミューダ・BRUNO・アイリスオーヤマ・タイガー・コイズミなどの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブレンダー・ミキサーの選び方ガイド｜タイプ・容量・出力・運転時間・お手入れの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-blender</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-blender</guid>
+    <description>ハンドブレンダー・コードレスブレンダー・据え置き型ミキサー・ハンドミキサーの違い、容量、出力（W）と定格時間、充電式の使用可能時間、付属アタッチメント、食洗機対応といった仕様表の見方を、当サイト掲載のパナソニック・ティファール・Ninja・貝印・クイジナートなどの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>フライパンの選び方ガイド｜サイズ・素材・コーティング・IH対応・重さの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-frying-pan</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-frying-pan</guid>
+    <description>フライパンの素材（アルミ・鉄・鋳鉄）とコーティングの違い、サイズと深さ、IH・ガス火の対応熱源、取っ手の種類、重さ、食洗機の可否といった仕様表の見方を、当サイト掲載のティファール・サーモス・貝印・リバーライト・グリーンパンなどの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>サウンドバーの選び方ガイド｜チャンネル数・出力・接続端子・サイズの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-soundbar</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-soundbar</guid>
+    <description>サウンドバーのチャンネル構成（2.0ch・2.1ch・3.1ch・5.1.2ch）、サブウーファーの有無、出力（W）の表記の違い、Dolby Atmosなど対応フォーマット、HDMI（ARC・eARC）・光デジタル・Bluetoothの接続、サイズと設置といった仕様表の見方を、当サイト掲載のヤマハ・ソニー・JBL・パナソニック・Sonos・Boseなどの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>水筒・タンブラーの選び方ガイド｜容量・保温保冷効力・せんの種類・口径・お手入れの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-vacuum-bottle</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-vacuum-bottle</guid>
+    <description>真空断熱の水筒（マグボトル）とタンブラーの違い、容量と実容量の表記、保温・保冷効力の測定条件、せんのタイプ（ワンプッシュ・スクリュー・ふた付き）、口径、重さ、食洗機の対応といった仕様表の見方を、当サイト掲載のサーモス・タイガー・象印・和平フレイズなどの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>microSD・SDカードの選び方ガイド｜容量規格・速度クラス・用途・カードリーダーの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-microsd</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-microsd</guid>
+    <description>microSDとSDカードの違い、SDHC・SDXCなど容量規格、UHS-I・UHS-II・microSD Expressの違い、Class10・U3・V30・A2といった速度クラスの読み方、読み出し・書き込み速度の表記、ドライブレコーダー向けの高耐久カード、カードリーダーまで、当サイト掲載のKIOXIA・SanDisk・Kingston・エレコムなどの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Echo Show 8・Echo Show 11・Echo Show 15の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-echo-show-8-vs-11-vs-15</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-echo-show-8-vs-11-vs-15</guid>
+    <description>Echo Show 8・Echo Show 11・Echo Show 15の違いを、画面サイズ・スピーカー構成・サイズと重量・Fire TV機能の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Fire TV CubeとFire TV Stick 4K（新しいFire TVリモコン付属）の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-fire-tv-cube-vs-stick-4k</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-fire-tv-cube-vs-stick-4k</guid>
+    <description>Fire TV CubeとFire TV Stick 4K（新しいFire TVリモコン付属）の違いを、形状・HDR規格・ストレージ・有線LAN・給電の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Kindle ColorsoftとKindle Paperwhite シグニチャーエディションの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-kindle-colorsoft-vs-paperwhite-signature</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-kindle-colorsoft-vs-paperwhite-signature</guid>
+    <description>Kindle ColorsoftとKindle Paperwhite シグニチャーエディションの違いを、カラー表示・ストレージ・バッテリー・ワイヤレス充電の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム USB-Cドッキングステーション DST-W01とDST-W09の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-elecom-dst-w01-vs-dst-w09</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-elecom-dst-w01-vs-dst-w09</guid>
+    <description>エレコム USB-Cドッキングステーション DST-W01とDST-W09の違いを、HDMI解像度・LANポート・USB-Aポートの給電容量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SanDisk エクストリーム ポータブルSSD E70（1TB）とExtreme PRO E83（2TB）の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-sandisk-extreme-e70-1tb-vs-extreme-pro-e83-2tb</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-sandisk-extreme-e70-1tb-vs-extreme-pro-e83-2tb</guid>
+    <description>SanDisk エクストリーム ポータブルSSD E70（1TB）とExtreme PRO E83（2TB）の違いを、インターフェース・読み書き速度・容量・対応OSの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム USB充電器 45W（EC-AC13145BK）と65W（EC-AC12565BK）の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-elecom-ec-ac13145bk-vs-ec-ac12565bk</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-elecom-ec-ac13145bk-vs-ec-ac12565bk</guid>
+    <description>エレコム USB充電器 45W（EC-AC13145BK）と65W（EC-AC12565BK）の違いを、最大出力・電力ディスプレイ・ケーブル付属・サイズの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Nano Charger 45W Display・45W ケーブル付き・70W 3ポートの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-anker-nano-charger-45w-display-vs-45w-cable-vs-70w</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-anker-nano-charger-45w-display-vs-45w-cable-vs-70w</guid>
+    <description>Anker Nano Charger 45W Display・45W ケーブル付き・70W 3ポートの違いを、最大出力・ポート数・ディスプレイ・ケーブル付属の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ドルツ EW-DA19-W・EW-DM74-W・EW-DP58-Wの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-panasonic-doltz-ew-da19-vs-ew-dm74-vs-ew-dp58</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-panasonic-doltz-ew-da19-vs-ew-dm74-vs-ew-dp58</guid>
+    <description>パナソニック ドルツ EW-DA19-W・EW-DM74-W・EW-DP58-Wの違いを、振動方式・モード・ブラシ・付属品・重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>フィリップス ソニッケアー 2100シリーズと3100シリーズの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-philips-sonicare-2100-vs-3100</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-philips-sonicare-2100-vs-3100</guid>
+    <description>フィリップス ソニッケアー 2100シリーズと3100シリーズの違いを、強さの段階・過圧防止センサー・質量・セット内容の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブラウン電気シェーバー シリーズ5・シリーズ7・シリーズ8の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-braun-series5-vs-series7-vs-series8</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-braun-series5-vs-series7-vs-series8</guid>
+    <description>ブラウン電気シェーバー シリーズ5・シリーズ7・シリーズ8の違いを、刃の構成・モード・洗浄器・連続使用時間・付属品の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>フィリップス ソニッケアー コードレスパワーフロッサー2000と3000の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-philips-sonicare-powerflosser-2000-vs-3000</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-philips-sonicare-powerflosser-2000-vs-3000</guid>
+    <description>フィリップス ソニッケアー コードレスパワーフロッサー2000と3000の違いを、モード・ノズル・タンク容量・同梱物の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ気化式加湿器 HDF-1000-WとAHM-MVU55A-DHの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-iris-ohyama-hdf-1000-w-vs-ahm-mvu55a-dh</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-iris-ohyama-hdf-1000-w-vs-ahm-mvu55a-dh</guid>
+    <description>アイリスオーヤマ気化式加湿器 HDF-1000-WとAHM-MVU55A-DHの違いを、適用床面積・加湿量・タンク容量・本体サイズの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ オイルヒーター IOH-1208KS-WとミニオイルヒーターPOH-505K-MDの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-iris-ohyama-oil-heater-ioh-1208ks-vs-poh-505k</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-iris-ohyama-oil-heater-ioh-1208ks-vs-poh-505k</guid>
+    <description>アイリスオーヤマ オイルヒーター IOH-1208KS-WとミニオイルヒーターPOH-505K-MDの違いを、消費電力・適用床面積・本体サイズ・重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ ホットカーペット IHC-10-H（1畳）とIHC-20-H（2畳）の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-iris-ohyama-hot-carpet-1jo-vs-2jo</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-iris-ohyama-hot-carpet-1jo-vs-2jo</guid>
+    <description>アイリスオーヤマ ホットカーペット IHC-10-H（1畳）とIHC-20-H（2畳）の違いを、サイズ・暖房面切替・温度調節・タイマー・重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>バルミューダ ザ・トースター K05A・2026年モデルKTT02JP・Pro 2026年モデルKTT03JPの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-balmuda-toaster-k05a-vs-ktt02jp-vs-ktt03jp</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-balmuda-toaster-k05a-vs-ktt02jp-vs-ktt03jp</guid>
+    <description>バルミューダ ザ・トースター K05A・2026年モデルKTT02JP・Pro 2026年モデルKTT03JPの違いを、運転モード・サラマンダーモード・本体寸法・重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー WH-CH720NとWH-CH730Nの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-sony-wh-ch720n-vs-ch730n</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-sony-wh-ch720n-vs-ch730n</guid>
+    <description>ソニー WH-CH720NとWH-CH730Nの違いを、連続再生時間・重量・ノイズキャンセリング・急速充電の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Shokz OpenFit Air 2とOpenFit Proの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-shokz-openfit-air-2-vs-openfit-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-shokz-openfit-air-2-vs-openfit-pro</guid>
+    <description>Shokz OpenFit Air 2とOpenFit Proの違いを、ノイズ制御・再生時間・急速充電・ワイヤレス充電の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Soundcore Select 4 Go・Mini 3・Soundcore 2の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-soundcore-select-4-go-vs-mini-3-vs-soundcore-2</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-soundcore-select-4-go-vs-mini-3-vs-soundcore-2</guid>
+    <description>Anker Soundcore Select 4 Go・Mini 3・Soundcore 2の違いを、出力・連続再生時間・防水規格・重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Shokz OpenRunとOpenRun Air 2の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-shokz-openrun-vs-openrun-air-2</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-shokz-openrun-vs-openrun-air-2</guid>
+    <description>Shokz OpenRunとOpenRun Air 2の違いを、再生時間・急速充電・Bluetooth・サウンド技術の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple Watch Series 11とApple Watch Ultra 3の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-apple-watch-series-11-vs-ultra-3</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-apple-watch-series-11-vs-ultra-3</guid>
+    <description>Apple Watch Series 11とApple Watch Ultra 3の違いを、ケース素材・耐水性能・バッテリー・衛星通信の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi Watch S4とGARMIN Venu 4の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-xiaomi-watch-s4-vs-garmin-venu-4</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-xiaomi-watch-s4-vs-garmin-venu-4</guid>
+    <description>Xiaomi Watch S4とGARMIN Venu 4の違いを、ディスプレイ・バッテリー・通話・Suica対応の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Insta360 X4とInsta360 X6の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-insta360-x4-vs-x6</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-insta360-x4-vs-x6</guid>
+    <description>Insta360 X4とInsta360 X6の違いを、360度動画の仕様・バッテリー・防水・編集機能の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -159,202 +355,6 @@
     <link>https://gearnote.net/product-aulumu-g02-card-case-stand</link>
     <guid isPermaLink="true">https://gearnote.net/product-aulumu-g02-card-case-stand</guid>
     <description>Aulumu G02 カードケース 薄型＆スマホスタンドの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Aulumu M01 4in1 ワイヤレス充電器 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-aulumu-m01-wireless-charger</link>
-    <guid isPermaLink="true">https://gearnote.net/product-aulumu-m01-wireless-charger</guid>
-    <description>Aulumu M01 4in1 ワイヤレス充電器 MagSafe対応 折りたたみ式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Aulumu G05 Pro EDC多機能スタンド の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-aulumu-g05-pro-edc-stand</link>
-    <guid isPermaLink="true">https://gearnote.net/product-aulumu-g05-pro-edc-stand</guid>
-    <description>Aulumu G05 Pro スマホスタンド EDC多機能ツールの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>BAZOOKA ホエイプロテインの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bazooka-whey-protein</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bazooka-whey-protein</guid>
-    <description>BAZOOKA NUTRITION ホエイプロテイン チョコレート風味の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ボールド ジェルボール 柔軟剤入りの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bold-gel-ball-softener-100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bold-gel-ball-softener-100</guid>
-    <description>ボールド ジェルボール 柔軟剤入り【大容量】100個 プレミアムブロッサムの香りの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose QuietComfort Earbuds の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-quietcomfort-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-earbuds</guid>
-    <description>Bose QuietComfort Earbuds ワイヤレスノイズキャンセリングイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose QuietComfort Headphones（第2世代）の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-quietcomfort-headphones-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-headphones-2</guid>
-    <description>Bose QuietComfort Headphones（第2世代）ワイヤレスヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose QC Ultra Earbuds 2の特徴・デメリット・比較｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-quietcomfort-ultra-earbuds-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-ultra-earbuds-2</guid>
-    <description>Bose QuietComfort Ultra Earbuds（第2世代）の特徴を整理。メリット・デメリット、AirPods 4・WF-1000XM6との比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose QuietComfort Ultra Headphones の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-quietcomfort-ultra-headphones-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-ultra-headphones-2</guid>
-    <description>Bose QuietComfort Ultra Headphones（第2世代）ワイヤレスヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose SoundLink Micro の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-soundlink-micro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-micro</guid>
-    <description>Bose SoundLink Micro Bluetooth speakerの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose SoundWear Companion speaker の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-soundwear-companion</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-soundwear-companion</guid>
-    <description>Bose SoundWear Companion speaker（ウェアラブルネックスピーカー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose Frames Soprano オーディオサングラス の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-frames-soprano</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-frames-soprano</guid>
-    <description>Bose Frames Soprano Audio Sunglassesのメガネ型スピーカーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>防災のミカタ 防災グッズセットの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bousai-no-mikata-emergency-backpack-45</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bousai-no-mikata-emergency-backpack-45</guid>
-    <description>防災のミカタ 防災グッズ セット リュック 1人用 45点の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン 洗浄液 CCR8の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-ccr8-cleaning</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-ccr8-cleaning</guid>
-    <description>ブラウン 洗浄液 8個入 CCR8の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン オーラルB iO6 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-oral-b-io6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-oral-b-io6</guid>
-    <description>ブラウン オーラルB iO6 電動歯ブラシの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン シリーズ9 SPORTの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-series9-sport</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-series9-sport</guid>
-    <description>ブラウン 電気シェーバー シリーズ9 SPORTの特徴を整理。メリット・デメリット、ラムダッシュPRO・フィリップス5000シリーズとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン オーラルB 替えブラシ やわらか極細毛ブラシ EB60-3+1 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-oral-b-eb60-brush-heads</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-oral-b-eb60-brush-heads</guid>
-    <description>ブラウン オーラルB 替えブラシ やわらか極細毛ブラシ(4本入) EB60-3+1の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン マルチクイック7 ハンドブレンダー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-multiquick7-hand-blender</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-multiquick7-hand-blender</guid>
-    <description>ブラウン(Braun) ハンドブレンダー マルチクイック7 MQ735の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン トラベルアラームクロック BC05B の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-bc05-travel-clock</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-bc05-travel-clock</guid>
-    <description>BRAUN(ブラウン) 置き時計 アナログ トラベルアラームクロック BC05Bの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>クリーンデンタルの特徴・デメリット・比較｜GEARNOTE</title>
-    <link>https://gearnote.net/product-clean-dental-total-care-toothpaste-100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-clean-dental-total-care-toothpaste-100</guid>
-    <description>クリーンデンタル トータルケア 歯磨き粉の特徴を整理。メリット・デメリット、システマEX W・Ora2との比較、向き不向きをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ ダブルウォールグラス の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-double-wall-glass</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-double-wall-glass</guid>
-    <description>デロンギ ダブルウォールグラス DWG2S-190（2個セット）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ コーヒーグラインダー KG200JN の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-kg200jn</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-kg200jn</guid>
-    <description>デロンギ コーヒーグラインダー KG200JN カッター式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ マグニフィカスタート ECAM22022GB の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-magnifica-start</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-start</guid>
-    <description>デロンギ 全自動コーヒーマシン マグニフィカスタート ECAM22022GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ エスプレッソメーカー ECP3220J の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-ecp3220j-espresso-maker</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-ecp3220j-espresso-maker</guid>
-    <description>De&#x27;Longhi(デロンギ) エスプレッソメーカー ECP3220Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ ミニオイルヒーター NJ0505E の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-mini-oil-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-mini-oil-heater</guid>
-    <description>De&#x27;Longhi(デロンギ) ミニオイルヒーター NJ0505Eの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dove ボディーソープ 大容量詰替の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dove-body-soap-refill-2-8kg</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dove-body-soap-refill-2-8kg</guid>
-    <description>Dove(ダヴ) ボディーソープ プレミアムモイスチャーケア 大容量詰替 8.5個分 2.8kgの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エリエール トイレットペーパー 18ロールの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elleair-toilet-paper-18</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elleair-toilet-paper-18</guid>
-    <description>エリエール トイレットペーパー 30m×18ロール ダブル パルプ100%の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エリエール シャワートイレ用トイレットペーパーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elleair-washlet-toilet-paper-72</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elleair-washlet-toilet-paper-72</guid>
-    <description>エリエール シャワートイレのためにつくった吸水力が2倍のトイレットペーパー 25m×72ロール（ケース販売）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Eufy SmartTrack Linkの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-eufy-smarttrack-link</link>
-    <guid isPermaLink="true">https://gearnote.net/product-eufy-smarttrack-link</guid>
-    <description>Eufy SmartTrack Link（キーホルダー型紛失防止タグ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
