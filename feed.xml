@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 22 Oct 2026 08:48:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 11:36:24 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -75,6 +75,13 @@
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
     <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -232,6 +239,13 @@
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>本・文房具の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-books</link>
+    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
+    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>宅トレ器具おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-home-training</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-home-training</guid>
@@ -264,6 +278,13 @@
     <link>https://gearnote.net/product-anker-soundcore-mini-3</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-mini-3</guid>
     <description>Anker Soundcore Mini 3 コンパクトBluetoothスピーカーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-logicool</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
+    <description>ロジクール製品の特徴、マウス・キーボード・Webカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/product-kioxia-sd-card-256gb</link>
     <guid isPermaLink="true">https://gearnote.net/product-kioxia-sd-card-256gb</guid>
     <description>KIOXIA(キオクシア)【日本製】SDカード 256GB SDXC UHS-I対応 Class10の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KIOXIA microSD 256GB の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kioxia-microsd-256gb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kioxia-microsd-256gb</guid>
-    <description>KIOXIA(キオクシア) microSD 256GB UHS-I Class10の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KIOXIAの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-kioxia</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-kioxia</guid>
-    <description>KIOXIA製品の特徴、SSD・SDカード・USBメモリの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バンダイの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-bandai</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-bandai</guid>
-    <description>バンダイ(BANDAI)製品の特徴、年齢・キャラクター別のおもちゃ・フィギュアの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
