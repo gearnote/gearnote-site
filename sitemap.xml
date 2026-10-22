@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2467,7 +2467,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-books</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3027,7 +3027,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-logicool</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5897,7 +5897,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-wireless-mouse</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -10127,7 +10127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -21387,7 +21387,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/feature-winter-prep-2026</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -21417,7 +21417,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/feature-work-from-home-2026</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -27962,7 +27962,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -29865,5 +29865,30 @@
     <loc>https://gearnote.net/compare-kokuyo-campus-dot-vs-nakabayashi-logical-vs-tsubame-b5</loc>
     <lastmod>2026-10-22</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-ceramic-fan-heater-dpsf-ep12-h-human-sensor</loc>
+    <lastmod>2026-10-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-hot-carpet-ywc-182f-gg-e-washable-180x80</loc>
+    <lastmod>2026-10-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-epson-ew-056a1-a4-inkjet-multifunction-printer</loc>
+    <lastmod>2026-10-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-logicool-mobi-fold-mf900grd-foldable-wireless-mouse</loc>
+    <lastmod>2026-10-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-regza-50e350s-50v-4k-lcd-tv-2026</loc>
+    <lastmod>2026-10-22</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
