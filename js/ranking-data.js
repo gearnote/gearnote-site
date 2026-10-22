@@ -22798,7 +22798,7 @@ const RANKING_POOL = [
   },
   {
     name: "HUAWEI FreeBuds SE 4 ANC",
-    excerpt: "SEシリーズ初のANC搭載モデル。最大50dBのノイズキャンセリングとケース併用で約50時間再生のロングバッテリー。",
+    excerpt: "SEシリーズ初のANC搭載モデル。ノイズキャンセリングとケース併用で約50時間再生のロングバッテリー。",
     img: "https://m.media-amazon.com/images/I/41y0WQBJ1iL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FLD1DXYP?tag=hide0122-22",
     page: "product-huawei-freebuds-se-4-anc.html",
@@ -22826,7 +22826,7 @@ const RANKING_POOL = [
   },
   {
     name: "HUAWEI FreeBuds 5i",
-    excerpt: "最大42dBのアクティブノイズキャンセリングを搭載したカナル型イヤホン。3モード切替と最大4デバイス接続管理に対応。",
+    excerpt: "最大42dBのアクティブノイズキャンセリングを搭載したカナル型イヤホン。3モード切替とマルチポイント接続（2台同時接続）に対応。",
     img: "https://m.media-amazon.com/images/I/71vJT2nBbwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BVQHWDS8?tag=hide0122-22",
     page: "product-huawei-freebuds-5i.html",
@@ -26584,7 +26584,7 @@ const RANKING_POOL = [
     page: "product-balmuda-the-toaster-2026-ktt02jp-bk.html",
   },
   {
-    name: "【公式】【2026年モデル】バルミューダ ザ・トースター プロ ホワイト オーブントースター タイマー15分 KTT03JP-BK",
+    name: "【公式】【2026年モデル】バルミューダ ザ・トースター プロ オーブントースター タイマー15分 KTT03JP-BK",
     excerpt: "バルミューダ ザ・トースター プロ 2026年モデル KTT03JP。サラマンダーモード搭載、パン専用4モード・スチームデリ・クラシック（170℃/230℃）、消費電力1300W、タイマー15分と記載。",
     img: "https://m.media-amazon.com/images/I/51Sy0bPHRoL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HHMNBJQD?tag=hide0122-22",
@@ -28111,7 +28111,7 @@ const RANKING_POOL = [
   },
   {
     name: "ダイニチ (Dainichi) 石油ファンヒーター (木造15畳まで/コンクリート20畳まで) SGXタイプ ストーンブラック FW-5725SGX-K",
-    excerpt: "ダイニチ 石油ファンヒーター FW-5725SGX-K。木造15畳(25.0㎡)・コンクリート20畳(33.0㎡)のめやす、タンク9.0L、快温トリプルフラップ、9Lタンク、Wエコプラスと記載。",
+    excerpt: "ダイニチ 石油ファンヒーター FW-5725SGX-K。木造15畳(25.0㎡)・コンクリート20畳(33.0㎡)のめやす、タンク9.0L、快温トリプルフラップ、9Lタンクと記載。",
     img: "https://m.media-amazon.com/images/I/61v4Br5VwUL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H93N4WJD?tag=hide0122-22",
     page: "product-dainichi-sekiyu-fan-heater-fw-5725sgx-k.html",
