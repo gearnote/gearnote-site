@@ -26522,7 +26522,7 @@ const RANKING_POOL = [
   },
   {
     name: "Xiaomi Smart Band 11 Active シャオミスマートバンド 18日間持続 防水 心拍睡眠 着信通知 軽量 大画面 24時間健康管理",
-    excerpt: "Xiaomi Smart Band 11 Active。1.47インチ・60Hzカラーディスプレイ、5ATM防水、50種のスポーツモード、バッテリー最大21日間（商品名は18日間）と記載。",
+    excerpt: "Xiaomi Smart Band 11 Active。1.47インチ・60Hzカラーディスプレイ、5ATM防水、50種のスポーツモード、バッテリーはライトユース時最大21日間（メーカー公式）と記載。",
     img: "https://m.media-amazon.com/images/I/61eoJLa---L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H6XG5BZV?tag=hide0122-22",
     page: "product-xiaomi-smart-band-11-active.html",
@@ -26648,7 +26648,7 @@ const RANKING_POOL = [
   },
   {
     name: "Bose Sport Open Earbuds ワイヤレスイヤホン クリップ式 USB-C充電 最長22時間再生 耐汗仕様 IP54防滴仕様 ワークアウトに最適 クリアな通話を実現するマイク ユーカリグリーン",
-    excerpt: "Bose Sport Open Earbuds ユーカリグリーン。クリップ式のオープンイヤー、IP54、最長7時間再生＋ケース内22時間分、USB-C・ワイヤレス充電、自動音量調節と記載。",
+    excerpt: "Bose Sport Open Earbuds ユーカリグリーン。クリップ式のオープンイヤー、IP54、最長7時間再生・ケース使用時最長29時間（メーカー公式）、USB-C・ワイヤレス充電、自動音量調節と記載。",
     img: "https://m.media-amazon.com/images/I/51S2bUkAYbL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HHG12ZXM?tag=hide0122-22",
     page: "product-bose-sport-open-earbuds-eucalyptus-green.html",
