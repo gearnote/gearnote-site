@@ -29154,7 +29154,7 @@ const RANKING_POOL = [
   },
   {
     name: "[山善] セラミックファンヒーター 大風量 人感 温度 Wセンサー 節電運転 温風2段階 切タイマー 転倒オフスイッチ YKDSF-VD121(C)",
-    excerpt: "山善 セラミックファンヒーター YKDSF-VD121(C)。温度・人感Wセンサー（約2m以内）、温風2段階、節電モード、切タイマー、消費電力1200W、本体重量3.1kgと記載。",
+    excerpt: "山善 セラミックファンヒーター YKDSF-VD121(C)。温度・人感Wセンサー（約2m以内）、温風設定（節電・弱・強）、節電モード、切タイマー、消費電力1200W、本体重量3.1kgと記載。",
     img: "https://m.media-amazon.com/images/I/51lo4G2ppwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HH995ZCW?tag=hide0122-22",
     page: "product-yamazen-ceramic-fan-heater-ykdsf-vd121-c-dual-sensor.html",
@@ -29189,7 +29189,7 @@ const RANKING_POOL = [
   },
   {
     name: "レグザ50V型 50E350S 4K液晶テレビ 20W音響 低遅延ゲームモード【2026年モデル】",
-    excerpt: "レグザ 50E350S（50V型 4K液晶テレビ・2026年モデル）。4K・60Hz、20W音響、約0.83msecの瞬速ゲームモード、HDMI×3、Wi-Fi・Bluetooth・AirPlay 2対応と記載。",
+    excerpt: "レグザ 50E350S（50V型 4K液晶テレビ・2026年モデル）。4K、20W音響、約0.83msecの瞬速ゲームモード、HDMI×3、Wi-Fi・Bluetooth・AirPlay 2対応と記載。",
     img: "https://m.media-amazon.com/images/I/71vdfkTPbnL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H8SKKWYD?tag=hide0122-22",
     page: "product-regza-50e350s-50v-4k-lcd-tv-2026.html",
@@ -29203,7 +29203,7 @@ const RANKING_POOL = [
   },
   {
     name: "[山善] 電気ストーブ ヒーター 小型 足元 転倒OFFスイッチ 出力切替3段階 簡単操作 グレー KDS-H06(H)E",
-    excerpt: "山善 電気ストーブ KDS-H06(H)E。弱250W・中350W・強600Wの3段階の出力切替、ダイヤル操作、転倒OFFスイッチ、1.5kgの小型タイプと記載。",
+    excerpt: "山善 電気ストーブ KDS-H06(H)E。弱250W・中350W・強600Wの3段階の出力切替、転倒OFFスイッチ、1.5kgの小型タイプと記載。",
     img: "https://m.media-amazon.com/images/I/61AVBWKF0PL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HH946D8W?tag=hide0122-22",
     page: "product-yamazen-electric-stove-kds-h06-h-e-3stage-tipover-off.html",
@@ -29224,7 +29224,7 @@ const RANKING_POOL = [
   },
   {
     name: "ハイセンス 43V型 43E50S 4K スマート Wチューナー内蔵 ネット動画 液晶 テレビ HDMI2.1 低遅延ゲームモード Alexa AirPlay2 2026年モデル",
-    excerpt: "ハイセンス 43E50S（43V型 4K液晶テレビ・2026年モデル）。Wチューナー内蔵、60Hz、HDMI×4（2.1対応は2つ）、低遅延ゲームモード、AirPlay 2・Alexa対応と記載。",
+    excerpt: "ハイセンス 43E50S（43V型 4K液晶テレビ・2026年モデル）。Wチューナー内蔵、HDMI×3（2.1対応は2つ）、ゲームモード、AirPlay 2・Alexa対応と記載。",
     img: "https://m.media-amazon.com/images/I/81dKOmKbn1L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H1CMJQVP?tag=hide0122-22",
     page: "product-hisense-43e50s-43v-4k-lcd-tv-2026.html",
