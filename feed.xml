@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 15:21:05 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 15:42:45 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -26,6 +26,20 @@
     <link>https://gearnote.net/product-switchbot-hub3</link>
     <guid isPermaLink="true">https://gearnote.net/product-switchbot-hub3</guid>
     <description>SwitchBot ハブ3 スマートリモコン(Alexa対応)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エアースペンサー 車用芳香剤の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-airspencer-car-fragrance-pinkshower</link>
+    <guid isPermaLink="true">https://gearnote.net/product-airspencer-car-fragrance-pinkshower</guid>
+    <description>エアースペンサー 車用 芳香消臭剤カートリッジ ピンクシャワーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -50,6 +64,41 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ファイル・印鑑おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-office-file-supplies</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-office-file-supplies</guid>
+    <description>キングジム クリアファイル カラーベース・プラス クリアホルダー・ハンコヤストア ジョインティJ9を徹底比較。各商品の特徴をもとに、使い勝手・耐久性の観点からおすすめのファイル・印鑑用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車の補修・メンテナンス用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-car-maintenance</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-car-maintenance</guid>
+    <description>ソフト99 ウレタンクリアー・KURE LOOX ヘッドライトクリア・ソフト99 ガラコワイパー替えゴムを徹底比較。各商品の特徴をもとに、施工のしやすさ・効果の観点からおすすめの補修・メンテナンス用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車内ケア・消臭グッズおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-car-interior-care</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-car-interior-care</guid>
+    <description>エアースペンサー 車用芳香剤・カーメイト Dr.DEO 消臭剤・ソフト99 フクピカダッシュボードを徹底比較。各商品の特徴をもとに、消臭力・使いやすさの観点からおすすめの車内ケア用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Nintendo Switch2ソフトおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-switch2-games</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-switch2-games</guid>
+    <description>マリオカート ワールド・スプラトゥーン レイダース・ドンキーコング バナンザを徹底比較。各商品の特徴をもとに、遊び方・対応人数の観点からおすすめのSwitch2ソフトを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>PS5ソフトおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-ps5-games</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-ps5-games</guid>
+    <description>モンスターハンターワイルズ・龍が如く8外伝 Pirates in Hawaii・ほの暮しの庭を徹底比較。各商品の特徴をもとに、ジャンル・遊び方の観点からおすすめのPS5ソフトを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>急速充電器おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-gan-chargers</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-gan-chargers</guid>
@@ -61,6 +110,27 @@
     <link>https://gearnote.net/ranking-power-banks</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-power-banks</guid>
     <description>Anker Power Bank（10000mAh）・Anker Power Bank（25000mAh）・Anker Zolo Power Bankを徹底比較。各商品の特徴をもとに、容量・出力の観点からおすすめのモバイルバッテリーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>調理・製菓道具おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-kitchen-tools</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-kitchen-tools</guid>
+    <description>貝印 T型ピーラー・貝印 関孫六 シャープナー・ののじ キャベピィMAXを徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめの調理・製菓道具を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビーケア・バス用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-baby-care</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-baby-care</guid>
+    <description>ALOBABY ミルクローション・PIGEON 電動鼻吸い器 SHUPOT・ケラッタ イブル ベビーバスタオルを徹底比較。各商品の特徴をもとに、肌へのやさしさ・使いやすさの観点からおすすめのベビーケア・バス用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>セーフティー・安全対策用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-baby-safety</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-baby-safety</guid>
+    <description>plaisiureux コーナーガード・GU MODE ベビーサークル・JOY SPACE チャイルドロックを徹底比較。各商品の特徴をもとに、安全性・設置のしやすさの観点からおすすめのベビーセーフティー用品を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -78,6 +148,13 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アクション・アウトドアトイおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-action-outdoor-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-action-outdoor-toys</guid>
+    <description>ナーフ エリート2.0 イーグルポイント・Gimama フライングボール・BEYBLADE X シルバーウルフを徹底比較。各商品の特徴をもとに、遊び方・対象年齢の観点からおすすめのアクション・アウトドアトイを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Tapo L510E スマートLED電球 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tapo-l510e-smart-bulb</link>
     <guid isPermaLink="true">https://gearnote.net/product-tapo-l510e-smart-bulb</guid>
@@ -92,6 +169,20 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>プラモデル・フィギュアおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-plastic-models-figures</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-plastic-models-figures</guid>
+    <description>COOLTAKU フィギュアケース・ゴッドハンド 神ヤス!・POP MART Big into Energyペンダントを徹底比較。各商品の特徴をもとに、用途・仕上がりの観点からおすすめのプラモデル・フィギュア関連用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アクセサリー・小物おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-accessories</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-accessories</guid>
+    <description>Napist ネックレス チェーン・lapisia 刻印可能リング・From da Phactory 軟骨ピアスを徹底比較。各商品の特徴をもとに、素材・使いやすさの観点からおすすめのアクセサリー・小物を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>オーム電機 LEDデスクランプ クランプタイプ LTC-LS36-W の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-ohm-led-desk-lamp-clamp-ltc-ls36-w</link>
     <guid isPermaLink="true">https://gearnote.net/product-ohm-led-desk-lamp-clamp-ltc-ls36-w</guid>
@@ -102,7 +193,7 @@
     <title>違いを比較する記事一覧｜GEARNOTE</title>
     <link>https://gearnote.net/compare-index</link>
     <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
-    <description>GEARNOTEのAとBの違いを並べた比較記事245本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
+    <description>GEARNOTEのAとBの違いを並べた比較記事255本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -127,10 +218,24 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>マーナ (marna) 炒めやすいスプーンヘラの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-marna-fry-spoon-spatula</link>
+    <guid isPermaLink="true">https://gearnote.net/product-marna-fry-spoon-spatula</guid>
+    <description>マーナ 炒めやすいスプーンヘラの特徴を整理。残さずすくえるシリコン製お玉のメリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>山善 ポータブル冷蔵庫冷凍庫 YFR-AC252(B) の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-yamazen-portable-freezer-yfrac252b</link>
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-portable-freezer-yfrac252b</guid>
     <description>山善(YAMAZEN) ポータブル冷蔵庫冷凍庫 25L コンプレッサー式 AC/DC 2WAY電源 クーラーボックス型 YFR-AC252(B)の特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>リッチェル ベビーガード はがせる多目的ストッパーR の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-richell-multi-stopper-r</link>
+    <guid isPermaLink="true">https://gearnote.net/product-richell-multi-stopper-r</guid>
+    <description>リッチェル はがせる多目的ストッパーRの仕様を整理。引き出し・引き戸・開き戸に対応、左右どちらからもロック・解除など特徴と注意点をまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -145,6 +250,13 @@
     <link>https://gearnote.net/product-hikoki-ds12da-driver-drill</link>
     <guid isPermaLink="true">https://gearnote.net/product-hikoki-ds12da-driver-drill</guid>
     <description>【Amazon.co.jp限定】HiKOKI(ハイコーキ) 10.8V 充電式 ドライバードリル DS12DA 初回修理保証付 蓄電池1個・の特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Franklin ラバーフォーム MLBフォームバット&amp;ボールセットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-franklin-foam-bat-ball-set-blue</link>
+    <guid isPermaLink="true">https://gearnote.net/product-franklin-foam-bat-ball-set-blue</guid>
+    <description>Franklin ラバーフォーム MLBフォームバット&amp;ボールセットの特徴を整理。ソフトなフォーム素材、ボール直径約10cmの仕様をまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -176,6 +288,48 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>タミヤ(TAMIYA) スプレー TS-6 マットブラック 模型用塗料 85006 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tamiya-ts6-matte-black-spray-85006</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tamiya-ts6-matte-black-spray-85006</guid>
+    <description>タミヤ スプレー TS-6 マットブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Split Fiction スプリットフィクション -PS5 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-split-fiction-ps5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-split-fiction-ps5</guid>
+    <description>Split Fiction スプリットフィクションの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Marvel&#x27;s Spider-Man: Miles Morales -PS5 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spider-man-miles-morales-ps5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spider-man-miles-morales-ps5</guid>
+    <description>Marvel&#x27;s Spider-Man: Miles Moralesの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Ray-Ban (レイバン) サングラス 0RB2140F WAYFARER の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-rayban-rb2140f-wayfarer-sunglasses</link>
+    <guid isPermaLink="true">https://gearnote.net/product-rayban-rb2140f-wayfarer-sunglasses</guid>
+    <description>Ray-Ban ウェイファーラー 0RB2140F（ローブリッジフィット表記）の特徴を整理。アセテートフレーム、サイズ52-22などの仕様、メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タミヤ（TAMIYA）の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tamiya</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tamiya</guid>
+    <description>タミヤ(TAMIYA)のプラモデル用工具・塗装用品の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>TempPro キッチンタイマー デジタル TM04 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-temppro-kitchen-timer-tm04</link>
+    <guid isPermaLink="true">https://gearnote.net/product-temppro-kitchen-timer-tm04</guid>
+    <description>TempPro キッチンタイマー デジタル TM04の特徴を整理。大画面表示や消音・音量調整、卓上・マグネット設置、メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>DJI Power 1000 Mini ポータブル電源 1008Wh 小型 大容量 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-dji-power-1000-mini</link>
     <guid isPermaLink="true">https://gearnote.net/product-dji-power-1000-mini</guid>
@@ -201,160 +355,6 @@
     <link>https://gearnote.net/product-ring-pan-tilt-indoor-cam</link>
     <guid isPermaLink="true">https://gearnote.net/product-ring-pan-tilt-indoor-cam</guid>
     <description>Ring 首振り機能付きインドアカム（Pan-Tilt Indoor Cam）の特徴を整理。左右360°・上下169°の首振り、動体検知の通知、Alexa連携、設置時の注意点をまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オウルテック 準固体電池モバイルバッテリー 10000mAhの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-owltech-semi-solid-power-bank-10000-oec-lpb10024</link>
-    <guid isPermaLink="true">https://gearnote.net/product-owltech-semi-solid-power-bank-10000-oec-lpb10024</guid>
-    <description>オウルテック 準固体電池モバイルバッテリー 10000mAh（OEC-LPB10024-BK）の特徴を整理。容量、PD30W出力、デジタル表示、2台同時充電、選び方と注意点をまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple 20W USB-C電源アダプタの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-20w-usbc-power-adapter</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-20w-usbc-power-adapter</guid>
-    <description>Apple 20W USB-C電源アダプタ（20W・USB-C・iPhone高速充電対応）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker MagGo Power Bank (10000mAh, Slim)の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-maggo-power-bank-10000mah-slim-a1664</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-maggo-power-bank-10000mah-slim-a1664</guid>
-    <description>Anker MagGo Power Bank (10000mAh, Slim)（10000mAh・Qi2対応15W・約15mmの薄型）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lenovo Idea Tab ZAFR0013JP タブレット の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lenovo-idea-tab-zafr0013jp-11inch</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lenovo-idea-tab-zafr0013jp-11inch</guid>
-    <description>Lenovo Idea Tab ZAFR0013JP タブレット 11インチ（Amazon.co.jp限定）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lenovo Idea Tab Pro ZAE40096JP タブレット 12.7インチ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lenovo-idea-tab-pro-zae40096jp-12-7inch</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lenovo-idea-tab-pro-zae40096jp-12-7inch</guid>
-    <description>Lenovo Idea Tab Pro ZAE40096JP タブレット 12.7インチの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple デュアルUSB-Cポート搭載 35Wコンパクト電源アダプタ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-35w-dual-usbc-power-adapter</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-35w-dual-usbc-power-adapter</guid>
-    <description>Apple デュアルUSB-Cポート搭載 35Wコンパクト電源アダプタの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Prime Charger（100W, 3 Ports, GaN）シルバー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-prime-charger-100w-3ports-gan</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-prime-charger-100w-3ports-gan</guid>
-    <description>Anker Prime Charger（100W, 3 Ports, GaN）シルバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot スマートリモコン ハブ2 赤外線家電 温湿度計・光センサー付き ホワイト の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-hub2-smart-remote</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-hub2-smart-remote</guid>
-    <description>SwitchBot スマートリモコン ハブ2 赤外線家電 温湿度計・光センサー付き ホワイトの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker ポータブル電源 Solix C300 288Wh 高出力AC300W の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-solix-c300-288wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-solix-c300-288wh</guid>
-    <description>Anker ポータブル電源 Solix C300 288Wh 高出力AC300W リン酸鉄 ダークグレーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Jackery ポータブル電源 1000 New 1070Wh の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jackery-portable-power-1000-new-je-1000d-sg</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jackery-portable-power-1000-new-je-1000d-sg</guid>
-    <description>Jackery ポータブル電源 1000 New 1070Wh 定格出力1500W サンドゴールド JE-1000D-SGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>EcoFlow RIVER 3 ポータブル電源 230Wh AC定格300W の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ecoflow-river-3-230wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ecoflow-river-3-230wh</guid>
-    <description>EcoFlow RIVER 3 ポータブル電源 230Wh AC定格300W 小型 リン酸鉄リチウムの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>BLUETTI ポータブル電源 AC2A 204Wh/300W APP遠隔操作 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bluetti-ac2a-204wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bluetti-ac2a-204wh</guid>
-    <description>BLUETTI ポータブル電源 AC2A 204Wh/300W APP遠隔操作 自動切替機能 リン酸鉄リチウムの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>OHM AudioComm 手回しラジオライト RAD-M799N の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ohm-audiocomm-hand-crank-radio-light-rad-m799n</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ohm-audiocomm-hand-crank-radio-light-rad-m799n</guid>
-    <description>OHM AudioComm 手回しラジオライト RAD-M799Nの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キャプテンスタッグ 防災ラジオ 多機能ラジオ 手回し・ソーラー・USB充電 UW-4510 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-captainstag-bousai-radio-uw-4510</link>
-    <guid isPermaLink="true">https://gearnote.net/product-captainstag-bousai-radio-uw-4510</guid>
-    <description>キャプテンスタッグ 防災ラジオ 多機能ラジオ 手回し・ソーラー・USB充電 UW-4510の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ポータブル電源の選び方ガイド｜容量Wh・出力W・ポート・電池の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-portable-power-station</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-portable-power-station</guid>
-    <description>ポータブル電源の容量（Wh）と定格出力（W）の読み方、電池の種類、ポート構成、充電方法といった仕様表の見方と、家電の消費電力との照合のしかた、保管や使用時の注意点を解説します。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートリモコン・スマートホームハブの選び方ガイド｜赤外線・Matter・Wi-Fi帯域・対応家電の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-smart-remote</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-smart-remote</guid>
-    <description>スマートリモコンとスマートホームハブの違い、赤外線リモコンの対応範囲、Wi-Fiの周波数帯、Matter・Thread・Zigbeeといった規格、ハブが必要になる条件といった仕様表の見方を、当サイト掲載のSwitchBot・Aqara・Nature Remo・Tapo・Echo Dot Maxなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano Power Bank 5000mAh MagGo Slim（オレンジ） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-nano-power-bank-5000mah-maggo-slim-orange</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-bank-5000mah-maggo-slim-orange</guid>
-    <description>Anker Nano Power Bank 5000mAh MagGo Slim（オレンジ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドコモ純正 準固体モバイルバッテリー01M（10000mAh・最大45W） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</link>
-    <guid isPermaLink="true">https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</guid>
-    <description>ドコモ純正 準固体モバイルバッテリー01M（10000mAh・最大45W）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker MagGo Power Bank（10000mAh, Slim）とNano Power Bank（5000mAh, MagGo, Slim）の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-anker-maggo-10000-vs-nano-5000</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-anker-maggo-10000-vs-nano-5000</guid>
-    <description>Anker MagGo Power Bank（10000mAh, Slim）とNano Power Bank（5000mAh, MagGo, Slim）の違いを、容量・USB-C出力・厚さの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドコモ 準固体モバイルバッテリー01Mとオウルテック OEC-LPB10024の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-docomo-01m-vs-owltech-oec-lpb10024</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-docomo-01m-vs-owltech-oec-lpb10024</guid>
-    <description>ドコモ 準固体モバイルバッテリー01Mとオウルテック OEC-LPB10024の違いを、USB-C出力・サイズ・重量・同梱品の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lenovo Idea Tab Pro（12.7インチ）とIdea Tab（11インチ）の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-lenovo-idea-tab-pro-vs-idea-tab</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-lenovo-idea-tab-pro-vs-idea-tab</guid>
-    <description>Lenovo Idea Tab Pro（12.7インチ）とIdea Tab（11インチ）の違いを、画面サイズ・メモリー・ストレージ・USB端子の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Charger（140W, 4 Ports）とAnker Prime Charger（100W, 3 Ports, GaN）の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-anker-charger-140w-vs-prime-100w</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-anker-charger-140w-vs-prime-100w</guid>
-    <description>Anker Charger（140W, 4 Ports）とAnker Prime Charger（100W, 3 Ports, GaN）の違いを、単ポート最大出力・ポート数・ディスプレイ・同梱品の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

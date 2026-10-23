@@ -25458,7 +25458,7 @@ const RANKING_POOL = [
   },
   {
     name: "Logicool G ワイヤレス ゲーミングマウス G304 X SUPERLIGHT G304X-SL-WH 軽量 国内正規品",
-    excerpt: "ロジクール G304 X SUPERLIGHT（ホワイト）。重量59g、HERO 44Kセンサー、LIGHTSPEED・Bluetooth・有線の3接続、約130時間のバッテリー、USB Type-C充電、LIGHTSYNC RGB、6ボタン。",
+    excerpt: "ロジクール G304 X SUPERLIGHT（ホワイト）。重量59g、HERO 44Kセンサー、LIGHTSPEEDとBluetoothの接続、約130時間のバッテリー、USB Type-C充電、LIGHTSYNC RGB、6ボタン。",
     img: "https://m.media-amazon.com/images/I/51d+ya-1cuL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H4HR65KF?tag=hide0122-22",
     page: "product-logicool-g304x-superlight-wireless-gaming-mouse.html",
@@ -28888,7 +28888,7 @@ const RANKING_POOL = [
   },
   {
     name: "Samsung Galaxy Watch Ultra2|チタニウム シルバー|Galaxy AI対応|スマートウォッチ 本体 端末",
-    excerpt: "Samsung Galaxy Watch Ultra2 チタニウム シルバー。1.52インチ・最大5,000nits、800mAh、IP69K・10気圧防水、GPS内蔵、Galaxy AI対応と記載。",
+    excerpt: "Samsung Galaxy Watch Ultra2 チタニウム シルバー。1.5インチ（38.5mm）、800mAh、IP69K・10気圧防水、GPS内蔵、Galaxy AI対応と記載。",
     img: "https://m.media-amazon.com/images/I/619QrCs2elL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H6B8XDH9?tag=hide0122-22",
     page: "product-samsung-galaxy-watch-ultra2-titanium-silver.html",
