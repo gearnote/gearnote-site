@@ -4915,7 +4915,7 @@ const RANKING_POOL = [
   },
   {
     name: "TempPro キッチンタイマー TM04",
-    excerpt: "側面を回すだけで時間設定できる大画面デジタルタイマー。最大99時間59分、消音を含む3段階の音量調整。",
+    excerpt: "側面を回すだけで時間設定できる大画面デジタルタイマー。消音を含む3段階の音量調整。",
     img: "https://m.media-amazon.com/images/I/71vaP8+p2wL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DYDJN69K?tag=hide0122-22",
     page: "product-temppro-kitchen-timer-tm04.html",
@@ -19989,7 +19989,7 @@ const RANKING_POOL = [
   },
   {
     name: "タミヤ スプレー TS-6 マットブラック",
-    excerpt: "模型用アクリルスプレー塗料。マットブラック・100ml、速乾性。",
+    excerpt: "模型用ラッカー系スプレー塗料。マットブラック・100ml、速乾性。",
     img: "https://m.media-amazon.com/images/I/61qhKjavLoL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BD3C8Q83?tag=hide0122-22",
     page: "product-tamiya-ts6-matte-black-spray-85006.html",
@@ -21075,8 +21075,8 @@ const RANKING_POOL = [
     page: "product-orient-mako-saa02002d3-diver.html",
   },
   {
-    name: "Ray-Ban (レイバン) サングラス 0RB2140F WAYFARER 901/64 BLACK (ブラック) 日本 52 (FREE サイズ) アジアンフィット",
-    excerpt: "Ray-Banのウェイファーラー（0RB2140F）アジアンフィットモデル。プラスチックフレームでイタリア製、サイズ52・54の寸法が掲載されています。",
+    name: "Ray-Ban (レイバン) サングラス 0RB2140F WAYFARER 901/64 BLACK (ブラック) 日本 52 (FREE サイズ)",
+    excerpt: "Ray-Banのウェイファーラー（0RB2140F）。レイバン日本公式ストアには、フレームはアセテート、サイズは52-22と記載されています。",
     img: "https://m.media-amazon.com/images/I/518s7Co2e7L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07WCF996N?tag=hide0122-22",
     page: "product-rayban-rb2140f-wayfarer-sunglasses.html",
