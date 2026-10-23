@@ -7374,7 +7374,7 @@ const RANKING_POOL = [
   },
   {
     name: "ツインバード 全自動コーヒーメーカー ミル付き 日本製 3杯用 ブラック CM-D457B",
-    excerpt: "カフェ・バッハ監修、燕三条製の刃を使ったミル一体型コーヒーメーカー。挽き方3段階・温度2段階",
+    excerpt: "カフェ・バッハ監修、燕三条製の刃を使ったミル一体型コーヒーメーカー。挽き方3段階",
     img: "https://m.media-amazon.com/images/I/51GPFwFoI1L._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B07HFP6H3L?tag=hide0122-22",
     page: "product-twinbird-coffee-maker-cmd457b.html",
@@ -13570,7 +13570,7 @@ const RANKING_POOL = [
   },
   {
     name: "エルゴベビー ADAPT SoftFlex 抱っこ紐",
-    excerpt: "新生児から48ヶ月頃まで使える抱っこ紐。通気性のよいSoftFlexメッシュ素材で、対面・前向き・腰・おんぶの4WAYに対応。",
+    excerpt: "新生児から48ヶ月頃まで使える抱っこ紐。通気性のよいSoftFlexメッシュ素材で、対面・腰・おんぶの3つの抱き方に対応。",
     img: "https://m.media-amazon.com/images/I/71dTx8C3BYL._AC_SY606_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C3LK3XX2?tag=hide0122-22",
     page: "product-ergobaby-adapt-softflex-carrier.html",
@@ -18735,15 +18735,15 @@ const RANKING_POOL = [
     page: "product-yamazen-fridge-46l-yfr-51.html",
   },
   {
-    name: "ティファール コードレススチームアイロン フリームーブ ミニ FV6111J0 ジェットスチーム最大80g/分 立ち上がり約30秒 フッ素樹脂かけ面",
+    name: "ティファール コードレススチームアイロン フリームーブ ミニ FV6111J0 ジェットスチーム最大80g/分 立ち上がり約30秒 セラミックかけ面",
     excerpt: "コードレスで立ち上がり約30秒、ジェットスチームは最大約80g/分。本体860gの小型スチームアイロン",
     img: "https://m.media-amazon.com/images/I/51PKMU+63fL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C2PKGGB9?tag=hide0122-22",
     page: "product-tefal-cordless-steam-iron-free-move-mini-fv6111j0.html",
   },
   {
-    name: "TOSHIBA(東芝) スチームアイロン 衣類スチーマー コードレス 全方向 3段階温度調節 スチーム3段階 TA-FDX660(H) ダークグレー",
-    excerpt: "コードレスで全方向にかけられる、東芝のスチームアイロン。3段階の温度調節・スチーム3段階、約0.95kg",
+    name: "TOSHIBA(東芝) スチームアイロン 衣類スチーマー コードレス 全方向 3段階温度調節 TA-FDX660(H) ダークグレー",
+    excerpt: "コードレスで全方向にかけられる、東芝のスチームアイロン。3段階の温度調節、約0.95kg",
     img: "https://m.media-amazon.com/images/I/71Be7xTf+1L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C4K51Z4Q?tag=hide0122-22",
     page: "product-toshiba-cordless-steam-iron-ta-fdx660.html",
@@ -19029,8 +19029,8 @@ const RANKING_POOL = [
     page: "product-daikin-humidifying-air-purifier-mck556a-w.html",
   },
   {
-    name: "ブルーエア 空気清浄機 22畳 Blue Max 3250i リビング 寝室 Wi-Fi センサー搭載",
-    excerpt: "360°吸引のHEPASilentテクノロジーを搭載する、ブルーエアの空気清浄機（22畳）。Wi-Fi・センサー搭載で、アプリから空気の状態を確認できる",
+    name: "ブルーエア 空気清浄機 22畳 Blue Max 3250i リビング 寝室 センサー搭載",
+    excerpt: "360°吸引のHEPASilentテクノロジーを搭載する、ブルーエアの空気清浄機（22畳）。センサーを搭載した空気清浄機",
     img: "https://m.media-amazon.com/images/I/71A2lqvSpjL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08KPHZWHL?tag=hide0122-22",
     page: "product-blueair-air-purifier-blue-max-3250i.html",
@@ -24366,7 +24366,7 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック 電気圧力鍋 3.9L 最大6人分 圧力/低温/無水/煮込/自動調理 レシピブック付 NF-PC400-K",
-    excerpt: "圧力・低温・無水・煮込・自動調理に対応する電気圧力鍋。容量3.9L（調理容量2.6L）、自動調理20メニュー、予約機能、温度過昇防止、ふた開閉検知。消費電力700W。",
+    excerpt: "圧力・低温・無水・煮込・自動調理に対応する電気圧力鍋。満水容量3.9L・調理容量2.6L、自動調理20メニュー、予約機能、温度過昇防止、ふた開閉検知。消費電力800W。",
     img: "https://m.media-amazon.com/images/I/71D+kFltHjL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CCCFLR7X?tag=hide0122-22",
     page: "product-panasonic-electric-pressure-cooker-nf-pc400-k.html",
@@ -25619,7 +25619,7 @@ const RANKING_POOL = [
   },
   {
     name: "シャープ 電子レンジ オーブンレンジ 16L ターンテーブル ヘルツフリートースト機能 一人暮らし ホワイト RE-M16A-W",
-    excerpt: "シャープ オーブンレンジ RE-M16A-W。総庫内容量16L、レンジ970-1,250W・オーブン・グリル各1,250W、重量センサー、トースト機能、14kg。サイズ・周波数の表記が欄ごとに異なる点に注意。",
+    excerpt: "シャープ オーブンレンジ RE-M16A-W。総庫内容量16L、レンジ970W（50Hz）・1,250W（60Hz）、オーブン・グリル各1,250W、重量センサー、トースト機能、約14kg。電源は50Hz/60Hz共用。",
     img: "https://m.media-amazon.com/images/I/61JQX+2ZCLL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07ZK5KDRN?tag=hide0122-22",
     page: "product-sharp-microwave-oven-re-m16a-w.html",
