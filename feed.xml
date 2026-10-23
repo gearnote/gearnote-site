@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 16:17:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 16:41:15 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -26,6 +26,13 @@
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
     <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Nano Power Strip の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-power-strip</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-strip</guid>
+    <description>Anker Nano Power Strip（10-in-1, 70W, クランプ式）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -50,10 +57,38 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>SwitchBot LED電球 スマートライト（2個パック）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-led-bulb</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-led-bulb</guid>
+    <description>SwitchBot LED電球 スマートライト（2個パック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>SwitchBot ハブ3 スマートリモコンの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-switchbot-hub3</link>
     <guid isPermaLink="true">https://gearnote.net/product-switchbot-hub3</guid>
     <description>SwitchBot ハブ3 スマートリモコン(Alexa対応)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブリヂストン スマートポンプの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bridgestone-smart-pump-pm501</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bridgestone-smart-pump-pm501</guid>
+    <description>ブリヂストン スマートポンプ 自転車空気入れ PM-501の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コールマン クーラーボックス テイク6の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-coleman-cooler-box-take6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-coleman-cooler-box-take6</guid>
+    <description>Coleman(コールマン) クーラーボックス テイク6・テイク9の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JOYme ヨガマットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-joyme-yoga-mat-10mm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-joyme-yoga-mat-10mm</guid>
+    <description>JOYme ヨガマット 10mm 収納袋付きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -64,6 +99,27 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>トリガーポイント グリッド フォームローラー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-triggerpoint-grid-foam-roller</link>
+    <guid isPermaLink="true">https://gearnote.net/product-triggerpoint-grid-foam-roller</guid>
+    <description>トリガーポイント(TRIGGERPOINT) グリッド フォームローラー 筋膜ローラーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>konciwa 日傘の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-konciwa-uv-parasol</link>
+    <guid isPermaLink="true">https://gearnote.net/product-konciwa-uv-parasol</guid>
+    <description>konciwa 日傘 軽量189g-199g UVカット率100% 完全遮光の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonベーシック ヨガマットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amazonbasics-yoga-mat-12mm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amazonbasics-yoga-mat-12mm</guid>
+    <description>Amazonベーシック ヨガマット 厚め12mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ファッションの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-fashion</link>
     <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
@@ -71,10 +127,31 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>SwitchBot スマートプラグ プラグミニの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-smart-plug-mini</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-smart-plug-mini</guid>
+    <description>SwitchBot スマートプラグ プラグミニ（2個入り）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBot 温湿度計 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-thermo-hygrometer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-thermo-hygrometer</guid>
+    <description>SwitchBot 温湿度計 デジタル スマート家電 高精度の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>SwitchBot 人感センサーPro の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-switchbot-motion-sensor-pro</link>
     <guid isPermaLink="true">https://gearnote.net/product-switchbot-motion-sensor-pro</guid>
     <description>SwitchBot 人感センサーPro（ミリ波レーダー搭載）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBot 開閉センサーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-contact-sensor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-contact-sensor</guid>
+    <description>SwitchBot 開閉センサー（磁気ドアセンサー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -106,10 +183,80 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>マキタ 充電式インパクトドライバ TD173D の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-td173-impact-driver</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-td173-impact-driver</guid>
+    <description>マキタ 充電式インパクトドライバ 18V TD173DRGXB（バッテリ2本・充電器・ケース付）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>マキタ 充電式ドライバドリル DF333DZ の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-makita-df333d-driver-drill</link>
     <guid isPermaLink="true">https://gearnote.net/product-makita-df333d-driver-drill</guid>
     <description>マキタ 充電式ドライバドリル DF333DZ（本体のみ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>マキタ 充電式空気入れ MP180DZ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-mp180-air-pump</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-mp180-air-pump</guid>
+    <description>マキタ(Makita) 充電式空気入れ18V 米英仏バルブ&amp;ボール浮き輪バルブ付 MP180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>KIOXIA 高耐久microSD ドラレコ・監視カメラ用 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kioxia-high-endurance-microsd-128gb</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kioxia-high-endurance-microsd-128gb</guid>
+    <description>KIOXIA(キオクシア) microSD 128GB 高耐久 ドラレコ・監視カメラ対応 EXCERIA HIGH ENDURANCE G2の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム 電源タップ 雷ガード 10個口 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-power-strip-10port-surge</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-power-strip-10port-surge</guid>
+    <description>エレコム 電源タップ 雷ガード 10個口 3m ほこりシャッター ECT-0103BKの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>CIO Polaris CUBE 電源タップ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-cio-polaris-cube-power-strip</link>
+    <guid isPermaLink="true">https://gearnote.net/product-cio-polaris-cube-power-strip</guid>
+    <description>CIO Polaris CUBE Built in CABLE 電源タップ 延長コードの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>CIO Polaris STICK Built in CORD REEL の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-cio-polaris-stick-cordreel</link>
+    <guid isPermaLink="true">https://gearnote.net/product-cio-polaris-stick-cordreel</guid>
+    <description>CIO Polaris STICK Built in CORD REEL 65WAC電源タップの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>UGREEN 電源タップT620の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ugreen-power-strip-t620</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ugreen-power-strip-t620</guid>
+    <description>UGREEN 20台同時充電 16個AC口 据え置き型電源タップT620の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonベーシック スマートプラグの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amazon-basics-smart-plug</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amazon-basics-smart-plug</guid>
+    <description>Amazonベーシック スマートプラグ Works with Alexa認定の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonベーシック スマートLED電球の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amazon-basics-smart-led-bulb</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amazon-basics-smart-led-bulb</guid>
+    <description>Amazonベーシック スマートLED電球 フィラメントタイプ Alexa対応の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Tapo T110 接触センサーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tapo-t110-contact-sensor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tapo-t110-contact-sensor</guid>
+    <description>Tapo T110 スマートハブ接触センサーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -208,153 +355,6 @@
     <link>https://gearnote.net/ranking-kitchen-tools</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-kitchen-tools</guid>
     <description>貝印 T型ピーラー・貝印 関孫六 シャープナー・ののじ キャベピィMAXを徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめの調理・製菓道具を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビーケア・バス用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-baby-care</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-baby-care</guid>
-    <description>ALOBABY ミルクローション・PIGEON 電動鼻吸い器 SHUPOT・ケラッタ イブル ベビーバスタオルを徹底比較。各商品の特徴をもとに、肌へのやさしさ・使いやすさの観点からおすすめのベビーケア・バス用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>セーフティー・安全対策用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-baby-safety</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-baby-safety</guid>
-    <description>plaisiureux コーナーガード・GU MODE ベビーサークル・JOY SPACE チャイルドロックを徹底比較。各商品の特徴をもとに、安全性・設置のしやすさの観点からおすすめのベビーセーフティー用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートホームデバイスおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-smart-home-devices</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-smart-home-devices</guid>
-    <description>SwitchBot ハブ3・Amazon Echo Dot 第5世代・Eufy SmartTrack Card E30を徹底比較。各商品の特徴をもとに、機能・使い勝手の観点からおすすめのスマートホームデバイスを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>テレビ・ストリーミング機器おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-tv-streaming</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-tv-streaming</guid>
-    <description>Amazon Fire TV Stick 4K Max・Amazon Fire TV Stick HD・ハイセンス 50E50S（50V型 4K液晶テレビ）を徹底比較。各商品の特徴をもとに、画質・機能性の観点からおすすめのテレビ・ストリーミング機器を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アウトドア・キャンプ用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-camping-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-camping-gear</guid>
-    <description>Lepro ヘッドライト・ロゴス 氷点下パック・コールマン クーラーボックス テイク6を徹底比較。各商品の特徴をもとに、用途・機能性の観点からおすすめのアウトドア・キャンプ用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アクション・アウトドアトイおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-action-outdoor-toys</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-action-outdoor-toys</guid>
-    <description>ナーフ エリート2.0 イーグルポイント・Gimama フライングボール・BEYBLADE X シルバーウルフを徹底比較。各商品の特徴をもとに、遊び方・対象年齢の観点からおすすめのアクション・アウトドアトイを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Fitbit Charge 6 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-google-fitbit-charge6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-google-fitbit-charge6</guid>
-    <description>Google Fitbit Charge 6（日本正規品）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo L510E スマートLED電球 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-l510e-smart-bulb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-l510e-smart-bulb</guid>
-    <description>TP-Link Tapo L510E スマートLED電球の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo T100 モーションセンサーの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-t100-motion-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-t100-motion-sensor</guid>
-    <description>TP-Link Tapo モーションセンサー T100の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>プラモデル・フィギュアおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-plastic-models-figures</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-plastic-models-figures</guid>
-    <description>COOLTAKU フィギュアケース・ゴッドハンド 神ヤス!・POP MART Big into Energyペンダントを徹底比較。各商品の特徴をもとに、用途・仕上がりの観点からおすすめのプラモデル・フィギュア関連用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アクセサリー・小物おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-accessories</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-accessories</guid>
-    <description>Napist ネックレス チェーン・lapisia 刻印可能リング・From da Phactory 軟骨ピアスを徹底比較。各商品の特徴をもとに、素材・使いやすさの観点からおすすめのアクセサリー・小物を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Elgato Facecam 4K スタジオウェブカメラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elgato-facecam-4k</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elgato-facecam-4k</guid>
-    <description>Elgato Facecam 4Kの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール LIFT M800 縦型エルゴノミック ワイヤレスマウス 静音 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logicool-lift-m800gr-vertical-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-lift-m800gr-vertical-mouse</guid>
-    <description>ロジクール LIFT M800 縦型ワイヤレスマウスの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DJI Osmo Mobile 8P スマホ用ジンバル スタンダードコンボ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dji-osmo-mobile-8p-standard-combo</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-mobile-8p-standard-combo</guid>
-    <description>DJI Osmo Mobile 8P スマホ用ジンバルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オーム電機 LEDデスクランプ クランプタイプ LTC-LS36-W の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ohm-led-desk-lamp-clamp-ltc-ls36-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ohm-led-desk-lamp-clamp-ltc-ls36-w</guid>
-    <description>オーム電機 LEDデスクランプ クランプタイプ LTC-LS36-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ストレッチポール EX の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-stretchpole-ex</link>
-    <guid isPermaLink="true">https://gearnote.net/product-stretchpole-ex</guid>
-    <description>ストレッチポール EXの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>違いを比較する記事一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-index</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
-    <description>GEARNOTEのAとBの違いを並べた比較記事270本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック 炊飯器 おどり炊き SR-N310D-K の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-rice-cooker-srn310d</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-rice-cooker-srn310d</guid>
-    <description>パナソニック 炊飯器 5.5合 おどり炊き 大火力包み加熱 ブラック SR-N310D-Kの特徴を整理。備長炭釜やうるおい保温、メリット・デメリットをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker PowerConf C200の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-powerconf-c200-webcam</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-powerconf-c200-webcam</guid>
-    <description>Anker PowerConf C200（2K対応・コンパクト設計のWebカメラ）の特徴を整理。デュアルマイク・オートフォーカス搭載ウェブカメラのメリット・デメリット、おすすめな人をまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Charger（140W, 4 Ports）の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-charger-140w-4ports</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-charger-140w-4ports</guid>
-    <description>Anker Charger（140W, 4 Ports）USB-C×3・USB-A×1のGaN充電器の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Aqara 人感センサー P2の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-aqara-motion-sensor-p2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-aqara-motion-sensor-p2</guid>
-    <description>Aqara 人感センサー P2の特徴を整理。通信方式（Thread・Bluetooth 5.0）や検知範囲、内蔵光センサーなど、メリット・デメリットと向いている人をまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

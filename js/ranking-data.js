@@ -6653,7 +6653,7 @@ const RANKING_POOL = [
   },
   {
     name: "ゼンハイザー ACCENTUM Open",
-    excerpt: "耳をふさがないオープンイヤー型ワイヤレスイヤホン。最大28時間再生、IPX4防滴対応。",
+    excerpt: "耳をふさがないオープンイヤー型ワイヤレスイヤホン。ケース併用で最大24時間再生、IPX4防滴対応。",
     img: "https://m.media-amazon.com/images/I/61weWhQ0yxL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F4DXRSG9?tag=hide0122-22",
     page: "product-sennheiser-accentum-open-earbuds.html",
@@ -6681,7 +6681,7 @@ const RANKING_POOL = [
   },
   {
     name: "ゼンハイザー HD 560S 開放型ヘッドホン",
-    excerpt: "本社開発の38mmドライバー搭載の開放型有線ヘッドホン。周波数特性6〜38,000Hz、インピーダンス120Ω",
+    excerpt: "開放型の有線ヘッドホン。周波数特性6〜38,000Hz、インピーダンス120Ω",
     img: "https://m.media-amazon.com/images/I/71z2y-w+hmL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B08J9MVB6W?tag=hide0122-22",
     page: "product-sennheiser-hd-560s.html",
@@ -19506,7 +19506,7 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック ラムダッシュ パームインシェーバー ES-PV3A-K",
-    excerpt: "手のひらサイズに5枚刃を収めた往復式のコンパクトシェーバー。約135gで、キャリングケースとUSBケーブルが付属する。",
+    excerpt: "手のひらサイズに5枚刃を収めたコンパクトシェーバー。約135gで、キャリングケースとUSBケーブルが付属する。",
     img: "https://m.media-amazon.com/images/I/71fh8or2jWL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C8SBYXPQ?tag=hide0122-22",
     page: "product-panasonic-palmin-shaver-es-pv3a-k.html",
@@ -24940,7 +24940,7 @@ const RANKING_POOL = [
   },
   {
     name: "ツインバード サーキュレーター 8畳 風量4段階 大風量 お手入れ簡単 水洗いOK 角度調整 節電 換気 ホワイト KJ-D783W",
-    excerpt: "ツインバード サーキュレーター KJ-D783W（ホワイト・8畳）。首振り不要の9枚羽根エクセルブレード、風量4段階、角度調整約8°〜90°、水洗い可、折りたたみ収納。",
+    excerpt: "ツインバード サーキュレーター KJ-D783W（ホワイト）。首振り不要の9枚羽根エクセルブレード、風量4段階、角度調整約8°〜90°、水洗い可、折りたたみ収納。",
     img: "https://m.media-amazon.com/images/I/61RHMgejT9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CZRJRM66?tag=hide0122-22",
     page: "product-twinbird-circulator-kj-d783w-8jo.html",
