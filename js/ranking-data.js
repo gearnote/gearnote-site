@@ -519,7 +519,7 @@ const RANKING_POOL = [
   },
   {
     name: "DJI Avata 2 Fly Moreコンボ",
-    excerpt: "Goggles 3とRC Motion 3が同梱されたFPVドローンのフルセット。155°FOVの4K撮影対応。",
+    excerpt: "Goggles 3とFPV送信機3が同梱されたFPVドローンのフルセット。155°FOVの4K撮影対応。",
     img: "https://m.media-amazon.com/images/I/61AyvvjR9VL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CS6HVW6P?tag=hide0122-22",
     page: "product-dji-avata2-fly-more-combo.html",
@@ -24919,7 +24919,7 @@ const RANKING_POOL = [
   },
   {
     name: "アイリスオーヤマ 空気清浄機 静音 小型 自動モード 省エネ ペット 脱臭 花粉 ホコリ PM2.5 集じん ウイルス アレルギー フィルター交換ランプ付き 16畳 AAP-S30C-W ホワイト",
-    excerpt: "アイリスオーヤマ 空気清浄機 AAP-S30C-W（ホワイト）。16畳対応、3DナノチャージHEPAフィルター、自動モード、おやすみモード、フィルター交換ランプ付き。",
+    excerpt: "アイリスオーヤマ 空気清浄機 AAP-S30C-W（ホワイト）。適用床面積は「強」運転時で約16畳、運転モードは弱・中・強、フィルター交換ランプ付き。",
     img: "https://m.media-amazon.com/images/I/51ybGWufXmL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FM71TFHW?tag=hide0122-22",
     page: "product-iris-ohyama-air-purifier-aap-s30c-w-16jo.html",
