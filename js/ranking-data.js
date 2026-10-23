@@ -10196,7 +10196,7 @@ const RANKING_POOL = [
   },
   {
     name: "ソト(SOTO) レギュレーターストーブ ST-310 シングルバーナー",
-    excerpt: "圧電点火方式・発熱量2.9kWの、SOTO専用CB缶に対応した日本製のシングルバーナーです。",
+    excerpt: "圧電点火方式・発熱量2.9kWの、SOTO製品専用容器（カセットガスタイプ）を使う日本製のシングルバーナーです。",
     img: "https://m.media-amazon.com/images/I/61ieaILLbYL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B001ADSR56?tag=hide0122-22",
     page: "product-soto-regulator-stove-st-310.html",
@@ -29056,7 +29056,7 @@ const RANKING_POOL = [
   },
   {
     name: "IODATA GCFX ゲーミングモニター 24.5型 フルHD 260Hz ブラック HDMI/DP/VESA/チルト調整 EX-GD252UHB",
-    excerpt: "IODATA GCFX EX-GD252UHB 24.5型。フルHD、IPS方式（HFS）、DisplayPort接続時に最大260Hz、応答速度最大0.8ms[GTG]、HDMI×1・DisplayPort×1と記載。",
+    excerpt: "IODATA GCFX EX-GD252UHB 24.5型。フルHD、IPS方式（HFS）、DisplayPort接続時に最大260Hz、応答速度最大0.8ms[GTG]（ダイナミックOD「トップスピード」設定時）、HDMI×1・DisplayPort×1と記載。",
     img: "https://m.media-amazon.com/images/I/71jHws-PQNL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HCND3M61?tag=hide0122-22",
     page: "product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor.html",
