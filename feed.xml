@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 08:49:18 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 11:43:20 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-amazon-echo</link>
@@ -19,6 +26,27 @@
     <link>https://gearnote.net/brand-google</link>
     <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
     <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-koizumi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
+    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/product-hanes-beefy-tshirt-h5180</link>
     <guid isPermaLink="true">https://gearnote.net/product-hanes-beefy-tshirt-h5180</guid>
     <description>Hanes ビーフィー Tシャツ BEEFY-T 綿100% 肉厚生地 ヘビーウェイトTの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>FAISHILAN 自転車ライトの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-faishilan-bike-light-2000lm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-faishilan-bike-light-2000lm</guid>
-    <description>FAISHILAN 自転車ライト 防水 充電式 高輝度2000ルーメンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アサヒ 上履き ハイスクールフロアーVKの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-asahi-uwabaki-highschool-floor-vk</link>
-    <guid isPermaLink="true">https://gearnote.net/product-asahi-uwabaki-highschool-floor-vk</guid>
-    <description>アサヒ 上履き カラーバレー 日本製 ハイスクールフロアーVK キッズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ニャンとも清潔トイレ 猫砂の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-nyantomo-clean-toilet-litter-4-5l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nyantomo-clean-toilet-litter-4-5l</guid>
-    <description>ニャンとも清潔トイレ 猫砂 脱臭・抗菌チップ 大きめの粒 4.5Lの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電動エアダスター 最強力ブロワーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-horumi-electric-air-duster</link>
-    <guid isPermaLink="true">https://gearnote.net/product-horumi-electric-air-duster</guid>
-    <description>電動エアダスター 最強力ブロワー 300000RPM高速回転 最大風速120m/sの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
