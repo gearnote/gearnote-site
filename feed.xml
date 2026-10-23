@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 16:41:15 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 17:06:18 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -19,6 +19,13 @@
     <link>https://gearnote.net/brand-bose</link>
     <guid isPermaLink="true">https://gearnote.net/brand-bose</guid>
     <description>Bose製品の特徴、ノイズキャンセリングヘッドホン・イヤホン・スピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomiの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-xiaomi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
+    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -54,6 +61,27 @@
     <link>https://gearnote.net/product-eufy-smart-scale-p2-pro</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-smart-scale-p2-pro</guid>
     <description>Anker Eufy(ユーフィ) Smart Scale P2 Pro 体重体組成計の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 超音波式加湿器の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-humidifier</guid>
+    <description>アイリスオーヤマ 超音波式加湿器 UHM-280S-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL CINEMA SB580の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-cinema-sb580</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-cinema-sb580</guid>
+    <description>JBL CINEMA SB580 サウンドバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー VLOGCAM ZV-E10 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-zv-e10</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-zv-e10</guid>
+    <description>ソニー VLOGCAM ZV-E10 レンズ交換式ミラーレス一眼カメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -120,6 +148,20 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ロジクール ワイヤレスマウス M220の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-logicool-m220-silent-mouse</link>
+    <guid isPermaLink="true">https://gearnote.net/product-logicool-m220-silent-mouse</guid>
+    <description>ロジクール ワイヤレスマウス 静音 無線 M220CGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善 コンパクトオーブントースター の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</guid>
+    <description>山善(YAMAZEN) トースター オーブントースター 2枚焼き コンパクト YTCB-C120の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ファッションの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-fashion</link>
     <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
@@ -169,6 +211,41 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>メンズシェーバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mens-shavers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
+    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。剃り味・お手入れのしやすさをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi REDMI Buds 8 Lite の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-lite</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-lite</guid>
+    <description>Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi Redmi Buds 6 Playの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-buds-6-play</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-6-play</guid>
+    <description>Xiaomi Redmi Buds 6 Play ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi REDMI Buds 8 Proの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-pro</guid>
+    <description>Xiaomi REDMI Buds 8 Pro ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi Redmi Pad 2 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-pad-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-pad-2</guid>
+    <description>シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Anker Solix C1000 ポータブル電源 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-anker-solix-c1000</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-solix-c1000</guid>
@@ -176,10 +253,31 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Anker Prime ドッキングステーション 14-in-1 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-prime-docking-station-14in1</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-prime-docking-station-14in1</guid>
+    <description>Anker Prime ドッキングステーション（14-in-1, 8K, Thunderbolt 5）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>アイリスオーヤマ 洗濯機 6.0kg の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-iris-ohyama-washing-machine-6kg</link>
     <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-washing-machine-6kg</guid>
     <description>アイリスオーヤマ 洗濯機 6.0kg IAW-T606の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクール MX KEYS S の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-logicool-mx-keys-s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-logicool-mx-keys-s</guid>
+    <description>ロジクール ワイヤレスキーボード MX KEYS Sの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクール トラックボール M575 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-logicool-m575-trackball</link>
+    <guid isPermaLink="true">https://gearnote.net/product-logicool-m575-trackball</guid>
+    <description>ロジクール ワイヤレストラックボールマウス M575の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -211,10 +309,24 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>エレコム トラックボール 大玉 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-huge-trackball</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-huge-trackball</guid>
+    <description>エレコム マウス ワイヤレス トラックボール 大玉 8ボタン チルト機能の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>エレコム 電源タップ 雷ガード 10個口 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-elecom-power-strip-10port-surge</link>
     <guid isPermaLink="true">https://gearnote.net/product-elecom-power-strip-10port-surge</guid>
     <description>エレコム 電源タップ 雷ガード 10個口 3m ほこりシャッター ECT-0103BKの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Belkin Connect USB-C ハブ 4-in-1 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-belkin-connect-usbc-hub-4in1</link>
+    <guid isPermaLink="true">https://gearnote.net/product-belkin-connect-usbc-hub-4in1</guid>
+    <description>Belkin Connect USB-C ハブ 4-in-1 100W PDの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -243,118 +355,6 @@
     <link>https://gearnote.net/product-amazon-basics-smart-plug</link>
     <guid isPermaLink="true">https://gearnote.net/product-amazon-basics-smart-plug</guid>
     <description>Amazonベーシック スマートプラグ Works with Alexa認定の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonベーシック スマートLED電球の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-basics-smart-led-bulb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-basics-smart-led-bulb</guid>
-    <description>Amazonベーシック スマートLED電球 フィラメントタイプ Alexa対応の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo T110 接触センサーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-t110-contact-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-t110-contact-sensor</guid>
-    <description>Tapo T110 スマートハブ接触センサーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-headphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
-    <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを徹底比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ポータブルスピーカーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-portable-speakers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-portable-speakers</guid>
-    <description>JBL GO5・JBL FLIP 7・Bose SoundLink Flex（第2世代）を徹底比較。各商品の特徴をもとに、音質・防水性能の観点からおすすめのポータブルスピーカーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パーティースピーカーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-party-speakers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-party-speakers</guid>
-    <description>JBL PARTYBOX ENCORE ESSENTIAL・JBL PartyBox Stage 320・Anker soundcore Rave Neo 2を徹底比較。各商品の特徴をもとに、出力・防水性能の観点からおすすめのパーティースピーカーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファイル・印鑑おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-office-file-supplies</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-office-file-supplies</guid>
-    <description>キングジム クリアファイル カラーベース・プラス クリアホルダー・ハンコヤストア ジョインティJ9を徹底比較。各商品の特徴をもとに、使い勝手・耐久性の観点からおすすめのファイル・印鑑用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスマウスおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-wireless-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-wireless-mouse</guid>
-    <description>エレコム 握りの極み・ロジクール M220 静音マウス・ロジクール Signature M750を徹底比較。各商品の特徴をもとに、握りやすさ・静音性・機能性の観点からおすすめのワイヤレスマウスを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車の補修・メンテナンス用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-maintenance</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-maintenance</guid>
-    <description>ソフト99 ウレタンクリアー・KURE LOOX ヘッドライトクリア・ソフト99 ガラコワイパー替えゴムを徹底比較。各商品の特徴をもとに、施工のしやすさ・効果の観点からおすすめの補修・メンテナンス用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車内ケア・消臭グッズおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-interior-care</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-interior-care</guid>
-    <description>エアースペンサー 車用芳香剤・カーメイト Dr.DEO 消臭剤・ソフト99 フクピカダッシュボードを徹底比較。各商品の特徴をもとに、消臭力・使いやすさの観点からおすすめの車内ケア用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Nintendo Switch2ソフトおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-switch2-games</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-switch2-games</guid>
-    <description>マリオカート ワールド・スプラトゥーン レイダース・ドンキーコング バナンザを徹底比較。各商品の特徴をもとに、遊び方・対応人数の観点からおすすめのSwitch2ソフトを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>PS5ソフトおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-ps5-games</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-ps5-games</guid>
-    <description>モンスターハンターワイルズ・龍が如く8外伝 Pirates in Hawaii・ほの暮しの庭を徹底比較。各商品の特徴をもとに、ジャンル・遊び方の観点からおすすめのPS5ソフトを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>扇風機・サーキュレーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fans-circulators</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fans-circulators</guid>
-    <description>アイリスオーヤマ サーキュレーター・マキタ 充電式ファン CF203D・シャープ サーキュレーター PK-S1801を徹底比較。各商品の特徴をもとに、風量・持ち運びやすさの観点からおすすめの扇風機・サーキュレーターを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cooking-appliances</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
-    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>急速充電器おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-gan-chargers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-gan-chargers</guid>
-    <description>Anker Nano II 65W・UGREEN Nexode 65W小型充電器・Anker Nano Charger 70Wを徹底比較。各商品の特徴をもとに、出力・サイズの観点からおすすめの急速充電器を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モバイルバッテリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-power-banks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-power-banks</guid>
-    <description>Anker Power Bank（10000mAh）・Anker Power Bank（25000mAh）・Anker Zolo Power Bankを徹底比較。各商品の特徴をもとに、容量・出力の観点からおすすめのモバイルバッテリーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>調理・製菓道具おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-kitchen-tools</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-kitchen-tools</guid>
-    <description>貝印 T型ピーラー・貝印 関孫六 シャープナー・ののじ キャベピィMAXを徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめの調理・製菓道具を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

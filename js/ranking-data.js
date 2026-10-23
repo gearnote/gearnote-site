@@ -749,8 +749,8 @@ const RANKING_POOL = [
     page: "product-brother-lc3111-4pk-e-ink.html",
   },
   {
-    name: "ブラザー工業 A4カラーレーザープリンター HL-L3240CDW",
-    excerpt: "A4カラーレーザープリンター。無線・有線LAN対応、自動両面印刷。",
+    name: "ブラザー工業 A4カラーLEDプリンター HL-L3240CDW",
+    excerpt: "A4カラーLEDプリンター。無線・有線LAN対応、自動両面印刷。",
     img: "https://m.media-amazon.com/images/I/51d7KU4Mj6L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CHVSSL4R?tag=hide0122-22",
     page: "product-brother-hl-l3240cdw-color-laser.html",
@@ -3529,7 +3529,7 @@ const RANKING_POOL = [
   },
   {
     name: "JBL TOUR PRO 3",
-    excerpt: "ハイブリッドノイズキャンセリングとハイレゾワイヤレスLDAC対応。スマートタッチディスプレイ搭載のケース付き。",
+    excerpt: "ハイブリッドノイズキャンセリング搭載。スマートタッチディスプレイ搭載のケース付き。",
     img: "https://m.media-amazon.com/images/I/71O-2fZIhkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DFXYNSWY?tag=hide0122-22",
     page: "product-jbl-tour-pro-3.html",
@@ -9215,7 +9215,7 @@ const RANKING_POOL = [
   },
   {
     name: "アイリスオーヤマ カラーボックス 3段",
-    excerpt: "幅41.5×奥行29×高さ88cmの定番3段カラーボックス。縦でも横でも使え、棚板1枚あたり約30kgの耐荷重。",
+    excerpt: "幅41.5×奥行29×高さ88cmの3段カラーボックス。縦でも横でも使え、棚板1枚あたり約30kgの耐荷重。",
     img: "https://m.media-amazon.com/images/I/51K-nqtS3xL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01GQYWZXS?tag=hide0122-22",
     page: "product-iris-ohyama-colorbox-3dan-cx3.html",
@@ -12989,7 +12989,7 @@ const RANKING_POOL = [
   },
   {
     name: "山善 冷蔵庫 幅47.4cm 106L 右開き YFR-D111(W)",
-    excerpt: "幅47.4cmのコンパクトな2ドア冷蔵庫。冷蔵室73L・冷凍室33Lの容量で、7段階の温度調節と耐熱天板を備える。一人暮らしの新生活に向けたサイズ設計。",
+    excerpt: "幅47.4cmのコンパクトな2ドア冷蔵庫。総容量106Lで、7段階の温度調節と耐熱天板を備える。一人暮らしの新生活に向けたサイズ設計。",
     img: "https://m.media-amazon.com/images/I/41s8STLFG3L._AC_SX466_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B42F28J9?tag=hide0122-22",
     page: "product-yamazen-fridge-106l.html",
@@ -17931,7 +17931,7 @@ const RANKING_POOL = [
   },
   {
     name: "JBL PARTYBOX ENCORE ESSENTIAL 2",
-    excerpt: "シリーズ最小の本体サイズで最大100W出力、最大15時間再生を備えたバッテリー内蔵パーティースピーカー。マイク入力とAuracast対応。",
+    excerpt: "最大100W出力、最大15時間再生を備えたバッテリー内蔵パーティースピーカー。",
     img: "https://m.media-amazon.com/images/I/71ON0LGMrQL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FHQJP51Z?tag=hide0122-22",
     page: "product-jbl-partybox-encore-essential-2.html",
@@ -23302,7 +23302,7 @@ const RANKING_POOL = [
   },
   {
     name: "Keychron B1 Pro ウルトラスリム キーボード JIS シルバー",
-    excerpt: "シザースイッチ採用の超薄型ワイヤレスキーボード。2.4GHz・Bluetooth 5.2・有線に対応し、ZMKでカスタマイズできる。JISレイアウト。",
+    excerpt: "超薄型のワイヤレスキーボード。2.4GHz・Bluetooth 5.2・有線に対応し、ZMKでカスタマイズできる。かな印字なし。",
     img: "https://m.media-amazon.com/images/I/71vLC3tJ6eL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FDW68VH4?tag=hide0122-22",
     page: "product-keychron-b1-pro-ultraslim-jis-silver.html",
@@ -25605,7 +25605,7 @@ const RANKING_POOL = [
   },
   {
     name: "ハイセンス 洗濯機 8kg 大容量 家族用 2-4人用 低騒音 シャワー水流 激流洗浄 風乾燥 部屋干し 予約機能 インバーター 省エネ ナイトコース HW-KD80L",
-    excerpt: "ハイセンス 洗濯機 HW-KD80L。洗濯容量8kg、インバーター、ナイトコース、標準コース36分、3つの槽洗浄コース、自分流コース、ステンレス槽、質量33kg。騒音・本体幅の表記は欄ごとに異なる。",
+    excerpt: "ハイセンス 洗濯機 HW-KD80L。洗濯容量8kg、インバーター、ナイトコース、標準コース約41分、3つの槽洗浄コース、自分流コース、ステンレス槽、質量33kg。騒音・本体幅の表記は欄ごとに異なる。",
     img: "https://m.media-amazon.com/images/I/61jIZVL+uPL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FY5MMVL6?tag=hide0122-22",
     page: "product-hisense-washing-machine-8kg-hw-kd80l.html",
@@ -26683,7 +26683,7 @@ const RANKING_POOL = [
   },
   {
     name: "JBL LIVE BUDS4 ワイヤレスイヤホン/バッズスタイル/スマートタッチディスプレイ搭載/ハイレゾ/LDAC対応/ハイブリッドノイズキャンセリング機能/アプリ対応/ブラック/ JBLLIVEBUDS4BLK",
-    excerpt: "JBL LIVE BUDS4 ブラック。バッズスタイル、タッチディスプレイ付き充電ケース、True Adaptive NC 2.0、10mmドライバー、ハイレゾ認証・LDAC対応、LE Audio・Auracastと記載。",
+    excerpt: "JBL LIVE BUDS4 ブラック。バッズスタイル、タッチディスプレイ付き充電ケース、True Adaptive NC 2.0、10mmドライバー、LE Audio・Auracastと記載。",
     img: "https://m.media-amazon.com/images/I/711zksjpjOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H44XQ5JM?tag=hide0122-22",
     page: "product-jbl-live-buds-4-black-jbllivebuds4blk.html",
@@ -28944,7 +28944,7 @@ const RANKING_POOL = [
   },
   {
     name: "コイズミ シーズヒーター 1000/500W グレー KSS-1026A/H",
-    excerpt: "コイズミ シーズヒーター KSS-1026A/H。1000W/500W切替、2灯タイプ、二重安全転倒スイッチ、電源ランプ、首振りは手動と記載。",
+    excerpt: "コイズミ シーズヒーター KSS-1026A/H。1000W/500W切替、2灯タイプ、二重安全転倒スイッチ、電源ランプの記載あり。",
     img: "https://m.media-amazon.com/images/I/61dfD7UNLKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HJ5DN7RD?tag=hide0122-22",
     page: "product-koizumi-sheathed-heater-kss-1026a-h-1000w.html",
