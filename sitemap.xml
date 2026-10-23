@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -72,7 +72,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-koizumi</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -3667,7 +3667,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-elecom</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -6107,7 +6107,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-tv-streaming</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -10127,7 +10127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -24792,7 +24792,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-hisense</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -30085,5 +30085,30 @@
     <loc>https://gearnote.net/compare-audio-technica-at2040usb-vs-shure-mv7-plus</loc>
     <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-75261rt-188x120</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-electric-stove-kds-h06-h-e-3stage-tipover-off</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-hisense-43e50s-43v-4k-lcd-tv-2026</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>

@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 07:16:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 08:49:21 +0000</lastBuildDate>
+  <item>
+    <title>ドコモ純正 準固体モバイルバッテリー01M（10000mAh・最大45W）</title>
+    <link>https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</link>
+    <guid isPermaLink="true">https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</guid>
+    <description>NTTドコモの準固体モバイルバッテリー「01M」（ホワイト）です。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム AC充電器一体型モバイルバッテリー</title>
+    <link>https://gearnote.net/product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w</guid>
+    <description>エレコムのAC充電器一体型モバイルバッテリー、型番EC-C57LMN（ミッドナイト）です。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ハイセンス 43E50S（43V型 4K液晶テレビ・2026年モデル）</title>
+    <link>https://gearnote.net/product-hisense-43e50s-43v-4k-lcd-tv-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hisense-43e50s-43v-4k-lcd-tv-2026</guid>
+    <description>ハイセンスの43V型4K液晶テレビ、型番43E50S（E50Sシリーズ・2026年モデル）です。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ 電気掛敷毛布 KDK-75261RT（188×120cm・ラビットファー調）</title>
+    <link>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-75261rt-188x120</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-75261rt-188x120</guid>
+    <description>コイズミの電気掛敷毛布、型番KDK-75261RT（ラビットファー調・188×120cm）です。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善 電気ストーブ KDS-H06(H)E（出力3段階・転倒OFFスイッチ）</title>
+    <link>https://gearnote.net/product-yamazen-electric-stove-kds-h06-h-e-3stage-tipover-off</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-electric-stove-kds-h06-h-e-3stage-tipover-off</guid>
+    <description>山善の電気ストーブ、型番KDS-H06(H)E（グレー）です。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>エプソン A4インクジェット複合機 EW-056A1（Wi-Fi・4色独立型インク）</title>
     <link>https://gearnote.net/product-epson-ew-056a1-a4-inkjet-multifunction-printer</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor</guid>
     <description>山善のセラミックファンヒーター「DMSF-J063(W)」のホワイトです。</description>
     <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore Sleep A30 ライトパープル</title>
-    <link>https://gearnote.net/product-anker-soundcore-sleep-a30-light-purple</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-sleep-a30-light-purple</guid>
-    <description>Ankerのオーディオブランド Soundcore の睡眠用ワイヤレスイヤホン「Sleep A30」のライトパープルです。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ セラミックヒーター Cube KPH-1226C/W ホワイト</title>
-    <link>https://gearnote.net/product-koizumi-ceramic-heater-cube-kph-1226c-w-tower-oscillating</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-ceramic-heater-cube-kph-1226c-w-tower-oscillating</guid>
-    <description>コイズミの「Cube Series」セラミックヒーター「KPH-1226C/W」のホワイトです。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ セラミックヒーター KPH-1267/W グレイッシュホワイト</title>
-    <link>https://gearnote.net/product-koizumi-ceramic-heater-kph-1267-w-omakase-motion-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-ceramic-heater-kph-1267-w-omakase-motion-sensor</guid>
-    <description>コイズミのセラミックヒーター「KPH-1267/W」のグレイッシュホワイトです。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SanDisk Phone SSD 1TB SDSSDE62M-1T00-G25</title>
-    <link>https://gearnote.net/product-sandisk-phone-ssd-1tb-sdssde62m-1t00-g25-magsafe</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sandisk-phone-ssd-1tb-sdssde62m-1t00-g25-magsafe</guid>
-    <description>SanDiskのスマートフォン向けポータブルSSD「Phone SSD」の1TBモデル（型番 SDSSDE62M-1T00-G25）です。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー 1000X THE COLLEXION WH-1000XX プラチナ</title>
-    <link>https://gearnote.net/product-sony-1000x-the-collexion-wh-1000xx-platinum</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-1000x-the-collexion-wh-1000xx-platinum</guid>
-    <description>ソニーのワイヤレスヘッドホン「1000X THE COLLEXION」（型番 WH-1000XX）のプラチナです。</description>
-    <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
