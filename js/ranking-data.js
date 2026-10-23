@@ -2024,7 +2024,7 @@ const RANKING_POOL = [
   },
   {
     name: "HARIO V60 コーヒーフィルター",
-    excerpt: "円すい形フィルターの定番、HARIO V60用の使い捨てペーパーフィルター。",
+    excerpt: "円すい形フィルター、HARIO V60用の使い捨てペーパーフィルター。",
     img: "https://m.media-amazon.com/images/I/51UXAroNEHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CZ3HJ1SY?tag=hide0122-22",
     page: "product-hario-v60-coffee-filter-160.html",
@@ -2542,7 +2542,7 @@ const RANKING_POOL = [
   },
   {
     name: "ルービックキューブ 3×3 ver.3.0",
-    excerpt: "世界的に定番の立体パズル、正規品版。スムーズな回転が特徴で、初心者の入門機から大人の頭の体操まで幅広く楽しめる。",
+    excerpt: "立体パズル、正規品版。スムーズな回転が特徴で、初心者の入門機から大人の頭の体操まで幅広く楽しめる。",
     img: "https://m.media-amazon.com/images/I/71kMR2OjVAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09XWDBXF6?tag=hide0122-22",
     page: "product-megahouse-rubiks-cube.html",
@@ -2633,7 +2633,7 @@ const RANKING_POOL = [
   },
   {
     name: "マテルゲーム ウノ(UNO) カードゲーム",
-    excerpt: "2〜10人で遊べる定番のパーティーカードゲーム。ルールがシンプルで、子どもから大人まで家族や友人同士で盛り上がれる。",
+    excerpt: "2〜10人で遊べるパーティーカードゲーム。ルールがシンプルで、子どもから大人まで家族や友人同士で盛り上がれる。",
     img: "https://m.media-amazon.com/images/I/71qMtbYBkuL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0006334AO?tag=hide0122-22",
     page: "product-uno-card-game.html",
@@ -4397,7 +4397,7 @@ const RANKING_POOL = [
   },
   {
     name: "世界のアソビ大全51",
-    excerpt: "トランプ・将棋など世界の定番ゲーム51種類を収録したパーティーゲーム集。",
+    excerpt: "トランプ・将棋など世界のゲーム51種類を収録したパーティーゲーム集。",
     img: "https://m.media-amazon.com/images/I/71XeYxD1EzL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B086GRKKR9?tag=hide0122-22",
     page: "product-sekai-no-asobi-taizen-51-switch.html",
@@ -8284,7 +8284,7 @@ const RANKING_POOL = [
   },
   {
     name: "サントリー ほろよい アソートセット",
-    excerpt: "アルコール度数3%の低アルコールチューハイ「ほろよい」の人気11種類を飲み比べられるアソートセット。350ml×24本。",
+    excerpt: "アルコール度数3%の低アルコールチューハイ「ほろよい」の11種類を飲み比べられるアソートセット。350ml×24本。",
     img: "https://m.media-amazon.com/images/I/71XXEI1ZsbL._SX342_PIbundle-24,TopRight,0,0_AA342SH20_.jpg",
     link: "https://www.amazon.co.jp/dp/B08JVXGQHM?tag=hide0122-22",
     page: "product-suntory-horoyoi-assort-350ml-24.html",
@@ -10910,7 +10910,7 @@ const RANKING_POOL = [
   },
   {
     name: "ポッキー チョコレート",
-    excerpt: "プレッツェルにチョコレートをコーティングした定番菓子。8袋入りの個包装タイプ。",
+    excerpt: "プレッツェルにチョコレートをコーティングした菓子。8袋入りの個包装タイプ。",
     img: "https://m.media-amazon.com/images/I/817BmEzaCeL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BSSV1FSW?tag=hide0122-22",
     page: "product-glico-pocky-chocolate-8bags.html",
@@ -14039,7 +14039,7 @@ const RANKING_POOL = [
   },
   {
     name: "任天堂 花札 大統領 黒 遊びかた説明書つき",
-    excerpt: "こいこいなど、花札を使ったゲームが楽しめる定番の花札。遊びかた説明書付きで、初めての人でもルールを確認しながら遊べる。",
+    excerpt: "こいこいなど、花札を使ったゲームが楽しめる花札。遊びかた説明書付きで、初めての人でもルールを確認しながら遊べる。",
     img: "https://images-na.ssl-images-amazon.com/images/P/B0009XJZFY.01._SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0009XJZFY?tag=hide0122-22",
     page: "product-nintendo-hanafuda-daitoryo-black.html",
@@ -18568,7 +18568,7 @@ const RANKING_POOL = [
   },
   {
     name: "ケンウッド(Kenwood) ステリモ対応ディスプレイオーディオ 7インチ DDX5020SR Apple CarPlay Android Auto対応",
-    excerpt: "ケンウッドの、7インチ静電タッチのステリモ対応ディスプレイオーディオ。CarPlay・Android Auto対応。",
+    excerpt: "ケンウッドの、6.8V型ワイド液晶のステリモ対応ディスプレイオーディオ。CarPlay・Android Auto対応。",
     img: "https://m.media-amazon.com/images/I/71IIx9P6a8L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D9VBHBJX?tag=hide0122-22",
     page: "product-kenwood-display-audio-ddx5020sr.html",
@@ -27103,7 +27103,7 @@ const RANKING_POOL = [
   },
   {
     name: "キングジム(Kingjim) フラットファイルクイックイン A4 4432 黄",
-    excerpt: "A4サイズの2穴フラットファイル。パンチ穴を開けた書類を綴じ具でしっかり固定し、長期保管に向く定番タイプです。",
+    excerpt: "A4サイズの2穴フラットファイル。パンチ穴を開けた書類を綴じ具でしっかり固定し、長期保管に向くタイプです。",
     img: "https://m.media-amazon.com/images/I/51-+gPJ7WAL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B001D7UZ5E?tag=hide0122-22",
     page: "product-kingjim-flatfile-quickin-a4.html",
