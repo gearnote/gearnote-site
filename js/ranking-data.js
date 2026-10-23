@@ -28755,7 +28755,7 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック 50V型 等速液晶テレビ FireTV搭載 リモコン音声検索・音声操作対応 TV-50A80B",
-    excerpt: "パナソニック VIERA 50V型 4K液晶テレビ TV-50A80B（Amazon.co.jp限定）。直下型液晶、Fire TV搭載、音声操作、年間消費電力量109kWh/年、約9.5kgと記載。",
+    excerpt: "パナソニック VIERA 50V型 4K液晶テレビ TV-50A80B（Amazon.co.jp限定）。直下型液晶、Fire TV搭載、音声操作、年間消費電力量109kWh/年、約9.5kg（スタンド込み）と記載。",
     img: "https://m.media-amazon.com/images/I/71uwzDmvQ9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HGQFLZ38?tag=hide0122-22",
     page: "product-panasonic-viera-50v-4k-fire-tv-tv-50a80b-amazon-model.html",
