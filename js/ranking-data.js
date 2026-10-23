@@ -463,7 +463,7 @@ const RANKING_POOL = [
   },
   {
     name: "DJI Power 1000 Mini ポータブル電源",
-    excerpt: "1008Whの大容量ポータブル電源。最大出力1000W、急速充電・ソーラー充電対応。",
+    excerpt: "1008Whの大容量ポータブル電源。最大出力1000W、急速充電対応。",
     img: "https://m.media-amazon.com/images/I/61novaUOF3L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GGB12B3S?tag=hide0122-22",
     page: "product-dji-power-1000-mini.html",
@@ -7717,7 +7717,7 @@ const RANKING_POOL = [
   },
   {
     name: "Aqara 人感センサー P2",
-    excerpt: "Matter over Thread対応でハブ不要にHomeKit・Google Home・Alexaと連携。内蔵光センサー搭載",
+    excerpt: "Thread対応の人感センサー。内蔵光センサー搭載",
     img: "https://m.media-amazon.com/images/I/61RYn-9FzoL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CT8W9NRB?tag=hide0122-22",
     page: "product-aqara-motion-sensor-p2.html",
@@ -19890,7 +19890,7 @@ const RANKING_POOL = [
     page: "product-yamada-z-light-z-80proiiw-desk-light.html",
   },
   {
-    name: "フィリップスヒュー(Philips Hue) スマート電球 E26 75W相当 ホワイト 1個 - スマート照明 Alexa対応 1100lm 電球色 調光 スマートホーム 間接照明 LED スマートライト 音声操作 アプリ操作 Matter対応 リモコン操作 遠隔操作 スケジュール機能 明るさ調整",
+    name: "Philips Hue スマート電球 E26 75W相当 ホワイト",
     excerpt: "1,100lm（75W相当）の電球色スマートLED電球。E26口金で、Bluetoothでスマホ操作、Hueブリッジでスケジュールや一括操作に対応",
     img: "https://m.media-amazon.com/images/I/715x6Tyn4sL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0B8811K4F?tag=hide0122-22",
