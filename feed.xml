@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 14:26:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 14:31:29 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -19,6 +19,13 @@
     <link>https://gearnote.net/brand-amazon-echo</link>
     <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
     <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-delonghi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
+    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -302,6 +309,20 @@
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>シャープ KI-TS50の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-ts50</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-ts50</guid>
+    <description>シャープ 空気清浄機 KI-TS50の特徴を整理。メリット・デメリット、KI-TX75・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ KI-TX75の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-tx75</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-tx75</guid>
+    <description>シャープ 空気清浄機 KI-TX75の特徴を整理。メリット・デメリット、KI-TS50・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Switch2 Proコントローラーの特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-switch2-pro-controller</link>
     <guid isPermaLink="true">https://gearnote.net/product-switch2-pro-controller</guid>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/product-nintendo-joycon-pastel-purple-green</link>
     <guid isPermaLink="true">https://gearnote.net/product-nintendo-joycon-pastel-purple-green</guid>
     <description>任天堂純正品 Joy-Con(L)/(R)の特徴を整理。メリット・デメリット、Switch2 Proコン・DualSenseとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ANDERY 車載スマホホルダーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-andery-car-phone-holder-magnet</link>
-    <guid isPermaLink="true">https://gearnote.net/product-andery-car-phone-holder-magnet</guid>
-    <description>ANDERY スマホホルダー 車 マグネット(真空ゲル吸盤+磁力)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>トンボ色鉛筆の特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tombow-colored-pencil-12</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tombow-colored-pencil-12</guid>
-    <description>トンボ鉛筆 色鉛筆12色 NQシリーズの特徴を整理。メリット・デメリット、ジェットストリーム・フリクションライトとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブリヂストン スマートポンプの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bridgestone-smart-pump-pm501</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bridgestone-smart-pump-pm501</guid>
-    <description>ブリヂストン スマートポンプ 自転車空気入れ PM-501の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
