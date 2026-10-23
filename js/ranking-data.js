@@ -18127,7 +18127,7 @@ const RANKING_POOL = [
   },
   {
     name: "JBL GRIP",
-    excerpt: "片手で持てるスマートサイズのポータブルスピーカー。IP68防塵防水、12時間連続再生、アンビエントライト、Auracastマルチスピーカー接続に対応。",
+    excerpt: "片手で持てるスマートサイズのポータブルスピーカー。IP68防塵防水、最大再生時間14時間（メーカー記載）、アンビエントライト、Auracastマルチスピーカー接続に対応。",
     img: "https://m.media-amazon.com/images/I/71rgkGh0RYL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FPG6VP6P?tag=hide0122-22",
     page: "product-jbl-grip.html",
