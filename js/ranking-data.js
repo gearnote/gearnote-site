@@ -4733,7 +4733,7 @@ const RANKING_POOL = [
   },
   {
     name: "Spigen iPhone 18 Pro / 17 Pro ガラスフィルム 2枚入 EZ Fit",
-    excerpt: "専用トレーで位置合わせする「EZ Fit」貼り付けキット付きの9Hガラスフィルム。厚さ0.66mmの薄型設計。",
+    excerpt: "専用トレーで位置合わせする「EZ Fit」貼り付けキット付きの9Hガラスフィルム。",
     img: "https://m.media-amazon.com/images/I/61h-Ps0VuOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D84YX465?tag=hide0122-22",
     page: "product-spigen-ezfit-glass-film-iphone18pro-2set.html",
