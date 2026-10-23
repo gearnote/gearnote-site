@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 13:44:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 14:02:20 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -190,6 +190,13 @@
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>JBL QUANTUM STREAMの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-quantum-stream</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-quantum-stream</guid>
+    <description>JBL QUANTUM STREAM USBマイクの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>JBL LIVE 770NC の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-jbl-live-770nc</link>
     <guid isPermaLink="true">https://gearnote.net/product-jbl-live-770nc</guid>
@@ -323,6 +330,13 @@
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Joy-Conの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nintendo-joycon-pastel-purple-green</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nintendo-joycon-pastel-purple-green</guid>
+    <description>任天堂純正品 Joy-Con(L)/(R)の特徴を整理。メリット・デメリット、Switch2 Proコン・DualSenseとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ANDERY 車載スマホホルダーの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-andery-car-phone-holder-magnet</link>
     <guid isPermaLink="true">https://gearnote.net/product-andery-car-phone-holder-magnet</guid>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-bridgestone-smart-pump-pm501</link>
     <guid isPermaLink="true">https://gearnote.net/product-bridgestone-smart-pump-pm501</guid>
     <description>ブリヂストン スマートポンプ 自転車空気入れ PM-501の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カステルバジャック ボディバッグ パンセの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-castelbajac-pensee-body-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/product-castelbajac-pensee-body-bag</guid>
-    <description>カステルバジャック(CASTELBAJAC) ボディバッグ パンセ 59913の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カステルバジャック レインボー コインケース の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-castelbajac-rainbow-coin-case</link>
-    <guid isPermaLink="true">https://gearnote.net/product-castelbajac-rainbow-coin-case</guid>
-    <description>CASTELBAJAC(カステルバジャック) レインボー コインケース 079611の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
