@@ -28965,7 +28965,7 @@ const RANKING_POOL = [
   },
   {
     name: "JBL WAVE BUDS 3 完全ワイヤレスイヤホン Bluetooth/アクティブノイズキャンセリング/マルチポイント / IP54防水防塵 / アプリ対応/USB Type-C/ティール / JBLWBUDS3TEL",
-    excerpt: "JBL WAVE BUDS 3 ティール。アクティブノイズキャンセリング、Bluetooth 6.0、最大2台マルチポイント、本体IP54、ケース込み最大約40時間と記載。",
+    excerpt: "JBL WAVE BUDS 3 ティール。外音取り込み付きアクティブノイズキャンセリング、Bluetooth 6.0、マルチポイント、IP54、合計最大40時間の再生と記載。",
     img: "https://m.media-amazon.com/images/I/618-0aUmN3L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HK39H4XN?tag=hide0122-22",
     page: "product-jbl-wave-buds-3-teal-jblwbuds3tel.html",
