@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 17:25:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 17:40:07 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -22,6 +22,13 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Googleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-google</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
+    <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>JBLの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-jbl</link>
     <guid isPermaLink="true">https://gearnote.net/brand-jbl</guid>
@@ -33,6 +40,13 @@
     <link>https://gearnote.net/brand-xiaomi</link>
     <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
     <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -57,6 +71,41 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Anker Soundcore P31i の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-p31i</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-p31i</guid>
+    <description>Anker Soundcore P31i の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beats Flex の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-beats-flex</link>
+    <guid isPermaLink="true">https://gearnote.net/product-beats-flex</guid>
+    <description>Beats Flex ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beats Powerbeats Pro 2 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-beats-powerbeats-pro-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-beats-powerbeats-pro-2</guid>
+    <description>Beats Powerbeats Pro 2 ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beats Solo Buds の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-beats-solo-buds</link>
+    <guid isPermaLink="true">https://gearnote.net/product-beats-solo-buds</guid>
+    <description>Beats Solo Buds Bluetoothワイヤレスイヤフォンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beats Studio Buds+ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-beats-studio-buds-plus</link>
+    <guid isPermaLink="true">https://gearnote.net/product-beats-studio-buds-plus</guid>
+    <description>Beats Studio Buds+ ワイヤレスノイズキャンセリングイヤフォンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Bose SoundLink Flex（第2世代）の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-bose-soundlink-flex-2</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-flex-2</guid>
@@ -68,6 +117,13 @@
     <link>https://gearnote.net/product-bose-soundlink-max</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-max</guid>
     <description>Bose SoundLink Max Portable Speakerの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ラ・スペシャリスタ・アルテ の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-specialista-arte</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-specialista-arte</guid>
+    <description>デロンギ ラ・スペシャリスタ・アルテ EC9155Jの特徴を整理。メリット・デメリット、マグニフィカS・スティローザとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -124,6 +180,13 @@
     <link>https://gearnote.net/product-jbl-wave-beam-2</link>
     <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-beam-2</guid>
     <description>JBL WAVE BEAM 2 ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー LinkBuds WF-L900の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-linkbuds-wf-l900</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-linkbuds-wf-l900</guid>
+    <description>ソニー(SONY) LinkBuds WF-L900の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -274,6 +337,13 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smartphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
+    <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>宅トレ器具おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-home-training</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-home-training</guid>
@@ -285,76 +355,6 @@
     <link>https://gearnote.net/ranking-air-purifiers</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
     <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを徹底比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コーヒーマシン・コーヒー器具おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-coffee-machines</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
-    <description>コーヒーマシン・コーヒー器具の比較ページです。デロンギの3機種（マグニフィカS・スティローザ・ラ・スペシャリスタ）を各商品の特徴から比較し、全商品の比較表も掲載しています。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズシェーバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mens-shavers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
-    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。剃り味・お手入れのしやすさをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Buds 8 Lite の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-lite</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-lite</guid>
-    <description>Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Redmi Buds 6 Playの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-6-play</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-6-play</guid>
-    <description>Xiaomi Redmi Buds 6 Play ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Buds 8 Proの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-pro</guid>
-    <description>Xiaomi REDMI Buds 8 Pro ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Redmi Pad 2 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-pad-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-pad-2</guid>
-    <description>シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Solix C1000 ポータブル電源 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-solix-c1000</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-solix-c1000</guid>
-    <description>Anker ポータブル電源 1056Wh Solix C1000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Prime ドッキングステーション 14-in-1 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-prime-docking-station-14in1</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-prime-docking-station-14in1</guid>
-    <description>Anker Prime ドッキングステーション（14-in-1, 8K, Thunderbolt 5）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore Liberty 5 Pro の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-liberty-5-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-5-pro</guid>
-    <description>Anker Soundcore Liberty 5 Pro 完全ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ 洗濯機 6.0kg の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-washing-machine-6kg</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-washing-machine-6kg</guid>
-    <description>アイリスオーヤマ 洗濯機 6.0kg IAW-T606の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
