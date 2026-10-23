@@ -24625,7 +24625,7 @@ const RANKING_POOL = [
   },
   {
     name: "[山善] 布団乾燥機 ダブルノズル 「ふとん2枚を同時に乾燥」 温風機能搭載 マット不要 スライド式立体ノズル くつ乾燥アタッチメント2枚付き ZFE-W800(W)",
-    excerpt: "ダブルノズルでふとん2枚を同時に乾燥できる、マット不要の布団乾燥機。消費電力760W、幅19×奥行25.5×高さ37cm、重量2.5kg。手動3段階・自動4モード（夏・冬・あたため・ダニ）、くつ乾燥アタッチメント2枚付き。",
+    excerpt: "ダブルノズルでふとん2枚を同時に乾燥できる、マット不要の布団乾燥機。消費電力760W、幅19×奥行25.5×高さ37cm、重量2.5kg。くつ乾燥アタッチメント2枚付き。",
     img: "https://m.media-amazon.com/images/I/717bEkLiHqL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08WPFYL94?tag=hide0122-22",
     page: "product-yamazen-futon-dryer-double-nozzle-zfe-w800.html",

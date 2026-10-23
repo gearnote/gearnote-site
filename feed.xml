@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 23 Oct 2026 15:42:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 16:04:42 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -15,10 +15,31 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Boseの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-bose</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-bose</guid>
+    <description>Bose製品の特徴、ノイズキャンセリングヘッドホン・イヤホン・スピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>生活家電の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
     <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Bose SoundLink Flex（第2世代）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-soundlink-flex-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-flex-2</guid>
+    <description>Bose SoundLink Flex Portable Speaker（第2世代）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Bose SoundLink Max の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-soundlink-max</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-max</guid>
+    <description>Bose SoundLink Max Portable Speakerの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -50,6 +71,13 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ノイズキャンセリングイヤホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-noise-cancelling-earbuds</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-noise-cancelling-earbuds</guid>
+    <description>AirPods 4・WF-1000XM6・Bose QC Ultra Earbuds 2を徹底比較。各商品の特徴をもとに、装着感・遮音性・音質の観点からおすすめのノイズキャンセリングイヤホンを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Anker Solix C1000 ポータブル電源 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-anker-solix-c1000</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-solix-c1000</guid>
@@ -64,10 +92,38 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-headphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
+    <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを徹底比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ポータブルスピーカーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-portable-speakers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-portable-speakers</guid>
+    <description>JBL GO5・JBL FLIP 7・Bose SoundLink Flex（第2世代）を徹底比較。各商品の特徴をもとに、音質・防水性能の観点からおすすめのポータブルスピーカーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パーティースピーカーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-party-speakers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-party-speakers</guid>
+    <description>JBL PARTYBOX ENCORE ESSENTIAL・JBL PartyBox Stage 320・Anker soundcore Rave Neo 2を徹底比較。各商品の特徴をもとに、出力・防水性能の観点からおすすめのパーティースピーカーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ファイル・印鑑おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-office-file-supplies</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-office-file-supplies</guid>
     <description>キングジム クリアファイル カラーベース・プラス クリアホルダー・ハンコヤストア ジョインティJ9を徹底比較。各商品の特徴をもとに、使い勝手・耐久性の観点からおすすめのファイル・印鑑用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ワイヤレスマウスおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-wireless-mouse</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-wireless-mouse</guid>
+    <description>エレコム 握りの極み・ロジクール M220 静音マウス・ロジクール Signature M750を徹底比較。各商品の特徴をもとに、握りやすさ・静音性・機能性の観点からおすすめのワイヤレスマウスを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -155,6 +211,13 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Fitbit Charge 6 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-google-fitbit-charge6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-google-fitbit-charge6</guid>
+    <description>Google Fitbit Charge 6（日本正規品）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Tapo L510E スマートLED電球 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tapo-l510e-smart-bulb</link>
     <guid isPermaLink="true">https://gearnote.net/product-tapo-l510e-smart-bulb</guid>
@@ -183,6 +246,27 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Elgato Facecam 4K スタジオウェブカメラ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elgato-facecam-4k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elgato-facecam-4k</guid>
+    <description>Elgato Facecam 4Kの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクール LIFT M800 縦型エルゴノミック ワイヤレスマウス 静音 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-logicool-lift-m800gr-vertical-mouse</link>
+    <guid isPermaLink="true">https://gearnote.net/product-logicool-lift-m800gr-vertical-mouse</guid>
+    <description>ロジクール LIFT M800 縦型ワイヤレスマウスの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>DJI Osmo Mobile 8P スマホ用ジンバル スタンダードコンボ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dji-osmo-mobile-8p-standard-combo</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-mobile-8p-standard-combo</guid>
+    <description>DJI Osmo Mobile 8P スマホ用ジンバルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>オーム電機 LEDデスクランプ クランプタイプ LTC-LS36-W の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-ohm-led-desk-lamp-clamp-ltc-ls36-w</link>
     <guid isPermaLink="true">https://gearnote.net/product-ohm-led-desk-lamp-clamp-ltc-ls36-w</guid>
@@ -193,7 +277,14 @@
     <title>違いを比較する記事一覧｜GEARNOTE</title>
     <link>https://gearnote.net/compare-index</link>
     <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
-    <description>GEARNOTEのAとBの違いを並べた比較記事255本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
+    <description>GEARNOTEのAとBの違いを並べた比較記事270本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker PowerConf C200の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-powerconf-c200-webcam</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-powerconf-c200-webcam</guid>
+    <description>Anker PowerConf C200（2K対応・コンパクト設計のWebカメラ）の特徴を整理。デュアルマイク・オートフォーカス搭載ウェブカメラのメリット・デメリット、おすすめな人をまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -208,6 +299,20 @@
     <link>https://gearnote.net/product-aqara-motion-sensor-p2</link>
     <guid isPermaLink="true">https://gearnote.net/product-aqara-motion-sensor-p2</guid>
     <description>Aqara 人感センサー P2の特徴を整理。通信方式（Thread・Bluetooth 5.0）や検知範囲、内蔵光センサーなど、メリット・デメリットと向いている人をまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazfit Active 3 Premiumの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amazfit-active3-premium</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amazfit-active3-premium</guid>
+    <description>Amazfit Active 3 Premium 45mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Oura Ring 5の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-oura-ring5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-oura-ring5</guid>
+    <description>Oura Ring 5（オーラリング 第5世代）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -250,111 +355,6 @@
     <link>https://gearnote.net/product-hikoki-ds12da-driver-drill</link>
     <guid isPermaLink="true">https://gearnote.net/product-hikoki-ds12da-driver-drill</guid>
     <description>【Amazon.co.jp限定】HiKOKI(ハイコーキ) 10.8V 充電式 ドライバードリル DS12DA 初回修理保証付 蓄電池1個・の特徴を整理。メリット・デメリットをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Franklin ラバーフォーム MLBフォームバット&amp;ボールセットの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-franklin-foam-bat-ball-set-blue</link>
-    <guid isPermaLink="true">https://gearnote.net/product-franklin-foam-bat-ball-set-blue</guid>
-    <description>Franklin ラバーフォーム MLBフォームバット&amp;ボールセットの特徴を整理。ソフトなフォーム素材、ボール直径約10cmの仕様をまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アクア(AQUA) 冷蔵庫 小型冷蔵庫 ポータブル冷蔵庫 30L 一人暮らし の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-aqua-portable-fridge-30l-aqp-m3r</link>
-    <guid isPermaLink="true">https://gearnote.net/product-aqua-portable-fridge-30l-aqp-m3r</guid>
-    <description>アクア(AQUA) 冷蔵庫 小型冷蔵庫 ポータブル冷蔵庫 30L 一人暮らし ミニ冷蔵庫 冷凍庫 -20℃~20℃温度調節 車載家庭両用 コンプレッサー式 静音設計 2WAY電源対応 DC12V/24V/AC100V 2つの収納スペース 買い溜め 冷凍食品保存 キャンプ アウトドア 寝室 オフィス スリム設計 省エネ AQP-M3R グレージュの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>【持ち運べる冷蔵庫】 アイリスオーヤマ 車載冷蔵庫 ポータブル冷蔵庫 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-portable-fridge-ipd-3a-b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-portable-fridge-ipd-3a-b</guid>
-    <description>【持ち運べる冷蔵庫】 アイリスオーヤマ 車載冷蔵庫 ポータブル冷蔵庫 クーラーボックス 30L ブラック 急速冷凍 -20~20℃ キャスター付き IPD-3A-Bの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山田照明 Z-LIGHT LED デスクライト 高演色LEDRa97 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamada-z-light-z-80proiiw-desk-light</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamada-z-light-z-80proiiw-desk-light</guid>
-    <description>山田照明 Z-LIGHT LED デスクライト 高演色LEDRa97 Z-80PROIIW ホワイト セード幅450mm・アーム長360+360mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>フィリップスヒュー(Philips Hue) スマート電球 E26 75W相当 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-philips-hue-white-bulb-e26-75w-1100lm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-philips-hue-white-bulb-e26-75w-1100lm</guid>
-    <description>Philips Hue ホワイト スマート電球 E26 75W相当の特徴を整理。メリット・デメリット、こんな人に向くかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タミヤ(TAMIYA) スプレー TS-6 マットブラック 模型用塗料 85006 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tamiya-ts6-matte-black-spray-85006</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tamiya-ts6-matte-black-spray-85006</guid>
-    <description>タミヤ スプレー TS-6 マットブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Split Fiction スプリットフィクション -PS5 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-split-fiction-ps5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-split-fiction-ps5</guid>
-    <description>Split Fiction スプリットフィクションの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Marvel&#x27;s Spider-Man: Miles Morales -PS5 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-spider-man-miles-morales-ps5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-spider-man-miles-morales-ps5</guid>
-    <description>Marvel&#x27;s Spider-Man: Miles Moralesの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Ray-Ban (レイバン) サングラス 0RB2140F WAYFARER の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-rayban-rb2140f-wayfarer-sunglasses</link>
-    <guid isPermaLink="true">https://gearnote.net/product-rayban-rb2140f-wayfarer-sunglasses</guid>
-    <description>Ray-Ban ウェイファーラー 0RB2140F（ローブリッジフィット表記）の特徴を整理。アセテートフレーム、サイズ52-22などの仕様、メリット・デメリットをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タミヤ（TAMIYA）の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-tamiya</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-tamiya</guid>
-    <description>タミヤ(TAMIYA)のプラモデル用工具・塗装用品の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>TempPro キッチンタイマー デジタル TM04 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-temppro-kitchen-timer-tm04</link>
-    <guid isPermaLink="true">https://gearnote.net/product-temppro-kitchen-timer-tm04</guid>
-    <description>TempPro キッチンタイマー デジタル TM04の特徴を整理。大画面表示や消音・音量調整、卓上・マグネット設置、メリット・デメリットをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DJI Power 1000 Mini ポータブル電源 1008Wh 小型 大容量 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dji-power-1000-mini</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dji-power-1000-mini</guid>
-    <description>DJI Power 1000 Mini ポータブル電源の特徴を整理。1008Whの大容量・最大出力1000W・急速充電などのスペックとメリット・デメリット、使用上の注意点をまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Ring Indoor Cam 屋内用セキュリティカメラの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ring-indoor-cam</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ring-indoor-cam</guid>
-    <description>Ring Indoor Cam（ホワイト）の特徴を整理。1080p HD、カラーナイトビジョン、プライバシーカバー、Alexa連携、録画条件の確認点などをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Ringの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-ring</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-ring</guid>
-    <description>Ringのドアベル・屋内カメラの特徴、選び方、こんな人におすすめする理由をまとめて紹介。掲載4商品の仕様を一覧で確認できます。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Ring 首振り機能付きインドアカムの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ring-pan-tilt-indoor-cam</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ring-pan-tilt-indoor-cam</guid>
-    <description>Ring 首振り機能付きインドアカム（Pan-Tilt Indoor Cam）の特徴を整理。左右360°・上下169°の首振り、動体検知の通知、Alexa連携、設置時の注意点をまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
