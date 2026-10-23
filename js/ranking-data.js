@@ -71,7 +71,7 @@ const RANKING_POOL = [
   },
   {
     name: "final ZE8000",
-    excerpt: "バランスドアーマチュア型ドライバーを搭載したフラッグシップ完全ワイヤレスイヤホン。Snapdragon Sound・aptX Adaptive対応。",
+    excerpt: "専用ドライバー「F-Core for 8k Sound」を搭載したフラッグシップ完全ワイヤレスイヤホン。Snapdragon Sound・aptX Adaptive対応。",
     img: "https://m.media-amazon.com/images/I/511MIwzM2DL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BPYPNB8M?tag=hide0122-22",
     page: "product-final-ze8000-wireless-earbuds.html",
@@ -23497,14 +23497,14 @@ const RANKING_POOL = [
     page: "product-yamazen-kotatsu-table-eyc-105752.html",
   },
   {
-    name: "De'Longhi (デロンギ) オイルヒーター ヴェルティカルド RHJ21F1015-BR 電気ヒーター ゼロ風暖房 静音 乾燥しにくい 表面温度約80℃ 燃料補充不要 安全プラグ [10-13畳] [ホワイト×ブラウン] デロンギファミリー登録で5年保証",
+    name: "De'Longhi (デロンギ) オイルヒーター ヴェルティカルド RHJ21F1015-BR 電気ヒーター ゼロ風暖房 静音 乾燥しにくい 表面温度約80℃ 燃料補充不要 安全プラグ [10-13畳] [ホワイト×ブラウン]",
     excerpt: "消費電力1500W（600/900/1500Wの3段階）、広さの目安は約10〜13畳のオイルヒーター。チャイルドロック・リモコン付き、保証期間は商品ページに3年と記載。",
     img: "https://m.media-amazon.com/images/I/51IsLdnxRTL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CF8F9KZR?tag=hide0122-22",
     page: "product-delonghi-oil-heater-verticaldo-rhj21f1015.html",
   },
   {
-    name: "デロンギ マルチダイナミックヒーター 最大8畳 ゼロ風暖房 オイルレスヒーター ピュアホワイト×マットブラック MDHU09-BK 【デロンギファミリー登録で5年保証、修理も原則72時間以内対応】",
+    name: "デロンギ マルチダイナミックヒーター 最大8畳 ゼロ風暖房 オイルレスヒーター ピュアホワイト×マットブラック MDHU09-BK",
     excerpt: "消費電力900W（300/600/900Wの自動切替3段階）、適用畳数6〜8畳のオイルレスヒーター。3つの発熱モジュールを自動制御し、ECOモード・プログラムタイマー・チャイルドロックを備える。",
     img: "https://m.media-amazon.com/images/I/51EGBYy5iqL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07HNPMRGQ?tag=hide0122-22",
@@ -25156,8 +25156,8 @@ const RANKING_POOL = [
     page: "product-audio-technica-ath-s300bt-black-nc.html",
   },
   {
-    name: "ティファール 電気圧力鍋「ラクラ・クッカー ミニ」3L（1人~2人用）ホワイト CY3401JP",
-    excerpt: "ティファール 電気圧力鍋「ラクラ・クッカー ミニ」CY3401JP（ホワイト・1人〜2人用）。容量は3L／2.3Lの記載、1台10役、鍋モード、レシピブック付き。",
+    name: "ティファール 電気圧力鍋「ラクラ・クッカー ミニ」（1人~2人用）ホワイト CY3401JP",
+    excerpt: "ティファール 電気圧力鍋「ラクラ・クッカー ミニ」CY3401JP（ホワイト・1人〜2人用）。容量は2.3L（メーカー仕様）、1台10役、鍋モード、レシピブック付き。",
     img: "https://m.media-amazon.com/images/I/41vqxNgAt5L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CGD2DYL9?tag=hide0122-22",
     page: "product-tefal-rakuracooker-mini-cy3401jp-white.html",
@@ -25241,7 +25241,7 @@ const RANKING_POOL = [
   },
   {
     name: "アイリスオーヤマ 加湿器 スチーム式 加湿量 600ml タンク容量 3L 2WAY給水 10畳・17畳対応 AHM-MHU60A-W ホワイト",
-    excerpt: "アイリスオーヤマ スチーム式加湿器 AHM-MHU60A-W。加湿量600ml、タンク容量3L、10畳・17畳対応、最大15時間の連続加湿、上から給水できる2WAY給水、お休みモード。",
+    excerpt: "アイリスオーヤマ スチーム式加湿器 AHM-MHU60A-W。加湿量600ml/h（強運転時）、タンク容量3L、適用床面積は木造和室10畳・プレハブ洋室17畳、最大15時間の連続加湿、上から給水できる2WAY給水、お休みモード。",
     img: "https://m.media-amazon.com/images/I/41I-uISSSIL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FM6SRJRB?tag=hide0122-22",
     page: "product-iris-ohyama-steam-humidifier-ahm-mhu60a-w.html",
@@ -25276,7 +25276,7 @@ const RANKING_POOL = [
   },
   {
     name: "Levoit (レボイト) 空気清浄機 脱臭強化モデル 20畳 花粉対策 集じん 小型 消臭 省エネ ペット向け 寝室 Core P350 グレー",
-    excerpt: "Levoit 空気清浄機 Core P350。20畳まで対応、8畳を約13分で浄化、運転音24dB以下、おやすみモード14W、プレフィルター・ARC式活性炭など複層ろ過、タイマー・チャイルドロック。",
+    excerpt: "Levoit 空気清浄機 Core P350。20畳まで対応、8畳を約13分で浄化、運転音24dB〜46dB、おやすみモード14W、2層ろ過、タイマー・チャイルドロック。",
     img: "https://m.media-amazon.com/images/I/610fw0qierL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08131HFSG?tag=hide0122-22",
     page: "product-levoit-core-p350-air-purifier-20jo.html",
