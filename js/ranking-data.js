@@ -7766,7 +7766,7 @@ const RANKING_POOL = [
   },
   {
     name: "FUJIFILM X-M5 ボディ",
-    excerpt: "約2610万画素のAPS-Cセンサーと153測距点ハイブリッドAFを備えた小型ミラーレス一眼。ボディのみ。",
+    excerpt: "約2610万画素のAPS-Cセンサーと位相差検出ハイブリッドAFを備えた小型ミラーレス一眼。ボディのみ。",
     img: "https://m.media-amazon.com/images/I/71Ildrou4LL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DMNS9KHH?tag=hide0122-22",
     page: "product-fujifilm-x-m5-body.html",
