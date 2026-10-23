@@ -8,7 +8,7 @@ const RANKING_POOL = [
   },
   {
     name: "final E1000 カナル型イヤホン",
-    excerpt: "音響工学・心理学に基づいた音質設計の有線カナル型イヤホン。マイク・リモコン付きで通話にも対応。",
+    excerpt: "音響工学・心理学に基づいた音質設計の有線カナル型イヤホン。マイク付きリモコンはE1000Cのみ（メーカー記載）。",
     img: "https://m.media-amazon.com/images/I/613m+tuO5tL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B081S6HBHN?tag=hide0122-22",
     page: "product-final-e1000-earphone.html",
@@ -197,7 +197,7 @@ const RANKING_POOL = [
   },
   {
     name: "DJI Mic Mini 2S（1TX+1RX+ケース）",
-    excerpt: "約12gの軽量ワイヤレスピンマイク。32-bitフロート内部収録とAIノイズキャンセリングを搭載し、ケース併用で最大40時間骆働。",
+    excerpt: "約12gの軽量ワイヤレスピンマイク。32-bitフロート内部収録とAIノイズキャンセリングを搭載し、充電ケースが付属。",
     img: "https://m.media-amazon.com/images/I/51kGZ3omsGL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GKNLGXZ3?tag=hide0122-22",
     page: "product-dji-mic-mini-2s-1tx-1rx-case.html",
@@ -3242,7 +3242,7 @@ const RANKING_POOL = [
   },
   {
     name: "Beats Powerbeats Pro 2",
-    excerpt: "アクティブノイズキャンセリング搭載、Apple H2チップでAppleとAndroid両方に対応。IPX4耐汗耐水、最大45時間再生。",
+    excerpt: "アクティブノイズキャンセリング搭載、Apple H2チップでAppleとAndroid両方に対応。IPX4耐汗耐水、ケース込みでANCオフ最大45時間・ANCオン最大36時間再生。",
     img: "https://m.media-amazon.com/images/I/51BkbcHtOZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DT3MF2WB?tag=hide0122-22",
     page: "product-beats-powerbeats-pro-2.html",
@@ -22924,7 +22924,7 @@ const RANKING_POOL = [
   },
   {
     name: "Anker Soundcore P42i",
-    excerpt: "ウルトラノイズキャンセリング3.5とLDACに対応した完全ワイヤレスイヤホン。片耳約4.4gの小型設計でIP55、ワイヤレス充電に対応。",
+    excerpt: "ウルトラノイズキャンセリング3.5とLDACに対応した完全ワイヤレスイヤホン。片耳約4.4gの小型設計でIP55に対応。",
     img: "https://m.media-amazon.com/images/I/61bXdMEoojL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GZT9GP7W?tag=hide0122-22",
     page: "product-anker-soundcore-p42i.html",
@@ -27312,7 +27312,7 @@ const RANKING_POOL = [
     page: "product-elecom-magkeep-7in1-usbc-dock-magnet-ring-dst-n071bpbk.html",
   },
   {
-    name: "Samsung Galaxy Buds4 ProｌブラックｌGalaxy AI対応ｌワイヤレスイヤホン 本体 端末ｌSamsung純正 国内正規品ｌ2026年発売ｌノイズキャンセリングｌ立体音響ｌ防水IP57ｌBluetooth 6.1ｌ最大30時間再生ｌ44.0gｌ内蔵マイクｌSM-R640NZKAXJP",
+    name: "Samsung Galaxy Buds4 ProｌブラックｌGalaxy AI対応ｌワイヤレスイヤホン 本体 端末ｌSamsung純正 国内正規品ｌ2026年発売ｌノイズキャンセリングｌ立体音響ｌ防水IP57ｌBluetooth 6.1ｌ最大30時間再生ｌ内蔵マイクｌSM-R640NZKAXJP",
     excerpt: "Samsung Galaxy Buds4 Pro（ブラック）。カナルタイプ、ノイズキャンセリング、IP57、Bluetooth 6.1、ANC使用時の音楽再生6時間（ケース込み26時間）、ヘッドジェスチャー操作、Galaxy AI対応と記載。",
     img: "https://m.media-amazon.com/images/I/614YKdKFaML._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GK78GBS7?tag=hide0122-22",
