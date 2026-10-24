@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 24 Oct 2026 17:36:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 17:39:51 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -19,6 +19,13 @@
     <link>https://gearnote.net/brand-iris-ohyama</link>
     <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
     <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-daily</link>
+    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
+    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -40,6 +47,13 @@
     <link>https://gearnote.net/product-aulumu-m07-240w-usbc-cable</link>
     <guid isPermaLink="true">https://gearnote.net/product-aulumu-m07-240w-usbc-cable</guid>
     <description>Aulumu M07 240W USB-C to USB-C アルミニウム合金ケーブルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Aulumu M01 4in1 ワイヤレス充電器 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-aulumu-m01-wireless-charger</link>
+    <guid isPermaLink="true">https://gearnote.net/product-aulumu-m01-wireless-charger</guid>
+    <description>Aulumu M01 4in1 ワイヤレス充電器 MagSafe対応 折りたたみ式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -169,6 +183,13 @@
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ゲームコントローラーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-controllers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-controllers</guid>
+    <description>Switch2 Proコントローラー・DualSense・Joy-Conを徹底比較。各商品の特徴をもとに、対応機種・プレイスタイル別におすすめのコントローラーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>空気清浄機おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-air-purifiers</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
@@ -215,6 +236,13 @@
     <link>https://gearnote.net/product-elecom-usb-hub-4port-magnet</link>
     <guid isPermaLink="true">https://gearnote.net/product-elecom-usb-hub-4port-magnet</guid>
     <description>エレコム USBハブ U3H-S418BBK/EC USB3.0 Aポート×4 マグネット・スイッチ付の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>TORRAS Ostand PolarCircle ワイヤレス充電器 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-torras-polarcircle-charger</link>
+    <guid isPermaLink="true">https://gearnote.net/product-torras-polarcircle-charger</guid>
+    <description>TORRAS Ostand PolarCircle ワイヤレス充電器 Qi2.2 25W ペルチェ冷却の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -309,6 +337,13 @@
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>車内ケア・消臭グッズおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-car-interior-care</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-car-interior-care</guid>
+    <description>エアースペンサー 車用芳香剤・カーメイト Dr.DEO 消臭剤・ソフト99 フクピカダッシュボードを徹底比較。各商品の特徴をもとに、消臭力・使いやすさの観点からおすすめの車内ケア用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>カーアクセサリおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-car-accessories</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-car-accessories</guid>
@@ -316,45 +351,10 @@
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>掃除・清掃用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cleaning-supplies</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cleaning-supplies</guid>
-    <description>オキシクリーン EX・サンサンスポンジ・Homspark 三角コーナー いらずを徹底比較。各商品の特徴をもとに、用途・洗浄力の観点からおすすめの掃除・清掃用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活雑貨おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-daily-essentials</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-daily-essentials</guid>
-    <description>ブラウン 洗浄液 CCR8・ハクバ レンズクリーニングティッシュ・ブリタ 浄水器 ポット型を徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめの生活雑貨を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>炭酸・エナジー・スポーツドリンクおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-soda-sports-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-soda-sports-drinks</guid>
-    <description>コカ・コーラ・ポカリスエット・レッドブルを徹底比較。各商品の特徴をもとに、用途・成分の観点からおすすめの炭酸・エナジー・スポーツドリンクを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>扇風機・サーキュレーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fans-circulators</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fans-circulators</guid>
-    <description>アイリスオーヤマ サーキュレーター・マキタ 充電式ファン CF203D・シャープ サーキュレーター PK-S1801を徹底比較。各商品の特徴をもとに、風量・持ち運びやすさの観点からおすすめの扇風機・サーキュレーターを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cooking-appliances</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
-    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>急速充電器おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-gan-chargers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-gan-chargers</guid>
-    <description>Anker Nano II 65W・UGREEN Nexode 65W小型充電器・Anker Nano Charger 70Wを徹底比較。各商品の特徴をもとに、出力・サイズの観点からおすすめの急速充電器を紹介します。全商品の比較表も掲載しています。</description>
+    <title>トイレ掃除用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-toilet-cleaning</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-toilet-cleaning</guid>
+    <description>クイックル トイレ つめかえ用・パイプユニッシュ プロ パイプクリーナー・スクラビングバブル 流せるトイレブラシを徹底比較。各商品の特徴をもとに、用途・洗浄力の観点からおすすめのトイレ掃除用品を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
