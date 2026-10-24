@@ -3473,7 +3473,7 @@ const RANKING_POOL = [
   },
   {
     name: "Bose QuietComfort Ultra Headphones（第2世代）",
-    excerpt: "空間オーディオ対応の完全ワイヤレスオーバーイヤーヘッドホン。ノイズキャンセリング、最大30時間再生に対応。",
+    excerpt: "空間オーディオ対応のワイヤレスオーバーイヤーヘッドホン。ノイズキャンセリング、最大30時間再生に対応。",
     img: "https://m.media-amazon.com/images/I/51revx-zToL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FL2HYBGJ?tag=hide0122-22",
     page: "product-bose-quietcomfort-ultra-headphones-2.html",
@@ -3494,7 +3494,7 @@ const RANKING_POOL = [
   },
   {
     name: "Bose QuietComfort Ultra Headphones LE（第2世代）",
-    excerpt: "空間オーディオ対応の完全ワイヤレスオーバーイヤーヘッドホン。デザートゴールドの限定色（LE）モデル。",
+    excerpt: "空間オーディオ対応のワイヤレスオーバーイヤーヘッドホン。デザートゴールドの限定色（LE）モデル。",
     img: "https://m.media-amazon.com/images/I/61ipIa0WTKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FL2KNHYM?tag=hide0122-22",
     page: "product-bose-quietcomfort-ultra-headphones-le.html",
