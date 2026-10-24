@@ -624,7 +624,7 @@ const RANKING_POOL = [
   },
   {
     name: "リズム(RHYTHM) ふいごカッコー R797 赤",
-    excerpt: "毎正時にふいごの動きで報時するカッコークロック。置き時計・掛け時計兼用。",
+    excerpt: "毎正時および30分にふいごの動きで報時するカッコークロック。置き時計・掛け時計兼用。",
     img: "https://m.media-amazon.com/images/I/71W3hXpdfSL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08HYPMNK8?tag=hide0122-22",
     page: "product-rhythm-cuckoo-clock-r797-red.html",
@@ -19128,7 +19128,7 @@ const RANKING_POOL = [
   },
   {
     name: "野田琺瑯 ココナベ KO-21BK 渋黒",
-    excerpt: "ガス火・IH対応の琺瑯製一人鍋。容量980ml・蓋付きで、ラーメンやうどん、鍋料理に使える日本製。",
+    excerpt: "琺瑯製の一人鍋。容量980mlで、メーカー公式サイトではIH100V・200V対応品と記載されています。",
     img: "https://m.media-amazon.com/images/I/51uQULZx5ML._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07Z5MXGK6?tag=hide0122-22",
     page: "product-noda-horo-kokonabe-ko-21bk.html",
@@ -25821,8 +25821,8 @@ const RANKING_POOL = [
     page: "product-onoe-tin-yutanpo-my-7205.html",
   },
   {
-    name: "Coleman(コールマン) 寝袋 タスマンキャンピングマミー L-15 使用可能温度-15度 マミー型 2000022267",
-    excerpt: "コールマン 寝袋 タスマンキャンピングマミー L-15。マミー型、快適温度−9度・使用可能温度−15度、使用時約83×203cm、約3.4kg、ポリエステル、丸洗いOK。",
+    name: "Coleman(コールマン) 寝袋 タスマンキャンピングマミー L-15 使用可能温度-15度以上 マミー型 2000022267",
+    excerpt: "コールマン 寝袋 タスマンキャンピングマミー L-15。マミー型、使用可能温度−15度以上、使用時約83×203cm、約3.4kg、ポリエステル、丸洗いOK。",
     img: "https://m.media-amazon.com/images/I/41pesindT3L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00SLO7GIQ?tag=hide0122-22",
     page: "product-coleman-tasman-camping-mummy-l-15-2000022267.html",

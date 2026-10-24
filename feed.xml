@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 24 Oct 2026 16:48:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 17:09:52 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -19,6 +19,13 @@
     <link>https://gearnote.net/category-baby</link>
     <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
     <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -43,10 +50,31 @@
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>パナソニック フェリエ フェイスシェーバーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-ferrie</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-ferrie</guid>
+    <description>パナソニック フェリエ フェイスシェーバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>コールマン クーラーボックス テイク6の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-coleman-cooler-box-take6</link>
     <guid isPermaLink="true">https://gearnote.net/product-coleman-cooler-box-take6</guid>
     <description>Coleman(コールマン) クーラーボックス テイク6・テイク9の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タニタ でか見えタイマーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tanita-dekamie-timer-td384</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tanita-dekamie-timer-td384</guid>
+    <description>タニタ キッチンタイマー 大画面 大音量 100分 でか見えタイマー TD-384の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-kitchen</link>
+    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
+    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -85,10 +113,24 @@
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>空気清浄機おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-air-purifiers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
+    <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを徹底比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>コーヒーマシン・コーヒー器具おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-coffee-machines</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
     <description>コーヒーマシン・コーヒー器具の比較ページです。デロンギの3機種（マグニフィカS・スティローザ・ラ・スペシャリスタ）を各商品の特徴から比較し、全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズシェーバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mens-shavers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
+    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。剃り味・お手入れのしやすさをまとめました。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -106,10 +148,24 @@
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Belkin iPhone 17 ケース シアーフォース の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-belkin-iphone17-case</link>
+    <guid isPermaLink="true">https://gearnote.net/product-belkin-iphone17-case</guid>
+    <description>Belkin iPhone 17 ケース MagSafe/Qi2対応 シアーフォース プロテクトシリーズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>SALONIA カールアイロン 32mmの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-salonia-curl-iron-32mm</link>
     <guid isPermaLink="true">https://gearnote.net/product-salonia-curl-iron-32mm</guid>
     <description>SALONIA サロニア セラミック カール ヘアアイロン 32mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ サーキュレーター KCF-1561 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-koizumi-dc-circulator-kcf1561</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-dc-circulator-kcf1561</guid>
+    <description>コイズミ サーキュレーター DCモーター リモコン付き 風量12段階 KCF-1561/Cの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -183,6 +239,13 @@
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>調理・製菓道具おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-kitchen-tools</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-kitchen-tools</guid>
+    <description>貝印 T型ピーラー・貝印 関孫六 シャープナー・ののじ キャベピィMAXを徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめの調理・製菓道具を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>飲み物・ドリンクウェアおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-drinkware</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-drinkware</guid>
@@ -208,6 +271,20 @@
     <link>https://gearnote.net/ranking-elderly-hygiene-care</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-elderly-hygiene-care</guid>
     <description>アイリスオーヤマ 防水シーツ・マツヨシ 口腔ケアスポンジ・ライフリー うす型軽快パンツを徹底比較。各商品の特徴をもとに、使いやすさ・吸収力の観点からおすすめの排泄・清潔ケア用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートホームデバイスおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smart-home-devices</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smart-home-devices</guid>
+    <description>SwitchBot ハブ3・Amazon Echo Dot 第5世代・Eufy SmartTrack Card E30を徹底比較。各商品の特徴をもとに、機能・使い勝手の観点からおすすめのスマートホームデバイスを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPhoneケース・アクセサリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-iphone-accessories</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-iphone-accessories</guid>
+    <description>TORRAS iPhone 17 ガラスフィルム・TORRAS Guardian-Mag ケース・TORRAS Ostand Q3を徹底比較。各商品の特徴をもとに、保護性能・機能性の観点からおすすめのiPhoneアクセサリーを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -263,7 +340,7 @@
     <title>違いを比較する記事一覧｜GEARNOTE</title>
     <link>https://gearnote.net/compare-index</link>
     <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
-    <description>GEARNOTEのAとBの違いを並べた比較記事588本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
+    <description>GEARNOTEのAとBの違いを並べた比較記事601本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -278,83 +355,6 @@
     <link>https://gearnote.net/product-anker-prime-thunderbolt4-cable</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-prime-thunderbolt4-cable</guid>
     <description>Anker Prime USB-C&amp;USB-C Thunderbolt 4ケーブル（240W、40Gbps、1.0m）の特徴を整理。8K映像出力・Thunderbolt 4認証など、メリット・デメリットとおすすめな人をまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キヤノン RF-S18-45mm F4.5-6.3 IS STM APS-C対応の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-canon-rf-s18-45mm-f4.5-6.3-is-stm-lens</link>
-    <guid isPermaLink="true">https://gearnote.net/product-canon-rf-s18-45mm-f4.5-6.3-is-stm-lens</guid>
-    <description>キヤノン RF-S18-45mm F4.5-6.3 IS STMレンズの特徴を整理。小型軽量な標準ズームレンズのメリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キヤノン RF50mm F1.8 STM 単焦点レンズの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-canon-rf50mm-f1.8-stm-lens</link>
-    <guid isPermaLink="true">https://gearnote.net/product-canon-rf50mm-f1.8-stm-lens</guid>
-    <description>キヤノン RF50mm F1.8 STM単焦点レンズの特徴を整理。大口径による背景ぼかしやメリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Peak Design エブリデイ スリング 6L の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-peakdesign-everyday-sling-6l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-peakdesign-everyday-sling-6l</guid>
-    <description>ピークデザイン エブリデイ スリング 6L カメラバッグの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lowepro フリップサイド 300 AW III の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lowepro-flipside-300awiii</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lowepro-flipside-300awiii</guid>
-    <description>Lowepro フリップサイド 300 AW IIIの特徴を整理。背面アクセス設計やオールウェザーカバーの活用法、メリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>サントリー のんある気分 ホワイトサワーテイスト 350ml×24本の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-suntory-nonalkibun-white-sour-350ml-24</link>
-    <guid isPermaLink="true">https://gearnote.net/product-suntory-nonalkibun-white-sour-350ml-24</guid>
-    <description>サントリー のんある気分 ホワイトサワーテイスト 350ml×24本（ノンアルコール飲料）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>のんある酒場 赤ワインスパークリング ノンアルコール 350ml×24本の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-suntory-nonaru-sakaba-red-wine-sparkling-350ml-24</link>
-    <guid isPermaLink="true">https://gearnote.net/product-suntory-nonaru-sakaba-red-wine-sparkling-350ml-24</guid>
-    <description>サントリー のんある酒場 赤ワインスパークリング ノンアルコール 350ml×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アサヒ おいしい水 六甲 ラベルレス 2L×6本の特徴・デメリット・比較｜GEARNOTE</title>
-    <link>https://gearnote.net/product-asahi-oishii-mizu-rokko-labelless-2l-6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-asahi-oishii-mizu-rokko-labelless-2l-6</guid>
-    <description>アサヒ飲料 おいしい水 天然水 六甲 ラベルレス 2L×6本の原材料・容量・選び方を整理。同シリーズの他の産地との違いの見方もまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>サントリー天然水 奥大山 2L×12本の特徴・デメリット・比較｜GEARNOTE</title>
-    <link>https://gearnote.net/product-suntory-tennensui-okuoyama-2l-6x2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-suntory-tennensui-okuoyama-2l-6x2</guid>
-    <description>サントリー天然水 奥大山 2L×12本（6本×2ケース）の原材料・硬度・選び方を整理。南アルプス天然水との違いの見方もまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>平安伸銅工業 突っ張り棒 ジャッキ式強力極太タイプ NGP-70 ホワイト の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-heianshindo-tension-rod-ngp70</link>
-    <guid isPermaLink="true">https://gearnote.net/product-heianshindo-tension-rod-ngp70</guid>
-    <description>平安伸銅工業 突っ張り棒 ジャッキ式強力極太タイプ NGP-70 ホワイトの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コンビ テテオ 哺乳びん 耐熱ガラス製 240ml Mサイズ乳首付 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-combi-teteo-bottle-glass-240ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-combi-teteo-bottle-glass-240ml</guid>
-    <description>コンビ テテオ 哺乳びん 耐熱ガラス製 240ml Mサイズ乳首付の仕様を整理。4段階流量調節・上下非対称の乳首など特徴とメリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マツヨシ 使い捨て手袋 ニトリルグローブ Mサイズ の商品情報｜GEARNOTE</title>
-    <link>https://gearnote.net/product-matsuyoshi-nitrile-gloves-m-100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-matsuyoshi-nitrile-gloves-m-100</guid>
-    <description>マツヨシ 使い捨て手袋 ニトリルグローブ Mサイズ 100枚入りの商品情報。材質、サイズ、厚さ、適合規格、入数をまとめました。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
