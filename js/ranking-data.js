@@ -26613,7 +26613,7 @@ const RANKING_POOL = [
   },
   {
     name: "【26年8月発売】Xiaomi シャオミ ロボット掃除機 6 ローラーモップ 30,000Pa強力吸引 50℃温水水拭き 90mm薄型 4cm段差対応",
-    excerpt: "Xiaomi ロボット掃除機 6 ローラーモップ ホワイト。30,000Pa、26cmローラーモップに50℃温水供給、薄さ90mm、最大4cm段差対応、ステーションでゴミ収集・温水洗浄・温風乾燥と記載。",
+    excerpt: "Xiaomi ロボット掃除機 6 ローラーモップ ホワイト。30,000Pa、26cmローラーモップに温水供給、薄さ90mm、最大4cm段差対応、ステーションでゴミ収集・温水洗浄・温風乾燥と記載。",
     img: "https://m.media-amazon.com/images/I/61ptCjTsbFL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HBQ3K4SF?tag=hide0122-22",
     page: "product-xiaomi-robot-vacuum-6-roller-mop-white.html",
