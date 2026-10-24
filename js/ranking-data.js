@@ -6849,7 +6849,7 @@ const RANKING_POOL = [
   },
   {
     name: "ライフリー 一晩中あんしんパッド 6回吸収",
-    excerpt: "テープ用の夜間向け尿とりパッド。活性炭シートで消臭、64cmの大判サイズ。",
+    excerpt: "テープ用の夜間向け尿とりパッド。巾30cm×長さ64cm、吸収回数の目安は排尿6回分。",
     img: "https://m.media-amazon.com/images/I/81Ak+wuDjjL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GVNPVD5Z?tag=hide0122-22",
     page: "product-lifree-hitobanjuu-anshin-pad-900cc.html",
@@ -14991,7 +14991,7 @@ const RANKING_POOL = [
   },
   {
     name: "消臭力 クルマ イオン消臭プラス 消臭ビーズ 車用",
-    excerpt: "重曹・炭酸ソーダ・アミンから生成されるトリプルイオン効果で車内のニオイを化学的に消臭する置き型ビーズタイプ。",
+    excerpt: "重曹・炭酸ソーダ・アミンから生成されるトリプルイオンで車内のニオイを化学的に消臭するとされる置き型ビーズタイプ。",
     img: "https://m.media-amazon.com/images/I/71aIbZL+brL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CR19DHFN?tag=hide0122-22",
     page: "product-esute-shoshuriki-car-ion-beads.html",
