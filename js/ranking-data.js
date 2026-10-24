@@ -11764,7 +11764,7 @@ const RANKING_POOL = [
   },
   {
     name: "マルマン ニーモシネ ノートパッド",
-    excerpt: "1枚ずつ切り取れるA5サイズのノートパッド。5mm方眼罫でペンホルダー付き。",
+    excerpt: "1枚ずつ切り取れるA5サイズのノートパッド。特殊5mm方眼罫で本文70枚。",
     img: "https://m.media-amazon.com/images/I/71Ddbq-nU2L._AC_SY450_.jpg",
     link: "https://www.amazon.co.jp/dp/B00TES82Q8?tag=hide0122-22",
     page: "product-maruman-mnemosyne-notepad-n188a.html",
@@ -12029,8 +12029,8 @@ const RANKING_POOL = [
     page: "product-staedtler-lumograph-100-hb-12.html",
   },
   {
-    name: "プラチナ万年筆 プレピー(0.2黒)",
-    excerpt: "ステンレスのペン先とスリップシール機構を備えた入門向け万年筆。0.2mm極細。",
+    name: "プラチナ万年筆 プレピー(02・黒)",
+    excerpt: "ステンレスのペン先を備えた入門向け万年筆。ペン種は02(極細)。",
     img: "https://m.media-amazon.com/images/I/71fBnraRdoL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B074TB914M?tag=hide0122-22",
     page: "product-platinum-preppy-psq400-02-black.html",
@@ -12051,7 +12051,7 @@ const RANKING_POOL = [
   },
   {
     name: "ミドリ MDノート(A5ドット方眼)",
-    excerpt: "180度フラットに開く糸かがり綴じ。万年筆にも対応するMD用紙のA5ノート。",
+    excerpt: "糸かがり綴じで、表紙・本文にMD用紙を使うA5ドット方眼ノート。",
     img: "https://m.media-amazon.com/images/I/41Mz7YS-+WL._AC_SX450_.jpg",
     link: "https://www.amazon.co.jp/dp/B0G5NXKGBB?tag=hide0122-22",
     page: "product-midori-mdnote-a5-dotgrid.html",
