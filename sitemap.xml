@@ -547,7 +547,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-braun-en10-nose-trimmer</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -15482,7 +15482,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-omron-kenonkun-mc688-thermometer</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -16322,7 +16322,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-kai-kq1833-nose-trimmer</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -24442,7 +24442,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-final-e3000-earphone</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -26772,7 +26772,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-razer-seiren-v3-mini-white-usb-mic</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -26967,7 +26967,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-terumo-electronic-thermometer-et-c232p01</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -27277,7 +27277,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-richell-babyguard-hirakido-lock-r-2pcs</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -32093,6 +32093,31 @@
   </url>
   <url>
     <loc>https://gearnote.net/compare-thermos-jow-600-vs-kinto-water-bottle-500ml</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/compare-richell-hirakido-lock-vs-multi-stopper</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/compare-final-e3000-vs-vr3000</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/compare-kai-kq1833-vs-braun-en10-nose-trimmer</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/compare-terumo-et-c232p01-vs-omron-mc688-thermometer</loc>
+    <lastmod>2026-10-24</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/compare-audio-technica-at2020-vs-razer-seiren-v3-mini</loc>
     <lastmod>2026-10-24</lastmod>
     <priority>0.6</priority>
   </url>

@@ -57,7 +57,7 @@ const RANKING_POOL = [
   },
   {
     name: "final VR3000 for Gaming",
-    excerpt: "バイノーラル3Dサラウンド対応、マイク付きの有線ゲーミングイヤホン。FPS・TPSなど音の方向感を重視するゲームに向けたモデル。",
+    excerpt: "バイノーラル3Dサラウンド対応の有線ゲーミングイヤホン。FPS・TPSなど音の方向感を重視するゲームに向けたモデル。",
     img: "https://m.media-amazon.com/images/I/51YSB0V0OLL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08PJD4WWX?tag=hide0122-22",
     page: "product-final-vr3000-gaming-earphone.html",
