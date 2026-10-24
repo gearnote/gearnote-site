@@ -16761,8 +16761,8 @@ const RANKING_POOL = [
     page: "product-bosch-gll50g-cross-line-laser.html",
   },
   {
-    name: "コーナンオリジナル アルミ 脚立 3段 幅広天板 高さ85.5cm 折りたたみ 滑り止め 軽量 耐荷重100kg",
-    excerpt: "アルミ製で天板面の高さ約860mmの3段脚立。幅広の天板と折りたたみ構造を備え、家庭での棚の上の作業や掃除に向く。",
+    name: "コーナンオリジナル LIFELEX 幅広アルミ踏み台 3段",
+    excerpt: "アルミ製で天板面の高さ約855mmの3段踏み台。天板サイズは約370×255mmで、メーカーは「足場の安定した幅広タイプ」と案内している。",
     img: "https://m.media-amazon.com/images/I/51SNBaYBMwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B076WVZ6N5?tag=hide0122-22",
     page: "product-kohnan-aluminum-stepladder-3step.html",
@@ -24394,7 +24394,7 @@ const RANKING_POOL = [
   },
   {
     name: "Dyson(ダイソン) Dyson HushJet shizuka空気清浄機 (SP01 WS AM) 静音コンパクト空気清浄機 小型省スペース",
-    excerpt: "23×23×47cm、重量3.15kgの小型HEPA空気清浄機。静電HEPAフィルターと活性炭、スター型ノズル、アプリ・Alexa操作に対応。適用畳数・消費電力は商品ページに記載なし。",
+    excerpt: "23×23×47cm、重量3.15kgの小型HEPA空気清浄機。静電HEPAフィルターと活性炭、スター型ノズル、アプリ・Alexa操作に対応。ダイソン公式サイトでは適用床面積19畳(30分)／55畳(60分)、消費電力は最小2W・最大19W。",
     img: "https://m.media-amazon.com/images/I/61wmlcjoTKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FPPQXFY1?tag=hide0122-22",
     page: "product-dyson-hushjet-shizuka-sp01.html",
