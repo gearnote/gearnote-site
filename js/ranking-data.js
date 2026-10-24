@@ -13731,7 +13731,7 @@ const RANKING_POOL = [
   },
   {
     name: "和平フレイズ 燕三条製 天ぷら鍋 20cm TM-9467",
-    excerpt: "温度計・油はねガード・油切りアミ付きの鉄製天ぷら鍋。IH・ガス両対応の日本製。",
+    excerpt: "油はねガード・油切りアミ付きの鉄製天ぷら鍋。メーカー公式の仕様ではIH対応の日本製。",
     img: "https://m.media-amazon.com/images/I/612LvvhObdL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00T3ZVY7Q?tag=hide0122-22",
     page: "product-wahei-freiz-tempura-pot-20cm-tm9467.html",
