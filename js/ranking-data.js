@@ -12303,7 +12303,7 @@ const RANKING_POOL = [
   },
   {
     name: "オーディオテクニカ AT2020",
-    excerpt: "サイドアドレス型のコンデンサーマイク。単一指向性で周波数特性は40~20,000Hz、XLRコネクタとファントム電源...",
+    excerpt: "サイドアドレス型のコンデンサーマイク。単一指向性で周波数特性は20〜20,000Hz、XLRコネクタとファントム電源...",
     img: "https://m.media-amazon.com/images/I/7146ChhunvL._AC_SY550_.jpg",
     link: "https://www.amazon.co.jp/dp/B0006H92QK?tag=hide0122-22",
     page: "product-audio-technica-at2020-condenser-mic.html",
@@ -18862,7 +18862,7 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック LED電球 プレミア E26口金 電球60形相当 昼白色相当(7.0W) 一般電球広配光タイプ 密閉器具対応 LDA7NGSK6F",
-    excerpt: "E26口金の60形相当LED電球。昼白色相当・全光束810lm・7.0W、広配光（約180度）タイプで密閉器具に対応",
+    excerpt: "E26口金の60形相当LED電球。昼白色相当・全光束810lm・7.0W、広配光タイプで密閉器具に対応",
     img: "https://m.media-amazon.com/images/I/61-esHGfJbL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BW8N8VXY?tag=hide0122-22",
     page: "product-panasonic-led-bulb-lda7ngsk6f.html",
@@ -25605,7 +25605,7 @@ const RANKING_POOL = [
   },
   {
     name: "ハイセンス 洗濯機 8kg 大容量 家族用 2-4人用 低騒音 シャワー水流 激流洗浄 風乾燥 部屋干し 予約機能 インバーター 省エネ ナイトコース HW-KD80L",
-    excerpt: "ハイセンス 洗濯機 HW-KD80L。洗濯容量8kg、インバーター、ナイトコース、標準コース約41分、3つの槽洗浄コース、自分流コース、ステンレス槽、質量33kg。騒音・本体幅の表記は欄ごとに異なる。",
+    excerpt: "ハイセンス 洗濯機 HW-KD80L。洗濯容量8kg、インバーター、ナイトコース、標準コース約41分、3つの槽洗浄コース、自分流コース、ステンレス槽、質量約34kg。運転音は洗い約36dB・脱水約39dB（メーカーの仕様）。",
     img: "https://m.media-amazon.com/images/I/61jIZVL+uPL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FY5MMVL6?tag=hide0122-22",
     page: "product-hisense-washing-machine-8kg-hw-kd80l.html",
