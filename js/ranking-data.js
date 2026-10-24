@@ -15446,14 +15446,14 @@ const RANKING_POOL = [
   },
   {
     name: "アロン化成 安寿 高さ調節付浴槽台R かるぴったん 標準",
-    excerpt: "二重吸盤式の高さ調節付浴槽台。高さ15〜22.5cm(4段階)、天板32×42cm、最大使用者体重100kg。",
+    excerpt: "二重吸盤式の高さ調節付浴槽台。高さ15〜22.5cm(4段階)、幅42×奥行33cm、最大使用者体重100kg。",
     img: "https://m.media-amazon.com/images/I/51GZvCQTwfL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B001GZH9NE?tag=hide0122-22",
     page: "product-aron-anju-karupittan-bathtub-stand-standard.html",
   },
   {
     name: "アロン化成 安寿 ステンレス製浴槽台R 536-440",
-    excerpt: "ステンレス製の低床(高さ10cm)浴槽台。天板40×30cm、吸盤・脚ゴムはエラストマー。",
+    excerpt: "ステンレス製の低床(高さ10cm)浴槽台。天板41.5×34cm、吸盤・脚ゴムはエラストマー。",
     img: "https://m.media-amazon.com/images/I/41Xh-aqoBvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B084LVNY1X?tag=hide0122-22",
     page: "product-aron-anju-stainless-bathtub-stand-r-536-440.html",
