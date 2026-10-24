@@ -26921,7 +26921,7 @@ const RANKING_POOL = [
   },
   {
     name: "ホビージャパン 月面コロニー大惨事 日本語版 1-5人用 45分 14才以上向け ボードゲーム",
-    excerpt: "ホビージャパン 月面コロニー大惨事 日本語版。1-5人用・45分・14才以上、本体300×300×70mm。エンジン構築型のカード展開ゲーム、セット内容はカード200枚・トークン247個などと記載。",
+    excerpt: "ホビージャパン 月面コロニー大惨事 日本語版。1-5人用・約45分・14歳以上、本体300×300×70mm。エンジン構築型のカード展開ゲーム、セット内容はカード200枚・トークン247個などと記載。",
     img: "https://m.media-amazon.com/images/I/71AMv+fVEvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H7GLBWVR?tag=hide0122-22",
     page: "product-hobbyjapan-lunar-colony-catastrophe-japanese.html",

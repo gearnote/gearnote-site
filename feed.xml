@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 24 Oct 2026 08:45:05 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 13:48:50 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -40,6 +40,13 @@
     <link>https://gearnote.net/brand-google</link>
     <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
     <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-jbl-cinema-sb580</link>
     <guid isPermaLink="true">https://gearnote.net/product-jbl-cinema-sb580</guid>
     <description>JBL CINEMA SB580 サウンドバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JBL PartyBox Club 120の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jbl-partybox-club-120</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jbl-partybox-club-120</guid>
-    <description>JBL PartyBox Club 120 Bluetoothスピーカーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
