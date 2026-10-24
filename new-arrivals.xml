@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 24 Oct 2026 07:45:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 08:45:08 +0000</lastBuildDate>
+  <item>
+    <title>iiyama G-MASTER GB2591HSU-B1JA（24.5インチ</title>
+    <link>https://gearnote.net/product-iiyama-g-master-gb2591hsu-b1ja-24-5-fhd-320hz-gaming-monitor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iiyama-g-master-gb2591hsu-b1ja-24-5-fhd-320hz-gaming-monitor</guid>
+    <description>iiyamaのゲーミングモニター「G-MASTER」、型番GB2591HSU-B1JA（24.5インチ・フルHD）です。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ コードレススチームアイロン</title>
+    <link>https://gearnote.net/product-iris-ohyama-cordless-steam-iron-irn-cl20c-w-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-cordless-steam-iron-irn-cl20c-w-2026</guid>
+    <description>アイリスオーヤマのコードレススチームアイロン、型番IRN-CL20C-W（ホワイト・2026年モデル）です。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ ふとん乾燥機 カラリエ</title>
+    <link>https://gearnote.net/product-iris-ohyama-futon-dryer-karierie-fk-az23c-w-twin-nozzle-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-futon-dryer-karierie-fk-az23c-w-twin-nozzle-2026</guid>
+    <description>アイリスオーヤマのふとん乾燥機「カラリエ」、型番FK-AZ23C-W（2026年モデル）です。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>リズム 卓上超音波式加湿器 MIST Mini 2（350mL・ライトグレー・2026）</title>
+    <link>https://gearnote.net/product-rhythm-mist-mini-2-ultrasonic-desktop-humidifier-350ml-9yy030rh08a</link>
+    <guid isPermaLink="true">https://gearnote.net/product-rhythm-mist-mini-2-ultrasonic-desktop-humidifier-350ml-9yy030rh08a</guid>
+    <description>リズムの卓上超音波式加湿器「MIST Mini 2」、型番9YY030RH08A（ライトグレー・2026）です。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>TP-Link UB6A（Bluetooth 6.0対応</title>
+    <link>https://gearnote.net/product-tp-link-ub6a-bluetooth-6-0-usb-adapter</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tp-link-ub6a-bluetooth-6-0-usb-adapter</guid>
+    <description>TP-LinkのBluetooth 6.0対応USBアダプター、型番UB6Aです。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>ドコモ純正 準固体モバイルバッテリー01M（10000mAh・最大45W）</title>
     <link>https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-electric-stove-ds-sak061-h-obstacle-sensor</guid>
     <description>山善の電気ストーブ「DS-SAK061(H)」です。商品ページには、障害物が近づくと自動で電源が切れる障害物センサー、転倒時に運転が止まる設計、弱200W・中400W・強600Wの3段階切替。</description>
     <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Harman Kardon Luna 2 ミント（HKLUNA2MIT）</title>
-    <link>https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint</link>
-    <guid isPermaLink="true">https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint</guid>
-    <description>ハーマンカードンのポータブルBluetoothスピーカー「Luna 2」のミント（HKLUNA2MIT）です。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 電気掛敷毛布 KDK-60268T 快眠タイマー付き</title>
-    <link>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-60268t-sleep-timer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-60268t-sleep-timer</guid>
-    <description>コイズミの電気掛敷毛布「KDK-60268T」です。商品ページには、サイズ188×120cm、就寝中の通電をタイマーでコントロールする快眠タイマー、室温センサー、頭寒足熱配線、ダニ退治。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lexar ES5 ポータブルSSD 2TB MagSafe対応</title>
-    <link>https://gearnote.net/product-lexar-es5-portable-ssd-2tb-magsafe</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lexar-es5-portable-ssd-2tb-magsafe</guid>
-    <description>LexarのポータブルSSD「ES5」の2TBモデルです。商品ページには、USB 3.2 Gen2x2接続で最大2000MB/秒の読み取り・書き込み、MagSafe対応デバイスへ取り付けて使えること。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung Galaxy Watch Ultra2 チタニウム シルバー</title>
-    <link>https://gearnote.net/product-samsung-galaxy-watch-ultra2-titanium-silver</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-watch-ultra2-titanium-silver</guid>
-    <description>サムスンのスマートウォッチ「Galaxy Watch Ultra2」のチタニウム シルバーです。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 セラミックファンヒーター DMSF-J063(W) ホワイト</title>
-    <link>https://gearnote.net/product-yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor</guid>
-    <description>山善のセラミックファンヒーター「DMSF-J063(W)」のホワイトです。</description>
-    <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
