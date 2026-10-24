@@ -1,0 +1,3 @@
+# netlify.app の別ホストから正規ドメインへ恒久転送 (重複ホスト対策)
+https://stellular-macaron-701072.netlify.app/* https://gearnote.net/:splat 301!
+http://stellular-macaron-701072.netlify.app/* https://gearnote.net/:splat 301!

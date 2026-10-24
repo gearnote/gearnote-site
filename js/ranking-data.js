@@ -16579,7 +16579,7 @@ const RANKING_POOL = [
     page: "product-lec-kaku-toilet-brush-case-white.html",
   },
   {
-    name: "レック(Lec) トイレポット ホワイト 13.5×15×16.5cm CORRON トイレポット B00212",
+    name: "レック(Lec) トイレポット ホワイト 140×150×165mm CORRON トイレポット B00212",
     excerpt: "コロンとしたデザインで、すっきり置けるスクエアタイプのトイレポット（サニタリーボックス）。ワンタッチでポリ袋を押さえる中ぶた付きで、片手で開けられるつまみが付いたホワイトタイプです。",
     img: "https://m.media-amazon.com/images/I/51axTnqT3mL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07KGJW51J?tag=hide0122-22",
@@ -25199,7 +25199,7 @@ const RANKING_POOL = [
   },
   {
     name: "Dyson(ダイソン) ドライヤー Dyson Supersonic Nural™ Shineヘアドライヤー シャンパンロゼ (HD16 AS G) 大風量 速乾 スカルプケア 【Amazon.co.jp限定】【パワフルな風だから、低温なのに速乾】【限定ギフト コーム付き】",
-    excerpt: "Dyson Supersonic Nural Shine HD16 AS G（シャンパンロゼ・コーム付き）。消費電力1200W、風量3.0m³/分、スカルプモード、温度センサーランプ、ツヤ出しツール。",
+    excerpt: "Dyson Supersonic Nural Shine HD16 AS G（シャンパンロゼ・コーム付き）。消費電力1200W、スカルプモード、温度センサーランプ、ツヤ出しツール。",
     img: "https://m.media-amazon.com/images/I/61ZSHSDvaqL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FTRT75K3?tag=hide0122-22",
     page: "product-dyson-supersonic-nural-shine-hd16-champagne-rose.html",
