@@ -15257,7 +15257,7 @@ const RANKING_POOL = [
   },
   {
     name: "エルパ もてなしライト 扉ひっかけ形 人感センサー玄関灯 屋外 防雨 電池式 ドア型 HLH-2206",
-    excerpt: "扉の上部に引っ掛けて設置する電池式の人感センサーライト。人を検知すると約12秒間自動点灯し、白色・電球色のLEDを切り替えられる。",
+    excerpt: "電池式の人感センサーライト。人を検知すると約12秒間自動点灯し、白色・電球色のLEDを切り替えられる。",
     img: "https://m.media-amazon.com/images/I/51wAn53sDWL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09RWDST73?tag=hide0122-22",
     page: "product-elpa-motion-sensor-door-light-hlh2206.html",

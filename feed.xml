@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 24 Oct 2026 04:34:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 04:49:58 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -176,6 +176,13 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Bose Smart Ultra Soundbar の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-smart-ultra-soundbar</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-smart-ultra-soundbar</guid>
+    <description>Bose Smart Ultra Soundbar（Dolby Atmos対応）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>デロンギ マグニフィカSの特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-delonghi-magnifica-s</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-s</guid>
@@ -236,6 +243,13 @@
     <link>https://gearnote.net/product-eufy-smart-scale-p2-pro</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-smart-scale-p2-pro</guid>
     <description>Anker Eufy(ユーフィ) Smart Scale P2 Pro 体重体組成計の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPhone 17 Pro Maxの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iphone-17-pro-max</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iphone-17-pro-max</guid>
+    <description>Apple iPhone 17 Pro Maxの特徴を整理。メリット・デメリット、iPhone Air・AQUOS sense9との比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-sony-zv-e10</link>
     <guid isPermaLink="true">https://gearnote.net/product-sony-zv-e10</guid>
     <description>ソニー VLOGCAM ZV-E10 レンズ交換式ミラーレス一眼カメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>サントリー NOPE ギルティ炭酸 24本 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-suntory-nope-guilty-soda-24</link>
-    <guid isPermaLink="true">https://gearnote.net/product-suntory-nope-guilty-soda-24</guid>
-    <description>サントリー NOPE ギルティ炭酸 フルーツ&amp;スパイス炭酸飲料 600ml×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot LED電球 スマートライト（2個パック）の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-led-bulb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-led-bulb</guid>
-    <description>SwitchBot LED電球 スマートライト（2個パック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
