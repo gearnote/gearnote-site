@@ -1093,7 +1093,7 @@ const RANKING_POOL = [
   },
   {
     name: "Insta360 Luna Ultra",
-    excerpt: "デュアルLeicaレンズ搭載の8K対応ポケットジンバルVlogカメラ。15倍ズーム対応。",
+    excerpt: "デュアルLeicaレンズ搭載の8K対応ポケットジンバルVlogカメラ。ズームは1〜15倍（メーカー記載）。",
     img: "https://m.media-amazon.com/images/I/61YzrEsNLBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GXJRJ2MK?tag=hide0122-22",
     page: "product-insta360-luna-ultra.html",
@@ -27390,7 +27390,7 @@ const RANKING_POOL = [
   },
   {
     name: "[山善] オイルレスヒーター 1200W 出力3段階切替 省エネ 温度調節機能 24時間入切タイマー付 ホワイト DOL-J12(W)E",
-    excerpt: "山善 オイルレスヒーター 1200W DOL-J12(W)E。出力3段階、16〜28℃の5段階の設定温度、入切Wタイマー（1〜24時間）、本体約5.5kg、転倒オフスイッチ・チャイルドロックと記載。",
+    excerpt: "山善 オイルレスヒーター 1200W DOL-J12(W)E。出力3段階、16〜28℃の5段階の設定温度、24時間の入切Wタイマー（入タイマー使用時は5時間で自動OFF）、本体約5.5kg、転倒オフスイッチ・チャイルドロックと記載。",
     img: "https://m.media-amazon.com/images/I/51tLt+bbTGL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HCBQ395F?tag=hide0122-22",
     page: "product-yamazen-oilless-heater-1200w-dol-j12-w-e.html",
