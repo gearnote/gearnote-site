@@ -6555,7 +6555,7 @@ const RANKING_POOL = [
   },
   {
     name: "和平フレイズ ホットサンドメーカー あつほかダイニング AM-9868",
-    excerpt: "上下を取り外せるIH・ガス両対応のホットサンドメーカー。約35.2cmの大きめサイズで、キャンプにも使いやすい",
+    excerpt: "上下を取り外せるIH対応のホットサンドメーカー。約35.2cmの大きめサイズで、食パンの耳を切らずに使える",
     img: "https://m.media-amazon.com/images/I/61GTq1QnChL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B073VP9RPX?tag=hide0122-22",
     page: "product-wahei-freiz-atsuhoka-hot-sandwich-maker-am9868.html",
@@ -8900,7 +8900,7 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック エネループ 単4形充電池 4本パック",
-    excerpt: "充電済みですぐ使える単4形の繰り返し充電池。最小容量800mAh、約600回のくり返し使用が可能な日本製スタンダードモデル。",
+    excerpt: "充電済みですぐ使える単4形の繰り返し充電池。最小容量800mAh、約600回のくり返し使用が可能なスタンダードモデル。",
     img: "https://m.media-amazon.com/images/I/51oirkcC5VL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B079BGNZWC?tag=hide0122-22",
     page: "product-panasonic-eneloop-aaa-4.html",
@@ -9005,7 +9005,7 @@ const RANKING_POOL = [
   },
   {
     name: "東芝 充電式ニッケル水素充電池 単4形 4本入り",
-    excerpt: "電池容量min.750mAh以上（JIS C8708）、くり返し充電回数約1,000回とされる日本製の単4形ニッケル水素充電池、4本入り。",
+    excerpt: "電池容量min.750mAh以上（JIS C8708）とされる日本製の単4形ニッケル水素充電池、4本入り。充電はメーカー案内の充電器で行う。",
     img: "https://m.media-amazon.com/images/I/619jUbFpNAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0756YN1GK?tag=hide0122-22",
     page: "product-toshiba-nimh-battery-aaa-4.html",
@@ -10210,7 +10210,7 @@ const RANKING_POOL = [
   },
   {
     name: "スノーピーク(snow peak) 火ばさみ N-020",
-    excerpt: "全長約40cm・重量約0.2kgの、ステンレス本体とビーチ材のグリップを組み合わせた日本製の火ばさみです。",
+    excerpt: "全長約40cm・重量約0.2kgの、ステンレス本体とビーチ材のグリップを組み合わせた火ばさみです。",
     img: "https://m.media-amazon.com/images/I/51XCcpZveZL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B002NTQPEG?tag=hide0122-22",
     page: "product-snowpeak-fire-tongs-n-020.html",
@@ -13808,7 +13808,7 @@ const RANKING_POOL = [
   },
   {
     name: "亀の子束子 白いたわし ホワイトパーム",
-    excerpt: "ヤシの実の繊維を使った日本製のたわし。ザルやおろし金の網目、泥落としに向く。",
+    excerpt: "ヤシの実の繊維を使ったたわし。ザルやおろし金の網目、泥落としに向く。",
     img: "https://m.media-amazon.com/images/I/71yFDRBTPyL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00PU569ZK?tag=hide0122-22",
     page: "product-kamenoko-tawashi-white-palm-s.html",
@@ -19149,7 +19149,7 @@ const RANKING_POOL = [
   },
   {
     name: "キャプテンスタッグ 両手スキレット18cm UG-3032",
-    excerpt: "直径18cmの鋳鉄製・両手タイプのスキレット。ガス火・直火・オーブンに対応と記載され、IHの記載はなし。",
+    excerpt: "直径18cmの鋳鉄製・両手タイプのスキレット。メーカー公式では250×190×高さ50mm・1.3kgで、対応熱源の記載はなし。",
     img: "https://m.media-amazon.com/images/I/81QB-FT0iGL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B06XW4F2YG?tag=hide0122-22",
     page: "product-captainstag-skillet-18cm-two-handle-ug3032.html",
