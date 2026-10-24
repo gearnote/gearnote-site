@@ -7009,7 +7009,7 @@ const RANKING_POOL = [
     page: "product-nestle-isocal-jelly-hc-variety-24.html",
   },
   {
-    name: "ピジョン 母乳実感 哺乳びん 240ml プラスチック製（スリーカット乳首付き）",
+    name: "ピジョン 母乳実感 哺乳びん 240ml プラスチック製（Y字形乳首付き）",
     excerpt: "病産院での使用実績No.1（ピジョン調べ）の母乳実感哺乳びん。軽くて割れにくいプラスチック製で、3カ月頃から使える240ml",
     img: "https://m.media-amazon.com/images/I/41AsYAEw4DL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B09QBS1X8S?tag=hide0122-22",
@@ -16223,7 +16223,7 @@ const RANKING_POOL = [
   },
   {
     name: "Aprica(アップリカ) 強力消臭おむつポット ニオイポイ グレージュ 専用カセット1個付 紙おむつ処理 NIOI-POI 本体 2195720",
-    excerpt: "専用カセットの消臭フィルムで紙おむつを包んで処理するおむつポット。片手で押して入れられる。",
+    excerpt: "専用カセットのフィルムで紙おむつを包んで処理するおむつポット。片手で押して入れられる。",
     img: "https://m.media-amazon.com/images/I/51KpYEMobDL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C7ZKXC9J?tag=hide0122-22",
     page: "product-aprica-nioipoi-diaper-pot-2195720.html",
@@ -21958,7 +21958,7 @@ const RANKING_POOL = [
   },
   {
     name: "(ケラッタ) EZkan おむつポット ごみ箱 大容量 27L 防臭 抗菌 におわない袋 介護 オムツ ペット",
-    excerpt: "フットペダルで開閉できる大容量27Lのおむつポット。専用リフィルロールと5重フタで防臭する設計。",
+    excerpt: "フットペダルで開閉できる大容量27Lのおむつポット。専用リフィルロールと2重フタの構造。",
     img: "https://m.media-amazon.com/images/I/71SltDyUk1L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C5HSTX7L?tag=hide0122-22",
     page: "product-kerata-ezkan-diaper-pail-27l.html",
