@@ -14767,7 +14767,7 @@ const RANKING_POOL = [
   },
   {
     name: "パナソニック(Panasonic) バリカン ヘアーカッター プログレード ER-SC61-K",
-    excerpt: "0.5mm刻みで長さ調整できる日本製バリカン。お風呂で使える防水設計で、セルフのヘアカットに向いています。",
+    excerpt: "付属のアタッチメントで長さを選べる日本製バリカン。お風呂で使える防水設計で、セルフのヘアカットに向いています。",
     img: "https://m.media-amazon.com/images/I/71IwQFRqMEL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BF8SQKC5?tag=hide0122-22",
     page: "product-panasonic-hairclipper-prograde-ersc61.html",
@@ -28027,7 +28027,7 @@ const RANKING_POOL = [
   },
   {
     name: "Belkin モバイルバッテリー 3C 認証 大容量 10000mAh 最大45W 2台同時充電 USB-Cケーブル内蔵 LEDライト付き オレンジ",
-    excerpt: "Belkin モバイルバッテリー 10000mAh 45W LEDライト付き（オレンジ）。21cmのケーブル内蔵、2台同時充電、モーションセンサー付きライト、デジタル残量表示と記載。",
+    excerpt: "Belkin モバイルバッテリー 10000mAh 45W LEDライト付き（オレンジ）。ケーブル内蔵、2台同時充電、モーションセンサー付きライトと記載。",
     img: "https://m.media-amazon.com/images/I/51z9+73C4bL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GXJWV74T?tag=hide0122-22",
     page: "product-belkin-power-bank-10000mah-45w-led-light-orange.html",
