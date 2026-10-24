@@ -18001,7 +18001,7 @@ const RANKING_POOL = [
   },
   {
     name: "Bose TV Speaker（第2世代）",
-    excerpt: "高さ5cm強のコンパクトなサウンドバー。センターツイーターとDialogue Modeでセリフを聞き取りやすくし、HDMI ARC接続、Bluetooth、Dolby Atmos対応とされている。",
+    excerpt: "高さ5cm強のコンパクトなサウンドバー。商品説明ではDialogue Modeでセリフを聞き取りやすくするとされ、HDMI ARC接続とBluetoothに対応する。",
     img: "https://m.media-amazon.com/images/I/51okPSfEI8L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HF52WXLG?tag=hide0122-22",
     page: "product-bose-tv-speaker-2nd-gen.html",
@@ -22735,7 +22735,7 @@ const RANKING_POOL = [
   },
   {
     name: "ScanSnap iX110",
-    excerpt: "USB Type-Cポートを新搭載してリニューアルした軽量モバイルスキャナー。小型原稿のデュアルスキャンに対応。",
+    excerpt: "USB Type-Cポートを新搭載してリニューアルした軽量モバイルスキャナー。手挿入の片面読み取り方式。",
     img: "https://m.media-amazon.com/images/I/513FCpKdOdL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FX36NZNT?tag=hide0122-22",
     page: "product-scansnap-ix110.html",

@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 24 Oct 2026 04:26:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 04:34:41 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -302,6 +302,20 @@
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>パナソニック エネループ 単3形の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-eneloop-aa-4</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-eneloop-aa-4</guid>
+    <description>パナソニック エネループ 単3形 スタンダードモデル 充電池 4本パックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonic 充電式EVOLTA 充電器セットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-evolta-charger-set-aa2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-evolta-charger-set-aa2</guid>
+    <description>Panasonic 充電式EVOLTA 充電器セット 単3形充電池2本付 お手軽モデルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>AQUOS sense9の特徴・デメリット・比較｜GEARNOTE</title>
     <link>https://gearnote.net/product-sharp-aquos-sense9</link>
     <guid isPermaLink="true">https://gearnote.net/product-sharp-aquos-sense9</guid>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-switchbot-led-bulb</link>
     <guid isPermaLink="true">https://gearnote.net/product-switchbot-led-bulb</guid>
     <description>SwitchBot LED電球 スマートライト（2個パック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>UNO(ウノ)の特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-uno-card-game</link>
-    <guid isPermaLink="true">https://gearnote.net/product-uno-card-game</guid>
-    <description>マテルゲーム ウノ(UNO) カードゲームの特徴を整理。メリット・デメリット、ジェンガ・スタディ将棋との比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アークライト ito(イト) ボードゲームの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-arclight-ito-board-game</link>
-    <guid isPermaLink="true">https://gearnote.net/product-arclight-ito-board-game</guid>
-    <description>アークライト ito(イト) ボードゲームの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
