@@ -470,7 +470,7 @@ const RANKING_POOL = [
   },
   {
     name: "DJI Osmo 360 エッセンシャルコンボ",
-    excerpt: "1インチ360°イメージングエリアを搭載した360度アクションカメラ。8K動画対応。",
+    excerpt: "1/1.1インチCMOSセンサーを搭載した360度アクションカメラ。8K動画対応。",
     img: "https://m.media-amazon.com/images/I/71Tmf80wb7L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FXGWJNNZ?tag=hide0122-22",
     page: "product-dji-osmo-360-essential-combo.html",
