@@ -22875,7 +22875,7 @@ const RANKING_POOL = [
   },
   {
     name: "dreame T16 水拭き掃除機（乾湿両用）",
-    excerpt: "吸引と水拭きを同時に行う乾湿両用の水拭き掃除機。25,000Pa、90°C温水洗浄と自動乾燥、約9.85cmの超薄型、約35分稼働。",
+    excerpt: "吸引と水拭きを同時に行う乾湿両用の水拭き掃除機。25,000Pa、90°C温水洗浄と自動乾燥、超薄型、約35分稼働。",
     img: "https://m.media-amazon.com/images/I/61OS6ygK-wL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GVYJQ7XQ?tag=hide0122-22",
     page: "product-dreame-t16-wet-dry-vacuum.html",
