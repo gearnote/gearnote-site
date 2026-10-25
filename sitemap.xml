@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -27962,7 +27962,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -32705,5 +32705,30 @@
     <loc>https://gearnote.net/compare-elgato-wave-xlr-mk2-vs-wave-xlr-dock-mk2</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-hisense-fridge-252l-hr-k25l-s-slim-2door-2026</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-semi-solid-power-bank-10000mah-pd35w-ymb-a100</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-epson-ew-456a1-a4-inkjet-multifunction-printer-2026-summer</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-samsung-galaxy-watch9-44mm-bluetooth-graphite-sm-l350nzkjxjp</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-buffalo-wired-keyboard-bskbu115bk-full-109-membrane</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
