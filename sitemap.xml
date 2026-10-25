@@ -24922,7 +24922,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/guides</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -32870,5 +32870,50 @@
     <loc>https://gearnote.net/compare-aulumu-g05-air-vs-g09</loc>
     <lastmod>2026-10-25</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-usbc-cable</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-streaming-device</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-gimbal-tripod</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-wallet</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-backpack</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-shoulder-bag</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-clock</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-food-storage</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/guide-laundry-hanger-rack</loc>
+    <lastmod>2026-10-25</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
