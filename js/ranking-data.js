@@ -1793,7 +1793,7 @@ const RANKING_POOL = [
   },
   {
     name: "ソフト99 超ガラコ 撥水剤",
-    excerpt: "フッ素処理で従来の約6倍の寿命を実現した超持続性ガラスコーティング剤。",
+    excerpt: "フッ素処理を採用し、従来の約6倍の寿命をメーカーが案内するガラス撥水剤（弊社試験による旨の記載あり）。",
     img: "https://m.media-amazon.com/images/I/61tlftRbiXL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B000WAMI76?tag=hide0122-22",
     page: "product-soft99-cho-glaco-glass-repellent-70ml.html",
