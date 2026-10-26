@@ -12534,7 +12534,7 @@ const RANKING_POOL = [
   },
   {
     name: "CIAO ちゅ~る 総合栄養食バラエティ 80本",
-    excerpt: "1歳からの成猫向け、液状タイプの総合栄養食。まぐろベースの4種類の味が楽しめます。",
+    excerpt: "1歳からの成猫向け、液状タイプ。メーカー公式サイトの区分は「おやつ（総合栄養食タイプ）」です。まぐろベースの4種類の味が楽しめます。",
     img: "https://m.media-amazon.com/images/I/81iCaPxtkKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C2C8SVV5?tag=hide0122-22",
     page: "product-ciao-churu-sougou-eiyoshoku-80.html",
@@ -26101,8 +26101,8 @@ const RANKING_POOL = [
     page: "product-pigeon-oshirinap-yawaraka-atsude-80x6.html",
   },
   {
-    name: "【パンツ Mサイズつかまり立ち~】ムーニーマンエアフィット オムツ (6~11kg)210枚 (70枚×3) [ケース品] 【Amazon.co.jp 限定】",
-    excerpt: "ムーニーマン エアフィット パンツ Mサイズ（つかまり立ち〜）210枚（70枚×3）。あんしんロングガード、エアシルキー素材、さらさら通気シート。体重の目安は商品名と特長欄で6〜11kg／6〜12kgと表記が異なる。",
+    name: "【パンツ Mサイズつかまり立ち~】ムーニーマンエアフィット オムツ 210枚 (70枚×3) [ケース品] 【Amazon.co.jp 限定】",
+    excerpt: "ムーニーマン エアフィット パンツ Mサイズ（つかまり立ち〜）210枚（70枚×3）。あんしんロングガード、エアシルキー素材、さらさら通気シート。体重の目安はメーカー公式情報で確認できていないため記載なし。",
     img: "https://m.media-amazon.com/images/I/61l8h3QWoWS._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07PLSGV7H?tag=hide0122-22",
     page: "product-moonyman-airfit-pants-m-210.html",
@@ -28299,8 +28299,8 @@ const RANKING_POOL = [
     page: "product-nescafe-fuwa-latte-variety-assorted-pack-40p.html",
   },
   {
-    name: "ライオン 介護 はぴケア パワフル消臭 本体 800g 洗濯洗剤 濃縮 クエン酸 尿臭除去 食べこぼし汚れにも せっけんの香り",
-    excerpt: "ライオン 介護 はぴケア パワフル消臭 洗濯洗剤 本体800g。クエン酸配合、食べこぼし汚れ、黄ばみ防止成分、蛍光剤無配合、濃縮タイプ、せっけんの香りと記載。",
+    name: "ライオン 介護 はぴケア パワフル消臭 本体 800g 洗濯洗剤 濃縮 クエン酸 尿臭除去 食べこぼし汚れにも",
+    excerpt: "ライオン 介護 はぴケア パワフル消臭 洗濯洗剤 本体800g。クエン酸配合、食べこぼし汚れ、黄ばみ防止成分、蛍光剤無配合、濃縮タイプと記載。",
     img: "https://m.media-amazon.com/images/I/61vpvAaJ9vL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HBWCPFZL?tag=hide0122-22",
     page: "product-lion-kaigo-hapi-care-powerful-deodorizing-detergent-800g.html",
