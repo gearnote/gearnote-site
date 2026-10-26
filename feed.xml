@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 13:36:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 13:44:18 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -218,6 +218,13 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アオビホ ノートパソコンスタンドの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-aoviho-laptop-stand</link>
+    <guid isPermaLink="true">https://gearnote.net/product-aoviho-laptop-stand</guid>
+    <description>アオビホ(Aoviho) ノートパソコンスタンド 折りたたみ式 アルミ製の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>岩崎工業 ラストロウェア 冷水筒の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-iwasaki-lustroware-cold-water-jug</link>
     <guid isPermaLink="true">https://gearnote.net/product-iwasaki-lustroware-cold-water-jug</guid>
@@ -250,6 +257,13 @@
     <link>https://gearnote.net/product-asahi-wonda-morning-shot</link>
     <guid isPermaLink="true">https://gearnote.net/product-asahi-wonda-morning-shot</guid>
     <description>アサヒ飲料 ワンダ モーニングショット 185g×30本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Welch&#x27;s 飲む果実 1房分のぶどう 470ml×24本の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-welchs-grape-juice-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-welchs-grape-juice-24</guid>
+    <description>アサヒ飲料 Welch&#x27;s(ウェルチ) 飲む果実 1房分のぶどう 470ml×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/ranking-noise-cancelling-earbuds</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-noise-cancelling-earbuds</guid>
     <description>AirPods 4・WF-1000XM6・Bose QC Ultra Earbuds 2を徹底比較。各商品の特徴をもとに、装着感・遮音性・音質の観点からおすすめのノイズキャンセリングイヤホンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>リュックおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-backpacks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-backpacks</guid>
-    <description>エースジーン・アヴィレックス・カナナプロジェクトを徹底比較。各商品の特徴をもとに、機能性・軽さ・デザインの観点からおすすめのリュックを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キャットフードおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cat-food</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cat-food</guid>
-    <description>ピュリナワン・ニュートロ・カルカンを徹底比較。各商品の特徴をもとに、食いつき・匂いの観点からおすすめのキャットフードを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
