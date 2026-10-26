@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 07:32:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 07:37:12 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -22,10 +22,24 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Ankerの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-anker</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
+    <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Appleの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-apple</link>
     <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
     <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -36,10 +50,24 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>生活家電の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
     <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Aulumu A18 iPhone 18 Pro Max 高性能フロストケース の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-aulumu-a18-iphone18promax-case</link>
+    <guid isPermaLink="true">https://gearnote.net/product-aulumu-a18-iphone18promax-case</guid>
+    <description>Aulumu A18 iPhone 18 Pro Max ケースの特徴を整理。CoolHyper放熱システム、アルミ製カメラガード、温度インジケーターなど、メリット・デメリットをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -54,6 +82,13 @@
     <link>https://gearnote.net/product-koizumi-salon-sense-iron</link>
     <guid isPermaLink="true">https://gearnote.net/product-koizumi-salon-sense-iron</guid>
     <description>コイズミ サロンセンス ヘアアイロン ストレート シルキーモイスト KHS-8771/WHの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>貝印 T型ピーラーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kai-t-peeler-select100</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kai-t-peeler-select100</guid>
+    <description>貝印 T型ピーラー SELECT100の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -106,10 +141,31 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>フライパンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-frying-pans</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-frying-pans</guid>
+    <description>貝印・ティファール・サーモスのフライパンを徹底比較。各商品の特徴をもとに、軽さ・熱伝導・耐久性の観点からおすすめのフライパンを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズシェーバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mens-shavers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
+    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。剃り味・お手入れのしやすさをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>アイリスオーヤマ サーキュレーター（DCモーター 28畳）の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-iris-ohyama-circulator-dc-28</link>
     <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-circulator-dc-28</guid>
     <description>アイリスオーヤマ サーキュレーター 28畳 DCモーターの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-logicool</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
+    <description>ロジクール製品の特徴、マウス・キーボード・Webカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -169,6 +225,13 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>掃除・清掃用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cleaning-supplies</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cleaning-supplies</guid>
+    <description>オキシクリーン EX・サンサンスポンジ・Homspark 三角コーナー いらずを徹底比較。各商品の特徴をもとに、用途・洗浄力の観点からおすすめの掃除・清掃用品を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>シューズ・シューケアおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-shoes-shoecare</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-shoes-shoecare</guid>
@@ -183,6 +246,27 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>調理・製菓道具おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-kitchen-tools</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-kitchen-tools</guid>
+    <description>貝印 T型ピーラー・貝印 関孫六 シャープナー・ののじ キャベピィMAXを徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめの調理・製菓道具を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カーナビ・車載電子機器おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-car-electronics</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-car-electronics</guid>
+    <description>パナソニック ETC1.0車載器・Lamicall タブレットホルダー・FMトランスミッターを徹底比較。各商品の特徴をもとに、使いやすさ・設置のしやすさの観点からおすすめの車載電子機器を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPhoneケース・アクセサリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-iphone-accessories</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-iphone-accessories</guid>
+    <description>TORRAS iPhone 17 ガラスフィルム・TORRAS Guardian-Mag ケース・TORRAS Ostand Q3を徹底比較。各商品の特徴をもとに、保護性能・機能性の観点からおすすめのiPhoneアクセサリーを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>KINUJO（キヌージョ）の商品一覧｜ブランド特集｜GEARNOTE</title>
     <link>https://gearnote.net/brand-kinujo</link>
     <guid isPermaLink="true">https://gearnote.net/brand-kinujo</guid>
@@ -190,171 +274,87 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ささめ針(SASAME) TKS49 特選 SLちょい投げ ライトセット の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sasame-tks49-choinage-light-set</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sasame-tks49-choinage-light-set</guid>
-    <description>ささめ針 TKS49 特選SLちょい投げ ライトセットの特徴を整理。ハリ号数・ハリス・全長などの仕様、メリット・デメリットをまとめました。</description>
+    <title>藤栄 ほんとうにすべらないお箸 23cm の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-fujiei-suberanai-ohashi-23cm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-fujiei-suberanai-ohashi-23cm</guid>
+    <description>藤栄(FUJIEI) ほんとうにすべらないお箸 23cm HSR-103 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ショウワノート 学習帳 ジャポニカフレンド 5mm方眼 算数 青 B5サイズ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-showa-note-japonica-friend-sansu-5mm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-showa-note-japonica-friend-sansu-5mm</guid>
-    <description>5mm方眼罫(リーダー入り)のB5判・算数用学習帳。科目シールが付属します。</description>
+    <title>シマノ（SHIMANO）の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-shimano</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-shimano</guid>
+    <description>シマノ（SHIMANO）製品の特徴、PEラインやリール用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>タバタ リフトティー GV1419 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tabata-lift-tee-gv1419</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tabata-lift-tee-gv1419</guid>
-    <description>タバタ リフトティー GV1419の仕様を整理。高さ調整の仕組みやロック機構の見方、メリット・デメリットをまとめました。</description>
+    <title>GEX（ジェックス）の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-gex</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-gex</guid>
+    <description>GEX（ジェックス）製品の特徴、小動物・観賞魚用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ドリテック デジタルキッチンタイマーT-650WTの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dretec-kitchen-timer-t650wt</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dretec-kitchen-timer-t650wt</guid>
-    <description>ドリテック(dretec) デジタルキッチンタイマー T-650WT 大画面 マグネット付 ホワイトの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>ナガオ 燕三条 ディナーカトラリーセット 10本 18-0ステンレス 日本製 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nagao-tsubame-dinner-cutlery-10pc</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nagao-tsubame-dinner-cutlery-10pc</guid>
+    <description>ナガオ 燕三条 ディナーカトラリーセット 10本 18-0ステンレス 日本製の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>イチネンケミカルズ クリンビュー ノータッチUVスプレー 360ml の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ichinen-clearview-tire-uv-spray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ichinen-clearview-tire-uv-spray</guid>
-    <description>イチネンケミカルズ クリンビュー ノータッチUVスプレーの特徴を整理。メーカー公式サイトの用途と使い方をまとめました。</description>
+    <title>東洋佐々木ガラス 薄氷 うすらい タンブラー 370ml HSハードストロング の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-toyo-sasaki-usurai-tumbler-370ml</link>
+    <guid isPermaLink="true">https://gearnote.net/product-toyo-sasaki-usurai-tumbler-370ml</guid>
+    <description>東洋佐々木ガラス 薄氷 うすらい タンブラー 370ml HSハードストロング B-21112CSの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>島製作所 シルバーカー テノールEVO クロコダイルBK の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shima-tenor-evo-silvercar</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shima-tenor-evo-silvercar</guid>
-    <description>島製作所 シルバーカー テノールEVO クロコダイルBK の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>リス トランクカーゴ TC-50S 50L ブラック の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-risu-trunk-cargo-tc-50s-50l-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-risu-trunk-cargo-tc-50s-50l-black</guid>
+    <description>リス トランクカーゴ TC-50S 50L ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>イワヤ だっこでミィミィ こねこのタビー 電子ペットぬいぐるみの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iwaya-dakko-mimi-tabby</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iwaya-dakko-mimi-tabby</guid>
-    <description>だっこでミィミィ こねこのタビー(対象年齢3歳以上)の特徴を整理。鳴く音の変化や電池仕様をまとめました。</description>
+    <title>ホリ スリムハードポーチ プラス for Nintendo Switch の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hori-slim-hard-pouch-plus-switch2-nsx-076</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hori-slim-hard-pouch-plus-switch2-nsx-076</guid>
+    <description>ホリ スリムハードポーチ プラス for Nintendo Switch 2（NSX-076）インディゴブルーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>山善 リビング扇風機 コンパクト収納 DCモーター AHX-FGD301 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-living-fan-dc-ahxfgd301</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-living-fan-dc-ahxfgd301</guid>
-    <description>[山善] 扇風機 リビング コンパクト収納 DCモーター 静音 左右自動首振り 風量8段階調節 切タイマー機能 リモコン付き ホワイト AHX-FGD301(W)の特徴を整理。メリット・デメリットをまとめました。</description>
+    <title>HORI USBカメラ Nintendo Switch 2用の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hori-usb-camera-switch2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hori-usb-camera-switch2</guid>
+    <description>ホリ USBカメラ Nintendo Switch 2用の特徴を整理。対応モードや解像度、メリット・デメリットをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Amazonベーシック リビング扇風機 DCモーター 羽根直径30cm の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazonbasics-living-fan-dc-30cm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazonbasics-living-fan-dc-30cm</guid>
-    <description>Amazonベーシック リビング扇風機 DCモーター 省エネ 静音 リモコン付 9枚羽根 ソフト気流 入切タイマー 首振り 風量調節5段階 の特徴を整理。メリット・デメリットをまとめました。</description>
+    <title>HORI 24ゲームカードケース(ポケモン ピクセルグリーン) Switch2用 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hori-24-gamecard-case-pokemon-pixelgreen</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hori-24-gamecard-case-pokemon-pixelgreen</guid>
+    <description>HORI 24ゲームカードケース(ポケモン ピクセルグリーン) Nintendo Switch 2用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ウッディプッディ はじめてのおままごと アイスクリームセットの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-woodypuddy-first-icecream-set</link>
-    <guid isPermaLink="true">https://gearnote.net/product-woodypuddy-first-icecream-set</guid>
-    <description>ウッディプッディ はじめてのおままごと アイスクリームセットの特徴を整理。マグネットで付く木のおもちゃ、対象年齢18か月以上、メーカー公式オンラインショップで確認した仕様をまとめました。</description>
+    <title>ホリ ゲーミングヘッドセット スタンダード あつまれ どうぶつの森 for の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hori-gaming-headset-standard-doubutsu-no-mori-switch2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hori-gaming-headset-standard-doubutsu-no-mori-switch2</guid>
+    <description>【任天堂ライセンス商品】ホリ ゲーミングヘッドセット スタンダード あつまれ どうぶつの森 DIYライフVer.の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>キーパー技研(KeePer技研) コーティング専門店のカーシャンプー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-keeper-car-shampoo-i01-700ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-keeper-car-shampoo-i01-700ml</guid>
-    <description>KeePer技研 カーシャンプー I-01の特徴を整理。中性で全塗装色とコーティング車に対応する700mL(約15回分)の洗車シャンプーの使い方と注意点をまとめました。</description>
+    <title>JSAUX 充電グリップ for Nintendo Switch 2 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jsaux-charging-grip-switch2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jsaux-charging-grip-switch2</guid>
+    <description>JSAUX 充電グリップ Switch 2対応の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>BougeRV ポータブル冷蔵庫 20L -20℃〜20℃ 車載冷凍庫 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bougerv-portable-fridge-crh20-20l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bougerv-portable-fridge-crh20-20l</guid>
-    <description>BougeRV ポータブル冷蔵庫 20L -20℃〜20℃ 車載冷凍庫 リン酸鉄電池付き アプリ操作可 CRH20の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>TOSHIBA(東芝) リビング扇風機 DCモーター 静音 リモコン付 7枚羽根 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-toshiba-living-fan-dc-tf-30dl28a</link>
-    <guid isPermaLink="true">https://gearnote.net/product-toshiba-living-fan-dc-tf-30dl28a</guid>
-    <description>TOSHIBA(東芝) リビング扇風機 DCモーター 静音 リモコン付 7枚羽根 切タイマー 首振り ホワイト TF-30DL28Aの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイメディア ニッパー式爪切り ソフトグリップ 日本製 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-aimedia-nipper-nail-clipper-soft-grip</link>
-    <guid isPermaLink="true">https://gearnote.net/product-aimedia-nipper-nail-clipper-soft-grip</guid>
-    <description>アイメディア ニッパー式爪切り ソフトグリップ 日本製の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>貝印 クレアートリー マニキュアツールセット 甘皮ケア3点セット HC4011 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kai-hc4011-cuticle-tool-set</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kai-hc4011-cuticle-tool-set</guid>
-    <description>貝印 クレアートリー マニキュアツールセット 甘皮ケア3点セット HC4011の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルミューダ ザ・グリーンファン DCモーター扇風機 静音 省エネ 日本製 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-balmuda-the-greenfan-egf-1800-wg</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-greenfan-egf-1800-wg</guid>
-    <description>バルミューダ ザ・グリーンファン DCモーター扇風機 静音 省エネ 日本製 BALMUDA The GreenFan EGF-1800-WG (ホワイト×グレー)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>クツワ ミッフィー ステーショナリーケース D 黄色 星 MF985Dの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kutsuwa-miffy-stationery-case-mf985d</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kutsuwa-miffy-stationery-case-mf985d</guid>
-    <description>クツワ ミッフィー ステーショナリーケース MF985Dの特徴を整理。高さ185×幅290×奥行16mm、質量38gの薄型ケースの仕様をまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
-    <description>2026年のAmazonプライム感謝祭は終了しました。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品の仕様紹介は、引き続きご覧いただけます。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスイヤホンの選び方ガイド｜ノイズキャンセリング・装着タイプ・再生時間の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-earbuds</guid>
-    <description>ワイヤレスイヤホンの装着タイプ（カナル型・オープンイヤー型）とノイズキャンセリング、接続方式・コーデック、再生時間・防水等級の見方を、使う場面別に解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>暖房器具の選び方ガイド｜方式別の特徴と安全面の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-heater</guid>
-    <description>セラミックファンヒーター・オイルヒーター・電気毛布・ホットカーペットなど電気式暖房器具の方式別の特徴、消費電力や適用畳数の見方、使うときの安全面を解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>サーキュレーター・扇風機の選び方ガイド｜適用畳数・モーター・首振りの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-circulator-fan</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-circulator-fan</guid>
-    <description>サーキュレーターと扇風機の違い、適用畳数・DCモーターとACモーター・風量段階・首振り・運転音といったスペック表の見方を、部屋干しや冷暖房との併用など使う場面別に解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートウォッチの選び方ガイド｜対応スマホ・バッテリー・GPS・防水の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-smartwatch</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-smartwatch</guid>
-    <description>スマートウォッチ・スマートバンドの種類と、対応するスマホ（iPhone／Android）、バッテリー持続時間、GPS、防水、決済機能などスペック表の見方を、使う目的別に解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>外付けSSD・HDD・メモリーカードの選び方ガイド｜容量・転送速度・規格の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-external-storage</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-external-storage</guid>
-    <description>ポータブルSSD、外付けHDD、内蔵SSD、microSD・SDカードの違いと、容量・インターフェース規格・読み書き速度・耐衝撃・対応機器など、ストレージ製品のスペック表の見方を用途別に解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>USB充電器・充電ケーブルの選び方ガイド｜W数・GaN・PD・ケーブル規格の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-usb-charger</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-usb-charger</guid>
-    <description>USB充電器（GaN・PD対応）と充電ケーブルの選び方を、最大出力（W数）、ポート構成、自動分配、ケーブルの対応ワット数・データ転送速度、安全面の確認ポイントとあわせて、使う場面別に解説します。</description>
+    <title>エレコム Nintendo Switch2専用 液晶保護フィルム ガラス 光沢 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-glass-film-glossy-switch2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-glass-film-glossy-switch2</guid>
+    <description>エレコム Nintendo Switch2専用 液晶保護フィルム ガラス 光沢 ARコートの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
