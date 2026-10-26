@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 06:49:59 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 07:20:54 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -61,6 +61,41 @@
     <link>https://gearnote.net/product-castelbajac-sneaker-boots-12261</link>
     <guid isPermaLink="true">https://gearnote.net/product-castelbajac-sneaker-boots-12261</guid>
     <description>カステルバジャック スニーカーブーツ 12261 メンズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>超ガラコの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-soft99-cho-glaco-glass-repellent-70ml</link>
+    <guid isPermaLink="true">https://gearnote.net/product-soft99-cho-glaco-glass-repellent-70ml</guid>
+    <description>ソフト99 車用 ガラス撥水剤 超ガラコの特徴を整理。メリット・デメリット、カーシャンプー・洗車タオルとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シュアラスター ループ パワーショット ガソリン添加剤の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-surluster-loop-power-shot-fuel-additive</link>
+    <guid isPermaLink="true">https://gearnote.net/product-surluster-loop-power-shot-fuel-additive</guid>
+    <description>シュアラスター ループ パワーショット 240ml ガソリン添加剤の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>本・文房具の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-books</link>
+    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
+    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-car</link>
+    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
+    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>洗車用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-car-wash</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-car-wash</guid>
+    <description>シュアラスターシャンプー・超ガラコ・マイクロファイバー洗車タオルを徹底比較。各商品の特徴をもとに、洗う・撥水・拭き上げの観点からおすすめの洗車用品を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -267,6 +302,13 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
+    <description>2026年のAmazonプライム感謝祭は終了しました。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品の仕様紹介は、引き続きご覧いただけます。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ワイヤレスイヤホンの選び方ガイド｜ノイズキャンセリング・装着タイプ・再生時間の見方｜GEARNOTE</title>
     <link>https://gearnote.net/guide-earbuds</link>
     <guid isPermaLink="true">https://gearnote.net/guide-earbuds</guid>
@@ -313,48 +355,6 @@
     <link>https://gearnote.net/guide-tablet</link>
     <guid isPermaLink="true">https://gearnote.net/guide-tablet</guid>
     <description>タブレットの画面サイズと解像度、OS（iPadOS・Android・Fire OS）の違い、ストレージとメモリ、Wi-Fiモデルとセルラーモデル、バッテリー表記といった仕様表の見方を、当サイト掲載のiPad・Galaxy・Lenovo・Xiaomi・Fireの記載値とあわせて解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キーボードの選び方ガイド｜接続方式・配列・キースイッチ・サイズの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-keyboard</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-keyboard</guid>
-    <description>キーボードの接続方式（Bluetooth・USBレシーバー・有線）、JIS配列とUS配列、キースイッチの種類、テンキーの有無とサイズ、マルチペアリングや電源といった仕様表の見方を、当サイト掲載のロジクール・Keychron・HHKB・エレコムなどの記載値とあわせて解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Wi-Fiルーターの選び方ガイド｜規格・通信速度表記・メッシュ・ポートの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-wifi-router</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-wifi-router</guid>
-    <description>Wi-Fiルーターの規格（Wi-Fi 5・6・6E・7）、通信速度の「最大」表記の意味、周波数帯、メッシュと中継機の違い、有線ポートの速度といった仕様表の見方を、当サイト掲載のバッファロー・NEC・TP-Link・eero・Google Nest Wifiの記載値とあわせて解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Webカメラ・マイクの選び方ガイド｜解像度・画角・マイク性能・接続の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-webcam</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-webcam</guid>
-    <description>Webカメラの解像度とフレームレート、画角、オートフォーカス、内蔵マイクと外付けマイクの違い、マイクの指向性、USB接続とXLR接続といった仕様表の見方を、当サイト掲載のロジクール・Anker・Insta360・FIFINE・SHUREなどの記載値とあわせて解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートリモコン・スマートホームハブの選び方ガイド｜赤外線・Matter・Wi-Fi帯域・対応家電の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-smart-remote</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-smart-remote</guid>
-    <description>スマートリモコンとスマートホームハブの違い、赤外線リモコンの対応範囲、Wi-Fiの周波数帯、Matter・Thread・Zigbeeといった規格、ハブが必要になる条件といった仕様表の見方を、当サイト掲載のSwitchBot・Aqara・Nature Remo・Tapo・Echo Dot Maxなどの記載値とあわせて解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アクションカメラ・360度カメラの選び方ガイド｜画質・手ブレ補正・防水・バッテリーの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-action-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-action-camera</guid>
-    <description>アクションカメラと360度カメラの違い、解像度とフレームレート、センサーサイズ、手ブレ補正、防水表記の条件、バッテリーと記録メディアといった仕様表の見方を、当サイト掲載のDJI Osmo・GoPro・Insta360の記載値とあわせて解説します。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電気圧力鍋・ホットプレートの選び方ガイド｜容量・調理モード・サイズ・お手入れの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-pressure-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-pressure-cooker</guid>
-    <description>電気圧力鍋と自動調理鍋、ホットプレートの違い、満水容量と調理容量の表記、調理モードとメニュー数、プレートの種類と温度設定、サイズと重量、お手入れといった仕様表の見方を、当サイト掲載のパナソニック・ティファール・シロカ・象印・山善などの記載値とあわせて解説します。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
