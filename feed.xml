@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 13:44:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 13:45:27 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -166,6 +166,13 @@
     <link>https://gearnote.net/product-delonghi-mini-oil-heater</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-mini-oil-heater</guid>
     <description>De&#x27;Longhi(デロンギ) ミニオイルヒーター NJ0505Eの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dove ボディーソープ 大容量詰替の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dove-body-soap-refill-2-8kg</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dove-body-soap-refill-2-8kg</guid>
+    <description>Dove(ダヴ) ボディーソープ プレミアムモイスチャーケア 大容量詰替 8.5個分 2.8kgの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-tamagotchi-paradise</link>
     <guid isPermaLink="true">https://gearnote.net/product-tamagotchi-paradise</guid>
     <description>バンダイ Tamagotchi Paradise（たまごっちパラダイス）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ノイズキャンセリングイヤホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-noise-cancelling-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-noise-cancelling-earbuds</guid>
-    <description>AirPods 4・WF-1000XM6・Bose QC Ultra Earbuds 2を徹底比較。各商品の特徴をもとに、装着感・遮音性・音質の観点からおすすめのノイズキャンセリングイヤホンを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
