@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 25 Oct 2026 21:32:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 04:02:20 +0000</lastBuildDate>
   <item>
     <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-amazon-echo</link>
@@ -54,6 +54,13 @@
     <link>https://gearnote.net/ranking-car-accessories</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-car-accessories</guid>
     <description>ANDERY 車載スマホホルダー・UGREEN MagFlow Qi2 車載ワイヤレス充電器・Anker PowerDrive 2 Alloy カーチャージャーを徹底比較。各商品の特徴をもとに、固定力・充電性能の観点からおすすめのカーアクセサリを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>KINUJO（キヌージョ）の商品一覧｜ブランド特集｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-kinujo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-kinujo</guid>
+    <description>KINUJO（キヌージョ）の特徴、シルクプレート採用のヘアドライヤー・ヘアアイロンとしての強み、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-airpods-max-2</link>
     <guid isPermaLink="true">https://gearnote.net/product-airpods-max-2</guid>
     <description>Apple AirPods Max 2の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>by Amazon 有塩ミックスナッツの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-mixed-nuts</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-mixed-nuts</guid>
-    <description>by Amazon 有塩ミックスナッツ 24P 個包装の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
