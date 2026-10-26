@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 13:52:46 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 13:54:28 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -225,6 +225,20 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>パーフェクトワンフォーカス クレンジングバームの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-perfect-one-focus-cleansing-balm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-perfect-one-focus-cleansing-balm</guid>
+    <description>パーフェクトワンフォーカス スムースクレンジングバームの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソフティモ KOSE ポイントメイクアップリムーバー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-softymo-kose-point-remover</link>
+    <guid isPermaLink="true">https://gearnote.net/product-softymo-kose-point-remover</guid>
+    <description>ソフティモ KOSE スーパー ポイントメイクアップリムーバー 230mLの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>カステルバジャック サシャ ショルダーバッグの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-castelbajac-sasha-shoulder-bag</link>
     <guid isPermaLink="true">https://gearnote.net/product-castelbajac-sasha-shoulder-bag</guid>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-casio-collection-f91w</link>
     <guid isPermaLink="true">https://gearnote.net/product-casio-collection-f91w</guid>
     <description>カシオ コレクション F-91W-1JH 腕時計の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ニチバン セロテープ 大巻の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-nichiban-cellotape-omaki-10pack</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nichiban-cellotape-omaki-10pack</guid>
-    <description>ニチバン セロテープ 大巻 10巻入 15mm×35mの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>FAISHILAN 自転車ライトの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-faishilan-bike-light-2000lm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-faishilan-bike-light-2000lm</guid>
-    <description>FAISHILAN 自転車ライト 防水 充電式 高輝度2000ルーメンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
