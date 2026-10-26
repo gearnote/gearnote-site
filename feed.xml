@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 07:37:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 07:39:23 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -103,6 +103,13 @@
     <link>https://gearnote.net/product-soft99-cho-glaco-glass-repellent-70ml</link>
     <guid isPermaLink="true">https://gearnote.net/product-soft99-cho-glaco-glass-repellent-70ml</guid>
     <description>ソフト99 車用 ガラス撥水剤 超ガラコの特徴を整理。メリット・デメリット、カーシャンプー・洗車タオルとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヤマシタ エギ王K エギングの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamashita-egiking-2-5-muramura-cherry</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamashita-egiking-2-5-muramura-cherry</guid>
+    <description>ヤマシタ エギング エギ王K 2.5号 ムラムラチェリーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -274,10 +281,45 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Levi&#x27;sの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-levis</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-levis</guid>
+    <description>Levi&#x27;s(リーバイス)の定番501ジーンズ・トラッカージャケット・Tシャツ・キャップの特徴、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>GEX グラスハーモニー450N スターターセットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-gex-harmony-glasscage-450n-starter</link>
+    <guid isPermaLink="true">https://gearnote.net/product-gex-harmony-glasscage-450n-starter</guid>
+    <description>ジェックス Harmony グラスハーモニー450N ガラス製クリアケージ スターターセットの特徴を整理。小動物用ケージの選び方、メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>マルカン ウォーターボトルフラット 600mlの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-marukan-water-bottle-flat-600ml</link>
+    <guid isPermaLink="true">https://gearnote.net/product-marukan-water-bottle-flat-600ml</guid>
+    <description>ミニマルランド マルカン ウォーターボトルフラット 600ml うさぎ・小動物用の特徴を整理。給水ボトルの選び方、メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SANKO サイレントホイール フラット25の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sanko-silent-wheel-flat25</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sanko-silent-wheel-flat25</guid>
+    <description>SANKO U45 サイレントホイール フラット25の特徴を整理。小動物用回し車の選び方、メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>藤栄 ほんとうにすべらないお箸 23cm の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-fujiei-suberanai-ohashi-23cm</link>
     <guid isPermaLink="true">https://gearnote.net/product-fujiei-suberanai-ohashi-23cm</guid>
     <description>藤栄(FUJIEI) ほんとうにすべらないお箸 23cm HSR-103 の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヤマトヨテグス(YAMATOYO) フロロショックリーダー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamatoyo-fluorocarbon-leader</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamatoyo-fluorocarbon-leader</guid>
+    <description>ヤマトヨテグス フロロショックリーダーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -309,52 +351,10 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>リス トランクカーゴ TC-50S 50L ブラック の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-risu-trunk-cargo-tc-50s-50l-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-risu-trunk-cargo-tc-50s-50l-black</guid>
-    <description>リス トランクカーゴ TC-50S 50L ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ホリ スリムハードポーチ プラス for Nintendo Switch の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-hori-slim-hard-pouch-plus-switch2-nsx-076</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hori-slim-hard-pouch-plus-switch2-nsx-076</guid>
-    <description>ホリ スリムハードポーチ プラス for Nintendo Switch 2（NSX-076）インディゴブルーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HORI USBカメラ Nintendo Switch 2用の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-hori-usb-camera-switch2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hori-usb-camera-switch2</guid>
-    <description>ホリ USBカメラ Nintendo Switch 2用の特徴を整理。対応モードや解像度、メリット・デメリットをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HORI 24ゲームカードケース(ポケモン ピクセルグリーン) Switch2用 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-hori-24-gamecard-case-pokemon-pixelgreen</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hori-24-gamecard-case-pokemon-pixelgreen</guid>
-    <description>HORI 24ゲームカードケース(ポケモン ピクセルグリーン) Nintendo Switch 2用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ホリ ゲーミングヘッドセット スタンダード あつまれ どうぶつの森 for の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-hori-gaming-headset-standard-doubutsu-no-mori-switch2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hori-gaming-headset-standard-doubutsu-no-mori-switch2</guid>
-    <description>【任天堂ライセンス商品】ホリ ゲーミングヘッドセット スタンダード あつまれ どうぶつの森 DIYライフVer.の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JSAUX 充電グリップ for Nintendo Switch 2 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jsaux-charging-grip-switch2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jsaux-charging-grip-switch2</guid>
-    <description>JSAUX 充電グリップ Switch 2対応の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エレコム Nintendo Switch2専用 液晶保護フィルム ガラス 光沢 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elecom-glass-film-glossy-switch2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elecom-glass-film-glossy-switch2</guid>
-    <description>エレコム Nintendo Switch2専用 液晶保護フィルム ガラス 光沢 ARコートの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>ピジョン 母乳実感 哺乳びん 240ml プラスチック製（Y字形乳首付き） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-pigeon-bonyu-jikkan-bottle-240ml-plastic</link>
+    <guid isPermaLink="true">https://gearnote.net/product-pigeon-bonyu-jikkan-bottle-240ml-plastic</guid>
+    <description>ピジョン 母乳実感 哺乳びん 240ml プラスチック製（Y字形乳首付き）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
