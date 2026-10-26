@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 07:52:23 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 07:56:11 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -64,6 +64,13 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-daily</link>
     <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
@@ -71,10 +78,31 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>生活家電の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
     <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>おもちゃの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
+    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -120,6 +148,13 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ニチバン セロテープ 大巻の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nichiban-cellotape-omaki-10pack</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nichiban-cellotape-omaki-10pack</guid>
+    <description>ニチバン セロテープ 大巻 10巻入 15mm×35mの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>FAISHILAN 自転車ライトの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-faishilan-bike-light-2000lm</link>
     <guid isPermaLink="true">https://gearnote.net/product-faishilan-bike-light-2000lm</guid>
@@ -152,6 +187,13 @@
     <link>https://gearnote.net/brand-castelbajac</link>
     <guid isPermaLink="true">https://gearnote.net/brand-castelbajac</guid>
     <description>カステルバジャック製品の特徴、バッグ・財布・小物の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ペット用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-pets</link>
+    <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
+    <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -246,6 +288,48 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>コクヨ ハリナックス コンパクトアルファ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kokuyo-harinacs-compact-alpha</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-harinacs-compact-alpha</guid>
+    <description>コクヨ(KOKUYO) 針なしステープラー ハリナックス コンパクトアルファの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コクヨ テープのり ドットライナー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kokuyo-dotliner</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-dotliner</guid>
+    <description>コクヨ テープのり ドットライナー しっかり貼る 強粘着の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コクヨ ファイル POSITY クリアファイル の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kokuyo-posity-clearfile</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-posity-clearfile</guid>
+    <description>コクヨ ファイル クリアファイル POSITY 替紙式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コクヨ はさみ サクサ チタン グルーレス刃 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kokuyo-sakusa-titanium-scissors</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-sakusa-titanium-scissors</guid>
+    <description>コクヨ はさみ サクサ チタン・グルーレス刃の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コクヨ カッターナイフ フレーヌ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kokuyo-cutter-frenu</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-cutter-frenu</guid>
+    <description>コクヨ カッターナイフ フレーヌ 安心構造 標準型 白 HA-S100Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コクヨ Dリングファイル スムーススタイル の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kokuyo-d-ring-file</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-d-ring-file</guid>
+    <description>コクヨ Dリングファイル スムーススタイル A4 2穴 300枚収容の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>エレコムの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-elecom</link>
     <guid isPermaLink="true">https://gearnote.net/brand-elecom</guid>
@@ -271,90 +355,6 @@
     <link>https://gearnote.net/product-amazon-fire-tv-cube</link>
     <guid isPermaLink="true">https://gearnote.net/product-amazon-fire-tv-cube</guid>
     <description>Amazon Fire TV Cube（キューブ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 扇風機 KLF-3053 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-koizumi-dc-fan-klf3053</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-dc-fan-klf3053</guid>
-    <description>コイズミ 扇風機 KLF-3053/K（リモコン付き）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ サーキュレーター KCF-1561 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-koizumi-dc-circulator-kcf1561</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-dc-circulator-kcf1561</guid>
-    <description>コイズミ サーキュレーター DCモーター リモコン付き 風量12段階 KCF-1561/Cの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファイル・印鑑おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-office-file-supplies</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-office-file-supplies</guid>
-    <description>キングジム クリアファイル カラーベース・プラス クリアホルダー・ハンコヤストア ジョインティJ9を徹底比較。各商品の特徴をもとに、使い勝手・耐久性の観点からおすすめのファイル・印鑑用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>梱包・接着用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-packing-supplies</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-packing-supplies</guid>
-    <description>ミナパック 緩衝材 エアーキャップ・ニチバン セロテープ 大巻・コクヨ ハリナックス コンパクトアルファを徹底比較。各商品の特徴をもとに、使い勝手の観点からおすすめの梱包・接着用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車の補修・メンテナンス用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-maintenance</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-maintenance</guid>
-    <description>ソフト99 ウレタンクリアー・KURE LOOX ヘッドライトクリア・ソフト99 ガラコワイパー替えゴムを徹底比較。各商品の特徴をもとに、施工のしやすさ・効果の観点からおすすめの補修・メンテナンス用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カーアクセサリおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-accessories</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-accessories</guid>
-    <description>ANDERY 車載スマホホルダー・UGREEN MagFlow Qi2 車載ワイヤレス充電器・Anker PowerDrive 2 Alloy カーチャージャーを徹底比較。各商品の特徴をもとに、固定力・充電性能の観点からおすすめのカーアクセサリを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カーパーツ・整備・安全用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-parts-safety</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-parts-safety</guid>
-    <description>エーモン 非常信号灯・パナソニック カオス バッテリー・KURE スーパー5-56を徹底比較。各商品の特徴をもとに、用途・耐久性の観点からおすすめのカーパーツ・整備・安全用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>トイレ掃除用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-toilet-cleaning</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-toilet-cleaning</guid>
-    <description>クイックル トイレ つめかえ用・パイプユニッシュ プロ パイプクリーナー・スクラビングバブル 流せるトイレブラシを徹底比較。各商品の特徴をもとに、用途・洗浄力の観点からおすすめのトイレ掃除用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>掃除・清掃用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cleaning-supplies</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cleaning-supplies</guid>
-    <description>オキシクリーン EX・サンサンスポンジ・Homspark 三角コーナー いらずを徹底比較。各商品の特徴をもとに、用途・洗浄力の観点からおすすめの掃除・清掃用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活雑貨おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-daily-essentials</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-daily-essentials</guid>
-    <description>ブラウン 洗浄液 CCR8・ハクバ レンズクリーニングティッシュ・ブリタ 浄水器 ポット型を徹底比較。各商品の特徴をもとに、用途・使いやすさの観点からおすすめの生活雑貨を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シューズ・シューケアおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-shoes-shoecare</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-shoes-shoecare</guid>
-    <description>プーマ Vコート バルクスニーカー・アサヒ 上履き ハイスクールVK・WILL CLENS シューズパウダーを徹底比較。各商品の特徴をもとに、用途・機能の観点からおすすめのシューズ・シューケア用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>扇風機・サーキュレーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fans-circulators</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fans-circulators</guid>
-    <description>アイリスオーヤマ サーキュレーター・マキタ 充電式ファン CF203D・シャープ サーキュレーター PK-S1801を徹底比較。各商品の特徴をもとに、風量・持ち運びやすさの観点からおすすめの扇風機・サーキュレーターを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
