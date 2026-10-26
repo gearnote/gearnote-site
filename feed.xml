@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 08:01:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 08:04:45 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -50,6 +50,13 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>JBLの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-jbl</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-jbl</guid>
+    <description>JBL製品の特徴、Bluetoothスピーカー・パーティースピーカー・イヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>コイズミの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-koizumi</link>
     <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
@@ -61,6 +68,20 @@
     <link>https://gearnote.net/brand-panasonic</link>
     <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
     <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Sonyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sony</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
+    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomiの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-xiaomi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
+    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/product-makita-muc353-cordless-chainsaw</link>
     <guid isPermaLink="true">https://gearnote.net/product-makita-muc353-cordless-chainsaw</guid>
     <description>マキタ 充電式チェンソー ガイドバー350mm 18V+18V MUC353DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マキタ 充電式草刈機 MUR194DZ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-makita-mur194-grass-trimmer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-makita-mur194-grass-trimmer</guid>
-    <description>マキタ(Makita) 充電式草刈機 18V バッテリ・充電器別売 MUR194DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マキタ 充電式マルノコ10.8V HS301DZの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-makita-hs301-circular-saw</link>
-    <guid isPermaLink="true">https://gearnote.net/product-makita-hs301-circular-saw</guid>
-    <description>マキタ 充電式マルノコ10.8V 刃径85mm HS301DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マキタ 充電式小型集じん機 VC350DZの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-makita-vc350-dust-extractor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-makita-vc350-dust-extractor</guid>
-    <description>マキタ(Makita) 充電式小型集じん機 18V VC350DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
