@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 26 Oct 2026 07:56:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 08:01:39 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -82,6 +82,13 @@
     <link>https://gearnote.net/category-baby</link>
     <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
     <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -288,73 +295,66 @@
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コクヨ ハリナックス コンパクトアルファ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kokuyo-harinacs-compact-alpha</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-harinacs-compact-alpha</guid>
-    <description>コクヨ(KOKUYO) 針なしステープラー ハリナックス コンパクトアルファの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式ラジオ MR051 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-mr051-radio</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-mr051-radio</guid>
+    <description>マキタ(Makita) 充電式ラジオ MR051の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コクヨ テープのり ドットライナー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kokuyo-dotliner</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-dotliner</guid>
-    <description>コクヨ テープのり ドットライナー しっかり貼る 強粘着の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式LEDワークライト ML801 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-ml801-worklight</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-ml801-worklight</guid>
+    <description>マキタ(Makita) 充電式LEDワークライト 14.4V/18Vバッテリ用 ML801の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コクヨ ファイル POSITY クリアファイル の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kokuyo-posity-clearfile</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-posity-clearfile</guid>
-    <description>コクヨ ファイル クリアファイル POSITY 替紙式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式ブロワ UB185DZ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-ub185-cordless-blower</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-ub185-cordless-blower</guid>
+    <description>マキタ(Makita) 充電式ブロワ 18V UB185DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コクヨ はさみ サクサ チタン グルーレス刃 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kokuyo-sakusa-titanium-scissors</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-sakusa-titanium-scissors</guid>
-    <description>コクヨ はさみ サクサ チタン・グルーレス刃の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式ランダムオービットサンダ BO180DZ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-bo180-sander</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-bo180-sander</guid>
+    <description>マキタ 充電式ランダムオービットサンダ 18V BO180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コクヨ カッターナイフ フレーヌ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kokuyo-cutter-frenu</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-cutter-frenu</guid>
-    <description>コクヨ カッターナイフ フレーヌ 安心構造 標準型 白 HA-S100Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式洗浄機の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-mhw180-cordless-washer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-mhw180-cordless-washer</guid>
+    <description>マキタ(Makita) 充電式洗浄機 18V MHW180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コクヨ Dリングファイル スムーススタイル の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kokuyo-d-ring-file</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-d-ring-file</guid>
-    <description>コクヨ Dリングファイル スムーススタイル A4 2穴 300枚収容の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式チェンソー MUC353DZ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-muc353-cordless-chainsaw</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-muc353-cordless-chainsaw</guid>
+    <description>マキタ 充電式チェンソー ガイドバー350mm 18V+18V MUC353DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>エレコムの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-elecom</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-elecom</guid>
-    <description>エレコムのマウス・キーボード・USBハブなどPC周辺機器の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <title>マキタ 充電式草刈機 MUR194DZ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-mur194-grass-trimmer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-mur194-grass-trimmer</guid>
+    <description>マキタ(Makita) 充電式草刈機 18V バッテリ・充電器別売 MUR194DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Belkin MagSafe車載ワイヤレス充電器 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-belkin-magsafe-car-mount</link>
-    <guid isPermaLink="true">https://gearnote.net/product-belkin-magsafe-car-mount</guid>
-    <description>Belkin MagSafe対応 ワイヤレス車載充電器 エアコン吹き出し口用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式マルノコ10.8V HS301DZの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-hs301-circular-saw</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-hs301-circular-saw</guid>
+    <description>マキタ 充電式マルノコ10.8V 刃径85mm HS301DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Belkinの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-belkin</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-belkin</guid>
-    <description>Belkin製品の特徴、充電器・MagSafeアクセサリー・iPhoneケースの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Fire TV Cube の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-fire-tv-cube</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-fire-tv-cube</guid>
-    <description>Amazon Fire TV Cube（キューブ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>マキタ 充電式小型集じん機 VC350DZの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-vc350-dust-extractor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-vc350-dust-extractor</guid>
+    <description>マキタ(Makita) 充電式小型集じん機 18V VC350DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
