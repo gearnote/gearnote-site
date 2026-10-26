@@ -19008,8 +19008,8 @@ const RANKING_POOL = [
     page: "product-zojirushi-coffee-maker-ec-ma60-tz.html",
   },
   {
-    name: "TOSHIBA(東芝) リビング扇風機 DCモーター 静音 リモコン付 7枚羽根 切タイマー 首振り 風量4段階 ホワイト TF-30DL28A",
-    excerpt: "DCモーターの静音設計で7枚羽根のリビング扇風機。リモコン付き・風量4段階・切タイマー・ランダム風モードを搭載",
+    name: "TOSHIBA(東芝) リビング扇風機 DCモーター 静音 リモコン付 7枚羽根 切タイマー 首振り ホワイト TF-30DL28A",
+    excerpt: "DCモーターの静音設計で7枚羽根のリビング扇風機。リモコン付き・切タイマー・ランダム風モードを搭載",
     img: "https://m.media-amazon.com/images/I/71gr4jnEvhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GL1MZPH9?tag=hide0122-22",
     page: "product-toshiba-living-fan-dc-tf-30dl28a.html",
