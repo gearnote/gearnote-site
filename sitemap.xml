@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2372,7 +2372,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-kitchen</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5712,7 +5712,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-cooking-appliances</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5737,7 +5737,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-kitchen-appliances</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -9557,7 +9557,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-dji</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -26357,7 +26357,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -31715,5 +31715,30 @@
     <loc>https://gearnote.net/guide-season-kitchen-appliance-spec</loc>
     <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dji-osmo-360-ii-get-and-set-combo-8k-360-camera</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-pc2400h-w-pc-type</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc5d151-gray-5l</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-nextorage-nem-pad-2tb-ps5-internal-ssd-heatsink</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-russell-hobbs-tea-kettle-plus-7107jp-bk-600ml</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
