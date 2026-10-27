@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方｜GEARNOTE</title>
+<meta name="description" content="スマホの充電が遅い・急に遅くなったときの原因を、充電器の出力W・PD/PPS、複数ポートの分配、ケーブルの対応W数、端末側の上限、ワイヤレス充電の条件に分けて整理。当サイト掲載商品の仕様集計と、上限の目安を出す計算例つき。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方｜GEARNOTE">
+<meta property="og:description" content="スマホの充電が遅い・急に遅くなったときの原因を、充電器の出力W・PD/PPS、複数ポートの分配、ケーブルの対応W数、端末側の上限、ワイヤレス充電の条件に分けて整理。当サイト掲載商品の仕様集計と、上限の目安を出す計算例つき。">
+<meta property="og:url" content="https://gearnote.net/guide-c-slow-charging">
+<link rel="canonical" href="https://gearnote.net/guide-c-slow-charging">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://m.media-amazon.com/images/I/61ty6FitB2L._AC_SX300_.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方｜GEARNOTE">
+<meta name="twitter:description" content="スマホの充電が遅い・急に遅くなったときの原因を、充電器の出力W・PD/PPS、複数ポートの分配、ケーブルの対応W数、端末側の上限、ワイヤレス充電の条件に分けて整理。当サイト掲載商品の仕様集計と、上限の目安を出す計算例つき。">
+<meta name="twitter:image" content="https://m.media-amazon.com/images/I/61ty6FitB2L._AC_SX300_.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"選び方ガイド","item":"https://gearnote.net/guides"},{"@type":"ListItem","position":3,"name":"スマホの充電が遅い原因の見分け方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方","description":"スマホの充電が遅い・急に遅くなったときの原因を、充電器の出力W・PD/PPS、複数ポートの分配、ケーブルの対応W数、端末側の上限、ワイヤレス充電の条件に分けて整理。当サイト掲載商品の仕様集計と、上限の目安を出す計算例つき。","inLanguage":"ja","mainEntityOfPage":"https://gearnote.net/guide-c-slow-charging","image":"https://m.media-amazon.com/images/I/61ty6FitB2L._AC_SX300_.jpg","datePublished":"2026-10-28","dateModified":"2026-10-28","author":{"@type":"Organization","name":"GEARNOTE運営","url":"https://gearnote.net/about"},"publisher":{"@type":"Organization","name":"GEARNOTE","url":"https://gearnote.net/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"スマホの充電が遅い原因は、何から確認すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"充電器の出力（W）、ケーブルの対応W数、端末が受け入れるW数の3つを並べて、いちばん小さい数字を探します。当サイトの集計では、充電器29台の単ポート最大出力は最小20W・中央値65W・最大140W、ケーブル12本は60W・100W・240Wの3種類（240Wが5本、100Wが3本、60Wが4本）でした。複数台をつないでいる場合は、1台だけにして試し、ケーブルは1つだけ替えて比べると、上限の場所が分かりやすくなります。"}},{"@type":"Question","name":"スマホの充電が遅いのは、ケーブルのせいですか？","acceptedAnswer":{"@type":"Answer","text":"ケーブルが上限になっている場合があります。当サイトのケーブル12本では、対応W数の記載が60Wのもの、100Wのもの、240Wのものがあり、たとえばApple 60W USB-C 充電ケーブルは「最大60ワットの充電に対応」、Anker Prime Thunderbolt 4ケーブルは「48V=5A（最大240W）」と書かれています。一方、ケーブルのデータ転送速度は充電のW数とは別の項目で、240Wでも480Mbpsと書かれたケーブルが2本あります。ケーブルの対応W数が分からない場合は、対応W数の分かっているものに替えて試します。"}},{"@type":"Question","name":"充電器のW数が大きければ、スマホは速く充電できますか？","acceptedAnswer":{"@type":"Answer","text":"端末が受け入れるW数までです。当サイトに掲載しているスマホのうち充電Wが書かれた7機種では、最小20W、中央値45W、最大100Wで、45Wを超えるのは3機種でした。たとえばmoto g37jは「5,200mAh／20W TurboPower チャージ対応」と書かれており、140Wの充電器につないでも、端末の20Wが上限の目安になります（筆者の計算①）。また、複数ポートの充電器は、2台以上つなぐと分配されます（例：Anker Nano Charger 70Wは2ポート使用時「45W＋22.5W、または60W＋5W」）。"}},{"@type":"Question","name":"スマホが熱い・夏に充電が遅くなるのは、なぜですか？","acceptedAnswer":{"@type":"Answer","text":"一般に、多くの機種は本体の温度が高くなると、保護のために電力を絞る設計とされます。機種ごとの条件は、端末の取扱説明書で確認してください。当サイトの商品ページでも、たとえばApple MagSafe充電器に「充電中に温かくなる場合がある」という注意書きがあります。高温の場所（夏の車内や直射日光の当たる場所）での充電を避け、本体が異常に熱い、膨らんでいる、異臭がするなどの場合は、使用を中止してメーカーに相談してください。"}},{"@type":"Question","name":"スマホの充電が急に遅くなったときは、何を確認すればよいですか？","acceptedAnswer":{"@type":"Answer","text":"急に変わったときは、変わったものから確認します。ケーブルや充電器を替えた、つなぐ機器を増やした、ワイヤレス充電に切り替えたなどの変化がないかを見ます。複数台の同時使用では、単ポートの数字は出ません（例：Anker Charger 140Wの4ポート利用時は「USB-C1＋C2＋（残り2ポート）：65W＋45W＋（12W＋12W）」）。端末側は、温度、充電しながらの使用、設定（充電制限など）を取扱説明書で確認します。それでも原因が分からないときは、別のケーブル・充電器で試すか、メーカーに相談してください。"}},{"@type":"Question","name":"旅行や出張で、充電が遅くならないように何を持っていけばよいですか？","acceptedAnswer":{"@type":"Answer","text":"持っていく機器のW数と、入力電圧の記載を確認します。当サイトの充電器29台のうち、入力が100-240Vとメーカー公開仕様に書かれているのは10台でした。Anker Nano トラベルアダプタは「A・C・Gタイプ（200以上の国と地域）」と書かれていますが、「変圧機能なし」とも書かれています。プラグ形状や渡航先の電圧は国によって異なるため、渡航先の案内も確認してください。ケーブル内蔵の充電器（例：Belkin 45W 巻き取り式）は、持ち物を減らしたいときの選択肢です。モバイルバッテリーの機内持ち込みなどの規定は、各航空会社の案内で確認してください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="guides.html">選び方ガイド</a> ／ スマホの充電が遅い原因の見分け方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Guide</span>
+        <h1 class="pd-guide-title">スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方</h1>
+        <p class="desc">スマホの充電が遅い、急に遅くなった、旅行や出張の先で思ったように充電できない、という悩みは、<strong>充電器・ケーブル・端末の3つのうち、いちばん小さい数字に引っ張られている</strong>ことが多いとされます。このページでは、スマホの充電が遅い原因を、充電器の出力（W）とPD・PPS、複数ポートの同時使用、ケーブルの対応W数と規格、端末側の上限、ワイヤレス充電の条件に分けて整理しました。当サイトに掲載している充電器29台、ケーブル12本、モバイルバッテリー24台、ワイヤレス充電器15台、スマホ7機種の仕様を（2026年10月28日時点で）集計した結果と、考え方を数式で示す「筆者の計算」を用意しました。熱い・膨らむ・異臭がするなどの異常があるときは、使用を中止して各メーカーに相談してください。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　最終更新：2026-10-28</p>
+        <p class="pr-notice" style="font-size:0.78rem;color:var(--text-muted,#8a8a8a);margin:4px 0 10px;line-height:1.6;">※ 当サイトはアフィリエイト広告（Amazonアソシエイト）を利用しています。リンク先の商品ページに広告リンクが含まれます。</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>悩みの整理：充電が遅い原因は、6か所に分けて見る</h2>
+        <p>スマホの充電が遅いとき、原因は1つとは限りません。次の6か所のどこが上限になっているかを、順に確認します。以下は一般的な説明で、実際の対応や条件は、機器の取扱説明書と各メーカーのページで確認してください。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>確認する場所</th><th>遅くなる理由（一般的な説明）</th><th>仕様表・ラベルで見る項目</th><th>このページの該当箇所</th></tr></thead>
+            <tbody>
+            <tr><th>① 充電器の出力（W）と規格</th><td>充電器の最大出力が、端末が受け入れられる電力より小さいと、それ以上の速さは出ません。USB PDやPPSなど、端末が使う規格に充電器が対応していない場合も、急速充電になりにくいとされます。</td><td>最大出力（W）、PD・PPSの記載、ポートの種類（USB-C／USB-A）</td><td>集計①、筆者の計算①</td></tr>
+            <tr><th>② ポート構成と同時使用</th><td>複数ポートの充電器は、2台以上つなぐと合計の範囲で電力が分けられ、1台あたりが下がることがあります。</td><td>単ポート最大出力、合計出力、2ポート同時使用時の数値</td><td>集計①、メーカー表記の読み違い</td></tr>
+            <tr><th>③ ケーブル</th><td>USB-Cケーブルは対応するW数が60W・100W・240Wなど製品ごとに違い（一般にUSB PDの規格上、3A対応か5A対応かで上限が変わる）、対応の低いケーブルがつながっていると、そこが上限になります。</td><td>対応W数（60W／100W／240W）、5A・e-markerの記載、データ転送速度（別の項目）</td><td>集計②、筆者の計算①</td></tr>
+            <tr><th>④ 端末側の上限</th><td>端末が受け入れる電力は機種ごとに決まっていて、大きな出力の充電器をつないでもそれ以上にはなりません。一般に、バッテリー残量が増えると電力を絞る機種や、温度が上がると抑える機種があります。</td><td>端末の仕様欄の充電W、独自の急速充電名、同梱の充電器の有無、取扱説明書の温度・設定の記載</td><td>集計④</td></tr>
+            <tr><th>⑤ ワイヤレス充電の条件</th><td>ワイヤレス（Qi2・MagSafe）は、対応機種、ケースの厚み、置き方、電源アダプターの出力などの条件が重なります。</td><td>最大出力（機種で変わる記載）、必要な電源アダプターのW、対応ケース</td><td>集計③、メーカー表記の読み違い</td></tr>
+            <tr><th>⑥ モバイルバッテリーの出力と入力</th><td>モバイルバッテリーから充電するときは、バッテリーの出力ポートのW数と同時使用時の合計に左右されます。バッテリー本体を充電するときの入力Wが小さいと、本体の充電に時間がかかります。</td><td>USB-C出力（W）、同時使用時の合計、入力（W）</td><td>集計③、筆者の計算②</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>確認の順番</h3>
+        <p>原因の切り分けは、<strong>一度に1つだけ替えて</strong>試すと、どこが上限かが分かりやすくなります。次の順番が目安です。</p>
+        <ul><li>充電器の本体表示かメーカーのページで、最大出力（W）とポートの種類を確認する。複数台つないでいるときは、1台だけにして試す</li><li>ケーブルを、対応W数の分かっているものに替える（ケーブルの対応W数は、製品名・パッケージ・仕様表で確認する）</li><li>充電器のポートを替える（USB-C／USB-Aで出力が異なる製品がある）</li><li>端末の仕様欄で、受け入れる充電W・独自の急速充電名・同梱の充電器の有無を確認する</li><li>端末が熱くなっていないか、充電しながら画面やアプリを使っていないか、設定に充電の制限がないかを、取扱説明書で確認する</li><li>端子にゴミがたまっていないか確認する（掃除のしかたは端末の取扱説明書に従い、金属の針などを差し込まない）</li><li>本体が異常に熱い、膨らんでいる、異臭がするなどの場合は、使用を中止してメーカーに相談する</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>GEARNOTE独自集計①：充電器の出力・ポート・規格の書かれ方（29台）</h2>
+        <p>当サイトに掲載しているUSB充電器（壁コンセントに挿すもの、卓上型を含む）のうち、2026年10月28日時点で購入ページが在庫ありのもの29台について、仕様表とメーカー公開仕様の欄に書かれた数字を集計しました。車載充電器とトラベルアダプタ、ケーブル一体の電源タップ型は、性格が異なるため含めていません。「記載がない」は対応していないという意味ではなく、当サイトの仕様欄に書かれていないという意味です。</p>
+        <h3>単ポートの最大出力と、規格の記載</h3>
+        <p>単ポートの最大出力は、最小20W、中央値65W、最大140Wでした（n=29）。出力の帯ごとに、PD・PPS・GaNの語が仕様欄にある台数を数えると、次のようになります。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>単ポートの最大出力（記載）</th><th>台数</th><th>PD（USB Power Delivery）の記載あり</th><th>PPSの記載あり</th><th>GaN（窒化ガリウム）の記載あり</th></tr></thead>
+            <tbody>
+            <tr><th>20W以下</th><td>2台</td><td>0台</td><td>0台</td><td>0台</td></tr>
+            <tr><th>35〜45W</th><td>11台</td><td>11台</td><td>8台</td><td>3台</td></tr>
+            <tr><th>65〜75W</th><td>8台</td><td>7台</td><td>2台</td><td>3台</td></tr>
+            <tr><th>100W以上</th><td>8台</td><td>5台</td><td>4台</td><td>6台</td></tr>
+            </tbody>
+          </table>
+        </div>        <p class="pd-source-note">GEARNOTE掲載29台の充電器の仕様表より集計（2026年10月28日時点・記載のある商品のみ）。</p>
+        <ul>
+          <li>PD（USB Power Delivery）の語が仕様欄にあるのは23台、ないのは6台です。ないのは<a href="product-anker-charger-140w-4ports.html">Anker Charger 140W</a>、<a href="product-anker-charger-20w-usbc.html">Anker Charger 20W</a>、<a href="product-anker-nano-ii-65w.html">Anker Nano II 65W</a>、<a href="product-anker-prime-charger-100w-3ports-gan.html">Anker Prime 100W</a>、<a href="product-prime-charger-200w.html">Anker Prime 200W</a>、<a href="product-apple-20w-usbc-power-adapter.html">Apple 20W USB-C電源アダプタ</a>の6台で、20W以下の2台は仕様欄にPDの語がありません。語がないことは非対応を意味しないため、端末側の規格との対応は、各メーカーのページで確認します。</li>
+          <li>PPSの語があるのは14台、GaNの語があるのは12台です。45W前後の11台のうち、PPSの記載があるのは8台でした。</li>
+          <li>単ポートの最大出力が45Wを超えるのは16台です。後述の端末側（集計④）では、充電Wが45Wを超える機種は7機種中3機種でした。充電器の数字が大きくても、端末側が上限になる組み合わせが出やすくなります。</li>
+          <li>最大出力の数字が、メーカー公開仕様の欄に載っているのは20台です。残る9台は商品名やAmazon掲載情報に基づく数字で、仕様ページにも「Amazon掲載情報（メーカー公式ページには記載がありません）」と注記しています。</li>
+        </ul>
+        <h3>ポート数と、同時使用時の数字の書かれ方</h3>
+        <p>ポート数が書かれている27台では、1ポートが10台、複数ポートが17台で、ポート数の中央値は2（最小1、最大6）でした。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ポート数（記載）</th><th>台数</th></tr></thead>
+            <tbody>
+            <tr><th>1ポート</th><td>10台</td></tr>
+            <tr><th>2ポート</th><td>6台</td></tr>
+            <tr><th>3ポート</th><td>5台</td></tr>
+            <tr><th>4ポート</th><td>4台</td></tr>
+            <tr><th>5ポート以上（5ポート1台・6ポート1台）</th><td>2台</td></tr>
+            </tbody>
+          </table>
+        </div>        <p class="pd-source-note">GEARNOTE掲載27台の充電器の仕様表より集計（2026年10月28日時点・ポート数の記載のある商品のみ）。</p>
+        <p>複数ポートの17台のうち、2台以上を同時につないだときの数字（例：「45W＋22.5W」）が書かれているのは6台で、残りの11台は、単ポートの最大出力と合計出力だけが書かれているか、自動分配とだけ書かれています。複数台を同時に充電するなら、この「同時使用時の数字」が書かれているかどうかが、遅くなる原因を調べる手がかりになります。</p>
+        <h3>入力電圧・付属ケーブル</h3>
+        <ul>
+          <li>入力が「100-240V」と、メーカー公開仕様の欄に書かれているのは10台です。海外で使えるかどうかは、この記載のほか、プラグ形状や渡航先の電圧・規格にもよるため、各メーカーと渡航先の案内で確認します。</li>
+          <li>ケーブルが付属するのは7台で、そのうちケーブルの対応W数やアンペア数が書かれているのは4台（例：<a href="product-anker-charger-140w-4ports.html">Anker Charger 140W</a>は「約1.5m、240W、480Mbps対応」、<a href="product-samsung-galaxy-45w-power-adapter.html">Galaxy 45W</a>は「USB-C to USB-C 5Aケーブル」、<a href="product-elecom-usb-charger-65w-with-cable-1-5m-ec-ac12565bk.html">エレコム 65W</a>は「USB Type-C - USB Type-Cケーブル（100W対応）、約1.5m」）です。付属ケーブルのW数が書かれていないものは、ケーブルが上限になっていないかを確認する必要があります。</li>
+        </ul>
+        <p class="pd-source-note">※集計の対象は、<a href="product-anker-charger-140w-4ports.html">Anker Charger 140W</a>、<a href="product-apple-35w-dual-usbc-power-adapter.html">Apple 35W デュアル</a>、<a href="product-buffalo-charger-pd100w-bsacpd10005c4bk.html">バッファロー 100W</a>、<a href="product-ugreen-nexode-300w-desktop-charger.html">UGREEN Nexode 300W 卓上</a>など、29台です。<a href="product-ugreen-nexode-300w-desktop-charger.html">UGREEN 300W 卓上</a>は、合計300Wのうち単ポートは「最大140W（USB PD3.1・PPS 5A対応）」（Amazon掲載情報）のため、単ポートの最大出力は140Wとして数えています。<a href="product-anker-prime-charger-100w-3ports-gan.html">Anker Prime 100W</a>と<a href="product-prime-charger-200w.html">Anker Prime 200W</a>は単ポート最大100Wです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>GEARNOTE独自集計②：ケーブルの対応W数とデータ転送速度（12本）</h2>
+        <p>当サイトに掲載しているUSB-Cケーブル、USB-C to Lightningケーブルのうち、2026年10月28日時点で購入ページが在庫ありの12本について、対応W数とデータ転送速度の記載を集計しました。在庫なしの2本（Anker Zolo 240W、CIO フラットスパイラル）は含めていません。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>対応W数（記載）</th><th>本数</th><th>データ転送 480Mbps</th><th>10Gbps</th><th>40Gbps</th><th>転送速度の数値なし</th></tr></thead>
+            <tbody>
+            <tr><th>240W</th><td>5本</td><td>2本</td><td>2本</td><td>1本</td><td>0本</td></tr>
+            <tr><th>100W</th><td>3本</td><td>0本</td><td>0本</td><td>1本</td><td>2本</td></tr>
+            <tr><th>60W</th><td>4本</td><td>1本</td><td>0本</td><td>0本</td><td>3本</td></tr>
+            <tr><th>合計</th><td>12本</td><td>3本</td><td>2本</td><td>2本</td><td>5本</td></tr>
+            </tbody>
+          </table>
+        </div>        <p class="pd-source-note">GEARNOTE掲載12本のケーブルの仕様表より集計（2026年10月28日時点・記載のある商品のみ）。</p>
+        <ul>
+          <li>対応W数は、240Wが5本、100Wが3本、60Wが4本でした（n=12）。このうち2本（<a href="product-cio-silicon-cable-100w.html">CIO シリコンケーブル 100W</a>、<a href="product-anker-usbc-lightning-cable-60w-nylon-18m.html">Anker USB-C to Lightning 60W</a>）は、W数が商品名やAmazon掲載情報のみの記載です。</li>
+          <li>240Wのケーブル5本のうち、データ転送速度が「480Mbps」と書かれているのは2本（<a href="product-anker-powerline-iii-flow.html">Anker PowerLine III Flow</a>、<a href="product-buffalo-usb-c-to-c-cable-2m-pd240w-bsu2ccy2420bk-n.html">バッファロー 2m PD240W</a>）、「10Gbps」が2本、「40Gbps」が1本（<a href="product-anker-prime-thunderbolt4-cable.html">Anker Prime Thunderbolt 4</a>）でした。充電のW数とデータ転送の速さは別の項目で、W数が大きくてもデータ転送は遅いケーブルがあります。逆に、40Gbpsのエレコムのフラットケーブルは100Wまでです。</li>
+          <li>転送速度の数値が書かれていないのは5本、「USB 2.0認証」とだけ書かれ数値がないものが1本（<a href="product-belkin-boostcharge-usbc-cable.html">Belkin BoostCharge</a>）です。ここでの「数値なし」には、そのケーブルの転送速度が遅いという意味はありません。当サイトの仕様欄に数値が書かれていないという意味です。</li>
+          <li>ケーブルの長さ（記載）は、最短0.13m、中央値1m、最長2mで、1m以下が7本、1mを超えるものが5本でした。</li>
+        </ul>
+        <p>ケーブルの規格の見方は<a href="guide-usbc-cable.html">USB-Cケーブルの選び方ガイド</a>、240Wや5Aと表記される理由は<a href="guide-usb-charger.html">USB充電器・充電ケーブルの選び方ガイド</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>GEARNOTE独自集計③：モバイルバッテリー（24台）とワイヤレス充電器（15台）</h2>
+        <h3>モバイルバッテリー：出力と入力</h3>
+        <p>当サイトに掲載しているモバイルバッテリーのうち、2026年10月28日時点で在庫ありで、USB-Cの最大出力（W）の記載がある24台を集計しました（乾電池式、ラジオや衣類などと一体のもの、W数の記載がないものは除きます。<a href="product-anker-nano-power-bank-5000mah-maggo-slim-blue.html">Anker Nano Power Bank 5000mAh MagGo Slim</a>は色違いのページが2つあるため1台として数えています）。USB-C単独の最大出力は、最小15W、中央値31.5W、最大140Wでした（n=24）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>USB-C単独の最大出力（記載）</th><th>台数</th></tr></thead>
+            <tbody>
+            <tr><th>15〜20W</th><td>5台</td></tr>
+            <tr><th>22.5〜35W</th><td>11台</td></tr>
+            <tr><th>45〜65W</th><td>6台</td></tr>
+            <tr><th>100W以上</th><td>2台</td></tr>
+            </tbody>
+          </table>
+        </div>        <p class="pd-source-note">GEARNOTE掲載24台のモバイルバッテリーの仕様表より集計（2026年10月28日時点・記載のある商品のみ）。</p>
+        <ul>
+          <li>複数ポートを同時に使ったとき、または機能を併用したときの数字（合計の上限、ワイヤレスとの併用時など）が、単独時より小さく書かれているのは11台です。たとえば<a href="product-anker-power-bank-10000mah.html">Anker Power Bank（10000mAh）</a>は複数ポート使用時の合計が「MAX 15W」、<a href="product-owltech-semi-solid-power-bank-10000-oec-lpb10024.html">オウルテック OEC-LPB10024</a>はType-CとType-Aの同時使用で合計最大15Wと書かれています。</li>
+          <li>本体への入力W数が書かれている14台のうち、入力が出力より小さいのは7台です（入力の最小18W、中央値30W、最大100W）。出力が大きいモバイルバッテリーでも、本体の充電に使う充電器やケーブルの出力が小さいと、本体の充電に時間がかかります。</li>
+          <li>容量の小さい5000mAhクラスは3台で、いずれも出力は15〜20Wでした。</li>
+        </ul>
+        <h3>ワイヤレス充電器：最大出力と電源アダプター</h3>
+        <p>当サイトに掲載しているワイヤレス充電器（MagSafe・Qi2対応）のうち、2026年10月28日時点で在庫ありの15台を集計しました。最大出力は、25Wと書かれているものが11台、15Wと書かれているものが4台でした（n=15）。ただし、25Wは接続する機種によって変わる旨が書かれているものがあり、<a href="product-apple-magsafe-charger.html">Apple MagSafe充電器</a>は「最大25W（対応する新しいiPhoneのピーク値。実際の出力は変わる）」と書かれています。</p>
+        <ul>
+          <li>電源アダプターが付属し、そのW数が書かれているのは5台（45Wが4台、20Wが1台）です。付属はするがW数の書かれていないものが1台（<a href="product-torras-icestation-pro-3in1-qi2-wireless-charger-white.html">TORRAS Icestation Pro</a>）、付属しない、または記載がないものが9台でした。</li>
+          <li>付属しない場合に必要なアダプターのW数は、書き方が異なります。<a href="product-apple-magsafe-charger.html">Apple MagSafe充電器</a>は25W出力に「30W以上、15V／2.0A以上」、15W出力に「20W以上のUSB-Cアダプタ（9V／2.22Aまたは9V／2.56A以上）」、<a href="product-anker-maggo-wireless-charger-stand-a25x1.html">Anker MagGo Wireless Charger（Stand）</a>は最大15Wの商品に対し「充電器は付属しない（25W以上の充電器が必要）」と書かれています。</li>
+        </ul>
+        <p class="pd-source-note">※集計の対象と、ワイヤレス充電器の選び方は<a href="guide-power-bank.html">モバイルバッテリーの選び方ガイド</a>と<a href="guide-wireless-charger.html">MagSafe・Qi2ワイヤレス充電器の選び方ガイド</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTE独自集計④：端末側の上限（充電Wが書かれたスマホ7機種）</h2>
+        <p>当サイトに掲載しているスマートフォンのうち、2026年10月28日時点で在庫ありで、有線の充電W数が仕様欄に書かれている7機種を集計しました（充電のW数が書かれていない機種は含めません）。有線充電のW数は、最小20W、中央値45W、最大100Wでした（n=7）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>機種</th><th>充電に関する記載（ページの記載）</th><th>同梱の充電器に関する記載</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-motorola-moto-g37j-pantone-4gb-128gb-fuchsia-red-pbck0003jp.html">moto g37j</a></th><td>5,200mAh／20W TurboPower チャージ対応</td><td>「チャージャーは非同梱」</td></tr>
+            <tr><th><a href="product-nothing-phone-3a-lite-8gb-128gb-black.html">Nothing Phone (3a) Lite</a></th><td>5000mAh、充電速度33W、50%まで約20分、フル充電まで約1時間、リバースワイヤード充電5W</td><td>ページ記載の同梱物に充電アダプターの記載なし</td></tr>
+            <tr><th><a href="product-sharp-aquos-sense9.html">AQUOS sense9</a></th><td>5,000mAh、給電36W、専用ACアダプター使用時 約100分、USB Type-C（USB PD 3.0対応）</td><td>「充電器の付属は、仕様表に記載がありません」</td></tr>
+            <tr><th><a href="product-xiaomi-redmi-17-4gb-256gb-lotus-purple.html">REDMI 17</a></th><td>7500mAh（標準値）、45Wターボ充電、22.5W有線リバース充電</td><td>「45Wターボチャージ（充電器同梱）」</td></tr>
+            <tr><th><a href="product-oppo-reno16-5g-12gb-256gb-pop-white.html">OPPO Reno16 5G</a></th><td>6,700mAh、最大80W SUPERVOOC、55W PPS</td><td>仕様欄の同梱品に充電器の記載なし</td></tr>
+            <tr><th><a href="product-motorola-razr-fold-12gb-256gb-blackened-blue-pbax0070jp.html">motorola razr fold</a></th><td>6,000mAh／80W TurboPower チャージ対応</td><td>仕様欄に同梱の充電器の記載なし</td></tr>
+            <tr><th><a href="product-xiaomi-poco-f9-ultra-16gb-512gb-black.html">POCO F9 Ultra</a></th><td>8,050mAh、100W有線HyperCharge</td><td>「充電器が同梱されるかは商品ページに記載がありません」</td></tr>
+            </tbody>
+          </table>
+        </div>        <p class="pd-source-note">GEARNOTE掲載7機種のスマートフォンの仕様表より集計（2026年10月28日時点・充電W数の記載のある機種のみ）。</p>
+        <ul>
+          <li>7機種のうち5機種は、「TurboPower」「SUPERVOOC」「HyperCharge」「ターボ充電」といったメーカー独自の名前で書かれています。独自の名前の急速充電は、同じメーカーの対応充電器・ケーブルで使うことが前提の場合があるため、各メーカーの案内で条件を確認します。</li>
+          <li><a href="product-oppo-reno16-5g-12gb-256gb-pop-white.html">OPPO Reno16 5G</a>は「6,700mAh、最大80W SUPERVOOC、55W PPS」と、2つの数字が並んでいます。独自規格の数字と、汎用規格（PPS）の数字が別に書かれているため、手持ちの充電器の対応規格によって、使える数字が変わる場合があります。</li>
+          <li>iPhoneはW数でなく、時間で書かれています。<a href="product-iphone-air.html">iPhone Air</a>は「MagSafeとQi2によるワイヤレス充電（最大20W）に対応。対応アダプタで30分で最大50%充電」、<a href="product-apple-iphone-18-pro-256gb-silver.html">iPhone 18 Pro</a>は「対応するアダプタを使った有線充電で最大50%の充電が約15分」、<a href="product-apple-20w-usbc-power-adapter.html">Apple 20W USB-C電源アダプタ</a>は「50%までの充電が約35分」（Appleのテスト結果による、と注記あり）と書かれています。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>筆者の計算①：いちばん小さい数字が、速さの上限になる</h2>
+        <p><strong>筆者の計算</strong>：有線で充電するとき、速さの上限は「充電器の出力」「ケーブルの対応W数」「端末が受け入れるW数」の3つのうち、一番小さい数字に近くなります（一般的な考え方です）。式にすると次のとおりです。</p>
+        <p>上限の目安（W）＝ min（充電器の出力W、ケーブルの対応W、端末の充電W）</p>
+        <p>下の表は、各商品ページに書かれた数字を、この式に当てはめた例です。実際の速さを示すものではありません。独自規格名（TurboPowerなど）の機種は、数字の大小だけでは決まらない場合があります。空欄の行には、お手持ちの機器の数字を書き込んで、どこが上限かを確かめてみてください。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>組み合わせの例（当サイト掲載商品）</th><th>充電器の出力（記載）</th><th>ケーブルの対応W（記載）</th><th>端末の充電W（記載）</th><th>上限の目安（最小値）</th><th>上限になっている場所</th></tr></thead>
+            <tbody>
+            <tr><th>Anker Nano Charger 70W（USB-C1 単ポート） ＋ Apple 60W USB-C 充電ケーブル ＋ Nothing Phone (3a) Lite</th><td>70W</td><td>60W</td><td>33W</td><td><strong>33W</strong></td><td>端末</td></tr>
+            <tr><th>Apple 20W USB-C電源アダプタ ＋ UGREEN 100W/5A ケーブル ＋ POCO F9 Ultra</th><td>20W</td><td>100W</td><td>100W</td><td><strong>20W</strong></td><td>充電器</td></tr>
+            <tr><th>Anker Charger 140W（USB-C1 単ポート） ＋ Belkin BoostCharge 60W ケーブル ＋ motorola razr fold</th><td>140W</td><td>60W</td><td>80W</td><td><strong>60W</strong></td><td>ケーブル</td></tr>
+            <tr><th>エレコム USB充電器 65W（EC-AC12565BK） ＋ 付属のUSB Type-C ケーブル（100W対応） ＋ REDMI 17</th><td>65W</td><td>100W</td><td>45W</td><td><strong>45W</strong></td><td>端末</td></tr>
+            <tr><th>Anker Nano Charger 70W（2ポート使用時の22.5W側） ＋ Apple 60W USB-C 充電ケーブル ＋ Nothing Phone (3a) Lite</th><td>22.5W</td><td>60W</td><td>33W</td><td><strong>22.5W</strong></td><td>充電器</td></tr>
+            <tr><th>Anker Charger 140W（USB-C1 単ポート） ＋ エレコム 1m 240W ケーブル ＋ moto g37j</th><td>140W</td><td>240W</td><td>20W</td><td><strong>20W</strong></td><td>端末</td></tr>
+            <tr><th>（記入例）お手持ちの充電器 ＋ ケーブル ＋ スマホ</th><td>　　W</td><td>　　W</td><td>　　W</td><td>＝ 3つのうち最小の数字</td><td>　</td></tr>
+            <tr><th>（記入例）別の充電器 ＋ 同じケーブル ＋ 同じスマホ</th><td>　　W</td><td>　　W</td><td>　　W</td><td>＝ 3つのうち最小の数字</td><td>　</td></tr>
+            <tr><th>（記入例）同じ充電器 ＋ 別のケーブル ＋ 同じスマホ</th><td>　　W</td><td>　　W</td><td>　　W</td><td>＝ 3つのうち最小の数字</td><td>　</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="pd-source-note">※計算の前提：数字は各商品ページの記載（充電器は単ポートの最大出力、ケーブルは対応W数、端末は有線充電のW数）。損失や、バッテリー残量・温度による電力の絞り込みは考えていません。表の4行目は、同梱のケーブル（100W対応）が足りていても、端末の45Wが上限になる例、5行目は、充電器の複数ポート使用により、分配された数字が上限になる例です（<a href="product-anker-nano-charger-70w.html">Anker Nano Charger 70W</a>は2ポート使用時「45W＋22.5W、または60W＋5W」と書かれており、22.5W側につないだ場合を仮定）。</p>
+        <p>たとえば、1行目では充電器が70Wでも、ケーブルが60W、端末が33Wなので、33Wが目安です。ケーブルを240Wのものに替えても、数字は変わりません。2行目のように、充電器が20Wのままだと、ケーブルと端末が100Wでも20Wが上限になります。一方、<a href="product-anker-nano-charger-70w.html">Anker Nano Charger 70W</a>のページには「5A対応のe-markerチップ入りUSB-Cケーブルが必要」と書かれているように、60Wを超える出力を使うときはケーブル側の条件が加わります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>筆者の計算②：W＝V×A、Wh＝mAh×V÷1000、所要時間の目安</h2>
+        <p><strong>筆者の計算</strong>：仕様表の数字は、W（ワット）のほか、V（ボルト）とA（アンペア）、mAhで書かれていることがあります。書かれ方が違っても、次の式でそろえて比べられます。</p>
+        <ul>
+          <li>W（出力）＝ V（電圧）× A（電流）。例：<a href="product-elecom-battery-powered-mobile-battery-de-kd01bk.html">エレコム 乾電池式モバイルバッテリー DE-KD01BK</a>の定格出力は「DC5V、500mA」なので、5V × 0.5A ＝ <strong>2.5W</strong>です。同じUSB-Aポートでも、数十Wの充電器とは桁が違います。<a href="product-buffalo-usb-c-to-c-cable-2m-pd240w-bsu2ccy2420bk-n.html">バッファロー PD240Wケーブル</a>の「48V/5A」は 48 × 5 ＝ 240W、<a href="product-elecom-usbc-cable-flat-13cm-usb4-40gbps-100w-mpa-ccec4gf01bk.html">エレコム フラットケーブル</a>の「20V/5A」は 100W、<a href="product-elecom-usbc-lightning-cable-1m-mpa-clecs10wh.html">エレコム USB-C to Lightning</a>の「20V/3A」は 60W と一致します。</li>
+          <li>Wh（電力量）＝ mAh × V ÷ 1000。mAhだけでは容量を比べにくいため、Whにそろえます。電圧はモバイルバッテリーや機種により異なり、ページにWhが書かれていればその値を使います。書かれていないスマホは、ここでは仮に3.85Vとして計算します（<strong>想定値</strong>です。実際の電圧は機種により異なります）。</li>
+          <li>所要時間の最短 ＝ Wh ÷ 充電W。効率100%で、同じWで最後まで充電し続けた場合の最も短い時間で、実際の所要時間より短くなります。</li>
+        </ul>
+        <p>この式を、所要時間がページに書かれている商品に当てはめた表が次のとおりです。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>電池容量</th><th>充電W</th><th>計算上の最短</th><th>ページの記載（所要時間）</th><th>記載÷計算値</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-owltech-semi-solid-power-bank-10000-oec-lpb10024.html">オウルテック OEC-LPB10024</a></th><td>38.5Wh</td><td>30W</td><td>77分</td><td>空から満充電まで約1時間40分（PD30W充電時）</td><td>約1.3倍</td></tr>
+            <tr><th><a href="product-yamazen-semi-solid-power-bank-10000mah-pd35w-ymb-a100.html">山善 YMB-A100</a></th><td>37Wh</td><td>30W</td><td>74分</td><td>約1時間45分（室温25℃、PD30W以上のアダプター使用時）</td><td>約1.4倍</td></tr>
+            <tr><th><a href="product-anker-maggo-power-bank-10000mah-slim-a1664.html">Anker MagGo Slim 10000</a></th><td>38.7Wh</td><td>30W</td><td>77分</td><td>約2.5時間以内（最大30W入力時）</td><td>約1.9倍</td></tr>
+            <tr><th><a href="product-elecom-mobile-battery-10000mah.html">エレコム EC-C03BK</a></th><td>37Wh</td><td>18W</td><td>123分</td><td>約4時間30分（USB Power Delivery 18W以上のAC充電器を使用した場合）</td><td>約2.2倍</td></tr>
+            <tr><th><a href="product-nothing-phone-3a-lite-8gb-128gb-black.html">Nothing Phone (3a) Lite</a>（スマホ）</th><td>19.25Wh（5000mAh×3.85V の想定）</td><td>33W</td><td>35分</td><td>充電速度33W／フル充電まで約1時間</td><td>約1.7倍</td></tr>
+            <tr><th><a href="product-sharp-aquos-sense9.html">AQUOS sense9</a>（スマホ）</th><td>19.25Wh（5000mAh×3.85V の想定）</td><td>36W</td><td>32分</td><td>給電36W／専用ACアダプター使用時 約100分</td><td>約3.1倍</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="pd-source-note">※計算上の最短は、一定のWで最後まで充電した場合の理論値です。ページに書かれた所要時間（メーカー記載の条件つき）は、計算値の1.3〜2.2倍でした。差が出る理由は商品ごとに異なり、当サイトでは検証していません。一般に、充電が進むと電力を絞る機種が多く、変換のロスもあるとされます。</p>
+        <p>この表から言えるのは、「書かれたW数で、残量0%から100%まで同じ速さで充電するわけではない」ということと、「所要時間はW数の数字だけでは決まらない」ということです。急ぎで充電するときは、満充電までではなく、半分程度まで充電するまでの時間（例：<a href="product-nothing-phone-3a-lite-8gb-128gb-black.html">Nothing Phone (3a) Lite</a>は「50%まで約20分」と記載）を目安にします。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>メーカー表記の読み違いポイント：同じ「W」でも、書き方で意味が違う</h2>
+        <p>充電が遅い原因を調べるとき、仕様表の「W」の数字をそのまま比べると、読み違えることがあります。当サイトの商品ページに書かれた、読み違えやすい例を、原文のまま並べました。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>ページの記載（原文）</th><th>読み違えやすい点</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-power-bank-10000mah.html">Anker Power Bank（10000mAh, 22.5W）</a></th><td>5V=3A／9V=2.22A／10V=2.25A（最大22.5W）／注記「Huawei機器以外はUSB-AポートがMAX 18W、USB-CポートがMAX 20W」／複数ポート使用時の合計「MAX 15W」</td><td>名前の「22.5W」が出るのは特定の機器のときだけです。それ以外の機器では20W、18Wになり、複数ポートでは合計15Wです。</td></tr>
+            <tr><th><a href="product-anker-nano-charger-70w.html">Anker Nano Charger（70W, 3 Ports）</a></th><td>USB-C1：最大70W（5V/9V/15V 3A、20V 3.5A）／2ポート使用時「45W＋22.5W、または60W＋5W」／複数ポート使用時の合計「最大67.5W（メーカーの補足説明）」</td><td>「70W」は単ポートで使うときの数字です。2台つなぐと分配され、合計も70Wにはなりません。</td></tr>
+            <tr><th><a href="product-anker-power-bank-25000mah.html">Anker Power Bank（25000mAh, Built-In & 巻取り式USB-Cケーブル）</a></th><td>「100Wを出力するポート以外は30Wを分配するため最大15Wの出力となり、急速充電に対応しない」</td><td>165Wという合計の数字があっても、3ポート接続時は、100Wのポート以外は最大15Wです。</td></tr>
+            <tr><th><a href="product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w.html">エレコム AC充電器一体型モバイルバッテリー EC-C57LMN</a></th><td>AC充電器として「Type-Cポート／ケーブル部の単独接続で最大67W（PPS対応）」／バッテリーとして「Type-Cポート／ケーブル部で最大20W、USB-Aポートで最大12W、複数口同時は合計最大15W」</td><td>商品名の「67W」は、コンセントに挿して使うときの数字です。バッテリーとしては最大20W、複数口同時は合計15Wです。</td></tr>
+            <tr><th><a href="product-apple-35w-dual-usbc-power-adapter.html">Apple 35W デュアルUSB-C電源アダプタ</a></th><td>最大出力（合計）35W／MacノートとiPhone／iPadを同時に接続「各最大17.5W」／「35Wを超える電力が必要な機器は十分に充電できない」</td><td>「35W」は2ポートの合計です。MacノートとiPhone／iPadなどを同時につなぐと、各最大17.5Wと書かれています（組み合わせにより数字は異なります）。</td></tr>
+            <tr><th><a href="product-buffalo-charger-pd100w-bsacpd10005c4bk.html">バッファロー 充電器 PD 100W 4ポート</a></th><td>単独接続時「USB Type-Cポート1／2／3：最大100W、USB Type-Aポート：最大22.5W」／2ポート同時の例「USB Type-Cポート1＋USB Type-Cポート2：65W＋30W（PWRArrange）」</td><td>単独時の数字（100W）と、2ポート同時の数字（65W＋30W）が別に書かれています。</td></tr>
+            <tr><th><a href="product-ugreen-nexode-100w-retractable-charger.html">UGREEN 急速充電器 100W 巻き取り式（2C1A）</a></th><td>単一ポート出力 100W Max、合計出力 100W。同時使用時は自動で最適分配する旨の記載はあるが、「ポートごとの数値は記載なし」</td><td>自動分配と書かれていても、ポートごとの数字が書かれていない商品があり、同時使用時の速さは数字から読み取れません。</td></tr>
+            <tr><th><a href="product-apple-magsafe-charger.html">Apple MagSafe充電器（1m）</a></th><td>「最大25W（対応する新しいiPhoneのピーク値。実際の出力は変わる）」／「iPhone 16／16 Proは22.5W、iPhone Airは20W、iPhone 17e・iPhone 15以前は最大15W」／25W出力に必要なアダプタ「30W以上、15V／2.0A以上」、15W出力に必要なアダプタ「20W以上のUSB-Cアダプタ（9V／2.22Aまたは9V／2.56A以上）」</td><td>「最大25W」は新しいiPhoneのピーク値です。iPhoneの機種により、22.5W、20W、15Wに変わります。アダプタのW数の条件も、出力ごとに異なります。</td></tr>
+            <tr><th><a href="product-anker-maggo-wireless-charger-stand-a25x1.html">Anker MagGo Wireless Charger（Stand）</a></th><td>出力「マグネット式ワイヤレス充電 最大15W（合計も15W）」／「充電器は付属しない（25W以上の充電器が必要）」</td><td>出力は最大15Wですが、必要な充電器の表記は25W以上です。商品ごとに、アダプターの条件の書き方が異なります。</td></tr>
+            <tr><th><a href="product-anker-maggo-power-bank-10000mah-slim-a1664.html">Anker MagGo Power Bank（10000mAh, Slim）</a></th><td>「マグネット式ワイヤレス充電に対応したケースが必要。対応しないケースでは使えない」</td><td>ワイヤレス出力の最大W数が書かれていても、ケースによっては使えません。</td></tr>
+            <tr><th><a href="product-elecom-usbc-lightning-cable-1m-mpa-clecs10wh.html">エレコム USB-C to Lightning ケーブル</a></th><td>USB Power Delivery「対応、最大20V/3A(60W)」／公式の注記「USB Type-Cポート搭載のiPhone・iPadには非対応」</td><td>60W対応の数字が書かれていても、端子の形が合わない端末では使えません。</td></tr>
+            <tr><th><a href="product-buffalo-usb-c-to-c-cable-2m-pd240w-bsu2ccy2420bk-n.html">バッファロー USB-C to C ケーブル 2m PD240W</a></th><td>給電「USB Power Delivery対応、48V/5A（最大240W）。実際の出力は接続機器による」／インターフェース「USB 2.0/1.1、最大480Mbps（規格値）」</td><td>240Wは給電の上限で、実際の出力は機器で決まります。データ転送は480Mbpsで、速度と給電は別の項目です。</td></tr>
+            <tr><th><a href="product-belkin-boostcharge-usbc-cable.html">Belkin BoostCharge USB-C to USB-C ケーブル</a></th><td>電力「最大60W」／データ転送「USB 2.0認証（転送速度の数値は記載なし）」</td><td>60W対応でも、データ転送の数値は書かれていません。W数が書かれていないケーブルは、上限のW数が分かりません。</td></tr>
+            <tr><th><a href="product-oppo-reno16-5g-12gb-256gb-pop-white.html">OPPO Reno16 5G</a></th><td>「6,700mAh、最大80W SUPERVOOC、55W PPS」</td><td>独自の名前の数字と、汎用規格（PPS）の数字が並んで書かれています。手持ちの充電器がどちらに対応するかで、使える数字が変わる場合があります。</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="pd-source-note">※「原文」はそれぞれの商品ページの仕様表・メーカー公開仕様の記載です。「最大」「合計」「単ポート」「条件つき」は、W数の数字を見るときに、まず確認する言葉です。「読み違えやすい点」は、当ページの整理です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>条件別の見方：状況から、まず見る項目を探す</h2>
+        <p>当てはまる状況の行から、先に見る項目を探してください。順位や優劣ではなく、仕様表のどの欄を見ると原因に近づけるかの整理です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>こんな状況なら</th><th>まず見る項目</th><th>当サイトの記載の例</th><th>あわせて見るページ</th></tr></thead>
+            <tbody>
+            <tr><th>ケーブルを替えて、速さが変わるか確かめたい</th><td>ケーブルの対応W数（60W／100W／240W）、5A・e-markerの記載</td><td><a href="product-apple-60w-usbc-cable.html">Apple 60W USB-C 充電ケーブル</a>は「最大60ワットの充電に対応」、<a href="product-ugreen-usbc-cable-100w-1m.html">UGREEN 100W/5A</a>は「PD3.0 100W/5A」、<a href="product-anker-prime-thunderbolt4-cable.html">Anker Prime Thunderbolt 4</a>は「48V=5A（最大240W）」</td><td><a href="guide-usbc-cable.html">USB-Cケーブルの選び方ガイド</a></td></tr>
+            <tr><th>デスクやベッドサイドで、複数台をつないでいる</th><td>単ポート最大出力と、2ポート同時使用時の数字</td><td><a href="product-anker-charger-140w-4ports.html">Anker Charger 140W</a>は4ポート利用時「USB-C1＋C2＋（残り2ポート）：65W＋45W＋（12W＋12W）」</td><td><a href="compare-anker-charger-140w-vs-prime-100w.html">Anker 140WとPrime 100Wの違い</a></td></tr>
+            <tr><th>iPhoneを少しでも早く充電したい</th><td>対応するアダプタの条件、時間で書かれた目安</td><td><a href="product-apple-20w-usbc-power-adapter.html">Apple 20W</a>は「50%までの充電が約35分」、<a href="product-iphone-air.html">iPhone Air</a>は「MagSafeとQi2によるワイヤレス充電（最大20W）に対応。対応アダプタで30分で最大50%充電」</td><td><a href="ranking-iphone-accessories.html">iPhoneアクセサリー比較</a></td></tr>
+            <tr><th>Androidで、メーカー独自の急速充電名が書かれている</th><td>独自規格名、同梱の充電器の有無、汎用規格（PD・PPS）の記載</td><td><a href="product-motorola-moto-g37j-pantone-4gb-128gb-fuchsia-red-pbck0003jp.html">moto g37j</a>は「チャージャーは非同梱」、<a href="product-xiaomi-redmi-17-4gb-256gb-lotus-purple.html">REDMI 17</a>は「45Wターボチャージ（充電器同梱）」</td><td><a href="ranking-smartphones.html">スマートフォン比較</a></td></tr>
+            <tr><th>ワイヤレス充電が遅い（MagSafe・Qi2）</th><td>機種ごとの最大出力、必要な電源アダプターのW、対応ケース、置き方</td><td><a href="product-apple-magsafe-charger.html">Apple MagSafe充電器</a>は「カードやパスポートなどを間に挟まない」と注意書きあり。<a href="product-belkin-qi2-25w-3in1-wireless-charging-stand-wiz052-bk.html">Belkin WIZ052</a>は「25W（Qi2 25W認証デバイスは最大25W、その他のQi2認証デバイスは最大15W）」</td><td><a href="guide-wireless-charger.html">ワイヤレス充電器の選び方ガイド</a></td></tr>
+            <tr><th>ワイヤレスで時計やイヤホンも一緒に充電している</th><td>機器ごとの出力（スマホ以外は小さい場合がある）、同時充電時の合計</td><td><a href="product-anker-prime-wireless-charging-station.html">Anker Prime Wireless Charging Station</a>は「スマホのマグネット充電は最大25W（Qi2 25W認証）」「Apple Watchは最大5W、その他のワイヤレス充電は最大5W」</td><td><a href="compare-belkin-wia008-stand-vs-anker-prime-3in1-wireless-charger.html">Belkin WIA008とAnker Primeの違い</a></td></tr>
+            <tr><th>モバイルバッテリーからの充電が遅い</th><td>USB-C出力のW数、同時使用時の合計、バッテリー本体の入力W</td><td><a href="product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white.html">ドコモ 準固体 01M</a>は単ポート「DC5V/3A・9V/3A・12V/3A・15V/3A・20V/2.25A（最大45W）」、同時使用は「DC5V/3A＋DC5V/3A（最大30W）」</td><td><a href="guide-power-bank.html">モバイルバッテリーの選び方ガイド</a></td></tr>
+            <tr><th>モバイルバッテリー本体の充電に時間がかかる</th><td>入力W、使う充電器とケーブルの出力</td><td><a href="product-owltech-semi-solid-power-bank-10000-oec-lpb10024.html">オウルテック OEC-LPB10024</a>は「空から満充電まで約1時間40分（PD30W充電時）」、<a href="product-elecom-mobile-battery-10000mah.html">エレコム EC-C03BK</a>は「約4時間30分（USB Power Delivery 18W以上のAC充電器を使用した場合）」</td><td><a href="compare-anker-power-bank-10000-vs-25000.html">Anker 10000mAhと25000mAhの違い</a></td></tr>
+            <tr><th>旅行・出張に持っていく</th><td>入力電圧の記載（100-240V）、プラグ形状、変圧機能の有無、荷物を減らせるケーブル内蔵タイプ</td><td><a href="product-anker-nano-travel-adapter-5in1-20w.html">Anker Nano トラベルアダプタ</a>は「A・C・Gタイプ（200以上の国と地域）」、「変圧機能なし」。<a href="product-belkin-ultracharge-gan-45w-retractable-cable-charger-white-b0gwmfz9jp.html">Belkin 45W 巻き取り式</a>はケーブル内蔵</td><td><a href="ranking-gan-chargers.html">GaN充電器の比較</a></td></tr>
+            <tr><th>夏や屋外、車内で充電が遅くなる</th><td>端末・充電器の使用温度や高温時の注意書き（取扱説明書）</td><td><a href="product-apple-magsafe-charger.html">Apple MagSafe充電器</a>の注意書きに「充電中に温かくなる場合がある」</td><td><a href="guide-gadget-compat-connect-labels.html">ガジェットの対応・接続ラベルの見方</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>仕様で並べた商品表：充電器・ケーブル・モバイルバッテリー・ワイヤレス充電器・スマホ（20商品）</h2>
+        <p>ここまでに登場した商品から、W数の書かれ方が異なる20商品を、ページの記載のまま並べました。「—」は、当サイトの仕様欄に記載がない項目です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>種類</th><th>出力・規格（ページの記載）</th><th>同時使用・条件（ページの記載）</th><th>ケーブル・付属（ページの記載）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-nano-charger-70w.html">Anker Nano Charger（70W, 3 Ports）</a></th><td>充電器</td><td>USB-C1：最大70W（5V/9V/15V 3A、20V 3.5A）</td><td>2ポート「45W＋22.5W、または60W＋5W」</td><td>ケーブルは同梱されていません</td></tr>
+            <tr><th><a href="product-anker-charger-140w-4ports.html">Anker Charger（140W, 4 Ports）</a></th><td>充電器</td><td>USB-C1／C2：最大140W／USB-C3：最大40W／USB-A1：最大33W</td><td>USB-C1＋C2＋（残り2ポート）：65W＋45W＋（12W＋12W）</td><td>約1.5m、240W、480Mbps対応</td></tr>
+            <tr><th><a href="product-apple-35w-dual-usbc-power-adapter.html">Apple デュアルUSB-C 35W</a></th><td>充電器</td><td>最大出力（合計）35W</td><td>各最大17.5W</td><td>充電ケーブルは別売り</td></tr>
+            <tr><th><a href="product-samsung-galaxy-45w-power-adapter.html">Galaxy 45W Power Adapter</a></th><td>充電器</td><td>Super Fast Charging 2.0 最大45W、PD 3.0 PDO/PPS 最大45W</td><td>—</td><td>USB-C to USB-C 5Aケーブル</td></tr>
+            <tr><th><a href="product-buffalo-charger-pd100w-bsacpd10005c4bk.html">バッファロー 充電器 PD 100W</a></th><td>充電器</td><td>USB Type-Cポート1／2／3：最大100W、USB Type-Aポート：最大22.5W</td><td>USB Type-Cポート1＋USB Type-Cポート2：65W＋30W（PWRArrange）</td><td>ケーブル「同梱なし（別途用意が必要）」</td></tr>
+            <tr><th><a href="product-elecom-usb-charger-65w-with-cable-1-5m-ec-ac12565bk.html">エレコム USB充電器 65W</a></th><td>充電器</td><td>最大65W（PPS最大65W）</td><td>—</td><td>USB Type-C - USB Type-Cケーブル（100W対応）、約1.5m</td></tr>
+            <tr><th><a href="product-anker-prime-thunderbolt4-cable.html">Anker Prime Thunderbolt 4 ケーブル</a></th><td>ケーブル</td><td>48V=5A（最大240W）</td><td>—</td><td>最大40Gbps</td></tr>
+            <tr><th><a href="product-buffalo-usb-c-to-c-cable-2m-pd240w-bsu2ccy2420bk-n.html">バッファロー USB-C to C 2m PD240W</a></th><td>ケーブル</td><td>USB Power Delivery対応、48V/5A（最大240W）。実際の出力は接続機器による</td><td>—</td><td>USB 2.0/1.1、最大480Mbps（規格値）</td></tr>
+            <tr><th><a href="product-elecom-usbc-lightning-cable-1m-mpa-clecs10wh.html">エレコム USB-C to Lightning 1m</a></th><td>ケーブル</td><td>対応、最大20V/3A(60W)</td><td>USB Type-Cポート搭載のiPhone・iPadには非対応</td><td>最大480Mbps（理論値）</td></tr>
+            <tr><th><a href="product-belkin-boostcharge-usbc-cable.html">Belkin BoostCharge USB-C ケーブル</a></th><td>ケーブル</td><td>最大60W</td><td>—</td><td>USB 2.0認証（転送速度の数値は記載なし）</td></tr>
+            <tr><th><a href="product-apple-60w-usbc-cable.html">Apple 60W USB-C 充電ケーブル</a></th><td>ケーブル</td><td>最大60ワットの充電に対応</td><td>—</td><td>—</td></tr>
+            <tr><th><a href="product-anker-power-bank-10000mah.html">Anker Power Bank（10000mAh, 22.5W）</a></th><td>モバイルバッテリー</td><td>5V=3A／9V=2.22A／10V=2.25A（最大22.5W）</td><td>Huawei機器以外はUSB-AポートがMAX 18W、USB-CポートがMAX 20W</td><td>同梱：USB-C & USB-C ケーブル</td></tr>
+            <tr><th><a href="product-anker-power-bank-25000mah.html">Anker Power Bank（25000mAh）</a></th><td>モバイルバッテリー</td><td>出力（USB-C）最大100W／合計最大出力165W</td><td>100Wを出力するポート以外は30Wを分配するため最大15Wの出力となり、急速充電に対応しない</td><td>—</td></tr>
+            <tr><th><a href="product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w.html">エレコム AC充電器一体型 EC-C57LMN</a></th><td>モバイルバッテリー</td><td>Type-Cポート／ケーブル部の単独接続で最大67W（PPS対応）</td><td>Type-Cポート／ケーブル部で最大20W、USB-Aポートで最大12W、複数口同時は合計最大15W</td><td>—</td></tr>
+            <tr><th><a href="product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white.html">ドコモ 準固体モバイルバッテリー01M</a></th><td>モバイルバッテリー</td><td>DC5V/3A・9V/3A・12V/3A・15V/3A・20V/2.25A（最大45W）</td><td>DC5V/3A＋DC5V/3A（最大30W）</td><td>同梱：Type-C to Type-C・15cm</td></tr>
+            <tr><th><a href="product-apple-magsafe-charger.html">Apple MagSafe充電器（1m）</a></th><td>ワイヤレス充電器</td><td>最大25W（対応する新しいiPhoneのピーク値。実際の出力は変わる）</td><td>iPhone 16／16 Proは22.5W、iPhone Airは20W、iPhone 17e・iPhone 15以前は最大15W</td><td>25W出力に必要なアダプタ：30W以上、15V／2.0A以上</td></tr>
+            <tr><th><a href="product-belkin-qi2-25w-3in1-wireless-charging-stand-wiz052-bk.html">Belkin Qi2認証 25W 3in1 WIZ052</a></th><td>ワイヤレス充電器</td><td>25W（Qi2 25W認証デバイスは最大25W、その他のQi2認証デバイスは最大15W）</td><td>ウォッチ用充電器は付属しません</td><td>45W USB-C電源アダプター</td></tr>
+            <tr><th><a href="product-anker-maggo-wireless-charger-stand-a25x1.html">Anker MagGo Wireless Charger（Stand）</a></th><td>ワイヤレス充電器</td><td>マグネット式ワイヤレス充電 最大15W（合計も15W）</td><td>—</td><td>充電器は付属しない（25W以上の充電器が必要）</td></tr>
+            <tr><th><a href="product-nothing-phone-3a-lite-8gb-128gb-black.html">Nothing Phone (3a) Lite</a></th><td>スマートフォン</td><td>5000mAh、充電速度33W、50%まで約20分、フル充電まで約1時間、リバースワイヤード充電5W</td><td>—</td><td>ページ記載の同梱物に充電アダプターの記載なし</td></tr>
+            <tr><th><a href="product-sharp-aquos-sense9.html">シャープ AQUOS sense9</a></th><td>スマートフォン</td><td>5,000mAh、給電36W、専用ACアダプター使用時 約100分、USB Type-C（USB PD 3.0対応）</td><td>—</td><td>—</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="pd-source-note">※すべて商品ページの仕様表・メーカー公開仕様の記載のとおりです（確認日：2026年10月28日）。優劣ではなく、書かれ方の違いを見るための表です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>充電まわりの用語</h2>
+        <p>スペック表やカタログでよく目にする言葉を、見るときのポイントとあわせてまとめました。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>用語</th><th>意味</th><th>スペック表で見るときのポイント</th></tr></thead>
+            <tbody>
+            <tr><th>USB PD（Power Delivery）</th><td>USB-Cで大きな電力をやりとりするための規格</td><td>充電器・ケーブル・端末の3つが対応していないと、規格どおりの電力にならない</td></tr>
+            <tr><th>PPS</th><td>USB PDの拡張で、電圧を細かく調整できる方式</td><td>対応する端末でのみ使われる。充電器の仕様欄に「PPS」の記載があるか確認する</td></tr>
+            <tr><th>単ポート最大出力／合計出力</th><td>1つのポートだけを使うときの最大W／全ポートの合計W</td><td>複数台を同時に使うと、単ポートの数字は出ない。同時使用時の数字の記載を探す</td></tr>
+            <tr><th>5A・e-marker</th><td>60Wを超える電力（一般に20Vで3A超）を流すケーブルに求められる条件</td><td>当サイトのAnker Nano 70Wのページにも「5A対応のe-markerチップ入りUSB-Cケーブルが必要」と記載がある</td></tr>
+            <tr><th>Mbps／Gbps</th><td>データ転送の速さの単位（1Gbps＝1000Mbps）</td><td>充電のW数とは別の項目。W数が大きくても転送速度は遅いケーブルがある</td></tr>
+            <tr><th>mAh／Wh</th><td>電池の容量の単位。Whは電圧を含む電力量</td><td>mAhだけでは比べにくい。Whの記載があるか確認する</td></tr>
+            <tr><th>Qi2／MagSafe</th><td>磁石で位置を合わせるワイヤレス充電の規格</td><td>最大W数は対応機種で変わる記載が多い。ケースの条件も確認する</td></tr>
+            <tr><th>GaN（窒化ガリウム）</th><td>充電器の部品に使われる素材。小型化しやすいとされる</td><td>素材名だけでは、出力やポート構成は分からない</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>関連するページ</h2>
+        <p>この悩みに関係するページです。気になる項目から読み進められます。</p>
+        <ul><li><a href="guide-usb-charger.html">USB充電器・充電ケーブルの選び方ガイド</a>：W数・ポート・PD・GaNの見方</li><li><a href="guide-usbc-cable.html">USB-Cケーブルの選び方ガイド</a>：対応W数とデータ転送速度の見方</li><li><a href="guide-power-bank.html">モバイルバッテリーの選び方ガイド</a>：容量・出力W・同時使用時の数字の見方</li><li><a href="guide-wireless-charger.html">MagSafe・Qi2ワイヤレス充電器の選び方ガイド</a>：出力W・電源アダプター・ケース条件の見方</li><li><a href="guide-gadget-compat-connect-labels.html">ガジェットの対応・接続ラベルの見方</a>：対応表示の読み方</li><li><a href="ranking-gan-chargers.html">GaN充電器の比較</a>：当サイト掲載の充電器の一覧</li><li><a href="ranking-power-banks.html">モバイルバッテリーの比較</a>：当サイト掲載の一覧</li><li><a href="compare-samsung-45w-vs-anker-nano-ii-65w-vs-belkin-75w-usbc-charger.html">Galaxy 45W・Anker Nano II 65W・Belkin 75Wの違い</a></li><li><a href="compare-anker-nano-charger-45w-display-vs-45w-cable-vs-70w.html">Anker Nano Charger 45W Display・45W・70Wの違い</a></li><li><a href="compare-elecom-mpa-ccec1gs10bk-vs-buffalo-bsu2ccy2420bk-usbc-cable.html">エレコム 240W 10Gbps・バッファロー PD240Wケーブルの違い</a></li><li><a href="compare-anker-powerline-iii-flow-vs-zolo-vs-belkin-boostcharge-usbc-cable.html">Anker PowerLine III Flow・Zolo・Belkin BoostChargeの違い</a></li><li><a href="compare-aulumu-m01-vs-torras-polarcircle-wireless-charger.html">Aulumu M01とTORRAS PolarCircleの違い</a></li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">13</span>失敗しやすいポイント</h2>
+        <div class="reco-grid">
+          <div class="reco-box yes"><h3>✅ 原因を絞り込みやすい進め方</h3><ul><li>充電器・ケーブル・端末の3つの数字を並べて、いちばん小さいところを見つける</li><li>一度に替えるのは1つだけにして、どこで変わったかを確かめる</li><li>複数台を同時につないでいるときは、1台だけにして試す</li><li>「最大」「合計」「単ポート」「条件つき」の言葉を、W数の数字と一緒に確認する</li><li>モバイルバッテリーからの充電では、本体の入力Wと、同時使用時の数字も確認する</li></ul></div>
+          <div class="reco-box no"><h3>⚠️ 避けたいこと</h3><ul><li>名前のW数だけで、実際の出力が出ると決めつける</li><li>ケーブルの対応W数を確認せずに、充電器だけを替える</li><li>本体が異常に熱い、膨らむ、異臭がするときに充電を続ける</li><li>端子に金属の針などを差し込んで掃除する</li><li>規格や条件が書かれていない商品の速さを、数字だけで判断する</li></ul></div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">14</span>GEARNOTEで比べられるスマホの充電が遅い原因の見分け方</h2>
+        <p>ここまでの整理で取り上げた、充電器・ケーブル・モバイルバッテリー・ワイヤレス充電器・スマホ20商品を並べました。各商品ページでは、仕様表・選び方のポイント・メーカー公開仕様を同じ形式で整理しています。</p>
+        <p class="guide-compare-cta"><a class="btn btn-ghost btn-sm" href="compare-tool.html?p=product-anker-nano-charger-70w,product-anker-charger-140w-4ports,product-apple-35w-dual-usbc-power-adapter,product-samsung-galaxy-45w-power-adapter">⚖ 先頭の4商品を並べて比較する</a><span class="guide-compare-note">　気になる商品は、各カードの「⚖」ボタンで比較リストに入れて、最大4つまで並べて見られます。</span></p>
+      <div class="cat-product-row">
+        <a href="product-anker-nano-charger-70w.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61ty6FitB2L._AC_SX300_.jpg" alt="Anker Nano Charger（70W, 3 Ports）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Anker Nano Charger（70W, 3 Ports）</span>
+          </div>
+        </a>
+        <a href="product-anker-charger-140w-4ports.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61f7FkXKoJL._AC_SX300_.jpg" alt="Anker Charger（140W, 4 Ports）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Anker Charger（140W, 4 Ports）</span>
+          </div>
+        </a>
+        <a href="product-apple-35w-dual-usbc-power-adapter.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/51a6r+Gm67L._AC_SX300_.jpg" alt="Apple デュアルUSB-C 35Wコンパクト電源アダプタ" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Apple デュアルUSB-C 35Wコンパクト電源アダプタ</span>
+          </div>
+        </a>
+        <a href="product-samsung-galaxy-45w-power-adapter.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61i4RSsvjXL._AC_SX300_.jpg" alt="Galaxy 45W Power Adapter（Samsung純正）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Galaxy 45W Power Adapter（Samsung純正）</span>
+          </div>
+        </a>
+        <a href="product-buffalo-charger-pd100w-bsacpd10005c4bk.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/71dsyOatb-L._AC_SX425_.jpg" alt="バッファロー 充電器 PD 100W（4ポート）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">バッファロー 充電器 PD 100W（4ポート）</span>
+          </div>
+        </a>
+        <a href="product-elecom-usb-charger-65w-with-cable-1-5m-ec-ac12565bk.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/513-shRSVrL._AC_SX300_.jpg" alt="エレコム USB充電器 65W Type-C ケーブル付属1.5m EC-AC12565BK ブラック" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">エレコム USB充電器 65W Type-C ケーブル付属1.5m EC-AC12565BK ブラック</span>
+          </div>
+        </a>
+        <a href="product-anker-prime-thunderbolt4-cable.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/51oPExEs9bL._AC_SX300_.jpg" alt="Anker Prime Thunderbolt 4 ケーブル" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Anker Prime Thunderbolt 4 ケーブル</span>
+          </div>
+        </a>
+        <a href="product-buffalo-usb-c-to-c-cable-2m-pd240w-bsu2ccy2420bk-n.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61McU8xXfzL._AC_SX300_.jpg" alt="バッファロー USB-C to C ケーブル 2m PD 240W シリコン BSU2CCY2420BK/N" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">バッファロー USB-C to C ケーブル 2m PD 240W シリコン BSU2CCY2420BK/N</span>
+          </div>
+        </a>
+        <a href="product-elecom-usbc-lightning-cable-1m-mpa-clecs10wh.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61aMJSZR3nL._AC_SX300_.jpg" alt="エレコム USB-C to Lightning ケーブル 1m ホワイト" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">エレコム USB-C to Lightning ケーブル 1m ホワイト</span>
+          </div>
+        </a>
+        <a href="product-belkin-boostcharge-usbc-cable.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/51TCQWgjyOL._AC_SX300_.jpg" alt="Belkin BoostCharge 編組ケーブル" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Belkin BoostCharge 編組ケーブル</span>
+          </div>
+        </a>
+        <a href="product-apple-60w-usbc-cable.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/41yeZ5+9V6L._AC_SX300_.jpg" alt="Apple 60W USB-C 充電ケーブル" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Apple 60W USB-C 充電ケーブル</span>
+          </div>
+        </a>
+        <a href="product-anker-power-bank-10000mah.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61SeOo7fuvL._AC_SX300_.jpg" alt="Anker Power Bank（10000mAh）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Anker Power Bank（10000mAh）</span>
+          </div>
+        </a>
+        <a href="product-anker-power-bank-25000mah.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61QMal+b+SL._AC_SX300_.jpg" alt="Anker Power Bank（25000mAh）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Anker Power Bank（25000mAh）</span>
+          </div>
+        </a>
+        <a href="product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61t-qD92TrL._AC_SX300_.jpg" alt="エレコム AC一体型モバイルバッテリー EC-C57LMN（5000mAh・67W）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">エレコム AC一体型モバイルバッテリー EC-C57LMN（5000mAh・67W）</span>
+          </div>
+        </a>
+        <a href="product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/515ZkQz5wbL._AC_SX300_.jpg" alt="ドコモ純正 準固体モバイルバッテリー01M（ホワイト・10000mAh）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">ドコモ純正 準固体モバイルバッテリー01M（ホワイト・10000mAh）</span>
+          </div>
+        </a>
+        <a href="product-apple-magsafe-charger.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/5186BhHRqbL._AC_SX300_.jpg" alt="Apple MagSafe充電器" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Apple MagSafe充電器</span>
+          </div>
+        </a>
+        <a href="product-belkin-qi2-25w-3in1-wireless-charging-stand-wiz052-bk.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61P29oK9ubL._AC_SX300_.jpg" alt="Belkin Qi2認証 25W 3in1 ワイヤレス充電スタンド WIZ052 ブラック" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Belkin Qi2認証 25W 3in1 ワイヤレス充電スタンド WIZ052 ブラック</span>
+          </div>
+        </a>
+        <a href="product-anker-maggo-wireless-charger-stand-a25x1.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/41RUPNeq38L._AC_SX300_.jpg" alt="Anker MagGo Wireless Charger (Stand)" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Anker MagGo Wireless Charger (Stand)</span>
+          </div>
+        </a>
+        <a href="product-nothing-phone-3a-lite-8gb-128gb-black.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/71OQzR9fSiL._AC_SX300_.jpg" alt="Nothing Phone (3a) Lite（8GB+128GB・ブラック・IP54）" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">Nothing Phone (3a) Lite（8GB+128GB・ブラック・IP54）</span>
+          </div>
+        </a>
+        <a href="product-sharp-aquos-sense9.html" class="cat-product-item">
+          <img class="cat-product-thumb" src="https://m.media-amazon.com/images/I/61hlnm3Hm5L._AC_SX300_.jpg" alt="AQUOS sense9" loading="lazy">
+          <div class="cat-product-info">
+            <span class="cat-product-name">AQUOS sense9</span>
+          </div>
+        </a>
+      </div>
+        <p>一覧で比べたい方は<a href="ranking-gan-chargers.html">GaN充電器比較</a>もご覧ください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">15</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>スマホの充電が遅い原因は、何から確認すればよいですか？</h3>
+            <p>充電器の出力（W）、ケーブルの対応W数、端末が受け入れるW数の3つを並べて、いちばん小さい数字を探します。当サイトの集計では、充電器29台の単ポート最大出力は最小20W・中央値65W・最大140W、ケーブル12本は60W・100W・240Wの3種類（240Wが5本、100Wが3本、60Wが4本）でした。複数台をつないでいる場合は、1台だけにして試し、ケーブルは1つだけ替えて比べると、上限の場所が分かりやすくなります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>スマホの充電が遅いのは、ケーブルのせいですか？</h3>
+            <p>ケーブルが上限になっている場合があります。当サイトのケーブル12本では、対応W数の記載が60Wのもの、100Wのもの、240Wのものがあり、たとえばApple 60W USB-C 充電ケーブルは「最大60ワットの充電に対応」、Anker Prime Thunderbolt 4ケーブルは「48V=5A（最大240W）」と書かれています。一方、ケーブルのデータ転送速度は充電のW数とは別の項目で、240Wでも480Mbpsと書かれたケーブルが2本あります。ケーブルの対応W数が分からない場合は、対応W数の分かっているものに替えて試します。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>充電器のW数が大きければ、スマホは速く充電できますか？</h3>
+            <p>端末が受け入れるW数までです。当サイトに掲載しているスマホのうち充電Wが書かれた7機種では、最小20W、中央値45W、最大100Wで、45Wを超えるのは3機種でした。たとえばmoto g37jは「5,200mAh／20W TurboPower チャージ対応」と書かれており、140Wの充電器につないでも、端末の20Wが上限の目安になります（筆者の計算①）。また、複数ポートの充電器は、2台以上つなぐと分配されます（例：Anker Nano Charger 70Wは2ポート使用時「45W＋22.5W、または60W＋5W」）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>スマホが熱い・夏に充電が遅くなるのは、なぜですか？</h3>
+            <p>一般に、多くの機種は本体の温度が高くなると、保護のために電力を絞る設計とされます。機種ごとの条件は、端末の取扱説明書で確認してください。当サイトの商品ページでも、たとえばApple MagSafe充電器に「充電中に温かくなる場合がある」という注意書きがあります。高温の場所（夏の車内や直射日光の当たる場所）での充電を避け、本体が異常に熱い、膨らんでいる、異臭がするなどの場合は、使用を中止してメーカーに相談してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>スマホの充電が急に遅くなったときは、何を確認すればよいですか？</h3>
+            <p>急に変わったときは、変わったものから確認します。ケーブルや充電器を替えた、つなぐ機器を増やした、ワイヤレス充電に切り替えたなどの変化がないかを見ます。複数台の同時使用では、単ポートの数字は出ません（例：Anker Charger 140Wの4ポート利用時は「USB-C1＋C2＋（残り2ポート）：65W＋45W＋（12W＋12W）」）。端末側は、温度、充電しながらの使用、設定（充電制限など）を取扱説明書で確認します。それでも原因が分からないときは、別のケーブル・充電器で試すか、メーカーに相談してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>旅行や出張で、充電が遅くならないように何を持っていけばよいですか？</h3>
+            <p>持っていく機器のW数と、入力電圧の記載を確認します。当サイトの充電器29台のうち、入力が100-240Vとメーカー公開仕様に書かれているのは10台でした。Anker Nano トラベルアダプタは「A・C・Gタイプ（200以上の国と地域）」と書かれていますが、「変圧機能なし」とも書かれています。プラグ形状や渡航先の電圧は国によって異なるため、渡航先の案内も確認してください。ケーブル内蔵の充電器（例：Belkin 45W 巻き取り式）は、持ち物を減らしたいときの選択肢です。モバイルバッテリーの機内持ち込みなどの規定は、各航空会社の案内で確認してください。</p>
+          </div>
+        </div>
+        <p class="pd-source-note">※本ガイドは一般的な考え方をまとめたもので、特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書とメーカー情報をご確認ください。価格・在庫は変動するためAmazon商品ページでご確認ください。</p>
+      </div>
+    </div>
+    <nav class="guide-end-nav" aria-label="ガイドのつづき" style="margin:34px 0 8px;padding:20px 22px;border:1px solid var(--gold, #b08d57);border-radius:14px;"><p style="margin:0 0 6px;font-weight:700;">このガイドを読み終えたら</p><p style="margin:0;"><a href="guides.html" style="display:inline-block;margin:6px 10px 6px 0;padding:10px 20px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.95rem;font-weight:700;text-decoration:none;">← 選び方ガイド一覧へ</a><a href="index.html" style="display:inline-block;margin:6px 10px 6px 0;padding:10px 20px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.95rem;font-weight:700;text-decoration:none;">ホームへ戻る</a><a href="#" style="display:inline-block;margin:6px 10px 6px 0;padding:10px 20px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.95rem;font-weight:700;text-decoration:none;">↑ ページの先頭へ</a></p><p style="margin:14px 0 4px;font-weight:700;">ほかの選び方ガイド（悩み・用途から探す）</p><p style="margin:0;"><a href="guide-c-flight-power-bank.html" style="display:inline-block;margin:4px 6px 4px 0;padding:6px 14px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.9rem;text-decoration:none;">機内持ち込みのモバイルバッテリー容量(Wh)</a><a href="guide-c-blackout-phone.html" style="display:inline-block;margin:4px 6px 4px 0;padding:6px 14px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.9rem;text-decoration:none;">停電時のスマホ充電</a><a href="guide-c-room-drying.html" style="display:inline-block;margin:4px 6px 4px 0;padding:6px 14px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.9rem;text-decoration:none;">部屋干し対策の家電・道具</a><a href="guide-c-pet-fur-odor.html" style="display:inline-block;margin:4px 6px 4px 0;padding:6px 14px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.9rem;text-decoration:none;">ペットの抜け毛掃除・部屋のにおい</a><a href="guide-c-cold-feet.html" style="display:inline-block;margin:4px 6px 4px 0;padding:6px 14px;border:1px solid var(--gold, #b08d57);border-radius:999px;font-size:0.9rem;text-decoration:none;">足元の寒さ・在宅ワークの寒さ対策</a></p></nav>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
