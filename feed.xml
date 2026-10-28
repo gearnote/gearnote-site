@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 28 Oct 2026 08:52:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 09:09:58 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -36,6 +36,20 @@
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>JBLの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-jbl</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-jbl</guid>
+    <description>JBL製品の特徴、Bluetoothスピーカー・パーティースピーカー・イヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Philipsの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-philips</link>
     <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
@@ -61,6 +75,20 @@
     <link>https://gearnote.net/brand-switchbot</link>
     <guid isPermaLink="true">https://gearnote.net/brand-switchbot</guid>
     <description>SwitchBot製品の特徴、スマートホーム機器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/product-hario-stacking-mug-2set-300ml-srms2024</link>
     <guid isPermaLink="true">https://gearnote.net/product-hario-stacking-mug-2set-300ml-srms2024</guid>
     <description>HARIO 耐熱スタッキングマグ2個セット(SRMS-2024)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lepro ヘッドライト 充電式の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lepro-headlamp-300lm-usbc</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lepro-headlamp-300lm-usbc</guid>
-    <description>Lepro ヘッドライト 充電式 USB-C 高輝度300ルーメン LEDヘッドランプの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-car</link>
-    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
-    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot 見守りカメラ Plus の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-security-camera-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-security-camera-plus</guid>
-    <description>SwitchBot 防犯カメラ 見守りカメラ Plus 3MPの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot 開閉センサーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-contact-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-contact-sensor</guid>
-    <description>SwitchBot 開閉センサー（磁気ドアセンサー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
