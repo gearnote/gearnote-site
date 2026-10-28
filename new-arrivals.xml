@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 28 Oct 2026 00:20:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 08:52:29 +0000</lastBuildDate>
+  <item>
+    <title>CMF by Nothing Clip</title>
+    <link>https://gearnote.net/product-cmf-by-nothing-clip-pro-dark-gray-open-ear-earbuds</link>
+    <guid isPermaLink="true">https://gearnote.net/product-cmf-by-nothing-clip-pro-dark-gray-open-ear-earbuds</guid>
+    <description>Nothingのサブブランド「CMF by Nothing」のクリップ型オープンイヤーイヤホン「Clip Pro」のダークグレーです。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイロボット ルンバ Plus 675 Combo</title>
+    <link>https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</link>
+    <guid isPermaLink="true">https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</guid>
+    <description>アイロボット（iRobot）の水拭き両用ロボット掃除機「ルンバ Plus 675 Combo」、型番V185060です。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL Charge Essential 3 SE（スレートグレー・2026年モデル）</title>
+    <link>https://gearnote.net/product-jbl-charge-essential-3-se-slate-gray</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-charge-essential-3-se-slate-gray</guid>
+    <description>JBLのポータブルBluetoothスピーカー「Charge Essential 3 SE」のスレートグレー（2026年モデル）です。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL Wave Beam 3（パープル・ANC搭載の完全ワイヤレスイヤホン）</title>
+    <link>https://gearnote.net/product-jbl-wave-beam-3-purple-anc-earbuds</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-beam-3-purple-anc-earbuds</guid>
+    <description>JBLの完全ワイヤレスイヤホン「Wave Beam 3」のパープルです。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ドライヤー イオニティ EH-NE7P-V（ミスティラベンダー・1200W）</title>
+    <link>https://gearnote.net/product-panasonic-ionity-dryer-eh-ne7p-v-misty-lavender</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-ionity-dryer-eh-ne7p-v-misty-lavender</guid>
+    <description>パナソニックのヘアドライヤー「イオニティ」EH-NE7P-V（ミスティラベンダー）です。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>ダイニチ ハイブリッド式加湿器 HD-PC2400H-W（PCタイプ・木造和室40畳まで）</title>
     <link>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-pc2400h-w-pc-type</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-z-fold8-ultra-256gb-cream</guid>
     <description>Samsungの折りたたみスマートフォン「Galaxy Z Fold8 Ultra」の256GB・クリームです。</description>
     <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Fire TV Stick 4K（新しいFire TVリモコン付属）</title>
-    <link>https://gearnote.net/product-amazon-fire-tv-stick-4k-new-remote</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-fire-tv-stick-4k-new-remote</guid>
-    <description>Amazonのストリーミングメディアプレイヤー「Fire TV Stick 4K」（新しいFire TVリモコン付属）です。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple iPhone 18 Pro Max 2TB シルバー</title>
-    <link>https://gearnote.net/product-apple-iphone-18-pro-max-2tb-silver</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-max-2tb-silver</guid>
-    <description>Appleのスマートフォン「iPhone 18 Pro Max」の2TB・シルバーです。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 電気敷毛布 KDS-L506 リサ・ラーソン マイキー&amp;フレンズ柄</title>
-    <link>https://gearnote.net/product-koizumi-electric-shiki-blanket-kds-l506-lisa-larson-200x100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-electric-shiki-blanket-kds-l506-lisa-larson-200x100</guid>
-    <description>コイズミの電気敷毛布「KDS-L506」のリサ・ラーソン マイキー&amp;フレンズ柄です。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール G PRO X3 SUPERSTRIKE G-PPD-X3-STRK-MB</title>
-    <link>https://gearnote.net/product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-mb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-mb</guid>
-    <description>ロジクールGのワイヤレスゲーミングマウス「PRO X3 SUPERSTRIKE」のブラック（G-PPD-X3-STRK-MB）です。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 セラミックファンヒーター DMF-E061(W) 静音 小型</title>
-    <link>https://gearnote.net/product-yamazen-ceramic-fan-heater-dmf-e061-w-quiet</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-dmf-e061-w-quiet</guid>
-    <description>山善の小型のセラミックファンヒーター「DMF-E061(W)」のホワイトです。</description>
-    <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

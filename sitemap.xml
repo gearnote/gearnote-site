@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-jbl</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-panasonic</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -142,12 +142,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-audio</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-beauty</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -2612,7 +2612,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-hair-dryers</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -5547,7 +5547,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-portable-speakers</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -31800,5 +31800,30 @@
     <loc>https://gearnote.net/guide-c-winter-dry-air</loc>
     <lastmod>2026-10-28</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-jbl-wave-beam-3-purple-anc-earbuds</loc>
+    <lastmod>2026-10-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-cmf-by-nothing-clip-pro-dark-gray-open-ear-earbuds</loc>
+    <lastmod>2026-10-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-jbl-charge-essential-3-se-slate-gray</loc>
+    <lastmod>2026-10-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-panasonic-ionity-dryer-eh-ne7p-v-misty-lavender</loc>
+    <lastmod>2026-10-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</loc>
+    <lastmod>2026-10-28</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
