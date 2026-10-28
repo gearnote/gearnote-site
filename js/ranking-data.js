@@ -24939,7 +24939,7 @@ const RANKING_POOL = [
     page: "product-yamazen-circulator-yar-trd15e-c-18jo.html",
   },
   {
-    name: "ツインバード サーキュレーター 8畳 風量4段階 大風量 お手入れ簡単 水洗いOK 角度調整 節電 換気 ホワイト KJ-D783W",
+    name: "ツインバード サーキュレーター 風量4段階 大風量 お手入れ簡単 水洗いOK 角度調整 節電 換気 ホワイト KJ-D783W",
     excerpt: "ツインバード サーキュレーター KJ-D783W（ホワイト）。首振り不要の9枚羽根エクセルブレード、風量4段階、角度調整約8°〜90°、水洗い可、折りたたみ収納。",
     img: "https://m.media-amazon.com/images/I/61RHMgejT9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CZRJRM66?tag=hide0122-22",
@@ -25289,7 +25289,7 @@ const RANKING_POOL = [
     page: "product-switchbot-circulator-lite.html",
   },
   {
-    name: "【静音特化】アイリスオーヤマ サーキュレーター DCモーター 22畳 上下左右首振り 静音 リモコン付 分解丸洗い",
+    name: "【静音特化】アイリスオーヤマ サーキュレーター DCモーター 上下左右首振り 静音 リモコン付 分解丸洗い",
     excerpt: "アイリスオーヤマ サーキュレーター AZ-SDS15TEC-W。DCモーター、上下左右首振り、風量5段階、リモコン付き、静音・消灯モード、幅約21×奥行約21×高さ約28.8cm、約2.0kg。",
     img: "https://m.media-amazon.com/images/I/513cdmyK5nL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CY5CD8VF?tag=hide0122-22",
@@ -29168,7 +29168,7 @@ const RANKING_POOL = [
   },
   {
     name: "[山善] ホットカーペット 洗える ダニ対策 3段階温度調節 8時間自動オフタイマー 切り忘れ防止 グレージュ YWC-182F(GG)E",
-    excerpt: "山善 ホットカーペット YWC-182F(GG)E。約180×80cmのごろ寝サイズ、3段階温度調節とリモコン、8時間の自動オフ、ダニ対策機能、本体洗濯可（ドラム式不可）、55Wと記載。",
+    excerpt: "山善 ホットカーペット YWC-182F(GG)E。約180×80cmのごろ寝サイズ、3段階温度調節とリモコン、8時間の自動オフ、ダニ対策機能、本体洗濯可（ドラム式不可）、消費電力75W（山善公式ページ）と記載。",
     img: "https://m.media-amazon.com/images/I/61H6WKMmlkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HCBR52DN?tag=hide0122-22",
     page: "product-yamazen-hot-carpet-ywc-182f-gg-e-washable-180x80.html",
