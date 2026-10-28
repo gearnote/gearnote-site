@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 28 Oct 2026 00:13:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 00:20:18 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Braunの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-braun</link>
@@ -19,6 +26,13 @@
     <link>https://gearnote.net/brand-google</link>
     <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
     <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -50,10 +64,24 @@
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Anker Nano Charger（70W, 3 Ports）の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-anker-nano-charger-70w</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-nano-charger-70w</guid>
     <description>Anker Nano Charger（70W, 3 Ports）ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Nano Power Strip の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-power-strip</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-strip</guid>
+    <description>Anker Nano Power Strip（10-in-1, 70W, クランプ式）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -131,6 +159,27 @@
     <link>https://gearnote.net/product-eufy-robot-vacuum-c10</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-robot-vacuum-c10</guid>
     <description>Eufy Robot Vacuum Auto-Empty C10の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufy Security Indoor Cam S350 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-indoor-cam-s350</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-indoor-cam-s350</guid>
+    <description>Anker Eufy Security Indoor Cam S350 見守りカメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufy Video Doorbell E340 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-video-doorbell-e340</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-video-doorbell-e340</guid>
+    <description>Anker Eufy Video Doorbell E340 スマホ連動ドアホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 超音波式加湿器の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-humidifier</guid>
+    <description>アイリスオーヤマ 超音波式加湿器 UHM-280S-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -295,66 +344,17 @@
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ポケモン ピカチュウ ぬいぐるみの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-pokemon-pikachu-plush</link>
-    <guid isPermaLink="true">https://gearnote.net/product-pokemon-pikachu-plush</guid>
-    <description>ポケットモンスター ALL STAR COLLECTION ピカチュウ ぬいぐるみの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>SwitchBot 見守りカメラ Plus の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-security-camera-plus</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-security-camera-plus</guid>
+    <description>SwitchBot 防犯カメラ 見守りカメラ Plus 3MPの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>たまごっちパラダイス の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tamagotchi-paradise</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tamagotchi-paradise</guid>
-    <description>バンダイ Tamagotchi Paradise（たまごっちパラダイス）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ノイズキャンセリングイヤホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-noise-cancelling-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-noise-cancelling-earbuds</guid>
-    <description>AirPods 4・WF-1000XM6・Bose QC Ultra Earbuds 2を徹底比較。各商品の特徴をもとに、装着感・遮音性・音質の観点からおすすめのノイズキャンセリングイヤホンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コードレス掃除機おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cordless-vacuums</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cordless-vacuums</guid>
-    <description>シャープ EC-FR9・Dyson V12 Detect・Dyson PencilVacを徹底比較。各商品の特徴をもとに、吸引力・軽さの観点からおすすめのコードレス掃除機を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>フライパンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-frying-pans</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-frying-pans</guid>
-    <description>貝印・ティファール・サーモスのフライパンを徹底比較。各商品の特徴をもとに、軽さ・熱伝導・耐久性の観点からおすすめのフライパンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファミリーゲームおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-family-games</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-family-games</guid>
-    <description>UNO・ジェンガ・スタディ将棋を徹底比較。各商品の特徴をもとに、人数・年齢・遊び方の観点からおすすめのファミリーゲームを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>空気清浄機おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-air-purifiers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
-    <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを徹底比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズシェーバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mens-shavers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
-    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から徹底比較。剃り味・お手入れのしやすさをまとめました。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Buds 8 Proの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-pro</guid>
-    <description>Xiaomi REDMI Buds 8 Pro ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>SwitchBot 開閉センサーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-contact-sensor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-contact-sensor</guid>
+    <description>SwitchBot 開閉センサー（磁気ドアセンサー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
