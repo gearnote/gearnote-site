@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -3502,7 +3502,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-elecom</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5602,7 +5602,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-wireless-mouse</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5717,7 +5717,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-gan-chargers</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -9582,7 +9582,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-yamazen</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -26362,7 +26362,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -31829,6 +31829,31 @@
   <url>
     <loc>https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</loc>
     <lastmod>2026-10-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-elecom-usb-charger-140w-4port-display-ec-ac132140bk</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-three-up-ceramic-heater-ch-az0892gy-louverless-oscillating</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-yamazen-wall-mount-ceramic-heater-dfx-rk122-w</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-bruno-timeflow-mist-personal-humidifier-bde071-sgr</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-sanwa-bluetooth-wireless-mouse-ma-wbirs539gy-quiet-5button</loc>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
