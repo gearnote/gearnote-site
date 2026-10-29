@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 29 Oct 2026 11:01:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:19:14 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -281,10 +281,31 @@
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>加湿器の選び方ガイド｜方式・畳数・タンク容量の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-humidifier</guid>
+    <description>加湿器の4つの方式（超音波式・加熱式・気化式・ハイブリッド式）の違いと、適用畳数・加湿量・タンク容量・運転音などスペック表の見方を、置き場所別の考え方とあわせて解説します。</description>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>選び方ガイド一覧｜GEARNOTE</title>
     <link>https://gearnote.net/guides</link>
     <guid isPermaLink="true">https://gearnote.net/guides</guid>
     <description>家電・ガジェットを中心に、買う前に知っておきたい選び方のポイントを、仕様の見方から解説するGEARNOTEの選び方ガイド一覧です。</description>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ワイヤレスイヤホンの選び方ガイド｜ノイズキャンセリング・装着タイプ・再生時間の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-earbuds</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-earbuds</guid>
+    <description>ワイヤレスイヤホンの装着タイプ（カナル型・オープンイヤー型）とノイズキャンセリング、接続方式・コーデック、再生時間・防水等級の見方を、使う場面別に解説します。</description>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>モバイルバッテリーの選び方ガイド｜容量・出力W・機内持ち込みの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-power-bank</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-power-bank</guid>
+    <description>モバイルバッテリーの容量（mAh・Wh）、出力W・USB PD、ケーブル一体型・マグネット式・半固体電池の違い、機内持ち込みの考え方を、仕様表の見方とあわせて解説します。</description>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -295,10 +316,31 @@
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>空気清浄機の選び方ガイド｜適用畳数・フィルター・加湿機能の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-air-purifier</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-air-purifier</guid>
+    <description>空気清浄機の適用畳数や清浄時間、HEPAなどのフィルター方式、加湿機能付きの違い、運転音とお手入れの見方を、部屋や使い方別の考え方とあわせて解説します。</description>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>コードレス掃除機の選び方ガイド｜吸引方式・稼働時間・重さの見方｜GEARNOTE</title>
     <link>https://gearnote.net/guide-cordless-vacuum</link>
     <guid isPermaLink="true">https://gearnote.net/guide-cordless-vacuum</guid>
     <description>コードレス掃除機の集じん方式（サイクロン式・紙パック式など）、稼働時間、バッテリー、重さ、ゴミ捨てやヘッドの見方を、住まい別の考え方とあわせて解説します。</description>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>暖房器具の選び方ガイド｜方式別の特徴と安全面の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-heater</guid>
+    <description>セラミックファンヒーター・オイルヒーター・電気毛布・ホットカーペットなど電気式暖房器具の方式別の特徴、消費電力や適用畳数の見方、使うときの安全面を解説します。</description>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>サーキュレーター・扇風機の選び方ガイド｜適用畳数・モーター・首振りの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-circulator-fan</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-circulator-fan</guid>
+    <description>サーキュレーターと扇風機の違い、適用畳数・DCモーターとACモーター・風量段階・首振り・運転音といったスペック表の見方を、部屋干しや冷暖房との併用など使う場面別に解説します。</description>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -309,52 +351,10 @@
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ノンフライヤー（エアフライヤー）の選び方ガイド｜容量・温度・お手入れの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-air-fryer</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-air-fryer</guid>
-    <description>ノンフライヤー（エアフライヤー）のタイプ（バスケット式・スチーム併用・マルチクッカー型）と、容量・最高温度・調理プリセット・消費電力・サイズ・お手入れの見方を、使う人数や用途別に解説します。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック コードレススティック掃除機 MC-NX700K-Wの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-cordless-vacuum-mc-nx700k-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-cordless-vacuum-mc-nx700k-w</guid>
-    <description>パナソニック コードレススティック掃除機 MC-NX700K-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック 電気圧力鍋 NF-PC400-Kの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-electric-pressure-cooker-nf-pc400-k</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-electric-pressure-cooker-nf-pc400-k</guid>
-    <description>パナソニック 電気圧力鍋 NF-PC400-Kの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 ホットプレート STAN. EA-FA10-BAの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-zojirushi-stan-hot-plate-ea-fa10-ba</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-stan-hot-plate-ea-fa10-ba</guid>
-    <description>象印 ホットプレート STAN. EA-FA10-BAの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>siroca おうちシェフクッカー SP-MC2D151 ホワイト 自動調理鍋（電気圧力鍋） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc2d151-white</link>
-    <guid isPermaLink="true">https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc2d151-white</guid>
-    <description>siroca おうちシェフクッカー SP-MC2D151 ホワイト 自動調理鍋（電気圧力鍋）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ECOVACS DEEBOT N30 PLUS 10,000Pa ロボット掃除機 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ecovacs-deebot-n30-plus-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ecovacs-deebot-n30-plus-robot-vacuum</guid>
-    <description>ECOVACS DEEBOT N30 PLUS 10,000Pa ロボット掃除機 自動ゴミ収集 ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dyson V8 Slim Fluffy SV10K EXT BK コードレススティック掃除機 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dyson-v8-slim-fluffy-sv10k-ext-bk</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dyson-v8-slim-fluffy-sv10k-ext-bk</guid>
-    <description>Dyson V8 Slim Fluffy SV10K EXT BK コードレススティック掃除機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>電気ケトルの選び方ガイド｜容量・温度調節・素材・安全機能の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-electric-kettle</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-electric-kettle</guid>
+    <description>電気ケトルの容量、温度調節・保温機能、素材（樹脂・ステンレス）、蒸気レス構造、転倒お湯もれ防止などの安全機能、電気ポットとの違いを、仕様表の見方と使う場面別にわかりやすく解説します。</description>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
