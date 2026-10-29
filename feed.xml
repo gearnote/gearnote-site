@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 29 Oct 2026 12:19:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:33:09 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -316,6 +316,13 @@
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ドライヤーの選び方ガイド｜風量・温度・重さ・イオン機能の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-hair-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-hair-dryer</guid>
+    <description>ヘアドライヤーの風量（㎥/分）・温風温度・重さ・イオン機能・ノズルの見方を、髪の長さや使い方別の考え方とあわせて解説します。機能の説明は仕様の範囲にとどめた内容です。</description>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>空気清浄機の選び方ガイド｜適用畳数・フィルター・加湿機能の見方｜GEARNOTE</title>
     <link>https://gearnote.net/guide-air-purifier</link>
     <guid isPermaLink="true">https://gearnote.net/guide-air-purifier</guid>
@@ -344,17 +351,10 @@
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ロボット掃除機の選び方ガイド｜吸引力Pa・ナビゲーション・ステーションの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-robot-vacuum</guid>
-    <description>ロボット掃除機の吸引力（Pa）、ナビゲーション方式（LiDAR・レーザー）、水拭き機能、自動ゴミ収集ステーション、アプリ連携・Wi-Fi対応といった仕様の見方を、住まい別の考え方とあわせて解説します。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電気ケトルの選び方ガイド｜容量・温度調節・素材・安全機能の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-electric-kettle</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-electric-kettle</guid>
-    <description>電気ケトルの容量、温度調節・保温機能、素材（樹脂・ステンレス）、蒸気レス構造、転倒お湯もれ防止などの安全機能、電気ポットとの違いを、仕様表の見方と使う場面別にわかりやすく解説します。</description>
+    <title>ポータブルスピーカーの選び方ガイド｜出力W・防水等級・連続再生時間の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-portable-speaker</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-portable-speaker</guid>
+    <description>ポータブルスピーカー（Bluetoothスピーカー）の最大出力W、防水・防塵等級（IPX7・IP67など）、連続再生時間、ステレオペアリング、スマートスピーカー型との違いを、使う場面別に解説します。</description>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
