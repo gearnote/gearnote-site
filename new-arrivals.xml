@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 29 Oct 2026 12:33:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 08:44:04 +0000</lastBuildDate>
+  <item>
+    <title>ASUS ROG Strix OLED XG32UCDS 32インチ 4K QD-OLED</title>
+    <link>https://gearnote.net/product-asus-rog-strix-oled-xg32ucds-32-4k-qd-oled-165hz</link>
+    <guid isPermaLink="true">https://gearnote.net/product-asus-rog-strix-oled-xg32ucds-32-4k-qd-oled-165hz</guid>
+    <description>ASUSのゲーミングモニター「ROG Strix OLED XG32UCDS」です。</description>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>BRUNO みんなのホットプレート BOE161-CH（チャコール）</title>
+    <link>https://gearnote.net/product-bruno-minna-no-hotplate-boe161-ch-charcoal</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bruno-minna-no-hotplate-boe161-ch-charcoal</guid>
+    <description>BRUNOのホットプレート「みんなのホットプレート」BOE161-CHのチャコールです。</description>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson R1 Nurovi Dry ロボット掃除機 RB07 D</title>
+    <link>https://gearnote.net/product-dyson-r1-nurovi-dry-robot-vacuum-rb07-d-am</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-r1-nurovi-dry-robot-vacuum-rb07-d-am</guid>
+    <description>ダイソンのロボット掃除機「R1 Nurovi Dry」RB07 D AMです。</description>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>HUAWEI WATCH GT 7 Pro 46mm</title>
+    <link>https://gearnote.net/product-huawei-watch-gt-7-pro-46mm-black-tum-b49</link>
+    <guid isPermaLink="true">https://gearnote.net/product-huawei-watch-gt-7-pro-46mm-black-tum-b49</guid>
+    <description>HUAWEIのスマートウォッチ「WATCH GT 7 Pro 46mm」のブラックです。</description>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ ホット＆クール 電気ファンヒーター</title>
+    <link>https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower</guid>
+    <description>コイズミのタワー型ファンヒーター「KHF-12269/W」のホワイトです。</description>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>BRUNO 超音波パーソナル加湿器 TIMEFLOW MIST</title>
     <link>https://gearnote.net/product-bruno-timeflow-mist-personal-humidifier-bde071-sgr</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-dsf-s123-w-human-sensor</guid>
     <description>山善のセラミックファンヒーター、型番DSF-S123(W)（ホワイト）です。</description>
     <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドウシシャ mistone600S スチーム式加湿器</title>
-    <link>https://gearnote.net/product-doshisha-mistone600s-steam-humidifier-ksb-604be-beige</link>
-    <guid isPermaLink="true">https://gearnote.net/product-doshisha-mistone600s-steam-humidifier-ksb-604be-beige</guid>
-    <description>ドウシシャのスチーム式（加熱式）加湿器「mistone600S」、型番KSB-604BE（ベージュ）です。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>IODATA GCFX ゲーミングモニター 24.5型 フルHD 260Hz</title>
-    <link>https://gearnote.net/product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor</guid>
-    <description>IODATAのゲーミングモニター「GCFX」シリーズの24.5型、型番EX-GD252UHB（ブラック）です。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>NEC LAVIE Tab T12 12.1型 Wi-Fiモデル</title>
-    <link>https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</guid>
-    <description>NECの12.1型Androidタブレット「LAVIE Tab T12」のWi-Fiモデル、Amazon.co.jp限定の6GB/128GB・クラウドグレーです。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Nothing Phone (3a) Lite 8GB+128GB ブラック</title>
-    <link>https://gearnote.net/product-nothing-phone-3a-lite-8gb-128gb-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nothing-phone-3a-lite-8gb-128gb-black</guid>
-    <description>Nothingのスマートフォン「Phone (3a) Lite」の8GB+128GB・ブラックです。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 ホットカーペット 3畳相当 185×230cm フローリング調</title>
-    <link>https://gearnote.net/product-yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style</guid>
-    <description>山善の3畳相当（185×230cm）フローリング調ホットカーペット「YZD-301FL」のライトブラウン（LBR）です。</description>
-    <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

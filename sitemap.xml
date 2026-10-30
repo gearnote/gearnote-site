@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-dyson</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -72,7 +72,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-koizumi</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -5712,7 +5712,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-cooking-appliances</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -22662,7 +22662,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-huawei</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -26362,7 +26362,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -31865,5 +31865,30 @@
     <loc>https://gearnote.net/guide-c-cooking-shortcut</loc>
     <lastmod>2026-10-29</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower</loc>
+    <lastmod>2026-10-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-bruno-minna-no-hotplate-boe161-ch-charcoal</loc>
+    <lastmod>2026-10-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dyson-r1-nurovi-dry-robot-vacuum-rb07-d-am</loc>
+    <lastmod>2026-10-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-asus-rog-strix-oled-xg32ucds-32-4k-qd-oled-165hz</loc>
+    <lastmod>2026-10-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-huawei-watch-gt-7-pro-46mm-black-tum-b49</loc>
+    <lastmod>2026-10-30</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
