@@ -1,5 +1,5 @@
-﻿商品名,区分,商品ページ,ノイズキャンセリングオン時の連続音声再生時間（最大）(時間),ノイズキャンセリングオフ時の連続音声再生時間（最大）(時間),連続音声再生時間（最大・ノイズキャンセリングの条件の記載がないもの）(時間),インピーダンス(Ω),質量（コード・ケーブルを除く）(g)
-オーディオテクニカ ATH-M50xBT2 ワイヤレスヘッドホン（モニターヘッドホン）ブラック,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-audio-technica-ath-m50xbt2-black,,,50,38,
+﻿商品名,区分,商品ページ,ノイズキャンセリングオン時の連続音声再生時間（最大）(時間),ノイズキャンセリングオフ時の連続音声再生時間（最大）(時間),連続音声再生時間（最大・ノイズキャンセリングの条件の記載がないもの。メーカーが「バッテリー持続時間」「バッテリー寿命」と書いた数字を含む）(時間),インピーダンス(Ω),質量（コード・ケーブルを除く）(g)
+オーディオテクニカ ATH-M50xBT2 ワイヤレスヘッドホン（モニターヘッドホン）ブラック,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-audio-technica-ath-m50xbt2-black,,,50,,
 オーディオテクニカ ATH-S300BT ワイヤレスヘッドホン ノイズキャンセリング ブラック,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-audio-technica-ath-s300bt-black-nc,60,90,,44.5,
 Belkin SOUNDFORM Mini 子供用ヘッドフォン,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-belkin-soundform-mini-kids-headphones,,,,,
 Bose QuietComfort Headphones（第2世代）,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-bose-quietcomfort-headphones-2,,,24,,
@@ -14,23 +14,30 @@ JBL LIVE 780 NC グリーン（JBLLIVE780NCGRN）,ワイヤレス（Bluetooth対
 Marshall Milton A.N.C. ワイヤレスノイズキャンセリング,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-marshall-milton-anc-on-ear-cream,50,80,,,
 Nothing Headphone (1) Pro ワイヤレスヘッドフォン ホワイト,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-nothing-headphone-1-pro-white,,,,,
 ゼンハイザー MOMENTUM 5 Wireless ワイヤレスヘッドホン,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sennheiser-momentum-5-wireless-black,57,,,,
-SITOAT 子供用ヘッドホン,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sitoat-kids-headphone-85db,,,,32,
+SITOAT 子供用ヘッドホン,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sitoat-kids-headphone-85db,,,,,
 ソニー WH-1000XM6,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sony-wh-1000xm6,30,40,,,
 ソニー WH-CH520,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sony-wh-ch520,,,50,,147
 ソニー WH-CH720N,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sony-wh-ch720n,35,50,,,
 ソニー WH-CH730N ワイヤレスノイズキャンセリングヘッドホン（2026年モデル・ブラック）,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sony-wh-ch730n-black-2026-wireless-nc-headphones,50,75,,,207
 ソニー WH-ULT900N（ULT WEAR）,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sony-wh-ult900n,30,50,,,255
-SOUNDPEATS Space Pro ワイヤレスヘッドホン ノイズキャンセリング,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-soundpeats-space-pro,,,151,16,
+SOUNDPEATS Space Pro ワイヤレスヘッドホン ノイズキャンセリング,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-soundpeats-space-pro,,,151,,
+Apple AirPods Max 2,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-airpods-max-2,20,,,,
+Anker Soundcore Life Q20,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-anker-soundcore-life-q20,,,60,,
+Beats Studio Pro,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-beats-studio-pro,24,40,,,
+Dyson OnTrac ヘッドホン,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-dyson-ontrac,,,55,,
+Dyson Zone,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-dyson-zone,,,,,
+ゼンハイザー MOMENTUM 4 Wireless ワイヤレスヘッドホン,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sennheiser-momentum-4-wireless,60,,,,
+ソニー 1000X THE COLLEXION WH-1000XX プラチナ,ワイヤレス（Bluetooth対応）,https://gearnote.net/product-sony-1000x-the-collexion-wh-1000xx-platinum,24,32,,,320
 オーディオテクニカ ATH-M20x,有線のみ,https://gearnote.net/product-audio-technica-ath-m20x,,,,47,190
 オーディオテクニカ ATH-M50x,有線のみ,https://gearnote.net/product-audio-technica-ath-m50x,,,,38,285
 オーディオテクニカ ATH-R30x,有線のみ,https://gearnote.net/product-audio-technica-ath-r30x-open-monitor,,,,36,210
 EarFun K1 子供用ヘッドホン,有線のみ,https://gearnote.net/product-earfun-k1-kids-wired-headphones,,,,,
 JBL Junior 320,有線のみ,https://gearnote.net/product-jbl-junior-320-kids-headphones,,,,34,
-OneOdio Pro10,有線のみ,https://gearnote.net/product-oneodio-pro10-headphones,,,,32,
-Philips SHP9500,有線のみ,https://gearnote.net/product-philips-shp9500-headphones,,,,32,
+OneOdio Pro10,有線のみ,https://gearnote.net/product-oneodio-pro10-headphones,,,,,
+Philips SHP9500,有線のみ,https://gearnote.net/product-philips-shp9500-headphones,,,,,
 ゼンハイザー HD 280 Pro 密閉型ヘッドホン,有線のみ,https://gearnote.net/product-sennheiser-hd-280-pro,,,,64,285
 ゼンハイザー HD 480 PRO PLUS,有線のみ,https://gearnote.net/product-sennheiser-hd-480-pro-plus,,,,130,
-ゼンハイザー HD 560S 開放型ヘッドホン,有線のみ,https://gearnote.net/product-sennheiser-hd-560s,,,,120,
+ゼンハイザー HD 560S 開放型ヘッドホン,有線のみ,https://gearnote.net/product-sennheiser-hd-560s,,,,,
 ゼンハイザー HD 599 SE 開放型スタジオヘッドホン（有線）,有線のみ,https://gearnote.net/product-sennheiser-hd-599-se,,,,50,
 SONY MDR-7506,有線のみ,https://gearnote.net/product-sony-mdr-7506,,,,63,230
 ソニー MDR-MV1,有線のみ,https://gearnote.net/product-sony-mdr-mv1-open-monitor,,,,24,223

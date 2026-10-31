@@ -1,4 +1,4 @@
-﻿商品名,区分,商品ページ,単ポート使用時の最大出力(W),USBポートの総数(ポート),USB-Cポート数(ポート),質量(g)
+﻿商品名,区分,商品ページ,単ポート使用時の最大出力(W),USBポートの総数（内蔵ケーブルを除く）(ポート),USB-Cポート数（内蔵ケーブルを除く）(ポート),質量(g)
 "Anker Charger（140W, 4 Ports）",コンセント用のUSB充電器,https://gearnote.net/product-anker-charger-140w-4ports,140,4,3,275
 Anker 充電器 20W 2ポート USB-C＆USB-Cケーブル付属,コンセント用のUSB充電器,https://gearnote.net/product-anker-charger-20w-usbc,20,2,1,52
 "Anker Nano Charger（45W, Display）",コンセント用のUSB充電器,https://gearnote.net/product-anker-nano-charger-45w-display,45,1,1,72
@@ -23,3 +23,7 @@ UGREEN 45W Type-C 急速充電器（ディスプレイ付き・折りたたみ�
 UGREEN Nexode 急速充電器 100W,コンセント用のUSB充電器,https://gearnote.net/product-ugreen-nexode-100w-4port-gan-charger-3c1a,,,,
 UGREEN 卓上急速充電器 300W 5ポート（USB-C×4／USB-A×1）,コンセント用のUSB充電器,https://gearnote.net/product-ugreen-nexode-300w-desktop-charger,,,,
 UGREEN Nexode 65W小型充電器,コンセント用のUSB充電器,https://gearnote.net/product-ugreen-nexode-65w-mini,,,,
+Galaxy 45W Power Adapter（Samsung純正）,コンセント用のUSB充電器,https://gearnote.net/product-samsung-galaxy-45w-power-adapter,45,,,82.57
+TORRAS FlashEye 2in1充電器,コンセント用のUSB充電器,https://gearnote.net/product-torras-flasheye-2in1-charger,45,,,80
+UGREEN 急速充電器 100W 巻き取り式ケーブル内蔵（2C1A）,コンセント用のUSB充電器,https://gearnote.net/product-ugreen-nexode-100w-retractable-charger,100,3,2,390
+UGREEN Uno ロボット型充電器,コンセント用のUSB充電器,https://gearnote.net/product-ugreen-uno-robot-charger,,3,2,146

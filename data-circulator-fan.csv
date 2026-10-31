@@ -1,13 +1,13 @@
-﻿商品名,区分,商品ページ,消費電力（メーカー表記の数字。幅のある機種は最大側、50/60Hzで違う機種は50Hz）(W),適用畳数（メーカー記載の目安。算出基準はメーカーごとに違う）(畳),風量の切り替え段階数(段階),質量(kg)
+﻿商品名,区分,商品ページ,消費電力（メーカー表記の数字。幅のある機種は最大側、50/60Hzで違う機種は50Hz）(W),適用畳数（メーカーが仕様欄に書いた目安）(畳),風量の切り替え段階数(段階),質量（メーカー記載の本体質量）(kg)
 シャープ サーキュレーター PK-S1801,サーキュレーター,https://gearnote.net/product-sharp-pk-s1801,21,30,10,2.6
-アイリスオーヤマ サーキュレーター AZ-SDC15TEC-W（DCモーター）,サーキュレーター,https://gearnote.net/product-iris-ohyama-circulator-dc-28,,,,2
+アイリスオーヤマ サーキュレーター AZ-SDC15TEC-W（DCモーター）,サーキュレーター,https://gearnote.net/product-iris-ohyama-circulator-dc-28,,,,
 アイリスオーヤマ サーキュレーター PCF-MKD15EC-W,サーキュレーター,https://gearnote.net/product-iris-ohyama-circulator-pcfmkd15ec,14,10,5,1.2
-COMFEE' サーキュレーター 28畳 リモコン付き,サーキュレーター,https://gearnote.net/product-comfee-circulator-28jo,,,9,2.01
-アイリスオーヤマ サーキュレーター DCモーター AZ-SDS15TEC-W,サーキュレーター,https://gearnote.net/product-iris-ohyama-circulator-az-sds15tec-w,,,5,2
+COMFEE' サーキュレーター 28畳 リモコン付き,サーキュレーター,https://gearnote.net/product-comfee-circulator-28jo,,,,
+アイリスオーヤマ サーキュレーター DCモーター AZ-SDS15TEC-W,サーキュレーター,https://gearnote.net/product-iris-ohyama-circulator-az-sds15tec-w,,,,
 SwitchBot サーキュレーター Lite DCモーター 静音 首振り,サーキュレーター,https://gearnote.net/product-switchbot-circulator-lite,,,,
 SwitchBot サーキュレーター2 プロ マットブラック コードレス DCモーター,サーキュレーター,https://gearnote.net/product-switchbot-circulator-2-pro-matte-black,,,,2.1
-コイズミ 洗えるサーキュレーター ACモーター KCF-1564/W（ホワイト）,サーキュレーター,https://gearnote.net/product-koizumi-washable-circulator-ac-kcf-1564-w,,,3,1.4
-山善 洗えるサーキュレーター 18畳 YAS-DU18(W)（ホワイト）,サーキュレーター,https://gearnote.net/product-yamazen-washable-circulator-yas-du18-w,,,3,1.8
+コイズミ 洗えるサーキュレーター ACモーター KCF-1564/W（ホワイト）,サーキュレーター,https://gearnote.net/product-koizumi-washable-circulator-ac-kcf-1564-w,,,,
+山善 洗えるサーキュレーター 18畳 YAS-DU18(W)（ホワイト）,サーキュレーター,https://gearnote.net/product-yamazen-washable-circulator-yas-du18-w,,,,
 アイリスオーヤマ WOOZOO サーキュレーター 360 barrel PCF-CD15TECA-TU,サーキュレーター,https://gearnote.net/product-irisohyama-woozoo-360-barrel-circulator-pcf-cd15teca-tu,22,32,8,2
 シロカ 3Dサーキュレーター Japandi SF-15A221(TR) 煤色（モカブラウン）,サーキュレーター,https://gearnote.net/product-siroca-3d-circulator-japandi-sf-15a221-tr,24,23,8,1.95
 アイリスオーヤマ サーキュレーター マカロン PCF-MKM15N,サーキュレーター,https://gearnote.net/product-irisohyama-circulator-macaron-pcfmkm15n,28,8,3,1.1
@@ -15,14 +15,18 @@ SwitchBot サーキュレーター2 プロ マットブラック コードレス
 ツインバード サーキュレーター KJ-D783W ホワイト（首振りなし・角度調整）,サーキュレーター,https://gearnote.net/product-twinbird-circulator-kj-d783w-8jo,15,,4,2.6
 山善 洗えるサーキュレーター 18畳 DCモーター YAR-TRD15E(C) グレージュ,サーキュレーター,https://gearnote.net/product-yamazen-circulator-yar-trd15e-c-18jo,16,18,7,1.4
 バルミューダ ザ・グリーンファン DCモーター扇風機 静音 省エネ 日本製,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-balmuda-the-greenfan-egf-1800-wg,20,,4,4.1
-Levoit(レボイト) 扇風機 タワーファン 静音 DCモーター 羽なし,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-levoit-tower-fan-dc-ltf-f362-wjp,28,,12,3.8
+Levoit(レボイト) 扇風機 タワーファン 静音 DCモーター 羽なし,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-levoit-tower-fan-dc-ltf-f362-wjp,28,,,3.8
 Dyson Cool CF1 扇風機,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-dyson-cool-cf1,30,,,1.8
 シロカ DC 扇風機 リビング サーキュレーター SF-C151,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-siroca-dc-fan-circulator-sf-c151,24,,8,2.5
-Amazonベーシック リビング扇風機 DCモーター 羽根直径30cm,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-amazonbasics-living-fan-dc-30cm,,,5,
-ドウシシャ Kamomefan +c lite K-F25AYSI,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-doshisha-kamomefan-pluscl-lite-kf25aysi,,,,2.2
+Amazonベーシック リビング扇風機 DCモーター 羽根直径30cm,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-amazonbasics-living-fan-dc-30cm,,,,
+ドウシシャ Kamomefan +c lite K-F25AYSI,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-doshisha-kamomefan-pluscl-lite-kf25aysi,,,,
 コイズミ 扇風機 KLF-3053,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-koizumi-dc-fan-klf3053,21,,8,2.3
-Levoit 羽根なしタワーファン ミニ LTF-F132-WJP,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-levoit-tower-fan-mini-ltff132,,,,1.2
+Levoit 羽根なしタワーファン ミニ LTF-F132-WJP,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-levoit-tower-fan-mini-ltff132,,,,
 TOSHIBA(東芝) リビング扇風機 DCモーター 静音 リモコン付 7枚羽根,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-toshiba-living-fan-dc-tf-30dl28a,,,,
-山善 リビング扇風機 コンパクト収納 DCモーター AHX-FGD301,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-yamazen-living-fan-dc-ahxfgd301,19,,8,3.3
+山善 リビング扇風機 コンパクト収納 DCモーター AHX-FGD301,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-yamazen-living-fan-dc-ahxfgd301,19,,8,
+Shark FlexBreeze FA222J,扇風機（リビング・タワー・羽根なしなど）,https://gearnote.net/product-shark-flexbreeze-fa222j,,,6,5.5
 ドウシシャ 携帯扇風機 ジェントルファン 2電源,小型ファン（USB・充電式）,https://gearnote.net/product-doshisha-gentle-fan-pieria-portable,1.8,,,0.15
-ドウシシャ 卓上扇風機 スリムコンパクトファン 3電源,小型ファン（USB・充電式）,https://gearnote.net/product-doshisha-pieria-slim-compact-fan-3power,2.7,,3,0.3
+ドウシシャ 卓上扇風機 スリムコンパクトファン 3電源,小型ファン（USB・充電式）,https://gearnote.net/product-doshisha-pieria-slim-compact-fan-3power,2.7,,,0.3
+Shark FlexBreeze HydroGo,小型ファン（USB・充電式）,https://gearnote.net/product-shark-flexbreeze-hydrogo-fan,,,6,2
+リズム(RHYTHM) 卓上扇風機 [国内メーカー] 静音 小型 USB給電式,小型ファン（USB・充電式）,https://gearnote.net/product-rhythm-silky-wind-mini-9zf038rh82,,,2,0.29
+【Toffy/トフィー】 極かるハンズフリーファン HFN3 超軽量,小型ファン（USB・充電式）,https://gearnote.net/product-toffy-hands-free-fan-hfn3,,,3,0.07
