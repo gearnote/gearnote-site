@@ -16727,7 +16727,7 @@ const RANKING_POOL = [
   },
   {
     name: "不二貿易 ランドリーバスケット スリム アイボリー 洗濯カゴ 折りたたみ 取っ手付き 内側撥水加工 32810",
-    excerpt: "折りたためるスリムタイプのランドリーボックス。コットン素材でアイボリーのワンポイントデザイン、取っ手付きで、内側撥水加工の記載があります。",
+    excerpt: "折りたためるスリムタイプのランドリーボックス。麻・綿・ポリエステルの混紡素材（メーカー公式ページの記載）でアイボリーのワンポイントデザイン、取っ手付きで、内側撥水加工の記載があります。",
     img: "https://m.media-amazon.com/images/I/71b5AGg8NhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B01N0UT0X6?tag=hide0122-22",
     page: "product-fujiboeki-laundry-box-slim-ivory-32810.html",
