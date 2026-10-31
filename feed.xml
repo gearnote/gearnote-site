@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 04:48:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 05:08:36 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -218,6 +218,13 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>（まとめ買い）ペットプロ 純国産 しっとりささみ 薄切り 40g【×20】 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-petpro-sasami-usugiri-40g20</link>
+    <guid isPermaLink="true">https://gearnote.net/product-petpro-sasami-usugiri-40g20</guid>
+    <description>（まとめ買い）ペットプロ 純国産 しっとりささみ 薄切り 40g【×20】の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>レック(LEC) アンパンマン 2WAYミルクケース の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-lec-anpanman-2way-milkcase</link>
     <guid isPermaLink="true">https://gearnote.net/product-lec-anpanman-2way-milkcase</guid>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/compare-zebra-blen-vs-pilot-acro1000-vs-pentel-energel-knock</link>
     <guid isPermaLink="true">https://gearnote.net/compare-zebra-blen-vs-pilot-acro1000-vs-pentel-energel-knock</guid>
     <description>ゼブラ ブレン・パイロット アクロ1000・ぺんてる エナージェル ノック式の黒0.5mmボールペンの違いを、インクの種類・サイズ・重量・材質の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ボールペン・シャープペン・筆記具の選び方ガイド｜インクの種類・ボール径・替芯・万年筆・蛍光ペンの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-pen</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-pen</guid>
-    <description>ゲルインクと油性ボールペンの違い、ボール径0.38mm・0.5mmなどの太さ、ノック式とキャップ式、替芯の規格、シャープペンや鉛筆、万年筆、蛍光ペンの見方を、当サイト掲載の三菱鉛筆・ゼブラ・パイロット・ぺんてる・LAMYなどの記載値とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
