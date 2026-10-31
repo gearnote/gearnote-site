@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 17:03:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 17:15:51 +0000</lastBuildDate>
+  <item>
+    <title>アテント パンツM 昼1枚安心パンツ 長時間快適プラス 24枚 5回吸収 男女共用【大容量】</title>
+    <link>https://gearnote.net/product-attento-pants-m-hiru1mai-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-attento-pants-m-hiru1mai-24</guid>
+    <description>大王製紙アテントの、昼間の使用を想定したMサイズ・男女共用の紙パンツ。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ライフリー 大人用おしりふき 超大判スッキリ 60枚 20cm ×25cm</title>
+    <link>https://gearnote.net/product-lifree-oshirifuki-chodaihan-sukkiri-60</link>
+    <guid isPermaLink="true">https://gearnote.net/product-lifree-oshirifuki-chodaihan-sukkiri-60</guid>
+    <description>ユニ・チャームのライフリーの大人用おしりふき。シートサイズは20cm×25cmの超大判タイプで、60枚入りです。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>CORONA 石油ストーブ</title>
     <link>https://gearnote.net/product-corona-sekiyu-stove-sx-eb24y-w-portable-4l</link>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-google-pixel-watch-5-41mm-matte-black-wifi</link>
     <guid isPermaLink="true">https://gearnote.net/product-google-pixel-watch-5-41mm-matte-black-wifi</guid>
     <description>Googleのスマートウォッチ「Pixel Watch 5」の41mm・Matte Black（アルミケース）・Wi-Fiモデルです。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Toffy Mistal パーソナルLED加湿器 HF15-CG（シャンパンゴールド）</title>
-    <link>https://gearnote.net/product-toffy-mistal-personal-led-humidifier-hf15-cg-champagne-gold</link>
-    <guid isPermaLink="true">https://gearnote.net/product-toffy-mistal-personal-led-humidifier-hf15-cg-champagne-gold</guid>
-    <description>Toffy（トフィー／ラドンナ）のパーソナルLED加湿器「Mistal」、型番HF15（HF15-CG・シャンパンゴールド・2026年モデル）です。</description>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 セラミックファンヒーター YKDSF-VD121(C)（人感・温度Wセンサー）</title>
-    <link>https://gearnote.net/product-yamazen-ceramic-fan-heater-ykdsf-vd121-c-dual-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-ykdsf-vd121-c-dual-sensor</guid>
-    <description>山善のセラミックファンヒーター、型番YKDSF-VD121(C)（公式サイトの色表記はグレージュ）です。</description>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

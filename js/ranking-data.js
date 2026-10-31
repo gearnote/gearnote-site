@@ -29460,4 +29460,18 @@ const RANKING_POOL = [
     link: "https://www.amazon.co.jp/dp/B0HCL4HK54?tag=hide0122-22",
     page: "product-zojirushi-electric-kettle-ck-ja08am-wz-ecru-08l.html",
   },
+  {
+    name: "ライフリー 大人用おしりふき 超大判スッキリ 60枚 20cm ×25cm",
+    excerpt: "20cm×25cmの超大判タイプの大人用おしりふき。60枚入り。ヒアルロン酸配合、ノンアルコール・無香料・パラベン無配合とメーカーが案内しています。トイレには流せません。",
+    img: "https://m.media-amazon.com/images/I/61djk8nogkL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B016645YQI?tag=hide0122-22",
+    page: "product-lifree-oshirifuki-chodaihan-sukkiri-60.html",
+  },
+  {
+    name: "アテント パンツM 昼1枚安心パンツ 長時間快適プラス 24枚 5回吸収 男女共用【大容量】",
+    excerpt: "Mサイズ（ウエストまわり60〜95cm）・男女共用の紙パンツ。約5回分の吸収量の目安、背モレ防止ポケット、全面通気性シートを備えます。24枚入り。",
+    img: "https://m.media-amazon.com/images/I/71njahhBrkL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B08W1T8448?tag=hide0122-22",
+    page: "product-attento-pants-m-hiru1mai-24.html",
+  },
 ];

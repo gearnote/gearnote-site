@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 17:03:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 17:15:39 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -99,10 +99,24 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ドリテック 勉強タイマー タイムアップ2の特徴・選び方｜GEARNOTE</title>
+    <title>ドリテック ラーニングタイマー T-587PK3 消音の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-dretec-benkyo-timer-timeup2-pink</link>
     <guid isPermaLink="true">https://gearnote.net/product-dretec-benkyo-timer-timeup2-pink</guid>
     <description>ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587PK3 ピンクの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ライフリー 大人用おしりふき 超大判スッキリ 60枚 20cm ×25cm の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-lifree-oshirifuki-chodaihan-sukkiri-60</link>
+    <guid isPermaLink="true">https://gearnote.net/product-lifree-oshirifuki-chodaihan-sukkiri-60</guid>
+    <description>ライフリー 大人用おしりふき 超大判スッキリ 60枚 20cm ×25cmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アテント パンツM 昼1枚安心パンツ 長時間快適プラス 24枚 5回吸収 男女共用【大容量】 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-attento-pants-m-hiru1mai-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-attento-pants-m-hiru1mai-24</guid>
+    <description>アテント パンツM 昼1枚安心パンツ 長時間快適プラス 24枚 5回吸収 男女共用【大容量】の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-anker-powerline-iii-flow</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-powerline-iii-flow</guid>
     <description>Anker PowerLine III Flow USB-C&amp;USB-Cケーブル 1.8mの特徴を整理。メリット・デメリットと、向いている人をまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore 2 スピーカーの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-2</guid>
-    <description>Anker Soundcore 2 ポータブルBluetoothスピーカーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Zolo Power Bank の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-zolo-power-bank</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-zolo-power-bank</guid>
-    <description>Anker Zolo Power Bank（10K, 30W, ケーブル一体型）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
