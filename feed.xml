@@ -6,7 +6,35 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 04:37:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 04:48:45 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>HARIO コーヒースケール ポラリス CST-2000-B の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hario-coffee-scale-polaris-cst2000b</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hario-coffee-scale-polaris-cst2000b</guid>
+    <description>HARIOコーヒースケール ポラリス(CST-2000-B)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>文房具おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-stationery</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-stationery</guid>
+    <description>ユニボールシグノ RT1・フリクションライト・トンボ色鉛筆を徹底比較。各商品の特徴をもとに、用途別におすすめの定番文房具を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>マキタ 充電式ドライバドリル DF333DZ の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-makita-df333d-driver-drill</link>
@@ -19,6 +47,27 @@
     <link>https://gearnote.net/product-makita-mp180-air-pump</link>
     <guid isPermaLink="true">https://gearnote.net/product-makita-mp180-air-pump</guid>
     <description>マキタ(Makita) 充電式空気入れ18V 米英仏バルブ&amp;ボール浮き輪バルブ付 MP180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dickies 85283 ダブルニーパンツの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dickies-doubleknee-85283</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dickies-doubleknee-85283</guid>
+    <description>ディッキーズ ワークパンツ ダブルニー 85283の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シマノ（SHIMANO）の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-shimano</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-shimano</guid>
+    <description>シマノ（SHIMANO）製品の特徴、PEラインやリール用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>サンリオ サンリオキャラクターズ シール&amp;ケースセット 401650 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sanrio-characters-seal-case-set-401650</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sanrio-characters-seal-case-set-401650</guid>
+    <description>サンリオ サンリオキャラクターズ シール&amp;ケースセット 401650の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -64,10 +113,73 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ネスカフェ ゴールドブレンド エコ&amp;システムパックの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nescafe-gold-blend-eco-system-pack-95g2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nescafe-gold-blend-eco-system-pack-95g2</guid>
+    <description>ネスカフェ ゴールドブレンド エコ&amp;システムパック 95gの特徴を整理。詰め替えタイプのインスタントコーヒーの選び方、メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ジョージア エメラルドマウンテンブレンド 185ml缶×30本の特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-georgia-emerald-mountain-blend-185-30</link>
+    <guid isPermaLink="true">https://gearnote.net/product-georgia-emerald-mountain-blend-185-30</guid>
+    <description>ジョージア エメラルドマウンテンブレンド 185ml缶×30本の原材料・栄養成分・特徴を整理。他の缶コーヒーとの違いの見方もまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>山崎実業 冷蔵庫中 缶ストッカー S tower ホワイト 1479 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-yamazaki-can-stocker-s-1479</link>
     <guid isPermaLink="true">https://gearnote.net/product-yamazaki-can-stocker-s-1479</guid>
     <description>山崎実業 冷蔵庫中 缶ストッカー S tower ホワイト 1479の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>岩塚製菓 田舎のおかきの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iwatsuka-inakanookaki-shoyu-32</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iwatsuka-inakanookaki-shoyu-32</guid>
+    <description>岩塚製菓 田舎のおかき まろやか醤油味32本セットの原材料・内容量を整理。メリット・デメリット、亀田の柿の種との違いをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>亀田製菓 亀田の柿の種 180g×6袋の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kameda-kakinotane-180g6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kameda-kakinotane-180g6</guid>
+    <description>亀田製菓 亀田の柿の種6袋詰 180g×6袋（Amazon.co.jp限定）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ(IRIS OHYAMA) 段ボールBOX DB-M5 10枚セット の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-cardboard-box-dbm5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-cardboard-box-dbm5</guid>
+    <description>引っ越しや荷物の梱包に使える段ボール箱。Mサイズが10枚セットになっています。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ゼブラ 油性ボールペン ブレン 0.5mm 白軸 黒インク 5本組 P-BAS88-W5 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-zebra-blen-05-white-black5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-zebra-blen-05-white-black5</guid>
+    <description>低重心・ダイレクトタッチ・ノイズフリー設計の油性ボールペン ブレン。0.5mm・白軸・黒インクの5本組です。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Pilot 油性ボールペン アクロ1000 0.5mm【ブラック】 BAC-1SEF-B の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-pilot-acro1000-05-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-pilot-acro1000-05-black</guid>
+    <description>なめらかな筆記が特長のアクロインキを採用した、スリムな油性ボールペン。0.5mm・ブラック軸です。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コクヨ ファイル ドキュメントケース ハイハード A4 黒 クケ-734D の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kokuyo-documentcase-highhard-a4-734d</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kokuyo-documentcase-highhard-a4-734d</guid>
+    <description>折りたたみ取っ手付きのA4書類ケース。フラットファイルや個別フォルダーが収まる、PP製のハードタイプです。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SANKO 北海道ソフトチモシー チモシー牧草(2番刈り)600g の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sanko-hokkaido-softtimothy-2nd-600g</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sanko-hokkaido-softtimothy-2nd-600g</guid>
+    <description>SANKO 北海道ソフトチモシー チモシー牧草(2番刈り)600gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -113,10 +225,24 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アガツマ アンパンマン はじめてのキッズタブレットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-agatsuma-anpanman-first-kids-tablet</link>
+    <guid isPermaLink="true">https://gearnote.net/product-agatsuma-anpanman-first-kids-tablet</guid>
+    <description>アガツマ アンパンマン はじめてのキッズタブレットの特徴を整理。対象年齢1歳半以上、あいうえお学習・全5曲のメロディなどの仕様をまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Audioengine A2+ Next Genの特徴・デメリット｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-audioengine-a2-plus-next-gen</link>
     <guid isPermaLink="true">https://gearnote.net/product-audioengine-a2-plus-next-gen</guid>
     <description>Audioengine A2+ Next Genの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>年末年始ギフト特集｜家族・友人・自分へ、贈る相手別に選ぶ｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-year-end-gift-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-year-end-gift-2026</guid>
+    <description>年末年始の贈り物を、贈る相手・場面別にまとめた特集。家族への実用品、食べ物・飲み物、リラックス用品、お子さま・ベビー向け、ペット、ガジェット、文房具・手帳、ゲームまで、選び方の考え方と贈るときの注意つきで紹介します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -127,10 +253,31 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>3M スコッチ 超強力両面テープの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-3m-scotch-premiumgold-tape-25mm</link>
+    <guid isPermaLink="true">https://gearnote.net/product-3m-scotch-premiumgold-tape-25mm</guid>
+    <description>3M スコッチ 超強力両面テープ プレミアゴールド スーパー多用途 粗面用 幅25mm長さ1m KPR-25Rの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>マテルゲーム(Mattel Game) ブロックス(Blokus) ブロックス の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-blokus-board-game</link>
+    <guid isPermaLink="true">https://gearnote.net/product-blokus-board-game</guid>
+    <description>マテルゲーム ブロックス(Blokus) ボードゲームの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>トラスコ中山(TRUSCO) THC型コンテナ ボックス型コンテナ グレー THC-24B-GYの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-trusco-thc-box-container-gray</link>
     <guid isPermaLink="true">https://gearnote.net/product-trusco-thc-box-container-gray</guid>
     <description>トラスコ中山 THC型コンテナの特徴を整理。ボックス型収納ケースのメリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シマノ(SHIMANO) エギングロッド 21 セフィア エクスチューン S86MHの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-shimano-egingrod-sephia-extune-s86mh</link>
+    <guid isPermaLink="true">https://gearnote.net/product-shimano-egingrod-sephia-extune-s86mh</guid>
+    <description>シマノ(SHIMANO) エギングロッド 21 セフィア エクスチューン S86MHの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -141,6 +288,13 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>コーヒーメーカーの選び方ガイド｜ドリップ式・ミル付き・エスプレッソの違い｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-coffee-maker</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-coffee-maker</guid>
+    <description>コーヒーメーカーのタイプ（ドリップ式・ミル内蔵・エスプレッソ・手動）の違いと、杯数・抽出温度・蒸らし・サーバーと保温・お手入れといった仕様の見方を、使う場面別に解説します。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>アイリスプラザ こたつ掛布団 長方形 180×220cm 省スペース グレージュ の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-iris-plaza-kotatsu-futon-180x220-greige</link>
     <guid isPermaLink="true">https://gearnote.net/product-iris-plaza-kotatsu-futon-180x220-greige</guid>
@@ -148,213 +302,59 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>マキタ DF333DZ・HiKOKI DS12DA・アイリスオーヤマ JCD28の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-makita-df333d-vs-hikoki-ds12da-vs-irisohyama-jcd28</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-makita-df333d-vs-hikoki-ds12da-vs-irisohyama-jcd28</guid>
-    <description>マキタ DF333DZ・HiKOKI DS12DA・アイリスオーヤマ JCD28の違いを、付属品・トルク・回転数・クラッチ・質量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <title>THANKO サイズ調整できる ヒーターベスト HEAT25SBK ブラック 男女兼用 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-thanko-heater-vest-heat25sbk</link>
+    <guid isPermaLink="true">https://gearnote.net/product-thanko-heater-vest-heat25sbk</guid>
+    <description>THANKO サイズ調整できる ヒーターベスト HEAT25SBK ブラック 男女兼用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>電動ドライバー・ドリルドライバー・ミニルーターの選び方ガイド｜トルク・回転数・電圧・バッテリー・チャックの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-electric-driver</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-electric-driver</guid>
-    <description>精密電動ドライバー、家具組み立て向けの電動ドライバー、ドリルドライバー、インパクトドライバー、ミニルーターの違いと、トルク(N・m)・回転数・電圧・バッテリー容量・チャック径・クラッチ段数といった仕様表の見方を、当サイト掲載のFanttik・ボッシュ・マキタ・HiKOKI・アイリスオーヤマ・WORKPROの記載値とあわせて解説します。</description>
+    <title>タリーズコーヒー シアトルスタイル ブラック 無糖 500ml ペットボトル の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-itoen-tullys-seattle-style-black-unsweetened-500ml</link>
+    <guid isPermaLink="true">https://gearnote.net/product-itoen-tullys-seattle-style-black-unsweetened-500ml</guid>
+    <description>タリーズコーヒー シアトルスタイル ブラック 無糖 500ml ペットボトルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>クーラーボックス・保冷バッグ・ポータブル冷蔵庫の選び方ガイド｜容量・保冷時間・断熱構造・電源・温度設定の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-cooler-box</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-cooler-box</guid>
-    <description>ハードタイプのクーラーボックス、折りたたみのソフトクーラー、保冷剤、コンプレッサー式のポータブル冷蔵庫の違いと、容量(L)・I-CE値・断熱構造・電源・温度設定・運転音といった仕様表の見方を、当サイト掲載のコールマン・シマノ・サーモス・キャプテンスタッグ・Alpicool・アイリスオーヤマなどの記載値とあわせて解説します。</description>
+    <title>ネスカフェ エクセラ インスタントコーヒー 150g（75杯分・瓶） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nescafe-excella-instant-coffee-150g-75cups</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nescafe-excella-instant-coffee-150g-75cups</guid>
+    <description>ネスカフェ エクセラ インスタントコーヒー 150g（75杯分・瓶）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>折りたたみ傘・長傘・日傘の選び方ガイド｜親骨・重さ・骨数・開閉方式・撥水・UVカットの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-umbrella</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-umbrella</guid>
-    <description>折りたたみ傘と長傘、日傘（晴雨兼用）の違い、親骨の長さや直径、重さ、骨数と骨の素材、手開きと自動開閉、撥水加工、UVカット率の見方を、当サイト掲載のBLUNT・MOONBAT・Wpc.・KIZAWA・Yomao・芦屋ロサブランなどの記載値とあわせて解説します。</description>
+    <title>サントリー スターバックス ブラック無糖 ボトル缶コーヒー 380g×24本 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-suntory-starbucks-black-unsweetened-bottle-can-coffee-380g-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-suntory-starbucks-black-unsweetened-bottle-can-coffee-380g-24</guid>
+    <description>サントリー スターバックス ブラック無糖 ボトル缶コーヒー 380g×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ヨガマット・ストレッチ用品の選び方ガイド｜厚み・素材・サイズ・収納・ブロック・フォームローラーの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-yoga-mat</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-yoga-mat</guid>
-    <description>ヨガマットの厚み（5mm・8mm・10mm・12mm）と素材（NBR・TPE・PVC）、サイズと重量、折りたたみやケースの見方に加え、ヨガブロック、ストレッチポール、フォームローラー、バランスボール、ピラティスリング、ストレッチバンドまで、当サイト掲載の商品の記載値とあわせて解説します。</description>
+    <title>犬用リード・ハーネス・首輪の選び方ガイド｜サイズ・適応体重・素材・長さの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-dog-leash</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-dog-leash</guid>
+    <description>犬の散歩に使うリード、ハーネス、首輪について、首輪とハーネスの違い、適応体重とサイズ表記の読み方、素材、固定リードと伸縮リードの長さ、反射素材やLEDライトなど夜の視認性まで、当サイトに掲載しているペティオ・フレキシ・OneTigris・Rikopinなどの記載値とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ベビーゲート・ベビーサークル・安全対策用品の選び方ガイド｜取り付け方式・設置幅・高さ・開閉・対象月齢の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-baby-gate</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-baby-gate</guid>
-    <description>ベビーゲートの突っ張り式・ネジ固定式・置くだけ自立式の違い、設置幅と高さ、自動で閉まる扉、対象月齢、安全規格（EN1930）の見方に加え、ベビーサークル、コンセントガード、コーナーガード、引き出しロックまで、当サイト掲載のベビーダン・カトージ・リッチェルなどの記載値とあわせて解説します。</description>
+    <title>土鍋・せいろ・ココット鍋の選び方ガイド｜号数と容量・対応熱源・素材・お手入れの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-donabe</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-donabe</guid>
+    <description>土鍋の号数と人数の目安、直火・IH・電子レンジ・オーブンといった対応熱源の読み方、耐熱陶器・ホーロー・鋳物・木製せいろの素材の違い、サイズと重さ、お手入れの注意点を、当サイト掲載の銀峯・イシガキ・KINTO・和平フレイズ・ケユカ・富士ホーロー・キャプテンスタッグなどの記載値とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>スマホ用ガラスフィルムの選び方ガイド｜硬度・厚さ・光沢とマット・覗き見防止・貼り付け方式の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-glass-film</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-glass-film</guid>
-    <description>スマートフォン用ガラスフィルムの選び方を、対応機種、硬度（9H・10H・モース硬度）、厚さ、光沢とマット（反射防止）、覗き見防止、枚数、貼り付けツール、カメラレンズ用フィルムまで解説します。当サイト掲載のBelkin・エレコム・Spigen・TORRAS・NIMASOなどの記載値を使っています。</description>
+    <title>ゼブラ ブレン・パイロット アクロ1000・ぺんてる エナージェル ノック式の黒0.5mmボールペンの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-zebra-blen-vs-pilot-acro1000-vs-pentel-energel-knock</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-zebra-blen-vs-pilot-acro1000-vs-pentel-energel-knock</guid>
+    <description>ゼブラ ブレン・パイロット アクロ1000・ぺんてる エナージェル ノック式の黒0.5mmボールペンの違いを、インクの種類・サイズ・重量・材質の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Anker PowerLine III Flow・Anker Zolo・Belkin BoostCharge Proの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-anker-powerline-iii-flow-vs-zolo-vs-belkin-boostcharge-usbc-cable</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-anker-powerline-iii-flow-vs-zolo-vs-belkin-boostcharge-usbc-cable</guid>
-    <description>Anker PowerLine III Flow・Anker Zolo・Belkin BoostCharge Proの違いを、出力・長さ・素材・耐久性の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>財布・カードケース・キーケースの選び方ガイド｜長財布と二つ折り・素材・開閉方式・収納数の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-wallet</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-wallet</guid>
-    <description>長財布・二つ折り・三つ折り・カードケース・キーケースの違い、牛革・豚革・帆布・ナイロンなど素材の見方、ラウンドファスナーやホックなど開閉方式、カードスロット数やキーフック数の読み方を、当サイト掲載のPORTER・カステルバジャック・Calvin Klein・Levi&#x27;s・Dickies・Kawaotoなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>リュック・バックパックの選び方ガイド｜容量・PC収納・サイズ・重量・撥水・背面のつくりの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-backpack</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-backpack</guid>
-    <description>通勤用のビジネスリュック、小型のデイパック、2WAY、登山・スポーツ向けの大容量バックパックの違い、容量（L）・外寸・重量・PC/A4/B4収納・気室・撥水加工・背面長といった項目の見方を、当サイト掲載のPORTER・ace.GENE・Kanana project・Karrimor・Columbia・New Balanceなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ショルダーバッグ・トートバッグ・サコッシュの選び方ガイド｜サイズ・容量・重量・撥水・開口部の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-shoulder-bag</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-shoulder-bag</guid>
-    <description>ショルダーバッグ、ボディバッグ、サコッシュ、トートバッグ、ビジネスバッグの違い、外寸・容量（L）・重量・A4/B4/タブレット収納・開口部・ポケット・撥水加工の見方を、当サイト掲載のPORTER・ace.GENE・Kanana project・Columbia・Championなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>保存容器・弁当箱・スープジャーの選び方ガイド｜材質・容量・電子レンジ・食洗機・保温効力・密閉性の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-food-storage</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-food-storage</guid>
-    <description>保存容器・弁当箱・ランチジャー・スープジャーの選び方を、ガラスと樹脂の違い、容量とサイズ、電子レンジや食洗機の使用可否の読み方、密閉性、保温効力と保冷効力といった項目から解説します。当サイトに掲載しているHARIO・iwaki・野田琺瑯・OXO・タイガーなどの記載値を使っています。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>洗濯物干し・ハンガー・ハンガーラックの選び方ガイド｜ピンチ数・耐荷重・使用時と収納時のサイズ・つっぱり式の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-laundry-hanger-rack</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-laundry-hanger-rack</guid>
-    <description>洗濯物干し、角ハンガー、洗濯バサミ、ハンガー、ハンガーラック、つっぱり棒の選び方を、ピンチ数、耐荷重、使用時と収納時のサイズ、取り付けタイプ、つっぱり式の注意点といった項目から解説します。当サイトに掲載しているアイリスオーヤマ・平安伸銅工業・山善などの記載値を使っています。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>工具箱・コンテナボックスの選び方ガイド｜外形寸法・有効内寸・質量・積載荷重・折りたたみ高さの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-toolbox-container</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-toolbox-container</guid>
-    <description>スチール製の工具箱、樹脂製のハードケース、ツールバッグ、折りたたみコンテナ、ボックス型コンテナの違いと、外形寸法・有効内寸・質量・最大積載荷重・折りたたみ高さ・南京錠の取付可否といった仕様表の見方を、当サイト掲載のトラスコ中山・リス・松本産業の記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゲーム機周辺機器（Switch 2・PS5）の選び方ガイド｜ケース・充電・カメラ・ヘッドセット・リモートプレーヤーの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-game-accessories</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-game-accessories</guid>
-    <description>Nintendo Switch 2とPS5まわりの周辺機器を、対応機種、収納できるゲームカードの枚数、充電グリップとACアダプターの出力、カメラの画角、ヘッドセットの仕様、PlayStation Portalの通信環境といった項目から解説します。当サイト掲載の任天堂・HORI・PowerA・ソニー・エレコムなどの記載値を使っています。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>食器・箸・カトラリーの選び方ガイド｜材質・サイズ・容量・食洗機と電子レンジの対応表記の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-tableware</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-tableware</guid>
-    <description>茶碗・皿・椀・箸・スプーン・フォークなどの食器の選び方を、材質（磁器・耐熱陶器・木製・ステンレス）、直径や容量、食洗機・電子レンジ・オーブンの対応表記、ステンレスの種類（18-8・18-0）といった項目から解説します。当サイト掲載の波佐見焼・燕三条・漆器などの記載値を使っています。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キッチンツール（調理器具・製菓道具）の選び方ガイド｜まな板・ボウル・計量・おろし器・ヘラの材質と耐熱温度の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-kitchen-tools</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-kitchen-tools</guid>
-    <description>まな板、ボウルとザル、計量カップ、おろし器、スライサー、ピーラー、ヘラ、製菓型などのキッチンツールの選び方を、材質、サイズ、耐熱温度、食洗機・電子レンジの対応、刃の形といった項目から解説します。当サイト掲載の貝印・ナガオ・山崎実業・マーナなどの記載値を使っています。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>哺乳びん・消毒ケース・調乳用品の選び方ガイド｜素材・容量・乳首サイズ・消毒方法の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-baby-bottle</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-baby-bottle</guid>
-    <description>哺乳びんのプラスチック製とガラス製の違い、容量、乳首のサイズ展開、電子レンジ消毒ケースとスチーム除菌・乾燥器の仕様、哺乳瓶ブラシ、調乳ポット、母乳フリーザーパックの見方を、当サイト掲載のピジョン・コンビ・NUK・レックなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>登山・トレッキング用品の選び方ガイド｜ポール・レインウェア・ヘッドランプ・浄水器・アイゼン・ドライバッグの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-trekking-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-trekking-gear</guid>
-    <description>トレッキングポールの長さと収納サイズ、レインウェアの耐水圧と透湿性、ヘッドランプのルーメンと点灯時間、携帯浄水器の方式、アイゼンの爪の本数、ドライバッグの容量といった項目の見方を、当サイト掲載のミズノ・モンベル・PETZL・カリマー・コールマンなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>自転車用品の選び方ガイド｜ライト・ヘルメット・鍵・携帯工具・チェーンメンテナンス・サイクルコンピューターの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-bicycle-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-bicycle-gear</guid>
-    <description>自転車用ライトのルーメンと点灯時間、ヘルメットの頭囲サイズと認証、U字ロックの内径、チューブのバルブ形式、携帯工具の六角レンチ、チェーンルブとクリーナー、サイクルコンピューターの測位方式といった項目の見方を、当サイト掲載のキャットアイ・トピーク・OGK・パナソニック・KUREなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キャンプ道具の選び方ガイド｜テント・タープ・寝袋・マット・チェア・バーナー・焚き火台の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-camping-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-camping-gear</guid>
-    <description>テントの定員とインナーサイズ、耐水圧、タープの寸法、寝袋の使用可能温度とマミー型、マットのR値、チェアとテーブルの耐荷重、バーナーの発熱量と使用時間、焚き火台のサイズといった項目の見方を、当サイト掲載のコールマン・DOD・ソト・イワタニ・トランギアなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ギター用品・オーディオインターフェース・録音機材の選び方ガイド｜弦のゲージ・チューナー・サンプリングレート・バスパワーの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-music-recording-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-music-recording-gear</guid>
-    <description>ギター弦のゲージ、チューナーとカポ、練習用ヘッドホンアンプ、オーディオインターフェースの入力端子・サンプリングレート・バスパワー、ハンディレコーダー、ミキサー、MIDIキーボード、DJコントローラーの見方を、当サイト掲載のElixir・KORG・VOX・Fender・Steinberg・Focusrite・ZOOM・Yamaha・Pioneer DJなど15商品の記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DIY用の手工具の選び方ガイド｜ドライバーの規格・ソケットの差込角・プライヤーの口開き・のこぎりの刃・コンベックスの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-diy-hand-tools</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-diy-hand-tools</guid>
-    <description>ドライバーのプラス・マイナスのサイズ、ソケットレンチの差込角と対辺、プライヤーの口開き、のこぎりの刃渡り、クランプの締め幅、コンベックスやレーザー距離計の測定範囲まで、DIY用の手工具の仕様の見方を、当サイト掲載のベッセル・WORKPRO・タジマ・シンワ測定などの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>充電式・電動工具の選び方ガイド｜電圧とバッテリー・切込深さ・回転数・作業時間・質量・防じん防水の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-diy-power-tools</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-diy-power-tools</guid>
-    <description>充電式と電源コード式の違い、バッテリー別売の見方、10.8V・18V・36V（18V×2）の表記、切込深さや切断能力、回転数、1充電あたりの作業時間、質量、振動値、防じん・防水の見方を、当サイト掲載のマキタ・ボッシュ・京セラ・WORKPRO・Fanttikなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビーカー・抱っこ紐・チャイルドシートの選び方ガイド｜対象月齢・体重・身長・固定方式・サイズ・重量の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-baby-outing-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-baby-outing-gear</guid>
-    <description>ベビーカー、抱っこ紐、ベビースリング、ヒップシート、チャイルドシート、ジュニアシートと、レインカバーやフットマフなどの周辺用品の仕様の見方を、対象月齢・体重・身長の条件、固定方式、折りたたみサイズ、重量などの項目から解説します。当サイト掲載のコンビ・アップリカ・エルゴベビーなどのメーカー記載値を使っています。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>PC周辺のケース・ポーチ・ケーブル整理の選び方ガイド｜対応機種・内寸・撥水と防水・ケーブルトレー・スリーブの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-pc-case-cable</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-pc-case-cable</guid>
-    <description>MacBook用のスリーブケース・ハードケース・インナーケース、Apple Pencilのシリコンケース、ガジェットポーチ、デスク下のケーブルトレー、ケーブルスリーブ、デスクオーガナイザーの見方を、当サイト掲載のtomtoc・エレコム・AhaStyle・Tuoniton・NoetixCo・JOTO・JEJアステージの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バッグの選び方ガイド｜ボディバッグ・ウエストバッグ・トート・リュック・スーツケースのサイズ・容量・素材表記の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-bag-spec</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-bag-spec</guid>
-    <description>バッグの仕様表にある「横×縦×マチ」のサイズ表記、容量（L）、重量、素材（ポリエステル・ナイロン・帆布・牛革など）、気室とポケット、肩ひもの長さ、スーツケースのTSAロックや拡張マチの見方を、当サイト掲載のバッグの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>腕時計の選び方ガイド｜クォーツ・機械式・防水表記・ケース径・精度・バンド幅の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-wristwatch-spec</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-wristwatch-spec</guid>
-    <description>腕時計の仕様表にあるクォーツと機械式（自動巻き）の違い、平均月差・日差などの精度表記、ケースサイズ・厚み・質量、日常生活用防水と気圧防水の表記、バンド素材とバンド幅、時計ベルト・工具・収納ケースの見方を、当サイト掲載のカシオ・セイコー・オリエント・シチズンQ&amp;Qなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>寝具の選び方ガイド｜掛け布団・敷きパッド・シーツ・枕・マットレスのサイズ表記と素材の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-bedding</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-bedding</guid>
-    <description>シングル150×210cmなどのサイズ表記、ポリエステルや綿100%の素材、敷きパッドとボックスシーツの違い、枕の中材、抱き枕やマットレスの見方を、当サイトに掲載している帝人・西川・昭和西川・アイリスオーヤマなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>収納ラック・ワゴン・収納ケースの選び方ガイド｜サイズ表記・内寸・段数・耐荷重の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-storage-rack-case</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-storage-rack-case</guid>
-    <description>スチールラックやスリムワゴン、チェスト、不織布の衣類収納ケース、布団収納袋、圧縮袋、冷蔵庫の缶ストッカーまで、外寸と内寸の違い、段数、材質、耐荷重の読み方を、当サイトに掲載している山善・ドウシシャ・天馬・アストロ・山崎実業などの記載値とあわせて解説します。</description>
+    <title>ボールペン・シャープペン・筆記具の選び方ガイド｜インクの種類・ボール径・替芯・万年筆・蛍光ペンの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-pen</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-pen</guid>
+    <description>ゲルインクと油性ボールペンの違い、ボール径0.38mm・0.5mmなどの太さ、ノック式とキャップ式、替芯の規格、シャープペンや鉛筆、万年筆、蛍光ペンの見方を、当サイト掲載の三菱鉛筆・ゼブラ・パイロット・ぺんてる・LAMYなどの記載値とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
