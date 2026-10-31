@@ -21859,20 +21859,6 @@ const RANKING_POOL = [
     page: "product-whisper-ususara-anshin-300cc-18x3.html",
   },
   {
-    name: "ウィスパー レギュラー安心 ふつうの日用 30枚",
-    excerpt: "サイズ21cm、30枚入りの生理用ナプキン。ふつうの日の経血量に対応。",
-    img: "https://m.media-amazon.com/images/I/41kadOG6IFL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0012OPJ68?tag=hide0122-22",
-    page: "product-whisper-regular-anshin-futsuunohi-30.html",
-  },
-  {
-    name: "ウィスパー 立体カーブ 夜用 12コ入",
-    excerpt: "商品長28cmの大判サイズ夜用生理用ナプキン。フィットシャーリングで体の丸みにフィット。",
-    img: "https://m.media-amazon.com/images/I/51sRH2lljsL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B000FQOB5Y?tag=hide0122-22",
-    page: "product-whisper-rittai-curve-yoru-12.html",
-  },
-  {
     name: "ウィスパー うすさら安心 120cc 120枚(24枚×5パック)",
     excerpt: "中量用の吸収パッド。24枚×5パックのまとめ買い向けで、100ccより一段吸収量を高めた設計。",
     img: "https://m.media-amazon.com/images/I/71-DFlRXwPL._AC_SX300_.jpg",
