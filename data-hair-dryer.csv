@@ -1,8 +1,8 @@
-﻿商品名,区分,商品ページ,消費電力（範囲表記を除く）(W),風量（最大風量の運転時＝TURBO・強）(m³/分),質量（ノズル・付属品を除く）(g),電源コードの長さ(m)
+﻿商品名,区分,商品ページ,消費電力（範囲表記を除く）(W),風量（最大風量の運転時＝TURBO・強）(m³/分),質量（ノズルを除く）(g),電源コードの長さ(m)
 ナノケアドライヤー EH-NA0K,ヘアドライヤー,https://gearnote.net/product-panasonic-nanocare-dryer,1200,1.6,550,1.7
 シャープ IB-WX901,ヘアドライヤー,https://gearnote.net/product-sharp-ib-wx901,1200,7.4,515,1.7
 シャープ ヘアドライヤー IB-P801,ヘアドライヤー,https://gearnote.net/product-sharp-ib-p801,1200,5.1,545,1.7
-ReFaビューテックドライヤー,ヘアドライヤー,https://gearnote.net/product-refa-beautech-dryer,1150,,520,1.7
+ReFaビューテックドライヤー,ヘアドライヤー,https://gearnote.net/product-refa-beautech-dryer,1150,,,1.7
 Dyson Supersonic Travel ドライヤー,ヘアドライヤー,https://gearnote.net/product-dyson-supersonic-travel,,,,2
 SALONIA スピーディーイオン ドライヤー,ヘアドライヤー,https://gearnote.net/product-salonia-speedy-ion-dryer,1200,2.3,468,1.7
 コイズミ モノクローム ヘアドライヤー KHD-9322,ヘアドライヤー,https://gearnote.net/product-koizumi-monochrome-dryer-khd9322,,,,

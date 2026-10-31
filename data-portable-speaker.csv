@@ -1,31 +1,31 @@
-﻿商品名,区分,商品ページ,連続再生時間（メーカーが書いた最大の時間）(時間),充電時間(時間),質量（本体）(g),スピーカー最大出力(W),バッテリー容量（Wh表記）(Wh)
+﻿商品名,区分,商品ページ,連続再生時間（メーカー記載の最大・最長で、音量・モードなどの条件が書かれていないもの）(時間),充電時間(時間),質量（本体）(g),スピーカー最大出力(W),バッテリー容量（Wh表記）(Wh)
 EarFun UBOOM L ワイヤレススピーカー 28W IP67防水,ポータブルスピーカー,https://gearnote.net/product-earfun-uboom-l-speaker,16,4,650,28,
 JVCケンウッド Victor SP-C100BT Bluetoothスピーカー（ナチュラルホワイト）,ポータブルスピーカー,https://gearnote.net/product-victor-sp-c100bt-bluetooth-speaker-natural-white,15,3,280,,
-Tribit XSound Go,ポータブルスピーカー,https://gearnote.net/product-tribit-xsound-go,24,,,16,
-Marshall Emberton II,ポータブルスピーカー,https://gearnote.net/product-marshall-emberton-2,30,3,700,20,
-Marshall Emberton III,ポータブルスピーカー,https://gearnote.net/product-marshall-emberton-3,32,2,670,,
-Ultimate Ears WONDERBOOM2,ポータブルスピーカー,https://gearnote.net/product-ue-wonderboom-2,13,,,,
+Tribit XSound Go,ポータブルスピーカー,https://gearnote.net/product-tribit-xsound-go,,,,,
+Marshall Emberton II,ポータブルスピーカー,https://gearnote.net/product-marshall-emberton-2,,3,700,20,
+Marshall Emberton III,ポータブルスピーカー,https://gearnote.net/product-marshall-emberton-3,,2,670,,
+Ultimate Ears WONDERBOOM2,ポータブルスピーカー,https://gearnote.net/product-ue-wonderboom-2,,,,,
 Bose Portable Smart Speaker,ポータブルスピーカー,https://gearnote.net/product-bose-portable-smart-speaker,12,4,1060,,
-Bose SoundLink Flex（第2世代）,ポータブルスピーカー,https://gearnote.net/product-bose-soundlink-flex-2,12,,590,,
+Bose SoundLink Flex（第2世代）,ポータブルスピーカー,https://gearnote.net/product-bose-soundlink-flex-2,,,590,,
 Bose SoundLink Max,ポータブルスピーカー,https://gearnote.net/product-bose-soundlink-max,20,5,2220,,
 Bose SoundLink Micro Portable Speaker LE（第2世代）デュードロップミント,ポータブルスピーカー,https://gearnote.net/product-bose-soundlink-micro-2nd-gen-le-dewdrop-mint,12,3,330,,
-Bose SoundLink Micro,ポータブルスピーカー,https://gearnote.net/product-bose-soundlink-micro,6,,,,
+Bose SoundLink Micro,ポータブルスピーカー,https://gearnote.net/product-bose-soundlink-micro,,,,,
 Anker Soundcore 2 スピーカー,ポータブルスピーカー,https://gearnote.net/product-anker-soundcore-2,24,3,400,,
 Anker Soundcore Mini 3,ポータブルスピーカー,https://gearnote.net/product-anker-soundcore-mini-3,15,,230,,
 Anker Soundcore Boom 2,ポータブルスピーカー,https://gearnote.net/product-anker-soundcore-boom-2,24,,1700,,
 Anker Soundcore Boom 2 Pro,ポータブルスピーカー,https://gearnote.net/product-anker-soundcore-boom-2-pro,20,,,,
 Anker Soundcore Select 4 Go（ベージュ）コンパクトBluetoothスピーカー A31X1,ポータブルスピーカー,https://gearnote.net/product-anker-soundcore-select-4-go-beige-a31x1,20,4,265,,
 Sonos Roam 2,ポータブルスピーカー,https://gearnote.net/product-sonos-roam-2,10,,430,,18
-JBL CHARGE 6,ポータブルスピーカー,https://gearnote.net/product-jbl-charge-6,28,3,1370,,
-JBL Charge Essential 3 SE（スレートグレー・2026年モデル）,ポータブルスピーカー,https://gearnote.net/product-jbl-charge-essential-3-se-slate-gray,20,,960,40,
+JBL CHARGE 6,ポータブルスピーカー,https://gearnote.net/product-jbl-charge-6,,3,1370,,
+JBL Charge Essential 3 SE（スレートグレー・2026年モデル）,ポータブルスピーカー,https://gearnote.net/product-jbl-charge-essential-3-se-slate-gray,,,,,
 JBL FLIP 7,ポータブルスピーカー,https://gearnote.net/product-jbl-flip-7,14,2.5,826,,17.28
 JBL CLIP 5,ポータブルスピーカー,https://gearnote.net/product-jbl-clip-5,15,3,285,7,
 JBL GO5,ポータブルスピーカー,https://gearnote.net/product-jbl-go5,8,3,230,,3.85
 JBL GRIP,ポータブルスピーカー,https://gearnote.net/product-jbl-grip,14,3,385,16,10.01
-JBL Pulse 6,ポータブルスピーカー,https://gearnote.net/product-jbl-pulse-6,12,4.5,1490,40,34
+JBL Pulse 6,ポータブルスピーカー,https://gearnote.net/product-jbl-pulse-6,12,4.5,1490,,34
 ソニー SRS-ULT10,ポータブルスピーカー,https://gearnote.net/product-sony-srs-ult10,12,5,650,,
 ソニー SRS-XB100,ポータブルスピーカー,https://gearnote.net/product-sony-srs-xb100,16,4.5,274,,
-ソニー SRS-XE200,ポータブルスピーカー,https://gearnote.net/product-sony-srs-xe200,16,4,800,,
-Xiaomi サウンドポケット,ポータブルスピーカー,https://gearnote.net/product-xiaomi-sound-pocket-speaker,10,3,200,,
-Bang & Olufsen Beosound Explore,ポータブルスピーカー,https://gearnote.net/product-bang-olufsen-beosound-explore,27,2,631,,
-Harman Kardon Luna 2 ミント（HKLUNA2MIT）,ポータブルスピーカー,https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint,12,,735,40,23.76
+ソニー SRS-XE200,ポータブルスピーカー,https://gearnote.net/product-sony-srs-xe200,,4,800,,
+Xiaomi サウンドポケット,ポータブルスピーカー,https://gearnote.net/product-xiaomi-sound-pocket-speaker,,3,200,,
+Bang & Olufsen Beosound Explore,ポータブルスピーカー,https://gearnote.net/product-bang-olufsen-beosound-explore,,2,631,,
+Harman Kardon Luna 2 ミント（HKLUNA2MIT）,ポータブルスピーカー,https://gearnote.net/product-harman-kardon-luna-2-portable-speaker-mint,12,,735,,23.76

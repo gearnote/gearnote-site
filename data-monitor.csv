@@ -1,19 +1,19 @@
-﻿商品名,区分,商品ページ,画面サイズ(インチ),最大リフレッシュレート（接続方式で値が変わる記載がないもの）(Hz),最大リフレッシュレート（DisplayPort接続時）(Hz),通常動作時の消費電力（メーカー表記：通常・標準・オンモード・使用時）(W),質量（スタンドを除いた本体のみ）(kg),USB-C端子の給電出力(W)
+﻿商品名,区分,商品ページ,画面サイズ(インチ),最大リフレッシュレート（接続方式・解像度で値が変わる記載がないもの）(Hz),最大リフレッシュレート（DisplayPort接続時）(Hz),通常使用時の消費電力（メーカー表記：通常・標準・通常使用時）(W),質量（スタンドを除いた本体のみ）(kg),USB-C端子（Thunderbolt 4端子を含む）の給電出力(W)
 BenQ GW2490T 23.8インチ アイケアモニター,据え置き型（スタンド付き）,https://gearnote.net/product-benq-gw2490t-monitor,23.8,100,,20,3.5,
 BenQ MOBIUZ EX251 24.5インチ ゲーミングモニター,据え置き型（スタンド付き）,https://gearnote.net/product-benq-mobiuz-ex251-gaming-monitor,24.5,220,,18,3.62,
 BenQ ZOWIE XL2540X+ 24.1インチ フルHD 280Hz,据え置き型（スタンド付き）,https://gearnote.net/product-benq-zowie-xl2540xplus-monitor,24.1,,280,,,
-LG モニター 27U730A-B,据え置き型（スタンド付き）,https://gearnote.net/product-lg-27u730a-b-4k-usbc-monitor,27,60,,19.34,5.1,90
+LG モニター 27U730A-B,据え置き型（スタンド付き）,https://gearnote.net/product-lg-27u730a-b-4k-usbc-monitor,27,,,,5.1,90
 BenQ Creative Pro PD2732U 27インチ 4K デザイナー向けモニター,据え置き型（スタンド付き）,https://gearnote.net/product-benq-pd2732u-creator-monitor,27,60,,42,5.89,90
-ASUS ZenScreen MB169CK-J,モバイルモニター（15.6インチ）,https://gearnote.net/product-asus-zenscreen-mb169ck-portable-monitor,15.6,60,,7.64,0.78,
-アイリスオーヤマ モバイルモニター,モバイルモニター（15.6インチ）,https://gearnote.net/product-iris-ohyama-monitor,15.6,60,,,,
-LG UltraFine 27U730B-BAJP 27インチ 4K IPSモニター（USB-C PD 65W）,据え置き型（スタンド付き）,https://gearnote.net/product-lg-ultrafine-27u730b-baj-27-4k-ips-usbc-pd65w-monitor,27,60,,19.34,5,65
+ASUS ZenScreen MB169CK-J,モバイルモニター（15.6インチ）,https://gearnote.net/product-asus-zenscreen-mb169ck-portable-monitor,15.6,60,,,0.78,
+アイリスオーヤマ モバイルモニター,モバイルモニター（15.6インチ）,https://gearnote.net/product-iris-ohyama-monitor,15.6,,,,,
+LG UltraFine 27U730B-BAJP 27インチ 4K IPSモニター（USB-C PD 65W）,据え置き型（スタンド付き）,https://gearnote.net/product-lg-ultrafine-27u730b-baj-27-4k-ips-usbc-pd65w-monitor,27,60,,,5,65
 BenQ MOBIUZ EX271QP 27インチ WQHD 260Hz IPS ゲーミングモニター,据え置き型（スタンド付き）,https://gearnote.net/product-benq-mobiuz-ex271qp-27-wqhd-260hz-ips-gaming-monitor,27,260,,23,,
 REGZA PCモニター 27インチ 4K RM-27N5SE（USB Type-C 65W対応）,据え置き型（スタンド付き）,https://gearnote.net/product-regza-rm-27n5se-27-4k-ips-usbc-pc-monitor,27,60,,,,
-LG UltraGear AI 32GX870B-B 31.5インチ 4K 240Hz 有機ELゲーミングモニター,据え置き型（スタンド付き）,https://gearnote.net/product-lg-ultragear-ai-32gx870b-31-5-4k-240hz-tandem-oled-monitor,31.5,,,47.63,,90
+LG UltraGear AI 32GX870B-B 31.5インチ 4K 240Hz 有機ELゲーミングモニター,据え置き型（スタンド付き）,https://gearnote.net/product-lg-ultragear-ai-32gx870b-31-5-4k-240hz-tandem-oled-monitor,31.5,,,,,90
 Dell S2426HS 23.8インチ フルHD 165Hz IPS モニター（Ash White）,据え置き型（スタンド付き）,https://gearnote.net/product-dell-s2426hs-23-8-fhd-165hz-ips-monitor,23.8,165,,14,3.01,
 BenQ GW2791P 27インチ アイケアモニター FHD IPS 120Hz,据え置き型（スタンド付き）,https://gearnote.net/product-benq-gw2791p-27-fhd-ips-120hz-eyecare-monitor,27,120,,25,3.48,
 IODATA GCFX ゲーミングモニター 24.5型 フルHD 260Hz EX-GD252UHB（ブラック）,据え置き型（スタンド付き）,https://gearnote.net/product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor,24.5,,260,,2.5,
 Dell S2725QC 27インチ 4K モニター（USB Type-C対応）,据え置き型（スタンド付き）,https://gearnote.net/product-dell-s2725qc-27-4k-usbc-monitor,27,120,,25.2,4.85,65
-IODATA モニター 27インチ 4K USB-C 90W給電 EX-CU273AS-F,据え置き型（スタンド付き）,https://gearnote.net/product-iodata-ex-cu273as-f-27-4k-usbc-90w-monitor,27,60,,25.1,4.4,90
+IODATA モニター 27インチ 4K USB-C 90W給電 EX-CU273AS-F,据え置き型（スタンド付き）,https://gearnote.net/product-iodata-ex-cu273as-f-27-4k-usbc-90w-monitor,27,,,25.1,4.4,90
 PHILIPS EVNIA 27M2N3500NL/11 27インチ WQHD,据え置き型（スタンド付き）,https://gearnote.net/product-philips-evnia-27m2n3500nl-wqhd-180hz-monitor,27,,180,,,
 iiyama G-MASTER GB2591HSU-B1JA（24.5インチ フルHD・最大320Hz ゲーミングモニター）,据え置き型（スタンド付き）,https://gearnote.net/product-iiyama-g-master-gb2591hsu-b1ja-24-5-fhd-320hz-gaming-monitor,24.5,,320,,,

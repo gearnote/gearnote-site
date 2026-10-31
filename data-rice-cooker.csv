@@ -1,18 +1,18 @@
 ﻿商品名,区分,商品ページ,最大炊飯容量（白米）(合),質量(kg),定格消費電力(W),保温1時間あたりの消費電力量（エコ炊き・エコ炊飯メニュー時）(Wh),年間消費電力量(kWh/年)
-COMFEE' 炊飯器 4合炊き CRD-20PYT1B1 ベージュ,マイコン式・IH以外・方式の記載なし,https://gearnote.net/product-comfee-rice-cooker-4go,4,,,,
-日立 炊飯器 5.5合 圧力&スチームIH 蒸気カット,圧力IH（ページの記載）,https://gearnote.net/product-hitachi-rice-cooker-rz-v100gm-pressure-steam-ih-55go,5.5,,,,
-アイリスオーヤマ 圧力IHジャー炊飯器,圧力IH（ページの記載）,https://gearnote.net/product-iris-ohyama-pressure-ih-rice-cooker,5.5,6.7,1230,,91.7
-コイズミ 小型炊飯器 ライスクッカー ミニ,マイコン式・IH以外・方式の記載なし,https://gearnote.net/product-koizumi-mini-rice-cooker,1.5,1.4,,,
-パナソニック 可変圧力IHジャー炊飯器 Bistro 5.5合 SR-X710E-H（ライトグレージュ）,圧力IH（ページの記載）,https://gearnote.net/product-panasonic-bistro-pressure-ih-rice-cooker-sr-x710e-h,5.5,7,1210,,
-パナソニック 炊飯器 おどり炊き SR-N310D-K,圧力IH（ページの記載）,https://gearnote.net/product-panasonic-rice-cooker-srn310d,5.5,5.4,1120,,
-パナソニック 圧力IH炊飯器 5合 SR-CR10Z1-W（ホワイト・Amazon.co.jp限定モデル）,圧力IH（ページの記載）,https://gearnote.net/product-panasonic-rice-cooker-sr-cr10z1-w-amazon-model,5,4.5,1200,,
-ティファール 炊飯器 ザ・ポップ 4合（0.72L） ミントブルー RK5354J0,マイコン式・IH以外・方式の記載なし,https://gearnote.net/product-tefal-rice-cooker-the-pop-4go-rk5354j0,4,2.1,350,,33.9
-タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラック,圧力IH（ページの記載）,https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko,10,6.6,1210,24.1,145
-タイガー 圧力IH炊飯器 5.5合 JPV-X100WO オフホワイト,圧力IH（ページの記載）,https://gearnote.net/product-tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo,5.5,5.4,1100,17.5,93.5
-タイガー マイコン炊飯器 3合 JBS-A055KM,マイコン式・IH以外・方式の記載なし,https://gearnote.net/product-tiger-rice-cooker-3go-jbsa055km,3,2.7,350,13,39
-タイガー マイコン炊飯器 5.5合 JBH-G101W,マイコン式・IH以外・方式の記載なし,https://gearnote.net/product-tiger-rice-cooker-55go-jbh-g101w,5.5,3,,,79
-タイガー 圧力IH炊飯器 JPI-S10NK（ご泡火炊き）,圧力IH（ページの記載）,https://gearnote.net/product-tiger-rice-cooker-pressure-ih-jpi-s10nk,5.5,5.4,1200,17.2,87.5
-東芝 炊飯器 5.5合 圧力IH RC-10FPW(H) アッシュグレージュ,圧力IH（ページの記載）,https://gearnote.net/product-toshiba-rice-cooker-rc-10fpw-pressure-ih-55go,5.5,5.9,,21.4,88.2
-東芝 炊飯器 5.5合 RC-10ZAMX(K)（ブラック・Amazon.co.jp限定）,マイコン式・IH以外・方式の記載なし,https://gearnote.net/product-toshiba-rice-cooker-rc-10zamx-k-amazon-model,5.5,3.5,,,
-象印 炊飯器 極め炊き NL-BF05AM-BZ,マイコン式・IH以外・方式の記載なし,https://gearnote.net/product-zojirushi-rice-cooker-nlbf05am,3,2.7,,,37.8
-象印 圧力IH炊飯器 極め炊き NW-YB10AM-WA,圧力IH（ページの記載）,https://gearnote.net/product-zojirushi-rice-cooker-nw-yb10am-wa,5.5,5,,,77.2
+COMFEE' 炊飯器 4合炊き CRD-20PYT1B1 ベージュ,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-comfee-rice-cooker-4go,,,,,
+日立 炊飯器 5.5合 圧力&スチームIH 蒸気カット,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-hitachi-rice-cooker-rz-v100gm-pressure-steam-ih-55go,,,,,
+アイリスオーヤマ 圧力IHジャー炊飯器,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-iris-ohyama-pressure-ih-rice-cooker,5.5,6.7,1230,,91.7
+コイズミ 小型炊飯器 ライスクッカー ミニ,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-koizumi-mini-rice-cooker,1.5,1.4,,,
+パナソニック 可変圧力IHジャー炊飯器 Bistro 5.5合 SR-X710E-H（ライトグレージュ）,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-panasonic-bistro-pressure-ih-rice-cooker-sr-x710e-h,5.5,7,1210,,
+パナソニック 炊飯器 おどり炊き SR-N310D-K,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-panasonic-rice-cooker-srn310d,5.5,5.4,1120,,
+パナソニック 圧力IH炊飯器 5合 SR-CR10Z1-W（ホワイト・Amazon.co.jp限定モデル）,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-panasonic-rice-cooker-sr-cr10z1-w-amazon-model,5,4.5,1200,,
+ティファール 炊飯器 ザ・ポップ 4合（0.72L） ミントブルー RK5354J0,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-tefal-rice-cooker-the-pop-4go-rk5354j0,4,2.1,350,,33.9
+タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラック,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko,10,6.6,1210,24.1,145
+タイガー 圧力IH炊飯器 5.5合 JPV-X100WO オフホワイト,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo,5.5,5.4,1100,17.5,93.5
+タイガー マイコン炊飯器 3合 JBS-A055KM,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-tiger-rice-cooker-3go-jbsa055km,3,2.7,350,13,39
+タイガー マイコン炊飯器 5.5合 JBH-G101W,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-tiger-rice-cooker-55go-jbh-g101w,5.5,3,,,79
+タイガー 圧力IH炊飯器 JPI-S10NK（ご泡火炊き）,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-tiger-rice-cooker-pressure-ih-jpi-s10nk,5.5,5.4,1200,17.2,87.5
+東芝 炊飯器 5.5合 圧力IH RC-10FPW(H) アッシュグレージュ,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-toshiba-rice-cooker-rc-10fpw-pressure-ih-55go,5.5,5.9,,21.4,88.2
+東芝 炊飯器 5.5合 RC-10ZAMX(K)（ブラック・Amazon.co.jp限定）,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-toshiba-rice-cooker-rc-10zamx-k-amazon-model,,,,,
+象印 炊飯器 極め炊き NL-BF05AM-BZ,マイコン式・IH以外・仕様表とメーカー情報に方式の記載なし,https://gearnote.net/product-zojirushi-rice-cooker-nlbf05am,3,2.7,,,37.8
+象印 圧力IH炊飯器 極め炊き NW-YB10AM-WA,圧力IH（仕様表・メーカー情報の記載）,https://gearnote.net/product-zojirushi-rice-cooker-nw-yb10am-wa,5.5,5,,,77.2

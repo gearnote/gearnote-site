@@ -1,4 +1,4 @@
-﻿商品名,区分,商品ページ,質量（ブラシ・ブラシヘッド装着時）(g),充電時間(時間),音波振動のブラシストローク数（2種類書かれたものはヨコ）(ストローク/分),モード数
+﻿商品名,区分,商品ページ,質量（ブラシ・ブラシヘッド装着時）(g),充電時間（フル充電、または種別の書かれていない充電時間）(時間),音波振動のブラシストローク数（2種類書かれたものはヨコ）(ストローク/分),モード数
 ブラウン 電動歯ブラシ オーラルB iO2,充電式・バッテリー式,https://gearnote.net/product-braun-oral-b-io2,,,,2
 ブラウン 電動歯ブラシ オーラルB iO3,充電式・バッテリー式,https://gearnote.net/product-braun-oral-b-io3,,,,2
 ブラウン 電動歯ブラシ オーラルB iO5,充電式・バッテリー式,https://gearnote.net/product-braun-oral-b-io5,,,,5
@@ -8,9 +8,9 @@
 ブラウン 電動歯ブラシ オーラルB PRO1 替えブラシ2本付き,電源方式の記載なし,https://gearnote.net/product-braun-oral-b-pro1,,,,3
 オムロン(OMRON) 電動歯ブラシ メディクリーン HT-B3221-JT,充電式・バッテリー式,https://gearnote.net/product-omron-mediclean-htb3221,64,,,
 パナソニック ドルツ EW-DP38-W,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-dp38-w,95,7,31000,4
-パナソニック ドルツ 音波振動ハブラシ EW-DA19-W（ホワイト・USB充電）,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-ew-da19-w,90,2,31000,3
-パナソニック ドルツ EW-DA18,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-ewda18,90,2,31000,3
-パナソニック 音波振動ハブラシ ドルツ EW-DM74-W,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-ew-dm74-w,95,2,31000,3
+パナソニック ドルツ 音波振動ハブラシ EW-DA19-W（ホワイト・USB充電）,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-ew-da19-w,90,,31000,3
+パナソニック ドルツ EW-DA18,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-ewda18,90,,31000,3
+パナソニック 音波振動ハブラシ ドルツ EW-DM74-W,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-ew-dm74-w,95,,31000,3
 パナソニック 音波振動ハブラシ ドルツ W音波振動 EW-DP58-W パールホワイト,充電式・バッテリー式,https://gearnote.net/product-panasonic-doltz-ew-dp58-w,95,7,31000,5
 パナソニック ポケットドルツ EW-DS42-K,乾電池式,https://gearnote.net/product-panasonic-pocketdoltz-ds42-k,30,,16000,
 フィリップス 電動歯ブラシ ソニッケアー 2100シリーズ HX4021/01 ホワイト,充電式・バッテリー式,https://gearnote.net/product-philips-sonicare-2100-hx4021-01,98,24,,

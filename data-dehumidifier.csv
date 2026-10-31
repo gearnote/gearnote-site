@@ -1,13 +1,13 @@
-﻿商品名,区分,商品ページ,定格除湿能力（60Hz。周波数別の記載がない機種は記載の数字）(L/日),除湿時の消費電力（60Hz）(W),タンク容量(L),質量(kg)
+﻿商品名,区分,商品ページ,除湿能力（60Hz。室温27℃・相対湿度60％の条件が書かれた機種のみ）(L/日),除湿時の消費電力（60Hz）(W),タンク容量(L),質量(kg)
 シャープ 衣類乾燥除湿機 CM-S100-W コンプレッサー方式 10L 冷風機能付き,コンプレッサー式,https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cm-s100-w,10,290,2.5,12.5
 シャープ 衣類乾燥除湿機 CM-T100-W（コンプレッサー方式・10L）,コンプレッサー式,https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cm-t100-w,10,290,2.5,12.5
 シャープ 衣類乾燥除湿機 CV-T190,コンプレッサー式,https://gearnote.net/product-sharp-cv-t190,18.5,340,4.5,16.9
 シャープ 衣類乾燥除湿機 CV-T71-W,コンプレッサー式,https://gearnote.net/product-sharp-cv-t71-dehumidifier,7.1,210,2.5,9.6
-ツインバード 衣類乾燥除湿機 空気清浄機能付 JS-E956W（ホワイト・クロス布巾セット）,コンプレッサー式,https://gearnote.net/product-twinbird-clothes-dryer-dehumidifier-air-purifier-js-e956w,6.3,,2,11.5
+ツインバード 衣類乾燥除湿機 空気清浄機能付 JS-E956W（ホワイト・クロス布巾セット）,コンプレッサー式,https://gearnote.net/product-twinbird-clothes-dryer-dehumidifier-air-purifier-js-e956w,,,2,11.5
 CORONA 衣類乾燥除湿機 コンプレッサー式 CD-P63A3(W),コンプレッサー式,https://gearnote.net/product-corona-clothes-dryer-dehumidifier-cdp63a3,,,,7.7
 三菱電機 衣類乾燥除湿機 サラリPro MJ-P180RX-W,コンプレッサー式,https://gearnote.net/product-mitsubishi-dehumidifier-mj-p180rx,,,,14.9
 シャープ 衣類乾燥除湿機 CV-TH150-W ハイブリッド方式 プラズマクラスター25000,ハイブリッド式,https://gearnote.net/product-sharp-clothes-dryer-dehumidifier-cv-th150-w,13,305,3.6,15
-パナソニック 衣類乾燥除湿機 エコ・ハイブリッド方式 F-YEX90D-W（クリスタルホワイト）,ハイブリッド式,https://gearnote.net/product-panasonic-clothes-dryer-dehumidifier-f-yex90d-w,8.5,185,2.4,9.7
-パナソニック 衣類乾燥除湿機 クリスタルホワイト F-YHVX120-W,ハイブリッド式,https://gearnote.net/product-panasonic-clothes-dryer-dehumidifier-f-yhvx120-w,10,245,3.2,13.9
-アイリスオーヤマ 除湿機 IJD-I50,デシカント式,https://gearnote.net/product-iris-ohyama-desiccant-dehumidifier-ijdi50,5,,2.5,7.8
-アイリスオーヤマ 衣類乾燥除湿機 DDD-50E,デシカント式,https://gearnote.net/product-irisohyama-clothes-dryer-dehumidifier-ddd50e,5,,2.5,7.8
+パナソニック 衣類乾燥除湿機 エコ・ハイブリッド方式 F-YEX90D-W（クリスタルホワイト）,ハイブリッド式,https://gearnote.net/product-panasonic-clothes-dryer-dehumidifier-f-yex90d-w,,185,2.4,9.7
+パナソニック 衣類乾燥除湿機 クリスタルホワイト F-YHVX120-W,ハイブリッド式,https://gearnote.net/product-panasonic-clothes-dryer-dehumidifier-f-yhvx120-w,,245,3.2,13.9
+アイリスオーヤマ 除湿機 IJD-I50,デシカント式,https://gearnote.net/product-iris-ohyama-desiccant-dehumidifier-ijdi50,,,2.5,7.8
+アイリスオーヤマ 衣類乾燥除湿機 DDD-50E,デシカント式,https://gearnote.net/product-irisohyama-clothes-dryer-dehumidifier-ddd50e,,,2.5,7.8
