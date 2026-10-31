@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 05:08:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 05:52:49 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -113,6 +113,13 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Amazon Echo Dot Max の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amazon-echo-dot-max</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amazon-echo-dot-max</guid>
+    <description>Amazon Echo Dot Max（2025年発売）の特徴を整理。スマートホームハブ内蔵、部屋を満たすサウンドなど、メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ネスカフェ ゴールドブレンド エコ&amp;システムパックの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-nescafe-gold-blend-eco-system-pack-95g2</link>
     <guid isPermaLink="true">https://gearnote.net/product-nescafe-gold-blend-eco-system-pack-95g2</guid>
@@ -131,6 +138,13 @@
     <link>https://gearnote.net/product-yamazaki-can-stocker-s-1479</link>
     <guid isPermaLink="true">https://gearnote.net/product-yamazaki-can-stocker-s-1479</guid>
     <description>山崎実業 冷蔵庫中 缶ストッカー S tower ホワイト 1479の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Coizabera LEDシーリングライト 8畳 32W 3990lm 調光調色 リモコン付き の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-coizabera-led-ceiling-light-8jo</link>
+    <guid isPermaLink="true">https://gearnote.net/product-coizabera-led-ceiling-light-8jo</guid>
+    <description>Coizabera LEDシーリングライト 8畳 32W 3990lm 調光調色 リモコン付きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -194,6 +208,13 @@
     <link>https://gearnote.net/product-hario-heat-glass-storage-3set-mst3018</link>
     <guid isPermaLink="true">https://gearnote.net/product-hario-heat-glass-storage-3set-mst3018</guid>
     <description>HARIO(ハリオ) 耐熱ガラス製 保存容器 丸 S/M/L 3個セット MST-3018-OWの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ツインバード 衣類スチーマー SA-4097VO の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-twinbird-handy-steamer-sa4097vo</link>
+    <guid isPermaLink="true">https://gearnote.net/product-twinbird-handy-steamer-sa4097vo</guid>
+    <description>TWINBIRD 衣類スチーマー ハンディアイロン スチームアイロン アイボリー SA-4097VOの特徴を整理。メリット・デメリットをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -295,66 +316,45 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コーヒーメーカーの選び方ガイド｜ドリップ式・ミル付き・エスプレッソの違い｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-coffee-maker</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-coffee-maker</guid>
-    <description>コーヒーメーカーのタイプ（ドリップ式・ミル内蔵・エスプレッソ・手動）の違いと、杯数・抽出温度・蒸らし・サーバーと保温・お手入れといった仕様の見方を、使う場面別に解説します。</description>
+    <title>加湿器の選び方ガイド｜方式・畳数・タンク容量の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-humidifier</guid>
+    <description>加湿器の4つの方式（超音波式・加熱式・気化式・ハイブリッド式）の違いと、適用畳数・加湿量・タンク容量・運転音などスペック表の見方を、置き場所別の考え方とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>アイリスプラザ こたつ掛布団 長方形 180×220cm 省スペース グレージュ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-plaza-kotatsu-futon-180x220-greige</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-plaza-kotatsu-futon-180x220-greige</guid>
-    <description>アイリスプラザ こたつ掛布団 長方形 180×220cm 省スペース グレージュの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>ワイヤレスイヤホンの選び方ガイド｜ノイズキャンセリング・装着タイプ・再生時間の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-earbuds</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-earbuds</guid>
+    <description>ワイヤレスイヤホンの装着タイプ（カナル型・オープンイヤー型）とノイズキャンセリング、接続方式・コーデック、再生時間・防水等級の見方を、使う場面別に解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>THANKO サイズ調整できる ヒーターベスト HEAT25SBK ブラック 男女兼用 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-thanko-heater-vest-heat25sbk</link>
-    <guid isPermaLink="true">https://gearnote.net/product-thanko-heater-vest-heat25sbk</guid>
-    <description>THANKO サイズ調整できる ヒーターベスト HEAT25SBK ブラック 男女兼用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>モバイルバッテリーの選び方ガイド｜容量・出力W・機内持ち込みの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-power-bank</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-power-bank</guid>
+    <description>モバイルバッテリーの容量（mAh・Wh）、出力W・USB PD、ケーブル一体型・マグネット式・半固体電池の違い、機内持ち込みの考え方を、仕様表の見方とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>タリーズコーヒー シアトルスタイル ブラック 無糖 500ml ペットボトル の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-itoen-tullys-seattle-style-black-unsweetened-500ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-itoen-tullys-seattle-style-black-unsweetened-500ml</guid>
-    <description>タリーズコーヒー シアトルスタイル ブラック 無糖 500ml ペットボトルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>炊飯器の選び方ガイド｜IH・圧力IH・マイコン式と合数の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-rice-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-rice-cooker</guid>
+    <description>炊飯器の加熱方式（マイコン式・IH式・圧力IH式）、内釜の素材と厚み、炊飯容量（合数）、保温やお手入れの見方を、人数や使い方別の考え方とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ネスカフェ エクセラ インスタントコーヒー 150g（75杯分・瓶） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-nescafe-excella-instant-coffee-150g-75cups</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nescafe-excella-instant-coffee-150g-75cups</guid>
-    <description>ネスカフェ エクセラ インスタントコーヒー 150g（75杯分・瓶）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>ドライヤーの選び方ガイド｜風量・温度・重さ・イオン機能の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-hair-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-hair-dryer</guid>
+    <description>ヘアドライヤーの風量（㎥/分）・温風温度・重さ・イオン機能・ノズルの見方を、髪の長さや使い方別の考え方とあわせて解説します。機能の説明は仕様の範囲にとどめた内容です。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>サントリー スターバックス ブラック無糖 ボトル缶コーヒー 380g×24本 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-suntory-starbucks-black-unsweetened-bottle-can-coffee-380g-24</link>
-    <guid isPermaLink="true">https://gearnote.net/product-suntory-starbucks-black-unsweetened-bottle-can-coffee-380g-24</guid>
-    <description>サントリー スターバックス ブラック無糖 ボトル缶コーヒー 380g×24本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>犬用リード・ハーネス・首輪の選び方ガイド｜サイズ・適応体重・素材・長さの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-dog-leash</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-dog-leash</guid>
-    <description>犬の散歩に使うリード、ハーネス、首輪について、首輪とハーネスの違い、適応体重とサイズ表記の読み方、素材、固定リードと伸縮リードの長さ、反射素材やLEDライトなど夜の視認性まで、当サイトに掲載しているペティオ・フレキシ・OneTigris・Rikopinなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>土鍋・せいろ・ココット鍋の選び方ガイド｜号数と容量・対応熱源・素材・お手入れの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-donabe</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-donabe</guid>
-    <description>土鍋の号数と人数の目安、直火・IH・電子レンジ・オーブンといった対応熱源の読み方、耐熱陶器・ホーロー・鋳物・木製せいろの素材の違い、サイズと重さ、お手入れの注意点を、当サイト掲載の銀峯・イシガキ・KINTO・和平フレイズ・ケユカ・富士ホーロー・キャプテンスタッグなどの記載値とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゼブラ ブレン・パイロット アクロ1000・ぺんてる エナージェル ノック式の黒0.5mmボールペンの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-zebra-blen-vs-pilot-acro1000-vs-pentel-energel-knock</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-zebra-blen-vs-pilot-acro1000-vs-pentel-energel-knock</guid>
-    <description>ゼブラ ブレン・パイロット アクロ1000・ぺんてる エナージェル ノック式の黒0.5mmボールペンの違いを、インクの種類・サイズ・重量・材質の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <title>空気清浄機の選び方ガイド｜適用畳数・フィルター・加湿機能の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-air-purifier</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-air-purifier</guid>
+    <description>空気清浄機の適用畳数や清浄時間、HEPAなどのフィルター方式、加湿機能付きの違い、運転音とお手入れの見方を、部屋や使い方別の考え方とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
