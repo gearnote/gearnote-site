@@ -6,12 +6,26 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 07:54:25 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 08:44:18 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
     <guid isPermaLink="true">https://gearnote.net/all-products</guid>
     <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Sonyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sony</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
+    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -22,10 +36,31 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>HARIO コーヒースケール ポラリス CST-2000-B の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-hario-coffee-scale-polaris-cst2000b</link>
     <guid isPermaLink="true">https://gearnote.net/product-hario-coffee-scale-polaris-cst2000b</guid>
     <description>HARIOコーヒースケール ポラリス(CST-2000-B)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-kitchen</link>
+    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
+    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -47,6 +82,20 @@
     <link>https://gearnote.net/product-makita-mp180-air-pump</link>
     <guid isPermaLink="true">https://gearnote.net/product-makita-mp180-air-pump</guid>
     <description>マキタ(Makita) 充電式空気入れ18V 米英仏バルブ&amp;ボール浮き輪バルブ付 MP180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-headphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
+    <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを徹底比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-kitchen-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-kitchen-appliances</guid>
+    <description>COSORI 電気ケトル コーヒーケトル・タニタ でか見えタイマー・ブリタ マクストラプロ カートリッジを徹底比較。各商品の特徴をもとに、機能性・使いやすさの観点からおすすめのキッチン家電を紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -89,6 +138,13 @@
     <link>https://gearnote.net/product-hori-gaming-headset-standard-doubutsu-no-mori-switch2</link>
     <guid isPermaLink="true">https://gearnote.net/product-hori-gaming-headset-standard-doubutsu-no-mori-switch2</guid>
     <description>【任天堂ライセンス商品】ホリ ゲーミングヘッドセット スタンダード あつまれ どうぶつの森 DIYライフVer.の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>DJIの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dji</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dji</guid>
+    <description>DJIのスマホ用ジンバル・ワイヤレスマイクなど撮影機材の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -267,6 +323,13 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Amazon スマイルSale特集（11/4〜11/12）｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-smile-sale-202611</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-smile-sale-202611</guid>
+    <description>Amazon「スマイルSale」は2026年11月4日(水)9:00〜11月12日(木)23:59に開催（テーマは「今欲しい秋モノ＆冬支度」／Amazonの案内）。セール前にやっておく準備、ジャンル別のチェックスペックと、GEARNOTEが仕様でピックアップした冬支度の家電・ガジェット・日用品・食品を紹介します。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>年末年始ギフト特集｜家族・友人・自分へ、贈る相手別に選ぶ｜GEARNOTE</title>
     <link>https://gearnote.net/feature-year-end-gift-2026</link>
     <guid isPermaLink="true">https://gearnote.net/feature-year-end-gift-2026</guid>
@@ -292,69 +355,6 @@
     <link>https://gearnote.net/product-blokus-board-game</link>
     <guid isPermaLink="true">https://gearnote.net/product-blokus-board-game</guid>
     <description>マテルゲーム ブロックス(Blokus) ボードゲームの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>トラスコ中山(TRUSCO) THC型コンテナ ボックス型コンテナ グレー THC-24B-GYの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-trusco-thc-box-container-gray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-trusco-thc-box-container-gray</guid>
-    <description>トラスコ中山 THC型コンテナの特徴を整理。ボックス型収納ケースのメリット・デメリットをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シマノ(SHIMANO) エギングロッド 21 セフィア エクスチューン S86MHの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shimano-egingrod-sephia-extune-s86mh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shimano-egingrod-sephia-extune-s86mh</guid>
-    <description>シマノ(SHIMANO) エギングロッド 21 セフィア エクスチューン S86MHの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー マイコン炊飯器 5.5合 JBH-G101Wの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tiger-rice-cooker-55go-jbh-g101w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tiger-rice-cooker-55go-jbh-g101w</guid>
-    <description>タイガー魔法瓶のマイコン炊飯器5.5合JBH-G101Wの特徴を整理。黒遠赤厚釜、全面加熱、エコ炊きメニューなど仕様と注意点をまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>加湿器の選び方ガイド｜方式・畳数・タンク容量の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-humidifier</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-humidifier</guid>
-    <description>加湿器の4つの方式（超音波式・加熱式・気化式・ハイブリッド式）の違いと、適用畳数・加湿量・タンク容量・運転音などスペック表の見方を、置き場所別の考え方とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスイヤホンの選び方ガイド｜ノイズキャンセリング・装着タイプ・再生時間の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-earbuds</guid>
-    <description>ワイヤレスイヤホンの装着タイプ（カナル型・オープンイヤー型）とノイズキャンセリング、接続方式・コーデック、再生時間・防水等級の見方を、使う場面別に解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モバイルバッテリーの選び方ガイド｜容量・出力W・機内持ち込みの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-power-bank</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-power-bank</guid>
-    <description>モバイルバッテリーの容量（mAh・Wh）、出力W・USB PD、ケーブル一体型・マグネット式・半固体電池の違い、機内持ち込みの考え方を、仕様表の見方とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>炊飯器の選び方ガイド｜IH・圧力IH・マイコン式と合数の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-rice-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-rice-cooker</guid>
-    <description>炊飯器の加熱方式（マイコン式・IH式・圧力IH式）、内釜の素材と厚み、炊飯容量（合数）、保温やお手入れの見方を、人数や使い方別の考え方とあわせて解説します。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドライヤーの選び方ガイド｜風量・温度・重さ・イオン機能の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-hair-dryer</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-hair-dryer</guid>
-    <description>ヘアドライヤーの風量（㎥/分）・温風温度・重さ・イオン機能・ノズルの見方を、髪の長さや使い方別の考え方とあわせて解説します。機能の説明は仕様の範囲にとどめた内容です。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>空気清浄機の選び方ガイド｜適用畳数・フィルター・加湿機能の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-air-purifier</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-air-purifier</guid>
-    <description>空気清浄機の適用畳数や清浄時間、HEPAなどのフィルター方式、加湿機能付きの違い、運転音とお手入れの見方を、部屋や使い方別の考え方とあわせて解説します。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

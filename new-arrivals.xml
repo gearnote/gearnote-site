@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 07:54:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 08:44:27 +0000</lastBuildDate>
+  <item>
+    <title>CORONA 石油ストーブ</title>
+    <link>https://gearnote.net/product-corona-sekiyu-stove-sx-eb24y-w-portable-4l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-corona-sekiyu-stove-sx-eb24y-w-portable-4l</guid>
+    <description>コロナの石油ストーブ「SX-EB24Y(W)」（ホワイト、日本生産）です。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>DJI Power Auro 2000 Elite</title>
+    <link>https://gearnote.net/product-dji-power-auro-2000-elite-portable-power-station-2000w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dji-power-auro-2000-elite-portable-power-station-2000w</guid>
+    <description>DJIのポータブル電源「Power Auro 2000 Elite」（Amazon.co.jp限定）です。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Lenovo Yoga Tab Gen 2</title>
+    <link>https://gearnote.net/product-lenovo-yoga-tab-gen-2-zaj00142jp-11-1-inch-sea-shell</link>
+    <guid isPermaLink="true">https://gearnote.net/product-lenovo-yoga-tab-gen-2-zaj00142jp-11-1-inch-sea-shell</guid>
+    <description>Lenovoの11.1型タブレット「Yoga Tab Gen 2」ZAJ00142JP（シーシェル、Amazon.co.jp限定）です。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー INZONE H9 II Fnatic Edition</title>
+    <link>https://gearnote.net/product-sony-inzone-h9-ii-fnatic-edition-wh-g910n-orange</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-inzone-h9-ii-fnatic-edition-wh-g910n-orange</guid>
+    <description>ソニーのゲーミングヘッドセット「INZONE H9 II」のFnatic Edition（型番WH-G910N、オレンジ）です。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>象印 電気ケトル CK-JA08AM-WZ（0.8L・エクリュ・蒸気レス構造）</title>
+    <link>https://gearnote.net/product-zojirushi-electric-kettle-ck-ja08am-wz-ecru-08l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-electric-kettle-ck-ja08am-wz-ecru-08l</guid>
+    <description>象印マホービンの電気ケトル「CK-JA08AM-WZ」（0.8L、エクリュ、WEB限定）です。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>ASUS ROG Strix OLED XG32UCDS 32インチ 4K QD-OLED</title>
     <link>https://gearnote.net/product-asus-rog-strix-oled-xg32ucds-32-4k-qd-oled-165hz</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-ykdsf-vd121-c-dual-sensor</guid>
     <description>山善のセラミックファンヒーター、型番YKDSF-VD121(C)（公式サイトの色表記はグレージュ）です。</description>
     <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple 13インチ iPad Air（M4）128GB スターライト</title>
-    <link>https://gearnote.net/product-apple-ipad-air-13-m4-128gb-starlight</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-air-13-m4-128gb-starlight</guid>
-    <description>Appleの13インチiPad Air（M4）、128GB・スターライトのモデルです。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Google Pixel Watch 5（45mm）Matte Black Wi-Fi</title>
-    <link>https://gearnote.net/product-google-pixel-watch-5-45mm-matte-black-wifi</link>
-    <guid isPermaLink="true">https://gearnote.net/product-google-pixel-watch-5-45mm-matte-black-wifi</guid>
-    <description>Googleのスマートウォッチ「Pixel Watch 5」の45mm・Matte Black（アルミケース）・Wi-Fiモデルです。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 小型スチーム式加湿器 0.6L KHM-2061/C（ベージュ）</title>
-    <link>https://gearnote.net/product-koizumi-steam-humidifier-khm-2061-c-personal-beige</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-steam-humidifier-khm-2061-c-personal-beige</guid>
-    <description>コイズミの小型スチーム式（加熱式）加湿器「KHM-2061/C」（ベージュ）です。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung Galaxy Z Fold8 512GB グラファイト</title>
-    <link>https://gearnote.net/product-samsung-galaxy-z-fold8-512gb-graphite</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-z-fold8-512gb-graphite</guid>
-    <description>Samsungの折りたたみスマートフォン「Galaxy Z Fold8」の512GB・グラファイトです。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 セラミックファンヒーター 人感センサー DSF-S123(W)</title>
-    <link>https://gearnote.net/product-yamazen-ceramic-fan-heater-dsf-s123-w-human-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-dsf-s123-w-human-sensor</guid>
-    <description>山善のセラミックファンヒーター、型番DSF-S123(W)（ホワイト）です。</description>
-    <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
