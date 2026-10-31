@@ -3102,7 +3102,7 @@ const RANKING_POOL = [
   },
   {
     name: "SwitchBot LED電球 スマートライト（2個パック）",
-    excerpt: "E26口金、800lm（60W形相当）、RGBCWマルチカラー（1600万色）の2個パック。Alexa・Google Home・Siri・IFTTT・SmartThings対応と記載。",
+    excerpt: "E26口金、800lm、RGBCWマルチカラー（1600万色）の2個パック。Alexa・Google Home・Siriショートカット・IFTTTなどに対応と記載。",
     img: "https://m.media-amazon.com/images/I/61Eujy5orgL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09KCF5Z79?tag=hide0122-22",
     page: "product-switchbot-led-bulb.html",
