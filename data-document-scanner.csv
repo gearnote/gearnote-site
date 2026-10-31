@@ -1,0 +1,13 @@
+﻿商品名,区分,商品ページ,読取速度（A4縦・自動給紙で1分あたりに読み取れる枚数）(枚/分),原稿搭載枚数（最大・坪量80g/m²の紙）(枚),質量(kg),消費電力（スリープ時を除く。メーカーが「W以下」と書いた上限値）(W)
+ScanSnap iX100,モバイル（手挿入）型,https://gearnote.net/product-scansnap-ix100,,,0.4,4.7
+ScanSnap iX110,モバイル（手挿入）型,https://gearnote.net/product-scansnap-ix110,,,0.4,4.7
+ScanSnap iX1300,自動給紙（ADF）型,https://gearnote.net/product-scansnap-ix1300,30,20,2,17
+ScanSnap iX1400,自動給紙（ADF）型,https://gearnote.net/product-scansnap-ix1400,40,50,3.2,17
+ScanSnap iX1500,自動給紙（ADF）型,https://gearnote.net/product-scansnap-ix1500,,50,3.4,17
+ScanSnap iX1600,自動給紙（ADF）型,https://gearnote.net/product-scansnap-ix1600,40,50,3.4,17
+ScanSnap iX2400,自動給紙（ADF）型,https://gearnote.net/product-scansnap-ix2400,45,100,3.2,
+ScanSnap iX2500,自動給紙（ADF）型,https://gearnote.net/product-scansnap-ix2500,45,100,3.5,
+ScanSnap iX500,自動給紙（ADF）型,https://gearnote.net/product-scansnap-ix500,25,50,3,20
+ScanSnap S1500,自動給紙（ADF）型,https://gearnote.net/product-scansnap-s1500,20,50,3,35
+ScanSnap SV600,オーバーヘッド型,https://gearnote.net/product-scansnap-sv600,,,3,20
+ブラザー ドキュメントスキャナー ADS-1800W,自動給紙（ADF）型,https://gearnote.net/product-brother-ads-1800w-scanner,,,1.42,
