@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 31 Oct 2026 10:35:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 11:39:26 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -15,10 +15,136 @@
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-amazon-echo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
+    <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Ankerの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-anker</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
+    <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Appleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-apple</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
+    <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Boseの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-bose</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-bose</guid>
+    <description>Bose製品の特徴、ノイズキャンセリングヘッドホン・イヤホン・スピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Braunの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-braun</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
+    <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-delonghi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
+    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dysonの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dyson</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dyson</guid>
+    <description>Dyson製品の特徴、掃除機・ヘアケア・空気清浄機の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-eufy</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-eufy</guid>
+    <description>Eufy製品の特徴、ロボット掃除機・防犯カメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Googleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-google</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
+    <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBLの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-jbl</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-jbl</guid>
+    <description>JBL製品の特徴、Bluetoothスピーカー・パーティースピーカー・イヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-koizumi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
+    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Philipsの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-philips</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
+    <description>Philips製品の特徴、電動シェーバー・電動歯ブラシの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ReFaの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-refa</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-refa</guid>
+    <description>ReFaの美顔器・ドライヤー・ヘアアイロンの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SHARPの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sharp</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
+    <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Sonyの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-sony</link>
     <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
     <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBotの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-switchbot</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-switchbot</guid>
+    <description>SwitchBot製品の特徴、スマートホーム機器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomiの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-xiaomi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
+    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -229,132 +355,6 @@
     <link>https://gearnote.net/product-bose-quietcomfort-ultra-headphones-le</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-quietcomfort-ultra-headphones-le</guid>
     <description>Bose QuietComfort Ultra Headphones LE（第2世代・デザートゴールド）ワイヤレスヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose SoundLink Flex（第2世代）の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-soundlink-flex-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-flex-2</guid>
-    <description>Bose SoundLink Flex Portable Speaker（第2世代）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose SoundLink Max の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-soundlink-max</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-max</guid>
-    <description>Bose SoundLink Max Portable Speakerの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose Smart Ultra Soundbar の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-smart-ultra-soundbar</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-smart-ultra-soundbar</guid>
-    <description>Bose Smart Ultra Soundbar（Dolby Atmos対応）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose SoundLink Micro の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-soundlink-micro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-soundlink-micro</guid>
-    <description>Bose SoundLink Micro Bluetooth speakerの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose Portable Smart Speaker の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-portable-smart-speaker</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-portable-smart-speaker</guid>
-    <description>Bose Portable Smart Speaker（ポータブルスマートスピーカー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン オーラルB iO6 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-oral-b-io6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-oral-b-io6</guid>
-    <description>ブラウン オーラルB iO6 電動歯ブラシの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン シリーズ9 SPORTの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-series9-sport</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-series9-sport</guid>
-    <description>ブラウン 電気シェーバー シリーズ9 SPORTの特徴を整理。メリット・デメリット、ラムダッシュPRO・フィリップス5000シリーズとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン マルチミックス1 ハンドミキサー HM1011の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-multimix1-hand-mixer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-multimix1-hand-mixer</guid>
-    <description>ブラウン(Braun) マルチミックス1 ハンドミキサー HM1011の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラウン マルチクイック7 ハンドブレンダー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-braun-multiquick7-hand-blender</link>
-    <guid isPermaLink="true">https://gearnote.net/product-braun-multiquick7-hand-blender</guid>
-    <description>ブラウン(Braun) ハンドブレンダー マルチクイック7 MQ735の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ 電気ケトル アイコナ・ヴィンテージ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-icona-vintage-kettle</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-icona-vintage-kettle</guid>
-    <description>デロンギ 電気ケトル アイコナ・ヴィンテージ KBOV1240Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ マグニフィカSの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-magnifica-s</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-s</guid>
-    <description>デロンギ 全自動コーヒーマシン マグニフィカSの特徴を整理。メリット・デメリット、スティローザ・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ マグニフィカスタート ECAM22062B の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-magnifica-start-ecam22062b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-start-ecam22062b</guid>
-    <description>デロンギ 全自動コーヒーマシン マグニフィカスタート ECAM22062Bの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ ラ・スペシャリスタ・アルテ の特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-specialista-arte</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-specialista-arte</guid>
-    <description>デロンギ ラ・スペシャリスタ・アルテ EC9155Jの特徴を整理。メリット・デメリット、マグニフィカS・スティローザとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ スティローザの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-stilrosa-ec235j</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-stilrosa-ec235j</guid>
-    <description>デロンギ エスプレッソメーカー スティローザ EC235Jの特徴を整理。メリット・デメリット、マグニフィカS・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ エスプレッソメーカー ECP3220J の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-ecp3220j-espresso-maker</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-ecp3220j-espresso-maker</guid>
-    <description>De&#x27;Longhi(デロンギ) エスプレッソメーカー ECP3220Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ ミニオイルヒーター NJ0505E の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-mini-oil-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-mini-oil-heater</guid>
-    <description>De&#x27;Longhi(デロンギ) ミニオイルヒーター NJ0505Eの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ ファンヒーター カプスーラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-capsula-fan-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-capsula-fan-heater</guid>
-    <description>De&#x27;Longhi(デロンギ) ファンヒーター カプスーラ HFX30C11-AGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dyson Cool CF1 扇風機の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dyson-cool-cf1</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dyson-cool-cf1</guid>
-    <description>Dyson Cool CF1 扇風機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
