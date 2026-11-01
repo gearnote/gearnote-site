@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 01 Nov 2026 13:45:42 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:49:16 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -89,6 +89,13 @@
     <link>https://gearnote.net/product-anker-soundcore-p31i</link>
     <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-p31i</guid>
     <description>Anker Soundcore P31i の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Aulumu G09 スマホリング の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-aulumu-g09-smartphone-ring</link>
+    <guid isPermaLink="true">https://gearnote.net/product-aulumu-g09-smartphone-ring</guid>
+    <description>Aulumu G09 スマホリング MagSafe対応 両面マグネットスタンドの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -187,6 +194,13 @@
     <link>https://gearnote.net/product-eufy-omni-c28</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-omni-c28</guid>
     <description>Anker Eufy(ユーフィ) Robot Vacuum Omni C28の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufy Smart Scale P2 Pro の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-smart-scale-p2-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-smart-scale-p2-pro</guid>
+    <description>Anker Eufy(ユーフィ) Smart Scale P2 Pro 体重体組成計の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/ranking-smartphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
     <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>柔軟剤おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fabric-softeners</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fabric-softeners</guid>
-    <description>レノア ハピネス・IROKAフレアフレグランス・ソフランアロマリッチを各商品の特徴から徹底比較。香りの特徴・容量をまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi ロボット掃除機 S40C の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-robot-vacuum-s40c</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-robot-vacuum-s40c</guid>
-    <description>Xiaomi シャオミ ロボット掃除機 S40C 5,000Pa強力吸引の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
