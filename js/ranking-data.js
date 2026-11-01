@@ -26606,7 +26606,7 @@ const RANKING_POOL = [
   },
   {
     name: "ECOVACS (エコバックス) N50 OMNI ロボット掃除機 水拭き両用 25,000Pa強力吸引 電動デュアルモップ ブラック",
-    excerpt: "ECOVACS DEEBOT N50 OMNI ブラック。25,000Pa、電動デュアルモップ、OMNIステーション（自動ゴミ収集・モップ洗浄・45℃温風乾燥・自動給水）、最大20mmの段差対応と記載。",
+    excerpt: "ECOVACS DEEBOT N50 OMNI ブラック。28,000Pa、電動デュアルモップ、OMNIステーション（自動ゴミ収集・モップ洗浄・45℃温風乾燥・自動給水）、最大20mmの段差対応と記載。",
     img: "https://m.media-amazon.com/images/I/61qI3OB9njL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H8DN7BSK?tag=hide0122-22",
     page: "product-ecovacs-deebot-n50-omni-black.html",
