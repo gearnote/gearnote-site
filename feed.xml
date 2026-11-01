@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 01 Nov 2026 03:32:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 03:40:15 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -323,6 +323,13 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Shark FlexBreeze HydroGo の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-shark-flexbreeze-hydrogo-fan</link>
+    <guid isPermaLink="true">https://gearnote.net/product-shark-flexbreeze-hydrogo-fan</guid>
+    <description>Shark シャーク 扇風機 FlexBreeze HydroGo コードレスサーキュレーター ファン FA052JIVの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Shark FlexBreeze FA222Jの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-shark-flexbreeze-fa222j</link>
     <guid isPermaLink="true">https://gearnote.net/product-shark-flexbreeze-fa222j</guid>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-koizumi-mini-rice-cooker</link>
     <guid isPermaLink="true">https://gearnote.net/product-koizumi-mini-rice-cooker</guid>
     <description>コイズミ 小型 炊飯器 ライスクッカー ミニ 0.5~1.5合 KSC-1514/Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-headphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
-    <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを徹底比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
