@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 01 Nov 2026 08:43:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 09:02:01 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -22,6 +22,27 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Sonyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sony</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
+    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomiの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-xiaomi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
+    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>介護用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-care</link>
     <guid isPermaLink="true">https://gearnote.net/category-care</guid>
@@ -33,6 +54,13 @@
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
     <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -176,6 +204,13 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smartphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
+    <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を徹底比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>柔軟剤おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-fabric-softeners</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-fabric-softeners</guid>
@@ -208,6 +243,13 @@
     <link>https://gearnote.net/product-iris-ohyama-washing-machine-6kg</link>
     <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-washing-machine-6kg</guid>
     <description>アイリスオーヤマ 洗濯機 6.0kg IAW-T606の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-logicool</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
+    <description>ロジクール製品の特徴、マウス・キーボード・Webカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -313,48 +355,6 @@
     <link>https://gearnote.net/product-savas-for-woman</link>
     <guid isPermaLink="true">https://gearnote.net/product-savas-for-woman</guid>
     <description>ザバス(SAVAS) for Woman ホエイプロテイン100 ミルクショコラ風味の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CIO SMARTCOBY Pro SLIM モバイルバッテリー の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-cio-smartcoby-pro-slim-35w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-cio-smartcoby-pro-slim-35w</guid>
-    <description>CIO モバイルバッテリー SMARTCOBY Pro SLIMの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM ADV の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-adv-cordless</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-adv-cordless</guid>
-    <description>Shark（シャーク）EVOPOWER SYSTEM ADV コードレススティッククリーナー CS651Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM FIT+ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-fit-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-fit-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM FIT+ LC150Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM STD+の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-std-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-std-plus</guid>
-    <description>Shark シャーク EVOPOWER SYSTEM STD+ コードレススティッククリーナー CS150JAEの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM iQ+ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-iq-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-iq-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM iQ＋ CS851JMVAEの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark シミ取りクリーナー Stain Force の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-stain-force-cleaner</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-stain-force-cleaner</guid>
-    <description>Shark（シャーク）充電式 シミ取りクリーナー Stain Force HX100Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
