@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 01 Nov 2026 03:13:05 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 03:29:52 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -36,10 +36,66 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Anker Nano II 65Wの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-ii-65w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-ii-65w</guid>
+    <description>Anker Nano II 65Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Nano Power Strip の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-power-strip</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-strip</guid>
+    <description>Anker Nano Power Strip（10-in-1, 70W, クランプ式）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ コーヒーグラインダー デディカ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-dedica-kg521j</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-dedica-kg521j</guid>
+    <description>デロンギ コーヒーグラインダー デディカ KG521J-Mの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ラ・スペシャリスタ・アルテ の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-specialista-arte</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-specialista-arte</guid>
+    <description>デロンギ ラ・スペシャリスタ・アルテ EC9155Jの特徴を整理。メリット・デメリット、マグニフィカS・スティローザとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ スティローザの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-stilrosa-ec235j</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-stilrosa-ec235j</guid>
+    <description>デロンギ エスプレッソメーカー スティローザ EC235Jの特徴を整理。メリット・デメリット、マグニフィカS・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>コイズミ サロンセンス ヘアアイロンの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-koizumi-salon-sense-iron</link>
     <guid isPermaLink="true">https://gearnote.net/product-koizumi-salon-sense-iron</guid>
     <description>コイズミ サロンセンス ヘアアイロン ストレート シルキーモイスト KHS-8771/WHの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ EC-FR9の特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ec-fr9</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ec-fr9</guid>
+    <description>シャープ コードレススティック掃除機 EC-FR9の特徴を整理。メリット・デメリット、Dyson V12 Detect・PencilVacとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ ヘルシオ AX-LSX3A の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-healsio-ax-lsx3a</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-healsio-ax-lsx3a</guid>
+    <description>シャープ ウォーターオーブン ヘルシオ AX-LSX3Aの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ ヘルシオ ホットクック KN-HW16G の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-hotcook-kn-hw16g</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-hotcook-kn-hw16g</guid>
+    <description>シャープ ヘルシオ ホットクック KN-HW16G-W 自動調理鍋の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -64,6 +120,13 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アイリスオーヤマ 洗濯機 6.0kg の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-washing-machine-6kg</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-washing-machine-6kg</guid>
+    <description>アイリスオーヤマ 洗濯機 6.0kg IAW-T606の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ティファール クックフォーミー エクスプレス の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tefal-cookformi-express-pressure-cooker</link>
     <guid isPermaLink="true">https://gearnote.net/product-tefal-cookformi-express-pressure-cooker</guid>
@@ -75,6 +138,20 @@
     <link>https://gearnote.net/product-makita-cl107-cordless-vacuum</link>
     <guid isPermaLink="true">https://gearnote.net/product-makita-cl107-cordless-vacuum</guid>
     <description>マキタ コードレス掃除機CL107（紙パック式）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>マキタ 充電式ランダムオービットサンダ BO180DZ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-bo180-sander</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-bo180-sander</guid>
+    <description>マキタ 充電式ランダムオービットサンダ 18V BO180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>マキタ 充電式小型集じん機 VC350DZの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-makita-vc350-dust-extractor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-makita-vc350-dust-extractor</guid>
+    <description>マキタ(Makita) 充電式小型集じん機 18V VC350DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -92,10 +169,24 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Shark シミ取りクリーナー Stain Force の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-shark-stain-force-cleaner</link>
+    <guid isPermaLink="true">https://gearnote.net/product-shark-stain-force-cleaner</guid>
+    <description>Shark（シャーク）充電式 シミ取りクリーナー Stain Force HX100Jの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Tapo RV20 Max Plus の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tapo-rv20-max-plus-robot-vacuum</link>
     <guid isPermaLink="true">https://gearnote.net/product-tapo-rv20-max-plus-robot-vacuum</guid>
     <description>Tapo RV20 Max Plus（薄型ロボット掃除機&amp;自動ゴミ収集機）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ 扇風機 KLF-3053 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-koizumi-dc-fan-klf3053</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-dc-fan-klf3053</guid>
+    <description>コイズミ 扇風機 KLF-3053/K（リモコン付き）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -141,6 +232,13 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>MAXZEN 冷凍庫 家庭用 66L 上開き チェストフリーザー JF066ML01WH の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-maxzen-chest-freezer-66l-jf066ml01wh</link>
+    <guid isPermaLink="true">https://gearnote.net/product-maxzen-chest-freezer-66l-jf066ml01wh</guid>
+    <description>MAXZEN 冷凍庫 家庭用 66L 上開き チェストフリーザー JF066ML01WHの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ティファール ポップアップトースター メゾンとデロンギ ディスティンタ・ペルラの違いを比較｜スペック比較｜GEARNOTE</title>
     <link>https://gearnote.net/compare-tefal-maison-toaster-vs-delonghi-distinta-oven-toaster</link>
     <guid isPermaLink="true">https://gearnote.net/compare-tefal-maison-toaster-vs-delonghi-distinta-oven-toaster</guid>
@@ -152,6 +250,13 @@
     <link>https://gearnote.net/product-doutor-drip-pack-fukairi-blend-100</link>
     <guid isPermaLink="true">https://gearnote.net/product-doutor-drip-pack-fukairi-blend-100</guid>
     <description>ドトールコーヒー ドリップパック 深煎りブレンド 100杯分の特徴を整理。ドリップバッグタイプの選び方、メリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ハイセンス 小型冷蔵庫 45L HR-A45S シルバー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hisense-fridge-45l-hr-a45s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hisense-fridge-45l-hr-a45s</guid>
+    <description>ハイセンス 小型冷蔵庫 45L HR-A45Sの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -190,10 +295,45 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>山善 ポータブル冷蔵庫冷凍庫 YFR-AC252(B) の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamazen-portable-freezer-yfrac252b</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-portable-freezer-yfrac252b</guid>
+    <description>山善(YAMAZEN) ポータブル冷蔵庫冷凍庫 25L コンプレッサー式 AC/DC 2WAY電源 クーラーボックス型 YFR-AC252(B)の特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>無印良品 空気でできたフロアクッション グレー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-muji-air-floor-cushion-gray</link>
+    <guid isPermaLink="true">https://gearnote.net/product-muji-air-floor-cushion-gray</guid>
+    <description>無印良品(MUJI) 空気でできたフロアクッション グレー 幅65×奥行65×高さ25cmの特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>不二貿易 ランドリーバスケット スリム アイボリー 洗濯カゴ 折りたたみの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-fujiboeki-laundry-box-slim-ivory-32810</link>
     <guid isPermaLink="true">https://gearnote.net/product-fujiboeki-laundry-box-slim-ivory-32810</guid>
     <description>不二貿易 ランドリーバスケット スリム アイボリー 32810の特徴を整理。折りたためる麻・綿混素材の洗濯かごの特徴、使い方、向き不向き、手入れをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>HiKOKI 10.8V 充電式ドライバードリル DS12DA の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hikoki-ds12da-driver-drill</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hikoki-ds12da-driver-drill</guid>
+    <description>【Amazon.co.jp限定】HiKOKI(ハイコーキ) 10.8V 充電式 ドライバードリル DS12DA 初回修理保証付 蓄電池1個・の特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Levoit 羽根なしタワーファン ミニ LTF-F132-WJP の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-levoit-tower-fan-mini-ltff132</link>
+    <guid isPermaLink="true">https://gearnote.net/product-levoit-tower-fan-mini-ltff132</guid>
+    <description>【節電対策】Levoit (レボイト) 扇風機 タワーファン ミニ 扇風機 DCモーター 静音 リモコン付き 卓上 LTF-F132-WJPの特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ドウシシャ 携帯扇風機 ジェントルファン 2電源 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-doshisha-gentle-fan-pieria-portable</link>
+    <guid isPermaLink="true">https://gearnote.net/product-doshisha-gentle-fan-pieria-portable</guid>
+    <description>ドウシシャ 携帯扇風機 ジェントルファン 2電源対応(充電式・USB電源)シルバー ピエリアの特徴を整理。メリット・デメリットをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -204,157 +344,17 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>レイコップ コードレス布団クリーナー RJS2 レニー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-raycop-rjs2-cordless-futon-cleaner</link>
+    <guid isPermaLink="true">https://gearnote.net/product-raycop-rjs2-cordless-futon-cleaner</guid>
+    <description>レイコップ UV コードレス 布団クリーナー 2024年新型モデル RJS2 レニー 強力吸引 HEPAフィルタ RAYCOP ふとん掃除機の特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ILIFE アイライフ ロボット掃除機 A30 Pro の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-ilife-a30-pro-robot-vacuum</link>
     <guid isPermaLink="true">https://gearnote.net/product-ilife-a30-pro-robot-vacuum</guid>
     <description>アイライフ(ILIFE) ロボット掃除機 自動ゴミ収集 水拭き 両用 自動充電 A30 Proの特徴を整理。メリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>三菱電機 ふとん乾燥機 布団乾燥機 靴乾燥 ダニ対策 乾燥マット付 夏冬モード の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-mitsubishi-futon-dryer-ad-x50-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-mitsubishi-futon-dryer-ad-x50-w</guid>
-    <description>三菱電機 ふとん乾燥機 布団乾燥機 靴乾燥 ダニ対策 乾燥マット付 夏冬モード ホワイト AD-X50-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブルーエア 空気清浄機 22畳 Blue Max 3250i リビング 寝室 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-blueair-air-purifier-blue-max-3250i</link>
-    <guid isPermaLink="true">https://gearnote.net/product-blueair-air-purifier-blue-max-3250i</guid>
-    <description>ブルーエア 空気清浄機 22畳 Blue Max 3250i リビング 寝室 センサー搭載の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>リバーライト 極JAPAN 鉄炒め鍋28cm J1428の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-riverlight-kiwami-japan-iron-wok-28cm-j1428</link>
-    <guid isPermaLink="true">https://gearnote.net/product-riverlight-kiwami-japan-iron-wok-28cm-j1428</guid>
-    <description>リバーライト 極JAPAN 鉄 フライパン 深型 炒め鍋 28cm 窒化鉄 J1428の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>BONIQ 3.0 低温調理器の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-boniq-3-0-low-temp-cooker-body-only</link>
-    <guid isPermaLink="true">https://gearnote.net/product-boniq-3-0-low-temp-cooker-body-only</guid>
-    <description>BONIQ 3.0 低温調理器 日本メーカー 専用アプリ 防水 レシピ付きガイドブック ハイパワー クリップ ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>【Toffy/トフィー】 アロマドリップコーヒーメーカー K-CM5 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-toffy-aroma-drip-coffee-maker-k-cm5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-toffy-aroma-drip-coffee-maker-k-cm5</guid>
-    <description>【Toffy/トフィー】 アロマドリップコーヒーメーカー K-CM5 スレートグリーン ドリップ式 蒸らし機能 自動保温機能 ガラスポット メッシュフィルター付き レトロ K-CM5-SGの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>【1台4役・花粉対策】SwitchBot 空気清浄機 Table - 脱臭 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-air-purifier-table-wood</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-air-purifier-table-wood</guid>
-    <description>【1台4役・花粉対策】SwitchBot 空気清浄機 Table - 脱臭 ワイヤレス充電 25畳 静音 小型 省エネ HEPA フィルター 除菌の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>在宅ワーク・デスク環境特集｜入力機器・画面・音・照明・電源まわりを用途別に整理｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-work-from-home-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-work-from-home-2026</guid>
-    <description>在宅ワークの机まわりに関わる商品を用途別にまとめた特集。キーボード・マウス、画面まわり、ヘッドホンとマイク、デスクの明かり、電源・配線、文房具、飲み物、室内環境、ネットワークまで、選び方のポイントと使うときの注意つきで紹介します。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>新生活・一人暮らしスタート特集｜そろえるものを用途別に整理｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-new-life-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-new-life-2026</guid>
-    <description>新生活・一人暮らしの準備を、キッチン・洗濯と掃除・寝具と収納・照明と電源・日用品・季節家電・ガジェット・引っ越し用品・まとめ買い向けの飲料と食品に分けて整理。何からそろえるかの考え方と、選ぶときの確認点・使うときの注意つき。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ライフリーの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-lifree</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-lifree</guid>
-    <description>ライフリー製品の特徴、大人用紙パンツ・大人用紙おむつなど介護・失禁ケア用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ウィスパーの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-whisper</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-whisper</guid>
-    <description>ウィスパー製品の特徴、尿とりパッド・軽失禁ケア用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドリテック ラーニングタイマー T-587PK3 消音の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dretec-benkyo-timer-timeup2-pink</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dretec-benkyo-timer-timeup2-pink</guid>
-    <description>ドリテック(dretec) 勉強タイマー タイムアップ2 消音 T-587PK3 ピンクの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ ホットカーペット 1畳 IHC-10-Hの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-hot-carpet-1jo-ihc-10-h</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-hot-carpet-1jo-ihc-10-h</guid>
-    <description>アイリスオーヤマ ホットカーペット 1畳 IHC-10-H（176×88cm）の特徴を整理。サイズ、ダイヤル式の温度調節、ダニ退治機能、使い方と注意点をまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>三菱電機 衣類乾燥除湿機 サラリPro MJ-P180RX-Wの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-mitsubishi-dehumidifier-mj-p180rx</link>
-    <guid isPermaLink="true">https://gearnote.net/product-mitsubishi-dehumidifier-mj-p180rx</guid>
-    <description>三菱電機 衣類乾燥除湿機 サラリPro MJ-P180RX-Wの特徴を整理。除湿能力やタンク容量などの数値は出典を明記して、メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot ロボット掃除機 K11+の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-robot-vacuum-k11-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-robot-vacuum-k11-plus</guid>
-    <description>SwitchBot ロボット掃除機 K11+の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>BRUNO スチーム＆ベイクトースター BOE067-WHの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bruno-steam-bake-toaster-boe067-wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bruno-steam-bake-toaster-boe067-wh</guid>
-    <description>BRUNO スチーム＆ベイクトースター BOE067-WHの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 こたつテーブル 長方形 幅120×奥行80cm 継脚タイプ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-kotatsu-table-gkrn-f120h</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-kotatsu-table-gkrn-f120h</guid>
-    <description>山善 こたつテーブル 長方形 幅120×奥行80cm 継脚タイプ GKRN-F120H(OBR)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ ホットカーペット 2畳 176×176cm IHC-20-H の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-hot-carpet-2jo-ihc-20-h</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-hot-carpet-2jo-ihc-20-h</guid>
-    <description>アイリスオーヤマ ホットカーペット 2畳 176×176cm IHC-20-Hの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Narwal（ナーワル）Freo S ロボット掃除機 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-narwal-freo-s-robot-vacuum-white</link>
-    <guid isPermaLink="true">https://gearnote.net/product-narwal-freo-s-robot-vacuum-white</guid>
-    <description>Narwal（ナーワル）Freo S ロボット掃除機 水拭き両用・小型・自動ゴミ収集（ホワイト）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブルーエア Blue Mini Max 小型空気清浄機 12畳 グレー（オンラインモデル） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-blueair-blue-mini-max-air-purifier-12jo</link>
-    <guid isPermaLink="true">https://gearnote.net/product-blueair-blue-mini-max-air-purifier-12jo</guid>
-    <description>ブルーエア Blue Mini Max 小型空気清浄機 12畳 グレー（オンラインモデル）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 ホットプレート やきやき 3枚タイプ EA-KK30AM-BA の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-zojirushi-hotplate-yakiyaki-ea-kk30am-ba</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-hotplate-yakiyaki-ea-kk30am-ba</guid>
-    <description>象印 ホットプレート やきやき 3枚タイプ EA-KK30AM-BA ブラック（深型・焼肉・たこ焼き）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>テスコム ドライヤー プロテクトイオン Speedom TEC-HD2400-K の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tescom-speedom-dryer-tec-hd2400-k</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tescom-speedom-dryer-tec-hd2400-k</guid>
-    <description>テスコム ドライヤー プロテクトイオン Speedom TEC-HD2400-K ブラック（495g・大風量）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
