@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 01 Nov 2026 13:04:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:18:07 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -225,6 +225,13 @@
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>キングジム クリアファイル シンプリーズの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kingjim-clearfile-simplies-100</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kingjim-clearfile-simplies-100</guid>
+    <description>キングジム クリアファイル シンプリーズ 100枚入 A4タテの特徴を整理。メリット・デメリット、向いている人をまとめました。</description>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>DualSenseの特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-dualsense-wireless-controller</link>
     <guid isPermaLink="true">https://gearnote.net/product-dualsense-wireless-controller</guid>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-makita-bo180-sander</link>
     <guid isPermaLink="true">https://gearnote.net/product-makita-bo180-sander</guid>
     <description>マキタ 充電式ランダムオービットサンダ 18V BO180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マキタ 充電式洗浄機の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-makita-mhw180-cordless-washer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-makita-mhw180-cordless-washer</guid>
-    <description>マキタ(Makita) 充電式洗浄機 18V MHW180DZの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
