@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -5712,7 +5712,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-cooking-appliances</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5812,7 +5812,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-tv-streaming</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -22652,7 +22652,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-huawei</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -26352,7 +26352,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -32234,6 +32234,31 @@
   <url>
     <loc>https://gearnote.net/product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-pe-pink</loc>
     <lastmod>2026-11-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-regza-43e350s-43v-4k-lcd-tv-2026</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc5d171-white-5l</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4626l-w</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4226nc-w</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-huawei-watch-fit-4-sapphire-glass-black-sya-b19</loc>
+    <lastmod>2026-11-02</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

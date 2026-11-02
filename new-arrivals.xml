@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 02 Nov 2026 02:17:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 08:40:29 +0000</lastBuildDate>
+  <item>
+    <title>ダイニチ 石油ファンヒーター NCタイプ</title>
+    <link>https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4226nc-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4226nc-w</guid>
+    <description>ダイニチの石油ファンヒーター（ムーンホワイト）、型番FW-4226NC-Wです。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ダイニチ 石油ファンヒーター Lタイプ FW-4626L-W（ムーンホワイト・木造12畳）</title>
+    <link>https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4626l-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4626l-w</guid>
+    <description>ダイニチの石油ファンヒーター（ムーンホワイト）、型番FW-4626L-Wです。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>HUAWEI WATCH FIT 4 サファイアガラス SYA-B19（ブラック）</title>
+    <link>https://gearnote.net/product-huawei-watch-fit-4-sapphire-glass-black-sya-b19</link>
+    <guid isPermaLink="true">https://gearnote.net/product-huawei-watch-fit-4-sapphire-glass-black-sya-b19</guid>
+    <description>HUAWEIのスマートウォッチ「WATCH FIT 4 サファイアガラス」SYA-B19（ブラック）です。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>レグザ 43E350S（43V型・4K液晶テレビ・2026年モデル）</title>
+    <link>https://gearnote.net/product-regza-43e350s-43v-4k-lcd-tv-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/product-regza-43e350s-43v-4k-lcd-tv-2026</guid>
+    <description>レグザ（Regza）の43V型4K液晶テレビ、型番43E350Sです。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シロカ おうちシェフクッカー SP-MC5D171（電気圧力鍋・5L・ホワイト）</title>
+    <link>https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc5d171-white-5l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc5d171-white-5l</guid>
+    <description>シロカの自動調理鍋（電気圧力鍋）「おうちシェフクッカー」SP-MC5D171（ホワイト）です。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Logicool G PRO X3 SUPERSTRIKE</title>
     <link>https://gearnote.net/product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-pe-pink</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-hisense-43e50s-43v-4k-lcd-tv-2026</guid>
     <description>ハイセンスの43V型4K液晶テレビ、型番43E50S（E50Sシリーズ・2026年モデル）です。</description>
     <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 電気掛敷毛布 KDK-75261RT（188×120cm・ラビットファー調）</title>
-    <link>https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-75261rt-188x120</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-kake-shiki-electric-blanket-kdk-75261rt-188x120</guid>
-    <description>コイズミの電気掛敷毛布、型番KDK-75261RT（ラビットファー調・188×120cm）です。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 電気ストーブ KDS-H06(H)E（出力3段階・転倒OFFスイッチ）</title>
-    <link>https://gearnote.net/product-yamazen-electric-stove-kds-h06-h-e-3stage-tipover-off</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-electric-stove-kds-h06-h-e-3stage-tipover-off</guid>
-    <description>山善の電気ストーブ、型番KDS-H06(H)E（グレー）です。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エプソン A4インクジェット複合機 EW-056A1（Wi-Fi・4色独立型インク）</title>
-    <link>https://gearnote.net/product-epson-ew-056a1-a4-inkjet-multifunction-printer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-epson-ew-056a1-a4-inkjet-multifunction-printer</guid>
-    <description>エプソンのA4インクジェット複合機、型番EW-056A1（カラリオ・ホワイト）です。</description>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール Mobi Fold MF900GRd（折りたたみ式ワイヤレスマウス）</title>
-    <link>https://gearnote.net/product-logicool-mobi-fold-mf900grd-foldable-wireless-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-mobi-fold-mf900grd-foldable-wireless-mouse</guid>
-    <description>ロジクールの折りたたみ式ワイヤレスマウス「Mobi Fold」、型番MF900GRd（グラファイト）です。</description>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>レグザ 50E350S（50V型 4K液晶テレビ・2026年モデル）</title>
-    <link>https://gearnote.net/product-regza-50e350s-50v-4k-lcd-tv-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/product-regza-50e350s-50v-4k-lcd-tv-2026</guid>
-    <description>レグザの50V型4K液晶テレビ、型番50E350S（2026年モデル）です。</description>
-    <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
