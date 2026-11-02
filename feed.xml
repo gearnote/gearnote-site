@@ -6,12 +6,40 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 02 Nov 2026 01:32:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 02:16:59 +0000</lastBuildDate>
   <item>
     <title>アヴィレックスの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-avirex</link>
     <guid isPermaLink="true">https://gearnote.net/brand-avirex</guid>
     <description>アヴィレックスのバッグ・リュックの特徴、ミリタリーテイストの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>くもん出版の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-kumon</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-kumon</guid>
+    <description>くもん出版(KUMON)製品の特徴、年齢・分野別の知育玩具の選び方をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Hanesの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-hanes</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-hanes</guid>
+    <description>Hanes(ヘインズ)の定番ビーフィーTシャツ・赤ラベルTシャツ・ボクサーパンツ・フリースパーカーの特徴、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>UNDER ARMOURの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-underarmour</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-underarmour</guid>
+    <description>UNDER ARMOUR(アンダーアーマー)の定番トレーニングTシャツ・バックパック・キャップ・ランニングシューズの特徴、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ペティオ（Petio）の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-petio</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-petio</guid>
+    <description>ペティオ（Petio）製品の特徴、犬用おやつ・リードなどペット用品の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/product-iwasaki-lustroware-cold-water-jug</link>
     <guid isPermaLink="true">https://gearnote.net/product-iwasaki-lustroware-cold-water-jug</guid>
     <description>岩崎工業 ラストロウェア 冷水筒 2.1L シームレスピッチャーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キングジム クリアファイル シンプリーズの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kingjim-clearfile-simplies-100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kingjim-clearfile-simplies-100</guid>
-    <description>キングジム クリアファイル シンプリーズ 100枚入 A4タテの特徴を整理。メリット・デメリット、向いている人をまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DualSenseの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dualsense-wireless-controller</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dualsense-wireless-controller</guid>
-    <description>【純正品】DualSense ワイヤレスコントローラーの特徴を整理。メリット・デメリット、Switch2 Proコン・Joy-Conとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヤーマン トリートメントアイロン シャインプロ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yaman-treatment-iron-shine-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yaman-treatment-iron-shine-pro</guid>
-    <description>ヤーマン トリートメントアイロン シャインプロ HC21Gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘアドライヤーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-hair-dryers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-hair-dryers</guid>
-    <description>パナソニック ナノケア・シャープ IB-WX901・ReFaビューテックを徹底比較。各商品の特徴をもとに、速乾性・静音性・ツヤ仕上げの観点からおすすめのヘアドライヤーを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
