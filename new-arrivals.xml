@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 03 Nov 2026 08:25:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 08:46:22 +0000</lastBuildDate>
+  <item>
+    <title>パナソニック ドライヤー イオニティ EH-NE5P-A（アイスブルー・1200W）</title>
+    <link>https://gearnote.net/product-panasonic-ionity-dryer-eh-ne5p-a-ice-blue</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-ionity-dryer-eh-ne5p-a-ice-blue</guid>
+    <description>パナソニックのヘアドライヤー「イオニティ」EH-NE5P-A（アイスブルー）です。</description>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>レグザ 55E350S（55V型・4K液晶テレビ・2026年モデル）</title>
+    <link>https://gearnote.net/product-regza-55e350s-55v-4k-lcd-tv-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/product-regza-55e350s-55v-4k-lcd-tv-2026</guid>
+    <description>レグザ（Regza）の55V型4K液晶テレビ、型番55E350Sです。</description>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー ブラビア K-55XR80M2（55インチ・4K有機EL・BRAVIA 8 II）</title>
+    <link>https://gearnote.net/product-sony-bravia-8-ii-k-55xr80m2-55v-4k-oled-tv-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-bravia-8-ii-k-55xr80m2-55v-4k-oled-tv-2026</guid>
+    <description>ソニーの55インチ4K有機ELテレビ「ブラビア」K-55XR80M2（モデルシリーズ BRAVIA 8 II）です。</description>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー WH-CH530（ミント・ワイヤレスヘッドホン）</title>
+    <link>https://gearnote.net/product-sony-wh-ch530-mint-wireless-headphones</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ch530-mint-wireless-headphones</guid>
+    <description>ソニーのワイヤレスヘッドホン「WH-CH530」のミントです。</description>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi REDMI Watch 6 Active（オレンジ・BHR09CYGL）</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-watch-6-active-orange</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-watch-6-active-orange</guid>
+    <description>Xiaomiのスマートウォッチ「REDMI Watch 6 Active」のオレンジです。</description>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>ダイニチ 石油ファンヒーター NCタイプ</title>
     <link>https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4226nc-w</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-futon-dryer-karierie-fk-az23c-w-twin-nozzle-2026</guid>
     <description>アイリスオーヤマのふとん乾燥機「カラリエ」、型番FK-AZ23C-W（2026年モデル）です。</description>
     <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>リズム 卓上超音波式加湿器 MIST Mini 2（350mL・ライトグレー・2026）</title>
-    <link>https://gearnote.net/product-rhythm-mist-mini-2-ultrasonic-desktop-humidifier-350ml-9yy030rh08a</link>
-    <guid isPermaLink="true">https://gearnote.net/product-rhythm-mist-mini-2-ultrasonic-desktop-humidifier-350ml-9yy030rh08a</guid>
-    <description>リズムの卓上超音波式加湿器「MIST Mini 2」、型番9YY030RH08A（ライトグレー・2026）です。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>TP-Link UB6A（Bluetooth 6.0対応</title>
-    <link>https://gearnote.net/product-tp-link-ub6a-bluetooth-6-0-usb-adapter</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tp-link-ub6a-bluetooth-6-0-usb-adapter</guid>
-    <description>TP-LinkのBluetooth 6.0対応USBアダプター、型番UB6Aです。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ドコモ純正 準固体モバイルバッテリー01M（10000mAh・最大45W）</title>
-    <link>https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</link>
-    <guid isPermaLink="true">https://gearnote.net/product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white</guid>
-    <description>NTTドコモの準固体モバイルバッテリー「01M」（ホワイト）です。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エレコム AC充電器一体型モバイルバッテリー</title>
-    <link>https://gearnote.net/product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w</guid>
-    <description>エレコムのAC充電器一体型モバイルバッテリー、型番EC-C57LMN（ミッドナイト）です。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ハイセンス 43E50S（43V型 4K液晶テレビ・2026年モデル）</title>
-    <link>https://gearnote.net/product-hisense-43e50s-43v-4k-lcd-tv-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hisense-43e50s-43v-4k-lcd-tv-2026</guid>
-    <description>ハイセンスの43V型4K液晶テレビ、型番43E50S（E50Sシリーズ・2026年モデル）です。</description>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
