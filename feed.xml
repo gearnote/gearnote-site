@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 03 Nov 2026 07:50:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 07:55:12 +0000</lastBuildDate>
   <item>
     <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
     <link>https://gearnote.net/product-airpods-4</link>
@@ -82,6 +82,13 @@
     <link>https://gearnote.net/product-apple-60w-usbc-cable</link>
     <guid isPermaLink="true">https://gearnote.net/product-apple-60w-usbc-cable</guid>
     <description>Apple 60W USB-C 充電ケーブル(1m)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple Watch Series 11 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-watch-series-11</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-watch-series-11</guid>
+    <description>Apple Watch Series 11（GPSモデル）46mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -225,6 +232,13 @@
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アイリスオーヤマ モバイルモニターの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-monitor</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-monitor</guid>
+    <description>アイリスオーヤマ モバイルモニター 15.6インチの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>JBL FLIP 7の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-jbl-flip-7</link>
     <guid isPermaLink="true">https://gearnote.net/product-jbl-flip-7</guid>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-sony-linkbuds-wf-l900</link>
     <guid isPermaLink="true">https://gearnote.net/product-sony-linkbuds-wf-l900</guid>
     <description>ソニー(SONY) LinkBuds WF-L900の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー WH-1000XM6 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wh-1000xm6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-1000xm6</guid>
-    <description>ソニー WH-1000XM6 ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー WH-CH520 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wh-ch520</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ch520</guid>
-    <description>ソニー WH-CH520 ワイヤレスヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
