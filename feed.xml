@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 04 Nov 2026 15:56:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 16:01:54 +0000</lastBuildDate>
   <item>
     <title>Apple AirTag（第2世代）の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-apple-airtag-2</link>
@@ -61,6 +61,20 @@
     <link>https://gearnote.net/product-brita-water-filter-pot-cartridge-3</link>
     <guid isPermaLink="true">https://gearnote.net/product-brita-water-filter-pot-cartridge-3</guid>
     <description>ブリタ 浄水器 ポット型 リクエリ マクストラプロ カートリッジ3個付の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ コーヒーグラインダー デディカ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-dedica-kg521j</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-dedica-kg521j</guid>
+    <description>デロンギ コーヒーグラインダー デディカ KG521J-Mの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ コーヒーグラインダー KG200JN の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-kg200jn</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-kg200jn</guid>
+    <description>デロンギ コーヒーグラインダー KG200JN カッター式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -141,6 +155,13 @@
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>スクラビングバブル 流せるトイレブラシ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-scrubbing-bubbles-flushable-toilet-brush-16</link>
+    <guid isPermaLink="true">https://gearnote.net/product-scrubbing-bubbles-flushable-toilet-brush-16</guid>
+    <description>スクラビングバブル 流せるトイレブラシ フローラルソープの香り 本体+付け替え用(16個)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ソニー ウォークマン NW-A306 の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-sony-walkman-nw-a306</link>
     <guid isPermaLink="true">https://gearnote.net/product-sony-walkman-nw-a306</guid>
@@ -159,6 +180,13 @@
     <link>https://gearnote.net/product-uno-card-game</link>
     <guid isPermaLink="true">https://gearnote.net/product-uno-card-game</guid>
     <description>マテルゲーム ウノ(UNO) カードゲームの特徴を整理。メリット・デメリット、ジェンガ・スタディ将棋との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カロリーメイトの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-calorie-mate-chocolate</link>
+    <guid isPermaLink="true">https://gearnote.net/product-calorie-mate-chocolate</guid>
+    <description>大塚製薬 カロリーメイト ブロック チョコレートの特徴を整理。メリット・デメリット、inバー・ザバスとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -246,6 +274,13 @@
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>エーモン 非常信号灯の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amon-emergency-signal-light</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amon-emergency-signal-light</guid>
+    <description>エーモン 非常信号灯 車検対応 ON/OFFスイッチタイプの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>サーモス 真空断熱ケータイマグの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-thermos-vacuum-mug-500ml</link>
     <guid isPermaLink="true">https://gearnote.net/product-thermos-vacuum-mug-500ml</guid>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/product-bridgestone-tourstage-golfball-12</link>
     <guid isPermaLink="true">https://gearnote.net/product-bridgestone-tourstage-golfball-12</guid>
     <description>ブリヂストン ゴルフボール TOURSTAGE エクストラディスタンス 1ダースの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>カシオ W-218H 腕時計の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-casio-collection-w218h</link>
-    <guid isPermaLink="true">https://gearnote.net/product-casio-collection-w218h</guid>
-    <description>[カシオ] 腕時計 カシオコレクション W-218H-1BJF メンズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot ブラインドポールの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-blind-pole</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-blind-pole</guid>
-    <description>SwitchBot ブラインドポール ブラインド自動開閉の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>プラレール S-07 ドクターイエローの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-plarail-s07-doctor-yellow</link>
-    <guid isPermaLink="true">https://gearnote.net/product-plarail-s07-doctor-yellow</guid>
-    <description>タカラトミー プラレール S-07 ライト付923形 ドクターイエローT4編成の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo D205 スマートドアホン の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-d205-smart-doorbell</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-d205-smart-doorbell</guid>
-    <description>TP-Link Tapo D205 スマートドアホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>たまごっちパラダイス の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tamagotchi-paradise</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tamagotchi-paradise</guid>
-    <description>バンダイ Tamagotchi Paradise（たまごっちパラダイス）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
