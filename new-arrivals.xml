@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 05 Nov 2026 08:38:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 08:42:45 +0000</lastBuildDate>
+  <item>
+    <title>Anker Nano Power Bank (MagGo, Plus) 10000mAh</title>
+    <link>https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-orange</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-orange</guid>
+    <description>Ankerのマグネット式ワイヤレス充電（Qi2）対応モバイルバッテリー「Nano Power Bank (MagGo, Plus)」のオレンジです。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ダイニチ ハイブリッド式加湿器 HD-LXC1200E-W（LXCタイプ・スノーホワイト）</title>
+    <link>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-lxc1200e-w-lxc-type</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dainichi-hybrid-humidifier-hd-lxc1200e-w-lxc-type</guid>
+    <description>ダイニチのハイブリッド式加湿器「LXCタイプ」HD-LXC1200E-W（スノーホワイト）です。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>DJI Osmo 360 II エッセンシャルコンボ（8K 360度カメラ）</title>
+    <link>https://gearnote.net/product-dji-osmo-360-ii-essential-combo-8k-360-camera</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-360-ii-essential-combo-8k-360-camera</guid>
+    <description>DJIの360度カメラ「Osmo 360 II」のエッセンシャルコンボです。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>トヨトミ 石油ストーブ ダブルクリーン RC-NW36(C)（アイボリー）</title>
+    <link>https://gearnote.net/product-toyotomi-double-clean-kerosene-stove-rc-nw36-c-ivory</link>
+    <guid isPermaLink="true">https://gearnote.net/product-toyotomi-double-clean-kerosene-stove-rc-nw36-c-ivory</guid>
+    <description>トヨトミの石油ストーブ「ダブルクリーン」RC-NW36(C)（アイボリー）です。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>象印 炊飯器 炎舞炊き NX-AB18-WZ（1升・白）</title>
+    <link>https://gearnote.net/product-zojirushi-rice-cooker-nx-ab18-wz-enbu-1sho</link>
+    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nx-ab18-wz-enbu-1sho</guid>
+    <description>象印の炊飯器「炎舞炊き」NX-AB18-WZ（白）です。商品名は1升炊きで、商品ページには、圧力IH、3DローテーションIH構造、鉄仕込みの豪炎かまど釜、わが家炊き121通り。</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>パナソニック ドライヤー イオニティ EH-NE5P-A（アイスブルー・1200W）</title>
     <link>https://gearnote.net/product-panasonic-ionity-dryer-eh-ne5p-a-ice-blue</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-hisense-fridge-252l-hr-k25l-s-slim-2door-2026</guid>
     <description>ハイセンスの2ドア冷凍冷蔵庫、型番HR-K25L-S（スペースグレイ・2026年モデル）です。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung Galaxy Watch9 44mm Bluetooth グラファイト</title>
-    <link>https://gearnote.net/product-samsung-galaxy-watch9-44mm-bluetooth-graphite-sm-l350nzkjxjp</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-watch9-44mm-bluetooth-graphite-sm-l350nzkjxjp</guid>
-    <description>サムスンのスマートウォッチ「Galaxy Watch9」44mm Bluetoothモデル（グラファイト）、型番SM-L350NZKJXJPです。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 準固体電池モバイルバッテリー</title>
-    <link>https://gearnote.net/product-yamazen-semi-solid-power-bank-10000mah-pd35w-ymb-a100</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-semi-solid-power-bank-10000mah-pd35w-ymb-a100</guid>
-    <description>山善の準固体電池モバイルバッテリー、型番YMB-A100(B)（ブラック）です。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>iiyama G-MASTER GB2591HSU-B1JA（24.5インチ</title>
-    <link>https://gearnote.net/product-iiyama-g-master-gb2591hsu-b1ja-24-5-fhd-320hz-gaming-monitor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iiyama-g-master-gb2591hsu-b1ja-24-5-fhd-320hz-gaming-monitor</guid>
-    <description>iiyamaのゲーミングモニター「G-MASTER」、型番GB2591HSU-B1JA（24.5インチ・フルHD）です。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ コードレススチームアイロン</title>
-    <link>https://gearnote.net/product-iris-ohyama-cordless-steam-iron-irn-cl20c-w-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-cordless-steam-iron-irn-cl20c-w-2026</guid>
-    <description>アイリスオーヤマのコードレススチームアイロン、型番IRN-CL20C-W（ホワイト・2026年モデル）です。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ ふとん乾燥機 カラリエ</title>
-    <link>https://gearnote.net/product-iris-ohyama-futon-dryer-karierie-fk-az23c-w-twin-nozzle-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-futon-dryer-karierie-fk-az23c-w-twin-nozzle-2026</guid>
-    <description>アイリスオーヤマのふとん乾燥機「カラリエ」、型番FK-AZ23C-W（2026年モデル）です。</description>
-    <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

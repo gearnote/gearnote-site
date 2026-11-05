@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-anker</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -177,12 +177,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-home</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-smart</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -5712,7 +5712,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-cooking-appliances</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5722,7 +5722,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-power-banks</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -9557,7 +9557,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-dji</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -26352,7 +26352,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -32283,6 +32283,31 @@
   </url>
   <url>
     <loc>https://gearnote.net/product-xiaomi-redmi-watch-6-active-orange</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dji-osmo-360-ii-essential-combo-8k-360-camera</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-lxc1200e-w-lxc-type</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-zojirushi-rice-cooker-nx-ab18-wz-enbu-1sho</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-toyotomi-double-clean-kerosene-stove-rc-nw36-c-ivory</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-orange</loc>
     <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
   </url>
