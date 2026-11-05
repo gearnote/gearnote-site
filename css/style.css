@@ -1617,3 +1617,10 @@ img.cat-product-thumb {
 .dim-figure .df-lab { fill: var(--text); font-size: 14px; font-weight: 700; }
 .dim-figure .df-sub { fill: var(--text-muted); font-size: 13px; }
 .dim-figure .df-head { fill: var(--text-muted); font-size: 13px; font-weight: 700; letter-spacing: .04em; }
+
+/* prod-pos-v1: position-in-catalogue block */
+.pos-block { margin-top: 28px; }
+.pos-block h3 { margin-bottom: 10px; }
+.pos-block .pos-note { font-size: 0.85rem; color: var(--text-muted); margin-top: 10px; }
+.pos-block .pos-sub { margin-top: 14px; margin-bottom: 4px; font-weight: 600; }
+.pos-block .pos-list { margin: 0 0 4px 20px; line-height: 1.9; }
