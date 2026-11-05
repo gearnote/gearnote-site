@@ -1602,3 +1602,17 @@ img.cat-product-thumb {
 @media (min-width: 1300px) { .nav-search { display: flex; } .main-nav > a[href$="all-products"], .main-nav > a[href$="all-products.html"], .main-nav > a[href$="search"], .main-nav > a[href$="search.html"] { display: none; } }
 /* ダークモード固定（2026-10-06）：切替ボタンは表示しない */
 .theme-toggle { display: none !important; }
+
+/* prod-dim-v1: own-drawn size figure */
+.dim-figure { margin: 16px 0 8px; background: var(--surface); border-radius: var(--radius); box-shadow: var(--shadow); padding: 14px 14px 10px; }
+.dim-figure .df-row { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+.dim-figure svg { flex: 1 1 280px; width: 100%; max-width: 360px; height: auto; display: block; }
+.dim-figure figcaption { font-size: 0.78rem; color: var(--text-muted); line-height: 1.7; margin-top: 8px; }
+.dim-figure .df-top { fill: var(--surface-alt); stroke: var(--brand-light); stroke-width: 1.4; }
+.dim-figure .df-left { fill: var(--surface); stroke: var(--brand-light); stroke-width: 1.4; }
+.dim-figure .df-right { fill: var(--bg); stroke: var(--brand-light); stroke-width: 1.4; }
+.dim-figure .df-foot { fill: var(--brand); fill-opacity: .35; stroke: var(--brand-light); stroke-width: 1.6; }
+.dim-figure .df-a4 { fill: none; stroke: var(--text-muted); stroke-width: 1.2; stroke-dasharray: 5 4; }
+.dim-figure .df-lab { fill: var(--text); font-size: 14px; font-weight: 700; }
+.dim-figure .df-sub { fill: var(--text-muted); font-size: 13px; }
+.dim-figure .df-head { fill: var(--text-muted); font-size: 13px; font-weight: 700; letter-spacing: .04em; }
