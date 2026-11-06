@@ -6,12 +6,19 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 06 Nov 2026 11:07:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 21:32:23 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
     <guid isPermaLink="true">https://gearnote.net/all-products</guid>
     <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-amazon-echo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
+    <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -78,6 +85,13 @@
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ゲームの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-games</link>
+    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
+    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
     <link>https://gearnote.net/product-airpods-4</link>
     <guid isPermaLink="true">https://gearnote.net/product-airpods-4</guid>
@@ -120,6 +134,13 @@
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Bose Portable Smart Speaker の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bose-portable-smart-speaker</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bose-portable-smart-speaker</guid>
+    <description>Bose Portable Smart Speaker（ポータブルスマートスピーカー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>デロンギ マグニフィカSの特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-delonghi-magnifica-s</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-s</guid>
@@ -141,6 +162,13 @@
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Dyson PencilWash 水拭き掃除機の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-pencilwash</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-pencilwash</guid>
+    <description>Dyson PencilWash コードレス水拭き掃除機の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
     <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
@@ -159,6 +187,13 @@
     <link>https://gearnote.net/product-eufy-indoor-cam-s350</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-indoor-cam-s350</guid>
     <description>Anker Eufy Security Indoor Cam S350 見守りカメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL QUANTUM STREAMの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-quantum-stream</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-quantum-stream</guid>
+    <description>JBL QUANTUM STREAM USBマイクの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -267,6 +302,20 @@
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Switch2 Proコントローラーの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switch2-pro-controller</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switch2-pro-controller</guid>
+    <description>Nintendo Switch 2 Proコントローラーの特徴を整理。メリット・デメリット、DualSense・Joy-Conとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Joy-Conの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nintendo-joycon-pastel-purple-green</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nintendo-joycon-pastel-purple-green</guid>
+    <description>任天堂純正品 Joy-Con(L)/(R)の特徴を整理。メリット・デメリット、Switch2 Proコン・DualSenseとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>山善 コンパクトオーブントースター の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</link>
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</guid>
@@ -306,55 +355,6 @@
     <link>https://gearnote.net/category-kitchen</link>
     <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
     <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>EZVIZ ペットカメラ C6Nの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-ezviz-pet-camera-c6n</link>
-    <guid isPermaLink="true">https://gearnote.net/product-ezviz-pet-camera-c6n</guid>
-    <description>EZVIZ ペットカメラ C6Nの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Buds 8 Lite の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-lite</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-lite</guid>
-    <description>Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Redmi Buds 6 Playの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-6-play</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-6-play</guid>
-    <description>Xiaomi Redmi Buds 6 Play ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Buds 8 Proの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-pro</guid>
-    <description>Xiaomi REDMI Buds 8 Pro ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Redmi Pad 2 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-pad-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-pad-2</guid>
-    <description>シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore Liberty 4 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-liberty-4</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-4</guid>
-    <description>Anker Soundcore Liberty 4 完全ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore Liberty 5 Pro の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-liberty-5-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-5-pro</guid>
-    <description>Anker Soundcore Liberty 5 Pro 完全ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
