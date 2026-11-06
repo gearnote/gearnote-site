@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 06 Nov 2026 10:57:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 11:07:46 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -78,6 +78,202 @@
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
+    <link>https://gearnote.net/product-airpods-4</link>
+    <guid isPermaLink="true">https://gearnote.net/product-airpods-4</guid>
+    <description>Apple AirPods 4（ANCモデル）の特徴を整理。メリット・デメリット、WF-1000XM6・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple AirPods 5（アクティブノイズキャンセリング搭載）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-airpods-5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-airpods-5</guid>
+    <description>Apple AirPods 5の特徴を整理。進化したアクティブノイズキャンセリング、ライブ翻訳、H2チップ、IP57防塵防水など、メリット・デメリットをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple AirPods Max 2 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-airpods-max-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-airpods-max-2</guid>
+    <description>Apple AirPods Max 2の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beats Powerbeats Pro 2 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-beats-powerbeats-pro-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-beats-powerbeats-pro-2</guid>
+    <description>Beats Powerbeats Pro 2 ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beats Studio Buds+ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-beats-studio-buds-plus</link>
+    <guid isPermaLink="true">https://gearnote.net/product-beats-studio-buds-plus</guid>
+    <description>Beats Studio Buds+ ワイヤレスノイズキャンセリングイヤフォンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Beats Studio Pro の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-beats-studio-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-beats-studio-pro</guid>
+    <description>Beats Studio Pro ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ マグニフィカSの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-magnifica-s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-s</guid>
+    <description>デロンギ 全自動コーヒーマシン マグニフィカSの特徴を整理。メリット・デメリット、スティローザ・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ ラ・スペシャリスタ・アルテ の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-specialista-arte</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-specialista-arte</guid>
+    <description>デロンギ ラ・スペシャリスタ・アルテ EC9155Jの特徴を整理。メリット・デメリット、マグニフィカS・スティローザとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギ スティローザの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-delonghi-stilrosa-ec235j</link>
+    <guid isPermaLink="true">https://gearnote.net/product-delonghi-stilrosa-ec235j</guid>
+    <description>デロンギ エスプレッソメーカー スティローザ EC235Jの特徴を整理。メリット・デメリット、マグニフィカS・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
+    <description>Dyson Purifier Hot+Cool 空気清浄ファンヒーターの特徴を整理。メリット・デメリット、シャープKI-TX75・KI-TS50との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson Supersonic Travel ドライヤーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-supersonic-travel</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-supersonic-travel</guid>
+    <description>Dyson Supersonic Travel ヘアドライヤーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufy Security Indoor Cam S350 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-eufy-indoor-cam-s350</link>
+    <guid isPermaLink="true">https://gearnote.net/product-eufy-indoor-cam-s350</guid>
+    <description>Anker Eufy Security Indoor Cam S350 見守りカメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL TOUR PRO 3の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-tour-pro-3</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-tour-pro-3</guid>
+    <description>JBL TOUR PRO 3 ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL LIVE 770NC の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-live-770nc</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-live-770nc</guid>
+    <description>JBL LIVE 770NC ハイブリッドノイズキャンセリング オーバーイヤーヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL WAVE BEAM 2の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-wave-beam-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-beam-2</guid>
+    <description>JBL WAVE BEAM 2 ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ナノケアドライヤー EH-NA0Kの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-nanocare-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-nanocare-dryer</guid>
+    <description>パナソニック ナノケアドライヤー EH-NA0Kの特徴を整理。メリット・デメリット、シャープ IB-WX901・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>フィリップス ソニッケアー イージークリーン の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-philips-sonicare-easyclean</link>
+    <guid isPermaLink="true">https://gearnote.net/product-philips-sonicare-easyclean</guid>
+    <description>フィリップス 電動歯ブラシ ソニッケアー イージークリーン HX6554/07の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ReFaビューテックドライヤーの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-refa-beautech-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/product-refa-beautech-dryer</guid>
+    <description>ReFa ビューテックドライヤー スマートWの特徴を整理。メリット・デメリット、パナソニック ナノケア・シャープ IB-WX901との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 衣類乾燥除湿機 CV-T190 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-cv-t190</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-cv-t190</guid>
+    <description>シャープ 衣類乾燥除湿機 CV-T190-W コンプレッサー方式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 加湿レス空気清浄機 FU-SC01 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-fu-sc01</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-fu-sc01</guid>
+    <description>シャープ 加湿レス空気清浄機 FU-SC01-W プラズマクラスター7000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ ヘアドライヤー IB-P801 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ib-p801</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ib-p801</guid>
+    <description>シャープ ヘアドライヤー IB-P801-B プラズマクラスター 速乾エアロフォルムの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ IB-WX901の特徴｜大風量ドライヤーの選び方・デメリット｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ib-wx901</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ib-wx901</guid>
+    <description>シャープ ヘアドライヤー IB-WX901の特徴を整理。メリット・デメリット、パナソニック ナノケア・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>WF-1000XM6レビュー｜音質・ノイキャン・デメリットを徹底検証｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-wf-1000xm6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-wf-1000xm6</guid>
+    <description>ソニー WF-1000XM6の特徴を整理。メリット・デメリット、AirPods 4・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー LinkBuds WF-L900の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-linkbuds-wf-l900</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-linkbuds-wf-l900</guid>
+    <description>ソニー(SONY) LinkBuds WF-L900の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー WH-1000XM6 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-wh-1000xm6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-1000xm6</guid>
+    <description>ソニー WH-1000XM6 ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー WH-CH720N の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-wh-ch720n</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ch720n</guid>
+    <description>ソニー WH-CH720N ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー WH-ULT900N（ULT WEAR）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-wh-ult900n</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ult900n</guid>
+    <description>ソニー WH-ULT900N（ULT WEAR）ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>山善 コンパクトオーブントースター の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</guid>
+    <description>山善(YAMAZEN) トースター オーブントースター 2枚焼き コンパクト YTCB-C120の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ファッションの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-fashion</link>
     <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
@@ -113,248 +309,52 @@
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>iPhoneケース・アクセサリーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-iphone-accessories</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-iphone-accessories</guid>
-    <description>TORRAS iPhone 17 ガラスフィルム・TORRAS Guardian-Mag ケース・TORRAS Ostand Q3を徹底比較。各商品の特徴をもとに、保護性能・機能性の観点からおすすめのiPhoneアクセサリーを紹介します。全商品の比較表も掲載しています。</description>
+    <title>EZVIZ ペットカメラ C6Nの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ezviz-pet-camera-c6n</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ezviz-pet-camera-c6n</guid>
+    <description>EZVIZ ペットカメラ C6Nの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ゼンハイザー MOMENTUM 4 Wireless ワイヤレスヘッドホン の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sennheiser-momentum-4-wireless</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sennheiser-momentum-4-wireless</guid>
-    <description>ゼンハイザー MOMENTUM 4 Wirelessの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>Xiaomi REDMI Buds 8 Lite の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-lite</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-lite</guid>
+    <description>Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>違いを比較する記事一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-index</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
-    <description>GEARNOTEのAとBの違いを並べた比較記事658本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
+    <title>Xiaomi Redmi Buds 6 Playの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-buds-6-play</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-6-play</guid>
+    <description>Xiaomi Redmi Buds 6 Play ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>カシオ コレクション LRW-200H-7E2JF レディース腕時計 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-casio-collection-lrw200h-ladies</link>
-    <guid isPermaLink="true">https://gearnote.net/product-casio-collection-lrw200h-ladies</guid>
-    <description>カシオ コレクション LRW-200H-7E2JF レディース腕時計の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>Xiaomi REDMI Buds 8 Proの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-pro</guid>
+    <description>Xiaomi REDMI Buds 8 Pro ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Anker Soundcore Life Q20の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-life-q20</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-life-q20</guid>
-    <description>Anker Soundcore Life Q20（Bluetooth5.0 オーバーイヤー型ヘッドホン）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>Xiaomi Redmi Pad 2 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-pad-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-pad-2</guid>
+    <description>シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>HUAWEI WATCH FIT 4の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-huawei-watch-fit-4</link>
-    <guid isPermaLink="true">https://gearnote.net/product-huawei-watch-fit-4</guid>
-    <description>HUAWEI WATCH FIT 4の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>Anker Soundcore Liberty 4 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-liberty-4</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-4</guid>
+    <description>Anker Soundcore Liberty 4 完全ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Samsung Galaxy Watch8 40mmの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-galaxy-watch8-40mm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-watch8-40mm</guid>
-    <description>Samsung Galaxy Watch8 40mmの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SUUNTO RUNの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-suunto-run</link>
-    <guid isPermaLink="true">https://gearnote.net/product-suunto-run</guid>
-    <description>SUUNTO RUNの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JBL PARTYBOX110の特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jbl-partybox-110</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jbl-partybox-110</guid>
-    <description>JBL PARTYBOX110の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
-    <description>2026年のAmazonプライム感謝祭は終了しました。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品の仕様紹介は、引き続きご覧いただけます。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEIの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-huawei</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-huawei</guid>
-    <description>HUAWEI（ファーウェイ）製品の特徴、ワイヤレスイヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>final B2 カナル型イヤホンの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-final-b2-earphone</link>
-    <guid isPermaLink="true">https://gearnote.net/product-final-b2-earphone</guid>
-    <description>final「B2」の特徴を整理。バランスドアーマチュア型ドライバー、ステンレスMIM筐体、MMCXコネクター、装着感、注意点をまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>final UX1000 ワイヤレスヘッドホンの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-final-ux1000-wireless-headphones</link>
-    <guid isPermaLink="true">https://gearnote.net/product-final-ux1000-wireless-headphones</guid>
-    <description>final「UX1000」の特徴を整理。ハイブリッドノイズキャンセリング、最大70時間再生、マルチポイント対応、折りたたみ式、注意点をまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>final(ファイナル)の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-final</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-final</guid>
-    <description>final(ファイナル)のイヤホンの特徴、選び方をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロボット掃除機の選び方ガイド｜吸引力Pa・ナビゲーション・ステーションの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-robot-vacuum</guid>
-    <description>ロボット掃除機の吸引力（Pa）、ナビゲーション方式（LiDAR・レーザー）、水拭き機能、自動ゴミ収集ステーション、アプリ連携・Wi-Fi対応といった仕様の見方を、住まい別の考え方とあわせて解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートウォッチの選び方ガイド｜対応スマホ・バッテリー・GPS・防水の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-smartwatch</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-smartwatch</guid>
-    <description>スマートウォッチ・スマートバンドの種類と、対応するスマホ（iPhone／Android）、バッテリー持続時間、GPS、防水、決済機能などスペック表の見方を、使う目的別に解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI Band 11 スマートウォッチ ブラック（約1.62インチ AMOLED） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-huawei-band-11-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-huawei-band-11-black</guid>
-    <description>HUAWEI Band 11 スマートウォッチ ブラック（約1.62インチ AMOLED）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズ電動シェーバーの選び方ガイド｜往復式・回転式・刃数・防水の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-mens-shaver</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-mens-shaver</guid>
-    <description>メンズ電動シェーバーの往復式と回転式の違い、刃数の数え方、防水・水洗い、充電と使用時間、お手入れや替刃といった仕様表の見方を、当サイト掲載のブラウン・パナソニック・フィリップスなどの記載値とあわせて解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートリモコン・スマートホームハブの選び方ガイド｜赤外線・Matter・Wi-Fi帯域・対応家電の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-smart-remote</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-smart-remote</guid>
-    <description>スマートリモコンとスマートホームハブの違い、赤外線リモコンの対応範囲、Wi-Fiの周波数帯、Matter・Thread・Zigbeeといった規格、ハブが必要になる条件といった仕様表の見方を、当サイト掲載のSwitchBot・Aqara・Nature Remo・Tapo・Echo Dot Maxなどの記載値とあわせて解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アクションカメラ・360度カメラの選び方ガイド｜画質・手ブレ補正・防水・バッテリーの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-action-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-action-camera</guid>
-    <description>アクションカメラと360度カメラの違い、解像度とフレームレート、センサーサイズ、手ブレ補正、防水表記の条件、バッテリーと記録メディアといった仕様表の見方を、当サイト掲載のDJI Osmo・GoPro・Insta360の記載値とあわせて解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>新着商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/new-arrivals</link>
-    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
-    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Spigen iPhone 18 Pro Max ケース ウルトラ・ハイブリッド・マグフィット（フロスト・ディープブルー） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-spigen-iphone18promax-ultra-hybrid-magfit-frost-deepblue</link>
-    <guid isPermaLink="true">https://gearnote.net/product-spigen-iphone18promax-ultra-hybrid-magfit-frost-deepblue</guid>
-    <description>Spigen iPhone 18 Pro Max ケース ウルトラ・ハイブリッド・マグフィット（フロスト・ディープブルー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI WATCH FIT 4（ピンク） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-huawei-watch-fit-4-sapphire-glass-pink-sya-b19</link>
-    <guid isPermaLink="true">https://gearnote.net/product-huawei-watch-fit-4-sapphire-glass-pink-sya-b19</guid>
-    <description>HUAWEI WATCH FIT 4（ピンク）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Google Pixel Watch 5（45mm）Matte Black Wi-Fi の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-google-pixel-watch-5-45mm-matte-black-wifi</link>
-    <guid isPermaLink="true">https://gearnote.net/product-google-pixel-watch-5-45mm-matte-black-wifi</guid>
-    <description>Google Pixel Watch 5（45mm）Matte Black Wi-Fiの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JBL PARTYBOX110とPartyBox 130の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-jbl-partybox-110-vs-130</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-jbl-partybox-110-vs-130</guid>
-    <description>JBL PARTYBOX110とPartyBox 130の違いを、最大出力・接続端子・再生時間・対応機能の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI Band 11とHUAWEI WATCH FIT 4の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-huawei-band-11-vs-watch-fit-4</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-huawei-band-11-vs-watch-fit-4</guid>
-    <description>HUAWEI Band 11とHUAWEI WATCH FIT 4の違いを、ディスプレイ・重量・バッテリー・測位の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>final E500・E1000・B2の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-final-e500-vs-e1000-vs-b2</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-final-e500-vs-e1000-vs-b2</guid>
-    <description>final E500・E1000・B2の違いを、ドライバー方式・インピーダンス・ケーブル・マイクの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI WATCH FIT 4（ピンク）とSUUNTO RUNの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-huawei-watch-fit-4-vs-suunto-run</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-huawei-watch-fit-4-vs-suunto-run</guid>
-    <description>HUAWEI WATCH FIT 4（ピンク）とSUUNTO RUNの違いを、画面・重さ・バッテリー・防水・GPSの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファイル・バインダー・クリアブック・スタンプ台の選び方ガイド｜穴数・収容枚数・とじ厚・インキの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-office-file</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-office-file</guid>
-    <description>2穴ファイルとクリアブック（30穴）の違い、収容枚数ととじ厚の読み方、クリアポケット・ホルダー・ボックスの選び方、スタンプ台・朱肉・スタンパーの紙との相性まで、当サイト掲載のコクヨ・キングジム・リヒトラブ・シヤチハタなどのメーカー公開仕様の記載をもとに解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>PC周辺のケース・ポーチ・ケーブル整理の選び方ガイド｜対応機種・内寸・撥水と防水・ケーブルトレー・スリーブの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-pc-case-cable</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-pc-case-cable</guid>
-    <description>MacBook用のスリーブケース・ハードケース・インナーケース、Apple Pencilのシリコンケース、ガジェットポーチ、デスク下のケーブルトレー、ケーブルスリーブ、デスクオーガナイザーの見方を、当サイト掲載のtomtoc・エレコム・AhaStyle・Tuoniton・NoetixCo・JOTO・JEJアステージの記載値とあわせて解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>腕時計の選び方ガイド｜クォーツ・機械式・防水表記・ケース径・精度・バンド幅の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-wristwatch-spec</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-wristwatch-spec</guid>
-    <description>腕時計の仕様表にあるクォーツと機械式（自動巻き）の違い、平均月差・日差などの精度表記、ケースサイズ・厚み・質量、日常生活用防水と気圧防水の表記、バンド素材とバンド幅、時計ベルト・工具・収納ケースの見方を、当サイト掲載のカシオ・セイコー・オリエント・シチズンQ&amp;Qなどの記載値とあわせて解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ウェアラブル・ヘッドホン・パーティースピーカー・ストリーミングスティックの選び方ガイド｜対応端末・電池・防水・接続方式の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-connected-gadgets</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-connected-gadgets</guid>
-    <description>GPSウォッチ・スマートウォッチ・バンド型トラッカー・キッズ向けウォッチ、有線・Bluetoothのヘッドホン、カラオケ用のパーティースピーカー、テレビにつなぐストリーミングスティックについて、対応端末・接続方式・電池・防水・重量の読み方を、当サイト掲載のGarmin・Google・Samsung・WHOOP・HyperX・Soundcore・Rokuなどの記載値とあわせて解説します。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DJI Osmo 360 II ゲット&amp;セットコンボ（8K 360度カメラ・105GB内蔵ストレージ） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dji-osmo-360-ii-get-and-set-combo-8k-360-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-360-ii-get-and-set-combo-8k-360-camera</guid>
-    <description>DJI Osmo 360 II ゲット&amp;セットコンボ（8K 360度カメラ・105GB内蔵ストレージ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイロボット ルンバ Plus 675 Combo V185060（AutoWash充電ステーション付き） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</link>
-    <guid isPermaLink="true">https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</guid>
-    <description>アイロボット ルンバ Plus 675 Combo V185060（AutoWash充電ステーション付き）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>データ一覧｜GEARNOTE掲載商品の仕様を1枚の表にまとめたデータ集｜GEARNOTE</title>
-    <link>https://gearnote.net/data</link>
-    <guid isPermaLink="true">https://gearnote.net/data</guid>
-    <description>GEARNOTEに掲載している商品の仕様表の数字を、ジャンルごとに1枚の表にまとめたデータ集です。集計（件数・最小・中央値・最大）、集計方法、CSV、引用の書き方つき。</description>
+    <title>Anker Soundcore Liberty 5 Pro の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-liberty-5-pro</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-5-pro</guid>
+    <description>Anker Soundcore Liberty 5 Pro 完全ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
