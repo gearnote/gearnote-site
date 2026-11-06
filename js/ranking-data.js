@@ -28733,8 +28733,8 @@ const RANKING_POOL = [
     page: "product-xiaomi-poco-f9-ultra-16gb-512gb-black.html",
   },
   {
-    name: "HUAWEI WATCH FIT 4 NEW サファイアガラス スマートウォッチ 薄型軽量 10日間バッテリー GPS 通知 心拍数 睡眠 ピンク",
-    excerpt: "HUAWEI WATCH FIT 4 サファイアガラス ピンク（SYA-B19）。1.82インチAMOLED、約27g、約10日間バッテリー、5ATM防水、GPS内蔵と記載。",
+    name: "HUAWEI WATCH FIT 4 NEW スマートウォッチ 薄型軽量 10日間バッテリー GPS 通知 心拍数 睡眠 ピンク",
+    excerpt: "HUAWEI WATCH FIT 4（ピンク）。1.82インチAMOLED、約27g、約10日間バッテリー、5ATM防水、GPS内蔵と記載。",
     img: "https://m.media-amazon.com/images/I/61p-Nk40fiL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HJH6RWDD?tag=hide0122-22",
     page: "product-huawei-watch-fit-4-sapphire-glass-pink-sya-b19.html",
@@ -29349,8 +29349,8 @@ const RANKING_POOL = [
     page: "product-panasonic-ionity-dryer-eh-ne7p-v-misty-lavender.html",
   },
   {
-    name: "ルンバ（Roomba） Plus 675 Combo ロボット + AutoWash™ 充電ステーション アイロボット（iRobot） 水拭き両用 モップスプレー 30,000Pa 全自動ステーション 自動ゴミ収集 モップ温水洗浄・温風乾燥 マッピング 障害物回避 アプリ操作 V185060",
-    excerpt: "アイロボット ルンバ Plus 675 Combo V185060。30,000Pa、モップスプレーの水拭き、AutoWash充電ステーション（自動ゴミ収集・モップ温水洗浄と温風乾燥）、マッピング、障害物回避と記載。",
+    name: "ルンバ（Roomba） Plus 675 Combo ロボット + AutoWash™ 充電ステーション アイロボット（iRobot） 水拭き両用 モップスプレー マッピング 障害物回避 アプリ操作 V185060",
+    excerpt: "アイロボット ルンバ Plus 675 Combo V185060。モップスプレーと温水ローラーによる水拭き、AutoWash充電ステーション（最大3か月間のハンズフリーメンテナンス）とメーカー公式ストアに記載。",
     img: "https://m.media-amazon.com/images/I/718pcT15hBL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HDD66B24?tag=hide0122-22",
     page: "product-irobot-roomba-plus-675-combo-v185060-autowash.html",
@@ -29538,8 +29538,8 @@ const RANKING_POOL = [
     page: "product-dainichi-sekiyu-fan-heater-fw-4226nc-w.html",
   },
   {
-    name: "HUAWEI WATCH FIT 4 NEW サファイアガラス スマートウォッチ 薄型軽量 10日間バッテリー GPS 通知 心拍数 睡眠 ブラック",
-    excerpt: "HUAWEI WATCH FIT 4 サファイアガラス SYA-B19（ブラック）。1.82インチAMOLED、約27g・約9.5mm、GPS内蔵、5ATM、通常使用で最大10日間と記載。",
+    name: "HUAWEI WATCH FIT 4 NEW スマートウォッチ 薄型軽量 10日間バッテリー GPS 通知 心拍数 睡眠 ブラック",
+    excerpt: "HUAWEI WATCH FIT 4（ブラック）。1.82インチAMOLED、約27g・約9.5mm、GPS内蔵、5ATM、通常使用で最大10日間と記載。",
     img: "https://m.media-amazon.com/images/I/710RvS58VpL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HJH291KS?tag=hide0122-22",
     page: "product-huawei-watch-fit-4-sapphire-glass-black-sya-b19.html",
