@@ -29614,4 +29614,11 @@ const RANKING_POOL = [
     link: "https://www.amazon.co.jp/dp/B0GYRHXQGL?tag=hide0122-22",
     page: "product-anker-nano-power-bank-maggo-plus-10000mah-orange.html",
   },
+  {
+    name: "象印 炊飯器 炎舞炊き 4合 NW-UU07-WZ 白",
+    excerpt: "象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白）。圧力IH、わが家炊き81通り、保温30時間、お手入れ点数2点、6kgと記載。",
+    img: "https://m.media-amazon.com/images/I/51YajnMakoL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0G6FBYFSJ?tag=hide0122-22",
+    page: "product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go.html",
+  },
 ];

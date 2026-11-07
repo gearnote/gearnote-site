@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 07 Nov 2026 08:22:18 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 08:30:45 +0000</lastBuildDate>
+  <item>
+    <title>象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白）</title>
+    <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</link>
+    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</guid>
+    <description>象印マホービンの圧力IH炊飯器「炎舞炊き」の4合炊き、NW-UU07-WZ（白）です。</description>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Anker Nano Power Bank (MagGo, Plus) 10000mAh</title>
     <link>https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-orange</link>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-epson-ew-456a1-a4-inkjet-multifunction-printer-2026-summer</link>
     <guid isPermaLink="true">https://gearnote.net/product-epson-ew-456a1-a4-inkjet-multifunction-printer-2026-summer</guid>
     <description>エプソンのA4インクジェット複合機「カラリオ」、型番EW-456A1（2026年夏モデル）です。</description>
-    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ハイセンス 冷蔵庫 252L</title>
-    <link>https://gearnote.net/product-hisense-fridge-252l-hr-k25l-s-slim-2door-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/product-hisense-fridge-252l-hr-k25l-s-slim-2door-2026</guid>
-    <description>ハイセンスの2ドア冷凍冷蔵庫、型番HR-K25L-S（スペースグレイ・2026年モデル）です。</description>
     <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
