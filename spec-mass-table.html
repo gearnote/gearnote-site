@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>質量（重さ）早見表｜ジャンル別の最小・中央値・最大｜GEARNOTE</title>
+<meta name="description" content="GEARNOTEのデータ一覧から、30ジャンル・390商品のメーカー記載の質量を、ジャンル別の最小・中央値・最大で集計した早見表です。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="質量（重さ）早見表｜ジャンル別の最小・中央値・最大｜GEARNOTE">
+<meta property="og:description" content="GEARNOTEのデータ一覧から、30ジャンル・390商品のメーカー記載の質量を、ジャンル別の最小・中央値・最大で集計した早見表です。">
+<meta property="og:url" content="https://gearnote.net/spec-mass-table">
+<link rel="canonical" href="https://gearnote.net/spec-mass-table">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="質量（重さ）早見表｜ジャンル別の最小・中央値・最大｜GEARNOTE">
+<meta name="twitter:description" content="GEARNOTEのデータ一覧から、30ジャンル・390商品のメーカー記載の質量を、ジャンル別の最小・中央値・最大で集計した早見表です。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"質量（重さ）早見表"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ジャンルをまたいで、質量を比べてよいですか？","acceptedAnswer":{"@type":"Answer","text":"あまりおすすめできません。本体だけか、スタンドや付属品を含むかなど、質量の書かれ方が、ジャンルや商品ごとに違うためです。同じジャンルの中で、条件をそろえて比べてください。"}},{"@type":"Question","name":"質量が書かれていない商品があるのはなぜですか？","acceptedAnswer":{"@type":"Answer","text":"メーカーが書いていない、または、GEARNOTEのデータ一覧で、条件をそろえて載せられなかったものも含みます。メーカーが隠している、という意味ではありません。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="data.html">データ一覧</a> ／ 質量（重さ）早見表</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">質量（重さ）早見表｜ジャンル別の最小・中央値・最大</h1>
+        <p class="desc">家電・ガジェットの重さを、ジャンル別に並べました。持ち運びや置き場所を考えるときの目安になる、データ一覧の数字の集計です。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月6日（集計：2026年11月9日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>このレポートで数えたもの</h2>
+        <p>GEARNOTEのデータ一覧のうち、質量（重さ）の数字が8商品以上そろっている<strong>30ジャンル・390商品</strong>を集計しました（筆者の計算）。データの時点は2026年10月31日〜11月6日です。</p>
+        <p>質量の数字が見つからなかった商品は、メーカーが書いていないとは限らず、確認できなかったものも含みます。表の「数字がある台数 / 掲載台数」で、数字がある商品の数を示します。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>ジャンル別：質量の最小・中央値・最大</h2>
+        <p>中央値が重いジャンルから順に並べています（順位ではありません）。単位は、ジャンルによってgとkgがあります（並べ替えはgに直して計算しています）。ジャンル名から、各データ一覧に移れます。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>数字がある台数 / 掲載台数</th><th>最小</th><th>中央値</th><th>最大</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-microwave-oven.html">電子レンジ・オーブンレンジ</a></th><td>10 / 11</td><td>9.6kg</td><td>13.55kg</td><td>23kg</td></tr>
+            <tr><th><a href="data-dehumidifier.html">除湿機</a></th><td>12 / 12</td><td>7.7kg</td><td>12kg</td><td>16.9kg</td></tr>
+            <tr><th><a href="data-portable-power-station.html">ポータブル電源</a></th><td>8 / 8</td><td>3.6kg</td><td>11.15kg</td><td>19kg</td></tr>
+            <tr><th><a href="data-tv.html">テレビ</a></th><td>11 / 12</td><td>6.1kg</td><td>9.5kg</td><td>28.5kg</td></tr>
+            <tr><th><a href="data-cooler-box.html">クーラーボックス・保冷バッグ・ポータブル冷蔵庫</a></th><td>10 / 12</td><td>0.11kg</td><td>7.95kg</td><td>12kg</td></tr>
+            <tr><th><a href="data-rice-cooker.html">炊飯器</a></th><td>15 / 18</td><td>1.4kg</td><td>5.4kg</td><td>9.5kg</td></tr>
+            <tr><th><a href="data-air-purifier.html">空気清浄機</a></th><td>22 / 27</td><td>1.2kg</td><td>4.95kg</td><td>12kg</td></tr>
+            <tr><th><a href="data-oven-toaster.html">オーブントースター</a></th><td>8 / 11</td><td>1.3kg</td><td>4.1kg</td><td>4.8kg</td></tr>
+            <tr><th><a href="data-monitor.html">モニター</a></th><td>12 / 18</td><td>0.78kg</td><td>3.56kg</td><td>5.89kg</td></tr>
+            <tr><th><a href="data-coffee-maker.html">コーヒーメーカー</a></th><td>9 / 17</td><td>1.7kg</td><td>3.4kg</td><td>9.76kg</td></tr>
+            <tr><th><a href="data-document-scanner.html">ドキュメントスキャナー</a></th><td>12 / 12</td><td>0.4kg</td><td>3kg</td><td>3.5kg</td></tr>
+            <tr><th><a href="data-humidifier.html">加湿器</a></th><td>24 / 30</td><td>0.195kg</td><td>3kg</td><td>10.2kg</td></tr>
+            <tr><th><a href="data-soundbar.html">サウンドバー</a></th><td>11 / 13</td><td>1.8kg</td><td>3kg</td><td>6.3kg</td></tr>
+            <tr><th><a href="data-circulator-fan.html">サーキュレーター・扇風機</a></th><td>23 / 31</td><td>0.07kg</td><td>2kg</td><td>5.5kg</td></tr>
+            <tr><th><a href="data-electric-blanket.html">電気毛布</a></th><td>15 / 20</td><td>0.5kg</td><td>1.1kg</td><td>2.6kg</td></tr>
+            <tr><th><a href="data-blender.html">ブレンダー・ミキサー</a></th><td>8 / 11</td><td>0.53kg</td><td>1.005kg</td><td>3.2kg</td></tr>
+            <tr><th><a href="data-portable-speaker.html">ポータブルスピーカー</a></th><td>26 / 30</td><td>200g</td><td>640.5g</td><td>2220g</td></tr>
+            <tr><th><a href="data-tablet.html">タブレット</a></th><td>11 / 15</td><td>293g</td><td>485g</td><td>620g</td></tr>
+            <tr><th><a href="data-clock.html">時計</a></th><td>11 / 13</td><td>170g</td><td>480g</td><td>3300g</td></tr>
+            <tr><th><a href="data-hair-dryer.html">ヘアドライヤー</a></th><td>8 / 17</td><td>280g</td><td>469g</td><td>550g</td></tr>
+            <tr><th><a href="data-power-strip.html">電源タップ・延長コード</a></th><td>8 / 13</td><td>57g</td><td>362g</td><td>630g</td></tr>
+            <tr><th><a href="data-vacuum-bottle.html">水筒・タンブラー</a></th><td>8 / 12</td><td>0.17kg</td><td>0.23kg</td><td>0.47kg</td></tr>
+            <tr><th><a href="data-headphone.html">ヘッドホン</a></th><td>11 / 44</td><td>125g</td><td>223g</td><td>320g</td></tr>
+            <tr><th><a href="data-usb-charger.html">USB充電器</a></th><td>17 / 28</td><td>52g</td><td>112g</td><td>567g</td></tr>
+            <tr><th><a href="data-wallet.html">財布・カードケース・キーケース</a></th><td>13 / 18</td><td>40g</td><td>105g</td><td>190g</td></tr>
+            <tr><th><a href="data-electric-toothbrush.html">電動歯ブラシ</a></th><td>10 / 20</td><td>30g</td><td>95g</td><td>130g</td></tr>
+            <tr><th><a href="data-usb-c-hub.html">USBハブ・ドッキングステーション</a></th><td>13 / 20</td><td>35g</td><td>83g</td><td>1592g</td></tr>
+            <tr><th><a href="data-microphone.html">マイク</a></th><td>10 / 14</td><td>10g</td><td>74g</td><td>880g</td></tr>
+            <tr><th><a href="data-external-storage.html">外付けストレージ</a></th><td>18 / 24</td><td>6g</td><td>27.85g</td><td>900g</td></tr>
+            <tr><th><a href="data-smartwatch.html">スマートウォッチ</a></th><td>16 / 37</td><td>15.95g</td><td>27.85g</td><td>56g</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>中央値がいちばん重いのは電子レンジ・オーブンレンジ、除湿機、ポータブル電源、いちばん軽いのはマイク、外付けストレージ、スマートウォッチです（筆者の計算）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>ジャンルごとの、質量の書かれ方</h2>
+        <p>質量は、「本体」「スタンドを除く」「ノズルを除く」「ブラシ装着時」など、どの状態の質量かが、ジャンルや商品で違います。このレポートで使った列の定義は、次のとおりです（データ一覧の見出しの表記）。同じジャンルの中でも、書かれ方の違う商品は、別の列に分けて集計されています。詳しくは<a href="spec-condition-ledger.html">条件の台帳</a>を見てください。</p>
+        <ul><li>電子レンジ・オーブンレンジ：質量</li><li>除湿機：質量</li><li>ポータブル電源：質量</li><li>テレビ：質量（スタンド含む）</li><li>クーラーボックス・保冷バッグ・ポータブル冷蔵庫：質量（本体）</li><li>炊飯器：質量</li><li>空気清浄機：質量</li><li>オーブントースター：質量</li><li>モニター：質量（スタンドを除いた本体のみ）</li><li>コーヒーメーカー：質量</li><li>ドキュメントスキャナー：質量</li><li>加湿器：質量</li><li>サウンドバー：質量（サウンドバー本体）</li><li>サーキュレーター・扇風機：質量（メーカー記載の本体質量）</li><li>電気毛布：質量</li><li>ブレンダー・ミキサー：質量（本体）</li><li>ポータブルスピーカー：質量（本体）</li><li>タブレット：質量</li><li>時計：質量（メーカーが1つの数字で記載した値）</li><li>ヘアドライヤー：質量（ノズルを除く）</li><li>電源タップ・延長コード：質量</li><li>水筒・タンブラー：質量（メーカー表示）</li><li>ヘッドホン：質量（コード・ケーブルを除く）</li><li>USB充電器：質量</li><li>財布・カードケース・キーケース：質量</li><li>電動歯ブラシ：質量（ブラシ・ブラシヘッド装着時）</li><li>USBハブ・ドッキングステーション：質量</li><li>マイク：質量（マイク本体。ワイヤレスは送信機1台）</li><li>外付けストレージ：質量（メーカー記載値）</li><li>スマートウォッチ：質量（ストラップ・バンドを除くと明記）</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>集計の方法と、限界</h2>
+        <ul>
+          <li>数字は、GEARNOTEのデータ一覧のCSVから、コードで集計しました。元の数字は、メーカーの公式情報で確認したものです。</li>
+          <li>質量の書かれ方（付属品・スタンド・水・バッテリーを含むか）が、ジャンルによって違うため、ジャンル間の数字は同じ条件の数字ではありません。目安として読んでください。</li>
+          <li>1ジャンルに質量の列が複数あるときは、数字が最も多い列だけを使っています。そのため、ジャンルの全商品が入っているわけではありません。</li>
+          <li>対象は、GEARNOTEに掲載している商品の範囲です。ジャンル全体や市場全体の傾向ではありません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「質量（重さ）早見表」（2026年10月31日〜11月6日のデータ、2026年11月9日集計）　https://gearnote.net/spec-mass-table</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/spec-mass-table"&gt;GEARNOTE「質量（重さ）早見表」（2026年10月31日〜11月6日のデータ、2026年11月9日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ジャンルをまたいで、質量を比べてよいですか？</h3>
+            <p>あまりおすすめできません。本体だけか、スタンドや付属品を含むかなど、質量の書かれ方が、ジャンルや商品ごとに違うためです。同じジャンルの中で、条件をそろえて比べてください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>質量が書かれていない商品があるのはなぜですか？</h3>
+            <p>メーカーが書いていない、または、GEARNOTEのデータ一覧で、条件をそろえて載せられなかったものも含みます。メーカーが隠している、という意味ではありません。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>関連ページ</h2>
+        <ul><li><a href="spec-condition-ledger.html">条件の台帳</a></li><li><a href="spec-power-table.html">家電の消費電力 早見表</a></li><li><a href="spec-weight-ratio.html">重さあたりの容量・出力 早見表</a></li><li><a href="data.html">データ一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
