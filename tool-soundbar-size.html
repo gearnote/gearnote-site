@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>サウンドバーの置き場所チェック｜置ける幅・高さから寸法で絞る｜GEARNOTE</title>
+<meta name="description" content="置きたい場所の幅(cm)と高さの上限を入れると、GEARNOTEに掲載しているサウンドバーのうち、メーカー記載の寸法で収まる商品を表示します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="サウンドバーの置き場所チェック｜置ける幅・高さから寸法で絞る｜GEARNOTE">
+<meta property="og:description" content="置きたい場所の幅(cm)と高さの上限を入れると、GEARNOTEに掲載しているサウンドバーのうち、メーカー記載の寸法で収まる商品を表示します。">
+<meta property="og:url" content="https://gearnote.net/tool-soundbar-size">
+<link rel="canonical" href="https://gearnote.net/tool-soundbar-size">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="サウンドバーの置き場所チェック｜置ける幅・高さから寸法で絞る｜GEARNOTE">
+<meta name="twitter:description" content="置きたい場所の幅(cm)と高さの上限を入れると、GEARNOTEに掲載しているサウンドバーのうち、メーカー記載の寸法で収まる商品を表示します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"サウンドバーの置き場所チェック"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"サウンドバーの幅は、テレビの幅に合わせるものですか？","acceptedAnswer":{"@type":"Answer","text":"決まりはなく、置き場所の幅に収まるかを確認するのが基本です。このツールは、置ける幅と高さの数字が、メーカー記載の寸法に収まるかを機械的に絞ります。"}},{"@type":"Question","name":"高さの記載がない商品は、どう表示されますか？","acceptedAnswer":{"@type":"Answer","text":"高さの上限を入れても、幅だけで絞って表示します。高さが収まるかは、商品ページやメーカーの情報で確認してください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="tools.html">計算ツール</a> ／ サウンドバーの置き場所チェック</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">サウンドバーの置き場所チェック｜置ける幅・高さから、寸法で絞る</h1>
+        <p class="desc">置きたい場所の幅(と高さ)を入れると、メーカー記載の寸法で収まるサウンドバーを一覧にします。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月6日（集計：2026年11月9日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="sb-w">置きたい場所の幅(cm)</label><input id="sb-w" type="number" inputmode="decimal" min="0" value="80"></div>
+            <div class="tl-field"><label for="sb-h">高さの上限(cm・空欄なら見ない)</label><input id="sb-h" type="number" inputmode="decimal" min="0" value=""></div>
+            <div class="tl-field"><label for="sb-type">区分</label><select id="sb-type"><option value="all">すべて</option><option value="n">本体のみ</option><option value="s">別体のサブウーファー付き</option></select></div>
+          </div>
+          <div class="tl-presets"><span class="tl-note">幅の例：</span><button type="button" data-sb="60">60cm</button><button type="button" data-sb="80">80cm</button><button type="button" data-sb="95">95cm</button><button type="button" data-sb="110">110cm</button></div>
+          <p class="tl-result" id="sb-sum"></p>
+        </div>
+        <div id="sb-out"></div>
+        <script>
+(function(){
+var DATA=[{"n":"Bose TV Speaker（第2世代）","s":"bose-tv-speaker-2nd-gen","w":596.0,"h":57.0,"k":2.0,"sub":0},{"n":"ヤマハ SR-C20A","s":"yamaha-sr-c20a-soundbar","w":600.0,"h":64.0,"k":1.8,"sub":0},{"n":"REGZA サウンドバー RA-B100(E) 2.0ch（最大100W・DTS Virtual:X）","s":"regza-soundbar-ra-b100-e-2ch-100w-dts-virtual-x","w":600.0,"h":63.0,"k":3.0,"sub":0},{"n":"FUNLOGY Soundbar","s":"funlogy-soundbar","w":610.0,"h":62.0,"k":2.3,"sub":0},{"n":"Sonos Beam（Gen 2）","s":"sonos-beam-gen2","w":651.0,"h":68.0,"k":2.88,"sub":0},{"n":"ソニー サウンドバー HT-X8500","s":"sony-ht-x8500-soundbar","w":890.0,"h":null,"k":3.1,"sub":0},{"n":"ヤマハ SR-B30A","s":"yamaha-sr-b30a-soundbar","w":910.0,"h":68.0,"k":3.9,"sub":0},{"n":"JBL BAR 300 MK2","s":"jbl-bar-300-mk2","w":940.0,"h":50.5,"k":2.9,"sub":0},{"n":"Bose Smart Ultra Soundbar","s":"bose-smart-ultra-soundbar","w":1045.0,"h":58.2,"k":5.75,"sub":0},{"n":"ゼンハイザー AMBEO Soundbar Plus","s":"sennheiser-ambeo-soundbar-plus","w":1051.0,"h":77.0,"k":6.3,"sub":0},{"n":"TCL サウンドバー S55H","s":"tcl-soundbar-s55h","w":810.0,"h":null,"k":null,"sub":1},{"n":"JBL CINEMA SB580","s":"jbl-cinema-sb580","w":950.0,"h":64.0,"k":null,"sub":1},{"n":"パナソニック SC-HTB900-K","s":"panasonic-sc-htb900-soundbar","w":1050.0,"h":78.0,"k":6.0,"sub":1}];
+function g(i){return document.getElementById(i);}
+
+        function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+        function renderTable(host,head,rows){host.textContent='';if(!rows.length){host.appendChild(el('p','tl-note','当てはまる商品はありませんでした。'));return;}
+          var w=el('div','compare-table-wrap'),t=el('table','compare-table guide-table'),th=el('thead'),tr=el('tr');
+          head.forEach(function(h){tr.appendChild(el('th','',h));});th.appendChild(tr);t.appendChild(th);var tb=el('tbody');
+          rows.forEach(function(r){var tr2=el('tr');r.forEach(function(c,i){var cell=el(i===0?'th':'td');
+            if(c&&typeof c==='object'&&c.href){var a=el('a','',c.t);a.href=c.href;cell.appendChild(a);}else{cell.textContent=(c===null||c===undefined)?'記載なし':c;}
+            tr2.appendChild(cell);});tb.appendChild(tr2);});t.appendChild(tb);w.appendChild(t);host.appendChild(w);}
+
+function run(){
+  var wcm=parseFloat(g('sb-w').value),hraw=g('sb-h').value,hcm=parseFloat(hraw),out=g('sb-out'),sum=g('sb-sum');
+  var ty=g('sb-type').value;
+  if(!(wcm>0)){sum.textContent='置きたい場所の幅(cm)を入れてください。';out.textContent='';return;}
+  var useH=(hraw!==''&&hcm>0);
+  var base=DATA.filter(function(x){return ty==='all'||(ty==='n'&&x.sub===0)||(ty==='s'&&x.sub===1);});
+  var rows=base.filter(function(x){if(x.w>wcm*10)return false;if(useH&&x.h!==null&&x.h>hcm*10)return false;return true;}).sort(function(a,b){return b.w-a.w;});
+  var unk=rows.filter(function(x){return useH&&x.h===null;}).length;
+  sum.textContent='幅 '+wcm+'cm'+(useH?'・高さ '+hcm+'cm':'')+' に収まる(メーカー記載の寸法で)サウンドバーは、'+base.length+' 台のうち '+rows.length+' 台です。'+(unk>0?'うち '+unk+' 台は高さの記載がないため、幅だけで絞っています。':'');
+  function v(x,u){return x===null?null:String(x)+u;}
+  renderTable(out,['商品','幅(mm)','高さ(mm)','質量(kg)','区分'],rows.map(function(x){return [{t:x.n,href:'product-'+x.s+'.html'},String(x.w),x.h===null?null:String(x.h),x.k===null?null:String(x.k),x.sub?'別体のサブウーファー付き(サブウーファーの寸法は入っていません)':'本体のみ'];}));
+}
+['sb-w','sb-h','sb-type'].forEach(function(i){g(i).addEventListener('input',run);});
+document.querySelectorAll('[data-sb]').forEach(function(b){b.addEventListener('click',function(){g('sb-w').value=b.getAttribute('data-sb');run();});});
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>幅(mm)が「入力した幅(cm)×10」以下の商品を、幅の大きい順に表示します。高さの上限を入れたときは、高さ(mm)もその上限以下の商品に絞ります。</li>
+          <li>数字は、<a href="data-soundbar.html">サウンドバーのデータ一覧</a>の幅・高さ(メーカー記載の外形寸法)です。幅の記載が確認できた13台が対象です。</li>
+          <li>高さの記載がない商品は、高さの上限を入れても、幅だけで絞って表示します(高さが収まるかは分かりません)。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>使うときの注意</h2>
+        <ul>
+          <li>高さは、メーカーが外形寸法として書いている数字です。脚を含むかどうか、壁掛け用の金具を含むかどうかは、商品ごとに違い、書かれていないものもあります。置く前に、各商品のページとメーカーの情報で確認してください。</li>
+          <li>「別体のサブウーファー付き」の商品は、サブウーファーの寸法が入っていません。サブウーファーを置く場所は、別に確かめてください。</li>
+          <li>テレビの画面やリモコンの受光部を隠さない高さ、棚の奥行、コンセントの位置は、このツールでは分かりません。おすすめの商品を示すものではありません。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「サウンドバーの置き場所チェック」（2026年10月31日〜11月6日のデータ、2026年11月9日集計）　https://gearnote.net/tool-soundbar-size</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-soundbar-size"&gt;GEARNOTE「サウンドバーの置き場所チェック」（2026年10月31日〜11月6日のデータ、2026年11月9日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>サウンドバーの幅は、テレビの幅に合わせるものですか？</h3>
+            <p>決まりはなく、置き場所の幅に収まるかを確認するのが基本です。このツールは、置ける幅と高さの数字が、メーカー記載の寸法に収まるかを機械的に絞ります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>高さの記載がない商品は、どう表示されますか？</h3>
+            <p>高さの上限を入れても、幅だけで絞って表示します。高さが収まるかは、商品ページやメーカーの情報で確認してください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>関連ページ</h2>
+        <ul><li><a href="data-soundbar.html">サウンドバーのデータ一覧</a></li><li><a href="guide-soundbar.html">サウンドバーの選び方ガイド</a></li><li><a href="tools.html">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

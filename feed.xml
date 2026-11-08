@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 08 Nov 2026 16:58:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 17:01:05 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -71,6 +71,76 @@
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Dyson Purifier Hot+Coolの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-purifier-hotcool</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-hotcool</guid>
+    <description>Dyson Purifier Hot+Cool 空気清浄ファンヒーターの特徴を整理。メリット・デメリット、シャープKI-TX75・KI-TS50との比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 超音波式加湿器の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-humidifier</guid>
+    <description>アイリスオーヤマ 超音波式加湿器 UHM-280S-Wの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBL LIVE 770NC の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jbl-live-770nc</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jbl-live-770nc</guid>
+    <description>JBL LIVE 770NC ハイブリッドノイズキャンセリング オーバーイヤーヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 加湿レス空気清浄機 FU-SC01 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-fu-sc01</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-fu-sc01</guid>
+    <description>シャープ 加湿レス空気清浄機 FU-SC01-W プラズマクラスター7000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ 空気清浄機 KC-S50W の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-kc-s50w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-kc-s50w</guid>
+    <description>シャープ 空気清浄機 KC-S50W-W プラズマクラスター7000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ KI-TS50の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-ts50</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-ts50</guid>
+    <description>シャープ 空気清浄機 KI-TS50の特徴を整理。メリット・デメリット、KI-TX75・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ KI-TX75の特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ki-tx75</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ki-tx75</guid>
+    <description>シャープ 空気清浄機 KI-TX75の特徴を整理。メリット・デメリット、KI-TS50・Dyson Purifierとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ソニー WH-CH720N の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-wh-ch720n</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ch720n</guid>
+    <description>ソニー WH-CH720N ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Switch2 Proコントローラーの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switch2-pro-controller</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switch2-pro-controller</guid>
+    <description>Nintendo Switch 2 Proコントローラーの特徴を整理。メリット・デメリット、DualSense・Joy-Conとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Joy-Conの特徴・比較｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nintendo-joycon-pastel-purple-green</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nintendo-joycon-pastel-purple-green</guid>
+    <description>任天堂純正品 Joy-Con(L)/(R)の特徴を整理。メリット・デメリット、Switch2 Proコン・DualSenseとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ファッションの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-fashion</link>
     <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
@@ -106,6 +176,62 @@
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Anker Solix C1000 ポータブル電源 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-solix-c1000</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-solix-c1000</guid>
+    <description>Anker ポータブル電源 1056Wh Solix C1000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Anker Soundcore Liberty 4 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-liberty-4</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-4</guid>
+    <description>Anker Soundcore Liberty 4 完全ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi Mi 空気清浄機 3Hの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-air-purifier-3h</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-air-purifier-3h</guid>
+    <description>Xiaomi Mi 空気清浄機 3H（日本正規代理店品）AC-M6-SCの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 空気清浄機 PMAC-100 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-air-purifier-pmac100</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-air-purifier-pmac100</guid>
+    <description>アイリスオーヤマ 空気清浄機 14畳 PMAC-100の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクール MX KEYS S の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-logicool-mx-keys-s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-logicool-mx-keys-s</guid>
+    <description>ロジクール ワイヤレスキーボード MX KEYS Sの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dyson Purifier Big+Quiet の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-purifier-big-quiet</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-purifier-big-quiet</guid>
+    <description>Dyson(ダイソン) 空気清浄機 Purifier Big+Quiet（BP02）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エレコム Bluetoothフルキーボード の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-bluetooth-keyboard-fullsize</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-bluetooth-keyboard-fullsize</guid>
+    <description>エレコム ワイヤレスキーボード Bluetooth フルキーボード テンキー付の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ 超音波式加湿器 KHM-1092 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-koizumi-ultrasonic-humidifier-khm1092</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-ultrasonic-humidifier-khm1092</guid>
+    <description>コイズミ(Koizumi) 超音波式 小型加湿器 アロマ対応 KHM-1092の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-cooking-appliances</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
@@ -113,249 +239,123 @@
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>新着商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/new-arrivals</link>
-    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
-    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
+    <title>フィリップス 空気清浄機 600iシリーズ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-philips-air-purifier-600i</link>
+    <guid isPermaLink="true">https://gearnote.net/product-philips-air-purifier-600i</guid>
+    <description>PHILIPS 空気清浄機 AC0650/10（600iシリーズ）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>加湿器の仕様一覧｜タンク容量・加湿量・適用床面積・消費電力・質量（掲載30台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-humidifier</link>
-    <guid isPermaLink="true">https://gearnote.net/data-humidifier</guid>
-    <description>GEARNOTEに掲載している加湿器（超音波式・気化式／スチーム式・ハイブリッド式・スチームファン式）30台の、水タンク容量（L）、加湿量（mL/h）、適用床面積の目安（畳）、消費電力（W）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <title>フィリップス 空気清浄機 AC0850(800iシリーズ)の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-philips-air-purifier-800i</link>
+    <guid isPermaLink="true">https://gearnote.net/product-philips-air-purifier-800i</guid>
+    <description>PHILIPS 空気清浄機 AC0850 卓上 小型 HEPAフィルター 800iシリーズの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>仕様表で数字が見つからない項目｜63ジャンル・1175商品の記載状況レポート｜GEARNOTE</title>
-    <link>https://gearnote.net/data-spec-disclosure</link>
-    <guid isPermaLink="true">https://gearnote.net/data-spec-disclosure</guid>
-    <description>GEARNOTEのデータ一覧63ジャンル・1175商品の仕様表で、条件をそろえた数字が見つかる割合を項目の種類別・ジャンル別に集計しました。CSVつき。</description>
+    <title>ロジクール ゲーミングキーボード G213r の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-logicool-g213-gaming-keyboard</link>
+    <guid isPermaLink="true">https://gearnote.net/product-logicool-g213-gaming-keyboard</guid>
+    <description>Logicool G ゲーミングキーボード G213rの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>同じ名前でも条件が違う仕様の数字｜質量・消費電力・畳数の台帳｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-condition-ledger</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-condition-ledger</guid>
-    <description>仕様表の質量・消費電力・運転音・連続使用時間・適用畳数が、商品ごとにどんな条件で書かれているかを、63ジャンルのデータ一覧から集めて並べた台帳です。</description>
+    <title>Insta360 X6 通常版 8K 360度カメラ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-insta360-x6</link>
+    <guid isPermaLink="true">https://gearnote.net/product-insta360-x6</guid>
+    <description>Insta360 X6 8K 360度カメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>世代差ログ｜同じシリーズで型番が進むと、仕様の数字はどう変わる？｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-generation-log</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-generation-log</guid>
-    <description>GEARNOTEのデータ一覧から、同じシリーズで型番や世代が進んだ商品の仕様の数字を並べて、変わった数字・同じだった数字・小さくなった数字をまとめたログです。</description>
+    <title>ゼンハイザー MOMENTUM 4 Wireless ワイヤレスヘッドホン の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sennheiser-momentum-4-wireless</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sennheiser-momentum-4-wireless</guid>
+    <description>ゼンハイザー MOMENTUM 4 Wirelessの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>キーボードの横幅チェック｜置ける幅から入るキーボードを探す｜GEARNOTE</title>
-    <link>https://gearnote.net/tool-keyboard-width</link>
-    <guid isPermaLink="true">https://gearnote.net/tool-keyboard-width</guid>
-    <description>机の置ける幅(mm)を入れると、GEARNOTEに掲載しているキーボードのうち、メーカー記載の横幅が収まるものと、余りの幅(mm)を表示します。</description>
+    <title>Levoit 加湿器 Dual150 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-levoit-humidifier-dual150</link>
+    <guid isPermaLink="true">https://gearnote.net/product-levoit-humidifier-dual150</guid>
+    <description>Levoit（レボイト）加湿器 アロマ 卓上 大容量 3L 17畳 超音波式 静音 Dual150 ホワイトの特徴を整理。上部給水やナイトライト、メリット・デメリットをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>空気清浄機の畳数チェック｜部屋の広さから適用畳数で絞る｜GEARNOTE</title>
-    <link>https://gearnote.net/tool-air-purifier-area</link>
-    <guid isPermaLink="true">https://gearnote.net/tool-air-purifier-area</guid>
-    <description>部屋の広さ(畳)を入れると、GEARNOTEに掲載している空気清浄機のうち、メーカー表記の適用畳数が足りる商品を表示します。同じページにある別の基準の畳数も一緒に出します。</description>
+    <title>Keychron K2 Version2 ワイヤレスメカニカルキーボードの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-keychron-k2-version2-hotswap-keyboard</link>
+    <guid isPermaLink="true">https://gearnote.net/product-keychron-k2-version2-hotswap-keyboard</guid>
+    <description>Keychron K2 Version2 ホットスワップ対応ワイヤレスメカニカルキーボードの特徴を整理。Bluetooth/有線の接続やMac対応メディアキーなど、メリット・デメリットとおすすめな人をまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ポータブル電源の使える時間の目安計算｜Wと電池容量(Wh)から｜GEARNOTE</title>
-    <link>https://gearnote.net/tool-power-station-runtime</link>
-    <guid isPermaLink="true">https://gearnote.net/tool-power-station-runtime</guid>
-    <description>使いたい家電の消費電力(W)を入れると、GEARNOTEに掲載しているポータブル電源の電池容量(Wh)から、使える時間の目安とAC定格出力が足りるかを表示します。</description>
+    <title>Apple Magic Keyboard（日本語JIS）の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-magic-keyboard-jis</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-magic-keyboard-jis</guid>
+    <description>Apple純正Magic Keyboard（日本語JIS配列）の特徴を整理。Macと自動ペアリングできるワイヤレスキーボードのメリット・デメリット、おすすめな人をまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>計算ツール｜GEARNOTEのデータで、自分の条件を確かめる｜GEARNOTE</title>
-    <link>https://gearnote.net/tools</link>
-    <guid isPermaLink="true">https://gearnote.net/tools</guid>
-    <description>GEARNOTEのデータ一覧の数字を使って、自分の条件(置ける幅・部屋の広さ・使いたい家電)で確かめられる計算ツールの入口です。</description>
+    <title>Jackery(ジャクリ) ポータブル電源 240 New 256Wh の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-jackery-portable-power-240</link>
+    <guid isPermaLink="true">https://gearnote.net/product-jackery-portable-power-240</guid>
+    <description>Jackery ポータブル電源 240 New 256Whの特徴を整理。容量・出力などの仕様、メリット・デメリットをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>象印 炊飯器 豪熱大火力 NW-MC07-BZ（4合・黒） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go</guid>
-    <description>象印 炊飯器 豪熱大火力 NW-MC07-BZ（4合・黒）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <title>Marshall Emberton IIの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-marshall-emberton-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-marshall-emberton-2</guid>
+    <description>Marshall ワイヤレスポータブル防水スピーカー Emberton IIの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>加湿器の畳数チェック｜部屋の広さから適用床面積で絞る｜GEARNOTE</title>
-    <link>https://gearnote.net/tool-humidifier-area</link>
-    <guid isPermaLink="true">https://gearnote.net/tool-humidifier-area</guid>
-    <description>部屋の広さ(畳)を入れると、GEARNOTEに掲載している加湿器のうち、メーカー表記の適用床面積(木造和室)が足りる商品を、加湿量・タンク容量・消費電力とあわせて表示します。</description>
+    <title>Joy-Con 2 (L)ブルー/(R)ライトイエロー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nintendo-joycon2-blue-lightyellow</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nintendo-joycon2-blue-lightyellow</guid>
+    <description>Joy-Con 2 (L)ブルー/(R)ライトイエローの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>電気毛布の仕様一覧｜定格消費電力・1時間の消費電力量・表面温度・質量（掲載20枚）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-electric-blanket</link>
-    <guid isPermaLink="true">https://gearnote.net/data-electric-blanket</guid>
-    <description>GEARNOTEに掲載している電気毛布（掛け・掛敷き・ひざ掛け／敷き）20枚の、定格消費電力（W）、強で1時間使ったときの消費電力量（Wh）、強の表面温度（℃）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <title>アイリスオーヤマ サーキュレーター加湿器 HCK-5519 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-irisohyama-circulator-humidifier-hck5519</link>
+    <guid isPermaLink="true">https://gearnote.net/product-irisohyama-circulator-humidifier-hck5519</guid>
+    <description>アイリスオーヤマ(IRIS OHYAMA) サーキュレーター加湿器 ハイブリッド式 上下左右首振り グレー/ホワイト HCK-5519の特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>データ一覧｜GEARNOTE掲載商品の仕様を1枚の表にまとめたデータ集｜GEARNOTE</title>
-    <link>https://gearnote.net/data</link>
-    <guid isPermaLink="true">https://gearnote.net/data</guid>
-    <description>GEARNOTEに掲載している商品の仕様表の数字を、ジャンルごとに1枚の表にまとめたデータ集です。集計（件数・最小・中央値・最大）、集計方法、CSV、引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ダイニチ ハイブリッド式加湿器 Cタイプ HD-C300H-W の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dainichi-hybrid-humidifier-hdc300h</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dainichi-hybrid-humidifier-hdc300h</guid>
+    <description>ダイニチ (Dainichi) 加湿器 ハイブリッド式 (木造和室5畳まで/プレハブ洋室8畳まで) Cタイプ ホワイト HD-C300H-Wの特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>USB充電器の仕様一覧｜単ポート最大出力・ポート数・USB-Cポート数・質量（掲載28個）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-usb-charger</link>
-    <guid isPermaLink="true">https://gearnote.net/data-usb-charger</guid>
-    <description>GEARNOTEに掲載しているコンセント用のUSB充電器28個の、単ポート使用時の最大出力（W）、USBポートの総数、USB-Cポート数、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Levoit 空気清浄機 Core 300 小型 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-levoit-core300-air-purifier</link>
+    <guid isPermaLink="true">https://gearnote.net/product-levoit-core300-air-purifier</guid>
+    <description>Levoit (レボイト) 空気清浄機 Core 300 小型の特徴を整理。適用畳数やタイマー、チャイルドロックなどは出典を明記して、メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>電気ケトルの仕様一覧｜容量・消費電力・満水の沸とう時間・本体質量（掲載19台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-electric-kettle</link>
-    <guid isPermaLink="true">https://gearnote.net/data-electric-kettle</guid>
-    <description>GEARNOTEに掲載している電気ケトル19台の、容量（mL）、消費電力（W）、満水時の沸とう時間（分）、本体のみの質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <title>山善 スチーム式加湿器 上から給水 KS-J242(B) の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-yamazen-steam-humidifier-ksj242</link>
+    <guid isPermaLink="true">https://gearnote.net/product-yamazen-steam-humidifier-ksj242</guid>
+    <description>[山善] 加湿器 加熱式 スチーム式 上から給水 (最大加湿 500ml) (タンク容量 2.4L) (木造~8.5畳 / プレハブ洋室~1の特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>モバイルバッテリーの仕様一覧｜容量・USB-Cの最大出力・同時使用時の合計出力・重量（掲載27台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-power-bank</link>
-    <guid isPermaLink="true">https://gearnote.net/data-power-bank</guid>
-    <description>GEARNOTEに掲載している充電式のモバイルバッテリー27台の、容量（mAh）、USB-Cの最大出力（W）、複数の出力を同時に使うときの合計最大出力（W）、重量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Marshall Emberton IIIの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-marshall-emberton-3</link>
+    <guid isPermaLink="true">https://gearnote.net/product-marshall-emberton-3</guid>
+    <description>Marshall Emberton IIIの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>空気清浄機の仕様一覧｜適用畳数・最大風量・消費電力・運転音・質量（掲載27台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-air-purifier</link>
-    <guid isPermaLink="true">https://gearnote.net/data-air-purifier</guid>
-    <description>GEARNOTEに掲載している空気清浄機（加湿機能なし／加湿空気清浄機）27台の、適用畳数、最大風量（m³/分）、消費電力（W）、運転音（dB）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヒーター・ストーブの仕様一覧｜消費電力・暖房出力・暖房の目安畳数（掲載51台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/data-heater</guid>
-    <description>GEARNOTEに掲載しているヒーター・ストーブ51台（電気式37台／石油式14台）の、消費電力（W）、最大の暖房出力（kW）、暖房の目安の畳数（木造・コンクリート）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>除湿機の仕様一覧｜除湿能力・消費電力・タンク容量・質量（掲載12台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-dehumidifier</link>
-    <guid isPermaLink="true">https://gearnote.net/data-dehumidifier</guid>
-    <description>GEARNOTEに掲載している除湿機（コンプレッサー式／ハイブリッド式／デシカント式）12台の、除湿能力（L/日）、除湿時の消費電力（W）、タンク容量（L）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>サーキュレーター・扇風機の仕様一覧｜消費電力・適用畳数・風量段階・質量（掲載31台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-circulator-fan</link>
-    <guid isPermaLink="true">https://gearnote.net/data-circulator-fan</guid>
-    <description>GEARNOTEに掲載しているサーキュレーター・扇風機・小型ファン31台の、消費電力（W）、適用畳数（畳）、風量の切り替え段階数、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電子レンジ・オーブンレンジの仕様一覧｜庫内容量・高周波出力・外形寸法・質量（掲載11台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-microwave-oven</link>
-    <guid isPermaLink="true">https://gearnote.net/data-microwave-oven</guid>
-    <description>GEARNOTEに掲載している電子レンジ・オーブンレンジ（単機能／オーブン系）11台の、庫内容量（L）、高周波出力（W）、外形寸法の幅・奥行・高さ（mm）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>炊飯器の仕様一覧｜最大炊飯容量・質量・定格消費電力・保温の消費電力量・年間消費電力量（掲載18台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-rice-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/data-rice-cooker</guid>
-    <description>GEARNOTEに掲載している炊飯器18台の、最大炊飯容量（合）、質量（kg）、定格消費電力（W）、保温1時間あたりの消費電力量（Wh）、年間消費電力量（kWh/年）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ノンフライヤー（エアフライヤー）の仕様一覧｜容量・定格消費電力・質量・設定温度（掲載12台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-air-fryer</link>
-    <guid isPermaLink="true">https://gearnote.net/data-air-fryer</guid>
-    <description>GEARNOTEに掲載しているノンフライヤー（エアフライヤー）12台の、容量（L）、定格消費電力（W）、質量（kg）、設定温度の下限・上限（℃）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスイヤホンの仕様一覧｜ANCオン・オフ時の連続再生時間・ケース込みの再生時間・片耳の質量（掲載64機種）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/data-earbuds</guid>
-    <description>GEARNOTEに掲載しているワイヤレスイヤホン64機種の、ANCオン・オフ時のイヤホン単体の連続再生時間（時間）、ケース込みの合計再生時間（時間）、片耳の質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘッドホンの仕様一覧｜連続音声再生時間・インピーダンス・質量（掲載44点）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-headphone</link>
-    <guid isPermaLink="true">https://gearnote.net/data-headphone</guid>
-    <description>GEARNOTEに掲載しているヘッドホン（ワイヤレス／有線のみ）44点の、ノイズキャンセリングのオン・オフ別の連続音声再生時間、インピーダンス（Ω）、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モニターの仕様一覧｜画面サイズ・リフレッシュレート・消費電力・質量（掲載18台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-monitor</link>
-    <guid isPermaLink="true">https://gearnote.net/data-monitor</guid>
-    <description>GEARNOTEに掲載しているモニター（据え置き型／モバイルモニター）18台の、画面サイズ（インチ）、最大リフレッシュレート（Hz）、通常使用時の消費電力（W）、質量（kg）、USB-C端子の給電出力（W）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Wi-Fiルーター・中継機の仕様一覧｜5GHz帯の通信速度・有線ポート・消費電力・質量（掲載18台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-wifi-router</link>
-    <guid isPermaLink="true">https://gearnote.net/data-wifi-router</guid>
-    <description>GEARNOTEに掲載しているWi-Fiルーター・中継機（ルーター／中継機）18台の、5GHz帯の最大通信速度（Mbps）、最も速い有線ポートの通信速度（Gbps）、消費電力（最大・W）、質量（本体のみ・g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートウォッチの仕様一覧｜電池持続時間・電池容量・質量（掲載37台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-smartwatch</link>
-    <guid isPermaLink="true">https://gearnote.net/data-smartwatch</guid>
-    <description>GEARNOTEに掲載しているスマートウォッチ・スマートバンド37台の、電池持続時間（時間表記／日数表記、条件別）、電池容量（mAh）、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ポータブル電源の仕様一覧｜電池容量・AC定格出力・質量（掲載8台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-portable-power-station</link>
-    <guid isPermaLink="true">https://gearnote.net/data-portable-power-station</guid>
-    <description>GEARNOTEに掲載しているポータブル電源8台の、電池容量（Wh）、AC定格出力（W）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>冷蔵庫の仕様一覧｜容量・年間消費電力量・運転音・質量・寸法（掲載11台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-refrigerator</link>
-    <guid isPermaLink="true">https://gearnote.net/data-refrigerator</guid>
-    <description>GEARNOTEに掲載している冷蔵庫（1ドア／2ドア）11台の、容量（L）、年間消費電力量（kWh/年）、運転音（dB）、質量（kg）、幅・高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>洗濯機の仕様一覧｜洗濯容量・標準使用水量・運転音・洗濯時の目安時間・質量（掲載15台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-washing-machine</link>
-    <guid isPermaLink="true">https://gearnote.net/data-washing-machine</guid>
-    <description>GEARNOTEに掲載している洗濯機（全自動／ドラム式洗濯乾燥機／二槽式）15台の、洗濯容量（kg）、標準使用水量（L）、運転音（dB）、洗濯時の目安時間（分）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロボット掃除機の仕様一覧｜本体の高さ・質量・バッテリー容量・ダスト容器の容量（掲載23台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/data-robot-vacuum</guid>
-    <description>GEARNOTEに掲載しているロボット掃除機（ステーションの種類別）23台の、本体の高さ（mm）、本体質量（kg）、バッテリー容量（mAh）、本体のダスト容器の容量（mL）、ステーションの紙パック・ダストバッグ容量（L）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コードレス掃除機の仕様一覧｜スティック状態の質量・集じん容量・充電時間（掲載22台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-cordless-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/data-cordless-vacuum</guid>
-    <description>GEARNOTEに掲載しているコードレス掃除機（自動ゴミ収集ドック付き／ドックの記載なし）22台の、スティック状態の質量（kg）、集じん容量（mL）、充電時間（時間）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘアドライヤーの仕様一覧｜消費電力・風量・質量・電源コードの長さ（掲載17台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-hair-dryer</link>
-    <guid isPermaLink="true">https://gearnote.net/data-hair-dryer</guid>
-    <description>GEARNOTEに掲載しているヘアドライヤー17台の、消費電力（W）、風量（m³/分）、質量（g）、電源コードの長さ（m）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電動歯ブラシの仕様一覧｜質量・充電時間・ブラシストローク数・モード数（掲載20本）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-electric-toothbrush</link>
-    <guid isPermaLink="true">https://gearnote.net/data-electric-toothbrush</guid>
-    <description>GEARNOTEに掲載している電動歯ブラシ20本の、質量（g）、充電時間（時間）、音波振動のブラシストローク数（毎分）、モード数を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ダイキン 加湿 空気清浄機 MCK556A-W の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-daikin-humidifying-air-purifier-mck556a-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-daikin-humidifying-air-purifier-mck556a-w</guid>
+    <description>ダイキン 加湿 空気清浄機 MCK556A-W ストリーマ スリムタワーの特徴を整理。適用床面積やフィルターなどの記載は出典を明記して、メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
