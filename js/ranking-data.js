@@ -29621,4 +29621,11 @@ const RANKING_POOL = [
     link: "https://www.amazon.co.jp/dp/B0G6FBYFSJ?tag=hide0122-22",
     page: "product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go.html",
   },
+  {
+    name: "象印 炊飯器 豪熱大火力 4合 NW-MC07-BZ スレートブラック",
+    excerpt: "象印 炊飯器 豪熱大火力 NW-MC07-BZ（4合・黒）。圧力IH、わが家炊き49通り、保温30時間、お手入れ点数2点、5.5kgと記載。",
+    img: "https://m.media-amazon.com/images/I/61NTJMQ4P4L._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0G69ZLCFR?tag=hide0122-22",
+    page: "product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go.html",
+  },
 ];
