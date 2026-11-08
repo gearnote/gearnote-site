@@ -31893,7 +31893,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/data-humidifier</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -32380,5 +32380,10 @@
     <loc>https://gearnote.net/product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go</loc>
     <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/tool-humidifier-area</loc>
+    <lastmod>2026-11-09</lastmod>
+    <priority>0.6</priority>
   </url>
 </urlset>

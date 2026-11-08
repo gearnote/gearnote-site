@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 08 Nov 2026 16:47:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:50:49 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -33,6 +33,13 @@
     <link>https://gearnote.net/category-daily</link>
     <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
     <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -169,11 +176,11 @@
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-baby</link>
-    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
-    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <title>加湿器の畳数チェック｜部屋の広さから適用床面積で絞る｜GEARNOTE</title>
+    <link>https://gearnote.net/tool-humidifier-area</link>
+    <guid isPermaLink="true">https://gearnote.net/tool-humidifier-area</guid>
+    <description>部屋の広さ(畳)を入れると、GEARNOTEに掲載している加湿器のうち、メーカー表記の適用床面積(木造和室)が足りる商品を、加湿量・タンク容量・消費電力とあわせて表示します。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>電気毛布の仕様一覧｜定格消費電力・1時間の消費電力量・表面温度・質量（掲載20枚）｜GEARNOTE</title>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/data-electric-toothbrush</link>
     <guid isPermaLink="true">https://gearnote.net/data-electric-toothbrush</guid>
     <description>GEARNOTEに掲載している電動歯ブラシ20本の、質量（g）、充電時間（時間）、音波振動のブラシストローク数（毎分）、モード数を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ポータブルスピーカーの仕様一覧｜連続再生時間・充電時間・質量・最大出力・バッテリー容量（掲載30台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-portable-speaker</link>
-    <guid isPermaLink="true">https://gearnote.net/data-portable-speaker</guid>
-    <description>GEARNOTEに掲載しているポータブルスピーカー30台の、連続再生時間（時間）、充電時間（時間）、質量（g）、スピーカー最大出力（W）、バッテリー容量（Wh）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
