@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>電源タップの合計ワット数チェック｜家電のWを足して、上限と比べる｜GEARNOTE</title>
+<meta name="description" content="同じ電源タップにつなぐ家電を最大4つ選ぶ(または消費電力を入れる)と、消費電力の合計と、タップの上限との差を計算します。数字は、GEARNOTEのデータ一覧のメーカー記載の消費電力です。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="電源タップの合計ワット数チェック｜家電のWを足して、上限と比べる｜GEARNOTE">
+<meta property="og:description" content="同じ電源タップにつなぐ家電を最大4つ選ぶ(または消費電力を入れる)と、消費電力の合計と、タップの上限との差を計算します。数字は、GEARNOTEのデータ一覧のメーカー記載の消費電力です。">
+<meta property="og:url" content="https://gearnote.net/tool-power-sum">
+<link rel="canonical" href="https://gearnote.net/tool-power-sum">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="電源タップの合計ワット数チェック｜家電のWを足して、上限と比べる｜GEARNOTE">
+<meta name="twitter:description" content="同じ電源タップにつなぐ家電を最大4つ選ぶ(または消費電力を入れる)と、消費電力の合計と、タップの上限との差を計算します。数字は、GEARNOTEのデータ一覧のメーカー記載の消費電力です。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"電源タップの合計ワット数チェック"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"消費電力を足した合計が、タップの上限以下なら、安全ですか？","acceptedAnswer":{"@type":"Answer","text":"安全とは言えません。このツールは数字の足し算だけで、動き出すときの電力や、タップ・配線の状態は分かりません。必ず、タップと家電の表示と取扱説明書を確認してください。"}},{"@type":"Question","name":"アンペアは、どうやって出していますか？","acceptedAnswer":{"@type":"Answer","text":"電圧を100Vとして、消費電力(W)を100で割った目安です。お住まいの電圧や、家電の仕様で、実際の電流は変わることがあります。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="tools.html">計算ツール</a> ／ 電源タップの合計ワット数チェック</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">電源タップの合計ワット数チェック｜家電のWを足して、タップの上限と比べる</h1>
+        <p class="desc">同じタップにつなぎたい家電を選ぶと、消費電力(W)の合計と、タップの上限との差を計算します。足し算だけで、安全を保証するものではありません。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月6日（集計：2026年11月9日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+        </style>
+        <div class="tl-box">
+          <div id="pw-slots"></div>
+          <div class="tl-row">
+            <div class="tl-field"><label for="pw-lim">電源タップ・コンセントの上限(W)</label><input id="pw-lim" type="number" inputmode="decimal" min="0" value="1500"></div>
+          </div>
+          <p class="tl-note">初期値の1500Wは、「15A」の表示を100Vで換算した例です。お持ちのタップに書かれた数字を入れてください。</p>
+          <p class="tl-result" id="pw-sum"></p>
+          <p class="tl-note" id="pw-det"></p>
+        </div>
+        <script>
+(function(){
+var DATA=[{"k":"electric-kettle","g":"電気ケトル","c":"消費電力","items":[{"n":"タイガー 電気ケトル 1.2L スゴ軽 PCT-N120","s":"tiger-electric-kettle-12l-pct-n120","w":1300.0},{"n":"タイガー 電気ケトル 温度調節 0.8L PTV-A080WG","s":"tiger-electric-kettle-temp-control-08l-ptv-a080wg","w":1300.0},{"n":"象印 電気ケトル1.0L CK-AX10","s":"zojirushi-electric-kettle-10l-ckax10","w":1300.0},{"n":"タイガー 電気ケトル コーヒーケトル（グースネック）PCZ-N080 DC クラフトカッパー","s":"tiger-coffee-gooseneck-electric-kettle-pcz-n080-dc","w":1300.0},{"n":"タイガー魔法瓶 電気ケトル 温度調節機能付き 1.0L ステンレス","s":"tiger-electric-kettle-ptq-a100hs-1l","w":1300.0},{"n":"象印 電気ケトル CK-JA08AM-WZ（0.8L・エクリュ・蒸気レス構造）","s":"zojirushi-electric-kettle-ck-ja08am-wz-ecru-08l","w":1300.0},{"n":"ティファール 電気ケトル ジャスティン ロック","s":"tefal-justin-lock-kettle-12l","w":1250.0},{"n":"ティファール 電気ケトル 0.8L 温度調節 9段階 転倒お湯もれロック","s":"tefal-electric-kettle-appresia-lock-control-ko8608j0","w":1250.0},{"n":"ティファール 電気ケトル ジャスティン グレージュ 1.0L KO5J1BJ0","s":"tefal-electric-kettle-justin-greige-10l-ko5j1bj0","w":1250.0},{"n":"ティファール 電気ケトル「カフェ ロック コントロール」0.8L ホワイト KO9201JPA","s":"tefal-cafe-lock-control-kettle-08l-ko9201jpa","w":1250.0},{"n":"アイリスオーヤマ 電気ケトル 800ml","s":"iris-ohyama-electric-kettle-800ml","w":1200.0},{"n":"デロンギ 電気ケトル アイコナ・ヴィンテージ","s":"delonghi-icona-vintage-kettle","w":1200.0},{"n":"バルミューダ ザ・ポット 550ml 電気ケトル KPT03JP-CR（クローム）","s":"balmuda-the-pot-electric-kettle-550ml-kpt03jp-cr","w":1200.0},{"n":"山善 電気ケトル 0.8L 温度調節（50〜100℃）・保温機能付き","s":"yamazen-electric-kettle-egl-c1281-bb-08l","w":1200.0},{"n":"ラッセルホブス ティーケトル プラス 7107JP-BK（600mL・7段階の温度調整・ブラック）","s":"russell-hobbs-tea-kettle-plus-7107jp-bk-600ml","w":800.0}]},{"k":"hot-plate","g":"ホットプレート","c":"消費電力","items":[{"n":"レコルト ホットプレート タコヤキプレートセット RHP-4TPST(MBR) モカブラウン","s":"recolte-hot-plate-takoyaki-plate-set-rhp-4tpst-mbr","w":1300.0},{"n":"タイガー ホットプレート 3枚セット CRV-N300 SN（シルバー）","s":"tiger-hot-plate-3plates-crv-n300-sn","w":1300.0},{"n":"山善 ホットプレート 3WAY EDH-T1300(B)","s":"yamazen-hotplate-3way-edht1300","w":1300.0},{"n":"パナソニック ホットプレート 3枚タイプ 焼肉プレート たこ焼きプレート","s":"panasonic-hot-plate-3plates-nf-hm310-k","w":1250.0},{"n":"パナソニック ホットプレート 平面プレート NF-HM110-K（ブラック）","s":"panasonic-hot-plate-flat-nf-hm110-k","w":1250.0},{"n":"BRUNO コンパクトホットプレートBOE021","s":"bruno-compact-hotplate-boe021","w":1200.0},{"n":"象印 ホットプレート STAN. EA-FA10-BA","s":"zojirushi-stan-hot-plate-ea-fa10-ba","w":1200.0},{"n":"山善 たこ焼き器 24穴 YOG-K240","s":"yamazen-takoyaki-maker-24hole-yog-k240","w":1200.0}]},{"k":"heater","g":"ヒーター・ストーブ","c":"消費電力（電気式・メーカー表記の最大値）","items":[{"n":"デロンギ オイルヒーター ヴェルティカルド RHJ21F1015-BR","s":"delonghi-oil-heater-verticaldo-rhj21f1015","w":1500.0},{"n":"Dyson Hot+Cool HF1 remote link pre-heat","s":"dyson-hot-cool-hf1","w":1400.0},{"n":"Dyson Purifier Hot+Cool","s":"dyson-purifier-hotcool","w":1400.0},{"n":"アイリスオーヤマ セラミックファンヒーター 人感センサー付","s":"iris-ohyama-ceramic-fan-heater","w":1200.0},{"n":"山善 セラミックファンヒーター DPSF-EP12(H)（人感・温度センサー）","s":"yamazen-ceramic-fan-heater-dpsf-ep12-h-human-sensor","w":1200.0},{"n":"山善 セラミックファンヒーター YKDSF-VD121(C)（人感・温度Wセンサー）","s":"yamazen-ceramic-fan-heater-ykdsf-vd121-c-dual-sensor","w":1200.0},{"n":"山善 セラミックヒーター 人感センサー DPSF-EU12(W)","s":"yamazen-ceramic-heater-dpsf-eu12","w":1200.0},{"n":"山善 壁掛タイプ セラミックヒーター DFX-RK122(W)（温度センサー・リモコン付き）","s":"yamazen-wall-mount-ceramic-heater-dfx-rk122-w","w":1200.0},{"n":"コイズミ セラミックヒーター KPH-1267/W グレイッシュホワイト","s":"koizumi-ceramic-heater-kph-1267-w-omakase-motion-sensor","w":1200.0},{"n":"コイズミ セラミックヒーター Cube KPH-1226C/W ホワイト","s":"koizumi-ceramic-heater-cube-kph-1226c-w-tower-oscillating","w":1200.0},{"n":"スリーアップ セラミックヒーター CH-AZ0892GY（ルーバーレス・人感センサー・左右首振り）","s":"three-up-ceramic-heater-ch-az0892gy-louverless-oscillating","w":1200.0},{"n":"シャープ 加湿セラミックヒーター HX-TK12-W プラズマクラスター7000","s":"sharp-humidifying-ceramic-heater-hx-tk12-w","w":1200.0},{"n":"ダイニチ 加湿セラミックファンヒーター EF-H1200H-W","s":"dainichi-humidifying-ceramic-fan-heater-ef-h1200h-w","w":1200.0},{"n":"山善 ツインヒートプラス カーボンヒーター＋シーズヒーター DBC-L123(MW)","s":"yamazen-twin-heat-plus-carbon-sheath-heater-dbc-l123-mw","w":1200.0},{"n":"アイリスオーヤマ オイルヒーター ストレート メカ式 IOH-1208KS-W","s":"iris-ohyama-oil-heater-ioh-1208ks-w","w":1200.0},{"n":"山善 オイルレスヒーター 1200W DOL-J12(W)E（ホワイト）","s":"yamazen-oilless-heater-1200w-dol-j12-w-e","w":1200.0},{"n":"デロンギ ファンヒーター カプスーラ","s":"delonghi-capsula-fan-heater","w":1150.0},{"n":"パナソニック セラミックファンヒーター 防滴仕様 切タイマー付 DS-FAS1200-W","s":"panasonic-ceramic-fan-heater-ds-fas1200-w","w":1150.0},{"n":"無印良品 セラミックファンヒーター 人感センサー付 MJ-SCH1","s":"muji-ceramic-fan-heater-mj-sch1","w":1100.0},{"n":"コイズミ シーズヒーター KSS-1026A/H 1000/500W","s":"koizumi-sheathed-heater-kss-1026a-h-1000w","w":1000.0},{"n":"コイズミ 電気ストーブ スチーム機能付き KEH-0960/H","s":"koizumi-electric-stove-steam-keh-0960-h","w":995.0},{"n":"山善 遠赤外線カーボンヒーター 900W/450W 自動首振り DC-S097(B)","s":"yamazen-carbon-heater-dc-s097","w":900.0},{"n":"コイズミ カーボンヒーター KKH-0962/W グレイッシュホワイト","s":"koizumi-carbon-heater-kkh-0962-w","w":900.0},{"n":"山善 電気ストーブ DS-SD084(AB) 障害物センサー搭載 小型","s":"yamazen-electric-stove-ds-sd084-ab-compact-obstacle-sensor","w":800.0},{"n":"パナソニック セラミックファンヒーター ポッカレット DS-FP600-W","s":"panasonic-fanheater-pokkaretto-dsfp600","w":600.0},{"n":"山善 セラミックファンヒーター DMF-E061(W) 静音 小型","s":"yamazen-ceramic-fan-heater-dmf-e061-w-quiet","w":600.0},{"n":"山善 セラミックファンヒーター DMSF-J063(W) ホワイト","s":"yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor","w":600.0},{"n":"山善 電気ストーブ DS-SAK061(H) 障害物センサー搭載","s":"yamazen-electric-stove-ds-sak061-h-obstacle-sensor","w":600.0},{"n":"山善 電気ストーブ KDS-H06(H)E（出力3段階・転倒OFFスイッチ）","s":"yamazen-electric-stove-kds-h06-h-e-3stage-tipover-off","w":600.0},{"n":"パナソニック セラミックファンヒーター DS-FB500-W（ウォームホワイト）","s":"panasonic-ceramic-fan-heater-ds-fb500-w","w":500.0},{"n":"アイリスオーヤマ ミニオイルヒーター 500W POH-505K-MD","s":"iris-ohyama-mini-oil-heater-poh-505k-md","w":500.0},{"n":"アイリスオーヤマ ぐるポカ パネルヒーター APH-R12B-DT","s":"iris-ohyama-panel-heater-guru-poka-aph-r12b","w":120.0}]},{"k":"hair-dryer","g":"ヘアドライヤー","c":"消費電力（範囲表記を除く）","items":[{"n":"テスコム ドライヤー プロテクトイオン Speedom TEC-HD2400-K","s":"tescom-speedom-dryer-tec-hd2400-k","w":1300.0},{"n":"ナノケアドライヤー EH-NA0K","s":"panasonic-nanocare-dryer","w":1200.0},{"n":"シャープ IB-WX901","s":"sharp-ib-wx901","w":1200.0},{"n":"シャープ ヘアドライヤー IB-P801","s":"sharp-ib-p801","w":1200.0},{"n":"SALONIA スピーディーイオン ドライヤー","s":"salonia-speedy-ion-dryer","w":1200.0},{"n":"Dyson Supersonic Nural Shine ヘアドライヤー","s":"dyson-supersonic-nural-shine-hd16-champagne-rose","w":1200.0},{"n":"SALONIA スピーディーイオンドライヤー SAL25220XG（シャンパンゴールド）","s":"salonia-speedy-ion-dryer-champagne-gold-sal25220xg","w":1200.0},{"n":"パナソニック ドライヤー イオニティ EH-NE7P-V（ミスティラベンダー・1200W）","s":"panasonic-ionity-dryer-eh-ne7p-v-misty-lavender","w":1200.0},{"n":"パナソニック ドライヤー イオニティ EH-NE5P-A（アイスブルー・1200W）","s":"panasonic-ionity-dryer-eh-ne5p-a-ice-blue","w":1200.0},{"n":"ReFaビューテックドライヤー","s":"refa-beautech-dryer","w":1150.0},{"n":"ReFa BEAUTECH DRYER SE（リファビューテックドライヤーSE）","s":"refa-beautech-dryer-se","w":1100.0},{"n":"ReFa HEART DRYER Aira リファハート ドライヤー アイラ","s":"refa-heart-dryer-aira-red-re-co-01a","w":1100.0}]},{"k":"oven-toaster","g":"オーブントースター","c":"消費電力","items":[{"n":"BRUNO スチーム＆ベイクトースター BOE067-WH","s":"bruno-steam-bake-toaster-boe067-wh","w":1350.0},{"n":"バルミューダ ザ・トースター 2026年モデル ブラック KTT02JP-BK","s":"balmuda-the-toaster-2026-ktt02jp-bk","w":1300.0},{"n":"バルミューダ ザ・トースター プロ 2026年モデル KTT03JP","s":"balmuda-the-toaster-pro-2026-ktt03jp","w":1300.0},{"n":"バルミューダ ザ・トースター K05A-BK","s":"balmuda-toaster-k05a","w":1300.0},{"n":"アイリスオーヤマ オーブントースターPOT-413","s":"irisohyama-oven-toaster-4slice-pot413","w":1300.0},{"n":"タイガー オーブントースター うまパントースター KAE-G13NK","s":"tiger-oven-toaster-umapan-kae-g13nk","w":1300.0},{"n":"山善 コンパクトオーブントースター","s":"yamazen-compact-toaster-ytcb-c120","w":1280.0},{"n":"コイズミ オーブントースター KOS-1205","s":"koizumi-oven-toaster-kos1205","w":1200.0},{"n":"ティファール ポップアップトースター メゾン","s":"tefal-maison-toaster","w":850.0}]},{"k":"rice-cooker","g":"炊飯器","c":"定格消費電力","items":[{"n":"アイリスオーヤマ 圧力IHジャー炊飯器","s":"iris-ohyama-pressure-ih-rice-cooker","w":1230.0},{"n":"パナソニック 可変圧力IHジャー炊飯器 Bistro 5.5合 SR-X710E-H（ライトグレージュ）","s":"panasonic-bistro-pressure-ih-rice-cooker-sr-x710e-h","w":1210.0},{"n":"タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラック","s":"tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko","w":1210.0},{"n":"パナソニック 圧力IH炊飯器 5合 SR-CR10Z1-W（ホワイト・Amazon.co.jp限定モデル）","s":"panasonic-rice-cooker-sr-cr10z1-w-amazon-model","w":1200.0},{"n":"タイガー 圧力IH炊飯器 JPI-S10NK（ご泡火炊き）","s":"tiger-rice-cooker-pressure-ih-jpi-s10nk","w":1200.0},{"n":"パナソニック 炊飯器 おどり炊き SR-N310D-K","s":"panasonic-rice-cooker-srn310d","w":1120.0},{"n":"タイガー 圧力IH炊飯器 5.5合 JPV-X100WO オフホワイト","s":"tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo","w":1100.0},{"n":"ティファール 炊飯器 ザ・ポップ 4合（0.72L） ミントブルー RK5354J0","s":"tefal-rice-cooker-the-pop-4go-rk5354j0","w":350.0},{"n":"タイガー マイコン炊飯器 3合 JBS-A055KM","s":"tiger-rice-cooker-3go-jbsa055km","w":350.0}]},{"k":"air-fryer","g":"ノンフライヤー（エアフライヤー）","c":"定格消費電力","items":[{"n":"COSORI ノンフライヤー 6L DCモーター","s":"cosori-air-fryer-6l-dc","w":1500.0},{"n":"COMFEE' ノンフライヤー 4L エアフライヤー","s":"comfee-air-fryer-4l","w":1400.0},{"n":"COSORI ノンフライヤー 4.7L","s":"cosori-air-fryer-47l","w":1230.0},{"n":"Xiaomi エアフライヤー 6.5L","s":"xiaomi-air-fryer-65l","w":1200.0},{"n":"アイリスオーヤマ 過熱水蒸気エアフライヤー","s":"iris-ohyama-air-fryer-steam","w":1200.0},{"n":"COSORI ノンフライヤー 2L 一人用","s":"cosori-air-fryer-mini-2l","w":900.0}]},{"k":"coffee-maker","g":"コーヒーメーカー","c":"消費電力","items":[{"n":"バルミューダ ザ・ブリュー コーヒーメーカー K06A-BK","s":"balmuda-the-brew-k06a-bk","w":1450.0},{"n":"デロンギ マグニフィカS","s":"delonghi-magnifica-s","w":1450.0},{"n":"デロンギ ラ・スペシャリスタ・アルテ","s":"delonghi-specialista-arte","w":1300.0},{"n":"ネスプレッソ オリジナル エッセンサ ミニ D30-MM-W（マットブラック・Amazon.co.jp限定）","s":"nespresso-essenza-mini-d30-mm-w-matte-black","w":1260.0},{"n":"山善 全自動コーヒーマシン YACM-M1593(B)（8メニュー・ミルクフォーム対応）","s":"yamazen-fully-auto-coffee-machine-yacm-m1593-b","w":1250.0},{"n":"デロンギ スティローザ","s":"delonghi-stilrosa-ec235j","w":1100.0},{"n":"タイガー 全自動コーヒーメーカー ハイブリッド抽出 ADG-N060 KC（クラフトブラック・限定商品）","s":"tiger-coffee-maker-hybrid-adg-n060-craft-black","w":911.0},{"n":"タイガー コーヒーメーカー ADF-A060KO","s":"tiger-coffee-maker-hybrid-adf-a060ko","w":908.0},{"n":"パナソニック 全自動コーヒーメーカー NC-A58-W 沸騰循環 ミル自動洗浄 ホワイト","s":"panasonic-coffee-maker-nc-a58-w","w":770.0},{"n":"象印マホービン コーヒーメーカー 6杯用 珈琲通 グレイッシュブラウン EC-MA60-TZ","s":"zojirushi-coffee-maker-ec-ma60-tz","w":650.0},{"n":"ツインバード 全自動コーヒーメーカー CM-D457B","s":"twinbird-coffee-maker-cmd457b","w":610.0},{"n":"siroca(シロカ) 全自動コーヒーメーカー カフェばこ SC-A372","s":"siroca-cafebako-sc-a372","w":600.0},{"n":"【Toffy/トフィー】 アロマドリップコーヒーメーカー K-CM5","s":"toffy-aroma-drip-coffee-maker-k-cm5","w":600.0},{"n":"タイガー コーヒーメーカー ドリップ式 6杯用 ADC-N060K","s":"tiger-coffee-maker-drip-adc-n060k","w":550.0}]},{"k":"pressure-cooker","g":"電気圧力鍋・自動調理鍋","c":"消費電力","items":[{"n":"siroca おうちシェフクッカー SP-MC5D151（グレー・満水容量5L・1台12役）","s":"siroca-ouchi-chef-cooker-sp-mc5d151-gray-5l","w":1200.0},{"n":"ティファール クックフォーミー エクスプレス","s":"tefal-cookformi-express-pressure-cooker","w":1200.0},{"n":"アイリスオーヤマ 電気圧力鍋4L PMPC-MA4","s":"irisohyama-electric-pressure-cooker-4l-pmpcma4","w":1000.0},{"n":"パナソニック 電気圧力鍋 NF-PC400-K","s":"panasonic-electric-pressure-cooker-nf-pc400-k","w":800.0},{"n":"シロカ 電気圧力鍋 おうちシェフ SP-2DF231 ホワイト 1台7役","s":"siroca-electric-pressure-cooker-sp-2df231","w":700.0},{"n":"siroca おうちシェフクッカー SP-MC2D151 ホワイト 自動調理鍋（電気圧力鍋）","s":"siroca-ouchi-chef-cooker-sp-mc2d151-white","w":700.0},{"n":"ティファール 電気圧力鍋 ラクラ・クッカー コンパクト 3L CY3518JPA","s":"tefal-rakuracooker-compact-cy3518jpa","w":700.0},{"n":"シャープ ヘルシオ ホットクック KN-HW16G","s":"sharp-hotcook-kn-hw16g","w":600.0},{"n":"ティファール 電気圧力鍋「ラクラ・クッカー ミニ」CY3401JP ホワイト（1人〜2人用）","s":"tefal-rakuracooker-mini-cy3401jp-white","w":600.0}]},{"k":"garment-steamer","g":"衣類スチーマー・スチームアイロン","c":"消費電力","items":[{"n":"パナソニック コードレススチームアイロン NI-WL710-K","s":"panasonic-cordless-steam-iron-ni-wl710-k","w":1400.0},{"n":"ティファール 衣類スチーマー","s":"tefal-access-steam-easy-dt7132j0","w":1400.0},{"n":"ティファール 衣類スチーマー ピュアフォース DT8732J0","s":"tefal-garment-steamer-pure-force-dt8732j0","w":1400.0},{"n":"TOSHIBA(東芝) スチームアイロン 衣類スチーマー コードレス 全方向","s":"toshiba-cordless-steam-iron-ta-fdx660","w":1400.0},{"n":"ティファール コードレススチームアイロン フリームーブ ミニ FV6111J0","s":"tefal-cordless-steam-iron-free-move-mini-fv6111j0","w":1200.0},{"n":"ティファール 衣類スチーマー アクセススチーム コンパクト DT1034J0 折りたたみ","s":"tefal-access-steam-compact-dt1034j0","w":1100.0},{"n":"パナソニック 衣類スチーマー NI-FS70C-K","s":"panasonic-clothes-steamer-ni-fs70c-k","w":950.0},{"n":"パナソニック 衣類スチーマー NI-FS70A-K","s":"panasonic-clothes-steamer-nifs70a","w":950.0},{"n":"ツインバード 衣類スチーマー SA-4097VO","s":"twinbird-handy-steamer-sa4097vo","w":800.0}]},{"k":"electric-blanket","g":"電気毛布","c":"定格消費電力","items":[{"n":"コイズミ 電気掛敷毛布 KDK-75261RT（188×120cm・ラビットファー調）","s":"koizumi-kake-shiki-electric-blanket-kdk-75261rt-188x120","w":75.0},{"n":"コイズミ 電気掛敷毛布 KDK-75266D 188×120cm","s":"koizumi-kake-shiki-electric-blanket-kdk-75266d-188x120","w":75.0},{"n":"パナソニック 電気毛布 掛け敷き兼用 DB-RM3M-C","s":"panasonic-electric-blanket-db-rm3m-c","w":75.0},{"n":"パナソニック 電気ひざかけ「くるけっと」DC-H6-T","s":"panasonic-lap-blanket-kurukett-dc-h6-t","w":75.0},{"n":"コイズミ 電気敷毛布 KDS-L506 リサ・ラーソン マイキー&フレンズ柄 200×100cm","s":"koizumi-electric-shiki-blanket-kds-l506-lisa-larson-200x100","w":75.0},{"n":"コイズミ 電気掛敷毛布 188×120cm KDK-60261","s":"koizumi-kake-shiki-electric-blanket-kdk-60261","w":60.0},{"n":"コイズミ 電気掛敷毛布 KDK-60268T 快眠タイマー付き","s":"koizumi-kake-shiki-electric-blanket-kdk-60268t-sleep-timer","w":60.0},{"n":"アイリスオーヤマ 電気敷毛布 190×130cm スライド温度調整 EHB-1913-T","s":"iris-ohyama-electric-blanket-ehb-1913-t","w":60.0},{"n":"パナソニック 電気しき毛布 シングル 140×80cm 丸洗い可 室温センサー付","s":"panasonic-electric-shiki-blanket-db-u12t-g","w":54.0},{"n":"パナソニック 電気しき毛布 約140×80cm DB-UM11S-T（ブラウン）","s":"panasonic-electric-shiki-blanket-db-um11s-t","w":54.0},{"n":"パナソニック 電気毛布 約140×80cm DB-U13T-C（ベージュ）","s":"panasonic-electric-blanket-db-u13t-c-140x80","w":54.0},{"n":"山善 電気毛布 掛け敷き兼用 188×130cm フランネル YMK-FK45KK(RO)","s":"yamazen-electric-blanket-kake-shiki-188x130-ymk-fk45kk-ro","w":50.0},{"n":"山善 電気掛敷毛布 188×130cm EMK-T201（グレー）","s":"yamazen-electric-kake-shiki-blanket-emk-t201","w":50.0},{"n":"コイズミ 電気敷毛布 140×80cm 電磁波カット KDS-50266D","s":"koizumi-electric-shiki-blanket-kds-50266d","w":50.0},{"n":"パナソニック 電気毛布 LSサイズ 約160×85cm DB-UM5LS-C（ベージュ）","s":"panasonic-electric-blanket-ls-size-db-um5ls-c","w":47.0},{"n":"コイズミ 電気敷毛布 130×80cm KDS-40261","s":"koizumi-electric-shiki-blanket-kds-40261","w":40.0},{"n":"山善 電気敷毛布 130×80cm シングル 洗える YMS-18","s":"yamazen-electric-shiki-blanket-yms-18","w":32.0},{"n":"山善 電気敷毛布 140×80cm フランネル ライトグレー EMS-FK150EE(LGY)","s":"yamazen-electric-shiki-blanket-140x80-ems-fk150ee-lgy","w":32.0}]},{"k":"hot-carpet-kotatsu","g":"ホットカーペット・こたつ","c":"消費電力","items":[{"n":"山善 ホットカーペット 3畳相当 185×230cm フローリング調 YZD-301FL(LBR)","s":"yamazen-hot-carpet-3jo-yzd-301fl-lbr-flooring-style","w":600.0},{"n":"コイズミ 家具調コタツ 象嵌シリーズ 120×80cm KTR-34262","s":"koizumi-kotatsu-ktr-34262-120x80-inlay","w":600.0},{"n":"山善 こたつテーブル 長方形 幅120×奥行80cm 継脚タイプ","s":"yamazen-kotatsu-table-gkrn-f120h","w":510.0},{"n":"アイリスオーヤマ ホットカーペット 2畳 176×176cm IHC-20-H","s":"iris-ohyama-hot-carpet-2jo-ihc-20-h","w":500.0},{"n":"パナソニック ホットカーペット 2畳 DC-2NK","s":"panasonic-hot-carpet-2jo-dc-2nk","w":490.0},{"n":"山善 こたつテーブル 長方形 105cm EYC-105752(BK/MBR)","s":"yamazen-kotatsu-table-eyc-105752","w":300.0},{"n":"アイリスオーヤマ ホットカーペット 1畳 IHC-10-H","s":"iris-ohyama-hot-carpet-1jo-ihc-10-h","w":200.0}]},{"k":"humidifier","g":"加湿器","c":"消費電力（記載のうち最大）","items":[{"n":"山善 スチームファン式加湿器 KSF-N151C(W) 木造25畳・洋室42畳","s":"yamazen-steam-fan-humidifier-ksf-n151c-w","w":1200.0},{"n":"ドウシシャ mistone600S スチーム式加湿器 KSB-604BE（ベージュ・3Lタンク）","s":"doshisha-mistone600s-steam-humidifier-ksb-604be-beige","w":1000.0},{"n":"象印 スチーム式加湿器 EE-DF50-HA 4.0L","s":"zojirushi-steam-humidifier-ee-df50","w":985.0},{"n":"象印 スチーム式加湿器 1.8L コンパクトタイプ グリーン EE-MB20-GA","s":"zojirushi-steam-humidifier-ee-mb20-ga","w":650.0},{"n":"山善 スチーム式加湿器 3.0L ガラス KS-TM3(DGY)","s":"yamazen-glass-steam-humidifier-ks-tm3-dgy","w":600.0},{"n":"山善 スチーム式加湿器 BEAR-ST34(B) 3.4L キューブ型（ブラック）","s":"yamazen-steam-humidifier-bear-st34-b","w":600.0},{"n":"アイリスオーヤマ スチーム式加湿器 AHM-MHU60A-W 加湿量600ml/h","s":"iris-ohyama-steam-humidifier-ahm-mhu60a-w","w":500.0},{"n":"QUADS ガラススチーム加湿器 GLASS HIGH POWER 2.6L グレージュウッド","s":"quads-glass-steam-humidifier-2-6l-greige-wood","w":500.0},{"n":"山善 スチーム式加湿器 上から給水 KS-J242(B)","s":"yamazen-steam-humidifier-ksj242","w":350.0},{"n":"シャープ ハイブリッド式加湿器 HV-T75-W プラズマクラスター7000 タンク4L","s":"sharp-hybrid-humidifier-hv-t75-w","w":335.0},{"n":"コイズミ 小型スチーム式加湿器 0.6L KHM-2061/C（ベージュ）","s":"koizumi-steam-humidifier-khm-2061-c-personal-beige","w":300.0},{"n":"QUADS スチーム加湿器 STEAMS（スチームス）2.5L グレージュウッド","s":"quads-steam-humidifier-steams-2-5l-greige-wood","w":260.0},{"n":"シャープ ハイブリッド式加湿器 HV-T55-W","s":"sharp-hybrid-humidifier-hv-t55","w":190.0},{"n":"ダイニチ ハイブリッド式加湿器 RXタイプ 5畳/8畳 HD-RX325-W","s":"dainichi-hybrid-humidifier-hd-rx325-w","w":168.0},{"n":"ダイニチ ハイブリッド式加湿器 Cタイプ HD-C300H-W","s":"dainichi-hybrid-humidifier-hdc300h","w":161.0},{"n":"アイリスオーヤマ サーキュレーター加湿器 HCK-5519","s":"irisohyama-circulator-humidifier-hck5519","w":160.0},{"n":"アイリスオーヤマ 気化式加湿器 HDF-1000-W 大容量7L 加湿量900ml ホワイト","s":"iris-ohyama-evaporative-humidifier-hdf-1000-w","w":39.0},{"n":"リズム 超音波式加湿器 MIST 250 2L（2026・ライトグレー）","s":"rhythm-mist250-ultrasonic-humidifier-2026-light-gray","w":31.0},{"n":"BRUNO 超音波式加湿器 4L おまかせミスト BOE139（ライトグリーン）","s":"bruno-ultrasonic-humidifier-4l-boe139-lgr","w":24.0},{"n":"アイリスオーヤマ 超音波式加湿器","s":"iris-ohyama-humidifier","w":22.0},{"n":"アイリスオーヤマ 気化式加湿器 AHM-MVU55A-DH ダークグレー（タンク4L・加湿量550mL/h）","s":"iris-ohyama-evaporative-humidifier-ahm-mvu55a-dh","w":15.0},{"n":"Toffy Mistal パーソナルLED加湿器 HF15-CG（シャンパンゴールド）","s":"toffy-mistal-personal-led-humidifier-hf15-cg-champagne-gold","w":2.0}]},{"k":"air-purifier","g":"空気清浄機","c":"消費電力（メーカー表記の最大値）","items":[{"n":"シャープ KI-TX75","s":"sharp-ki-tx75","w":76.0},{"n":"シャープ 加湿空気清浄機 KI-SX70-W","s":"sharp-humidifying-air-purifier-ki-sx70-w","w":69.0},{"n":"パナソニック 空気清浄機 ナノイーX F-PX70C-W","s":"panasonic-air-purifier-f-px70c","w":57.0},{"n":"シャープ 空気清浄機 KC-S50W","s":"sharp-kc-s50w","w":54.0},{"n":"COWAY 空気清浄機 AIRMEGA 300 AP-1515H 約38畳 ホワイト","s":"coway-airmega-300-ap-1515h-white","w":53.0},{"n":"パナソニック 加湿空気清浄機 F-VXW55-W ナノイーX 4.8兆 ホワイト","s":"panasonic-humidifying-air-purifier-f-vxw55-w","w":53.0},{"n":"シャープ 加湿空気清浄機 KI-SS50-W","s":"sharp-ki-ss50-w","w":52.0},{"n":"シャープ KI-TS50","s":"sharp-ki-ts50","w":52.0},{"n":"アイリスオーヤマ 空気清浄機 PMAC-100","s":"iris-ohyama-air-purifier-pmac100","w":46.0},{"n":"Levoit 空気清浄機 Core 300 小型","s":"levoit-core300-air-purifier","w":39.0},{"n":"Levoit（レボイト）空気清浄機 Vital 100S 21畳","s":"levoit-vital-100s-air-purifier-21jo","w":32.0},{"n":"コーウェイ・ジャパン(Coway Japan) COWAY 空気清浄機","s":"coway-airmega-150-ap-1019c-n","w":29.0},{"n":"ブルーエア 空気清浄機 22畳 Blue Max 3250i リビング 寝室","s":"blueair-air-purifier-blue-max-3250i","w":20.0},{"n":"シャープ 加湿レス空気清浄機 FU-SC01","s":"sharp-fu-sc01","w":20.0},{"n":"Dyson HushJet shizuka 空気清浄機 SP01","s":"dyson-hushjet-shizuka-sp01","w":19.0},{"n":"アイリスオーヤマ 空気清浄機 16畳 AAP-S30C-W","s":"iris-ohyama-air-purifier-aap-s30c-w-16jo","w":19.0},{"n":"フィリップス 空気清浄機 600iシリーズ","s":"philips-air-purifier-600i","w":12.0},{"n":"ブルーエア Blue Mini Max 小型空気清浄機 12畳 グレー（オンラインモデル）","s":"blueair-blue-mini-max-air-purifier-12jo","w":10.0}]},{"k":"circulator-fan","g":"サーキュレーター・扇風機","c":"消費電力（メーカー表記の数字。幅のある機種は最大側、50/60Hzで違う機種は50Hz）","items":[{"n":"コイズミ サーキュレーター KCF-1561","s":"koizumi-dc-circulator-kcf1561","w":35.0},{"n":"Dyson Cool CF1 扇風機","s":"dyson-cool-cf1","w":30.0},{"n":"アイリスオーヤマ サーキュレーター マカロン PCF-MKM15N","s":"irisohyama-circulator-macaron-pcfmkm15n","w":28.0},{"n":"Levoit(レボイト) 扇風機 タワーファン 静音 DCモーター 羽なし","s":"levoit-tower-fan-dc-ltf-f362-wjp","w":28.0},{"n":"シロカ 3Dサーキュレーター Japandi SF-15A221(TR) 煤色（モカブラウン）","s":"siroca-3d-circulator-japandi-sf-15a221-tr","w":24.0},{"n":"シロカ DC 扇風機 リビング サーキュレーター SF-C151","s":"siroca-dc-fan-circulator-sf-c151","w":24.0},{"n":"アイリスオーヤマ WOOZOO サーキュレーター 360 barrel PCF-CD15TECA-TU","s":"irisohyama-woozoo-360-barrel-circulator-pcf-cd15teca-tu","w":22.0},{"n":"シャープ サーキュレーター PK-S1801","s":"sharp-pk-s1801","w":21.0},{"n":"コイズミ 扇風機 KLF-3053","s":"koizumi-dc-fan-klf3053","w":21.0},{"n":"バルミューダ ザ・グリーンファン DCモーター扇風機 静音 省エネ 日本製","s":"balmuda-the-greenfan-egf-1800-wg","w":20.0},{"n":"山善 リビング扇風機 コンパクト収納 DCモーター AHX-FGD301","s":"yamazen-living-fan-dc-ahxfgd301","w":19.0},{"n":"山善 洗えるサーキュレーター 18畳 DCモーター YAR-TRD15E(C) グレージュ","s":"yamazen-circulator-yar-trd15e-c-18jo","w":16.0},{"n":"TOSHIBA(東芝) リビング扇風機 DCモーター 静音 リモコン付 7枚羽根","s":"toshiba-living-fan-dc-tf-30dl28a","w":16.0},{"n":"ツインバード サーキュレーター KJ-D783W ホワイト（首振りなし・角度調整）","s":"twinbird-circulator-kj-d783w-8jo","w":15.0},{"n":"アイリスオーヤマ サーキュレーター PCF-MKD15EC-W","s":"iris-ohyama-circulator-pcfmkd15ec","w":14.0},{"n":"Levoit 羽根なしタワーファン ミニ LTF-F132-WJP","s":"levoit-tower-fan-mini-ltff132","w":7.5},{"n":"ドウシシャ 卓上扇風機 スリムコンパクトファン 3電源","s":"doshisha-pieria-slim-compact-fan-3power","w":2.7},{"n":"ドウシシャ 携帯扇風機 ジェントルファン 2電源","s":"doshisha-gentle-fan-pieria-portable","w":1.8}]},{"k":"blender","g":"ブレンダー・ミキサー","c":"消費電力","items":[{"n":"ティファール ハンドブレンダー べビーマルチ","s":"tefal-hand-blender-baby-multi","w":400.0},{"n":"ティファール ブレンドフォース ネオ","s":"tefal-blendforce-neo-mixer","w":350.0},{"n":"パナソニック ミキサー 1000ml MX-X501-N","s":"panasonic-mixer-1000ml-mx-x501-n","w":255.0},{"n":"パナソニック ハンドブレンダー1台4役MX-S302","s":"panasonic-hand-blender-4in1-mxs302","w":200.0},{"n":"EDIMOTTO by EDISONmama 離乳食ブレンダー パパっとクック ベージュ","s":"edimotto-edisonmama-weaning-blender","w":200.0}]},{"k":"tv","g":"テレビ","c":"消費電力（待機時を除く）","items":[{"n":"ソニー ブラビア K-55XR80M2（55インチ・4K有機EL・BRAVIA 8 II）","s":"sony-bravia-8-ii-k-55xr80m2-55v-4k-oled-tv-2026","w":318.0},{"n":"シャープ AQUOS 4T-C65FN1","s":"sharp-aquos-4t-c65fn1","w":274.0},{"n":"パナソニック VIERA TV-50A90B（50V型 4K液晶テレビ）","s":"panasonic-viera-tv-50a90b","w":195.0},{"n":"パナソニック 50V型 4K液晶テレビ Fire TV搭載 TV-50A80B（Amazon.co.jp限定）","s":"panasonic-viera-50v-4k-fire-tv-tv-50a80b-amazon-model","w":141.0},{"n":"シャープ AQUOS 4T-C43GJ2 43V型 4K液晶テレビ Google TV搭載","s":"sharp-aquos-4t-c43gj2-google-tv","w":136.0},{"n":"レグザ 55E350S（55V型・4K液晶テレビ・2026年モデル）","s":"regza-55e350s-55v-4k-lcd-tv-2026","w":132.0},{"n":"ハイセンス 50E50S（50V型 4K液晶テレビ）","s":"hisense-50e50s-4k-tv","w":130.0},{"n":"レグザ 50E350S（50V型 4K液晶テレビ・2026年モデル）","s":"regza-50e350s-50v-4k-lcd-tv-2026","w":128.0},{"n":"ハイセンス 43E50S（43V型 4K液晶テレビ・2026年モデル）","s":"hisense-43e50s-43v-4k-lcd-tv-2026","w":110.0},{"n":"パナソニック VIERA TV-43A80B 43V型 4K液晶テレビ Fire","s":"panasonic-viera-tv-43a80b-fire-tv","w":110.0},{"n":"レグザ 43E350S（43V型・4K液晶テレビ・2026年モデル）","s":"regza-43e350s-43v-4k-lcd-tv-2026","w":106.0}]},{"k":"soundbar","g":"サウンドバー","c":"消費電力（本体。待機時の数字を除く）","items":[{"n":"パナソニック SC-HTB900-K","s":"panasonic-sc-htb900-soundbar","w":39.0},{"n":"ソニー サウンドバー HT-X8500","s":"sony-ht-x8500-soundbar","w":32.0},{"n":"FUNLOGY Soundbar","s":"funlogy-soundbar","w":30.0},{"n":"REGZA サウンドバー RA-B100(E) 2.0ch（最大100W・DTS Virtual:X）","s":"regza-soundbar-ra-b100-e-2ch-100w-dts-virtual-x","w":25.0},{"n":"ヤマハ SR-B30A","s":"yamaha-sr-b30a-soundbar","w":23.0},{"n":"ヤマハ SR-C20A","s":"yamaha-sr-c20a-soundbar","w":13.0}]}];
+function g(i){return document.getElementById(i);}
+var N=4;
+var slots=g('pw-slots');
+for(var i=0;i<N;i++){
+  var row=document.createElement('div');row.className='tl-row';
+  row.innerHTML='<div class="tl-field"><label for="pw-g'+i+'">家電の種類 '+(i+1)+'</label><select id="pw-g'+i+'"><option value="">選ばない</option>'+DATA.map(function(x,k){return '<option value="'+k+'">'+x.g+'</option>';}).join('')+'</select></div>'
+   +'<div class="tl-field"><label for="pw-p'+i+'">商品</label><select id="pw-p'+i+'"><option value="">（種類を選ぶ）</option></select></div>'
+   +'<div class="tl-field"><label for="pw-w'+i+'">消費電力(W・書き換え可)</label><input id="pw-w'+i+'" type="number" inputmode="decimal" min="0" value=""></div>';
+  slots.appendChild(row);
+  (function(i){
+    g('pw-g'+i).addEventListener('change',function(){
+      var v=g('pw-g'+i).value,sel=g('pw-p'+i);
+      sel.innerHTML='<option value="">（商品を選ぶ）</option>'+(v===''?'':DATA[v].items.map(function(x,k){return '<option value="'+k+'">'+x.n+'：'+x.w+'W</option>';}).join(''));
+      g('pw-w'+i).value='';run();
+    });
+    g('pw-p'+i).addEventListener('change',function(){
+      var v=g('pw-g'+i).value,k=g('pw-p'+i).value;
+      g('pw-w'+i).value=(v===''||k==='')?'':DATA[v].items[k].w;run();
+    });
+    g('pw-w'+i).addEventListener('input',run);
+  })(i);
+}
+g('pw-lim').addEventListener('input',run);
+function r1(x){return Math.round(x*10)/10;}
+function run(){
+  var tot=0,used=0,notes=[];
+  for(var i=0;i<N;i++){
+    var w=parseFloat(g('pw-w'+i).value);
+    if(w>0){tot+=w;used++;}
+    var v=g('pw-g'+i).value;
+    if(v!==''&&!(notes.indexOf(DATA[v].g)>=0)&&g('pw-p'+i).value!=='')notes.push(DATA[v].g);
+  }
+  var lim=parseFloat(g('pw-lim').value),sum=g('pw-sum'),det=g('pw-det');
+  if(used===0){sum.textContent='家電を選ぶか、消費電力(W)を入れてください。';det.textContent='';return;}
+  var s=used+'台の消費電力の合計は '+r1(tot)+'W（100Vで '+r1(tot/100)+'A）です。';
+  if(lim>0){var d=lim-tot;s+=' 入力した上限 '+lim+'W（'+r1(lim/100)+'A）に対して、'+(d>=0?r1(d)+'Wの差で、合計の数字は上限以下です（安全の判断ではありません）。':r1(-d)+'W多く、合計の数字は上限を超えています。');}
+  sum.textContent=s;
+  det.textContent=notes.length?('選んだ商品の数字の書かれ方は、種類ごとに違います。詳しくは各データ一覧を見てください（'+notes.join('、')+'）。'):'';
+}
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>選んだ家電(最大4つ)の消費電力(W)を足して、合計を出します。アンペアは、電圧を100Vとして、W÷100で出した目安です。</li>
+          <li>消費電力の数字は、各ジャンルの<a href="data.html">データ一覧</a>にある、メーカー記載の数字です(18ジャンル・228商品)。ジャンルによって、「最大の数字」「定格」など、数字の書かれ方が違います。</li>
+          <li>上限の数字は、お使いのタップや壁のコンセントに書かれた数字を入れてください。初期値の1500Wは、15Aを100Vで換算した例です。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>使うときの注意</h2>
+        <ul>
+          <li>このツールは、数字の足し算です。つないでよいか、安全かどうかを判断するものではありません。タップや家電の取扱説明書と、表示を必ず確認してください。</li>
+          <li>家電の消費電力は、動き出すとき、運転のモード、温度などで変わります。データ一覧の数字は、メーカーが書いた数字で、実際の消費電力とは違うことがあります。</li>
+          <li>タップに差し込み口が多くても、合計の上限は、タップの表示や、つなぐ先のコンセント・ご家庭の配線で決まります。このツールでは分かりません。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。おすすめの商品を示すものではありません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「電源タップの合計ワット数チェック」（2026年10月31日〜11月6日のデータ、2026年11月9日集計）　https://gearnote.net/tool-power-sum</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-power-sum"&gt;GEARNOTE「電源タップの合計ワット数チェック」（2026年10月31日〜11月6日のデータ、2026年11月9日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>消費電力を足した合計が、タップの上限以下なら、安全ですか？</h3>
+            <p>安全とは言えません。このツールは数字の足し算だけで、動き出すときの電力や、タップ・配線の状態は分かりません。必ず、タップと家電の表示と取扱説明書を確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>アンペアは、どうやって出していますか？</h3>
+            <p>電圧を100Vとして、消費電力(W)を100で割った目安です。お住まいの電圧や、家電の仕様で、実際の電流は変わることがあります。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>関連ページ</h2>
+        <ul><li><a href="data.html">データ一覧</a></li><li><a href="spec-condition-ledger.html">条件の台帳</a></li><li><a href="tools.html">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
