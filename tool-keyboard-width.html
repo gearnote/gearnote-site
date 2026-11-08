@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>キーボードの横幅チェック｜置ける幅から入るキーボードを探す｜GEARNOTE</title>
+<meta name="description" content="机の置ける幅(mm)を入れると、GEARNOTEに掲載しているキーボードのうち、メーカー記載の横幅が収まるものと、余りの幅(mm)を表示します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="キーボードの横幅チェック｜置ける幅から入るキーボードを探す｜GEARNOTE">
+<meta property="og:description" content="机の置ける幅(mm)を入れると、GEARNOTEに掲載しているキーボードのうち、メーカー記載の横幅が収まるものと、余りの幅(mm)を表示します。">
+<meta property="og:url" content="https://gearnote.net/tool-keyboard-width">
+<link rel="canonical" href="https://gearnote.net/tool-keyboard-width">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="キーボードの横幅チェック｜置ける幅から入るキーボードを探す｜GEARNOTE">
+<meta name="twitter:description" content="机の置ける幅(mm)を入れると、GEARNOTEに掲載しているキーボードのうち、メーカー記載の横幅が収まるものと、余りの幅(mm)を表示します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"キーボード横幅チェック"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"キーボードの横幅は、どう測った数字ですか？","acceptedAnswer":{"@type":"Answer","text":"メーカーが仕様に書いている左右方向の長さです。スタンドや突起物を含むかなどの条件は、商品ごとに違います。詳しくは、各商品ページと条件の台帳(spec-condition-ledger)を見てください。"}},{"@type":"Question","name":"キー数が少ないほど、幅は小さくなりますか？","acceptedAnswer":{"@type":"Answer","text":"そうとは限りません。GEARNOTEのデータでは、77キーのキーボードのほうが、84キーのキーボードより幅が広い例があります。キー数だけでなく、横幅の数字を置きたい場所の寸法と見比べてください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="tools.html">計算ツール</a> ／ キーボード横幅チェック</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">キーボードの横幅チェック｜置ける幅から、入るキーボードを探す</h1>
+        <p class="desc">置ける幅と、横に空けておきたい幅を入れると、横幅がその中に収まるキーボードを一覧にします。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月8日</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="kb-avail">キーボードを置ける幅(mm)</label><input id="kb-avail" type="number" inputmode="decimal" min="0" value="600"></div>
+            <div class="tl-field"><label for="kb-res">横に空けておきたい幅(mm・マウスやメモ用)</label><input id="kb-res" type="number" inputmode="decimal" min="0" value="0"></div>
+          </div>
+          <div class="tl-presets"><span class="tl-note">置ける幅の例：</span><button type="button" data-kb="450">450mm</button><button type="button" data-kb="500">500mm</button><button type="button" data-kb="600">600mm</button><button type="button" data-kb="800">800mm</button></div>
+          <p class="tl-result" id="kb-sum"></p>
+        </div>
+        <div id="kb-out"></div>
+        <script>
+(function(){
+var DATA=[{"n":"Apple Magic Keyboard（日本語JIS）","s":"apple-magic-keyboard-jis","w":278.9,"k":null,"g":null},{"n":"バッファロー ワイヤレスキーボード BSKBW355BK","s":"buffalo-wireless-keyboard-bskbw355bk","w":286.0,"k":null,"g":275.0},{"n":"エレコム Bluetoothフルキーボード","s":"elecom-bluetooth-keyboard-fullsize","w":441.5,"k":109.0,"g":515.0},{"n":"エレコム Precisionist ワイヤレスキーボード ミニサイズ","s":"elecom-precisionist-wireless-keyboard-tk-pn1075mpabk","w":313.0,"k":90.0,"g":null},{"n":"Keychron B1 Pro ウルトラスリム キーボード","s":"keychron-b1-pro-ultraslim-jis-silver","w":296.0,"k":77.0,"g":null},{"n":"Keychron B6 Pro ウルトラスリム ワイヤレスキーボード フルサイズ","s":"keychron-b6-pro-ultraslim-fullsize-space-gray-us","w":429.0,"k":109.0,"g":null},{"n":"ロジクール ゲーミングキーボード G213r","s":"logicool-g213-gaming-keyboard","w":452.0,"k":null,"g":1005.0},{"n":"ロジクール ワイヤレスキーボード K295GP","s":"logicool-k295gp-wireless-keyboard","w":441.0,"k":null,"g":null},{"n":"ロジクール MX KEYS S","s":"logicool-mx-keys-s","w":430.2,"k":null,"g":null},{"n":"ロジクール PEBBLE KEYS 2 K380s","s":"logicool-pebble-keys-2-k380s","w":279.0,"k":84.0,"g":null},{"n":"PFU HHKB Professional HYBRID Type-S 日本語配列／墨","s":"pfu-hhkb-professional-hybrid-types-jis-sumi","w":294.0,"k":69.0,"g":550.0},{"n":"エレコム メカニカルキーボード Leggero（レジェロ）有線 フルサイズ 静音赤軸 TK-MC51UKPAGY","s":"elecom-mechanical-keyboard-leggero-wired-tk-mc51ukpagy","w":446.0,"k":108.0,"g":1055.0},{"n":"Logicool G G316 X 98 ゲーミングキーボード G316X-98-LNBKd（リニア・日本語配列）","s":"logicool-g316x-98-gaming-keyboard-linear-g316x-98-lnbkd","w":384.0,"k":null,"g":null},{"n":"Logicool G G512 X 75 ゲーミングキーボード リニア 日本語配列 G512X-75-LNWHd（ホワイト）","s":"logicool-g512x-75-gaming-keyboard-linear-white-g512x-75-lnwhd","w":330.2,"k":null,"g":null},{"n":"Keychron K6 Ultra メカニカルキーボード JIS配列 赤軸 ブラック","s":"keychron-k6-ultra-mechanical-keyboard-jis-red-switch-black","w":319.2,"k":null,"g":null},{"n":"ロジクール Alto Keys K98M ガスケット式ワイヤレスメカニカルキーボード（オフホワイト）","s":"logicool-alto-keys-k98mow-gasket-wireless-keyboard-offwhite","w":401.0,"k":98.0,"g":null},{"n":"エレコム ワイヤレスキーボード TK-QT11FMMABK 静音フルサイズ","s":"elecom-wireless-keyboard-tk-qt11fmmabk-quiet-full-size","w":436.0,"k":null,"g":null},{"n":"バッファロー 有線フルキーボード BSKBU115BK（テンキー付き・109キー・メンブレン）","s":"buffalo-wired-keyboard-bskbu115bk-full-109-membrane","w":440.0,"k":109.0,"g":null},{"n":"ロジクール MX MECHANICAL MINI KX850CL","s":"logicool-mx-mechanical-mini-kx850cl-red","w":312.6,"k":null,"g":null}];
+function g(i){return document.getElementById(i);}
+
+        function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+        function renderTable(host,head,rows){host.textContent='';if(!rows.length){host.appendChild(el('p','tl-note','当てはまる商品はありませんでした。'));return;}
+          var w=el('div','compare-table-wrap'),t=el('table','compare-table guide-table'),th=el('thead'),tr=el('tr');
+          head.forEach(function(h){tr.appendChild(el('th','',h));});th.appendChild(tr);t.appendChild(th);var tb=el('tbody');
+          rows.forEach(function(r){var tr2=el('tr');r.forEach(function(c,i){var cell=el(i===0?'th':'td');
+            if(c&&typeof c==='object'&&c.href){var a=el('a','',c.t);a.href=c.href;cell.appendChild(a);}else{cell.textContent=(c===null||c===undefined)?'記載なし':c;}
+            tr2.appendChild(cell);});tb.appendChild(tr2);});t.appendChild(tb);w.appendChild(t);host.appendChild(w);}
+
+function run(){
+  var avail=parseFloat(g('kb-avail').value),res=parseFloat(g('kb-res').value)||0;
+  var out=g('kb-out'),sum=g('kb-sum');
+  if(!(avail>0)){sum.textContent='置ける幅(mm)を入れてください。';out.textContent='';return;}
+  var mx=avail-res;
+  var rows=DATA.filter(function(x){return x.w<=mx;}).sort(function(a,b){return b.w-a.w;});
+  sum.textContent='キーボードに使える幅は '+mx+'mm です(置ける幅 '+avail+'mm − 空けておく幅 '+res+'mm)。幅が分かる '+DATA.length+' 台のうち、収まるのは '+rows.length+' 台です。';
+  renderTable(out,['商品','横幅(mm)','余り(mm)','キー数','質量(電池・ケーブルを含まない・g)'],rows.map(function(x){return [{t:x.n,href:'product-'+x.s+'.html'},String(x.w),String(Math.round((mx-x.w)*10)/10),x.k===null?null:String(x.k),x.g===null?null:String(x.g)];}));
+}
+['kb-avail','kb-res'].forEach(function(i){g(i).addEventListener('input',run);});
+document.querySelectorAll('[data-kb]').forEach(function(b){b.addEventListener('click',function(){g('kb-avail').value=b.getAttribute('data-kb');run();});});
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>キーボードに使える幅 = 置ける幅 − 横に空けておきたい幅</li>
+          <li>余り = キーボードに使える幅 − キーボードの横幅(メーカー記載・左右方向の長さ)</li>
+          <li>横幅は、<a href="data-keyboard.html">キーボードのデータ一覧</a>の数字です。横幅の記載が確認できた19台が対象で、記載のない2台は表示されません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>使うときの注意</h2>
+        <ul>
+          <li>横幅は、メーカーが書いた左右方向の長さです。「スタンド含まず」「突起物含まず」などの条件は商品によって違うので、気になる場合は商品ページで確認してください。</li>
+          <li>奥行や高さは、このツールでは見ていません。手首を置くスペースや、モニターとの距離は含まれていません。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+          <li>商品の優劣や、おすすめを示すものではありません。数字が収まるかどうかだけを見ています。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>キーボードの横幅は、どう測った数字ですか？</h3>
+            <p>メーカーが仕様に書いている左右方向の長さです。スタンドや突起物を含むかなどの条件は、商品ごとに違います。詳しくは、各商品ページと条件の台帳(spec-condition-ledger)を見てください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>キー数が少ないほど、幅は小さくなりますか？</h3>
+            <p>そうとは限りません。GEARNOTEのデータでは、77キーのキーボードのほうが、84キーのキーボードより幅が広い例があります。キー数だけでなく、横幅の数字を置きたい場所の寸法と見比べてください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>関連ページ</h2>
+        <ul><li><a href="data-keyboard.html">キーボードのデータ一覧</a></li><li><a href="guide-keyboard.html">キーボードの選び方ガイド</a></li><li><a href="tools.html">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

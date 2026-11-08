@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>空気清浄機の畳数チェック｜部屋の広さから適用畳数で絞る｜GEARNOTE</title>
+<meta name="description" content="部屋の広さ(畳)を入れると、GEARNOTEに掲載している空気清浄機のうち、メーカー表記の適用畳数が足りる商品を表示します。同じページにある別の基準の畳数も一緒に出します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="空気清浄機の畳数チェック｜部屋の広さから適用畳数で絞る｜GEARNOTE">
+<meta property="og:description" content="部屋の広さ(畳)を入れると、GEARNOTEに掲載している空気清浄機のうち、メーカー表記の適用畳数が足りる商品を表示します。同じページにある別の基準の畳数も一緒に出します。">
+<meta property="og:url" content="https://gearnote.net/tool-air-purifier-area">
+<link rel="canonical" href="https://gearnote.net/tool-air-purifier-area">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="空気清浄機の畳数チェック｜部屋の広さから適用畳数で絞る｜GEARNOTE">
+<meta name="twitter:description" content="部屋の広さ(畳)を入れると、GEARNOTEに掲載している空気清浄機のうち、メーカー表記の適用畳数が足りる商品を表示します。同じページにある別の基準の畳数も一緒に出します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"空気清浄機の畳数チェック"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"適用畳数は、部屋の広さと同じ数字を選べばよいですか？","acceptedAnswer":{"@type":"Answer","text":"一つの目安ですが、基準はメーカーや製品で違います。同じ商品ページに2つの畳数が書かれている商品もあります。基準が書かれた数字どうしで確認してください。"}},{"@type":"Question","name":"同じ商品なのに、畳数が2つ書かれているのはなぜですか？","acceptedAnswer":{"@type":"Answer","text":"メーカーが、測り方の基準(新基準・旧基準、30分・60分、加湿運転時など)ごとに、数字を分けて書いているためです。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="tools.html">計算ツール</a> ／ 空気清浄機の畳数チェック</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">空気清浄機の畳数チェック｜部屋の広さから、適用畳数で絞る</h1>
+        <p class="desc">部屋の広さを入れると、適用畳数(メーカー表記)がその広さ以上の空気清浄機を一覧にします。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月8日</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="ap-room">部屋の広さ(畳)</label><input id="ap-room" type="number" inputmode="decimal" min="0" value="12"></div>
+            <div class="tl-field"><label for="ap-type">種類</label><select id="ap-type"><option value="all">すべて</option><option value="n">空気清浄機(加湿機能なし)</option><option value="h">加湿空気清浄機</option></select></div>
+          </div>
+          <div class="tl-presets"><span class="tl-note">広さの例：</span><button type="button" data-ap="6">6畳</button><button type="button" data-ap="8">8畳</button><button type="button" data-ap="12">12畳</button><button type="button" data-ap="16">16畳</button><button type="button" data-ap="20">20畳</button></div>
+          <p class="tl-result" id="ap-sum"></p>
+        </div>
+        <div id="ap-out"></div>
+        <script>
+(function(){
+var DATA=[{"n":"ブルーエア 空気清浄機 22畳 Blue Max 3250i リビング 寝室","s":"blueair-air-purifier-blue-max-3250i","a":22,"alt":12,"f":4.8,"d":46,"k":3.4,"h":0},{"n":"ブルーエア Blue Mini Max 小型空気清浄機 12畳 グレー（オンラインモデル）","s":"blueair-blue-mini-max-air-purifier-12jo","a":12,"alt":5,"f":null,"d":44,"k":1.2,"h":0},{"n":"コーウェイ・ジャパン(Coway Japan) COWAY 空気清浄機","s":"coway-airmega-150-ap-1019c-n","a":20,"alt":null,"f":4.6,"d":48,"k":5.5,"h":0},{"n":"COWAY 空気清浄機 AIRMEGA 300 AP-1515H 約38畳 ホワイト","s":"coway-airmega-300-ap-1515h-white","a":38,"alt":null,"f":9.7,"d":50,"k":9.7,"h":0},{"n":"Dyson HushJet shizuka 空気清浄機 SP01","s":"dyson-hushjet-shizuka-sp01","a":19,"alt":55,"f":null,"d":46.2,"k":3.15,"h":0},{"n":"Dyson Purifier Hot+Cool","s":"dyson-purifier-hotcool","a":8,"alt":25,"f":null,"d":null,"k":5.29,"h":0},{"n":"Dyson Purifier Big+Quiet","s":"dyson-purifier-big-quiet","a":27,"alt":79,"f":null,"d":42.7,"k":11.8,"h":0},{"n":"アイリスオーヤマ 空気清浄機 16畳 AAP-S30C-W","s":"iris-ohyama-air-purifier-aap-s30c-w-16jo","a":16,"alt":null,"f":2.6,"d":46,"k":2.5,"h":0},{"n":"アイリスオーヤマ 空気清浄機 PMAC-100","s":"iris-ohyama-air-purifier-pmac100","a":14,"alt":null,"f":3.3,"d":null,"k":4.4,"h":0},{"n":"Levoit 空気清浄機 Core P350 脱臭強化モデル 20畳 グレー","s":"levoit-core-p350-air-purifier-20jo","a":20,"alt":null,"f":null,"d":46,"k":3.5,"h":0},{"n":"Levoit（レボイト）空気清浄機 Vital 100S 21畳","s":"levoit-vital-100s-air-purifier-21jo","a":21,"alt":null,"f":null,"d":null,"k":null,"h":0},{"n":"パナソニック 空気清浄機 ナノイーX F-PX70C-W","s":"panasonic-air-purifier-f-px70c","a":19,"alt":31,"f":7.0,"d":55,"k":5.1,"h":0},{"n":"シャープ 加湿レス空気清浄機 FU-SC01","s":"sharp-fu-sc01","a":6,"alt":null,"f":1.5,"d":48,"k":2.0,"h":0},{"n":"【1台4役・花粉対策】SwitchBot 空気清浄機 Table - 脱臭","s":"switchbot-air-purifier-table-wood","a":25,"alt":null,"f":null,"d":null,"k":4.8,"h":0},{"n":"Shark BreatheClear 空気清浄機 HP062JBKNC（ブラック・Amazon.co.jp限定）","s":"shark-breatheclear-air-purifier-hp062jbknc","a":7,"alt":null,"f":null,"d":null,"k":2.6,"h":0},{"n":"Levoit 空気清浄機 Core 300 小型","s":"levoit-core300-air-purifier","a":20,"alt":null,"f":null,"d":46,"k":3.5,"h":0},{"n":"パナソニック 加湿空気清浄機 F-VXW55-W ナノイーX 4.8兆 ホワイト","s":"panasonic-humidifying-air-purifier-f-vxw55-w","a":14,"alt":25,"f":5.4,"d":53,"k":8.0,"h":1},{"n":"シャープ 加湿空気清浄機 KI-SX70-W","s":"sharp-humidifying-air-purifier-ki-sx70-w","a":31,"alt":29,"f":7.0,"d":51,"k":12,"h":1},{"n":"シャープ 加湿空気清浄機 KI-SS50-W","s":"sharp-ki-ss50-w","a":23,"alt":16,"f":5.1,"d":51,"k":7.9,"h":1},{"n":"シャープ KI-TX75","s":"sharp-ki-tx75","a":34,"alt":27,"f":7.5,"d":52,"k":12,"h":1},{"n":"Shark BreatheClear 空気清浄機 HP062JGYNC グレー（Amazon限定）","s":"shark-breatheclear-air-purifier-hp062jgync-amazon-gray","a":7,"alt":null,"f":null,"d":null,"k":2.6,"h":0},{"n":"シャープ 空気清浄機 KC-S50W","s":"sharp-kc-s50w","a":23,"alt":15,"f":5.1,"d":52,"k":7.5,"h":1},{"n":"シャープ KI-TS50","s":"sharp-ki-ts50","a":23,"alt":16,"f":5.1,"d":51,"k":7.9,"h":1}];
+function g(i){return document.getElementById(i);}
+
+        function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+        function renderTable(host,head,rows){host.textContent='';if(!rows.length){host.appendChild(el('p','tl-note','当てはまる商品はありませんでした。'));return;}
+          var w=el('div','compare-table-wrap'),t=el('table','compare-table guide-table'),th=el('thead'),tr=el('tr');
+          head.forEach(function(h){tr.appendChild(el('th','',h));});th.appendChild(tr);t.appendChild(th);var tb=el('tbody');
+          rows.forEach(function(r){var tr2=el('tr');r.forEach(function(c,i){var cell=el(i===0?'th':'td');
+            if(c&&typeof c==='object'&&c.href){var a=el('a','',c.t);a.href=c.href;cell.appendChild(a);}else{cell.textContent=(c===null||c===undefined)?'記載なし':c;}
+            tr2.appendChild(cell);});tb.appendChild(tr2);});t.appendChild(tb);w.appendChild(t);host.appendChild(w);}
+
+function run(){
+  var room=parseFloat(g('ap-room').value),out=g('ap-out'),sum=g('ap-sum');
+  var hum=g('ap-type').value;
+  if(!(room>0)){sum.textContent='部屋の広さ(畳)を入れてください。';out.textContent='';return;}
+  var rows=DATA.filter(function(x){return x.a>=room&&(hum==='all'||(hum==='h'&&x.h===1)||(hum==='n'&&x.h===0));}).sort(function(a,b){return a.a-b.a;});
+  sum.textContent='メーカー表記の適用畳数が '+room+'畳以上の商品は、'+DATA.length+' 台のうち '+rows.length+' 台です。';
+  renderTable(out,['商品','適用畳数(データ一覧)','同じページの別の畳数','最大風量(m³/分)','運転音(最大運転時・dB)','質量(kg)'],rows.map(function(x){return [{t:x.n,href:'product-'+x.s+'.html'},x.a+'畳',x.alt===null?'なし':(x.alt+'畳'),x.f===null?null:String(x.f),x.d===null?null:String(x.d),x.k===null?null:String(x.k)];}));
+}
+['ap-room','ap-type'].forEach(function(i){g(i).addEventListener('input',run);});
+document.querySelectorAll('[data-ap]').forEach(function(b){b.addEventListener('click',function(){g('ap-room').value=b.getAttribute('data-ap');run();});});
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>適用畳数(メーカー表記)が、入力した畳数以上の商品を、畳数の小さい順に表示します。</li>
+          <li>数字は、<a href="data-air-purifier.html">空気清浄機のデータ一覧</a>の適用畳数(空気清浄運転・メーカー表記)です。適用畳数の記載が確認できた23台が対象です。</li>
+          <li>「同じページの別の畳数」は、同じ商品ページに別の基準(新基準・旧基準、運転時間の違い、加湿運転時など)の畳数が書かれている場合の数字です。対象の12台で、データ一覧の畳数と差が出ます。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>使うときの注意</h2>
+        <ul>
+          <li>適用畳数は、メーカーや製品によって、測り方の基準が違います。このツールは、数字が足りているかを機械的に絞るだけで、基準の違いは調整していません。詳しくは<a href="spec-condition-ledger.html">条件の台帳</a>を見てください。</li>
+          <li>部屋の形、天井の高さ、使い方で、必要な能力は変わります。このツールは、おすすめの商品を示すものではありません。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>適用畳数は、部屋の広さと同じ数字を選べばよいですか？</h3>
+            <p>一つの目安ですが、基準はメーカーや製品で違います。同じ商品ページに2つの畳数が書かれている商品もあります。基準が書かれた数字どうしで確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>同じ商品なのに、畳数が2つ書かれているのはなぜですか？</h3>
+            <p>メーカーが、測り方の基準(新基準・旧基準、30分・60分、加湿運転時など)ごとに、数字を分けて書いているためです。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>関連ページ</h2>
+        <ul><li><a href="data-air-purifier.html">空気清浄機のデータ一覧</a></li><li><a href="spec-condition-ledger.html">条件の台帳</a></li><li><a href="tools.html">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

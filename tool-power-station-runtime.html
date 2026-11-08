@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ポータブル電源の使える時間の目安計算｜Wと電池容量(Wh)から｜GEARNOTE</title>
+<meta name="description" content="使いたい家電の消費電力(W)を入れると、GEARNOTEに掲載しているポータブル電源の電池容量(Wh)から、使える時間の目安とAC定格出力が足りるかを表示します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="ポータブル電源の使える時間の目安計算｜Wと電池容量(Wh)から｜GEARNOTE">
+<meta property="og:description" content="使いたい家電の消費電力(W)を入れると、GEARNOTEに掲載しているポータブル電源の電池容量(Wh)から、使える時間の目安とAC定格出力が足りるかを表示します。">
+<meta property="og:url" content="https://gearnote.net/tool-power-station-runtime">
+<link rel="canonical" href="https://gearnote.net/tool-power-station-runtime">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ポータブル電源の使える時間の目安計算｜Wと電池容量(Wh)から｜GEARNOTE">
+<meta name="twitter:description" content="使いたい家電の消費電力(W)を入れると、GEARNOTEに掲載しているポータブル電源の電池容量(Wh)から、使える時間の目安とAC定格出力が足りるかを表示します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"ポータブル電源の使える時間"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"使える時間は、電池容量(Wh)を消費電力(W)で割れば出ますか？","acceptedAnswer":{"@type":"Answer","text":"目安にはなりますが、変換のロスなどで、実際に使える割合は100%より小さくなります。このツールでは、仮に80%とし、変えられるようにしています。"}},{"@type":"Question","name":"AC定格出力を超える家電は使えませんか？","acceptedAnswer":{"@type":"Answer","text":"定格出力を超えると、使えない、または保護機能で止まる可能性があります。購入前に、家電の消費電力とポータブル電源の仕様を確認してください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="tools.html">計算ツール</a> ／ ポータブル電源の使える時間</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">ポータブル電源の使える時間の目安計算｜家電のWと、電池容量(Wh)から</h1>
+        <p class="desc">家電の消費電力(W)を入れると、ポータブル電源ごとの「使える時間の目安」と、AC定格出力が足りるかを一覧にします。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月8日</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="ps-w">使いたい家電の消費電力(W)</label><input id="ps-w" type="number" inputmode="decimal" min="0" value="100"></div>
+            <div class="tl-field"><label for="ps-eff">電池容量のうち、実際に使える割合(%)</label><input id="ps-eff" type="number" inputmode="decimal" min="1" max="100" value="80"></div>
+          </div>
+          <div class="tl-presets"><span class="tl-note">消費電力の例(W)：</span><button type="button" data-ps="10">10</button><button type="button" data-ps="50">50</button><button type="button" data-ps="100">100</button><button type="button" data-ps="300">300</button><button type="button" data-ps="1000">1000</button></div>
+          <p class="tl-result" id="ps-sum"></p>
+        </div>
+        <div id="ps-out"></div>
+        <script>
+(function(){
+var DATA=[{"n":"Anker Solix C1000 ポータブル電源","s":"anker-solix-c1000","wh":1056.0,"w":1500.0,"k":12.9},{"n":"Anker ポータブル電源 Solix C300 288Wh 高出力AC300W","s":"anker-solix-c300-288wh","wh":288.0,"w":300.0,"k":4.1},{"n":"Anker Solix S2000 ポータブル電源 AS220（2010Wh・定格出力1500W）","s":"anker-solix-s2000-portable-power-station-as220","wh":2010.0,"w":1500.0,"k":16.2},{"n":"BLUETTI ポータブル電源 AC2A 204Wh/300W APP遠隔操作","s":"bluetti-ac2a-204wh","wh":204.8,"w":300.0,"k":3.6},{"n":"DJI Power 1000 Mini ポータブル電源 1008Wh 小型 大容量","s":"dji-power-1000-mini","wh":1008.0,"w":800.0,"k":11.5},{"n":"Jackery ポータブル電源 1000 New 1070Wh","s":"jackery-portable-power-1000-new-je-1000d-sg","wh":1070.0,"w":1500.0,"k":10.8},{"n":"Jackery(ジャクリ) ポータブル電源 240 New 256Wh","s":"jackery-portable-power-240","wh":256.0,"w":300.0,"k":3.6},{"n":"DJI Power Auro 2000 Elite ポータブル電源（2000W出力・2016Wh・LFPバッテリー）","s":"dji-power-auro-2000-elite-portable-power-station-2000w","wh":2016.0,"w":null,"k":19.0}];
+function g(i){return document.getElementById(i);}
+
+        function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+        function renderTable(host,head,rows){host.textContent='';if(!rows.length){host.appendChild(el('p','tl-note','当てはまる商品はありませんでした。'));return;}
+          var w=el('div','compare-table-wrap'),t=el('table','compare-table guide-table'),th=el('thead'),tr=el('tr');
+          head.forEach(function(h){tr.appendChild(el('th','',h));});th.appendChild(tr);t.appendChild(th);var tb=el('tbody');
+          rows.forEach(function(r){var tr2=el('tr');r.forEach(function(c,i){var cell=el(i===0?'th':'td');
+            if(c&&typeof c==='object'&&c.href){var a=el('a','',c.t);a.href=c.href;cell.appendChild(a);}else{cell.textContent=(c===null||c===undefined)?'記載なし':c;}
+            tr2.appendChild(cell);});tb.appendChild(tr2);});t.appendChild(tb);w.appendChild(t);host.appendChild(w);}
+
+function run(){
+  var w=parseFloat(g('ps-w').value),eff=parseFloat(g('ps-eff').value),out=g('ps-out'),sum=g('ps-sum');
+  if(!(w>0)||!(eff>0)||eff>100){sum.textContent='家電の消費電力(W)と、使える割合(1〜100%)を入れてください。';out.textContent='';return;}
+  var rows=DATA.map(function(x){var h=x.wh*eff/100/w;var ok=x.w===null?null:(x.w>=w);return {x:x,h:h,ok:ok};}).sort(function(a,b){return b.h-a.h;});
+  var usable=rows.filter(function(r){return r.ok!==false;}).length;
+  sum.textContent='消費電力 '+w+'W の家電を、電池容量の '+eff+'% が使えるとして計算しました。AC定格出力が足りる(または記載なし)の商品は '+usable+' / '+DATA.length+' 台です。';
+  renderTable(out,['商品','電池容量(Wh)','AC定格出力(W)','使える時間の目安','定格出力の確認'],rows.map(function(r){var t=r.h>=1?(Math.round(r.h*10)/10)+'時間':(Math.round(r.h*60))+'分';return [{t:r.x.n,href:'product-'+r.x.s+'.html'},String(r.x.wh),r.x.w===null?null:String(r.x.w),r.ok===false?'(定格出力を超えるため、使えない可能性があります)'+' '+t:t,r.ok===null?'AC定格出力の記載なし':(r.ok?'定格出力以内':'定格出力を超える')];}));
+}
+['ps-w','ps-eff'].forEach(function(i){g(i).addEventListener('input',run);});
+document.querySelectorAll('[data-ps]').forEach(function(b){b.addEventListener('click',function(){g('ps-w').value=b.getAttribute('data-ps');run();});});
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>使える時間(時間) = 電池容量(Wh) × 使える割合 ÷ 家電の消費電力(W)</li>
+          <li>電池容量とAC定格出力は、<a href="data-portable-power-station.html">ポータブル電源のデータ一覧</a>のメーカー記載の数字です(対象8台)。</li>
+          <li>「使える割合」は、変換のロスなどで、電池容量のすべてを使えるわけではないことを考えた、<strong>GEARNOTE運営の仮の数字(初期値80%)</strong>です。メーカーの数字ではありません。実際の割合は、製品や使い方、温度で変わります。</li>
+          <li>家電の消費電力が、ポータブル電源のAC定格出力を超える場合は、使えない可能性があるので、そのように表示します。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>使うときの注意</h2>
+        <ul>
+          <li>このツールの時間は、一定の消費電力で使い続けた場合の<strong>目安の計算</strong>です。実際の時間を保証するものではありません。</li>
+          <li>家電の消費電力は、動き出すときや、運転モードで変わります。消費電力の数字は、家電の仕様や本体のラベルで確認してください。</li>
+          <li>定格出力の記載がない商品は、出力が足りるかを確認できないので、「記載なし」と表示します。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。おすすめの商品を示すものではありません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>使える時間は、電池容量(Wh)を消費電力(W)で割れば出ますか？</h3>
+            <p>目安にはなりますが、変換のロスなどで、実際に使える割合は100%より小さくなります。このツールでは、仮に80%とし、変えられるようにしています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>AC定格出力を超える家電は使えませんか？</h3>
+            <p>定格出力を超えると、使えない、または保護機能で止まる可能性があります。購入前に、家電の消費電力とポータブル電源の仕様を確認してください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>関連ページ</h2>
+        <ul><li><a href="data-portable-power-station.html">ポータブル電源のデータ一覧</a></li><li><a href="spec-condition-ledger.html">条件の台帳</a></li><li><a href="tools.html">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
