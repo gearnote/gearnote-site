@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 07 Nov 2026 13:32:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 04:44:34 +0000</lastBuildDate>
+  <item>
+    <title>仕様表で数字が見つからない項目｜63ジャンル・1175商品の記載状況レポート｜GEARNOTE</title>
+    <link>https://gearnote.net/data-spec-disclosure</link>
+    <guid isPermaLink="true">https://gearnote.net/data-spec-disclosure</guid>
+    <description>GEARNOTEのデータ一覧63ジャンル・1175商品の仕様表で、条件をそろえた数字が見つかる割合を項目の種類別・ジャンル別に集計しました。CSVつき。</description>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>同じ名前でも条件が違う仕様の数字｜質量・消費電力・畳数の台帳｜GEARNOTE</title>
+    <link>https://gearnote.net/spec-condition-ledger</link>
+    <guid isPermaLink="true">https://gearnote.net/spec-condition-ledger</guid>
+    <description>仕様表の質量・消費電力・運転音・連続使用時間・適用畳数が、商品ごとにどんな条件で書かれているかを、63ジャンルのデータ一覧から集めて並べた台帳です。</description>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -117,6 +131,13 @@
     <link>https://gearnote.net/data-electric-kettle</link>
     <guid isPermaLink="true">https://gearnote.net/data-electric-kettle</guid>
     <description>GEARNOTEに掲載している電気ケトル19台の、容量（mL）、消費電力（W）、満水時の沸とう時間（分）、本体のみの質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>HUAWEI WATCH FIT 4（ブラック） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-huawei-watch-fit-4-sapphire-glass-black-sya-b19</link>
+    <guid isPermaLink="true">https://gearnote.net/product-huawei-watch-fit-4-sapphire-glass-black-sya-b19</guid>
+    <description>HUAWEI WATCH FIT 4（ブラック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/product-sharp-ib-wx901</link>
     <guid isPermaLink="true">https://gearnote.net/product-sharp-ib-wx901</guid>
     <description>シャープ ヘアドライヤー IB-WX901の特徴を整理。メリット・デメリット、パナソニック ナノケア・ReFaビューテックとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>WF-1000XM6レビュー｜音質・ノイキャン・デメリットを徹底検証｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wf-1000xm6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wf-1000xm6</guid>
-    <description>ソニー WF-1000XM6の特徴を整理。メリット・デメリット、AirPods 4・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー LinkBuds WF-L900の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-linkbuds-wf-l900</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-linkbuds-wf-l900</guid>
-    <description>ソニー(SONY) LinkBuds WF-L900の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー WH-1000XM6 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wh-1000xm6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-1000xm6</guid>
-    <description>ソニー WH-1000XM6 ワイヤレスノイズキャンセリングヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

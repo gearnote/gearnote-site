@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>同じ名前でも条件が違う仕様の数字｜質量・消費電力・畳数の台帳｜GEARNOTE</title>
+<meta name="description" content="仕様表の質量・消費電力・運転音・連続使用時間・適用畳数が、商品ごとにどんな条件で書かれているかを、63ジャンルのデータ一覧から集めて並べた台帳です。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="同じ名前でも条件が違う仕様の数字｜質量・消費電力・畳数の台帳｜GEARNOTE">
+<meta property="og:description" content="仕様表の質量・消費電力・運転音・連続使用時間・適用畳数が、商品ごとにどんな条件で書かれているかを、63ジャンルのデータ一覧から集めて並べた台帳です。">
+<meta property="og:url" content="https://gearnote.net/spec-condition-ledger">
+<link rel="canonical" href="https://gearnote.net/spec-condition-ledger">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="同じ名前でも条件が違う仕様の数字｜質量・消費電力・畳数の台帳｜GEARNOTE">
+<meta name="twitter:description" content="仕様表の質量・消費電力・運転音・連続使用時間・適用畳数が、商品ごとにどんな条件で書かれているかを、63ジャンルのデータ一覧から集めて並べた台帳です。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"条件の台帳"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"仕様表の質量は、どこまで含んだ数字ですか？","acceptedAnswer":{"@type":"Answer","text":"商品ごとに違います。GEARNOTEのデータ一覧では、質量の列が54ジャンルで55列あり、「含む」「除く」「本体」など、条件の書き方が6種類に分かれていました。購入前に、電池・ケーブル・スタンドなどを含むかを確認してください。"}},{"@type":"Question","name":"空気清浄機の適用畳数が、商品ページに2つ書かれているのはなぜですか？","acceptedAnswer":{"@type":"Answer","text":"メーカーが、測り方の基準(新基準・旧基準、運転時間の違い、加湿運転時など)ごとに、畳数を分けて書いているためです。GEARNOTEのデータ一覧では、適用畳数が書かれている23台のうち12台が、同じページに2つ以上の畳数を載せていました。"}},{"@type":"Question","name":"消費電力(W)と電力量(kWh)は、同じですか？","acceptedAnswer":{"@type":"Answer","text":"別の数字です。Wは動いている瞬間に使う電力、kWhは一定の時間(1時間、1年など)に使う量です。電気代を考えるときは、どの運転の数字か(最大か通常か)も、あわせて確かめてください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="index.html" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="index.html">ホーム</a>
+      <a href="index.html#ranking">ランキング</a>
+      <a href="index.html#picks">おすすめ</a>
+      <a href="index.html#brands">ブランド</a>
+      <a href="all-products.html">商品検索</a>
+      <a href="favorites.html">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about.html">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="index.html">ホーム</a> ／ <a href="data.html">データ一覧</a> ／ 条件の台帳</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">同じ名前でも条件が違う仕様の数字｜質量・消費電力・畳数の台帳</h1>
+        <p class="desc">「質量」「消費電力」「適用畳数」は、名前が同じでも中身が違います。63ジャンルのデータ一覧に書いた条件を、全部集めて並べました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about.html#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月8日</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>この台帳について</h2>
+        <p>仕様表の「質量」「消費電力」「運転音」「連続使用時間」「適用畳数」は、名前が同じでも、<strong>測り方や含むものの条件が商品ごとに違う数字</strong>です。GEARNOTEのデータ一覧では、条件が違う数字を同じ列に混ぜないように、<strong>列の名前に条件を書き込んで</strong>います。</p>
+        <p>この台帳は、その<strong>列の名前(=条件の書き方)</strong>を、63ジャンルのデータ一覧から全部集めて、並べ直したものです。「同じ名前なのに、何通りの条件があるか」が分かります。数字の台数は、各データ一覧のCSVから、コードで数えました(集計日：2026年11月8日)。</p>
+        <p>関連：<a href="data-spec-disclosure.html">仕様の記載状況レポート(数字がどれだけ見つかるか)</a></p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>質量：55列・54ジャンルで、書き方は6種類</h2>
+        <p>「質量」「重量」という名前の列は、54ジャンルで55列ありました。列の名前に書いた条件を、種類で分けると次のとおりです(筆者の分類です)。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>書き方の種類</th><th>列の数</th></tr></thead>
+            <tbody>
+            <tr><th>付属品・部品を「含む」状態</th><td>4</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td>11</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td>11</td></tr>
+            <tr><th>条件の記載がないもの</th><td>2</td></tr>
+            <tr><th>「メーカー記載値」とだけ書かれたもの</th><td>3</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td>24</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>電池やケーブル、スタンドなどを「含む」数字と「除いた」数字は、同じ列に混ぜると比べられません。たとえばキーボードの質量は、電池・ケーブルを含まない数字が表の条件ですが、数字が載っているのは5/21台です。ワイヤレスマウスの電池を含む質量は6/27台です。</p>
+        <p>全列の一覧です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>書き方の種類</th><th>ジャンル</th><th>列の名前(表に書いた条件)</th><th>数字あり</th></tr></thead>
+            <tbody>
+            <tr><th>付属品・部品を「含む」状態</th><td><a href="data-cordless-vacuum.html">コードレス掃除機</a></td><td>スティック状態の質量（ヘッドを付けた状態）</td><td>12/22</td></tr>
+            <tr><th>付属品・部品を「含む」状態</th><td><a href="data-tv.html">テレビ</a></td><td>質量（スタンド含む）</td><td>11/12</td></tr>
+            <tr><th>付属品・部品を「含む」状態</th><td><a href="data-wireless-mouse.html">ワイヤレスマウス</a></td><td>質量（電池を含む）</td><td>6/27</td></tr>
+            <tr><th>付属品・部品を「含む」状態</th><td><a href="data-electric-toothbrush.html">電動歯ブラシ</a></td><td>質量（ブラシ・ブラシヘッド装着時）</td><td>10/20</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-webcam.html">Webカメラ</a></td><td>質量（マウント・クリップを含まない）</td><td>4/11</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-keyboard.html">キーボード</a></td><td>質量（電池・ケーブルを含まない）</td><td>5/21</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-game-controller.html">ゲームコントローラー</a></td><td>質量（ケーブルなしの本体）</td><td>6/15</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-streaming-device.html">ストリーミングデバイス</a></td><td>本体の質量（リモコンは含まない）</td><td>3/11</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-smartwatch.html">スマートウォッチ</a></td><td>質量（ストラップ・バンドを除くと明記）</td><td>16/37</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-hair-iron.html">ヘアアイロン</a></td><td>質量（電源コードを含まない本体）</td><td>5/19</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-hair-dryer.html">ヘアドライヤー</a></td><td>質量（ノズルを除く）</td><td>8/17</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-headphone.html">ヘッドホン</a></td><td>質量（コード・ケーブルを除く）</td><td>11/44</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-mens-shaver.html">メンズ電気シェーバー</a></td><td>質量（キャップを除く）</td><td>6/18</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-monitor.html">モニター</a></td><td>質量（スタンドを除いた本体のみ）</td><td>12/18</td></tr>
+            <tr><th>付属品・部品を「除いた」状態</th><td><a href="data-electric-kettle.html">電気ケトル</a></td><td>本体のみの質量（電源プレートを含まない）</td><td>13/19</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-wifi-router.html">Wi-Fiルーター・中継機</a></td><td>質量（本体のみ）</td><td>7/18</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-action-camera.html">アクションカメラ・360度カメラ</a></td><td>カメラ本体の質量</td><td>19/20</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-cooler-box.html">クーラーボックス・保冷バッグ・ポータブル冷蔵庫</a></td><td>質量（本体）</td><td>10/12</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-soundbar.html">サウンドバー</a></td><td>質量（サウンドバー本体）</td><td>11/13</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-circulator-fan.html">サーキュレーター・扇風機</a></td><td>質量（メーカー記載の本体質量）</td><td>23/31</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-blender.html">ブレンダー・ミキサー</a></td><td>質量（本体）</td><td>8/11</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-portable-speaker.html">ポータブルスピーカー</a></td><td>質量（本体）</td><td>26/30</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-microphone.html">マイク</a></td><td>質量（マイク本体。ワイヤレスは送信機1台）</td><td>10/14</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-robot-vacuum.html">ロボット掃除機</a></td><td>本体質量</td><td>11/23</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-garment-steamer.html">衣類スチーマー・スチームアイロン</a></td><td>本体質量</td><td>9/11</td></tr>
+            <tr><th>「本体」「本体のみ」と書かれたもの</th><td><a href="data-pressure-cooker.html">電気圧力鍋・自動調理鍋</a></td><td>本体質量</td><td>9/10</td></tr>
+            <tr><th>条件の記載がないもの</th><td><a href="data-smartwatch.html">スマートウォッチ</a></td><td>質量（ストラップ・バンドの扱いの記載なし）</td><td>16/37</td></tr>
+            <tr><th>条件の記載がないもの</th><td><a href="data-earbuds.html">ワイヤレスイヤホン</a></td><td>イヤホン片耳の質量（イヤーピースの有無の記載がない値）</td><td>39/64</td></tr>
+            <tr><th>「メーカー記載値」とだけ書かれたもの</th><td><a href="data-external-storage.html">外付けストレージ</a></td><td>質量（メーカー記載値）</td><td>18/24</td></tr>
+            <tr><th>「メーカー記載値」とだけ書かれたもの</th><td><a href="data-clock.html">時計</a></td><td>質量（メーカーが1つの数字で記載した値）</td><td>11/13</td></tr>
+            <tr><th>「メーカー記載値」とだけ書かれたもの</th><td><a href="data-vacuum-bottle.html">水筒・タンブラー</a></td><td>質量（メーカー表示）</td><td>8/12</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-usb-c-hub.html">USBハブ・ドッキングステーション</a></td><td>質量</td><td>13/20</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-usb-charger.html">USB充電器</a></td><td>質量</td><td>17/28</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-oven-toaster.html">オーブントースター</a></td><td>質量</td><td>8/11</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-coffee-maker.html">コーヒーメーカー</a></td><td>質量</td><td>9/17</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-shoulder-bag.html">ショルダーバッグ・トートバッグ・サコッシュ</a></td><td>重量</td><td>18/20</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-smart-speaker.html">スマートスピーカー</a></td><td>質量</td><td>6/12</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-tablet.html">タブレット</a></td><td>質量</td><td>11/15</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-document-scanner.html">ドキュメントスキャナー</a></td><td>質量</td><td>12/12</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-air-fryer.html">ノンフライヤー（エアフライヤー）</a></td><td>質量</td><td>6/12</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-hot-carpet-kotatsu.html">ホットカーペット・こたつ</a></td><td>質量</td><td>7/9</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-portable-power-station.html">ポータブル電源</a></td><td>質量</td><td>8/8</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-power-bank.html">モバイルバッテリー</a></td><td>重量</td><td>19/27</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-backpack.html">リュック・バックパック</a></td><td>重量</td><td>12/19</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-wireless-charger.html">ワイヤレス充電器（MagSafe・Qi2）</a></td><td>質量</td><td>4/16</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-refrigerator.html">冷蔵庫</a></td><td>質量</td><td>7/11</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-humidifier.html">加湿器</a></td><td>質量</td><td>24/30</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-washing-machine.html">洗濯機</a></td><td>質量</td><td>7/15</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-rice-cooker.html">炊飯器</a></td><td>質量</td><td>15/18</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-air-purifier.html">空気清浄機</a></td><td>質量</td><td>22/27</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-wallet.html">財布・カードケース・キーケース</a></td><td>質量</td><td>13/18</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-dehumidifier.html">除湿機</a></td><td>質量</td><td>12/12</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-microwave-oven.html">電子レンジ・オーブンレンジ</a></td><td>質量</td><td>10/11</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-electric-blanket.html">電気毛布</a></td><td>質量</td><td>15/20</td></tr>
+            <tr><th>「質量」「重量」とだけ書かれたもの(条件の説明なし)</th><td><a href="data-power-strip.html">電源タップ・延長コード</a></td><td>質量</td><td>8/13</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>消費電力:W(ワット)と、電力量(kWh)は別の数字</h2>
+        <p>消費電力の列は28列あり、条件の書き方は「メーカー表記の最大値」「通常使用時」「待機時を除く」「60Hz」「範囲表記を除く」「W以下の上限値」など、バラバラです。そのうち5列は「電力量」(使った時間あたり、または年間の量)で、W(瞬間の電力)とは別の数字です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>列の名前(表に書いた条件)</th><th>数字あり</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-wifi-router.html">Wi-Fiルーター・中継機</a></th><td>消費電力（最大）</td><td>6/18</td></tr>
+            <tr><th><a href="data-oven-toaster.html">オーブントースター</a></th><td>消費電力</td><td>9/11</td></tr>
+            <tr><th><a href="data-coffee-maker.html">コーヒーメーカー</a></th><td>消費電力</td><td>14/17</td></tr>
+            <tr><th><a href="data-soundbar.html">サウンドバー</a></th><td>消費電力（本体。待機時の数字を除く）</td><td>6/13</td></tr>
+            <tr><th><a href="data-circulator-fan.html">サーキュレーター・扇風機</a></th><td>消費電力（メーカー表記の数字。幅のある機種は最大側、50/60Hzで違う機種は50Hz）</td><td>18/31</td></tr>
+            <tr><th><a href="data-tv.html">テレビ</a></th><td>消費電力（待機時を除く）</td><td>11/12</td></tr>
+            <tr><th><a href="data-document-scanner.html">ドキュメントスキャナー</a></th><td>消費電力（スリープ時を除く。メーカーが「W以下」と書いた上限値）</td><td>9/12</td></tr>
+            <tr><th><a href="data-air-fryer.html">ノンフライヤー（エアフライヤー）</a></th><td>定格消費電力</td><td>6/12</td></tr>
+            <tr><th><a href="data-heater.html">ヒーター・ストーブ</a></th><td>消費電力（電気式・メーカー表記の最大値）</td><td>32/51</td></tr>
+            <tr><th><a href="data-blender.html">ブレンダー・ミキサー</a></th><td>消費電力</td><td>5/11</td></tr>
+            <tr><th><a href="data-hair-iron.html">ヘアアイロン</a></th><td>消費電力（1つの数字で書かれたもの）</td><td>8/19</td></tr>
+            <tr><th><a href="data-hair-dryer.html">ヘアドライヤー</a></th><td>消費電力（範囲表記を除く）</td><td>12/17</td></tr>
+            <tr><th><a href="data-hot-carpet-kotatsu.html">ホットカーペット・こたつ</a></th><td>消費電力</td><td>7/9</td></tr>
+            <tr><th><a href="data-hot-plate.html">ホットプレート</a></th><td>消費電力</td><td>8/10</td></tr>
+            <tr><th><a href="data-monitor.html">モニター</a></th><td>通常使用時の消費電力（メーカー表記：通常・標準・通常使用時）</td><td>9/18</td></tr>
+            <tr><th><a href="data-humidifier.html">加湿器</a></th><td>消費電力（記載のうち最大）</td><td>22/30</td></tr>
+            <tr><th><a href="data-rice-cooker.html">炊飯器</a></th><td>定格消費電力</td><td>9/18</td></tr>
+            <tr><th><a href="data-air-purifier.html">空気清浄機</a></th><td>消費電力（メーカー表記の最大値）</td><td>18/27</td></tr>
+            <tr><th><a href="data-garment-steamer.html">衣類スチーマー・スチームアイロン</a></th><td>消費電力</td><td>9/11</td></tr>
+            <tr><th><a href="data-dehumidifier.html">除湿機</a></th><td>除湿時の消費電力（60Hz）</td><td>8/12</td></tr>
+            <tr><th><a href="data-electric-kettle.html">電気ケトル</a></th><td>消費電力</td><td>15/19</td></tr>
+            <tr><th><a href="data-pressure-cooker.html">電気圧力鍋・自動調理鍋</a></th><td>消費電力</td><td>9/10</td></tr>
+            <tr><th><a href="data-electric-blanket.html">電気毛布</a></th><td>定格消費電力</td><td>18/20</td></tr>
+            <tr><th><a href="data-tv.html">テレビ</a></th><td>年間消費電力量</td><td>9/12</td></tr>
+            <tr><th><a href="data-refrigerator.html">冷蔵庫</a></th><td>年間消費電力量（50Hz・60Hz共通、または両周波数で同じ数字と明記）</td><td>5/11</td></tr>
+            <tr><th><a href="data-rice-cooker.html">炊飯器</a></th><td>保温1時間あたりの消費電力量（エコ炊き・エコ炊飯メニュー時）</td><td>5/18</td></tr>
+            <tr><th><a href="data-rice-cooker.html">炊飯器</a></th><td>年間消費電力量</td><td>11/18</td></tr>
+            <tr><th><a href="data-electric-blanket.html">電気毛布</a></th><td>強で1時間使ったときの消費電力量</td><td>9/20</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>電気代を考えるときは、Wの数字だけでなく、<strong>どの運転の数字か</strong>(最大か通常か、待機時を含むか)を確かめてください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>運転音：測る場面が違う</h2>
+        <p>運転音の列は4列です。空気清浄機は「最大運転時」、洗濯機は「洗い」「脱水」と、測る場面が違い、冷蔵庫は測定条件が書かれていない数字だけを載せています。dBの数字だけを並べても、別の場面の数字どうしを比べることになります。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>列の名前(表に書いた条件)</th><th>数字あり</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-air-purifier.html">空気清浄機</a></th><td>運転音（最大運転時）</td><td>17/27</td></tr>
+            <tr><th><a href="data-refrigerator.html">冷蔵庫</a></th><td>運転音・騒音（測定条件の記載なし）</td><td>3/11</td></tr>
+            <tr><th><a href="data-washing-machine.html">洗濯機</a></th><td>運転音（洗い）</td><td>8/15</td></tr>
+            <tr><th><a href="data-washing-machine.html">洗濯機</a></th><td>運転音（脱水）</td><td>8/15</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>連続使用時間・電池持続：条件ごとに列が分かれる</h2>
+        <p>連続使用時間や電池持続の列は13列ありました。スマートウォッチは、メーカーの書き方が「Appleの通常使用(時間)」「SamsungのAOD未使用時(時間)」「日数表記・通常使用」「日数表記・ライトユース」と4通りに分かれていて、<strong>掲載37台のうち18台に何らかの電池持続の数字がありますが、同じ条件でそろうのは最大でも8台</strong>でした。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>列の名前(表に書いた条件)</th><th>数字あり</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-action-camera.html">アクションカメラ・360度カメラ</a></th><td>1080p/24fps撮影時の動作時間（25℃・Wi-Fiオフ・画面オフ）</td><td>8/20</td></tr>
+            <tr><th><a href="data-smartwatch.html">スマートウォッチ</a></th><td>電池持続時間（時間表記・Appleの「通常使用」の記載）</td><td>8/37</td></tr>
+            <tr><th><a href="data-smartwatch.html">スマートウォッチ</a></th><td>電池持続時間（時間表記・SamsungのAOD未使用時の記載）</td><td>3/37</td></tr>
+            <tr><th><a href="data-smartwatch.html">スマートウォッチ</a></th><td>電池持続時間（日数表記・「通常使用」「普通」と明記された数字）</td><td>6/37</td></tr>
+            <tr><th><a href="data-smartwatch.html">スマートウォッチ</a></th><td>電池持続時間（日数表記・使用量が少ない／ライトユース）</td><td>5/37</td></tr>
+            <tr><th><a href="data-headphone.html">ヘッドホン</a></th><td>ノイズキャンセリングオン時の連続音声再生時間（最大）</td><td>17/44</td></tr>
+            <tr><th><a href="data-headphone.html">ヘッドホン</a></th><td>ノイズキャンセリングオフ時の連続音声再生時間（最大）</td><td>14/44</td></tr>
+            <tr><th><a href="data-headphone.html">ヘッドホン</a></th><td>連続音声再生時間（最大・ノイズキャンセリングの条件の記載がないもの。メーカーが「バッテリー持続時間」「バッテリー寿命」と書いた数字を含む）</td><td>8/44</td></tr>
+            <tr><th><a href="data-portable-speaker.html">ポータブルスピーカー</a></th><td>連続再生時間（メーカー記載の最大・最長で、音量・モードなどの条件が書かれていないもの）</td><td>21/30</td></tr>
+            <tr><th><a href="data-mens-shaver.html">メンズ電気シェーバー</a></th><td>使用可能日数（1日約3分の使用の場合）</td><td>7/18</td></tr>
+            <tr><th><a href="data-earbuds.html">ワイヤレスイヤホン</a></th><td>ANCオン時のイヤホン単体の連続再生時間</td><td>31/64</td></tr>
+            <tr><th><a href="data-earbuds.html">ワイヤレスイヤホン</a></th><td>ANCオフ時のイヤホン単体の連続再生時間</td><td>24/64</td></tr>
+            <tr><th><a href="data-wireless-mouse.html">ワイヤレスマウス</a></th><td>電池寿命（乾電池式・最大または最長）</td><td>6/27</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>イヤホン・ヘッドホンは、ノイズキャンセリング(ANC)のオン・オフでも数字が分かれます。ケース込みの合計時間と、イヤホン単体の時間も別の数字です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>適用畳数・床面積の目安：基準が複数ある</h2>
+        <p>「◯畳まで」という数字は、メーカーや製品によって、測り方の基準が違います。同じジャンルでも、「空気清浄運転」「木造和室」のように、何の畳数かが違うので、列の名前に条件を書いています。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>列の名前(表に書いた条件)</th><th>数字あり</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-circulator-fan.html">サーキュレーター・扇風機</a></th><td>適用畳数（メーカーが仕様欄に書いた目安）</td><td>7/31</td></tr>
+            <tr><th><a href="data-heater.html">ヒーター・ストーブ</a></th><td>暖房の目安・木造（石油式）</td><td>14/51</td></tr>
+            <tr><th><a href="data-heater.html">ヒーター・ストーブ</a></th><td>暖房の目安・コンクリート（石油式）</td><td>14/51</td></tr>
+            <tr><th><a href="data-humidifier.html">加湿器</a></th><td>適用床面積の目安（木造和室）</td><td>22/30</td></tr>
+            <tr><th><a href="data-air-purifier.html">空気清浄機</a></th><td>適用畳数（空気清浄運転・メーカー表記）</td><td>23/27</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>空気清浄機は、適用畳数が書かれている23台のうち<strong>12台で、同じ商品ページに2つ以上の畳数が書かれています</strong>(新基準・旧基準、運転時間の違い、加湿運転時など)。データ一覧の畳数と、同じページの別の畳数の差は、<strong>1.1倍〜3.1倍</strong>(筆者の計算)でした。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>データ一覧の畳数</th><th>同じ商品ページに書かれた別の畳数</th><th>倍率(筆者の計算)</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-dyson-purifier-hotcool.html">Dyson Purifier Hot+Cool</a></th><td>8畳</td><td>25畳</td><td>3.1倍</td></tr>
+            <tr><th><a href="product-dyson-purifier-big-quiet.html">Dyson Purifier Big+Quiet</a></th><td>27畳</td><td>79畳</td><td>2.9倍</td></tr>
+            <tr><th><a href="product-dyson-hushjet-shizuka-sp01.html">Dyson HushJet shizuka 空気清浄機 SP01</a></th><td>19畳</td><td>55畳</td><td>2.9倍</td></tr>
+            <tr><th><a href="product-blueair-blue-mini-max-air-purifier-12jo.html">ブルーエア Blue Mini Max 小型空気清浄機 12畳 グレー（オンラインモデル）</a></th><td>12畳</td><td>5畳</td><td>2.4倍</td></tr>
+            <tr><th><a href="product-blueair-air-purifier-blue-max-3250i.html">ブルーエア 空気清浄機 22畳 Blue Max 3250i リビング 寝室</a></th><td>22畳</td><td>12畳</td><td>1.8倍</td></tr>
+            <tr><th><a href="product-panasonic-humidifying-air-purifier-f-vxw55-w.html">パナソニック 加湿空気清浄機 F-VXW55-W ナノイーX 4.8兆 ホワイト</a></th><td>14畳</td><td>25畳</td><td>1.8倍</td></tr>
+            <tr><th><a href="product-panasonic-air-purifier-f-px70c.html">パナソニック 空気清浄機 ナノイーX F-PX70C-W</a></th><td>19畳</td><td>31畳</td><td>1.6倍</td></tr>
+            <tr><th><a href="product-sharp-kc-s50w.html">シャープ 空気清浄機 KC-S50W</a></th><td>23畳</td><td>15畳</td><td>1.5倍</td></tr>
+            <tr><th><a href="product-sharp-ki-ss50-w.html">シャープ 加湿空気清浄機 KI-SS50-W</a></th><td>23畳</td><td>16畳</td><td>1.4倍</td></tr>
+            <tr><th><a href="product-sharp-ki-ts50.html">シャープ KI-TS50</a></th><td>23畳</td><td>16畳</td><td>1.4倍</td></tr>
+            <tr><th><a href="product-sharp-ki-tx75.html">シャープ KI-TX75</a></th><td>34畳</td><td>27畳</td><td>1.3倍</td></tr>
+            <tr><th><a href="product-sharp-humidifying-air-purifier-ki-sx70-w.html">シャープ 加湿空気清浄機 KI-SX70-W</a></th><td>31畳</td><td>29畳</td><td>1.1倍</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>どの畳数がどの基準なのかは、商品ページの仕様表に書いています。畳数は、数字だけで優劣をつけず、<strong>基準の書かれた数字どうし</strong>で比べてください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>電源の周波数(50Hz・60Hz)</h2>
+        <p>電源の周波数(東日本は50Hz、西日本は60Hzが主です)で数字が変わる商品では、どちらの数字かを列の名前に書いています。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>列の名前(表に書いた条件)</th><th>数字あり</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-circulator-fan.html">サーキュレーター・扇風機</a></th><td>消費電力（メーカー表記の数字。幅のある機種は最大側、50/60Hzで違う機種は50Hz）</td><td>18/31</td></tr>
+            <tr><th><a href="data-refrigerator.html">冷蔵庫</a></th><td>年間消費電力量（50Hz・60Hz共通、または両周波数で同じ数字と明記）</td><td>5/11</td></tr>
+            <tr><th><a href="data-dehumidifier.html">除湿機</a></th><td>除湿能力（60Hz。室温27℃・相対湿度60％の条件が書かれた機種のみ）</td><td>5/12</td></tr>
+            <tr><th><a href="data-dehumidifier.html">除湿機</a></th><td>除湿時の消費電力（60Hz）</td><td>8/12</td></tr>
+            <tr><th><a href="data-microwave-oven.html">電子レンジ・オーブンレンジ</a></th><td>高周波出力の最大の段（時間つきの数字を含む。50Hz・60Hzの数字が併記されている機種は60Hz）</td><td>8/11</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>買う前の確認リスト</h2>
+        <ul>
+          <li><strong>質量</strong>：電池・ケーブル・スタンド・ストラップを含む数字か、除いた数字か。</li>
+          <li><strong>消費電力</strong>：最大か通常か。待機時を含むか。W(ワット)か、電力量(kWh)か。</li>
+          <li><strong>運転音</strong>：どの運転(最大、洗い、脱水など)の数字か。測定条件が書かれているか。</li>
+          <li><strong>連続使用時間</strong>：どんな使い方の数字か(通常使用、ライトユース、ANCオンなど)。ケース込みか単体か。</li>
+          <li><strong>適用畳数</strong>：どの基準の数字か。同じページに別の基準の数字がないか。</li>
+        </ul>
+        <p>各ジャンルの条件が決まった数字は、<a href="data.html">データ一覧</a>で、1枚の表にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>集計の方法と、限界</h2>
+        <ul>
+          <li>列の名前と台数は、GEARNOTEのデータ一覧63ジャンルのCSVから、コードで集めました。種類の分け方(含む／除く／本体など)は、列の名前の言葉から、筆者が決めた分類です。</li>
+          <li>列の名前には、データ一覧を作るときに筆者が書いた条件が含まれています。メーカーの書き方をそのまま反映したものですが、メーカー全体の書き方の割合を表す数字ではありません。</li>
+          <li>データの時点はジャンルごとに違います(各データ一覧に記載)。商品の仕様は変更されることがあります。購入前にメーカーの最新情報をご確認ください。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>仕様表の質量は、どこまで含んだ数字ですか？</h3>
+            <p>商品ごとに違います。GEARNOTEのデータ一覧では、質量の列が54ジャンルで55列あり、「含む」「除く」「本体」など、条件の書き方が6種類に分かれていました。購入前に、電池・ケーブル・スタンドなどを含むかを確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>空気清浄機の適用畳数が、商品ページに2つ書かれているのはなぜですか？</h3>
+            <p>メーカーが、測り方の基準(新基準・旧基準、運転時間の違い、加湿運転時など)ごとに、畳数を分けて書いているためです。GEARNOTEのデータ一覧では、適用畳数が書かれている23台のうち12台が、同じページに2つ以上の畳数を載せていました。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>消費電力(W)と電力量(kWh)は、同じですか？</h3>
+            <p>別の数字です。Wは動いている瞬間に使う電力、kWhは一定の時間(1時間、1年など)に使う量です。電気代を考えるときは、どの運転の数字か(最大か通常か)も、あわせて確かめてください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="data-spec-disclosure.html">仕様の記載状況レポート</a></li><li><a href="data.html">データ一覧(ジャンル別の仕様表)</a></li><li><a href="spec-glossary.html">仕様の用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="index.html">ホーム</a></li>
+          <li><a href="index.html#ranking">ランキング</a></li>
+          <li><a href="index.html#picks">おすすめ</a></li>
+          <li><a href="index.html#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about.html">このサイトについて</a></li>
+          <li><a href="about.html#author">運営情報</a></li>
+          <li><a href="about.html#criteria">評価・ランキング基準</a></li>
+          <li><a href="about.html#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about.html#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about.html#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
