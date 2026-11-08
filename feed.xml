@@ -6,96 +6,173 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 08 Nov 2026 16:18:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:47:20 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
     <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
     <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>美容・健康の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-beauty</link>
     <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
     <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-daily</link>
     <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
     <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-baby</link>
-    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
-    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>介護用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-care</link>
     <guid isPermaLink="true">https://gearnote.net/category-care</guid>
     <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>生活家電の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
     <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-smart</link>
     <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
     <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>おもちゃの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-toys</link>
     <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
     <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>ファッションの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-fashion</link>
     <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
     <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-sports</link>
     <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
     <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>本・文房具の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-books</link>
     <guid isPermaLink="true">https://gearnote.net/category-books</guid>
     <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>車・バイク用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-car</link>
     <guid isPermaLink="true">https://gearnote.net/category-car</guid>
     <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>キッチン用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-kitchen</link>
     <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
     <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>調理家電おすすめ3選と全商品の比較表｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cooking-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
+    <description>COSORI ノンフライヤー 4.7L・COSORI ノンフライヤー 2L・シャープ ヘルシオ ホットクックを徹底比較。各商品の特徴をもとに、調理容量・機能性の観点からおすすめの調理家電を紹介します。全商品の比較表も掲載しています。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>仕様表で数字が見つからない項目｜63ジャンル・1175商品の記載状況レポート｜GEARNOTE</title>
+    <link>https://gearnote.net/data-spec-disclosure</link>
+    <guid isPermaLink="true">https://gearnote.net/data-spec-disclosure</guid>
+    <description>GEARNOTEのデータ一覧63ジャンル・1175商品の仕様表で、条件をそろえた数字が見つかる割合を項目の種類別・ジャンル別に集計しました。CSVつき。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>同じ名前でも条件が違う仕様の数字｜質量・消費電力・畳数の台帳｜GEARNOTE</title>
+    <link>https://gearnote.net/spec-condition-ledger</link>
+    <guid isPermaLink="true">https://gearnote.net/spec-condition-ledger</guid>
+    <description>仕様表の質量・消費電力・運転音・連続使用時間・適用畳数が、商品ごとにどんな条件で書かれているかを、63ジャンルのデータ一覧から集めて並べた台帳です。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>世代差ログ｜同じシリーズで型番が進むと、仕様の数字はどう変わる？｜GEARNOTE</title>
+    <link>https://gearnote.net/spec-generation-log</link>
+    <guid isPermaLink="true">https://gearnote.net/spec-generation-log</guid>
+    <description>GEARNOTEのデータ一覧から、同じシリーズで型番や世代が進んだ商品の仕様の数字を並べて、変わった数字・同じだった数字・小さくなった数字をまとめたログです。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キーボードの横幅チェック｜置ける幅から入るキーボードを探す｜GEARNOTE</title>
+    <link>https://gearnote.net/tool-keyboard-width</link>
+    <guid isPermaLink="true">https://gearnote.net/tool-keyboard-width</guid>
+    <description>机の置ける幅(mm)を入れると、GEARNOTEに掲載しているキーボードのうち、メーカー記載の横幅が収まるものと、余りの幅(mm)を表示します。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>空気清浄機の畳数チェック｜部屋の広さから適用畳数で絞る｜GEARNOTE</title>
+    <link>https://gearnote.net/tool-air-purifier-area</link>
+    <guid isPermaLink="true">https://gearnote.net/tool-air-purifier-area</guid>
+    <description>部屋の広さ(畳)を入れると、GEARNOTEに掲載している空気清浄機のうち、メーカー表記の適用畳数が足りる商品を表示します。同じページにある別の基準の畳数も一緒に出します。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ポータブル電源の使える時間の目安計算｜Wと電池容量(Wh)から｜GEARNOTE</title>
+    <link>https://gearnote.net/tool-power-station-runtime</link>
+    <guid isPermaLink="true">https://gearnote.net/tool-power-station-runtime</guid>
+    <description>使いたい家電の消費電力(W)を入れると、GEARNOTEに掲載しているポータブル電源の電池容量(Wh)から、使える時間の目安とAC定格出力が足りるかを表示します。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>計算ツール｜GEARNOTEのデータで、自分の条件を確かめる｜GEARNOTE</title>
+    <link>https://gearnote.net/tools</link>
+    <guid isPermaLink="true">https://gearnote.net/tools</guid>
+    <description>GEARNOTEのデータ一覧の数字を使って、自分の条件(置ける幅・部屋の広さ・使いたい家電)で確かめられる計算ツールの入口です。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>象印 炊飯器 豪熱大火力 NW-MC07-BZ（4合・黒） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go</link>
+    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go</guid>
+    <description>象印 炊飯器 豪熱大火力 NW-MC07-BZ（4合・黒）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
     <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -278,83 +355,6 @@
     <link>https://gearnote.net/data-portable-speaker</link>
     <guid isPermaLink="true">https://gearnote.net/data-portable-speaker</guid>
     <description>GEARNOTEに掲載しているポータブルスピーカー30台の、連続再生時間（時間）、充電時間（時間）、質量（g）、スピーカー最大出力（W）、バッテリー容量（Wh）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コーヒーメーカーの仕様一覧｜消費電力・質量・高さ（掲載17台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-coffee-maker</link>
-    <guid isPermaLink="true">https://gearnote.net/data-coffee-maker</guid>
-    <description>GEARNOTEに掲載しているコーヒーメーカー（ドリップ式／エスプレッソ・カプセル式）17台の、消費電力（W）、質量（kg）、高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>オーブントースターの仕様一覧｜消費電力・質量・本体寸法・庫内寸法（掲載11台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-oven-toaster</link>
-    <guid isPermaLink="true">https://gearnote.net/data-oven-toaster</guid>
-    <description>GEARNOTEに掲載しているオーブントースター（ポップアップトースターを含む）11台の、消費電力（W）、質量（kg）、本体の幅・奥行（cm）、庫内の幅・高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ホットプレートの仕様一覧｜消費電力・外形寸法（幅・奥行・高さ）（掲載10台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-hot-plate</link>
-    <guid isPermaLink="true">https://gearnote.net/data-hot-plate</guid>
-    <description>GEARNOTEに掲載しているホットプレート（たこ焼き器の専用機を含む）10台の、消費電力（W）、外形寸法の幅・奥行・高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電気圧力鍋・自動調理鍋の仕様一覧｜満水容量・調理容量・消費電力・質量（掲載10台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-pressure-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/data-pressure-cooker</guid>
-    <description>GEARNOTEに掲載している電気圧力鍋・自動調理鍋10台の、満水容量（L）、調理容量（L）、消費電力（W）、本体質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブレンダー・ミキサーの仕様一覧｜容量・消費電力・質量・定格時間（掲載11台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-blender</link>
-    <guid isPermaLink="true">https://gearnote.net/data-blender</guid>
-    <description>GEARNOTEに掲載しているブレンダー・ミキサー（ハンドブレンダー／ミキサー・カップ型ブレンダー／ハンドミキサー）11台の、容量（mL）、消費電力（W）、質量（kg）、定格時間（分）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>衣類スチーマー・スチームアイロンの仕様一覧｜消費電力・水タンク容量・質量・スチーム量・立ち上がり（掲載11台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-garment-steamer</link>
-    <guid isPermaLink="true">https://gearnote.net/data-garment-steamer</guid>
-    <description>GEARNOTEに掲載している衣類スチーマー・スチームアイロン（ハンディ／コードレスアイロン／置き型）11台の、消費電力（W）、水タンク容量（mL）、本体質量（kg）、スチーム量（g/分）、立ち上がり時間（秒）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘアアイロンの仕様一覧｜最高・最低温度・消費電力・コードの長さ・自動電源オフ・質量（掲載19台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-hair-iron</link>
-    <guid isPermaLink="true">https://gearnote.net/data-hair-iron</guid>
-    <description>GEARNOTEに掲載しているヘアアイロン（ストレート／カール／2WAY・ミニ・フィンガーほか）19台の、設定できる最高・最低温度（℃）、消費電力（W）、電源コードの長さ（m）、自動で電源が切れるまでの時間（分）、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズ電気シェーバーの仕様一覧｜刃の枚数・質量・使用可能日数（掲載18台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-mens-shaver</link>
-    <guid isPermaLink="true">https://gearnote.net/data-mens-shaver</guid>
-    <description>GEARNOTEに掲載しているメンズ電気シェーバー18台の、刃の枚数（枚）、質量（g）、使用可能日数（日）を1枚の表にまとめました。メーカー側に記載のない数字は「記載なし」のままにしています。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タブレットの仕様一覧｜画面サイズ・メモリ・ストレージ・質量・バッテリー容量（掲載15台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-tablet</link>
-    <guid isPermaLink="true">https://gearnote.net/data-tablet</guid>
-    <description>GEARNOTEに掲載しているタブレット15台の、画面サイズ（インチ）、メモリ容量（GB）、ストレージ容量（GB）、質量（g）、バッテリー容量（mAh）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ワイヤレスマウスの仕様一覧｜ボタン数・電池寿命・DPI・質量（掲載27個）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-wireless-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/data-wireless-mouse</guid>
-    <description>GEARNOTEで仕様を整理しているワイヤレスマウス（マウス／トラックボール／ゲーミングマウス）27個の、ボタン数、電池寿命（か月）、設定できるDPIの最大値、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キーボードの仕様一覧｜横幅・質量・キーストローク・キー数（掲載21台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-keyboard</link>
-    <guid isPermaLink="true">https://gearnote.net/data-keyboard</guid>
-    <description>GEARNOTEに掲載しているキーボード（ワイヤレス接続に対応／有線のみ）21台の、横幅（mm）、質量（g）、キーストローク（mm）、キー数を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
