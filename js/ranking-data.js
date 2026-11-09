@@ -26570,6 +26570,13 @@ const RANKING_POOL = [
     page: "product-balmuda-the-toaster-2026-ktt02jp-bk.html",
   },
   {
+    name: "【公式】【2026年モデル】バルミューダ ザ・トースター ホワイト オーブントースター タイマー15分 2枚焼き KTT02JP-WH",
+    excerpt: "バルミューダ ザ・トースター 2026年モデル ホワイト KTT02JP-WH。パン専用4モード・スチームデリ・クラシック（170℃/230℃）、消費電力1300W、2枚焼き、タイマー15分と記載。",
+    img: "https://m.media-amazon.com/images/I/41gprIeiQNL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0HHMB6HHS?tag=hide0122-22",
+    page: "product-balmuda-the-toaster-2026-ktt02jp-wh.html",
+  },
+  {
     name: "【公式】【2026年モデル】バルミューダ ザ・トースター プロ オーブントースター タイマー15分 KTT03JP-BK",
     excerpt: "バルミューダ ザ・トースター プロ 2026年モデル KTT03JP。サラマンダーモード搭載、パン専用4モード・スチームデリ・クラシック（170℃/230℃）、消費電力1300W、タイマー15分と記載。",
     img: "https://m.media-amazon.com/images/I/51Sy0bPHRoL._AC_SX300_.jpg",
