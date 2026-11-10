@@ -6,7 +6,105 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 10 Nov 2026 04:19:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 05:14:29 +0000</lastBuildDate>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-daily</link>
+    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
+    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>おもちゃの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
+    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-sports</link>
+    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
+    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>本・文房具の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-books</link>
+    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
+    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-car</link>
+    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
+    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-kitchen</link>
+    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
+    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>バルミューダ ザ・トースター 2026年モデル ホワイト KTT02JP-WH の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-wh</link>
+    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-wh</guid>
+    <description>バルミューダ ザ・トースター 2026年モデル ホワイト KTT02JP-WHの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</link>
+    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</guid>
+    <description>象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -15,59 +113,10 @@
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-audio</link>
-    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
-    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>美容・健康の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-beauty</link>
-    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
-    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-daily</link>
-    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
-    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-baby</link>
     <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
     <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>介護用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-care</link>
-    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
-    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活家電の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-home</link>
-    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
-    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
-    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>おもちゃの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-toys</link>
-    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
-    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -302,59 +351,10 @@
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ファッションの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-fashion</link>
-    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
-    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-sports</link>
-    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
-    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>本・文房具の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-books</link>
-    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
-    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-car</link>
-    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
-    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キッチン用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-kitchen</link>
-    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
-    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>Xiaomi エアフライヤー 6.5L の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-xiaomi-air-fryer-65l</link>
     <guid isPermaLink="true">https://gearnote.net/product-xiaomi-air-fryer-65l</guid>
     <description>Xiaomi エアフライヤー 6.5L大容量 家庭用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Solix C1000 ポータブル電源 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-solix-c1000</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-solix-c1000</guid>
-    <description>Anker ポータブル電源 1056Wh Solix C1000の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore Liberty 4 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-liberty-4</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-4</guid>
-    <description>Anker Soundcore Liberty 4 完全ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
