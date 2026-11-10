@@ -26584,6 +26584,13 @@ const RANKING_POOL = [
     page: "product-balmuda-the-toaster-pro-2026-ktt03jp",
   },
   {
+    name: "【公式】【2026年モデル】バルミューダ ザ・トースター プロ ホワイト オーブントースター タイマー15分 KTT03JP-WH",
+    excerpt: "バルミューダ ザ・トースター プロ 2026年モデル ホワイト KTT03JP-WH。サラマンダーモード搭載、パン専用4モード・スチームデリ・クラシック（170℃/230℃）、消費電力1300W、タイマー15分と記載。",
+    img: "https://m.media-amazon.com/images/I/41bL3eE11ZL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0HHMQMNY2?tag=hide0122-22",
+    page: "product-balmuda-the-toaster-pro-2026-ktt03jp-wh",
+  },
+  {
     name: "【公式】バルミューダ ザ・ブリュー コーヒーメーカー BALMUDA The Brew(K06A-BK)",
     excerpt: "バルミューダ ザ・ブリュー K06A-BK。オープンドリップ式、工程ごとの温度制御・0.2ml単位の注湯観測、1450W、奥行29.7×幅14×高さ37.9cm、重量3.4kg、タンク取り外し可能と記載。",
     img: "https://m.media-amazon.com/images/I/61iAxOK688L._AC_SX300_.jpg",

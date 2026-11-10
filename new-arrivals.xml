@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 10 Nov 2026 05:29:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 09:20:03 +0000</lastBuildDate>
+  <item>
+    <title>バルミューダ ザ・トースター プロ 2026年モデル ホワイト KTT03JP-WH</title>
+    <link>https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp-wh</link>
+    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp-wh</guid>
+    <description>BALMUDA The Toaster Pro（2026年モデル）です。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>バルミューダ ザ・トースター 2026年モデル ホワイト KTT02JP-WH</title>
     <link>https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-wh</link>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-russell-hobbs-tea-kettle-plus-7107jp-bk-600ml</link>
     <guid isPermaLink="true">https://gearnote.net/product-russell-hobbs-tea-kettle-plus-7107jp-bk-600ml</guid>
     <description>ラッセルホブスの温度調整電気ケトル「ティーケトル プラス」、型番7107JP-BK（ブラック）です。</description>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>siroca おうちシェフクッカー SP-MC5D151（グレー・満水容量5L・1台12役）</title>
-    <link>https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc5d151-gray-5l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc5d151-gray-5l</guid>
-    <description>siroca（シロカ）の自動調理鍋（電気圧力鍋）「おうちシェフクッカー」、型番SP-MC5D151（グレー）です。</description>
     <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
