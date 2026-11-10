@@ -31,8 +31,8 @@
     if (!el) {
       el = document.createElement("a");
       el.className = "nav-compare";
-      el.href = "compare-tool.html";
-      var fav = nav.querySelector('a[href="favorites.html"]');
+      el.href = "compare-tool";
+      var fav = nav.querySelector('a[href="favorites"], a[href="favorites.html"]');
       if (fav && fav.nextSibling) nav.insertBefore(el, fav.nextSibling); else nav.appendChild(el);
     }
     el.textContent = "⚖ 比較（" + n + "）";
@@ -53,7 +53,7 @@
       btn.textContent = on ? "✓ 比較リストに追加済み（外す）" : "＋ 比較リストに追加";
       btn.setAttribute("aria-pressed", on ? "true" : "false");
       if (list.length) {
-        hint.innerHTML = '<a href="compare-tool.html">比較リストを見る（' + list.length + "/" + MAX + "商品）→</a>";
+        hint.innerHTML = '<a href="compare-tool">比較リストを見る（' + list.length + "/" + MAX + "商品）→</a>";
       } else {
         hint.textContent = "気になる商品を最大" + MAX + "つまで並べて、仕様を見比べられます。";
       }
@@ -136,7 +136,7 @@
   // ヘッダーの「商品検索」を、キーワード検索ができる search.html に向ける（全商品一覧は search.html から辿れる）
   function navSearch() {
     var a = document.querySelector('.main-nav a[href$="all-products.html"], .main-nav a[href$="all-products"]');
-    if (a && location.pathname.replace(/\/+$/, "").split("/").pop().replace(/\.html$/, "") !== "all-products") a.setAttribute("href", "search.html");
+    if (a && location.pathname.replace(/\/+$/, "").split("/").pop().replace(/\.html$/, "") !== "all-products") a.setAttribute("href", "search");
   }
 
   // ヘッダーの小さな検索ボックス（広い画面のみ表示。送信すると search.html?q=… に移る）
@@ -147,7 +147,7 @@
     if (/(^|\/)search(\.html)?$/.test(location.pathname)) return;
     var f = document.createElement("form");
     f.className = "nav-search";
-    f.action = "search.html";
+    f.action = "search";
     f.method = "get";
     f.setAttribute("role", "search");
     f.innerHTML = '<input type="search" name="q" placeholder="商品を検索" aria-label="商品を検索" autocomplete="off"><button type="submit" aria-label="検索">🔍</button>';

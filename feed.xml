@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 10 Nov 2026 05:14:29 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 05:21:33 +0000</lastBuildDate>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -103,6 +103,13 @@
     <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</link>
     <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</guid>
     <description>象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>保証期間と補修用部品の保有期間の書かれ方｜メーカー公式資料の記載を集計｜GEARNOTE</title>
+    <link>https://gearnote.net/spec-warranty-parts</link>
+    <guid isPermaLink="true">https://gearnote.net/spec-warranty-parts</guid>
+    <description>GEARNOTEの商品ページに転記したメーカー公式資料の記載から、保証期間と補修用性能部品の保有期間が、どのような長さ・条件で書かれているかを集計したレポートです。</description>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</link>
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-compact-toaster-ytcb-c120</guid>
     <description>山善(YAMAZEN) トースター オーブントースター 2枚焼き コンパクト YTCB-C120の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi エアフライヤー 6.5L の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-air-fryer-65l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-air-fryer-65l</guid>
-    <description>Xiaomi エアフライヤー 6.5L大容量 家庭用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

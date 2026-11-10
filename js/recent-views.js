@@ -32,7 +32,7 @@
   function stripHtml(items) {
     return '<div class="recent-head"><span class="recent-title">最近見た商品</span><button type="button" class="recent-clear">履歴を消す</button></div>' +
       '<div class="recent-row">' + items.map(function (x) {
-        return '<a class="recent-item" href="' + x.s + '.html">' + (x.i ? '<img src="' + esc(x.i) + '" alt="' + esc(x.n) + '" loading="lazy">' : "") + '<span>' + esc(x.n) + "</span></a>";
+        return '<a class="recent-item" href="' + x.s + '">' + (x.i ? '<img src="' + esc(x.i) + '" alt="' + esc(x.n) + '" loading="lazy">' : "") + '<span>' + esc(x.n) + "</span></a>";
       }).join("") + "</div>";
   }
   function init() {

@@ -25,7 +25,7 @@
   var cache = {};
   function fetchProduct(slug) {
     if (cache[slug]) return Promise.resolve(cache[slug]);
-    return fetch(slug + ".html", { credentials: "same-origin" }).then(function (r) {
+    return fetch(slug, { credentials: "same-origin" }).then(function (r) {
       if (!r.ok) throw new Error("not found");
       return r.text();
     }).then(function (t) {
@@ -51,7 +51,7 @@
   function render(products) {
     if (!products.length) {
       root.innerHTML = '<div class="compare-empty"><p>比較リストは空です。</p><p>商品ページの「＋ 比較リストに追加」ボタンで、気になる商品を最大' + MAX + 'つまで追加できます。</p>' +
-        '<p><a class="btn btn-ghost" href="new-arrivals.html">新着商品から探す</a> <a class="btn btn-ghost" href="guides.html">選び方ガイドから探す</a> <a class="btn btn-ghost" href="all-products.html">全商品から探す</a></p></div>';
+        '<p><a class="btn btn-ghost" href="new-arrivals">新着商品から探す</a> <a class="btn btn-ghost" href="guides">選び方ガイドから探す</a> <a class="btn btn-ghost" href="all-products.html">全商品から探す</a></p></div>';
       return;
     }
     // 項目の和集合（出現順）
@@ -62,7 +62,7 @@
     keys = keys.map(function (k, i) { return { k: k, i: i, n: products.filter(function (p) { return val(p, k) !== ""; }).length }; })
       .sort(function (a, b) { return b.n - a.n || a.i - b.i; }).map(function (o) { return o.k; });
     var head = '<tr><th class="ct-corner"></th>' + products.map(function (p) {
-      return '<th class="ct-prod"><a href="' + p.slug + '.html">' + (p.img ? '<img src="' + esc(p.img) + '" alt="' + esc(p.name) + '" loading="lazy">' : "") + '<span class="ct-name">' + esc(p.name) + "</span></a>" +
+      return '<th class="ct-prod"><a href="' + p.slug + '">' + (p.img ? '<img src="' + esc(p.img) + '" alt="' + esc(p.name) + '" loading="lazy">' : "") + '<span class="ct-name">' + esc(p.name) + "</span></a>" +
         (p.notice ? '<span class="ct-notice">販売状況にご注意ください</span>' : "") +
         '<span class="ct-actions">' + (p.amazon ? '<a class="btn btn-amazon btn-sm" href="' + esc(p.amazon) + '" target="_blank" rel="nofollow sponsored noopener">' + esc(p.amazonLabel || "Amazonで見る") + "</a>" : "") +
         '<button type="button" class="btn btn-ghost btn-sm ct-remove" data-slug="' + p.slug + '">外す</button></span></th>';
@@ -76,12 +76,12 @@
       return '<tr class="' + (diff ? "ct-diff" : "") + '"><th>' + esc(k) + "</th>" + vals.map(function (v) { return "<td>" + (v ? esc(v) : '<span class="ct-none">—</span>') + "</td>"; }).join("") + "</tr>";
     }).join("");
     var guides = [];
-    products.forEach(function (p) { if (p.guide && /^guide-[a-z-]+\.html$/.test(p.guide.href) && !guides.some(function (g) { return g.href === p.guide.href; })) guides.push(p.guide); });
+    products.forEach(function (p) { if (p.guide && /^guide-[a-z-]+(\.html)?$/.test(p.guide.href) && !guides.some(function (g) { return g.href === p.guide.href; })) guides.push(p.guide); });
     var guideHtml = guides.length ? '<p class="ct-guides"><strong>仕様の見方：</strong>' + guides.map(function (g) { return '<a href="' + esc(g.href) + '">' + esc(g.text) + "</a>"; }).join("／") + "</p>" : "";
-    var shareUrl = location.origin + "/compare-tool.html?p=" + products.map(function (p) { return p.slug; }).join(",");
+    var shareUrl = location.origin + "/compare-tool?p=" + products.map(function (p) { return p.slug; }).join(",");
     root.innerHTML = '<div class="ct-bar"><label><input type="checkbox" id="ct-onlydiff"' + (onlyDiff ? " checked" : "") + '> 違いのある項目だけ表示</label>' +
       '<button type="button" class="btn btn-ghost btn-sm" id="ct-copy">この比較のURLをコピー</button>' +
-      (sharedMode ? ' <a class="btn btn-ghost btn-sm" href="compare-tool.html" id="ct-mine">自分の比較リストを見る</a>' : ' <button type="button" class="btn btn-ghost btn-sm" id="ct-clear">リストを空にする</button>') + "</div>" +
+      (sharedMode ? ' <a class="btn btn-ghost btn-sm" href="compare-tool" id="ct-mine">自分の比較リストを見る</a>' : ' <button type="button" class="btn btn-ghost btn-sm" id="ct-clear">リストを空にする</button>') + "</div>" +
       '<div class="ct-wrap"><table class="ct-table"><thead>' + head + "</thead><tbody>" + body + "</tbody></table></div>" +
       guideHtml + '<p class="pd-source-note">※仕様は、各商品ページ（Amazon商品ページの掲載情報をもとに記載）の「商品情報・仕様」を並べたものです。空欄（—）は、その商品ページに記載がない項目です。最新情報は必ずAmazon商品ページでご確認ください。</p>';
     var cb = document.getElementById("ct-onlydiff");
@@ -97,7 +97,7 @@
     root.querySelectorAll(".ct-remove").forEach(function (b) {
       b.addEventListener("click", function () {
         slugs = slugs.filter(function (s) { return s !== b.getAttribute("data-slug"); });
-        if (sharedMode) { history.replaceState(null, "", slugs.length ? "?p=" + slugs.join(",") : "compare-tool.html"); sharedMode = slugs.length > 0; }
+        if (sharedMode) { history.replaceState(null, "", slugs.length ? "?p=" + slugs.join(",") : "compare-tool"); sharedMode = slugs.length > 0; }
         store(slugs); load();
       });
     });

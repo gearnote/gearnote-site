@@ -48,10 +48,10 @@
     if (second) html += '<p class="quiz-second">次に近い種類：<strong>' + esc(second.name) + "</strong>（" + esc(second.why) + "）</p>";
     if (top.products.length) {
       html += '<h3 class="quiz-h3">GEARNOTEに掲載している、この種類の商品</h3><div class="recent-row quiz-prods">' + top.products.map(function (p) {
-        return '<div class="quiz-prod"><a class="recent-item" href="' + p.s + '.html"><img src="' + esc(p.i) + '" alt="' + esc(p.n) + '" loading="lazy"><span>' + esc(p.n) + '</span></a><button type="button" class="btn btn-ghost btn-sm quiz-cmp" data-s="' + p.s + '">＋ 比較に追加</button></div>';
+        return '<div class="quiz-prod"><a class="recent-item" href="' + p.s + '"><img src="' + esc(p.i) + '" alt="' + esc(p.n) + '" loading="lazy"><span>' + esc(p.n) + '</span></a><button type="button" class="btn btn-ghost btn-sm quiz-cmp" data-s="' + p.s + '">＋ 比較に追加</button></div>';
       }).join("") + "</div>";
     }
-    html += '<p style="margin-top:18px;"><a class="btn btn-amazon" href="' + Q.guide + '.html">選び方ガイドで、仕様の見方をくわしく読む</a> <button type="button" class="btn btn-ghost quiz-retry">もう一度診断する</button></p>' +
+    html += '<p style="margin-top:18px;"><a class="btn btn-amazon" href="' + Q.guide + '">選び方ガイドで、仕様の見方をくわしく読む</a> <button type="button" class="btn btn-ghost quiz-retry">もう一度診断する</button></p>' +
       '<p class="pd-source-note">※一般的な目安です。特定の製品の効果や安全性を保証するものではありません。使用方法・注意事項は必ず各製品の取扱説明書をご確認ください。</p></div>';
     app.innerHTML = html;
     // 結果の共有（回答をURLに入れる。回答の中身は番号だけで、個人情報は含まない）
@@ -73,7 +73,7 @@
     app.querySelector(".quiz-retry").addEventListener("click", function () { step = 0; answers = []; try { history.replaceState(null, "", location.pathname); } catch (e) {} showQuestion(); });
     app.querySelectorAll(".quiz-cmp").forEach(function (b) {
       b.addEventListener("click", function () {
-        var C = window.GearnoteCompare; if (!C) { location.href = "compare-tool.html"; return; }
+        var C = window.GearnoteCompare; if (!C) { location.href = "compare-tool"; return; }
         var list = C.load(), s = b.getAttribute("data-s");
         if (list.indexOf(s) >= 0) { b.textContent = "✓ 追加済み"; return; }
         if (list.length >= C.MAX) { b.textContent = "最大" + C.MAX + "商品まで"; return; }

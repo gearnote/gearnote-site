@@ -97,7 +97,7 @@
     var end = Math.min(current.length, shown + PAGE), html = "";
     for (var i = shown; i < end; i++) {
       var d = data[current[i]];
-      html += '<a href="' + d.s + '.html" class="cat-product-item"><img class="cat-product-thumb" src="' + esc(imgUrl(d.i)) + '" alt="' + esc(d.n) + '" loading="lazy">' +
+      html += '<a href="' + d.s + '" class="cat-product-item"><img class="cat-product-thumb" src="' + esc(imgUrl(d.i)) + '" alt="' + esc(d.n) + '" loading="lazy">' +
         '<div class="cat-product-info"><span class="cat-product-name">' + esc(d.n) + "</span>" + (d.c ? '<span class="site-search-cat">' + esc(d.c) + (d.u ? "・販売状況にご注意ください" : "") + "</span>" : "") + "</div></a>";
     }
     var tmp = document.createElement("div"); tmp.innerHTML = html;
