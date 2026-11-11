@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Nov 2026 08:37:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:53:50 +0000</lastBuildDate>
+  <item>
+    <title>Apple iPad mini（A20 Pro）8.5インチ 256GB</title>
+    <link>https://gearnote.net/product-apple-ipad-mini-a20-pro-256gb-nano-texture-midnight</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-mini-a20-pro-256gb-nano-texture-midnight</guid>
+    <description>Appleの8.5インチiPad mini（A20 Pro）のうち、256GB・Nano-textureディスプレイガラス・Wi-Fiモデル・ミッドナイトの構成です。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Xiaomi(シャオミ) Smart Band 11 スマートバンド</title>
     <link>https://gearnote.net/product-xiaomi-smart-band-11</link>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-dji-osmo-360-ii-get-and-set-combo-8k-360-camera</link>
     <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-360-ii-get-and-set-combo-8k-360-camera</guid>
     <description>DJIの360度カメラ「Osmo 360 II」のゲット&amp;セットコンボです。</description>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Nextorage PS5専用 内蔵SSD 2TB NEM-PAD（M.2 PCIe</title>
-    <link>https://gearnote.net/product-nextorage-nem-pad-2tb-ps5-internal-ssd-heatsink</link>
-    <guid isPermaLink="true">https://gearnote.net/product-nextorage-nem-pad-2tb-ps5-internal-ssd-heatsink</guid>
-    <description>Nextorage（ネクストレージ）のPS5/PS5 Pro向け増設用M.2 SSD「NEM-PAD」の2TBモデル（NEM-PAD2TB）です。</description>
     <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

@@ -24974,6 +24974,13 @@ const RANKING_POOL = [
     page: "product-apple-ipad-mini-a17-pro-128gb-space-gray",
   },
   {
+    name: "Apple iPad mini（A20 Pro） | 8.5インチOLEDディスプレイ、Nano-textureガラス、256GB、Wi-Fi 7、耐水性能 — ミッドナイト",
+    excerpt: "Apple iPad mini（A20 Pro）8.5インチOLED・256GB・Nano-textureガラス・Wi-Fi・ミッドナイト。Wi-Fi 7、IP67、USB-C、Touch ID、Apple Pencil Pro／USB-C対応。",
+    img: "https://m.media-amazon.com/images/I/711GzJkudmL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0HPCF2QKR?tag=hide0122-22",
+    page: "product-apple-ipad-mini-a20-pro-256gb-nano-texture-midnight",
+  },
+  {
     name: "Apple 2026 MacBook Air M5チップ搭載13インチノートブック：AIとApple Intelligence、13.6インチLiquid Retinaディスプレイ、16GBユニファイドメモリ、512GB SSDストレージ、12MPセンターフレームカメラ、日本語キーボード、Touch ID - ミッドナイト",
     excerpt: "Apple 2026 MacBook Air 13インチ（M5・16GB/512GB・ミッドナイト）。13.6インチLiquid Retina、最大18時間バッテリー、Thunderbolt 4×2、MagSafe、Touch ID。",
     img: "https://m.media-amazon.com/images/I/71eX66ytH+L._AC_SX300_.jpg",
