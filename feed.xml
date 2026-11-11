@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:37:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:50:04 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -57,6 +57,13 @@
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>生活家電の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
@@ -78,10 +85,24 @@
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ゲームの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-games</link>
+    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
+    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ファッションの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-fashion</link>
     <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
     <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ペット用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-pets</link>
+    <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
+    <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -138,6 +159,13 @@
     <link>https://gearnote.net/product-philips-t8015-tablet</link>
     <guid isPermaLink="true">https://gearnote.net/product-philips-t8015-tablet</guid>
     <description>PHILIPS T8015 11インチタブレット（国内正規品）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>違いを比較する記事一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-index</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
+    <description>GEARNOTEのAとBの違いを並べた比較記事659本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/data-earbuds</link>
     <guid isPermaLink="true">https://gearnote.net/data-earbuds</guid>
     <description>GEARNOTEに掲載しているワイヤレスイヤホン64機種の、ANCオン・オフ時のイヤホン単体の連続再生時間（時間）、ケース込みの合計再生時間（時間）、片耳の質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヘッドホンの仕様一覧｜連続音声再生時間・インピーダンス・質量（掲載44点）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-headphone</link>
-    <guid isPermaLink="true">https://gearnote.net/data-headphone</guid>
-    <description>GEARNOTEに掲載しているヘッドホン（ワイヤレス／有線のみ）44点の、ノイズキャンセリングのオン・オフ別の連続音声再生時間、インピーダンス（Ω）、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>モニターの仕様一覧｜画面サイズ・リフレッシュレート・消費電力・質量（掲載18台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-monitor</link>
-    <guid isPermaLink="true">https://gearnote.net/data-monitor</guid>
-    <description>GEARNOTEに掲載しているモニター（据え置き型／モバイルモニター）18台の、画面サイズ（インチ）、最大リフレッシュレート（Hz）、通常使用時の消費電力（W）、質量（kg）、USB-C端子の給電出力（W）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Wi-Fiルーター・中継機の仕様一覧｜5GHz帯の通信速度・有線ポート・消費電力・質量（掲載18台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-wifi-router</link>
-    <guid isPermaLink="true">https://gearnote.net/data-wifi-router</guid>
-    <description>GEARNOTEに掲載しているWi-Fiルーター・中継機（ルーター／中継機）18台の、5GHz帯の最大通信速度（Mbps）、最も速い有線ポートの通信速度（Gbps）、消費電力（最大・W）、質量（本体のみ・g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートウォッチの仕様一覧｜電池持続時間・電池容量・質量（掲載37台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-smartwatch</link>
-    <guid isPermaLink="true">https://gearnote.net/data-smartwatch</guid>
-    <description>GEARNOTEに掲載しているスマートウォッチ・スマートバンド37台の、電池持続時間（時間表記／日数表記、条件別）、電池容量（mAh）、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
