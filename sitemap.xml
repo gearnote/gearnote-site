@@ -2837,7 +2837,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-logicool</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3122,7 +3122,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-kioxia</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -18857,7 +18857,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-buffalo</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -31033,6 +31033,21 @@
   </url>
   <url>
     <loc>https://gearnote.net/spec-torras</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-logicool</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-buffalo</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-kioxia</loc>
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
