@@ -26514,6 +26514,13 @@ const RANKING_POOL = [
     page: "product-xiaomi-smart-band-11-active",
   },
   {
+    name: "Xiaomi Smart Band 11 スマートウォッチ シャオミ バンド 大画面 ランニング 心拍 睡眠 21日間持続 LINE通知 防水 軽量",
+    excerpt: "Xiaomi Smart Band 11。1.72インチAMOLED、最長21日間のバッテリー（通常使用最大10日間）、5ATM防水、150種類以上のスポーツモード、睡眠HRVモニタリングと記載。",
+    img: "https://m.media-amazon.com/images/I/51LKOppPzIL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0H86XV213?tag=hide0122-22",
+    page: "product-xiaomi-smart-band-11",
+  },
+  {
     name: "Xiaomi REDMI Watch 6 Lite シャオミスマートウォッチ GPS 防水 18日間持続 Bluetooth通話 iPhone対応",
     excerpt: "Xiaomi REDMI Watch 6 Lite。1.96インチAMOLED（最大1500nits）、5システム対応GNSS、5ATM防水、約27.8g・9.9mm、150種以上のスポーツモードと記載。",
     img: "https://m.media-amazon.com/images/I/61UnF9ZrAlL._AC_SX300_.jpg",

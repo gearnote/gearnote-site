@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Nov 2026 06:04:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:37:51 +0000</lastBuildDate>
+  <item>
+    <title>Xiaomi(シャオミ) Smart Band 11 スマートバンド</title>
+    <link>https://gearnote.net/product-xiaomi-smart-band-11</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-smart-band-11</guid>
+    <description>1.72インチAMOLEDディスプレイ、最長21日間のバッテリー、5ATM防水、150種類以上のスポーツモードを備えるスマートバンド。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>バルミューダ ザ・トースター プロ 2026年モデル ホワイト KTT03JP-WH</title>
     <link>https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp-wh</link>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-nextorage-nem-pad-2tb-ps5-internal-ssd-heatsink</link>
     <guid isPermaLink="true">https://gearnote.net/product-nextorage-nem-pad-2tb-ps5-internal-ssd-heatsink</guid>
     <description>Nextorage（ネクストレージ）のPS5/PS5 Pro向け増設用M.2 SSD「NEM-PAD」の2TBモデル（NEM-PAD2TB）です。</description>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ラッセルホブス ティーケトル プラス</title>
-    <link>https://gearnote.net/product-russell-hobbs-tea-kettle-plus-7107jp-bk-600ml</link>
-    <guid isPermaLink="true">https://gearnote.net/product-russell-hobbs-tea-kettle-plus-7107jp-bk-600ml</guid>
-    <description>ラッセルホブスの温度調整電気ケトル「ティーケトル プラス」、型番7107JP-BK（ブラック）です。</description>
     <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
