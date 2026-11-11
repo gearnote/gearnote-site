@@ -8487,7 +8487,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-benq</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -9087,7 +9087,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-hori</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -18852,7 +18852,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-brother</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -21627,7 +21627,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-scansnap</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -31048,6 +31048,26 @@
   </url>
   <url>
     <loc>https://gearnote.net/spec-kioxia</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-hori</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-benq</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-brother</loc>
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/spec-scansnap</loc>
     <lastmod>2026-11-11</lastmod>
     <priority>0.6</priority>
   </url>

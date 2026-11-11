@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Nov 2026 10:08:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 10:09:30 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -169,6 +169,20 @@
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ロジクールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-logicool</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
+    <description>ロジクール製品の特徴、マウス・キーボード・Webカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>KIOXIAの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-kioxia</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-kioxia</guid>
+    <description>KIOXIA製品の特徴、SSD・SDカード・USBメモリの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>エレコムの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-elecom</link>
     <guid isPermaLink="true">https://gearnote.net/brand-elecom</guid>
@@ -222,6 +236,13 @@
     <link>https://gearnote.net/compare-index</link>
     <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
     <description>GEARNOTEのAとBの違いを並べた比較記事659本をカテゴリ別にまとめた一覧です。各記事は商品ページに掲載している商品仕様をもとに整理しています。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>バッファローの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-buffalo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-buffalo</guid>
+    <description>バッファロー(BUFFALO)のポータブルSSD・USBメモリ・PC周辺機器の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/data-electric-blanket</link>
     <guid isPermaLink="true">https://gearnote.net/data-electric-blanket</guid>
     <description>GEARNOTEに掲載している電気毛布（掛け・掛敷き・ひざ掛け／敷き）20枚の、定格消費電力（W）、強で1時間使ったときの消費電力量（Wh）、強の表面温度（℃）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>データ一覧｜GEARNOTE掲載商品の仕様を1枚の表にまとめたデータ集｜GEARNOTE</title>
-    <link>https://gearnote.net/data</link>
-    <guid isPermaLink="true">https://gearnote.net/data</guid>
-    <description>GEARNOTEに掲載している商品の仕様表の数字を、ジャンルごとに1枚の表にまとめたデータ集です。集計（件数・最小・中央値・最大）、集計方法、CSV、引用の書き方つき。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>加湿器の仕様一覧｜タンク容量・加湿量・適用床面積・消費電力・質量（掲載30台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-humidifier</link>
-    <guid isPermaLink="true">https://gearnote.net/data-humidifier</guid>
-    <description>GEARNOTEに掲載している加湿器（超音波式・気化式／スチーム式・ハイブリッド式・スチームファン式）30台の、水タンク容量（L）、加湿量（mL/h）、適用床面積の目安（畳）、消費電力（W）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>USB充電器の仕様一覧｜単ポート最大出力・ポート数・USB-Cポート数・質量（掲載28個）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-usb-charger</link>
-    <guid isPermaLink="true">https://gearnote.net/data-usb-charger</guid>
-    <description>GEARNOTEに掲載しているコンセント用のUSB充電器28個の、単ポート使用時の最大出力（W）、USBポートの総数、USB-Cポート数、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
