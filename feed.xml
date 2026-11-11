@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Nov 2026 10:09:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 10:19:58 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -232,6 +232,20 @@
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>BenQの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-benq</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-benq</guid>
+    <description>BenQのモニターライトの特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ホリ（HORI）の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-hori</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-hori</guid>
+    <description>ホリ（HORI）のゲーム機用コントローラー・ケースなど周辺機器の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>違いを比較する記事一覧｜GEARNOTE</title>
     <link>https://gearnote.net/compare-index</link>
     <guid isPermaLink="true">https://gearnote.net/compare-index</guid>
@@ -239,10 +253,24 @@
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Brotherの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-brother</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-brother</guid>
+    <description>ブラザー工業(Brother Industries)のプリンター・インクカートリッジの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>バッファローの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-buffalo</link>
     <guid isPermaLink="true">https://gearnote.net/brand-buffalo</guid>
     <description>バッファロー(BUFFALO)のポータブルSSD・USBメモリ・PC周辺機器の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ScanSnapの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-scansnap</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-scansnap</guid>
+    <description>ScanSnap(富士通/PFU)のドキュメントスキャナーの特徴、選び方をまとめて紹介。掲載11商品の仕様を一覧で確認できます。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</link>
     <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</guid>
     <description>Samsung Galaxy Tab S12+ 256GB Wi-Fi グレーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple 13インチ iPad Air（M4）128GB スターライト の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-ipad-air-13-m4-128gb-starlight</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-air-13-m4-128gb-starlight</guid>
-    <description>Apple 13インチ iPad Air（M4）128GB スターライトの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 セラミックファンヒーター DPSF-EP12(H)（人感・温度センサー） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-ceramic-fan-heater-dpsf-ep12-h-human-sensor</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-ceramic-fan-heater-dpsf-ep12-h-human-sensor</guid>
-    <description>山善 セラミックファンヒーター DPSF-EP12(H)（人感・温度センサー）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 ホットカーペット YWC-182F(GG)E（洗える・180×80cm） の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yamazen-hot-carpet-ywc-182f-gg-e-washable-180x80</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-hot-carpet-ywc-182f-gg-e-washable-180x80</guid>
-    <description>山善 ホットカーペット YWC-182F(GG)E（洗える・180×80cm）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電気毛布の仕様一覧｜定格消費電力・1時間の消費電力量・表面温度・質量（掲載20枚）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-electric-blanket</link>
-    <guid isPermaLink="true">https://gearnote.net/data-electric-blanket</guid>
-    <description>GEARNOTEに掲載している電気毛布（掛け・掛敷き・ひざ掛け／敷き）20枚の、定格消費電力（W）、強で1時間使ったときの消費電力量（Wh）、強の表面温度（℃）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
