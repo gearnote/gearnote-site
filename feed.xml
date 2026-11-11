@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:13:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 09:32:22 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -141,221 +141,221 @@
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>データの使い方・引用ガイド｜GEARNOTEの仕様データを引用・転載する方へ｜GEARNOTE</title>
-    <link>https://gearnote.net/data-cite</link>
-    <guid isPermaLink="true">https://gearnote.net/data-cite</guid>
-    <description>GEARNOTEの仕様データ（CSVあり）を、出典を書けば引用・転載できます。出典の書き方の例（文章用・HTMLリンク用）、利用条件、引用するときの注意、取材のご案内をまとめました。</description>
+    <title>電気毛布の仕様一覧｜定格消費電力・1時間の消費電力量・表面温度・質量（掲載20枚）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-electric-blanket</link>
+    <guid isPermaLink="true">https://gearnote.net/data-electric-blanket</guid>
+    <description>GEARNOTEに掲載している電気毛布（掛け・掛敷き・ひざ掛け／敷き）20枚の、定格消費電力（W）、強で1時間使ったときの消費電力量（Wh）、強の表面温度（℃）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>このサイトについて｜GEARNOTE</title>
-    <link>https://gearnote.net/about</link>
-    <guid isPermaLink="true">https://gearnote.net/about</guid>
-    <description>GEARNOTEのサイト概要、運営情報、アフィリエイト表記、プライバシーポリシーについて。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>データ一覧｜GEARNOTE掲載商品の仕様を1枚の表にまとめたデータ集｜GEARNOTE</title>
+    <link>https://gearnote.net/data</link>
+    <guid isPermaLink="true">https://gearnote.net/data</guid>
+    <description>GEARNOTEに掲載している商品の仕様表の数字を、ジャンルごとに1枚の表にまとめたデータ集です。集計（件数・最小・中央値・最大）、集計方法、CSV、引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-amazon-echo</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
-    <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>加湿器の仕様一覧｜タンク容量・加湿量・適用床面積・消費電力・質量（掲載30台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-humidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/data-humidifier</guid>
+    <description>GEARNOTEに掲載している加湿器（超音波式・気化式／スチーム式・ハイブリッド式・スチームファン式）30台の、水タンク容量（L）、加湿量（mL/h）、適用床面積の目安（畳）、消費電力（W）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Ankerの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-anker</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
-    <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>USB充電器の仕様一覧｜単ポート最大出力・ポート数・USB-Cポート数・質量（掲載28個）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-usb-charger</link>
+    <guid isPermaLink="true">https://gearnote.net/data-usb-charger</guid>
+    <description>GEARNOTEに掲載しているコンセント用のUSB充電器28個の、単ポート使用時の最大出力（W）、USBポートの総数、USB-Cポート数、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Boseの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-bose</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-bose</guid>
-    <description>Bose製品の特徴、ノイズキャンセリングヘッドホン・イヤホン・スピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>電気ケトルの仕様一覧｜容量・消費電力・満水の沸とう時間・本体質量（掲載19台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-electric-kettle</link>
+    <guid isPermaLink="true">https://gearnote.net/data-electric-kettle</guid>
+    <description>GEARNOTEに掲載している電気ケトル19台の、容量（mL）、消費電力（W）、満水時の沸とう時間（分）、本体のみの質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Braunの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-braun</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
-    <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>モバイルバッテリーの仕様一覧｜容量・USB-Cの最大出力・同時使用時の合計出力・重量（掲載27台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-power-bank</link>
+    <guid isPermaLink="true">https://gearnote.net/data-power-bank</guid>
+    <description>GEARNOTEに掲載している充電式のモバイルバッテリー27台の、容量（mAh）、USB-Cの最大出力（W）、複数の出力を同時に使うときの合計最大出力（W）、重量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>デロンギの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-delonghi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
-    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>空気清浄機の仕様一覧｜適用畳数・最大風量・消費電力・運転音・質量（掲載27台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-air-purifier</link>
+    <guid isPermaLink="true">https://gearnote.net/data-air-purifier</guid>
+    <description>GEARNOTEに掲載している空気清浄機（加湿機能なし／加湿空気清浄機）27台の、適用畳数、最大風量（m³/分）、消費電力（W）、運転音（dB）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>DHCの商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dhc</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dhc</guid>
-    <description>DHCの特徴、クレンジングオイルやサプリメントの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ヒーター・ストーブの仕様一覧｜消費電力・暖房出力・暖房の目安畳数（掲載51台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/data-heater</guid>
+    <description>GEARNOTEに掲載しているヒーター・ストーブ51台（電気式37台／石油式14台）の、消費電力（W）、最大の暖房出力（kW）、暖房の目安の畳数（木造・コンクリート）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Dysonの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dyson</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dyson</guid>
-    <description>Dyson製品の特徴、掃除機・ヘアケア・空気清浄機の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>除湿機の仕様一覧｜除湿能力・消費電力・タンク容量・質量（掲載12台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-dehumidifier</link>
+    <guid isPermaLink="true">https://gearnote.net/data-dehumidifier</guid>
+    <description>GEARNOTEに掲載している除湿機（コンプレッサー式／ハイブリッド式／デシカント式）12台の、除湿能力（L/日）、除湿時の消費電力（W）、タンク容量（L）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Eufyの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-eufy</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-eufy</guid>
-    <description>Eufy製品の特徴、ロボット掃除機・防犯カメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>サーキュレーター・扇風機の仕様一覧｜消費電力・適用畳数・風量段階・質量（掲載31台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-circulator-fan</link>
+    <guid isPermaLink="true">https://gearnote.net/data-circulator-fan</guid>
+    <description>GEARNOTEに掲載しているサーキュレーター・扇風機・小型ファン31台の、消費電力（W）、適用畳数（畳）、風量の切り替え段階数、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Googleの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-google</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
-    <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>電子レンジ・オーブンレンジの仕様一覧｜庫内容量・高周波出力・外形寸法・質量（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-microwave-oven</link>
+    <guid isPermaLink="true">https://gearnote.net/data-microwave-oven</guid>
+    <description>GEARNOTEに掲載している電子レンジ・オーブンレンジ（単機能／オーブン系）11台の、庫内容量（L）、高周波出力（W）、外形寸法の幅・奥行・高さ（mm）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-iris-ohyama</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
-    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>炊飯器の仕様一覧｜最大炊飯容量・質量・定格消費電力・保温の消費電力量・年間消費電力量（掲載18台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-rice-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/data-rice-cooker</guid>
+    <description>GEARNOTEに掲載している炊飯器18台の、最大炊飯容量（合）、質量（kg）、定格消費電力（W）、保温1時間あたりの消費電力量（Wh）、年間消費電力量（kWh/年）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>JBLの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-jbl</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-jbl</guid>
-    <description>JBL製品の特徴、Bluetoothスピーカー・パーティースピーカー・イヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ノンフライヤー（エアフライヤー）の仕様一覧｜容量・定格消費電力・質量・設定温度（掲載12台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-air-fryer</link>
+    <guid isPermaLink="true">https://gearnote.net/data-air-fryer</guid>
+    <description>GEARNOTEに掲載しているノンフライヤー（エアフライヤー）12台の、容量（L）、定格消費電力（W）、質量（kg）、設定温度の下限・上限（℃）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コイズミの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-koizumi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
-    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ワイヤレスイヤホンの仕様一覧｜ANCオン・オフ時の連続再生時間・ケース込みの再生時間・片耳の質量（掲載64機種）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-earbuds</link>
+    <guid isPermaLink="true">https://gearnote.net/data-earbuds</guid>
+    <description>GEARNOTEに掲載しているワイヤレスイヤホン64機種の、ANCオン・オフ時のイヤホン単体の連続再生時間（時間）、ケース込みの合計再生時間（時間）、片耳の質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>KOSEの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-kose</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-kose</guid>
-    <description>KOSE製品の特徴、スキンケア・ベースメイク・ポイントメイクの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ヘッドホンの仕様一覧｜連続音声再生時間・インピーダンス・質量（掲載44点）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-headphone</link>
+    <guid isPermaLink="true">https://gearnote.net/data-headphone</guid>
+    <description>GEARNOTEに掲載しているヘッドホン（ワイヤレス／有線のみ）44点の、ノイズキャンセリングのオン・オフ別の連続音声再生時間、インピーダンス（Ω）、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ORBISの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-orbis</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-orbis</guid>
-    <description>ORBIS製品の特徴、洗顔・化粧水・UVケアの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>モニターの仕様一覧｜画面サイズ・リフレッシュレート・消費電力・質量（掲載18台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-monitor</link>
+    <guid isPermaLink="true">https://gearnote.net/data-monitor</guid>
+    <description>GEARNOTEに掲載しているモニター（据え置き型／モバイルモニター）18台の、画面サイズ（インチ）、最大リフレッシュレート（Hz）、通常使用時の消費電力（W）、質量（kg）、USB-C端子の給電出力（W）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Panasonicの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-panasonic</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
-    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Wi-Fiルーター・中継機の仕様一覧｜5GHz帯の通信速度・有線ポート・消費電力・質量（掲載18台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-wifi-router</link>
+    <guid isPermaLink="true">https://gearnote.net/data-wifi-router</guid>
+    <description>GEARNOTEに掲載しているWi-Fiルーター・中継機（ルーター／中継機）18台の、5GHz帯の最大通信速度（Mbps）、最も速い有線ポートの通信速度（Gbps）、消費電力（最大・W）、質量（本体のみ・g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Philipsの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-philips</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
-    <description>Philips製品の特徴、電動シェーバー・電動歯ブラシの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>スマートウォッチの仕様一覧｜電池持続時間・電池容量・質量（掲載37台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-smartwatch</link>
+    <guid isPermaLink="true">https://gearnote.net/data-smartwatch</guid>
+    <description>GEARNOTEに掲載しているスマートウォッチ・スマートバンド37台の、電池持続時間（時間表記／日数表記、条件別）、電池容量（mAh）、質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ReFaの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-refa</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-refa</guid>
-    <description>ReFaの美顔器・ドライヤー・ヘアアイロンの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ポータブル電源の仕様一覧｜電池容量・AC定格出力・質量（掲載8台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-portable-power-station</link>
+    <guid isPermaLink="true">https://gearnote.net/data-portable-power-station</guid>
+    <description>GEARNOTEに掲載しているポータブル電源8台の、電池容量（Wh）、AC定格出力（W）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>SHARPの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-sharp</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
-    <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>冷蔵庫の仕様一覧｜容量・年間消費電力量・運転音・質量・寸法（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-refrigerator</link>
+    <guid isPermaLink="true">https://gearnote.net/data-refrigerator</guid>
+    <description>GEARNOTEに掲載している冷蔵庫（1ドア／2ドア）11台の、容量（L）、年間消費電力量（kWh/年）、運転音（dB）、質量（kg）、幅・高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>資生堂の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-shiseido</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-shiseido</guid>
-    <description>SHISEIDO（資生堂）のスキンケア・ベースメイクの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>洗濯機の仕様一覧｜洗濯容量・標準使用水量・運転音・洗濯時の目安時間・質量（掲載15台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-washing-machine</link>
+    <guid isPermaLink="true">https://gearnote.net/data-washing-machine</guid>
+    <description>GEARNOTEに掲載している洗濯機（全自動／ドラム式洗濯乾燥機／二槽式）15台の、洗濯容量（kg）、標準使用水量（L）、運転音（dB）、洗濯時の目安時間（分）、質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>SK-IIの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-skii</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-skii</guid>
-    <description>SK-IIの化粧水・美容液の特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ロボット掃除機の仕様一覧｜本体の高さ・質量・バッテリー容量・ダスト容器の容量（掲載23台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-robot-vacuum</link>
+    <guid isPermaLink="true">https://gearnote.net/data-robot-vacuum</guid>
+    <description>GEARNOTEに掲載しているロボット掃除機（ステーションの種類別）23台の、本体の高さ（mm）、本体質量（kg）、バッテリー容量（mAh）、本体のダスト容器の容量（mL）、ステーションの紙パック・ダストバッグ容量（L）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Sonyの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-sony</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
-    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>コードレス掃除機の仕様一覧｜スティック状態の質量・集じん容量・充電時間（掲載22台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-cordless-vacuum</link>
+    <guid isPermaLink="true">https://gearnote.net/data-cordless-vacuum</guid>
+    <description>GEARNOTEに掲載しているコードレス掃除機（自動ゴミ収集ドック付き／ドックの記載なし）22台の、スティック状態の質量（kg）、集じん容量（mL）、充電時間（時間）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>SwitchBotの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-switchbot</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-switchbot</guid>
-    <description>SwitchBot製品の特徴、スマートホーム機器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ヘアドライヤーの仕様一覧｜消費電力・風量・質量・電源コードの長さ（掲載17台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-hair-dryer</link>
+    <guid isPermaLink="true">https://gearnote.net/data-hair-dryer</guid>
+    <description>GEARNOTEに掲載しているヘアドライヤー17台の、消費電力（W）、風量（m³/分）、質量（g）、電源コードの長さ（m）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Xiaomiの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-xiaomi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
-    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>電動歯ブラシの仕様一覧｜質量・充電時間・ブラシストローク数・モード数（掲載20本）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-electric-toothbrush</link>
+    <guid isPermaLink="true">https://gearnote.net/data-electric-toothbrush</guid>
+    <description>GEARNOTEに掲載している電動歯ブラシ20本の、質量（g）、充電時間（時間）、音波振動のブラシストローク数（毎分）、モード数を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>YA-MANの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-ya-man</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-ya-man</guid>
-    <description>YA-MANの美顔器・脱毛器・ヘアケア家電の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ポータブルスピーカーの仕様一覧｜連続再生時間・充電時間・質量・最大出力・バッテリー容量（掲載30台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-portable-speaker</link>
+    <guid isPermaLink="true">https://gearnote.net/data-portable-speaker</guid>
+    <description>GEARNOTEに掲載しているポータブルスピーカー30台の、連続再生時間（時間）、充電時間（時間）、質量（g）、スピーカー最大出力（W）、バッテリー容量（Wh）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>すべてのブランド｜GEARNOTE</title>
-    <link>https://gearnote.net/brands</link>
-    <guid isPermaLink="true">https://gearnote.net/brands</guid>
-    <description>イヤホン・オーディオ、生活家電、スマートホーム、美容家電、コスメ・化粧品まで、ジャンル別にブランドから商品を探せます。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>コーヒーメーカーの仕様一覧｜消費電力・質量・高さ（掲載17台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-coffee-maker</link>
+    <guid isPermaLink="true">https://gearnote.net/data-coffee-maker</guid>
+    <description>GEARNOTEに掲載しているコーヒーメーカー（ドリップ式／エスプレッソ・カプセル式）17台の、消費電力（W）、質量（kg）、高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>食べ物の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-food</link>
-    <guid isPermaLink="true">https://gearnote.net/category-food</guid>
-    <description>プロテインバー・栄養補助食品、おつまみ・珍味、お菓子・スイーツ、ナッツ・保存食まで、特徴をもとに厳選した食品一覧。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>オーブントースターの仕様一覧｜消費電力・質量・本体寸法・庫内寸法（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-oven-toaster</link>
+    <guid isPermaLink="true">https://gearnote.net/data-oven-toaster</guid>
+    <description>GEARNOTEに掲載しているオーブントースター（ポップアップトースターを含む）11台の、消費電力（W）、質量（kg）、本体の幅・奥行（cm）、庫内の幅・高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>飲料の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
-    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ホットプレートの仕様一覧｜消費電力・外形寸法（幅・奥行・高さ）（掲載10台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-hot-plate</link>
+    <guid isPermaLink="true">https://gearnote.net/data-hot-plate</guid>
+    <description>GEARNOTEに掲載しているホットプレート（たこ焼き器の専用機を含む）10台の、消費電力（W）、外形寸法の幅・奥行・高さ（cm）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ゲームの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-games</link>
-    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
-    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>電気圧力鍋・自動調理鍋の仕様一覧｜満水容量・調理容量・消費電力・質量（掲載10台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-pressure-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/data-pressure-cooker</guid>
+    <description>GEARNOTEに掲載している電気圧力鍋・自動調理鍋10台の、満水容量（L）、調理容量（L）、消費電力（W）、本体質量（kg）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>3M クリンプロ 歯みがきペーストの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-3m-clinpro-toothpaste-f1450-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-3m-clinpro-toothpaste-f1450-2</guid>
-    <description>3M クリンプロ 歯みがきペースト F1450 90g×2本の仕様を整理。風味、内容量、使い方、注意点をまとめました。</description>
-    <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ブレンダー・ミキサーの仕様一覧｜容量・消費電力・質量・定格時間（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-blender</link>
+    <guid isPermaLink="true">https://gearnote.net/data-blender</guid>
+    <description>GEARNOTEに掲載しているブレンダー・ミキサー（ハンドブレンダー／ミキサー・カップ型ブレンダー／ハンドミキサー）11台の、容量（mL）、消費電力（W）、質量（kg）、定格時間（分）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

@@ -205,11 +205,11 @@ microSD・SDカード,https://gearnote.net/data-microsd,最大書き込み速度
 ストリーミングデバイス,https://gearnote.net/data-streaming-device,ストレージ容量,容量,GB,11,7,4,63.6,集計対象
 ストリーミングデバイス,https://gearnote.net/data-streaming-device,メモリ（RAM）容量,容量,GB,11,6,5,54.5,集計対象
 ストリーミングデバイス,https://gearnote.net/data-streaming-device,本体の質量（リモコンは含まない）,質量,g,11,3,8,27.3,集計対象
-タブレット,https://gearnote.net/data-tablet,画面サイズ（メーカーが示すインチ数）,その他の性能・機能,インチ,15,14,1,93.3,集計対象
-タブレット,https://gearnote.net/data-tablet,メモリ容量,容量,GB,15,13,2,86.7,集計対象
-タブレット,https://gearnote.net/data-tablet,ストレージ容量（掲載モデル）,容量,GB,15,15,0,100.0,集計対象
-タブレット,https://gearnote.net/data-tablet,質量,質量,g,15,11,4,73.3,集計対象
-タブレット,https://gearnote.net/data-tablet,バッテリー容量（標準値）,容量,mAh,15,6,9,40.0,集計対象
+タブレット,https://gearnote.net/data-tablet,画面サイズ（メーカーが示すインチ数）,その他の性能・機能,インチ,16,15,1,93.8,集計対象
+タブレット,https://gearnote.net/data-tablet,メモリ容量,容量,GB,16,13,3,81.2,集計対象
+タブレット,https://gearnote.net/data-tablet,ストレージ容量（掲載モデル）,容量,GB,16,16,0,100.0,集計対象
+タブレット,https://gearnote.net/data-tablet,質量,質量,g,16,12,4,75.0,集計対象
+タブレット,https://gearnote.net/data-tablet,バッテリー容量（標準値）,容量,mAh,16,6,10,37.5,集計対象
 温湿度計,https://gearnote.net/data-thermo-hygrometer,測定できる最も低い温度,その他の性能・機能,℃,12,6,6,50.0,集計対象
 温湿度計,https://gearnote.net/data-thermo-hygrometer,測定できる最も高い温度,その他の性能・機能,℃,12,6,6,50.0,集計対象
 温湿度計,https://gearnote.net/data-thermo-hygrometer,測定できる最も低い湿度,その他の性能・機能,%,12,6,6,50.0,集計対象
