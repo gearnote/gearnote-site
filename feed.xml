@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:21:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 21:30:34 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -103,6 +103,20 @@
     <link>https://gearnote.net/category-kitchen</link>
     <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
     <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Belkin 45W GaN充電器 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-belkin-45w-gan-charger</link>
+    <guid isPermaLink="true">https://gearnote.net/product-belkin-45w-gan-charger</guid>
+    <description>【VGP受賞】Belkin 充電器 USB-C 2ポート 45W GaN採用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Belkin ワイヤレス充電スタンド の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-belkin-magsafe-wireless-stand</link>
+    <guid isPermaLink="true">https://gearnote.net/product-belkin-magsafe-wireless-stand</guid>
+    <description>Belkin ワイヤレス充電スタンド MagSafe対応 Qi2公式認証の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-aulumu-c03-watch-band</link>
     <guid isPermaLink="true">https://gearnote.net/product-aulumu-c03-watch-band</guid>
     <description>Aulumu C03 アップルウォッチ ナイロンバンド チタンバックル&amp;クイックリリースマグネット式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Aulumu AF01 ガラスフィルム の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-aulumu-af01-glass-film</link>
-    <guid isPermaLink="true">https://gearnote.net/product-aulumu-af01-glass-film</guid>
-    <description>Aulumu AF01 iPhone用ガラスフィルム 強化ガラス 9H硬度の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Aulumu M07 240W USB-Cケーブル の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-aulumu-m07-240w-usbc-cable</link>
-    <guid isPermaLink="true">https://gearnote.net/product-aulumu-m07-240w-usbc-cable</guid>
-    <description>Aulumu M07 240W USB-C to USB-C アルミニウム合金ケーブルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
