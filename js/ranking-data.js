@@ -14773,6 +14773,13 @@ const RANKING_POOL = [
     page: "product-panasonic-hairclipper-prograde-ersc61",
   },
   {
+    name: "パナソニック(Panasonic) バリカン エントリーモデル ER-GC1A-K",
+    excerpt: "3つのアタッチメントで5段階に刈り高さを選べる充電式バリカン。防水設計で水洗いに対応と記載されています。",
+    img: "https://m.media-amazon.com/images/I/61NpQU8S3IL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0HJQ8RK9X?tag=hide0122-22",
+    page: "product-panasonic-hairclipper-entry-ergc1a-k",
+  },
+  {
     name: "泉精器製作所(IZUMI) 電気シェーバー ソリッドシリーズ 5枚刃 IZF-V579-R-EA",
     excerpt: "5枚刃の往復式メンズシェーバー。本体丸洗い対応で、充電・交流式の両方で使用できます。替刃1個付き。",
     img: "https://m.media-amazon.com/images/I/41oMR1vXIFL._AC_SX300_.jpg",

@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:01:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 15:11:41 +0000</lastBuildDate>
+  <item>
+    <title>パナソニック(Panasonic) バリカン エントリーモデル ER-GC1A-K</title>
+    <link>https://gearnote.net/product-panasonic-hairclipper-entry-ergc1a-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-hairclipper-entry-ergc1a-k</guid>
+    <description>必要な機能をシンプルにまとめた充電式バリカン。3つのアタッチメントで5段階（約0.5〜12mm）に刈り高さを選べ、防水設計で水洗いにも対応とAmazon掲載情報に記載されています。</description>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Apple iPad mini（A20 Pro）8.5インチ 256GB</title>
     <link>https://gearnote.net/product-apple-ipad-mini-a20-pro-256gb-nano-texture-midnight</link>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-pc2400h-w-pc-type</link>
     <guid isPermaLink="true">https://gearnote.net/product-dainichi-hybrid-humidifier-hd-pc2400h-w-pc-type</guid>
     <description>ダイニチの大型ハイブリッド式加湿器「PCタイプ」、型番HD-PC2400H-W（ホワイト×ブラック）です。</description>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DJI Osmo 360 II ゲット&amp;セットコンボ（8K</title>
-    <link>https://gearnote.net/product-dji-osmo-360-ii-get-and-set-combo-8k-360-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-360-ii-get-and-set-combo-8k-360-camera</guid>
-    <description>DJIの360度カメラ「Osmo 360 II」のゲット&amp;セットコンボです。</description>
     <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
