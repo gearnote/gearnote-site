@@ -6,12 +6,26 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 13 Nov 2026 06:52:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 21:31:11 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
     <guid isPermaLink="true">https://gearnote.net/all-products</guid>
     <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Sonyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sony</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
+    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>YA-MANの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-ya-man</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-ya-man</guid>
+    <description>YA-MANの美顔器・脱毛器・ヘアケア家電の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -302,6 +316,13 @@
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>SALONIAの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-salonia</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-salonia</guid>
+    <description>SALONIA（サロニア）製品の特徴、ヘアアイロン・ドライヤー・美顔器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-headphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/ranking-hair-care-products</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-hair-care-products</guid>
     <description>オルビス エッセンスイン ヘアミルク・plus eau シャンプー・トリートメント・DHC Q10美容液 シャンプーを比較。各商品の特徴をもとに、髪質・使用感の観点からおすすめのヘアケア用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>化粧水おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-facial-lotion</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-facial-lotion</guid>
-    <description>肌ラボ 極潤ヒアルロン化粧水・オルビスユー エッセンスローション・雪肌精を比較。各商品の特徴をもとに、保湿力・使用感の観点からおすすめの化粧水を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>日焼け止めおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-sunscreen</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-sunscreen</guid>
-    <description>ビオレUV アクアリッチ・アネッサ パーフェクトUV・オルビス リンクルブライトUVプロテクターを比較。各商品の特徴をもとに、UVカット力・使用感の観点からおすすめの日焼け止めを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>マスカラおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mascara</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mascara</guid>
-    <description>ヒロインメイク ロング&amp;カールマスカラ・ヘビーローテーション エクストラロングマスカラ・マキアージュ ドラマティックエッセンスマスカラを比較。各商品の特徴をもとに、カールキープ力・にじみにくさの観点からおすすめのマスカラを紹介します。全商品の比較表も掲載しています。</description>
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
