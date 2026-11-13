@@ -1184,7 +1184,7 @@ const RANKING_POOL = [
   },
   {
     name: "AXE フレグランス ボディスプレー クリック 60g×3個",
-    excerpt: "スパイシーシトラス系の香りのボディスプレー。3個セットでコスパよく使える。",
+    excerpt: "スパイシーシトラス系の香りのボディスプレー。3個セット。",
     img: "https://m.media-amazon.com/images/I/7178cYiHvOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08ZDWJ8DR?tag=hide0122-22",
     page: "product-axe-click-bodyspray-60g-3set",
@@ -1492,7 +1492,7 @@ const RANKING_POOL = [
   },
   {
     name: "ゴン太 ササミジャーキー 75枚",
-    excerpt: "愛犬の定番おやつとして人気のロングセラージャーキー。",
+    excerpt: "犬用のササミジャーキー。75枚入り。",
     img: "https://m.media-amazon.com/images/I/81B6QbJkHoL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B014QOHAQ2?tag=hide0122-22",
     page: "product-gonta-sasami-jerky-75",
@@ -1611,7 +1611,7 @@ const RANKING_POOL = [
   },
   {
     name: "WILL CLENS シューズパウダー",
-    excerpt: "靴の中に振りかけて置くだけの手軽な消臭パウダー。強烈だったニオイが驚くほど消えたという声が多い人気アイテム。",
+    excerpt: "靴の中に振りかけて置いて使う消臭パウダー。",
     img: "https://m.media-amazon.com/images/I/61Kp+70RFvL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08VS1XLR4?tag=hide0122-22",
     page: "product-willclens-shoe-deodorant-powder",
@@ -1632,7 +1632,7 @@ const RANKING_POOL = [
   },
   {
     name: "ヤマシタ エギ王K エギング",
-    excerpt: "アオリイカやケンサキイカ狙いに人気のエギ。",
+    excerpt: "アオリイカやケンサキイカ狙いのエギ。",
     img: "https://m.media-amazon.com/images/I/61Pl9HagrIL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07CXDSV9S?tag=hide0122-22",
     page: "product-yamashita-egiking-2-5-muramura-cherry",
@@ -1996,7 +1996,7 @@ const RANKING_POOL = [
   },
   {
     name: "エアースペンサー 車用芳香剤",
-    excerpt: "スズラン・グリーンアップルなどをブレンドした万人受けする香りの車用芳香剤。置き型の詰め替えカートリッジタイプで定番の人気を誇る。",
+    excerpt: "スズラン・グリーンアップルなどをブレンドした香りの車用芳香剤。置き型の詰め替えカートリッジタイプ。",
     img: "https://m.media-amazon.com/images/I/81-wHI+-+HL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00477KYEE?tag=hide0122-22",
     page: "product-airspencer-car-fragrance-pinkshower",
@@ -2010,7 +2010,7 @@ const RANKING_POOL = [
   },
   {
     name: "ランニングポーチ ウエストバッグ",
-    excerpt: "大きめのスマホも収納できる伸縮性のあるランニングポーチ。ベルトが体にフィットして揺れにくく軽量でジョギングに人気。",
+    excerpt: "大きめのスマホも収納できる伸縮性のあるランニングポーチ。ベルトで腰に付けて使う軽量タイプ。",
     img: "https://m.media-amazon.com/images/I/51cGiJepkhL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09NX8LQ2P?tag=hide0122-22",
     page: "product-running-waist-pouch-2pocket",
@@ -2101,14 +2101,14 @@ const RANKING_POOL = [
   },
   {
     name: "ピュリナワン グレインフリー チキン",
-    excerpt: "合成着色料・香料無添加の総合栄養食キャットフード。穀物不使用で好き嫌いの多い猫でも食いつきが良いという声が多い。",
+    excerpt: "合成着色料・香料無添加の総合栄養食キャットフード。穀物不使用。",
     img: "https://m.media-amazon.com/images/I/71eePdEK0lL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07G715H52?tag=hide0122-22",
     page: "product-purinaone-grainfree-chicken-cat",
   },
   {
     name: "クロレッツ オリジナルミントガム",
-    excerpt: "味の持続性が高くさっぱりした定番のミントガム。大容量のスタンドパウチでボトルより隙間に置きやすくコスパも良い。",
+    excerpt: "ミント味のガム。大容量のスタンドパウチで、ボトルより隙間に置きやすい形。",
     img: "https://m.media-amazon.com/images/I/61-ai2iYC0L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07N66WTYJ?tag=hide0122-22",
     page: "product-cloretz-original-mint-gum-280g",
@@ -2178,7 +2178,7 @@ const RANKING_POOL = [
   },
   {
     name: "アイリスオーヤマ ペットシーツ",
-    excerpt: "厚型でしっかり吸収し足が濡れにくいペットシーツ。抗菌消臭加工で小型犬・中型犬から猫まで幅広く使えるコスパの良さが人気。",
+    excerpt: "厚型のペットシーツ。抗菌消臭加工で、小型犬・中型犬から猫まで使える。",
     img: "https://m.media-amazon.com/images/I/611ETr+jDcL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0899W5G17?tag=hide0122-22",
     page: "product-irisohyama-pet-sheet-thick",
@@ -2199,7 +2199,7 @@ const RANKING_POOL = [
   },
   {
     name: "カナナプロジェクト PJ1-4thリュック",
-    excerpt: "ポケットが9つと収納力豊富なB5サイズのリュック。軽量で撥水加工も施され、街歩きから旅行まで幅広く使える上品なデザインが人気。",
+    excerpt: "ポケットが9つあるB5サイズのリュック。軽量で撥水加工が施されている。",
     img: "https://m.media-amazon.com/images/I/71mC6L5OwHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09SKXJXVD?tag=hide0122-22",
     page: "product-kanana-project-pj1-4th-backpack",
@@ -2283,7 +2283,7 @@ const RANKING_POOL = [
   },
   {
     name: "ニュートロ シュプレモ 小型犬用 成犬用 3kg",
-    excerpt: "厳選自然素材使用、香料・着色料無添加の総合栄養食ドッグフード。食いつきが良く何年もリピートしているという声が多いロングセラー。",
+    excerpt: "自然素材使用、香料・着色料無添加の総合栄養食ドッグフード。",
     img: "https://m.media-amazon.com/images/I/61v8z2VVKOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07D6GXJQQ?tag=hide0122-22",
     page: "product-nutro-supremo-small-breed-dogfood",
@@ -2318,7 +2318,7 @@ const RANKING_POOL = [
   },
   {
     name: "チャオ ちゅ~る まぐろバラエティ",
-    excerpt: "猫用おやつの定番「ちゅ~る」のまぐろバラエティパック。食の細い猫でも食いつきが良く、40本入りでコスパも良い。",
+    excerpt: "猫用おやつ「ちゅ~る」のまぐろバラエティパック。40本入り。",
     img: "https://m.media-amazon.com/images/I/710UkEvBPzL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B014R0G9IU?tag=hide0122-22",
     page: "product-ciao-churu-maguro-variety",
@@ -2339,7 +2339,7 @@ const RANKING_POOL = [
   },
   {
     name: "Joy-Con パステルパープル/グリーン",
-    excerpt: "壊れやすいJoy-Conを単品で買い替えられる任天堂純正品。可愛いパステルカラーで友達と色がかぶらないと人気。",
+    excerpt: "Joy-Conを単品で買い替えられる任天堂純正品。パステルカラーの組み合わせ。",
     img: "https://m.media-amazon.com/images/I/71k6hBf+J7L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0C6X2PYBH?tag=hide0122-22",
     page: "product-nintendo-joycon-pastel-purple-green",
@@ -2381,7 +2381,7 @@ const RANKING_POOL = [
   },
   {
     name: "井村屋 えいようかん",
-    excerpt: "賞味期限5年の長期保存が可能な羊羹タイプの栄養補給食品。甘さ控えめで美味しく、防災備蓄のローリングストックにも人気。",
+    excerpt: "賞味期限5年の長期保存ができる羊羹タイプの栄養補給食品。防災備蓄のローリングストックにも使える。",
     img: "https://m.media-amazon.com/images/I/81pKsEBV1rL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07ZJRK1MM?tag=hide0122-22",
     page: "product-imuraya-eiyo-yokan",
@@ -2395,7 +2395,7 @@ const RANKING_POOL = [
   },
   {
     name: "プリちぃビーンズ アンパンマン",
-    excerpt: "小さな子どもが片手で抱っこできるちょうど良いサイズのぬいぐるみ。柔らかい手触りで洗えるのも人気。",
+    excerpt: "小さな子どもが片手で抱っこできるサイズのぬいぐるみ。洗えるタイプ。",
     img: "https://m.media-amazon.com/images/I/71RzLOPTz6L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FH1725BH?tag=hide0122-22",
     page: "product-anpanman-purichi-beans-plush",
@@ -2416,14 +2416,14 @@ const RANKING_POOL = [
   },
   {
     name: "nanoblock ナノブロック ピカチュウ",
-    excerpt: "レゴより小さな超小型ブロックでピカチュウを精巧に再現できる組み立てフィギュア。組み上げた時の達成感が人気。",
+    excerpt: "超小型ブロックでピカチュウを組み立てるフィギュア。",
     img: "https://m.media-amazon.com/images/I/61wFZqGbgRL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00DQLXE30?tag=hide0122-22",
     page: "product-nanoblock-pikachu",
   },
   {
     name: "ラキュー(LaQ) フリースタイル100ブラック",
-    excerpt: "平面パーツを組み合わせて立体を作る日本製の知育ブロック。単色100ピースで足りない色だけ買い足せる人気シリーズ。",
+    excerpt: "平面パーツを組み合わせて立体を作る日本製の知育ブロック。単色100ピースで、足りない色だけ買い足せる。",
     img: "https://m.media-amazon.com/images/I/613u0RR-DNL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00EZJA0AC?tag=hide0122-22",
     page: "product-laq-freestyle-100-black",
@@ -2451,7 +2451,7 @@ const RANKING_POOL = [
   },
   {
     name: "サンリオ オーロラ立体シール ハローキティ",
-    excerpt: "存在感のある立体シールとツヤっとしたラメ入りシールのセット。オーロラ加工の輝きが可愛いとプレゼントにも人気。",
+    excerpt: "立体シールとラメ入りシールのセット。オーロラ加工が施されている。",
     img: "https://m.media-amazon.com/images/I/61xdHTs6IyL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H8D955WK?tag=hide0122-22",
     page: "product-sanrio-hello-kitty-aurora-sticker",
@@ -2521,7 +2521,7 @@ const RANKING_POOL = [
   },
   {
     name: "大乱闘スマッシュブラザーズ SPECIAL",
-    excerpt: "歴代の人気キャラクターが集結する対戦アクションの定番シリーズ最新作。オンライン対戦から一人用モードまで幅広く楽しめる。",
+    excerpt: "歴代のキャラクターが集結する対戦アクションシリーズの作品。オンライン対戦から一人用モードまで遊べる。",
     img: "https://m.media-amazon.com/images/I/71utlQnFxOL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07FDW61HX?tag=hide0122-22",
     page: "product-super-smash-bros-special",
@@ -2549,14 +2549,14 @@ const RANKING_POOL = [
   },
   {
     name: "ナーフ エリート2.0 イーグルポイント",
-    excerpt: "8発ダーツドラムとナーフスコープ搭載のボルトアクション式ダーツブラスター。8才以上の屋外遊びに人気の定番アウトドアトイ。",
+    excerpt: "8発ダーツドラムとナーフスコープ搭載のボルトアクション式ダーツブラスター。対象年齢は8才以上。",
     img: "https://m.media-amazon.com/images/I/81CIJFzhDgL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09S9LXP64?tag=hide0122-22",
     page: "product-nerf-elite2-eaglepoint",
   },
   {
     name: "バズ・ライトイヤー トーキングフィギュア",
-    excerpt: "劇中さながらのリアルサイズで再現されたバズ・ライトイヤーのトーキングフィギュア。セリフや光るギミックを搭載し、コレクションにもプレゼントにも人気。",
+    excerpt: "バズ・ライトイヤーのトーキングフィギュア。セリフや光るギミックを搭載。",
     img: "https://m.media-amazon.com/images/I/61FmIL76iwL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GYCJC6DC?tag=hide0122-22",
     page: "product-toy-story-buzz-lightyear-figure",
@@ -2591,14 +2591,14 @@ const RANKING_POOL = [
   },
   {
     name: "プラレール S-07 ドクターイエローT4編成",
-    excerpt: "ライト点灯機能付きのドクターイエロー4両編成。プラレールの定番シリーズで、線路を組んで走らせるごっこ遊びに人気。",
+    excerpt: "ライト点灯機能付きのドクターイエロー4両編成。プラレールの線路を組んで走らせて遊べる。",
     img: "https://m.media-amazon.com/images/I/51r1CzlxkKL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00I7JXEGS?tag=hide0122-22",
     page: "product-plarail-s07-doctor-yellow",
   },
   {
     name: "メルちゃん おせわパーツ 10てんセット",
-    excerpt: "お寝かしバスケットやベビーフードなど、メルちゃんのお世話遊びを広げる10点入りパーツセット。ままごと遊びの追加アイテムとして人気。",
+    excerpt: "お寝かしバスケットやベビーフードなど、メルちゃんのお世話遊び用の10点入りパーツセット。",
     img: "https://m.media-amazon.com/images/I/71afmXvclTL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07G3NWFGM?tag=hide0122-22",
     page: "product-mel-chan-osewa-parts-set",
@@ -2626,7 +2626,7 @@ const RANKING_POOL = [
   },
   {
     name: "レゴ クラシック 黄色のアイデアボックス＜スペシャル＞",
-    excerpt: "様々な形・色のブロック790ピース入りの定番セット。決まった作例がなく自由に組み立てられ、贈り物としても人気。",
+    excerpt: "様々な形・色のブロック790ピース入りのセット。決まった作例がなく自由に組み立てられる。",
     img: "https://m.media-amazon.com/images/I/81rnLa293hL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00PY3EYQO?tag=hide0122-22",
     page: "product-lego-classic-yellow-ideabox",
@@ -2857,7 +2857,7 @@ const RANKING_POOL = [
   },
   {
     name: "オキシクリーン EX 3270g",
-    excerpt: "つけ置き洗いで頑固な汚れまでしっかり落とせる酸素系漂白剤。洗濯だけでなく掃除にも使える大容量。",
+    excerpt: "つけ置き洗いに使う酸素系漂白剤。洗濯のほか掃除にも使える3270gの大容量。",
     img: "https://m.media-amazon.com/images/I/71o+IzDBZbL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B076WT5X22?tag=hide0122-22",
     page: "product-oxiclean-ex-3270",
@@ -2871,7 +2871,7 @@ const RANKING_POOL = [
   },
   {
     name: "スクラビングバブル 流せるトイレブラシ",
-    excerpt: "使い終わったらそのまま流せる使い捨てタイプ。洗剤付きでフチ裏の汚れまでしっかり落とし、除菌・消臭効果もある。",
+    excerpt: "使い終わったブラシ部分をそのままトイレに流せる使い捨てタイプ。ブラシには洗剤が付いている。",
     img: "https://m.media-amazon.com/images/I/71AQanXj3mL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BBFVVG6H?tag=hide0122-22",
     page: "product-scrubbing-bubbles-flushable-toilet-brush-16",
@@ -2885,21 +2885,21 @@ const RANKING_POOL = [
   },
   {
     name: "ソフランアロマリッチ 柔軟剤 2000ml",
-    excerpt: "上品な香りが長く続く液体柔軟剤。衣類がふわふわで静電気も防げる。メガジャンボサイズでコスパも良い。",
+    excerpt: "液体柔軟剤のメガジャンボサイズ（2000ml）。",
     img: "https://m.media-amazon.com/images/I/61OrBrRMAJL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BY8NJHK9?tag=hide0122-22",
     page: "product-soflan-aroma-rich-juliet-2000",
   },
   {
     name: "パイプユニッシュ プロ パイプクリーナー 3本セット",
-    excerpt: "濃縮ゲルが排水管の奥のぬめりや髪の毛を分解。使用後は流れがスムーズに戻り、ニオイも軽減される。",
+    excerpt: "排水管用の濃縮ゲルタイプのパイプクリーナー。3本セット。",
     img: "https://m.media-amazon.com/images/I/71ZxHBWfH9L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0823LSQM3?tag=hide0122-22",
     page: "product-pipe-unish-pro-cleaner-3",
   },
   {
     name: "IROKA フレアフレグランス 柔軟剤 1200ml",
-    excerpt: "香水のように上質で透明感のある香りの液体柔軟剤。仕上がりは柔らかく静電気も抑える。",
+    excerpt: "液体柔軟剤。1200ml。",
     img: "https://m.media-amazon.com/images/I/71GvgDXbTWL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0915NGD2J?tag=hide0122-22",
     page: "product-iroka-flair-fragrance-softener-1200",
@@ -3284,7 +3284,7 @@ const RANKING_POOL = [
   },
   {
     name: "ReFa AURA ヘアブラシ",
-    excerpt: "髪をとかすだけで頭皮ケア。エイジングケアブラシとして人気の新モデル。",
+    excerpt: "髪をとかして使うReFaのヘアブラシ。",
     img: "https://m.media-amazon.com/images/I/61D6WRbzS8L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0H2V9RR31?tag=hide0122-22",
     page: "product-refa-aura-brush",
@@ -3333,14 +3333,14 @@ const RANKING_POOL = [
   },
   {
     name: "スプラトゥーン レイダース -Switch2",
-    excerpt: "人気シリーズ最新作。オンライン対戦もソロプレイも楽しめる定番タイトル。",
+    excerpt: "スプラトゥーンシリーズのNintendo Switch 2用ソフト。オンライン対戦もソロプレイも遊べる。",
     img: "https://m.media-amazon.com/images/I/61dELJVsF2L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GY346F61?tag=hide0122-22",
     page: "product-splatoon-raiders",
   },
   {
     name: "トモダチコレクション わくわく生活 -Switch",
-    excerpt: "自分そっくりのMiiが暮らす島でのんびり生活。家族や友達と一緒に遊べる人気シリーズ最新作。",
+    excerpt: "自分そっくりのMiiが暮らす島で生活するゲーム。家族や友達と一緒に遊べる。",
     img: "https://m.media-amazon.com/images/I/71tRtBw1BcL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GKMJSYB1?tag=hide0122-22",
     page: "product-tomodachi-collection",
@@ -4187,14 +4187,14 @@ const RANKING_POOL = [
   },
   {
     name: "NILE 濃密泡スカルプシャンプー メンズ",
-    excerpt: "アミノ酸系・ノンシリコンのメンズ向けスカルプシャンプー。泡立ちの良さとスッキリした洗い上がりが人気。",
+    excerpt: "アミノ酸系・ノンシリコンのメンズ向けスカルプシャンプー。",
     img: "https://m.media-amazon.com/images/I/61l6J64GFML._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DLJP1FMD?tag=hide0122-22",
     page: "product-nile-scalp-shampoo-lafrance",
   },
   {
     name: "アテニア スキンクリア クレンズオイル アロマ 175ml",
-    excerpt: "ダブル洗顔不要のクレンジングオイル。つっぱらない洗い上がりとシトラスの香りで人気。",
+    excerpt: "ダブル洗顔不要のクレンジングオイル。シトラスの香り。",
     img: "https://m.media-amazon.com/images/I/41QwW36fXWL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CJXS8CB2?tag=hide0122-22",
     page: "product-attenir-cleanse-oil-aroma",
@@ -4250,7 +4250,7 @@ const RANKING_POOL = [
   },
   {
     name: "ライオン ペットキッス 食後の歯みがきガム 小型犬用",
-    excerpt: "食後の歯みがきをサポートする小型犬用ガムおやつ。ジャンボパックでコスパ良好。",
+    excerpt: "食後の歯みがきをサポートする小型犬用ガムおやつ。ジャンボパック。",
     img: "https://m.media-amazon.com/images/I/71DKZxkTbrL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08726ZDXL?tag=hide0122-22",
     page: "product-lion-petkiss-dental-gum-small-200g",
@@ -4285,7 +4285,7 @@ const RANKING_POOL = [
   },
   {
     name: "VENI MASEE 12本骨 折りたたみ傘 ワンタッチ自動開閉",
-    excerpt: "12本骨で耐風性の高い折りたたみ傘。テフロン加工の逆折り式で大きなサイズが人気。",
+    excerpt: "12本骨の折りたたみ傘。テフロン加工の逆折り式で、ワンタッチ自動開閉。",
     img: "https://m.media-amazon.com/images/I/61V8+FOiOyL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D9P51K76?tag=hide0122-22",
     page: "product-venimasee-folding-umbrella-12rib",
@@ -4299,7 +4299,7 @@ const RANKING_POOL = [
   },
   {
     name: "シーガー PE X8 エックスエイト 8本組",
-    excerpt: "安定した強度とコスパの良さで人気の8本組PEライン。エギング・ジギングに。",
+    excerpt: "8本組のPEライン。エギング・ジギングに。",
     img: "https://m.media-amazon.com/images/I/61p941f+8cL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B06X6F9NSJ?tag=hide0122-22",
     page: "product-seaguar-pe-x8-8braid",
@@ -4341,7 +4341,7 @@ const RANKING_POOL = [
   },
   {
     name: "洗車ミット 2枚組 ムートンファイバー",
-    excerpt: "傷つけずに優しく洗えるとコーティング施工車にも人気の洗車ミット。",
+    excerpt: "ムートンファイバーの洗車ミット。2枚組。",
     img: "https://m.media-amazon.com/images/I/71MSQilW1WL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DX7B21HX?tag=hide0122-22",
     page: "product-carwash-mitt-moutonfiber-2set",
@@ -4355,7 +4355,7 @@ const RANKING_POOL = [
   },
   {
     name: "あつまれ どうぶつの森",
-    excerpt: "無人島でDIYしながら自由に暮らせる人気シリーズ最新作。",
+    excerpt: "無人島でDIYしながら暮らすNintendo Switch用ゲーム。",
     img: "https://m.media-amazon.com/images/I/71lpG-B9oDL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B084HPGQ9W?tag=hide0122-22",
     page: "product-doubutsu-no-mori-switch",
@@ -4369,14 +4369,14 @@ const RANKING_POOL = [
   },
   {
     name: "スプラトゥーン3",
-    excerpt: "インクを塗って戦う人気シューティングアクション最新作。",
+    excerpt: "インクを塗って戦うシューティングアクションゲーム。",
     img: "https://m.media-amazon.com/images/I/714Ce-6aaCL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B09Y9JMPBN?tag=hide0122-22",
     page: "product-splatoon3-switch",
   },
   {
     name: "Minecraft (マインクラフト)",
-    excerpt: "自由に建築・冒険できる世界的人気のサンドボックスゲーム。",
+    excerpt: "自由に建築・冒険できるサンドボックスゲーム。",
     img: "https://m.media-amazon.com/images/I/81c+Z4iQAAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07D131MS4?tag=hide0122-22",
     page: "product-minecraft-switch",
@@ -4418,7 +4418,7 @@ const RANKING_POOL = [
   },
   {
     name: "ファイアーエムブレム 風花雪月",
-    excerpt: "士官学校を舞台にした人気シミュレーションRPGシリーズ作品。",
+    excerpt: "士官学校を舞台にしたシミュレーションRPG。",
     img: "https://m.media-amazon.com/images/I/81QciokHLkL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07NQGYZSY?tag=hide0122-22",
     page: "product-fire-emblem-three-houses-switch",
@@ -4635,7 +4635,7 @@ const RANKING_POOL = [
   },
   {
     name: "ERNIE BALL アーニーボール エレキギター弦 SUPER SLINKY 2223",
-    excerpt: "世界的に人気のスリンキーシリーズを代表するエレキギター弦。弾きやすさと価格のバランスに優れる。",
+    excerpt: "アーニーボールのスリンキーシリーズのエレキギター弦。",
     img: "https://m.media-amazon.com/images/I/81g5NnyVweL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0002M6CW6?tag=hide0122-22",
     page: "product-ernieball-super-slinky-2223",
@@ -4663,7 +4663,7 @@ const RANKING_POOL = [
   },
   {
     name: "パンパース パンツ ビッグサイズ さらさらケア 192枚",
-    excerpt: "体重12〜22kg向けのパンツタイプおむつ。薄型でも吸収力が高く、まとめ買いでコスパよく揃えられる。",
+    excerpt: "体重12〜22kg向けのパンツタイプおむつ。",
     img: "https://m.media-amazon.com/images/I/41xu28zJTnL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FM83THQZ?tag=hide0122-22",
     page: "product-pampers-pants-bigsize-192",
@@ -5070,7 +5070,7 @@ const RANKING_POOL = [
   },
   {
     name: "KIOXIA USBフラッシュメモリ 32GB",
-    excerpt: "日本製で安心感のあるUSB2.0メモリ。コスパの良さで普段使いに人気。",
+    excerpt: "USB2.0接続のフラッシュメモリ。容量32GB。",
     img: "https://m.media-amazon.com/images/I/41DEIMfRNbL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CBPF2ZJ1?tag=hide0122-22",
     page: "product-kioxia-usb-flash-32gb-klu202a032gl",
@@ -5393,14 +5393,14 @@ const RANKING_POOL = [
   },
   {
     name: "フィアンセ ボディミスト ピュアシャンプー",
-    excerpt: "甘く爽やかな王道シャンプーの香りのボディミスト。香水初心者にも人気の定番アイテム。",
+    excerpt: "シャンプーの香りのボディミスト。",
     img: "https://m.media-amazon.com/images/I/51PTnD41v5L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00567821Q?tag=hide0122-22",
     page: "product-fiance-bodymist-pureshampoo-50ml",
   },
   {
     name: "AXE ボディスプレー キロ 60g×3個",
-    excerpt: "アクアグリーン系の爽やかな香りの定番ボディスプレー。3個セットでコスパよく使える。",
+    excerpt: "アクアグリーン系の香りのボディスプレー。3個セット。",
     img: "https://m.media-amazon.com/images/I/41R6+XpPSPL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08ZDSXVQM?tag=hide0122-22",
     page: "product-axe-kilo-bodyspray-60g-3set",
@@ -5421,7 +5421,7 @@ const RANKING_POOL = [
   },
   {
     name: "AXE ボディスプレー スウィート 60g×3個",
-    excerpt: "フルーティーフローラル系の甘めの香りのボディスプレー。3個セットでコスパよく使える。",
+    excerpt: "フルーティーフローラル系の香りのボディスプレー。3個セット。",
     img: "https://m.media-amazon.com/images/I/71zO-scDyAL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B08ZDSD8RK?tag=hide0122-22",
     page: "product-axe-sweet-bodyspray-60g-3set",
@@ -5540,7 +5540,7 @@ const RANKING_POOL = [
   },
   {
     name: "LeLante 爪切り ガンメタプレミアムブラック",
-    excerpt: "サクッと切れる気持ちよい切れ味と、高級感あるガンメタリックカラーが人気の一本。",
+    excerpt: "ガンメタリックカラーの爪切り。",
     img: "https://m.media-amazon.com/images/I/61y657b-gxL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0D584QZCP?tag=hide0122-22",
     page: "product-lelante-tsumekiri-gunmetal",
@@ -5561,7 +5561,7 @@ const RANKING_POOL = [
   },
   {
     name: "ケイト ネイルカラーリムーバーN",
-    excerpt: "人気コスメブランド・ケイトのマニキュアリムーバー。爪と甘皮への負担を抑えながら、しっかりオフできる定番の除光液。",
+    excerpt: "ケイトのマニキュアリムーバー（除光液）。",
     img: "https://m.media-amazon.com/images/I/61BwutvyduL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0741C5YMV?tag=hide0122-22",
     page: "product-kate-nail-color-remover-n",
@@ -5981,7 +5981,7 @@ const RANKING_POOL = [
   },
   {
     name: "MERRELL（メレル） Moab 3 Synthetic Gore-Tex ハイキングシューズ メンズ",
-    excerpt: "世界的アウトドアブランドMERRELLの人気モデルMoab 3。ゴアテックス採用で防水性が高く、ビブラムソールによるグリ",
+    excerpt: "MERRELLのハイキングシューズ Moab 3。ゴアテックスとビブラムソールを採用。",
     img: "https://m.media-amazon.com/images/I/61f1BY4hysL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B096LW557F?tag=hide0122-22",
     page: "product-merrell-moab3-gore-tex-mens",
@@ -6030,21 +6030,21 @@ const RANKING_POOL = [
   },
   {
     name: "シマノ(SHIMANO) PEライン ピットブル 4本編み 150m",
-    excerpt: "大手釣具メーカーシマノのコスパの良い4本編みPEライン。エギングやジギングなど幅広いルアー釣りに対応する定番",
+    excerpt: "シマノの4本編みPEライン。エギングやジギングなどのルアー釣り用。",
     img: "https://m.media-amazon.com/images/I/61YhmuTxUrL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B079M54QMK?tag=hide0122-22",
     page: "product-shimano-pitbull-4braid-150m",
   },
   {
     name: "シマノ(SHIMANO) PEライン ハードブル 8+",
-    excerpt: "ピットブルシリーズからのステップアップに人気の高強度8本編みPEライン。号数・長さを選んで釣りスタイルに合わ",
+    excerpt: "シマノの8本編みPEライン。号数・長さを選べる。",
     img: "https://m.media-amazon.com/images/I/61WZNsfQtYL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0CS6DZSWW?tag=hide0122-22",
     page: "product-shimano-hardbull-8plus",
   },
   {
     name: "ヤマトヨテグス(YAMATOYO) フロロショックリーダー",
-    excerpt: "日本製のソフトタイプ・低伸度フロロショックリーダー。しなやかで結束しやすく、コスパの良さで人気のエギング・",
+    excerpt: "日本製のソフトタイプ・低伸度フロロショックリーダー。",
     img: "https://m.media-amazon.com/images/I/71uHL0x40LL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B002NPHMFQ?tag=hide0122-22",
     page: "product-yamatoyo-fluorocarbon-leader",
@@ -6058,7 +6058,7 @@ const RANKING_POOL = [
   },
   {
     name: "Hikari(ヒカリ) ひかりハムハム 270g",
-    excerpt: "甘い香りでコスパも良く、主食用に選ばれて",
+    excerpt: "ハムスター用のフード。270g。",
     img: "https://m.media-amazon.com/images/I/71nh-8c99iL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B07PZ1M8WM?tag=hide0122-22",
     page: "product-hikari-hamuhamu-270g",
@@ -6149,7 +6149,7 @@ const RANKING_POOL = [
   },
   {
     name: "PORTER(ポーター) フレーム ショルダーバッグ 690-17849",
-    excerpt: "財布・スマホ・免許証が入る軽量ミニショルダー。ミリタリーテイストのFRAMEシリーズでお出かけ用に人気",
+    excerpt: "財布・スマホ・免許証が入る軽量ミニショルダー。FRAMEシリーズ。",
     img: "https://m.media-amazon.com/images/I/61zx7A8jbyL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0753VW1GM?tag=hide0122-22",
     page: "product-porter-frame-shoulder-690-17849",
@@ -22714,7 +22714,7 @@ const RANKING_POOL = [
   },
   {
     name: "ScanSnap iX500",
-    excerpt: "自動給紙方式（ADF）による両面同時読み取りに対応。最大50枚の原稿をまとめてセットできるベストセラーモデル。",
+    excerpt: "自動給紙方式（ADF）による両面同時読み取りに対応。最大50枚の原稿をまとめてセットできる。",
     img: "https://m.media-amazon.com/images/I/510foFuYD4L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00T2B5L52?tag=hide0122-22",
     page: "product-scansnap-ix500",
