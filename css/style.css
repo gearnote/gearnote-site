@@ -1624,3 +1624,13 @@ img.cat-product-thumb {
 .pos-block .pos-note { font-size: 0.85rem; color: var(--text-muted); margin-top: 10px; }
 .pos-block .pos-sub { margin-top: 14px; margin-bottom: 4px; font-weight: 600; }
 .pos-block .pos-list { margin: 0 0 4px 20px; line-height: 1.9; }
+
+/* pd-more: 商品ページの「くわしい説明」折りたたみ（tools/reorder_product_page.py）。<details> の標準の開閉だけで動き、JSは使わない */
+.pd-more { margin: 0 0 44px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); }
+.pd-more > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; padding: 16px 20px; font-weight: 700; line-height: 1.6; -webkit-tap-highlight-color: transparent; }
+.pd-more > summary::-webkit-details-marker { display: none; }
+.pd-more > summary::before { content: "＋"; flex-shrink: 0; color: var(--brand-light); font-weight: 800; }
+.pd-more[open] > summary::before { content: "－"; }
+.pd-more[open] > summary { border-bottom: 1px solid var(--border); margin-bottom: 28px; }
+.pd-more > .pd-deep-section { padding: 0 20px; }
+.pd-more > .pd-deep-section:last-child { padding-bottom: 24px; }
