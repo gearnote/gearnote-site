@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 14 Nov 2026 06:12:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 06:15:47 +0000</lastBuildDate>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -26,6 +26,13 @@
     <link>https://gearnote.net/category-daily</link>
     <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
     <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -124,13 +131,6 @@
     <link>https://gearnote.net/brand-ya-man</link>
     <guid isPermaLink="true">https://gearnote.net/brand-ya-man</guid>
     <description>YA-MANの美顔器・脱毛器・ヘアケア家電の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-baby</link>
-    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
-    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
     <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
