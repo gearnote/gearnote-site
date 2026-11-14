@@ -11,8 +11,8 @@
 空気清浄機,https://gearnote.net/data-air-purifier,適用畳数（空気清浄運転・メーカー表記）,その他の性能・機能,畳,27,23,4,85.2,集計対象
 空気清浄機,https://gearnote.net/data-air-purifier,最大風量（空気清浄運転）,その他の性能・機能,m³/分,27,13,14,48.1,集計対象
 空気清浄機,https://gearnote.net/data-air-purifier,消費電力（メーカー表記の最大値）,消費電力,W,27,18,9,66.7,集計対象
-空気清浄機,https://gearnote.net/data-air-purifier,運転音（最大運転時）,運転音・騒音,dB,27,17,10,63.0,集計対象
-空気清浄機,https://gearnote.net/data-air-purifier,質量,質量,kg,27,22,5,81.5,集計対象
+空気清浄機,https://gearnote.net/data-air-purifier,運転音（最大運転時）,運転音・騒音,dB,27,18,9,66.7,集計対象
+空気清浄機,https://gearnote.net/data-air-purifier,質量,質量,kg,27,23,4,85.2,集計対象
 リュック・バックパック,https://gearnote.net/data-backpack,表示容量（メーカーが単一の数字で書いたもの）,容量,L,19,12,7,63.2,集計対象
 リュック・バックパック,https://gearnote.net/data-backpack,重量,質量,g,19,12,7,63.2,集計対象
 リュック・バックパック,https://gearnote.net/data-backpack,幅（製品サイズ）,寸法（幅・奥行・高さ）,cm,19,12,7,63.2,集計対象
