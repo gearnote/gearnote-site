@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 14 Nov 2026 11:20:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 11:37:55 +0000</lastBuildDate>
   <item>
     <title>このサイトについて｜GEARNOTE</title>
     <link>https://gearnote.net/about</link>
@@ -54,6 +54,13 @@
     <link>https://gearnote.net/category-care</link>
     <guid isPermaLink="true">https://gearnote.net/category-care</guid>
     <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -190,6 +197,13 @@
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>日田天領水 2L×10本の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hita-tenryosui-2l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hita-tenryosui-2l</guid>
+    <description>日田天領水 2L×10本の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>パナソニック ラムダッシュPROの特徴・比較｜選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-panasonic-ramdash-pro</link>
     <guid isPermaLink="true">https://gearnote.net/product-panasonic-ramdash-pro</guid>
@@ -260,6 +274,13 @@
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>SK-II フェイシャル トリートメント クリア ローション の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-skii-clear-lotion</link>
+    <guid isPermaLink="true">https://gearnote.net/product-skii-clear-lotion</guid>
+    <description>SK-II フェイシャル トリートメント クリア ローション 160mLの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ソニー VLOGCAM ZV-1F の特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-sony-zv-1f</link>
     <guid isPermaLink="true">https://gearnote.net/product-sony-zv-1f</guid>
@@ -267,10 +288,24 @@
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>岩崎工業 ラストロウェア 冷水筒の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iwasaki-lustroware-cold-water-jug</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iwasaki-lustroware-cold-water-jug</guid>
+    <description>岩崎工業 ラストロウェア 冷水筒 2.1L シームレスピッチャーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ティファール 電気ケトル ジャスティン ロックの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-tefal-justin-lock-kettle-12l</link>
     <guid isPermaLink="true">https://gearnote.net/product-tefal-justin-lock-kettle-12l</guid>
     <description>ティファール 電気ケトル ジャスティン ロック 1.2L ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ペティオ 素材そのまま さつまいもの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-petio-sweetpotato-soft-treat-260g</link>
+    <guid isPermaLink="true">https://gearnote.net/product-petio-sweetpotato-soft-treat-260g</guid>
+    <description>ペティオ 素材そのまま さつまいも やわらか角切りタイプ 260gの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/category-kitchen</link>
     <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
     <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
-    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot ロボット掃除機 S20 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-robot-vacuum-s20</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-robot-vacuum-s20</guid>
-    <description>SwitchBot ロボット掃除機 S20 走行中のモップ洗浄の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>プラレール S-07 ドクターイエローの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-plarail-s07-doctor-yellow</link>
-    <guid isPermaLink="true">https://gearnote.net/product-plarail-s07-doctor-yellow</guid>
-    <description>タカラトミー プラレール S-07 ライト付923形 ドクターイエローT4編成の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>システマ EX メディカルクール 3個+フロス付き の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-systema-ex-medical-cool-toothpaste-3-floss</link>
-    <guid isPermaLink="true">https://gearnote.net/product-systema-ex-medical-cool-toothpaste-3-floss</guid>
-    <description>システマ EX ハミガキ メディカルクール 130g×3個＋フロス付きの特徴を整理。メリット・デメリット、向き不向きをまとめました。</description>
-    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>TORRAS Ostand Q3 iPhone 17 Pro Max ケース の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-torras-ostand-q3-iphone17promax</link>
-    <guid isPermaLink="true">https://gearnote.net/product-torras-ostand-q3-iphone17promax</guid>
-    <description>TORRAS Ostand Q3 レザートーン MagSafe対応ケース（iPhone 17 Pro Max用）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi ロボット掃除機 S40C の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-robot-vacuum-s40c</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-robot-vacuum-s40c</guid>
-    <description>Xiaomi シャオミ ロボット掃除機 S40C 5,000Pa強力吸引の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

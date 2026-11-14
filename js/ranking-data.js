@@ -8641,7 +8641,7 @@ const RANKING_POOL = [
   },
   {
     name: "カゴメ アーモンド・ブリーズ プロテイン 200ml×24本",
-    excerpt: "200mlあたりたんぱく質6.6g、糖質4.4g、73kcal。大豆たん白とアーモンドを使った、牛乳を使わないプロテイン飲料。",
+    excerpt: "200mlあたりたんぱく質6.1~7.2g、糖質4.4g、73kcal。大豆たん白とアーモンドを使った、牛乳を使わないプロテイン飲料。",
     img: "https://m.media-amazon.com/images/I/71muJac5lUL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0GRV2JMW2?tag=hide0122-22",
     page: "product-kagome-almond-breeze-protein-200ml-24",
