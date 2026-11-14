@@ -1634,3 +1634,34 @@ img.cat-product-thumb {
 .pd-more[open] > summary { border-bottom: 1px solid var(--border); margin-bottom: 28px; }
 .pd-more > .pd-deep-section { padding: 0 20px; }
 .pd-more > .pd-deep-section:last-child { padding-bottom: 24px; }
+
+/* ---------- Home: count badges / data cards / genre entry (2026-11-15) ---------- */
+.hero-stats { margin-top: 36px; padding-top: 24px; }
+.hero:has(.hero-stats) { padding: 44px 0 44px; }
+#only-here { padding-top: 28px; }
+.hero-stats a.hero-badge { text-decoration: none; }
+.hero-stats a.hero-badge:hover { color: #fff; }
+.hero-stats .hero-badge .num { font-size: 1.15rem; }
+.home-stat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
+.home-stat-card { display: flex; flex-direction: column; gap: 4px; padding: 16px 18px; background: var(--surface); border: 1px solid var(--border); border-radius: 14px; color: var(--text); text-decoration: none; transition: transform 0.2s, border-color 0.2s; }
+.home-stat-card:hover { transform: translateY(-2px); border-color: var(--brand-light); }
+.home-stat-title { font-weight: 700; font-size: 1rem; }
+.home-stat-num { font-family: "Shippori Mincho", serif; font-weight: 600; font-size: 1.05rem; color: var(--brand-light); }
+.home-stat-text { font-size: 0.85rem; line-height: 1.7; color: var(--text-muted); }
+.home-genre-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; margin-bottom: 20px; }
+.home-genre-card { display: flex; flex-direction: column; gap: 8px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--border); border-radius: 14px; }
+.home-genre-name { font-weight: 700; font-size: 0.95rem; }
+.home-genre-links { display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem; }
+.home-genre-links a { color: var(--brand-light); text-decoration: underline; text-underline-offset: 3px; }
+@media (max-width: 640px) {
+  .hero { padding: 36px 0 28px; }
+  .hero-stats { margin-top: 20px; padding-top: 16px; gap: 8px; }
+  .hero-stats .hero-badge { width: 100%; justify-content: center; }
+  .home-genre-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .home-genre-card { padding: 12px; }
+  .home-genre-name { font-size: 0.88rem; }
+  .home-genre-links { font-size: 0.8rem; }
+  #only-here { padding-top: 24px; }
+  #only-here .section-head { margin-bottom: 18px; }
+  #only-here .section-head p.desc { display: none; }
+}

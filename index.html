@@ -31,7 +31,7 @@
 <meta name="twitter:description" content="ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。">
 <meta name="twitter:image" content="https://gearnote.net/og-image.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/style.css">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "GEARNOTE", "url": "https://gearnote.net/", "description": "ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。"}</script>
 </head>
@@ -62,13 +62,37 @@
     <span class="eyebrow">PRODUCT COMPARISON MEDIA</span>
     <h1>買う前に比べたい<br>スペックと選び方でわかる<br><span>商品比較メディア</span></h1>
     <p>ガジェットから生活家電、美容、食品、日用品まで——あなたの製品選びを後押しします。</p>
-    <div class="hero-badges">
-      <div class="hero-badge"><span class="num">掲載</span>運営が選んで登録した商品を紹介</div>
+    <!-- home-badges:start -->
+    <div class="hero-badges hero-stats">
+      <a class="hero-badge" href="about#method"><span class="num">3,431件</span>メーカー公開情報と照合した商品ページ</a>
       <div class="hero-badge-sep"></div>
-      <div class="hero-badge"><span class="num">正直</span>メリットも気になる点も掲載</div>
+      <a class="hero-badge" href="data"><span class="num">63ジャンル</span>の仕様データ一覧（CSVつき）</a>
       <div class="hero-badge-sep"></div>
-      <div class="hero-badge"><span class="num">公開</span>仕様の数字はCSVで公開</div>
+      <a class="hero-badge" href="corrections-log"><span class="num">232件</span>の訂正・確認ログ</a>
     </div>
+    <!-- home-badges:end -->
+  </div>
+</section>
+
+<section class="section section-tight" id="only-here">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h2>GEARNOTEの独自集計</h2>
+        <p class="desc">GEARNOTEが商品ページの仕様をもとに集計・照合してまとめた、データと記録です。</p>
+      </div>
+    </div>
+    <!-- home-only:start -->
+    <div class="home-stat-grid">
+      <a class="home-stat-card" href="data"><span class="home-stat-title">データ一覧</span><span class="home-stat-num">63ジャンル</span><span class="home-stat-text">掲載商品の仕様の数字を、ジャンルごとに1枚の表にまとめたデータ集です。集計方法とCSVがあります。</span></a>
+      <a class="home-stat-card" href="tools"><span class="home-stat-title">計算ツール</span><span class="home-stat-text">データ一覧の数字を使って、置ける幅や部屋の広さなど、自分の条件で確かめられるツールの入口です。</span></a>
+      <a class="home-stat-card" href="corrections-log"><span class="home-stat-title">訂正・確認ログ</span><span class="home-stat-num">232件</span><span class="home-stat-text">商品ページの記載をメーカーの公式ページと照合し直して、食い違いを直した内容を確認日つきで記録しています。</span></a>
+      <a class="home-stat-card" href="spec-generation-log"><span class="home-stat-title">世代差ログ</span><span class="home-stat-text">同じシリーズで型番や世代が進んだ商品について、仕様の数字が変わった点・同じだった点を並べています。</span></a>
+      <a class="home-stat-card" href="spec-condition-ledger"><span class="home-stat-title">条件の台帳</span><span class="home-stat-text">質量や消費電力などの数字が、商品ごとにどんな条件で書かれているかを集めて並べています。</span></a>
+      <a class="home-stat-card" href="data-spec-disclosure"><span class="home-stat-title">仕様の記載状況レポート</span><span class="home-stat-text">条件をそろえた数字が仕様表に見つかる割合を、項目の種類別・ジャンル別に集計しています。</span></a>
+    </div>
+    <!-- home-only:end -->
   </div>
 </section>
 
@@ -104,37 +128,34 @@
   <div class="wrap">
     <div class="section-head">
       <div>
-        <span class="tag">Pick Up</span>
-        <h2>GEARNOTE運営が選ぶ 今週の注目3選</h2>
-        <p class="desc">GEARNOTE運営が気になった商品の中から、週替わりで3点をピックアップしてご紹介しています。ジャンルの異なる商品を並べているため、優劣を比較するランキングではなく「今週気になる3点」としてご覧ください。</p>
+        <span class="tag">Genre</span>
+        <h2>ジャンル別の入口</h2>
+        <p class="desc">ジャンルごとに、選び方ガイドと、仕様の数字をまとめたデータ一覧に進めます。</p>
       </div>
     </div>
-
-    <div class="ranking-list" id="ranking-list">
-      <div class="rank-card" data-reveal>
-        <div class="rank-num">1</div>
-        <div class="thumb"><a href="product-hills-science-diet-dog-adult-12kg"><img src="https://m.media-amazon.com/images/I/71gxg8nQaaL._AC_SX300_.jpg" alt="ヒルズ サイエンスダイエット ドッグフード" width="300" height="300" loading="lazy"></a></div>
-        <div class="rank-body"><h3><a href="product-hills-science-diet-dog-adult-12kg">ヒルズ サイエンスダイエット ドッグフード</a></h3><p>小粒で食べやすい成犬用ドライフード。</p></div>
-        <a href="product-hills-science-diet-dog-adult-12kg" class="btn btn-amazon btn-sm">くわしく見る</a>
-      </div>
-      <div class="rank-card" data-reveal>
-        <div class="rank-num">2</div>
-        <div class="thumb"><a href="product-unitedathle-56oz-hq-tshirt"><img src="https://m.media-amazon.com/images/I/51JX9J3xZJL._AC_SX300_.jpg" alt="ユナイテッドアスレ 5.6OZ Tシャツ" width="300" height="300" loading="lazy"></a></div>
-        <div class="rank-body"><h3><a href="product-unitedathle-56oz-hq-tshirt">ユナイテッドアスレ 5.6OZ Tシャツ</a></h3><p>4.1OZより厚手の5.6OZ生地を使った定番Tシャツ。</p></div>
-        <a href="product-unitedathle-56oz-hq-tshirt" class="btn btn-amazon btn-sm">くわしく見る</a>
-      </div>
-      <div class="rank-card" data-reveal>
-        <div class="rank-num">3</div>
-        <div class="thumb"><a href="product-lepro-headlamp-300lm-usbc"><img src="https://m.media-amazon.com/images/I/61Tti6PJ9eL._AC_SX300_.jpg" alt="Lepro ヘッドライト 充電式" width="300" height="300" loading="lazy"></a></div>
-        <div class="rank-body"><h3><a href="product-lepro-headlamp-300lm-usbc">Lepro ヘッドライト 充電式</a></h3><p>スポット・ワイドビーム切替と赤色サブライトを搭載した小型軽量ヘッドライト。</p></div>
-        <a href="product-lepro-headlamp-300lm-usbc" class="btn btn-amazon btn-sm">くわしく見る</a>
-      </div>
+    <!-- home-genres:start -->
+    <div class="home-genre-grid">
+      <div class="home-genre-card"><span class="home-genre-name">暖房器具</span><span class="home-genre-links"><a href="guide-heater">選び方ガイド</a><a href="data-heater">仕様データ（51台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">加湿器</span><span class="home-genre-links"><a href="guide-humidifier">選び方ガイド</a><a href="data-humidifier">仕様データ（30台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">空気清浄機</span><span class="home-genre-links"><a href="guide-air-purifier">選び方ガイド</a><a href="data-air-purifier">仕様データ（27台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">除湿機</span><span class="home-genre-links"><a href="guide-dehumidifier">選び方ガイド</a><a href="data-dehumidifier">仕様データ（12台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">ロボット掃除機</span><span class="home-genre-links"><a href="guide-robot-vacuum">選び方ガイド</a><a href="data-robot-vacuum">仕様データ（23台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">炊飯器</span><span class="home-genre-links"><a href="guide-rice-cooker">選び方ガイド</a><a href="data-rice-cooker">仕様データ（18台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">モバイルバッテリー</span><span class="home-genre-links"><a href="guide-power-bank">選び方ガイド</a><a href="data-power-bank">仕様データ（27台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">USB充電器</span><span class="home-genre-links"><a href="guide-usb-charger">選び方ガイド</a><a href="data-usb-charger">仕様データ（28個）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">Wi-Fiルーター</span><span class="home-genre-links"><a href="guide-wifi-router">選び方ガイド</a><a href="data-wifi-router">仕様データ（18台）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">ワイヤレスイヤホン</span><span class="home-genre-links"><a href="guide-earbuds">選び方ガイド</a><a href="data-earbuds">仕様データ（64機種）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">ヘッドホン</span><span class="home-genre-links"><a href="guide-headphone">選び方ガイド</a><a href="data-headphone">仕様データ（44点）</a></span></div>
+      <div class="home-genre-card"><span class="home-genre-name">タブレット</span><span class="home-genre-links"><a href="guide-tablet">選び方ガイド</a><a href="data-tablet">仕様データ（16台）</a></span></div>
     </div>
+    <!-- home-genres:end -->
+    <a href="guides" class="see-all-link">選び方ガイド一覧を見る →</a>
   </div>
 </section>
 
 <div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
 
+<span id="picks"></span>
 <section class="section section-tight" id="new-arrivals" data-reveal-group>
   <div class="wrap">
     <div class="section-head">
@@ -176,70 +197,6 @@
       <div class="product-card" data-reveal>
         <div class="product-thumb"><a href="product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go"><img src="https://m.media-amazon.com/images/I/51YajnMakoL._AC_SX300_.jpg" alt="象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白）" loading="lazy"></a></div>
         <div class="product-body"><h3><a href="product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go">象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白）</a></h3><p class="excerpt">象印マホービンの圧力IH炊飯器「炎舞炊き」の4合炊き、NW-UU07-WZ（白）です。</p><div class="product-meta cta-only"><a href="product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<div class="ornament-divider"><span></span><i>&#10022;</i><span></span></div>
-
-<section class="section section-tight" id="picks" data-reveal-group>
-  <div class="wrap">
-    <div class="section-head">
-      <div>
-        <span class="tag">Pick Up</span>
-        <h2>おすすめ商品</h2>
-        <p class="desc">上記の3選以外にも、GEARNOTE運営が気になっているアイテムをピックアップしています。</p>
-      </div>
-    </div>
-    <div class="product-grid" id="picks-list">
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-brita-water-filter-pot-cartridge-3"><img src="https://m.media-amazon.com/images/I/51V0+b1BpOL._AC_SX300_.jpg" alt="ブリタ 浄水器 ポット型 カートリッジ3個付" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-brita-water-filter-pot-cartridge-3">ブリタ 浄水器 ポット型 カートリッジ3個付</a></h3><p class="excerpt">PFOS/PFOA除去試験済みのカートリッジでまろやかな味わいの水に。スリムで冷蔵庫にも収まりやすい。</p><div class="product-meta cta-only"><a href="product-brita-water-filter-pot-cartridge-3" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-bousai-no-mikata-emergency-backpack-45"><img src="https://m.media-amazon.com/images/I/81QIJyAZyQL._AC_SX300_.jpg" alt="防災のミカタ 防災グッズセット 45点" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-bousai-no-mikata-emergency-backpack-45">防災のミカタ 防災グッズセット 45点</a></h3><p class="excerpt">簡易トイレや保存食・保存水など、災害時に必要なものを45点まとめたリュック型防災セット。すぐ持ち出せる形。</p><div class="product-meta cta-only"><a href="product-bousai-no-mikata-emergency-backpack-45" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-oxiclean-ex-3270"><img src="https://m.media-amazon.com/images/I/71o+IzDBZbL._AC_SX300_.jpg" alt="オキシクリーン EX 3270g" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-oxiclean-ex-3270">オキシクリーン EX 3270g</a></h3><p class="excerpt">つけ置き洗いに使う酸素系漂白剤。洗濯のほか掃除にも使える3270gの大容量。</p><div class="product-meta cta-only"><a href="product-oxiclean-ex-3270" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-homspark-triangle-corner-drain-net-holder"><img src="https://m.media-amazon.com/images/I/71mfhmImbhL._AC_SX300_.jpg" alt="Homspark 三角コーナー いらず 吸盤ホルダー" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-homspark-triangle-corner-drain-net-holder">Homspark 三角コーナー いらず 吸盤ホルダー</a></h3><p class="excerpt">強力吸盤でシンクの角にしっかり固定できる三角コーナー。直置きしないのでサビや汚れがつきにくく、水切れも良い。</p><div class="product-meta cta-only"><a href="product-homspark-triangle-corner-drain-net-holder" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-scrubbing-bubbles-flushable-toilet-brush-16"><img src="https://m.media-amazon.com/images/I/71AQanXj3mL._AC_SX300_.jpg" alt="スクラビングバブル 流せるトイレブラシ" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-scrubbing-bubbles-flushable-toilet-brush-16">スクラビングバブル 流せるトイレブラシ</a></h3><p class="excerpt">使い終わったブラシ部分をそのままトイレに流せる使い捨てタイプ。ブラシには洗剤が付いている。</p><div class="product-meta cta-only"><a href="product-scrubbing-bubbles-flushable-toilet-brush-16" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-quickle-wiper-wet-sheet-strong-48"><img src="https://m.media-amazon.com/images/I/81luosLOauL._AC_SX300_.jpg" alt="クイックルワイパー 立体吸着ウエットシート 48枚" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-quickle-wiper-wet-sheet-strong-48">クイックルワイパー 立体吸着ウエットシート 48枚</a></h3><p class="excerpt">クイックルワイパー用のウエットシート（ストロング）。48枚入りのジャンボパック。</p><div class="product-meta cta-only"><a href="product-quickle-wiper-wet-sheet-strong-48" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-soflan-aroma-rich-juliet-2000"><img src="https://m.media-amazon.com/images/I/61OrBrRMAJL._AC_SX300_.jpg" alt="ソフランアロマリッチ 柔軟剤 2000ml" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-soflan-aroma-rich-juliet-2000">ソフランアロマリッチ 柔軟剤 2000ml</a></h3><p class="excerpt">液体柔軟剤のメガジャンボサイズ（2000ml）。</p><div class="product-meta cta-only"><a href="product-soflan-aroma-rich-juliet-2000" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-pipe-unish-pro-cleaner-3"><img src="https://m.media-amazon.com/images/I/71ZxHBWfH9L._AC_SX300_.jpg" alt="パイプユニッシュ プロ パイプクリーナー 3本セット" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-pipe-unish-pro-cleaner-3">パイプユニッシュ プロ パイプクリーナー 3本セット</a></h3><p class="excerpt">排水管用の濃縮ゲルタイプのパイプクリーナー。3本セット。</p><div class="product-meta cta-only"><a href="product-pipe-unish-pro-cleaner-3" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-iroka-flair-fragrance-softener-1200"><img src="https://m.media-amazon.com/images/I/71GvgDXbTWL._AC_SX300_.jpg" alt="IROKA フレアフレグランス 柔軟剤 1200ml" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-iroka-flair-fragrance-softener-1200">IROKA フレアフレグランス 柔軟剤 1200ml</a></h3><p class="excerpt">液体柔軟剤。1200ml。</p><div class="product-meta cta-only"><a href="product-iroka-flair-fragrance-softener-1200" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-kiseki-toothbrush-3"><img src="https://m.media-amazon.com/images/I/51R44Jzh9aL._AC_SX300_.jpg" alt="奇跡の歯ブラシ 3本セット" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-kiseki-toothbrush-3">奇跡の歯ブラシ 3本セット</a></h3><p class="excerpt">薄型ヘッドの大人用歯ブラシ。3本セット。</p><div class="product-meta cta-only"><a href="product-kiseki-toothbrush-3" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-lenor-aroma-jewel-hotel-420"><img src="https://m.media-amazon.com/images/I/71QSlAd-9rL._AC_SX300_.jpg" alt="レノア アロマジュエル HOTEL 香り付けビーズ" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-lenor-aroma-jewel-hotel-420">レノア アロマジュエル HOTEL 香り付けビーズ</a></h3><p class="excerpt">洗濯物に上品な香りをプラスするビーズ。</p><div class="product-meta cta-only"><a href="product-lenor-aroma-jewel-hotel-420" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
-      </div>
-      <div class="product-card" data-reveal>
-        <div class="product-thumb"><a href="product-sansan-sponge-4set"><img src="https://m.media-amazon.com/images/I/71Pxx6Uk0VL._AC_SX300_.jpg" alt="サンサンスポンジ 4個セット" loading="lazy"></a></div>
-        <div class="product-body"><h3><a href="product-sansan-sponge-4set">サンサンスポンジ 4個セット</a></h3><p class="excerpt">食器洗い・浴室・レンジ周りが用途とされるスポンジ。</p><div class="product-meta cta-only"><a href="product-sansan-sponge-4set" class="btn btn-amazon btn-sm">くわしく見る</a></div></div>
       </div>
     </div>
   </div>
@@ -354,12 +311,12 @@
         <div class="footer-logo">GEARNOTE</div>
         <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
         <div class="blogmura-banners">
-          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
-          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
-          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
-          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
-          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
-          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
         </div>
       </div>
       <div>
@@ -392,7 +349,6 @@
   </div>
 </footer>
 
-<script src="js/ranking-data.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>
