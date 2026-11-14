@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 14 Nov 2026 16:05:18 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 16:11:40 +0000</lastBuildDate>
+  <item>
+    <title>このサイトについて｜GEARNOTE</title>
+    <link>https://gearnote.net/about</link>
+    <guid isPermaLink="true">https://gearnote.net/about</guid>
+    <description>GEARNOTEのサイト概要、運営情報、アフィリエイト表記、プライバシーポリシーについて。</description>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>コイズミの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-koizumi</link>
@@ -50,6 +57,13 @@
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>生活家電の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
@@ -68,6 +82,13 @@
     <link>https://gearnote.net/category-toys</link>
     <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
     <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ゲームの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-games</link>
+    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
+    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/product-delonghi-kg200jn</link>
     <guid isPermaLink="true">https://gearnote.net/product-delonghi-kg200jn</guid>
     <description>デロンギ コーヒーグラインダー KG200JN カッター式の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ マグニフィカSの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-magnifica-s</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-s</guid>
-    <description>デロンギ 全自動コーヒーマシン マグニフィカSの特徴を整理。メリット・デメリット、スティローザ・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ マグニフィカスタート ECAM22062B の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-magnifica-start-ecam22062b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-start-ecam22062b</guid>
-    <description>デロンギ 全自動コーヒーマシン マグニフィカスタート ECAM22062Bの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ マグニフィカスタート ECAM22022GB の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-magnifica-start</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-start</guid>
-    <description>デロンギ 全自動コーヒーマシン マグニフィカスタート ECAM22022GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
