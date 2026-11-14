@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GB・TBの容量表記と、パソコンで容量が小さく表示される理由（256GB→238GB）｜換算表つき｜GEARNOTE</title>
+<meta name="description" content="256GBが約238GBと表示されるのはなぜか。メーカーの1GB=10億バイトと、Windowsの1,073,741,824バイトの違いを、KIOXIA・I-O DATA・Apple・SDアソシエーションの資料で確認しました。掲載のストレージ・microSDの容量の換算表つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="GB・TBの容量表記と、パソコンで容量が小さく表示される理由（256GB→238GB）｜換算表つき｜GEARNOTE">
+<meta property="og:description" content="256GBが約238GBと表示されるのはなぜか。メーカーの1GB=10億バイトと、Windowsの1,073,741,824バイトの違いを、KIOXIA・I-O DATA・Apple・SDアソシエーションの資料で確認しました。掲載のストレージ・microSDの容量の換算表つきです。">
+<meta property="og:url" content="https://gearnote.net/words-capacity">
+<link rel="canonical" href="https://gearnote.net/words-capacity">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GB・TBの容量表記と、パソコンで容量が小さく表示される理由（256GB→238GB）｜換算表つき｜GEARNOTE">
+<meta name="twitter:description" content="256GBが約238GBと表示されるのはなぜか。メーカーの1GB=10億バイトと、Windowsの1,073,741,824バイトの違いを、KIOXIA・I-O DATA・Apple・SDアソシエーションの資料で確認しました。掲載のストレージ・microSDの容量の換算表つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"GB・TBの容量表記と、パソコンに表示される容量が小さい理由"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"256GBのmicroSDが、パソコンで238GBと表示されるのはなぜですか？","acceptedAnswer":{"@type":"Answer","text":"メーカーは1GBを10億バイトで数え、Windowsなどは1GBを1,073,741,824バイトで数えるためです。表示は計算方法の違いによるもので、容量が不足しているわけではありません（KIOXIAのFAQ）。256×10億÷1,073,741,824＝約238です。"}},{"@type":"Question","name":"2TBが1.81TBと表示されるのは、不良ですか？","acceptedAnswer":{"@type":"Answer","text":"不良ではありません。I-O DATAのFAQでは、2TBが約1.81TBと表示される例を挙げ、容量が減ったわけではなく、数え方の違いと説明しています。"}},{"@type":"Question","name":"MacとWindowsで、容量の表示が違いますか？","acceptedAnswer":{"@type":"Answer","text":"SDアソシエーションのFAQでは、Windowsは1024を基数に、Macは1000を基数に計算する、と説明しています。現在の各OSの表示については、確認できていません。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ GB・TBの容量表記と、パソコンに表示される容量が小さい理由</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">GB・TBの容量表記と、パソコンで容量が小さく表示される理由</h1>
+        <p class="desc">容量が減ったわけではなく、数え方が違うだけです。メーカーとOSの違いを、公式の資料で確かめて、掲載商品の容量を換算して並べました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>数え方の違い：1GBは、10億バイトか、1,073,741,824バイトか</h2>
+        <p>KIOXIAのFAQでは、製品仕様の容量は、1GB＝1,000,000,000（10の9乗）バイトで計算し、Windowsなどのオペレーティングシステムは、1GBを1,073,741,824バイトで計算するため、同じ容量でも小さく表示される、と説明しています。表示は、計算方法の違いによるもので、容量が不足しているわけではありません（<a href="https://www.kioxia.com/ja-jp/personal/support/faq/ssd.html" target="_blank" rel="noopener">KIOXIAのFAQ</a>）。</p>
+        <p>I-O DATAのFAQでは、換算の目安として、表記容量×0.931（GB）、×0.909（TB）を挙げています。たとえば、2TBが約1.81TBと表示されます（<a href="https://www.iodata.jp/support/qanda/answer/s31617.htm" target="_blank" rel="noopener">I-O DATAのFAQ</a>）。Appleのサポートでも、メーカーは10進（1GB＝10億バイト、1TB＝1兆バイト）を使い、2進の値は、1GB＝1,073,741,824バイト、1TB＝1,099,511,627,776バイトと説明しています。フォーマットしたあとの実際に使える容量は、さらに少なくなります（<a href="https://support.apple.com/en-us/102119" target="_blank" rel="noopener">Apple</a>）。</p>
+        <p>SDアソシエーションのSD Card FormatterのFAQは、Windowsは1024を基数に、Macは1000を基数に容量を計算する、と説明しています（<a href="https://www.sdcard.org/downloads/formatter/faq/" target="_blank" rel="noopener">SDアソシエーション</a>）。2進の接頭辞（kibi・mebi・gibiなど）は、1998年12月に、IEC（国際電気標準会議）が標準化したもので、10進のSIの接頭辞（kilo・mega・giga）と混同しないための名前です（<a href="https://physics.nist.gov/cuu/Units/binary.html" target="_blank" rel="noopener">NIST</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>換算の式</h2>
+        <ul><li>表示される容量（GiB）＝ 表記の容量（GB）× 1,000,000,000 ÷ 1,073,741,824（約0.931）</li><li>TBの場合：表記の容量（TB）× 1,000,000,000,000 ÷ 1,099,511,627,776（約0.909）</li><li>OSによっては、表示は「GB」と書かれていても、数え方は2進（1,073,741,824バイト）のものがあります。</li></ul>
+        <p>この計算は、GEARNOTE運営の計算です。上の式の0.931と0.909は、I-O DATAのFAQの目安と、一致しています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>掲載している商品の容量を、換算した表</h2>
+        <p>GEARNOTEのデータ一覧に載せている、外付けストレージとmicroSDの容量（製品の表記）を、2進で数えたときの容量（GiB）に換算しました（GEARNOTE運営の計算）。実際に使える容量は、フォーマットでさらに少なくなります。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>表記の容量</th><th>2進で数えた容量（GiB）</th></tr></thead>
+            <tbody>
+            <tr><th>32 GB</th><td>29.8 GiB</td></tr>
+            <tr><th>64 GB</th><td>59.6 GiB</td></tr>
+            <tr><th>128 GB</th><td>119.2 GiB</td></tr>
+            <tr><th>256 GB</th><td>238.4 GiB</td></tr>
+            <tr><th>480 GB</th><td>447.0 GiB</td></tr>
+            <tr><th>500 GB</th><td>465.7 GiB</td></tr>
+            <tr><th>1 TB（1000 GB）</th><td>931.3 GiB</td></tr>
+            <tr><th>2 TB（2000 GB）</th><td>1862.6 GiB</td></tr>
+            <tr><th>4 TB（4000 GB）</th><td>3725.3 GiB</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>元のデータは、<a href="data-external-storage">外付けストレージの仕様一覧</a>と<a href="data-microsd">microSDの仕様一覧</a>にあります。この表は、GEARNOTEに載せている商品の容量の種類のもので、市場の全容量ではありません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的な資料・規格団体の資料にもとづきます（リンク先は、各項目に付けています）。規格や制度は、改正されることがあります。</p>
+        <ul><li>現在のmacOS・iOSが、10進で表示しているかどうかは、確認できていません（Appleのページは、旧版が2進だったと書くのみです）。</li><li>SanDiskとバッファローのFAQは、開けなかったため、書いていません。</li><li>日本の業界団体（JEITAなど）の、容量表記のガイドラインは、確認できていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「GB・TBの容量表記と、パソコンに表示される容量が小さい理由」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-capacity</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-capacity"&gt;GEARNOTE「GB・TBの容量表記と、パソコンに表示される容量が小さい理由」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>256GBのmicroSDが、パソコンで238GBと表示されるのはなぜですか？</h3>
+            <p>メーカーは1GBを10億バイトで数え、Windowsなどは1GBを1,073,741,824バイトで数えるためです。表示は計算方法の違いによるもので、容量が不足しているわけではありません（KIOXIAのFAQ）。256×10億÷1,073,741,824＝約238です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>2TBが1.81TBと表示されるのは、不良ですか？</h3>
+            <p>不良ではありません。I-O DATAのFAQでは、2TBが約1.81TBと表示される例を挙げ、容量が減ったわけではなく、数え方の違いと説明しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>MacとWindowsで、容量の表示が違いますか？</h3>
+            <p>SDアソシエーションのFAQでは、Windowsは1024を基数に、Macは1000を基数に計算する、と説明しています。現在の各OSの表示については、確認できていません。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>関連ページ</h2>
+        <ul><li><a href="data-external-storage">外付けストレージの仕様一覧</a></li><li><a href="data-microsd">microSDの仕様一覧</a></li><li><a href="words-microsd">microSDの表記の読み方</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

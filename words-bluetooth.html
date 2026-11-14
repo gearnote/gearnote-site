@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bluetoothのバージョンの違いと、コーデック（SBC・AAC・LDAC・LC3）の読み方｜掲載商品の表記の集計つき｜GEARNOTE</title>
+<meta name="description" content="Bluetooth 5.0・5.2・5.3・5.4・6.0の主な変更と、LE Audio・LC3・Auracast、SBC・AAC・LDACの位置づけを、Bluetooth SIGやAppleとSonyの公式資料で確認してまとめました。掲載商品のバージョン・コーデックの表記の集計つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="Bluetoothのバージョンの違いと、コーデック（SBC・AAC・LDAC・LC3）の読み方｜掲載商品の表記の集計つき｜GEARNOTE">
+<meta property="og:description" content="Bluetooth 5.0・5.2・5.3・5.4・6.0の主な変更と、LE Audio・LC3・Auracast、SBC・AAC・LDACの位置づけを、Bluetooth SIGやAppleとSonyの公式資料で確認してまとめました。掲載商品のバージョン・コーデックの表記の集計つきです。">
+<meta property="og:url" content="https://gearnote.net/words-bluetooth">
+<link rel="canonical" href="https://gearnote.net/words-bluetooth">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bluetoothのバージョンの違いと、コーデック（SBC・AAC・LDAC・LC3）の読み方｜掲載商品の表記の集計つき｜GEARNOTE">
+<meta name="twitter:description" content="Bluetooth 5.0・5.2・5.3・5.4・6.0の主な変更と、LE Audio・LC3・Auracast、SBC・AAC・LDACの位置づけを、Bluetooth SIGやAppleとSonyの公式資料で確認してまとめました。掲載商品のバージョン・コーデックの表記の集計つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"Bluetoothのバージョンとコーデック（LE Audio・LC3・LDAC・AAC）の読み方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Bluetooth 5.3と5.4は、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"SIGの資料では、5.3は接続のサブレーティングなど、5.4はPeriodic Advertising with Responses（1対多の双方向・省電力の通信）などが、主な追加です。ただし、SIGは、パッケージなどにバージョンを書かず、対応する機能名を書くよう助言しています。"}},{"@type":"Question","name":"Bluetooth 5.2なら、Auracastに対応していますか？","acceptedAnswer":{"@type":"Answer","text":"決まりません。Auracastには、Core 5.2で導入された特定の機能に加えて、Public Broadcast Profileへの対応が必要で、実際の対応は、機器の能力とメーカーの方針によります（SIGのAuracast FAQ）。"}},{"@type":"Question","name":"SBCとAACとLDACは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"SBCはA2DPで必須のコーデックで、AACは任意、LDACはSonyのコーデックで、最大990kbpsです。音の違いや遅延の比較は、公的な資料がなく、このページでは書いていません。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ Bluetoothのバージョンとコーデック（LE Audio・LC3・LDAC・AAC）の読み方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">Bluetoothのバージョンとコーデックの読み方｜5.0・5.3・6.0の違いと、LE Audio・LC3</h1>
+        <p class="desc">Bluetoothの「バージョン」だけでは、使える機能は決まりません。SIGの公式資料で確かめた事実と、掲載商品の表記を並べました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>バージョンごとの主な変更（Bluetooth SIGの資料）</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>Core仕様</th><th>主な変更</th><th>資料</th></tr></thead>
+            <tbody>
+            <tr><th>5.0</th><td>LE 2M PHY（シンボルレートがLE 1Mの2倍）、LE Coded PHY（前方誤り訂正で範囲を広げる。S=2で約2倍、S=8で約4倍。その代わり、データレートは下がる）</td><td>SIGの5.0資料（PDF）</td></tr>
+            <tr><th>5.2</th><td>Enhanced Attribute Protocol、LE Power Control、Isochronous Channels。Isochronous Channelsは、主にLE Audio（次世代のオーディオ）のために設計されました</td><td>SIGの5.2資料（PDF）</td></tr>
+            <tr><th>5.3</th><td>接続のサブレーティング（LE Enhanced Connection Update）、LE Channel Classification、暗号鍵の長さの制御の強化など</td><td>SIGの5.3資料（PDF）</td></tr>
+            <tr><th>5.4</th><td>Periodic Advertising with Responses（1対多の、双方向・省電力の通信。電子棚札にも関連づけて説明）、Encrypted Advertising Dataなど</td><td>SIGの5.4資料（PDF）</td></tr>
+            <tr><th>6.0（2024年9月）</th><td>Channel Sounding（機器どうしの、安全な精密測距）、アドバタイズのフィルタ、Frame Space Updateなど</td><td>SIGのブログ</td></tr>
+            <tr><th>6.1（2025年5月6日）</th><td>Randomized RPA Updates。年2回リリースする体制の最初のリリース</td><td>SIGのブログ</td></tr>
+            <tr><th>6.2（2025年11月4日）</th><td>最小のLE接続間隔を7.5msから375µsに短縮するShorter Connection Intervalsなど</td><td>SIGのブログ</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>出典：<a href="https://www.bluetooth.com/wp-content/uploads/2019/03/Bluetooth_5-FINAL.pdf" target="_blank" rel="noopener">5.0</a>、<a href="https://www.bluetooth.com/wp-content/uploads/2020/01/Bluetooth_5.2_Feature_Overview.pdf" target="_blank" rel="noopener">5.2</a>、<a href="https://www.bluetooth.com/wp-content/uploads/2021/01/Bluetooth_5.3_Feature_Enhancements_Update.pdf" target="_blank" rel="noopener">5.3</a>、<a href="https://www.bluetooth.com/wp-content/uploads/2023/02/2301_5.4_Tech_Overview_FINAL.pdf" target="_blank" rel="noopener">5.4</a>、<a href="https://www.bluetooth.com/blog/now-available-new-version-of-the-bluetooth-core-specification/" target="_blank" rel="noopener">6.0</a>、<a href="https://www.bluetooth.com/blog/delivering-on-the-bi-annual-release-schedule-bluetooth-core-6-1-is-here/" target="_blank" rel="noopener">6.1</a>、<a href="https://www.bluetooth.com/blog/just-released-bluetooth-core-6-2/" target="_blank" rel="noopener">6.2</a>。</p>
+        <p><strong>バージョンの数字だけでは、機能は決まりません。</strong>Bluetooth SIGは、会員に、パッケージなどにCoreのバージョン（6.1など）を書かず、製品が対応する具体的な機能の名前を書くよう、助言しています。たとえば、Auracast（放送オーディオ）に対応するには、Core 5.2で導入された特定の機能に加えて、LE Audioの仕様群のPublic Broadcast Profileへの対応が必要です。実際の対応は、機器の能力とメーカーの方針によります（<a href="https://www.bluetooth.com/auracast/faq/" target="_blank" rel="noopener">SIGのAuracast FAQ</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>LE Audio・LC3・Auracast</h2>
+        <p>LE Audioは、Bluetooth Low Energyの無線上で動き、新しいコーデックのLC3、マルチストリーム、補聴器のサポート、Auracast放送オーディオを導入するもの、とSIGは説明しています。LC3は、Classic AudioのSBCを置き換えるコーデックで、Auracastは、1つの音源から、無制限の数の受信機器へ、音を送れる仕組みです（<a href="https://www.bluetooth.com/learn-about-bluetooth/recent-enhancements/le-audio/" target="_blank" rel="noopener">SIGのLE Audio</a>、<a href="https://www.bluetooth.com/blog/a-technical-overview-of-lc3/" target="_blank" rel="noopener">SIGのLC3の解説</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>SBC・AAC・LDAC・aptX：コーデックの位置づけ</h2>
+        <ul><li><strong>SBC</strong>：A2DP（Classicのオーディオの規格）では、SBCが必須で、A2DPの受信側の機器は、SBCをデコードできる必要があります。AACは、任意のコーデックとして扱われます（<a href="https://files.bluetooth.com/wp-content/uploads/dlm_uploads/2025/02/A2DP.TS_.p21.pdf" target="_blank" rel="noopener">SIGのA2DPのテスト仕様（PDF）</a>）。</li><li><strong>AAC</strong>：Appleは、AirPods（第3世代以前）、AirPods Pro（第1世代）、AirPods Pro 2（Lightningケース）、AirPods Max、多くのBeatsのワイヤレスヘッドホンが、「Apple AAC Bluetoothコーデック」を使う、と説明しています。ただし、Bluetooth接続はロスレスではありません（<a href="https://support.apple.com/en-us/118295" target="_blank" rel="noopener">Apple</a>）。</li><li><strong>LDAC</strong>：Sonyは、Bluetooth上の最大ビットレートが990kbpsで、通信の状況に応じて、330・660・990kbpsで自動的に切り替わる、と説明しています（<a href="https://www.sony.co.jp/en/Products/LDAC/" target="_blank" rel="noopener">Sony</a>）。</li><li><strong>aptX</strong>：Qualcommの製品資料は、aptX Adaptive Audioなどに対応する、イヤホン向けのチップについて、24bit／96kHzの高解像度・低遅延のオーディオを実現する設計と記載しています（<a href="https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Qualcomm-QCC30xx-Series-Bluetooth-Audio-SoCs-for-True-Wireless-Earbuds.pdf" target="_blank" rel="noopener">Qualcommの製品資料（PDF）</a>）。</li></ul>
+        <p>コーデックの音の違いや、遅延の比較は、公的な資料がなく、聞く人による部分が大きいので、ここでは書きません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>掲載している商品の、バージョンとコーデックの表記</h2>
+        <p>GEARNOTEの商品ページのメーカー情報ブロックに、Bluetoothのバージョンが書かれていた商品は、171商品でした（3760商品のうち）。バージョンごとの数は、次のとおりです。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>Bluetoothのバージョン（メーカー記載）</th><th>商品数</th></tr></thead>
+            <tbody>
+            <tr><th>Bluetooth 6.1</th><td>8</td></tr>
+            <tr><th>Bluetooth 6.0</th><td>22</td></tr>
+            <tr><th>Bluetooth 5.4</th><td>23</td></tr>
+            <tr><th>Bluetooth 5.3</th><td>40</td></tr>
+            <tr><th>Bluetooth 5.2</th><td>26</td></tr>
+            <tr><th>Bluetooth 5.1</th><td>9</td></tr>
+            <tr><th>Bluetooth 5.0</th><td>24</td></tr>
+            <tr><th>Bluetooth 4.2</th><td>12</td></tr>
+            <tr><th>Bluetooth 4.1</th><td>1</td></tr>
+            <tr><th>Bluetooth 4.0</th><td>3</td></tr>
+            <tr><th>Bluetooth 3.0</th><td>3</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>コーデックなどの語が書かれていた商品の数は、次のとおりです。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ブロックにある語</th><th>商品数</th></tr></thead>
+            <tbody>
+            <tr><th>SBC</th><td>89</td></tr>
+            <tr><th>AAC</th><td>86</td></tr>
+            <tr><th>LDAC</th><td>47</td></tr>
+            <tr><th>aptX（Adaptive・HD・Losslessを含む）</th><td>18</td></tr>
+            <tr><th>LC3</th><td>18</td></tr>
+            <tr><th>LE Audio</th><td>2</td></tr>
+            <tr><th>Auracast</th><td>18</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>書かれていない商品は、「対応していない」という意味ではなく、メーカーが、そのブロックに書いていない、ということです。また、バージョンの数字だけでは、LE AudioやAuracastに対応するかは分かりません。対応する機能の名前が、商品の仕様に書かれているかを、確認してください。この集計は、GEARNOTEに載せている商品の範囲のものです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的な資料・規格団体の資料にもとづきます（リンク先は、各項目に付けています）。規格や制度は、改正されることがあります。</p>
+        <ul><li>Bluetoothの到達距離（「10m」「100m」など）は、SIGの技術概要に数字がなかったため、書いていません。</li><li>LC3がLE Audioで必須のコーデックかどうかは、確認できていません。</li><li>5.0の「速度2倍・範囲4倍・ブロードキャスト容量8倍」という宣伝の文言のうち、確認できたのは、LE 2M PHYとCoded PHYの記述だけです。</li><li>AAC（Fraunhofer）の公式の説明と、aptX HD・aptX Adaptiveの個別のビットレートは、確認できていません。</li><li>コーデックの音質の優劣や遅延の比較は、公的な資料がなく、書いていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「Bluetoothのバージョンとコーデック（LE Audio・LC3・LDAC・AAC）の読み方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-bluetooth</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-bluetooth"&gt;GEARNOTE「Bluetoothのバージョンとコーデック（LE Audio・LC3・LDAC・AAC）の読み方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>Bluetooth 5.3と5.4は、何が違いますか？</h3>
+            <p>SIGの資料では、5.3は接続のサブレーティングなど、5.4はPeriodic Advertising with Responses（1対多の双方向・省電力の通信）などが、主な追加です。ただし、SIGは、パッケージなどにバージョンを書かず、対応する機能名を書くよう助言しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>Bluetooth 5.2なら、Auracastに対応していますか？</h3>
+            <p>決まりません。Auracastには、Core 5.2で導入された特定の機能に加えて、Public Broadcast Profileへの対応が必要で、実際の対応は、機器の能力とメーカーの方針によります（SIGのAuracast FAQ）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>SBCとAACとLDACは、何が違いますか？</h3>
+            <p>SBCはA2DPで必須のコーデックで、AACは任意、LDACはSonyのコーデックで、最大990kbpsです。音の違いや遅延の比較は、公的な資料がなく、このページでは書いていません。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>関連ページ</h2>
+        <ul><li><a href="data-earbuds">イヤホンの仕様一覧</a></li><li><a href="data-headphone">ヘッドホンの仕様一覧</a></li><li><a href="data-portable-speaker">ポータブルスピーカーの仕様一覧</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
