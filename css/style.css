@@ -1670,3 +1670,32 @@ img.cat-product-thumb {
 .calc-fig { margin: 18px 0 22px; }
 .calc-fig img { width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--border); background: #fff; }
 .calc-fig figcaption { font-size: 13px; color: var(--muted, #777); margin-top: 6px; line-height: 1.6; }
+
+/* データ一覧：絞り込み・並べ替え・見比べる（js/data-table-tools.js） */
+.dtt-box { margin: 14px 0; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--surface); }
+.dtt-box > summary { cursor: pointer; padding: 12px 16px; font-weight: 700; }
+.dtt-box > summary { color: var(--text); }
+.dtt-inner { padding: 4px 16px 14px; }
+.dtt-note { font-size: 0.88rem; color: var(--text-muted); margin: 6px 0 10px; }
+.dtt-small { font-size: 0.82rem; }
+.dtt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px 16px; }
+.dtt-f { color: var(--text); display: flex; flex-direction: column; gap: 4px; font-size: 0.88rem; }
+.dtt-f > span:first-child { font-weight: 600; }
+.dtt-range input, .dtt-f select { width: 42%; min-width: 80px; padding: 6px 8px; border: 1px solid var(--border); border-radius: 6px; font: inherit; background: var(--bg); color: var(--text); }
+.dtt-f select { width: 100%; }
+.dtt-actions { margin: 12px 0 4px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.dtt-btn { padding: 6px 14px; border: 1px solid var(--brand-light, #888); border-radius: 999px; background: transparent; color: inherit; font: inherit; font-size: 0.85rem; cursor: pointer; }
+.dtt-count { font-size: 0.88rem; font-weight: 600; }
+.dtt-warn { color: #e08a80; font-size: 0.88rem; }
+.dtt-cmp { margin: 14px 0; padding: 12px 14px; border: 1px solid var(--border); border-radius: var(--radius-sm); }
+.dtt-cmp[hidden], .compare-table tr[hidden] { display: none; }
+.dtt-cmp-h { margin: 0 0 8px; font-size: 1rem; }
+.dtt-cmp-t { min-width: 0 !important; }
+.dtt-cmp-t thead th:first-child, .dtt-cmp-t tbody th:first-child { width: auto !important; }
+.dtt-chk { width: 36px; text-align: center; }
+.dtt-chk input { width: 18px; height: 18px; }
+.dtt-vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+th.dtt-sortable { cursor: pointer; user-select: none; }
+th.dtt-sortable::after { content: " ↕"; opacity: .35; font-size: .8em; }
+th.dtt-asc::after { content: " ▲"; opacity: 1; }
+th.dtt-desc::after { content: " ▼"; opacity: 1; }
