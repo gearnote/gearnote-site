@@ -24870,7 +24870,7 @@ const RANKING_POOL = [
   },
   {
     name: "シャープ 43V型 4K 液晶 テレビ AQUOS 4T-C43GJ2 Google TV Dolby Atmos Wi-Fi6対応",
-    excerpt: "シャープ AQUOS 4T-C43GJ2。43V型4K液晶（3,840×2,160・60Hz）、Google TV搭載、HDMI×4・USB×2、スピーカー最大20W・Dolby Atmos対応、Wi-Fi 6対応。",
+    excerpt: "シャープ AQUOS 4T-C43GJ2。43V型4K液晶（3,840×2,160・60Hz）、Google TV搭載、HDMI×4・USB×2、スピーカー最大20W、Wi-Fi5対応。",
     img: "https://m.media-amazon.com/images/I/51ZusEenfHL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0DL5XD7JV?tag=hide0122-22",
     page: "product-sharp-aquos-4t-c43gj2-google-tv",
