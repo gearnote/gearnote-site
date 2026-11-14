@@ -130,7 +130,7 @@ microSD・SDカード,https://gearnote.net/data-microsd,最大書き込み速度
 モニター,https://gearnote.net/data-monitor,画面サイズ,その他の性能・機能,インチ,18,18,0,100.0,集計対象
 モニター,https://gearnote.net/data-monitor,最大リフレッシュレート（接続方式・解像度で値が変わる記載がないもの） ／ 最大リフレッシュレート（DisplayPort接続時）,その他の性能・機能,Hz,18,14,4,77.8,集計対象
 モニター,https://gearnote.net/data-monitor,通常使用時の消費電力（メーカー表記：通常・標準・通常使用時）,消費電力,W,18,9,9,50.0,集計対象
-モニター,https://gearnote.net/data-monitor,質量（スタンドを除いた本体のみ）,質量,kg,18,12,6,66.7,集計対象
+モニター,https://gearnote.net/data-monitor,質量（スタンドを除いた本体のみ）,質量,kg,18,13,5,72.2,集計対象
 モニター,https://gearnote.net/data-monitor,USB-C端子（Thunderbolt 4端子を含む）の給電出力,その他の性能・機能,W,18,6,12,33.3,適用できる商品が限られるため集計から除外
 オーブントースター,https://gearnote.net/data-oven-toaster,消費電力,消費電力,W,11,9,2,81.8,集計対象
 オーブントースター,https://gearnote.net/data-oven-toaster,質量,質量,kg,11,8,3,72.7,集計対象

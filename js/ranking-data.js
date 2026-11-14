@@ -10924,7 +10924,7 @@ const RANKING_POOL = [
   },
   {
     name: "亀田製菓 ソフトサラダ",
-    excerpt: "ふわっと焼き上げたソフトな食感のおせんべい。沖縄の塩シママースを使った塩味。",
+    excerpt: "亀田製菓のソフトサラダ。20枚入り（2枚×10個包装）の袋が12袋まとまったパックです。",
     img: "https://m.media-amazon.com/images/I/71bcQxSz+eL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0BQ3BWPPT?tag=hide0122-22",
     page: "product-kameda-soft-salada-20-12",
@@ -11337,7 +11337,7 @@ const RANKING_POOL = [
   },
   {
     name: "なとり 燻製チーズ 64g×5袋",
-    excerpt: "5種のナチュラルチーズをブレンドし、りんご樹のチップで燻製した、やわらかくなめらかな食感のおつまみ。64g×5袋。",
+    excerpt: "5種のナチュラルチーズをブレンドした、やわらかくなめらかな食感の燻製チーズのおつまみ。64g×5袋。",
     img: "https://m.media-amazon.com/images/I/713S-5ZqUoL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B00LBWPV3C?tag=hide0122-22",
     page: "product-natori-oishii-kunsei-cheese-64g-5",
@@ -22196,7 +22196,7 @@ const RANKING_POOL = [
   },
   {
     name: "DJI Mini 5 Pro Fly Moreコンボ",
-    excerpt: "1インチCMOSセンサー搭載の249gクラスドローン。全方向障害物検知とActiveTrack 360°、225°ジンバル回転で縦向き撮影にも対応。",
+    excerpt: "1インチCMOSセンサー搭載の249gクラスドローン。全方向障害物検知とActiveTrack 360°に対応。",
     img: "https://m.media-amazon.com/images/I/61SK9i9WPHL._AC_SX425_.jpg",
     link: "https://www.amazon.co.jp/dp/B0F6XN1J7K?tag=hide0122-22",
     page: "product-dji-mini5pro-flymore-combo",
@@ -26158,7 +26158,7 @@ const RANKING_POOL = [
   },
   {
     name: "野菜生活 カゴメ 野菜生活100 アップルサラダ 200ml紙パック×24本( 砂糖不使用 ビタミンC)",
-    excerpt: "カゴメ 野菜生活100 アップルサラダ 200ml×24本。20種類の野菜と6種類の果実、200mlあたり野菜120g分、砂糖・食塩・甘味料不使用と記載。",
+    excerpt: "カゴメ 野菜生活100 アップルサラダ 200ml×24本。20種類の野菜と6種類の果実、200mlあたり野菜120g分。メーカー公式サイトの栄養成分は糖類16.0g、食塩相当量0.05〜0.3g（200mlあたり）と記載。",
     img: "https://m.media-amazon.com/images/I/716wJ9MkskL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B07NVMJMJC?tag=hide0122-22",
     page: "product-kagome-yasai-seikatsu100-apple-salad-200ml-24",
