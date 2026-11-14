@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 14 Nov 2026 07:51:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 08:33:32 +0000</lastBuildDate>
+  <item>
+    <title>パナソニック ラムダッシュ バリカン トップグレードモデル ER-NGSHA-K</title>
+    <link>https://gearnote.net/product-panasonic-lamdash-hairclipper-ngsha-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-lamdash-hairclipper-ngsha-k</guid>
+    <description>0.5mm刻みの刈り高さ調整（88段階、約0.5〜45mm）に対応した充電式バリカン。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>パナソニック(Panasonic) バリカン エントリーモデル ER-GC1A-K</title>
     <link>https://gearnote.net/product-panasonic-hairclipper-entry-ergc1a-k</link>
@@ -349,13 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-panasonic-ionity-dryer-eh-ne7p-v-misty-lavender</guid>
     <description>パナソニックのヘアドライヤー「イオニティ」EH-NE7P-V（ミスティラベンダー）です。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ダイニチ ハイブリッド式加湿器 HD-PC2400H-W（PCタイプ・木造和室40畳まで）</title>
-    <link>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-pc2400h-w-pc-type</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dainichi-hybrid-humidifier-hd-pc2400h-w-pc-type</guid>
-    <description>ダイニチの大型ハイブリッド式加湿器「PCタイプ」、型番HD-PC2400H-W（ホワイト×ブラック）です。</description>
-    <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

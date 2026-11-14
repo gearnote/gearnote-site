@@ -14780,6 +14780,13 @@ const RANKING_POOL = [
     page: "product-panasonic-hairclipper-entry-ergc1a-k",
   },
   {
+    name: "パナソニック ラムダッシュ バリカン トップグレードモデル ER-NGSHA-K",
+    excerpt: "0.5mm刻みで刈り高さを88段階に調整できる充電式バリカン。防水設計で水洗いに対応と記載されています。",
+    img: "https://m.media-amazon.com/images/I/61ULhT5V4sL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0HJQCTNZN?tag=hide0122-22",
+    page: "product-panasonic-lamdash-hairclipper-ngsha-k",
+  },
+  {
     name: "泉精器製作所(IZUMI) 電気シェーバー ソリッドシリーズ 5枚刃 IZF-V579-R-EA",
     excerpt: "5枚刃の往復式メンズシェーバー。本体丸洗い対応で、充電・交流式の両方で使用できます。替刃1個付き。",
     img: "https://m.media-amazon.com/images/I/41oMR1vXIFL._AC_SX300_.jpg",
