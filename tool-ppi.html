@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ppi（画面の細かさ）の計算｜解像度とインチ数から、画素の密度を出す｜GEARNOTE</title>
+<meta name="description" content="解像度（画素数）と画面サイズ（インチ）を入れると、ppi（1インチあたりの画素数）と画面の縦横の長さを計算します。フルHD・WQHD・4K・5Kなどを、同じインチ数で並べて見られます。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="ppi（画面の細かさ）の計算｜解像度とインチ数から、画素の密度を出す｜GEARNOTE">
+<meta property="og:description" content="解像度（画素数）と画面サイズ（インチ）を入れると、ppi（1インチあたりの画素数）と画面の縦横の長さを計算します。フルHD・WQHD・4K・5Kなどを、同じインチ数で並べて見られます。">
+<meta property="og:url" content="https://gearnote.net/tool-ppi">
+<link rel="canonical" href="https://gearnote.net/tool-ppi">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ppi（画面の細かさ）の計算｜解像度とインチ数から、画素の密度を出す｜GEARNOTE">
+<meta name="twitter:description" content="解像度（画素数）と画面サイズ（インチ）を入れると、ppi（1インチあたりの画素数）と画面の縦横の長さを計算します。フルHD・WQHD・4K・5Kなどを、同じインチ数で並べて見られます。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"ppi（画面の細かさ）の計算"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ppiとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"pixels per inch の略で、画面の1インチ（約2.54cm）あたりに、画素が何個並んでいるかを示す数字です。同じ解像度なら、画面サイズが小さいほど、ppiは大きくなります。"}},{"@type":"Question","name":"ppiはどうやって計算しますか？","acceptedAnswer":{"@type":"Answer","text":"横の画素数と縦の画素数から、対角方向の画素数（√(横²＋縦²)）を出し、それを画面サイズ（インチ）で割ります。このツールが、その計算をします。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="tools">計算ツール</a> ／ ppi（画面の細かさ）の計算</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">ppi（画面の細かさ）の計算｜解像度とインチ数から、画素の密度を出す</h1>
+        <p class="desc">解像度とインチ数から、ppi（1インチあたりの画素数）を計算します。同じインチ数で、解像度ごとの違いも並べて見られます。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="pp-r">解像度（画素数）</label><select id="pp-r"></select></div>
+            <div class="tl-field"><label for="pp-cw">横の画素数</label><input id="pp-cw" type="number" inputmode="numeric" min="1"></div>
+            <div class="tl-field"><label for="pp-ch">縦の画素数</label><input id="pp-ch" type="number" inputmode="numeric" min="1"></div>
+            <div class="tl-field"><label for="pp-d">画面サイズ（インチ）</label><input id="pp-d" type="number" inputmode="decimal" min="1" step="0.1" value="27"></div>
+          </div>
+          <div class="tl-presets" id="pp-pre">
+            <button type="button" data-d="23.8" data-r="1920x1080（フルHD）">23.8インチ・フルHD</button>
+            <button type="button" data-d="27" data-r="2560x1440（WQHD）">27インチ・WQHD</button>
+            <button type="button" data-d="27" data-r="3840x2160（4K UHD）">27インチ・4K</button>
+            <button type="button" data-d="32" data-r="3840x2160（4K UHD）">32インチ・4K</button>
+            <button type="button" data-d="34" data-r="3440x1440（ウルトラワイドWQHD）">34インチ・ウルトラワイド</button>
+          </div>
+          <p class="tl-result" id="pp-sum"></p>
+        </div>
+        <div id="pp-out"></div>
+        <script>
+        function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+        function renderTable(host,head,rows){host.textContent='';if(!rows.length){host.appendChild(el('p','tl-note','当てはまる商品はありませんでした。'));return;}
+          var w=el('div','compare-table-wrap'),t=el('table','compare-table guide-table'),th=el('thead'),tr=el('tr');
+          head.forEach(function(h){tr.appendChild(el('th','',h));});th.appendChild(tr);t.appendChild(th);var tb=el('tbody');
+          rows.forEach(function(r){var tr2=el('tr');r.forEach(function(c,i){var cell=el(i===0?'th':'td');
+            if(c&&typeof c==='object'&&c.href){var a=el('a','',c.t);a.href=c.href;cell.appendChild(a);}else{cell.textContent=(c===null||c===undefined)?'記載なし':c;}
+            tr2.appendChild(cell);});tb.appendChild(tr2);});t.appendChild(tb);w.appendChild(t);host.appendChild(w);}
+
+(function(){
+function g(i){return document.getElementById(i);}
+var RES={'1280x720（HD）':[1280,720],'1920x1080（フルHD）':[1920,1080],'2560x1440（WQHD）':[2560,1440],'3440x1440（ウルトラワイドWQHD）':[3440,1440],'3840x2160（4K UHD）':[3840,2160],'5120x2880（5K）':[5120,2880],'7680x4320（8K）':[7680,4320]};
+var rs=g('pp-r');
+rs.innerHTML=Object.keys(RES).map(function(k){return '<option>'+k+'</option>';}).join('')+'<option value="custom">自分で入れる</option>';
+rs.value='1920x1080（フルHD）';
+function run(){
+  var w,h;
+  if(rs.value==='custom'){g('pp-cw').disabled=false;g('pp-ch').disabled=false;w=parseFloat(g('pp-cw').value);h=parseFloat(g('pp-ch').value);}
+  else{g('pp-cw').disabled=true;g('pp-ch').disabled=true;w=RES[rs.value][0];h=RES[rs.value][1];g('pp-cw').value=w;g('pp-ch').value=h;}
+  var d=parseFloat(g('pp-d').value),sum=g('pp-sum'),out=g('pp-out');
+  if(!(w>0)||!(h>0)||!(d>0)){sum.textContent='解像度と、画面サイズ（インチ）を入れてください。';out.textContent='';return;}
+  var diag=Math.sqrt(w*w+h*h),ppi=diag/d;
+  var wi=d*w/diag,hi=d*h/diag; // inches
+  sum.textContent=w+'×'+h+'の画面を'+d+'インチで表示すると、画素の密度は約'+(Math.round(ppi*10)/10)+'ppi、画面の大きさは約'+(Math.round(wi*25.4/10*10)/10)+'cm×'+(Math.round(hi*25.4/10*10)/10)+'cmです。';
+  out.textContent='';
+  var rows=[];
+  Object.keys(RES).forEach(function(k){var r=RES[k];rows.push([k,String(Math.round(Math.sqrt(r[0]*r[0]+r[1]*r[1])/d*10)/10)]);});
+  renderTable(out,['解像度（同じ'+d+'インチのとき）','ppi'],rows);
+}
+rs.addEventListener('change',run);
+['pp-d','pp-cw','pp-ch'].forEach(function(i){g(i).addEventListener('input',run);});
+g('pp-pre').addEventListener('click',function(e){var b=e.target.closest('button');if(!b)return;g('pp-d').value=b.getAttribute('data-d');rs.value=b.getAttribute('data-r');run();});
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>ppi = √(横の画素数² + 縦の画素数²) ÷ 画面サイズ（インチ・対角）</li>
+          <li>画面の横の長さ（インチ）= 画面サイズ × 横の画素数 ÷ √(横² + 縦²)。縦も同じ考え方です。1インチは25.4mmで換算しています。</li>
+          <li>画面サイズは、メーカーが示す対角のインチ数です。画面の縁の寸法ではなく、実際に表示される部分の対角を指します。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>使うときの注意</h2>
+        <ul>
+          <li>ppiは、画素の密度の数字です。見やすさや、文字の読みやすさは、見る距離や、OSの表示倍率の設定でも変わります。数字の大小で、良し悪しを決めるものではありません。</li>
+          <li>メーカーが書いた画面サイズは、小数点以下を丸めた数字のことがあります。そのため、ここで計算したppiは、目安の数字です。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「ppi（画面の細かさ）の計算」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/tool-ppi</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-ppi"&gt;GEARNOTE「ppi（画面の細かさ）の計算」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ppiとは何ですか？</h3>
+            <p>pixels per inch の略で、画面の1インチ（約2.54cm）あたりに、画素が何個並んでいるかを示す数字です。同じ解像度なら、画面サイズが小さいほど、ppiは大きくなります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ppiはどうやって計算しますか？</h3>
+            <p>横の画素数と縦の画素数から、対角方向の画素数（√(横²＋縦²)）を出し、それを画面サイズ（インチ）で割ります。このツールが、その計算をします。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>関連ページ</h2>
+        <ul><li><a href="data-monitor">モニターの仕様一覧</a></li><li><a href="data-tablet">タブレットの仕様一覧</a></li><li><a href="tools">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
