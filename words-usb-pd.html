@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>USB PDのW数の読み方｜電圧×電流・PPS・240Wまで（掲載の充電器19台・ケーブル9本の集計）｜GEARNOTE</title>
+<meta name="description" content="USB PD（Power Delivery）の5V・9V・15V・20Vと、PD 3.1で加わった28V・36V・48V、PPSの考え方を、USB-IFの資料で確認してまとめました。GEARNOTE掲載の充電器・ケーブル・モバイルバッテリーのW数の分布つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="USB PDのW数の読み方｜電圧×電流・PPS・240Wまで（掲載の充電器19台・ケーブル9本の集計）｜GEARNOTE">
+<meta property="og:description" content="USB PD（Power Delivery）の5V・9V・15V・20Vと、PD 3.1で加わった28V・36V・48V、PPSの考え方を、USB-IFの資料で確認してまとめました。GEARNOTE掲載の充電器・ケーブル・モバイルバッテリーのW数の分布つきです。">
+<meta property="og:url" content="https://gearnote.net/words-usb-pd">
+<link rel="canonical" href="https://gearnote.net/words-usb-pd">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="USB PDのW数の読み方｜電圧×電流・PPS・240Wまで（掲載の充電器19台・ケーブル9本の集計）｜GEARNOTE">
+<meta name="twitter:description" content="USB PD（Power Delivery）の5V・9V・15V・20Vと、PD 3.1で加わった28V・36V・48V、PPSの考え方を、USB-IFの資料で確認してまとめました。GEARNOTE掲載の充電器・ケーブル・モバイルバッテリーのW数の分布つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"USB PDのW数・電圧・電流の読み方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"USB PDの最大W数は、いくつですか？","acceptedAnswer":{"@type":"Answer","text":"USB-IFの資料では、PD 3.1で最大240Wに対応しています。新しい固定電圧として、28V・36V・48Vが加わりました。PD 3.1より前は、20Vで5A定格のケーブルを使う方式で、最大100Wでした。"}},{"@type":"Question","name":"PPSとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"受電側が主導して、電圧を約20mV刻み、電流の制限値を約50mA刻みで調整する方式です。電圧の範囲は、20V系で3.3〜21.0Vまでなど、系統ごとに決まっています。通信が途切れると、電源は安全な状態に戻ります。"}},{"@type":"Question","name":"充電器のW数が大きければ、ケーブルは何でもいいですか？","acceptedAnswer":{"@type":"Answer","text":"USB-IFの資料では、出力電流は、充電器の出力とケーブルの定格に依存するとされています。20Vで100Wを出すには、5A定格のケーブルが必要です。ケーブルに書かれた最大電力も、確認してください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ USB PDのW数・電圧・電流の読み方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">USB PDのW数の読み方｜電圧×電流・PPS・240Wまで</h1>
+        <p class="desc">USB PDのW数が、電圧と電流からどう決まるかを、USB-IFの資料で確かめてまとめました。掲載した商品のW数の分布も、集計しています。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>W数は、電圧×電流</h2>
+        <p>電力（W）は、電圧（V）×電流（A）です（直流の基本の式です。<a href="https://www.jeea.or.jp/course/contents/01106/" target="_blank" rel="noopener">電気学会の講座</a>）。USB PDの固定電圧は、5V・9V・15V・20Vで、出力できる電流は、充電器が示す出力（PDP）とケーブルの定格によって決まります（<a href="https://www.usb.org/sites/default/files/D2T2-1%20-%20USB%20Power%20Delivery.pdf" target="_blank" rel="noopener">USB-IFの資料（PDF）</a>）。</p>
+        <p>例：20V × 5A ＝ 100W。この算術は、USB PD 3.1より前の「最大100W」と一致します。PD 3.1より前は、20Vで5A定格のUSB Type-Cケーブルを使う方式で、最大100Wでした（<a href="https://www.usb.org/sites/default/files/2021-05/USB%20PG%20USB%20PD%203.1%20DevUpdate%20Announcement_FINAL.pdf" target="_blank" rel="noopener">USB-IFの発表資料（PDF）</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>PD 3.1：28V・36V・48Vが加わり、最大240Wに</h2>
+        <p>2021年のUSB PD 3.1で、新しい固定電圧として、28V（100W超）、36V（140W超）、48V（180W超）が加わり、最大240Wに対応しました。USB Type-C仕様もRelease 2.1で、240W用のケーブルの要件が定められています（<a href="https://www.usb.org/sites/default/files/2021-05/USB%20PG%20USB%20PD%203.1%20DevUpdate%20Announcement_FINAL.pdf" target="_blank" rel="noopener">USB-IFの発表資料</a>）。USB-IFのサイトでも、28V・36V・48Vが、それぞれ最大140W・180W・240Wを可能にすると説明されています（<a href="https://www.usb.org/usb-charger-pd" target="_blank" rel="noopener">USB-IFの解説ページ</a>）。</p>
+        <p>また、PD 3.1には、15Vから最大電圧（28V・36V・48V）の範囲で、受電側が100mV単位で電圧を要求できる「調整電圧」のモードがあります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>PPS：受電側が、電圧と電流の上限を細かく指定する</h2>
+        <p>PPS（Programmable Power Supply）は、受電側（スマホなど）が主導して、出力電圧を約20mV刻み、電流の制限値を約50mA刻みで調整する方式です。電圧の範囲は、5V系で3.3〜5.9V、9V系で3.3〜11.0V、15V系で3.3〜16.0V、20V系で3.3〜21.0Vです。受電側は、少なくとも10秒ごとに要求を送り、通信が途切れると、電源は安全な状態に戻ります（<a href="https://www.usb.org/sites/default/files/D2T2-1%20-%20USB%20Power%20Delivery.pdf" target="_blank" rel="noopener">USB-IFの資料（PDF）</a>）。</p>
+        <p>PPSで「何Wまで出せるか」は、機器ごとに違います。商品の表記と、受電側の機器の仕様で確認してください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>掲載している商品のW数の分布</h2>
+        <p>GEARNOTEに載せている商品のうち、メーカーがW数を書いている商品を、W数の区間ごとに数えました。<strong>集計に使ったのは、単ポート使用時の最大出力（充電器・モバイルバッテリー）と、最大電力（ケーブル）です。</strong>実際に出る電力ではなく、メーカーが書いた最大の数字です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>W数の区間</th><th>充電器（19台）</th><th>USB-Cケーブル（9本）</th><th>モバイルバッテリー（16台）</th></tr></thead>
+            <tbody>
+            <tr><th>30W以下</th><td>1</td><td>0</td><td>9</td></tr>
+            <tr><th>31〜60W</th><td>8</td><td>3</td><td>4</td></tr>
+            <tr><th>61〜100W</th><td>8</td><td>1</td><td>2</td></tr>
+            <tr><th>101〜140W</th><td>2</td><td>0</td><td>1</td></tr>
+            <tr><th>141W以上</th><td>0</td><td>5</td><td>0</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>充電器19台の中では、45Wが最も多く8台でした。内訳は次のとおりです。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>充電器の単ポート最大出力</th><th>台数</th></tr></thead>
+            <tbody>
+            <tr><th>20W</th><td>1</td></tr>
+            <tr><th>45W</th><td>8</td></tr>
+            <tr><th>65W</th><td>2</td></tr>
+            <tr><th>70W</th><td>1</td></tr>
+            <tr><th>75W</th><td>1</td></tr>
+            <tr><th>100W</th><td>4</td></tr>
+            <tr><th>140W</th><td>2</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>100W以上の充電器は6台、100W以上のケーブルは6本（うち240Wが5本）です。ケーブルの最大電力が60Wと書かれているものは、3本あります。USB-IFの資料では、出力電流は、ケーブルの定格にも依存するとされています。充電器のW数だけでなく、<strong>ケーブルに書かれたW数</strong>も、あわせて確認してください。</p>
+        <p>元のデータは、<a href="data-usb-charger">USB充電器</a>・<a href="data-usbc-cable">USB-Cケーブル</a>・<a href="data-power-bank">モバイルバッテリー</a>の仕様一覧にあります。数字は、GEARNOTEに載せている商品の範囲のもので、市場全体の分布ではありません。メーカーが数字を書いていない商品は、数えていません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的な資料・規格団体の資料にもとづきます（リンク先は、各項目に付けています）。規格や制度は、改正されることがあります。</p>
+        <ul><li>EPR（28V・36V・48V）の電流が5Aであることと、「28V×5A＝140W」「36V×5A＝180W」の直接の記述は、USB-IFの資料では確認できませんでした。ここでは、USB-IFが示すW数（140W・180W・240W）だけを書いています。</li><li>9V×3A＝27W、15V×3A＝45Wなど、代表的な中間のW数の組み合わせは、USB-IFの資料で表としては確認できなかったので、書いていません。</li><li>EPR対応のケーブルの運用の細かい条件は、確認できていません。商品の説明で確認してください。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「USB PDのW数・電圧・電流の読み方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-usb-pd</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-usb-pd"&gt;GEARNOTE「USB PDのW数・電圧・電流の読み方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>USB PDの最大W数は、いくつですか？</h3>
+            <p>USB-IFの資料では、PD 3.1で最大240Wに対応しています。新しい固定電圧として、28V・36V・48Vが加わりました。PD 3.1より前は、20Vで5A定格のケーブルを使う方式で、最大100Wでした。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>PPSとは何ですか？</h3>
+            <p>受電側が主導して、電圧を約20mV刻み、電流の制限値を約50mA刻みで調整する方式です。電圧の範囲は、20V系で3.3〜21.0Vまでなど、系統ごとに決まっています。通信が途切れると、電源は安全な状態に戻ります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>充電器のW数が大きければ、ケーブルは何でもいいですか？</h3>
+            <p>USB-IFの資料では、出力電流は、充電器の出力とケーブルの定格に依存するとされています。20Vで100Wを出すには、5A定格のケーブルが必要です。ケーブルに書かれた最大電力も、確認してください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>関連ページ</h2>
+        <ul><li><a href="data-usb-charger">USB充電器の仕様一覧</a></li><li><a href="data-usbc-cable">USB-Cケーブルの仕様一覧</a></li><li><a href="data-power-bank">モバイルバッテリーの仕様一覧</a></li><li><a href="tool-mah-wh">mAhとWhの換算</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

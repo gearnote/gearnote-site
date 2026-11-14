@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>mAhとWhの換算｜モバイルバッテリーの容量を計算（機内持ち込みの確認用）｜GEARNOTE</title>
+<meta name="description" content="モバイルバッテリーの容量を、mAhからWh（ワット時）に換算する計算ツールです。換算の式と電圧の考え方、2026年4月24日からの機内持ち込みのルール（国土交通省）、掲載した23台の換算結果を載せています。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="mAhとWhの換算｜モバイルバッテリーの容量を計算（機内持ち込みの確認用）｜GEARNOTE">
+<meta property="og:description" content="モバイルバッテリーの容量を、mAhからWh（ワット時）に換算する計算ツールです。換算の式と電圧の考え方、2026年4月24日からの機内持ち込みのルール（国土交通省）、掲載した23台の換算結果を載せています。">
+<meta property="og:url" content="https://gearnote.net/tool-mah-wh">
+<link rel="canonical" href="https://gearnote.net/tool-mah-wh">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="mAhとWhの換算｜モバイルバッテリーの容量を計算（機内持ち込みの確認用）｜GEARNOTE">
+<meta name="twitter:description" content="モバイルバッテリーの容量を、mAhからWh（ワット時）に換算する計算ツールです。換算の式と電圧の考え方、2026年4月24日からの機内持ち込みのルール（国土交通省）、掲載した23台の換算結果を載せています。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"mAhとWhの換算（機内持ち込みの確認）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"mAhをWhに換算する式は？","acceptedAnswer":{"@type":"Answer","text":"Wh = mAh × 電圧(V) ÷ 1000 です。国土交通省の案内には、27,000mAh × 3.7V ÷ 1,000 = 99.9Wh という例があります。"}},{"@type":"Question","name":"モバイルバッテリーは、何Whまで機内に持ち込めますか？","acceptedAnswer":{"@type":"Answer","text":"国土交通省の案内では、160Whを超えるものは機内にも預け入れにも持ち込めません。2026年4月24日から、160Wh以下でも、持ち込めるのは1人2個までで、機内での充電や、他の機器への給電は禁止されています。搭乗前に、最新の案内と航空会社の案内を確認してください。"}},{"@type":"Question","name":"換算に使う電圧は、3.7Vと5Vのどちらですか？","acceptedAnswer":{"@type":"Answer","text":"国土交通省の例は3.7V（内蔵電池の電圧）です。一方、経済産業省のQ&Aでは、5Vに昇圧して出力する製品は、PSEの表示に5Vを示すことになっています。結果が変わるので、本体やパッケージにWh値の表示があれば、その数字を優先してください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="tools">計算ツール</a> ／ mAhとWhの換算（機内持ち込みの確認）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">mAhとWhの換算｜モバイルバッテリーの容量を計算する（機内持ち込みの確認用）</h1>
+        <p class="desc">mAhとWhを、式で換算します。電圧をどれにするかで結果が変わる理由と、機内持ち込みのルールも、公的な資料をもとにまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="mw-mode">求めたいもの</label><select id="mw-mode"><option value="m">mAh から Wh を求める</option><option value="w">Wh から mAh を求める</option></select></div>
+            <div class="tl-field"><label for="mw-a" id="mw-al">容量（mAh）</label><input id="mw-a" type="number" inputmode="decimal" min="0" value="20000"></div>
+            <div class="tl-field"><label for="mw-v">換算に使う電圧（V）</label><select id="mw-v"><option value="3.6">3.6V</option><option value="3.7" selected>3.7V（国土交通省の例と同じ）</option><option value="5">5V（出力の電圧）</option></select></div>
+          </div>
+          <p class="tl-result" id="mw-sum"></p>
+          <p class="tl-note">電圧によって、結果が変わります。どの電圧を使うかは、下の「電圧は、どれを使うか」を読んでください。実際に機内へ持ち込めるかは、本体に表示されたWh値と、航空会社の案内で確認してください。</p>
+        </div>
+        <script>
+(function(){
+function g(i){return document.getElementById(i);}
+function r1(x){return Math.round(x*10)/10;}
+var mode=g('mw-mode'),vs=g('mw-v'),sum=g('mw-sum'),a=g('mw-a');
+function run(){
+  var v=parseFloat(vs.value),x=parseFloat(a.value);
+  g('mw-al').textContent=mode.value==='m'?'容量（mAh）':'ワット時（Wh）';
+  if(!(v>0)||!(x>0)){sum.textContent='数字を入れてください。';return;}
+  if(mode.value==='m'){var wh=x*v/1000;
+    sum.textContent=x+'mAh × '+v+'V ÷ 1000 ＝ '+r1(wh)+'Wh です。';}
+  else{var mah=x*1000/v;
+    sum.textContent=x+'Wh × 1000 ÷ '+v+'V ＝ '+Math.round(mah).toLocaleString('ja-JP')+'mAh です。';}
+}
+mode.addEventListener('change',function(){a.value=mode.value==='m'?'20000':'74';run();});
+vs.addEventListener('change',run);a.addEventListener('input',run);run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>換算の式と、国土交通省の例</h2>
+        <ul>
+          <li>Wh（ワット時）= 容量（mAh）× 電圧（V）÷ 1000</li>
+          <li>国土交通省の案内には、同じ式と、<strong>27,000mAh × 3.7V ÷ 1,000 = 99.9Wh</strong>という例が載っています（<a href="https://www.mlit.go.jp/report/press/content/001995959.pdf" target="_blank" rel="noopener">国土交通省の案内（PDF）</a>）。</li>
+          <li>mAhとAhは、単位としては同じものです（1Ah＝1000mAh）。2000mAhと書いても、誤りではありません（<a href="https://www.meti.go.jp/policy/consumer/seian/denan/mlb_faq.html" target="_blank" rel="noopener">経済産業省のモバイルバッテリーに関するQ&amp;A</a>）。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>電圧は、どれを使うか</h2>
+        <ul>
+          <li>国土交通省の例では、3.7Vを使っています。内蔵する電池（セル）の電圧です。</li>
+          <li>一方、経済産業省のQ&amp;Aでは、3.7Vの電池を内蔵して5Vに昇圧して出力する製品は、電気用品安全法のPSEの表示で、<strong>5V</strong>を示すことになっています。また、PSEの表示にある「定格容量」は、モバイルバッテリーとして5時間にわたり供給できる電気容量で、内蔵する電池の容量とは一致しないことがあります。</li>
+          <li>つまり、同じ「20000mAh」でも、どの電圧を使うかで、74Wh（3.7V）にも、100Wh（5V）にもなります。<strong>このページでは、どちらが正しいとは決めていません。</strong>本体やパッケージにWh値の表示があれば、その数字を優先してください。表示がない場合は、航空会社に確認するのが確実です。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>機内持ち込みのルール（2026年11月15日に確認）</h2>
+        <p>次の内容は、<a href="https://www.mlit.go.jp/report/press/content/001995959.pdf" target="_blank" rel="noopener">国土交通省の案内</a> と <a href="https://www.mlit.go.jp/report/press/kouku10_hh_000310.html" target="_blank" rel="noopener">同省の発表</a> をもとにしています。ルールは変わることがあるので、搭乗の前に、最新の案内を確認してください。</p>
+        <ul>
+          <li><strong>160Whを超える</strong>モバイルバッテリーは、機内への持ち込みも、預け入れ（受託手荷物）もできません。</li>
+          <li><strong>2026年4月24日から</strong>、機内に持ち込めるモバイルバッテリー（160Wh以下）は、<strong>1人2個まで</strong>です。</li>
+          <li>機内で、モバイルバッテリーを充電すること、モバイルバッテリーから他の機器へ給電することは、<strong>禁止</strong>されています。</li>
+          <li>端子を絶縁したり、ケースに入れたりして、ショートを防ぎます。座席上の収納棚には入れず、座席のポケットなど、手元に置くように求められています。</li>
+          <li>外国の航空会社は、各社の指示に従います。このページでは、航空会社ごとのルールは確認していません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>掲載している23台の換算結果</h2>
+        <p>GEARNOTEに載せているモバイルバッテリーのうち、メーカーがmAh表記の容量を書いている23台を、容量の大きい順に並べました。換算はGEARNOTE運営の計算で、<strong>機内に持ち込めるかどうかを示すものではありません</strong>（本体の表示とメーカーの案内で確認してください）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>容量（メーカー表記・mAh）</th><th>3.7Vで換算（Wh）</th><th>5Vで換算（Wh）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-power-bank-25000mah">Anker Power Bank 25000mAh</a></th><td>25,000</td><td>92.5</td><td>125.0</td></tr>
+            <tr><th><a href="product-anker-prime-power-bank-20100mah-220w">Anker Prime Power Bank（20100mAh, 220W）ブラック</a></th><td>20,100</td><td>74.4</td><td>100.5</td></tr>
+            <tr><th><a href="product-xiaomi-33w-powerbank-20000">Xiaomi 33W モバイルバッテリー 20000mAh</a></th><td>20,000</td><td>74.0</td><td>100.0</td></tr>
+            <tr><th><a href="product-anker-power-bank-20000mah-87w-builtin-usbc-cable">Anker Power Bank</a></th><td>20,000</td><td>74.0</td><td>100.0</td></tr>
+            <tr><th><a href="product-belkin-power-bank-20000mah-45w-built-in-usbc-cable-black">Belkin モバイルバッテリー 20000mAh 45W USB-Cケーブル内蔵（ブラック）</a></th><td>20,000</td><td>74.0</td><td>100.0</td></tr>
+            <tr><th><a href="product-anker-power-bank-10000mah">Anker Power Bank（10000mAh）</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-anker-zolo-power-bank">Anker Zolo Power Bank</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-cio-smartcoby-pro-slim-35w">CIO SMARTCOBY Pro SLIM モバイルバッテリー</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-torras-minimag-pro-battery">TORRAS MiniMag Pro モバイルバッテリー</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-owltech-semi-solid-power-bank-10000-oec-lpb10024">オウルテック 準固体電池モバイルバッテリー 10000mAh</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-anker-nano-power-bank-maggo-plus-10000mah-black">Anker Nano Power Bank (MagGo, Plus)</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-belkin-power-bank-10000mah-45w-led-light-orange">Belkin モバイルバッテリー 10000mAh 45W LEDライト付き（オレンジ）</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-elecom-mobile-battery-10000mah">エレコム モバイルバッテリー 10000mAh</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-aulumu-m10-magsafe-powerbank">Aulumu M10 MagSafeモバイルバッテリー</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-anker-maggo-power-bank-10000mah-slim-a1664">Anker MagGo Power Bank (10000mAh, Slim)</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-docomo-semi-solid-mobile-battery-01m-10000mah-45w-white">ドコモ純正 準固体モバイルバッテリー01M（10000mAh・最大45W）</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-yamazen-semi-solid-power-bank-10000mah-pd35w-ymb-a100">山善 準固体電池モバイルバッテリー YMB-A100(B)（10000mAh・PD35W・ブラック）</a></th><td>10,000</td><td>37.0</td><td>50.0</td></tr>
+            <tr><th><a href="product-cio-smartcoby-ex02-magnetic-powerbank">CIO SMARTCOBY Ex02 マグネットモバイルバッテリー</a></th><td>5,000</td><td>18.5</td><td>25.0</td></tr>
+            <tr><th><a href="product-anker-nano-power-bank-5000mah-maggo-slim-blue">Anker Nano Power Bank（5000mAh, MagGo, Slim）ブルー</a></th><td>5,000</td><td>18.5</td><td>25.0</td></tr>
+            <tr><th><a href="product-anker-nano-power-bank-5000mah-maggo-slim-orange">Anker Nano Power Bank 5000mAh MagGo Slim（オレンジ）</a></th><td>5,000</td><td>18.5</td><td>25.0</td></tr>
+            <tr><th><a href="product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w">エレコム AC充電器一体型モバイルバッテリー EC-C57LMN（5000mAh・最大67W）</a></th><td>5,000</td><td>18.5</td><td>25.0</td></tr>
+            <tr><th><a href="product-torras-minimag-battery">TORRAS MiniMag モバイルバッテリー</a></th><td>5,000</td><td>18.5</td><td>25.0</td></tr>
+            <tr><th><a href="product-cio-applewatch-charger-smartcoby-dual">CIO Apple Watch充電器 SMARTCOBY DUAL</a></th><td>950</td><td>3.5</td><td>4.8</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>23台の中で、容量が最も大きいのは「Anker Power Bank 25000mAh」の25,000mAhで、3.7Vで換算すると92.5Wh、5Vで換算すると125.0Whです。同じ数字でも、電圧の違いで1.4倍の差が出ます。</p>
+        <p>各商品の数字は、<a href="data-power-bank">モバイルバッテリーの仕様一覧</a>（データの元）と同じものです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「mAhとWhの換算（機内持ち込みの確認）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/tool-mah-wh</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-mah-wh"&gt;GEARNOTE「mAhとWhの換算（機内持ち込みの確認）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>mAhをWhに換算する式は？</h3>
+            <p>Wh = mAh × 電圧(V) ÷ 1000 です。国土交通省の案内には、27,000mAh × 3.7V ÷ 1,000 = 99.9Wh という例があります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>モバイルバッテリーは、何Whまで機内に持ち込めますか？</h3>
+            <p>国土交通省の案内では、160Whを超えるものは機内にも預け入れにも持ち込めません。2026年4月24日から、160Wh以下でも、持ち込めるのは1人2個までで、機内での充電や、他の機器への給電は禁止されています。搭乗前に、最新の案内と航空会社の案内を確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>換算に使う電圧は、3.7Vと5Vのどちらですか？</h3>
+            <p>国土交通省の例は3.7V（内蔵電池の電圧）です。一方、経済産業省のQ&amp;Aでは、5Vに昇圧して出力する製品は、PSEの表示に5Vを示すことになっています。結果が変わるので、本体やパッケージにWh値の表示があれば、その数字を優先してください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>関連ページ</h2>
+        <ul><li><a href="data-power-bank">モバイルバッテリーの仕様一覧</a></li><li><a href="guide-c-flight-power-bank">飛行機にモバイルバッテリーを持ち込むときの確認</a></li><li><a href="tools">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
