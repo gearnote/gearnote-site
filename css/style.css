@@ -1665,3 +1665,8 @@ img.cat-product-thumb {
   #only-here .section-head { margin-bottom: 18px; }
   #only-here .section-head p.desc { display: none; }
 }
+
+/* calc-fig: ノート用の自作の図をサイトの計算の節に入れる（tools/embed_calc_figures.py） */
+.calc-fig { margin: 18px 0 22px; }
+.calc-fig img { width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--border); background: #fff; }
+.calc-fig figcaption { font-size: 13px; color: var(--muted, #777); margin-top: 6px; line-height: 1.6; }
