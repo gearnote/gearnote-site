@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 14 Nov 2026 06:15:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 06:33:00 +0000</lastBuildDate>
+  <item>
+    <title>このサイトについて｜GEARNOTE</title>
+    <link>https://gearnote.net/about</link>
+    <guid isPermaLink="true">https://gearnote.net/about</guid>
+    <description>GEARNOTEのサイト概要、運営情報、アフィリエイト表記、プライバシーポリシーについて。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -64,6 +71,13 @@
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Apple EarPods (USB-C) の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-earpods-usbc</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-earpods-usbc</guid>
+    <description>Apple EarPods (USB-C)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>ファッションの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-fashion</link>
     <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
@@ -99,263 +113,249 @@
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>データ一覧｜GEARNOTE掲載商品の仕様を1枚の表にまとめたデータ集｜GEARNOTE</title>
-    <link>https://gearnote.net/data</link>
-    <guid isPermaLink="true">https://gearnote.net/data</guid>
-    <description>GEARNOTEに掲載している商品の仕様表の数字を、ジャンルごとに1枚の表にまとめたデータ集です。集計（件数・最小・中央値・最大）、集計方法、CSV、引用の書き方つき。</description>
+    <title>TORRAS Ostand Q3 iPhone 17 Pro Max ケース の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-torras-ostand-q3-iphone17promax</link>
+    <guid isPermaLink="true">https://gearnote.net/product-torras-ostand-q3-iphone17promax</guid>
+    <description>TORRAS Ostand Q3 レザートーン MagSafe対応ケース（iPhone 17 Pro Max用）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>データの使い方・引用ガイド｜GEARNOTEの仕様データを引用・転載する方へ｜GEARNOTE</title>
-    <link>https://gearnote.net/data-cite</link>
-    <guid isPermaLink="true">https://gearnote.net/data-cite</guid>
-    <description>GEARNOTEの仕様データ（CSVあり）を、出典を書けば引用・転載できます。出典の書き方の例（文章用・HTMLリンク用）、利用条件、引用するときの注意、取材のご案内をまとめました。</description>
+    <title>COSORI スマートフードキッチンスケール の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-cosori-smart-kitchen-scale</link>
+    <guid isPermaLink="true">https://gearnote.net/product-cosori-smart-kitchen-scale</guid>
+    <description>COSORI スマートフードキッチンスケール 栄養計算機付きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>全商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/all-products</link>
-    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
-    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>エレコム 握りの極み ワイヤレスマウス の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-elecom-nigiri-no-kiwami-mouse</link>
+    <guid isPermaLink="true">https://gearnote.net/product-elecom-nigiri-no-kiwami-mouse</guid>
+    <description>エレコム マウス ワイヤレス Mサイズ 5ボタン 握りの極みの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Sonyの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-sony</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
-    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Belkin トイ・ストーリー リリーパッド iPadケース の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-belkin-toystory-ipad-case</link>
+    <guid isPermaLink="true">https://gearnote.net/product-belkin-toystory-ipad-case</guid>
+    <description>Belkin ディズニー トイ・ストーリー5「リリーパッド」iPad A16 ケースの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>YA-MANの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-ya-man</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-ya-man</guid>
-    <description>YA-MANの美顔器・脱毛器・ヘアケア家電の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Belkin UltraGlass 2 ガラスフィルム の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-belkin-ultraglass2-iphone-film</link>
+    <guid isPermaLink="true">https://gearnote.net/product-belkin-ultraglass2-iphone-film</guid>
+    <description>Belkin UltraGlass 2 iPhone 18 Pro/17 Pro対応 強化ガラスフィルムの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>食べ物の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-food</link>
-    <guid isPermaLink="true">https://gearnote.net/category-food</guid>
-    <description>プロテインバー・栄養補助食品、おつまみ・珍味、お菓子・スイーツ、ナッツ・保存食まで、特徴をもとに厳選した食品一覧。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>UGREEN Air モバイルバッテリー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ugreen-air-magsafe-powerbank</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ugreen-air-magsafe-powerbank</guid>
+    <description>UGREEN Air モバイルバッテリー 薄型タイプの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>飲料の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
-    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>UGREEN NASync DH2300 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ugreen-nasync-dh2300-nas</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ugreen-nasync-dh2300-nas</guid>
+    <description>UGREEN NASync DH2300 2ベイ デスクトップNASの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ゲームの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-games</link>
-    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
-    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>UGREEN CAT8 LANケーブルの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ugreen-cat8-lan-cable</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ugreen-cat8-lan-cable</guid>
+    <description>UGREEN LANケーブル CAT8 2M メッシュ素材 40Gbps/2000MHzの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Beats Solo Buds の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-beats-solo-buds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-beats-solo-buds</guid>
-    <description>Beats Solo Buds Bluetoothワイヤレスイヤフォンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>TORRAS LoopGo Flexの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-torras-loopgo-flex-strap</link>
+    <guid isPermaLink="true">https://gearnote.net/product-torras-loopgo-flex-strap</guid>
+    <description>TORRAS スマホストラップ ショルダー 首掛け LoopGo Flexの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ぽこ あ ポケモン -Switch2の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-poko-a-pokemon-switch2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-poko-a-pokemon-switch2</guid>
-    <description>ぽこ あ ポケモン -Switch2の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>KINUJO シルクドロップミルクの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kinujo-silk-drop-milk</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kinujo-silk-drop-milk</guid>
+    <description>KINUJO シルクドロップミルク ヘアミルクの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ペット用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-pets</link>
-    <guid isPermaLink="true">https://gearnote.net/category-pets</guid>
-    <description>キャットフード・ドッグフード・トイレ用品・デンタルケアなど、特徴をもとに厳選したペット用品一覧。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>KINUJO シルクドロップマルチ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-kinujo-silk-drop-multi</link>
+    <guid isPermaLink="true">https://gearnote.net/product-kinujo-silk-drop-multi</guid>
+    <description>KINUJO シルクドロップマルチ マルチオイルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ポケットモンスター バイオレットの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-pokemon-violet-switch</link>
-    <guid isPermaLink="true">https://gearnote.net/product-pokemon-violet-switch</guid>
-    <description>ポケットモンスター バイオレット -Switchの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>VITURE Switch 2用 モバイルドックカバーの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-viture-mobile-dock-cover-switch2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-viture-mobile-dock-cover-switch2</guid>
+    <description>VITURE Switch 2用 モバイルドックカバーの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ノイズキャンセリングイヤホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-noise-cancelling-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-noise-cancelling-earbuds</guid>
-    <description>AirPods 4・WF-1000XM6・Bose QC Ultra Earbuds 2を比較。各商品の特徴をもとに、装着感・遮音性・音質の観点からおすすめのノイズキャンセリングイヤホンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>JOBY GorillaPod 5Kキットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-joby-gorillapod-5k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-joby-gorillapod-5k</guid>
+    <description>JOBY GorillaPod 5Kキット フレキシブル三脚（耐荷重5kg・ボールヘッド付き）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ヘアドライヤーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-hair-dryers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-hair-dryers</guid>
-    <description>パナソニック ナノケア・シャープ IB-WX901・ReFaビューテックを比較。各商品の特徴をもとに、速乾性・静音性・ツヤ仕上げの観点からおすすめのヘアドライヤーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Coizabera LEDシーリングライト 8畳 32W 3990lm 調光調色 リモコン付き の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-coizabera-led-ceiling-light-8jo</link>
+    <guid isPermaLink="true">https://gearnote.net/product-coizabera-led-ceiling-light-8jo</guid>
+    <description>Coizabera LEDシーリングライト 8畳 32W 3990lm 調光調色 リモコン付きの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コードレス掃除機おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cordless-vacuums</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cordless-vacuums</guid>
-    <description>シャープ EC-FR9・Dyson V12 Detect・Dyson PencilVacを比較。各商品の特徴をもとに、吸引力・軽さの観点からおすすめのコードレス掃除機を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>HyperX Cloud Stinger 2 Coreの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-hyperx-cloud-stinger-2-core</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hyperx-cloud-stinger-2-core</guid>
+    <description>HyperX Cloud Stinger 2 Core ゲーミングヘッドセット(有線)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>スマートフォンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-smartphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
-    <description>iPhone 17 Pro Max・iPhone Air・AQUOS sense9を比較。各商品の特徴をもとに、カメラ性能・薄さ軽さの観点からおすすめのスマートフォンを紹介します。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>OneOdio Pro10の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-oneodio-pro10-headphones</link>
+    <guid isPermaLink="true">https://gearnote.net/product-oneodio-pro10-headphones</guid>
+    <description>OneOdio Pro10 有線オーバーイヤーヘッドホン（密閉型）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>プロテインバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-protein-bars</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-protein-bars</guid>
-    <description>inバープロテイン・ザバス・カロリーメイトを比較。各商品の特徴をもとに、食感・たんぱく質量の観点からおすすめのプロテインバーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>WHOOP 5.0 ヘルス&amp;フィットネスウェアラブルの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-whoop-5</link>
+    <guid isPermaLink="true">https://gearnote.net/product-whoop-5</guid>
+    <description>WHOOP 5.0 ヘルス&amp;フィットネスウェアラブルの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ミネラルウォーターおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mineral-water</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mineral-water</guid>
-    <description>財宝温泉水・のむシリカ・い・ろ・は・すを比較。各商品の特徴をもとに、口当たり・成分の観点からおすすめのミネラルウォーターを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>BODUM シャンボール フレンチプレス 350ml シルバー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-bodum-chambord-french-press-350ml</link>
+    <guid isPermaLink="true">https://gearnote.net/product-bodum-chambord-french-press-350ml</guid>
+    <description>BODUM ボダム コーヒーメーカー コーヒープレス CHAMBORD シャンボール フレンチプレス コーヒーメーカー 350ml シルバーの特徴を整理。メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>歯磨き粉おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-toothpaste</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-toothpaste</guid>
-    <description>システマEX W・クリーンデンタル・Ora2を比較。各商品の区分・内容量・セット内容をもとに、歯磨き粉を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>ソニー ULT FIELD 3の特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sony-srs-ult30-ult-field-3</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sony-srs-ult30-ult-field-3</guid>
+    <description>ソニー ULT FIELD 3（SRS-ULT30）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>リュックおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-backpacks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-backpacks</guid>
-    <description>エースジーン・アヴィレックス・カナナプロジェクトを比較。各商品の特徴をもとに、機能性・軽さ・デザインの観点からおすすめのリュックを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>SOUNDPEATS GoFree 2s オープンイヤーイヤホン 耳掛け型 スポーツイヤホンの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-soundpeats-gofree-2s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-soundpeats-gofree-2s</guid>
+    <description>SOUNDPEATS GoFree 2s オープンイヤーイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>キャットフードおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-cat-food</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-cat-food</guid>
-    <description>ピュリナワン・ニュートロ・カルカンを比較。各商品の特徴をもとに、食いつき・匂いの観点からおすすめのキャットフードを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>SOUNDPEATS Air6 HS ワイヤレスイヤホン インナーイヤー型 LDACの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-soundpeats-air6-hs</link>
+    <guid isPermaLink="true">https://gearnote.net/product-soundpeats-air6-hs</guid>
+    <description>SOUNDPEATS Air6 HSの特徴を整理。半入耳式インナーイヤー型の装着感と13mmドライバーなど、メリット・デメリットをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>宅トレ器具おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-home-training</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-home-training</guid>
-    <description>PROIRONダンベル・腹筋ローラー・パワーグリップを比較。各商品の特徴をもとに、目的別におすすめの自宅トレーニング器具を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>モバイルバッテリーの選び方ガイド｜容量・出力W・機内持ち込みの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-power-bank</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-power-bank</guid>
+    <description>モバイルバッテリーの容量（mAh・Wh）、出力W・USB PD、ケーブル一体型・マグネット式・半固体電池の違い、機内持ち込みの考え方を、仕様表の見方とあわせて解説します。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>文房具おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-stationery</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-stationery</guid>
-    <description>ユニボールシグノ RT1・フリクションライト・トンボ色鉛筆を比較。各商品の特徴をもとに、用途別におすすめの定番文房具を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Apple Watch磁気高速充電 USB-Cケーブル(1m)の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-watch-magnetic-fast-charging-usbc-1m</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-watch-magnetic-fast-charging-usbc-1m</guid>
+    <description>Apple Watch磁気高速充電 USB-Cケーブル(1m)の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>洗車用品おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-car-wash</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-car-wash</guid>
-    <description>シュアラスターシャンプー・超ガラコ・マイクロファイバー洗車タオルを比較。各商品の特徴をもとに、洗う・撥水・拭き上げの観点からおすすめの洗車用品を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Spigen Galaxy S26 Ultra ケース オプティック・アーマー (ブラック)の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spigen-optic-armor-galaxy-s26-ultra-case-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spigen-optic-armor-galaxy-s26-ultra-case-black</guid>
+    <description>Spigen Galaxy S26 Ultra ケース オプティック・アーマー (ブラック)（スライド式カメラカバー・米軍MIL規格取得・ストラップホール）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>フライパンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-frying-pans</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-frying-pans</guid>
-    <description>貝印・ティファール・サーモスのフライパンを比較。各商品の特徴をもとに、軽さ・熱伝導・耐久性の観点からおすすめのフライパンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Spigen Xperia 1 VII ケース ラギッド・アーマー (マット・ブラック)の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spigen-rugged-armor-xperia-1-vii-case-matte-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spigen-rugged-armor-xperia-1-vii-case-matte-black</guid>
+    <description>Spigen Xperia 1 VII ケース ラギッド・アーマー (マット・ブラック)（TPU・米軍MIL規格取得・XRDフォーム・ストラップホール）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ファミリーゲームおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-family-games</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-family-games</guid>
-    <description>UNO・ジェンガ・スタディ将棋を比較。各商品の特徴をもとに、人数・年齢・遊び方の観点からおすすめのファミリーゲームを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Spigen iPad 第11/10世代 ケース ラギッド・アーマー・プロ の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spigen-ipad-a16-case-rugged-armor-pro-acs05417</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spigen-ipad-a16-case-rugged-armor-pro-acs05417</guid>
+    <description>Spigen iPad 第11/10世代 ケース ラギッド・アーマー・プロ ACS05417 ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ゲームコントローラーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-controllers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-controllers</guid>
-    <description>Switch2 Proコントローラー・DualSense・Joy-Conを比較。各商品の特徴をもとに、対応機種・プレイスタイル別におすすめのコントローラーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Spigen AirPods Pro 3 ケース ラギッド・アーマー の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spigen-airpods-pro3-case-rugged-armor-acs09822</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spigen-airpods-pro3-case-rugged-armor-acs09822</guid>
+    <description>Spigen AirPods Pro 3 ケース ラギッド・アーマー ACS09822 マット・ブラックの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>空気清浄機おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-air-purifiers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-air-purifiers</guid>
-    <description>シャープKI-TX75・KI-TS50・Dyson Purifier Hot+Coolを比較。各商品の特徴をもとに、清浄力・サイズ・多機能性の観点からおすすめの空気清浄機を紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Xiaomi Smart Band 11 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-smart-band-11</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-smart-band-11</guid>
+    <description>Xiaomi Smart Band 11 スマートバンドの特徴を整理。1.72インチAMOLED、5ATM防水、睡眠HRVモニタリング、iPhoneとXiaomiスマホの2台連携など、Amazon商品ページの記載をもとにまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>コーヒーマシン・コーヒー器具おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-coffee-machines</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-coffee-machines</guid>
-    <description>コーヒーマシン・コーヒー器具の比較ページです。デロンギの3機種（マグニフィカS・スティローザ・ラ・スペシャリスタ）を各商品の特徴から比較し、全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>メンズシェーバーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mens-shavers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
-    <description>ブラウン シリーズ9 SPORT・パナソニック ラムダッシュPRO・フィリップス5000シリーズを各商品の特徴から比較。剃り味・お手入れのしやすさをまとめました。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Belkin iPhone 18 Pro Max ケース クリア（MagSafe/Qi2 25W対応・カメラボタン付き） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-belkin-iphone18promax-clear-case-camera-button-magsafe-qi2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-belkin-iphone18promax-clear-case-camera-button-magsafe-qi2</guid>
+    <description>Belkin iPhone 18 Pro Max ケース クリア（MagSafe/Qi2 25W対応・カメラボタン付き）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>柔軟剤おすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-fabric-softeners</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-fabric-softeners</guid>
-    <description>レノア ハピネス・IROKAフレアフレグランス・ソフランアロマリッチを各商品の特徴から比較。香りの特徴・容量をまとめました。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>TORRAS iPhone 18 Pro 用 ケース Ostand Q3 Air（黒影・ブラック・MagSafe対応） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-torras-ostand-q3-air-iphone18pro-case-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-torras-ostand-q3-air-iphone18pro-case-black</guid>
+    <description>TORRAS iPhone 18 Pro 用 ケース Ostand Q3 Air（黒影・ブラック・MagSafe対応）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Belkin 45W GaN充電器 の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-belkin-45w-gan-charger</link>
-    <guid isPermaLink="true">https://gearnote.net/product-belkin-45w-gan-charger</guid>
-    <description>【VGP受賞】Belkin 充電器 USB-C 2ポート 45W GaN採用の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Apple MagSafe対応 iPhone 18 Pro シリコーンケース（ブラック） の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-iphone18pro-silicone-case-magsafe-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone18pro-silicone-case-magsafe-black</guid>
+    <description>Apple MagSafe対応 iPhone 18 Pro シリコーンケース（ブラック）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Belkin ワイヤレス充電スタンド の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-belkin-magsafe-wireless-stand</link>
-    <guid isPermaLink="true">https://gearnote.net/product-belkin-magsafe-wireless-stand</guid>
-    <description>Belkin ワイヤレス充電スタンド MagSafe対応 Qi2公式認証の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Lexar ES5 ポータブルSSD 2TB MagSafe対応 の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-lexar-es5-portable-ssd-2tb-magsafe</link>
+    <guid isPermaLink="true">https://gearnote.net/product-lexar-es5-portable-ssd-2tb-magsafe</guid>
+    <description>Lexar ES5 ポータブルSSD 2TB MagSafe対応の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>SALONIAの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-salonia</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-salonia</guid>
-    <description>SALONIA（サロニア）製品の特徴、ヘアアイロン・ドライヤー・美顔器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>NEC LAVIE Tab T12 12.1型 Wi-Fiモデル 128GB の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nec-lavie-tab-t12-12-1-wifi-6gb-128gb-cloud-gray</guid>
+    <description>NEC LAVIE Tab T12 12.1型 Wi-Fiモデル 128GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ヘッドホンおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-headphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-headphones</guid>
-    <description>ソニー WH-1000XM6・Bose QuietComfort Ultra Headphones・ソニー WH-CH720Nを比較。各商品の特徴をもとに、ノイズキャンセリング性能・音質の観点からおすすめのヘッドホンを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ポータブルスピーカーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-portable-speakers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-portable-speakers</guid>
-    <description>JBL GO5・JBL FLIP 7・Bose SoundLink Flex（第2世代）を比較。各商品の特徴をもとに、音質・防水性能の観点からおすすめのポータブルスピーカーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パーティースピーカーおすすめ3選と全商品の比較表｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-party-speakers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-party-speakers</guid>
-    <description>JBL PARTYBOX ENCORE ESSENTIAL・JBL PartyBox Stage 320・Anker soundcore Rave Neo 2を比較。各商品の特徴をもとに、出力・防水性能の観点からおすすめのパーティースピーカーを紹介します。全商品の比較表も掲載しています。</description>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <title>Google Pixel Watch 5（45mm）Matte Black Wi-Fi の特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-google-pixel-watch-5-45mm-matte-black-wifi</link>
+    <guid isPermaLink="true">https://gearnote.net/product-google-pixel-watch-5-45mm-matte-black-wifi</guid>
+    <description>Google Pixel Watch 5（45mm）Matte Black Wi-Fiの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
