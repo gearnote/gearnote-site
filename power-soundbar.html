@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>サウンドバーの消費電力（W）と出力（W）の読み方｜実用最大出力は消費電力ではない、待機時、サブウーファー別体（掲載13台）｜GEARNOTE</title>
+<meta name="description" content="サウンドバーは「消費電力25W」と「実用最大出力100W」のように、同じWで別の数字が並びます。GEARNOTE掲載13台のメーカー公開情報から、出力÷消費電力（約3〜6倍）と、消費電力の書き方を数えました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="サウンドバーの消費電力（W）と出力（W）の読み方｜実用最大出力は消費電力ではない、待機時、サブウーファー別体（掲載13台）｜GEARNOTE">
+<meta property="og:description" content="サウンドバーは「消費電力25W」と「実用最大出力100W」のように、同じWで別の数字が並びます。GEARNOTE掲載13台のメーカー公開情報から、出力÷消費電力（約3〜6倍）と、消費電力の書き方を数えました。">
+<meta property="og:url" content="https://gearnote.net/power-soundbar">
+<link rel="canonical" href="https://gearnote.net/power-soundbar">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="サウンドバーの消費電力（W）と出力（W）の読み方｜実用最大出力は消費電力ではない、待機時、サブウーファー別体（掲載13台）｜GEARNOTE">
+<meta name="twitter:description" content="サウンドバーは「消費電力25W」と「実用最大出力100W」のように、同じWで別の数字が並びます。GEARNOTE掲載13台のメーカー公開情報から、出力÷消費電力（約3〜6倍）と、消費電力の書き方を数えました。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"サウンドバーの消費電力の書き方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"サウンドバーの「100W」は消費電力ですか？","acceptedAnswer":{"@type":"Answer","text":"そうとは限りません。レグザRA-B100の100Wは実用最大出力（JEITA）で、消費電力は25Wと書かれています。"}},{"@type":"Question","name":"出力と消費電力は、どのくらい違いますか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTE掲載で両方が読み取れる6台では、出力の合計は消費電力の約3.3〜5.8倍でした（GEARNOTE運営の計算）。"}},{"@type":"Question","name":"サウンドバーの待機電力は？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTE掲載で待機の記載があるのは3台で、ヤマハSR-B30Aは0.3W／0.6W、レグザRA-B100は0.5W、JBL CINEMA SB580は0.5W未満でした。"}},{"@type":"Question","name":"サブウーファー付きは、消費電力をどう読みますか？","acceptedAnswer":{"@type":"Answer","text":"本体とサブウーファーを足します。パナソニックSC-HTB900は本体39W、アクティブサブウーハー48Wで、合計87Wです。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ サウンドバーの消費電力の書き方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">サウンドバーの消費電力（W）と出力（W）の読み方</h1>
+        <p class="desc">サウンドバーの仕様表では、スピーカーの出力も消費電力も「W（ワット）」で書かれます。GEARNOTE掲載分では、両方が読み取れる機種はすべて出力の数字のほうが大きく、取り違えやすい組み合わせです。GEARNOTEに載せているサウンドバーのメーカー公開情報を原文で集め、2つの数字の関係をまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>「出力のW」と「消費電力のW」は別の数字</h2>
+        <p>サウンドバーの仕様表には、<strong>音の出力</strong>（実用最大出力・最大出力など）と、<strong>コンセントから使う電力</strong>（消費電力）が、どちらもWで並びます。たとえばレグザRA-B100のメーカー公開情報は、出力が「100W（30W+30W+20W+20W）、非同時駆動（JEITA）」、消費電力が「AC 100V 50/60Hz共用、25W（スタンバイ時 0.5W）」です（<a href="product-regza-soundbar-ra-b100-e-2ch-100w-dts-virtual-x">RA-B100</a>）。</p>
+        <p>消費電力と出力の両方が読み取れる6台で、出力（合計）÷消費電力を計算しました（GEARNOTE運営の計算（2026年11月15日））。出力の内訳だけが書かれている機種は、内訳を足した数字です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>消費電力の原文</th><th>出力の原文</th><th>出力の書き方</th><th>出力の合計</th><th>出力÷消費電力</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-yamaha-sr-c20a-soundbar">ヤマハ SR-C20A</a></th><td>消費電力 13W</td><td>フロントL/R：20W×2、サブウーファー：30W</td><td>実用最大出力（JEITA）の内訳を足した数字</td><td>70W</td><td>約5.4倍</td></tr>
+            <tr><th><a href="product-yamaha-sr-b30a-soundbar">ヤマハ SR-B30A</a></th><td>消費電力 23W（待機時0.3W／0.6W）</td><td>フロントL/R：30W×2、サブウーファー：60W</td><td>実用最大出力（JEITA）の内訳を足した数字</td><td>120W</td><td>約5.2倍</td></tr>
+            <tr><th><a href="product-regza-soundbar-ra-b100-e-2ch-100w-dts-virtual-x">REGZA サウンドバー RA-B100(E) 2.0ch（最大100W・DTS Virtual:X）</a></th><td>AC 100V 50/60Hz共用、25W（スタンバイ時 0.5W）</td><td>100W（30W+30W+20W+20W）、非同時駆動（JEITA）</td><td>実用最大出力（JEITA、非同時駆動）</td><td>100W</td><td>約4.0倍</td></tr>
+            <tr><th><a href="product-funlogy-soundbar">FUNLOGY Soundbar</a></th><td>消費電力 30W</td><td>ツイーター：最大40W（20W×2）、サブウーファー：最大60W（30W×2）</td><td>「最大」の出力を足した数字（JEITAの記載なし）</td><td>100W</td><td>約3.3倍</td></tr>
+            <tr><th><a href="product-sony-ht-x8500-soundbar">ソニー サウンドバー HT-X8500</a></th><td>消費電力 動作時 32W</td><td>合計160W（フロント 40W+40W、サブウーファー 80W）</td><td>実用最大出力の合計</td><td>160W</td><td>約5.0倍</td></tr>
+            <tr><th><a href="product-panasonic-sc-htb900-soundbar">パナソニック SC-HTB900-K</a></th><td>本体39W、アクティブサブウーハー48W</td><td>合計505W（フロント左/右 85W+85W、センター 85W、サブウーハー 250W）</td><td>実用最大出力（非同時駆動、JEITA）の合計</td><td>505W</td><td>約5.8倍</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>この6台では、出力の合計は消費電力の<strong>約3.3〜5.8倍</strong>でした。出力のWを、コンセントから使う電力として読むと、実際の数字の数倍に見積もることになります。実用最大出力は、JEITAの決まった条件で測る出力の値で、消費電力とは別のものです（規格の本文は未閲覧のため、条件の中身は書いていません）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>出力の書き方も、メーカーでそろっていない</h2>
+        <p>出力の数字は、書き方の種類が多い項目です。</p>
+        <ul><li>実用最大出力：ヤマハ・レグザ・パナソニックは（JEITA）と注記し、レグザとパナソニックは「非同時駆動」とも書いています。ソニーHT-X8500は「実用最大出力 合計160W」です。</li><li><a href="product-jbl-bar-300-mk2">JBL BAR 300MK2</a>：「450W（RMS @THD 1%：225W）」と、最大の数字とRMSの数字を並べて書いています。同じ商品で2つの出力の数字があり、比は2倍です。</li><li><a href="product-sennheiser-ambeo-soundbar-plus">ゼンハイザー AMBEO Soundbar Plus</a>：「トータル・オーディオ・パワー 400W（RMS）」と書いています。</li><li><a href="product-tcl-soundbar-s55h">TCL S55H</a>：「最大出力 220W」と書いています。</li></ul>
+        <p>JEITAの実用最大出力、THD 1%での最大、RMSは、名前の違う出力の数字です（JBLは同じ商品で450Wと225Wを書いています）。<strong>違う書き方の出力どうしを並べて比べることはできません</strong>。GEARNOTEの<a href="data-soundbar">サウンドバーの仕様一覧</a>の 実用最大出力（合計）(W) の列は、メーカーが合計の数字を書いている3台にだけ数字を入れています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>消費電力が書かれていない機種</h2>
+        <p>メーカー公開情報のブロックがある13台のうち、消費電力（W）の数字が書かれていないのは7台でした（GEARNOTE運営の計算（2026年11月15日））。Bose・Sonos・JBL・ゼンハイザー・TCLの機種で、メーカーのページに消費電力の項目がないか、ブロックに入っていない機種です。</p>
+        <p><a href="product-sonos-beam-gen2">Sonos Beam（Gen 2）</a>は「電源 100〜240V、50〜60Hz、1A（自動切換）」と書いています。<strong>1Aは電源の電流の表記で、消費電力のWそのものではありません</strong>。100V×1Aは100Wですが、メーカーはこの数字を消費電力としては書いていません。V・A・Wの関係は<a href="power-w-how-to-read">消費電力（W）の読み方</a>にあります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>待機時と、サブウーファー別体の書き方</h2>
+        <p>待機時の数字を書いていたのは3台でした。</p>
+        <ul><li><a href="product-yamaha-sr-b30a-soundbar">ヤマハ SR-B30A</a>：「消費電力 23W（待機時0.3W／0.6W）」。待機の数字が2つ書かれていて、どの条件で分かれるかは、ブロックに書かれていません。</li><li><a href="product-regza-soundbar-ra-b100-e-2ch-100w-dts-virtual-x">レグザ RA-B100</a>：「25W（スタンバイ時 0.5W）」</li><li><a href="product-jbl-cinema-sb580">JBL CINEMA SB580</a>：「待機電力0.5W未満」と、待機だけを書き、動作時の消費電力は書いていません。</li></ul>
+        <p>別体のサブウーファーが付く機種は、消費電力が2つに分かれます。<a href="product-panasonic-sc-htb900-soundbar">パナソニック SC-HTB900</a>は「本体39W、アクティブサブウーハー48W」で、2つを足すと87Wです（GEARNOTE運営の計算（2026年11月15日））。データ一覧の 消費電力（本体。待機時の数字を除く）(W) の列は、本体の39Wだけを載せています。テレビと同じタップで使うときは、テレビ・本体・サブウーファーを足して確かめます（<a href="tool-power-sum">電源タップの合計ワット数チェック</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>よくある読み違い</h2>
+        <ul><li><strong>「100Wのサウンドバーは100W使う」</strong>：RA-B100の100Wは出力で、消費電力は25Wです。</li><li><strong>「450Wと400Wで比べる」</strong>：THD 1%での最大とRMSでは測り方が違います。BAR 300MK2は同じ商品で450W（最大）と225W（RMS）です。</li><li><strong>「1Aと書いてあれば100W使う」</strong>：電源の電流の表記で、消費電力の数字ではありません。</li><li><strong>「本体の消費電力だけで足りる」</strong>：別体のサブウーファーは別に消費電力があります（SC-HTB900は48W）。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>商品ページで確かめること</h2>
+        <ul><li>Wの数字が、出力（実用最大出力・最大・RMS）か、消費電力か。</li><li>出力の書き方（JEITA・THD・RMS）。違う書き方の数字どうしは比べない。</li><li>別体のサブウーファーの消費電力。</li><li>待機時の数字。</li><li>スピーカーとの違いは<a href="diff-soundbar-vs-speaker">サウンドバーとスピーカーの違い</a>、選び方は<a href="guide-soundbar">サウンドバーの選び方</a>。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの数字は、2026年11月15日時点のGEARNOTEのデータ一覧（CSV）と、商品ページの「メーカー公開情報」ブロックにある文字列から数えたものです。ブロックの文字列には、それぞれメーカー公式ページの出典と確認日が付いています。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。消費電力の数字は、メーカーが決めた条件での数字で、実際に使ったときの数字ではありません。消費者庁の家庭用品品質表示法で、表示の決まりがある電気機械器具は17品目です（<a href="https://www.caa.go.jp/policies/policy/representation/household_goods/guide/electric/" target="_blank" rel="noopener">消費者庁「電気機械器具」</a>）。その一覧にサウンドバーは入っていません。消費電力と出力は、メーカーが仕様表に書いている数字です。</p>
+        <ul><li>JEITAの実用最大出力の測定条件、THD 1%・RMSの定義は、規格の本文を開いていないため書いていません。</li><li>ヤマハSR-B30Aの待機時0.3W／0.6Wが、どの設定で分かれるかは、ブロックに書かれていないため書いていません。</li><li>音量と消費電力の関係は、メーカーの公開情報にないため書いていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「サウンドバーの消費電力の書き方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/power-soundbar</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/power-soundbar"&gt;GEARNOTE「サウンドバーの消費電力の書き方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>サウンドバーの「100W」は消費電力ですか？</h3>
+            <p>そうとは限りません。レグザRA-B100の100Wは実用最大出力（JEITA）で、消費電力は25Wと書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>出力と消費電力は、どのくらい違いますか？</h3>
+            <p>GEARNOTE掲載で両方が読み取れる6台では、出力の合計は消費電力の約3.3〜5.8倍でした（GEARNOTE運営の計算）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>サウンドバーの待機電力は？</h3>
+            <p>GEARNOTE掲載で待機の記載があるのは3台で、ヤマハSR-B30Aは0.3W／0.6W、レグザRA-B100は0.5W、JBL CINEMA SB580は0.5W未満でした。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>サブウーファー付きは、消費電力をどう読みますか？</h3>
+            <p>本体とサブウーファーを足します。パナソニックSC-HTB900は本体39W、アクティブサブウーハー48Wで、合計87Wです。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="data-soundbar">サウンドバーの仕様一覧</a></li><li><a href="guide-soundbar">サウンドバーの選び方</a></li><li><a href="diff-soundbar-vs-speaker">サウンドバーとスピーカーの違い</a></li><li><a href="tool-soundbar-size">サウンドバーの幅とテレビのサイズ</a></li><li><a href="power-tv">テレビの消費電力の書き方</a></li><li><a href="power-w-how-to-read">消費電力（W）の読み方</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
