@@ -6,7 +6,245 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 15 Nov 2026 14:37:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 17:02:39 +0000</lastBuildDate>
+  <item>
+    <title>Webカメラの重さの読み方｜マウント込み・ケーブル込みで変わる数字｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-webcam</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-webcam</guid>
+    <description>Webカメラの質量は、マウントやクリップを付けた状態か、ケーブルを含むかで数字が変わります。掲載11台のメーカー公開仕様の書き方を数え、マウントの分の重さと、それが全体に占める割合をGEARNOTE運営が計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ゲームコントローラーの重さの読み方｜ケーブル込み・左右別の数字｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-game-controller</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-game-controller</guid>
+    <description>ゲームコントローラーの質量は、有線ならケーブル込みか、Joy-Conなら左右どちらの数字かで読み方が変わります。掲載15台のメーカー公開仕様の書き方を数え、左右の合計や世代での差をGEARNOTE運営が計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヘアアイロンの重さの読み方｜電源コード込み・本体のみ・色で変わる数字｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-hair-iron</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-hair-iron</guid>
+    <description>ヘアアイロンの質量は、電源コードを含むか、キャップを付けた状態か、さらに色によっても数字が変わります。掲載19台のメーカー公開仕様の書き方を数え、キャップや色、バレル径による重さの差をGEARNOTE運営が計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>衣類スチーマーの重さの読み方｜スタンド込み・収納時・付属品込みの違い｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-garment-steamer</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-garment-steamer</guid>
+    <description>衣類スチーマーやコードレスアイロンの質量は、スタンドや給電台、付属品を含むかで数字が変わります。掲載11台のメーカー公開仕様の書き方を数え、スタンド分・収納時の差・水を入れた重さの目安をGEARNOTE運営が計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コーヒーメーカーの重さの読み方｜サーバー込み・単位なしの数字に注意｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-coffee-maker</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-coffee-maker</guid>
+    <description>コーヒーメーカーの質量は、ガラスサーバーを含むか、どの部品を付けた状態かで数字が変わることがあります。掲載17台のメーカー公開仕様の書き方を数え、容量と重さ、水を入れた目安をGEARNOTE運営が整理しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エアフライヤー（ノンフライヤー）の重さの読み方｜バスケット込み・セット時の数字｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-air-fryer</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-air-fryer</guid>
+    <description>エアフライヤー（ノンフライヤー）の質量は、どの容器を付けた状態かで数字が変わる機種があります。掲載12台のメーカー公開仕様の書き方を数え、容量1Lあたりの重さやハンドル込みの寸法をGEARNOTE運営が整理しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>オーブントースターの重さの読み方｜受け皿の扱いと庫内の大きさ｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-oven-toaster</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-oven-toaster</guid>
+    <description>オーブントースターの質量は、受け皿や焼き網を含むかどうかの書き方がメーカーごとに違います。掲載11台のメーカー公開仕様の書き方を数え、外形の大きさあたりの重さ、庫内との比をGEARNOTE運営が計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブレンダー・ミキサーの重さの読み方｜使用時・アタッチメント別・容器込み｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-blender</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-blender</guid>
+    <description>ハンドブレンダーやミキサーの質量は、どのアタッチメントを付けたか、容器を含む使用時かで数字が変わります。掲載11台のメーカー公開仕様の書き方を数え、アタッチメント別の差や、中身を入れた重さの目安をGEARNOTE運営が整理しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電気圧力鍋の重さの読み方｜内なべ・ふたの扱いと容量あたりの重さ｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-pressure-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-pressure-cooker</guid>
+    <description>電気圧力鍋の質量は、内なべやふた、付属品を含むかが仕様表に書かれていないことがほとんどです。掲載10台のメーカー公開仕様の書き方を数え、満水容量あたりの重さと、調理容量いっぱいの目安をGEARNOTE運営が計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電気ヒーター・ストーブの消費電力（W）の読み方｜強弱の段階、50Hz・60Hz、石油ファンヒーターの点火時（掲載51台）｜GEARNOTE</title>
+    <link>https://gearnote.net/power-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/power-heater</guid>
+    <description>電気ヒーターの消費電力は、強弱の段階や50Hz・60Hzで数字が分かれます。GEARNOTE掲載51台のメーカー公開情報から、段階ごとのW、周波数の差、石油ファンヒーターの点火時のW、15Aコンセントとの関係を数えました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コーヒーメーカーの消費電力（W）の読み方｜ドリップ式とエスプレッソ式、容量との関係、15Aコンセント（掲載17台）｜GEARNOTE</title>
+    <link>https://gearnote.net/power-coffee-maker</link>
+    <guid isPermaLink="true">https://gearnote.net/power-coffee-maker</guid>
+    <description>コーヒーメーカーの消費電力は、GEARNOTE掲載のドリップ式で550〜1,450W、エスプレッソ式で1,100〜1,450Wでした。メーカー公開情報から、容量とWの並び、ポンプ圧の書き方、15Aコンセントでの残りを計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>オーブントースターの消費電力（W）の読み方｜1300Wは13A、ポップアップ式との差、電子レンジの出力との違い（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/power-oven-toaster</link>
+    <guid isPermaLink="true">https://gearnote.net/power-oven-toaster</guid>
+    <description>GEARNOTE掲載のオーブントースターの消費電力は1,200〜1,350Wで、5台が1,300Wでした。メーカー公開情報の書き方、ポップアップ式850Wとの差、15Aコンセントでの残り、電子レンジの出力との違いをまとめました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電気圧力鍋の消費電力（W）の読み方｜容量1LあたりのW、70kPa・100kPaとの関係、15Aコンセント（掲載10台）｜GEARNOTE</title>
+    <link>https://gearnote.net/power-pressure-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/power-pressure-cooker</guid>
+    <description>GEARNOTE掲載の電気圧力鍋の消費電力は600〜1,200Wでした。メーカー公開情報から、満水容量1Lあたりの消費電力、圧力（70kPa・100kPa）との関係、15Aコンセントでの残りを計算し、書き方の違いをまとめました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>衣類スチーマー・コードレスアイロンの消費電力（W）の読み方｜1400Wは14A、スチーム量・立ち上がり時間との関係（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/power-garment-steamer</link>
+    <guid isPermaLink="true">https://gearnote.net/power-garment-steamer</guid>
+    <description>GEARNOTE掲載の衣類スチーマーの消費電力は800〜1,400Wで、4台が1,400Wでした。メーカー公開情報から、スチーム量・立ち上がり時間との並び、コードレスアイロンの書き方、15Aコンセントでの残りを計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電気圧力鍋の容量の読み方｜満水容量（呼び容量）と調理容量・調理MAXと豆類MAXの線・人数の書き方｜GEARNOTE</title>
+    <link>https://gearnote.net/capacity-pressure-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/capacity-pressure-cooker</guid>
+    <description>電気圧力鍋の「4.0L」と「2.6L」は何の量か。経済産業省の内容積（水を満たした容積）の定義、取扱説明書の調理MAX・豆類MAX・1/2・1/3の線、最低100mLの水分を確かめ、掲載品の調理容量÷満水容量を計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ミキサー・ブレンダーの容量の読み方｜定格容量（±10%）・最大目盛りと最小目盛り・熱い材料・カップの上限と下限｜GEARNOTE</title>
+    <link>https://gearnote.net/capacity-blender</link>
+    <guid isPermaLink="true">https://gearnote.net/capacity-blender</guid>
+    <description>ミキサーの「1000mL」は、何をどこまで入れた量か。家庭用品品質表示法の定格容量（JIS C9609の方法・±10%）、取扱説明書の最大・最小の目盛り、60℃の注意、ハンドブレンダーのカップの上限と下限を確かめ、掲載11台の書き方を数えました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヒーターのサイズ・寸法の書き方｜置台・ツマミ込みの外形寸法と、周りに空ける距離｜GEARNOTE</title>
+    <link>https://gearnote.net/size-heater</link>
+    <guid isPermaLink="true">https://gearnote.net/size-heater</guid>
+    <description>ヒーターの外形寸法は、石油式は「置台を含む」高さ×幅×奥行、電気式は幅×奥行×高さで書く例が多くあります。掲載44台の書き方と寸法の範囲、取扱説明書にある可燃物との距離を足した置き場所の計算をまとめました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Wi-Fiルーターのサイズ・寸法の書き方｜縦置き・スタンド・アンテナと置き場所の確認｜GEARNOTE</title>
+    <link>https://gearnote.net/size-wifi-router</link>
+    <guid isPermaLink="true">https://gearnote.net/size-wifi-router</guid>
+    <description>Wi-Fiルーターの外形寸法は、幅×高さ×奥行と書くメーカーも、順番を書かないメーカーもあります。掲載18台の表記、突起物・スタンド・ゴム足・アンテナの扱い、いちばん薄い辺と長い辺の範囲を計算して整理しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コーヒーメーカーのサイズ・寸法の書き方｜奥行・高さ・持ち手と置き場所の確認｜GEARNOTE</title>
+    <link>https://gearnote.net/size-coffee-maker</link>
+    <guid isPermaLink="true">https://gearnote.net/size-coffee-maker</guid>
+    <description>コーヒーメーカーの外形寸法の読み方を、メーカーの仕様と表示ルールで確かめました。掲載12台の順番と単位、持ち手・ポットを含むかの注記、ドリップ式と全自動マシンの寸法の範囲、カップトレイで変わる奥行も整理しています。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ハンディクリーナー・布団クリーナーのサイズ・寸法の書き方｜使用時と収納時の違い｜GEARNOTE</title>
+    <link>https://gearnote.net/size-handy-cleaner</link>
+    <guid isPermaLink="true">https://gearnote.net/size-handy-cleaner</guid>
+    <description>ハンディクリーナー・布団クリーナー・スチームモップの外形寸法は、高さ×幅×奥行で書く例と幅×奥行×高さの例があり、使用時と収納時で形が変わる機種もあります。掲載7台の表記と寸法の範囲、収納時の変化を計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>衣類スチーマー・アイロンのサイズ・寸法の書き方｜長さと高さ・収納時の寸法｜GEARNOTE</title>
+    <link>https://gearnote.net/size-garment-steamer</link>
+    <guid isPermaLink="true">https://gearnote.net/size-garment-steamer</guid>
+    <description>衣類スチーマーとコードレスアイロンの寸法は、いちばん長い辺を「長さ」と書くメーカーも「高さ」と書くメーカーもあります。掲載9台の表記の順番、本体と収納時の寸法の差を、メーカーの表記から計算しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>電気圧力鍋の掃除のしかたは？パッキン・おもり・圧力表示ピンの洗い方をメーカー別に比較（掲載8台）｜GEARNOTE</title>
+    <link>https://gearnote.net/care-pressure-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/care-pressure-cooker</guid>
+    <description>電気圧力鍋のパッキン・おもり・圧力表示ピン・内なべのお手入れは、外して洗うか、食器洗い機を使えるかなどがメーカーで違います。掲載8台の取扱説明書の記載と、パナソニックの公式FAQを引用して比べました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ポータブル電源の保管とお手入れは？残量の目安・充電の間隔・拭き方をメーカー別に比較（掲載8台）｜GEARNOTE</title>
+    <link>https://gearnote.net/care-portable-power-station</link>
+    <guid isPermaLink="true">https://gearnote.net/care-portable-power-station</guid>
+    <description>ポータブル電源を使わない間の残量（100%か50〜80%か）、充電の間隔、本体の拭き方は、メーカーで書き方が違います。掲載8台の取扱説明書の記載と、Jackery Japanの公式サイトの解説を引用して比べました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ハンドブレンダー・ミキサーの洗い方は？本体の拭き方・刃の洗い方・食器洗い機をメーカー別に比較（掲載7台）｜GEARNOTE</title>
+    <link>https://gearnote.net/care-blender</link>
+    <guid isPermaLink="true">https://gearnote.net/care-blender</guid>
+    <description>ハンドブレンダーやミキサーは、本体を水洗いしない点は共通でも、刃の洗い方、食器洗い機に入れてよい部品、洗ったあとの刃の向きはメーカーで違います。掲載7台の取扱説明書の記載と、ティファールの取扱説明書を引用して比べました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>オーブントースターの掃除のしかたは？パンくずトレイ・庫内・焼き網のお手入れをメーカー別に比較（掲載7台）｜GEARNOTE</title>
+    <link>https://gearnote.net/care-oven-toaster</link>
+    <guid isPermaLink="true">https://gearnote.net/care-oven-toaster</guid>
+    <description>オーブントースターのパンくずトレイを掃除する頻度、庫内やヒーターまわりの拭き方、焼き網を洗えるか、食器洗い機を使えるかを、掲載7台の取扱説明書の記載と、バルミューダの公式サポートページを引用して比べました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ハンディクリーナー・布団クリーナー・スチームモップのお手入れは？フィルター・パッド・ローラーの洗い方を比較（掲載7台）｜GEARNOTE</title>
+    <link>https://gearnote.net/care-handy-cleaner</link>
+    <guid isPermaLink="true">https://gearnote.net/care-handy-cleaner</guid>
+    <description>ハンディクリーナー・布団クリーナー・スチームモップ・水拭き掃除機の、フィルターを水洗いできるか、乾かし方、パッドやローラーの洗い方を、掲載7台の取扱説明書の記載と、ダイソンの公式サポートを引用して比べました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>適用畳数・適用床面積とは｜空気清浄機と加湿器の「〜20畳」の決め方（JEM 1467・JEM 1426）と新旧基準の読み方｜GEARNOTE</title>
+    <link>https://gearnote.net/words-tekiyo-jo</link>
+    <guid isPermaLink="true">https://gearnote.net/words-tekiyo-jo</guid>
+    <description>空気清浄機と加湿器の「適用床面積〜20畳」は、それぞれ別の規格で決められています。JEM 1467（30分で清浄できる広さ・2026年版の新基準）とJEM 1426（木造和室・プレハブ洋室）を日本電機工業会の資料で確かめ、掲載商品の書き方を集計しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>空気清浄機の風量（m³/分）・CADR・清浄時間とは｜「8畳を○分」と適用畳数との関係（掲載27台の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-cadr-airflow</link>
+    <guid isPermaLink="true">https://gearnote.net/words-cadr-airflow</guid>
+    <description>空気清浄機の「最大風量○m³/分」「8畳を○分」「CADR」は、何を測った数字かが違います。日本電機工業会（JEM 1467）とAHAM（CADR）の公式資料で意味を確かめ、GEARNOTE掲載27台の書き方と、適用畳数との関係を集計しました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>GaN（窒化ガリウム）充電器とは｜シリコンとの違いと、商品名の「GaN」の読み方（掲載USB充電器28台の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-gan-charger</link>
+    <guid isPermaLink="true">https://gearnote.net/words-gan-charger</guid>
+    <description>USB充電器の「GaN」は、窒化ガリウムという半導体の材料の名前です。ロームとアンカー・ジャパンの公式資料でシリコンとの違いを確かめ、GaNの名前とW数・PD・PSEの関係、GEARNOTE掲載USB充電器28台の出力と質量の集計をまとめました。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>演色性（Ra）とは｜Ra80・Ra95の意味と、色温度（K）・CRIとの違い（掲載21商品の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-color-rendering</link>
+    <guid isPermaLink="true">https://gearnote.net/words-color-rendering</guid>
+    <description>LED照明・デスクライト・撮影用ライトの「演色性 Ra95」「CRI」の意味を、パナソニックの照明の技術資料で確かめました。Raの求め方、色温度が違う光源どうしの比べ方、JISのRa80の目安と、GEARNOTE掲載21商品の書き方の集計つきです。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>有線とワイヤレスのゲームコントローラーの違い｜USB接続でできること・PCでの条件（掲載15商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/diff-game-controller-wired-vs-wireless</link>
+    <guid isPermaLink="true">https://gearnote.net/diff-game-controller-wired-vs-wireless</guid>
+    <description>有線とワイヤレス（Bluetooth）のゲームコントローラーの違いを、PlayStation・任天堂・ホリの公式情報で確かめて整理しました。USB接続でできること、PCでの入力方式、登録のしかたを、掲載15商品の集計つきでまとめています。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Fire TV・Chromecast（Google TV）・Apple TVの違い｜OS・給電・有線LANの書き方（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/diff-streaming-device-fire-google-apple</link>
+    <guid isPermaLink="true">https://gearnote.net/diff-streaming-device-fire-google-apple</guid>
+    <description>Fire TV、Chromecast・Google TV、Apple TVの違いを、Amazon・Google・Appleの公式仕様で確かめて整理しました。OS、テレビからの給電、有線LAN、HDMIケーブルの扱いを、掲載11台の集計つきでまとめています。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Wi-Fi直結とハブが必要なスマートホーム機器の違い｜922MHz・Bluetooth・Zigbeeの書き方（掲載18台）｜GEARNOTE</title>
+    <link>https://gearnote.net/diff-smart-home-wifi-vs-hub</link>
+    <guid isPermaLink="true">https://gearnote.net/diff-smart-home-wifi-vs-hub</guid>
+    <description>Wi-Fiに直接つなぐスマートホーム機器と、ハブやブリッジが必要な機器の違いを、TP-Link（Tapo）・Philips Hue・Appleの公式情報で確かめて整理しました。電池式センサーの通信方式とハブの書き方を、掲載18台の集計つきでまとめています。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ワイヤレス充電器の1台用と3in1の違い｜機器ごとの出力と電源アダプターの条件（掲載16台）｜GEARNOTE</title>
+    <link>https://gearnote.net/diff-wireless-charger-single-vs-multi</link>
+    <guid isPermaLink="true">https://gearnote.net/diff-wireless-charger-single-vs-multi</guid>
+    <description>スマートフォン1台用のワイヤレス充電器と、Apple Watchやイヤホンも同時に充電する3in1などの違いを、Apple・WPC・Ankerの公式情報で確かめて整理しました。機器ごとの出力と電源アダプターの条件を、掲載16台の集計つきでまとめています。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>このサイトについて｜GEARNOTE</title>
     <link>https://gearnote.net/about</link>
@@ -117,244 +355,6 @@
     <link>https://gearnote.net/brand-kose</link>
     <guid isPermaLink="true">https://gearnote.net/brand-kose</guid>
     <description>KOSE製品の特徴、スキンケア・ベースメイク・ポイントメイクの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ORBISの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-orbis</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-orbis</guid>
-    <description>ORBIS製品の特徴、洗顔・化粧水・UVケアの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Panasonicの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-panasonic</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
-    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Philipsの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-philips</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
-    <description>Philips製品の特徴、電動シェーバー・電動歯ブラシの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ReFaの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-refa</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-refa</guid>
-    <description>ReFaの美顔器・ドライヤー・ヘアアイロンの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SHARPの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-sharp</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
-    <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>資生堂の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-shiseido</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-shiseido</guid>
-    <description>SHISEIDO（資生堂）のスキンケア・ベースメイクの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SK-IIの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-skii</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-skii</guid>
-    <description>SK-IIの化粧水・美容液の特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Sonyの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-sony</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
-    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBotの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-switchbot</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-switchbot</guid>
-    <description>SwitchBot製品の特徴、スマートホーム機器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomiの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-xiaomi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
-    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>YA-MANの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-ya-man</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-ya-man</guid>
-    <description>YA-MANの美顔器・脱毛器・ヘアケア家電の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>すべてのブランド｜GEARNOTE</title>
-    <link>https://gearnote.net/brands</link>
-    <guid isPermaLink="true">https://gearnote.net/brands</guid>
-    <description>イヤホン・オーディオ、生活家電、スマートホーム、美容家電、コスメ・化粧品まで、ジャンル別にブランドから商品を探せます。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-audio</link>
-    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
-    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>美容・健康の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-beauty</link>
-    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
-    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-daily</link>
-    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
-    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-baby</link>
-    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
-    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>介護用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-care</link>
-    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
-    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>食べ物の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-food</link>
-    <guid isPermaLink="true">https://gearnote.net/category-food</guid>
-    <description>プロテインバー・栄養補助食品、おつまみ・珍味、お菓子・スイーツ、ナッツ・保存食まで、特徴をもとに厳選した食品一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>飲料の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
-    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活家電の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-home</link>
-    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
-    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
-    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>おもちゃの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-toys</link>
-    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
-    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゲームの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-games</link>
-    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
-    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>AirPods 4の特徴・デメリット・Pro 2との違い｜GEARNOTE</title>
-    <link>https://gearnote.net/product-airpods-4</link>
-    <guid isPermaLink="true">https://gearnote.net/product-airpods-4</guid>
-    <description>Apple AirPods 4（ANCモデル）の特徴を整理。メリット・デメリット、WF-1000XM6・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple AirPods 5（アクティブノイズキャンセリング搭載）の仕様｜サイズ・重量・防塵（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-airpods-5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-airpods-5</guid>
-    <description>Apple AirPods 5（アクティブノイズキャンセリング搭載）の仕様。サイズ・重量・防塵はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。Apple AirPods 5の特徴を整理。進化したアクティブノイズキャンセリング、ライブ翻訳、H2チップ、IP57防塵防水など、メリット・デメリットをまとめました。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple AirPods Max 2の仕様｜サイズ・質量・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-airpods-max-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-airpods-max-2</guid>
-    <description>Apple AirPods Max 2の仕様。サイズ・質量・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-16）。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano Charger（45W, Display）の仕様｜サイズ・重さ・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-nano-charger-45w-display</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-charger-45w-display</guid>
-    <description>Anker Nano Charger（45W, Display, スイングプラグ）の仕様。サイズ・重さ・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano Charger（70W, 3 Ports）の仕様｜サイズ・重さ（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-nano-charger-70w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-charger-70w</guid>
-    <description>Anker Nano Charger（70W, 3 Ports）ブラックの仕様。サイズ・重さはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano II 65Wの仕様｜サイズ・重さ（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-nano-ii-65w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-ii-65w</guid>
-    <description>Anker Nano II 65Wの仕様。サイズ・重さはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano Power Stripの仕様｜サイズ・重さ・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-nano-power-strip</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-strip</guid>
-    <description>Anker Nano Power Strip（10-in-1, 70W, クランプ式）の仕様。サイズ・重さ・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Power Bank（10000mAh）の仕様｜サイズ・重さ・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-power-bank-10000mah</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-power-bank-10000mah</guid>
-    <description>Anker Power Bank（10000mAh, 22.5W）の仕様。サイズ・重さ・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker PowerLine III Flow ケーブルの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-powerline-iii-flow</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-powerline-iii-flow</guid>
-    <description>Anker PowerLine III Flow USB-C&amp;USB-Cケーブル 1.8mの特徴を整理。メリット・デメリットと、向いている人をまとめました。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore 2 スピーカーの仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-2</guid>
-    <description>Anker Soundcore 2 ポータブルBluetoothスピーカーの仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore P31iの仕様｜サイズ・重さ・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-p31i</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-p31i</guid>
-    <description>Anker Soundcore P31i の仕様。サイズ・重さ・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

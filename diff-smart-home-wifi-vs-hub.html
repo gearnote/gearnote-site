@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wi-Fi直結とハブが必要なスマートホーム機器の違い｜922MHz・Bluetooth・Zigbeeの書き方（掲載18台）｜GEARNOTE</title>
+<meta name="description" content="Wi-Fiに直接つなぐスマートホーム機器と、ハブやブリッジが必要な機器の違いを、TP-Link（Tapo）・Philips Hue・Appleの公式情報で確かめて整理しました。電池式センサーの通信方式とハブの書き方を、掲載18台の集計つきでまとめています。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="Wi-Fi直結とハブが必要なスマートホーム機器の違い｜922MHz・Bluetooth・Zigbeeの書き方（掲載18台）｜GEARNOTE">
+<meta property="og:description" content="Wi-Fiに直接つなぐスマートホーム機器と、ハブやブリッジが必要な機器の違いを、TP-Link（Tapo）・Philips Hue・Appleの公式情報で確かめて整理しました。電池式センサーの通信方式とハブの書き方を、掲載18台の集計つきでまとめています。">
+<meta property="og:url" content="https://gearnote.net/diff-smart-home-wifi-vs-hub">
+<link rel="canonical" href="https://gearnote.net/diff-smart-home-wifi-vs-hub">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Wi-Fi直結とハブが必要なスマートホーム機器の違い｜922MHz・Bluetooth・Zigbeeの書き方（掲載18台）｜GEARNOTE">
+<meta name="twitter:description" content="Wi-Fiに直接つなぐスマートホーム機器と、ハブやブリッジが必要な機器の違いを、TP-Link（Tapo）・Philips Hue・Appleの公式情報で確かめて整理しました。電池式センサーの通信方式とハブの書き方を、掲載18台の集計つきでまとめています。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"Wi-Fi直結のスマートホーム機器とハブが必要な機器の違い"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ハブが必要なスマートホーム機器と、いらない機器は何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"家のネットワークへのつながり方が違います。Tapo L510Eは直接家のWi-Fiにつながるのでハブ不要と書かれています。Tapoのセンサーは922MHzでハブとつながり、Tapoスマートハブ（別売り）が必須です。"}},{"@type":"Question","name":"SwitchBotのセンサーはハブなしで使えますか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEの商品ページでは、SwitchBotのセンサーの通信はBluetoothで、近くでの連携はハブ不要、外出先からの確認やアラート通知にはSwitchBotハブ製品が必要という書き方です。"}},{"@type":"Question","name":"スマートプラグやスマート電球は5GHzのWi-Fiにつなげますか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTE掲載のWi-Fi直結7台は、すべて2.4GHzの記載で、5GHzの記載はありませんでした。ルーターの2.4GHzが使えるかを確かめてください。"}},{"@type":"Question","name":"Philips Hueの電球にブリッジは必要ですか？","acceptedAnswer":{"@type":"Answer","text":"Bluetoothアプリで最大10個の照明まで操作できる書き方です。Signifyは、音声アシスタントにはHue Bridgeが必要と書き、外出先からのコントロールや自動化もHueブリッジで使えると説明しています。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ Wi-Fi直結のスマートホーム機器とハブが必要な機器の違い</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">Wi-Fi直結のスマートホーム機器と、ハブ・ブリッジが必要な機器の違い</h1>
+        <p class="desc">スマートプラグやスマート電球は家のWi-Fiに直接つながる一方、電池で動くセンサーはハブを通す書き方が多くあります。メーカーの説明と、GEARNOTE掲載18台の書き方をもとに整理しました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月16日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>いちばんの違いは、家のネットワークへのつながり方</h2>
+        <p>スマートホーム機器には、機器そのものが家のWi-Fiに直接つながるものと、いったんハブやブリッジにつながり、そのハブが家のネットワークにつながるものがあります。TP-LinkはスマートLED電球のTapo L510Eについて、直接家のWi-Fiに接続するので、ハブなどを用意する必要はないと書いています（<a href="https://www.tp-link.com/jp/home-networking/smart-bulb/tapo-l510e/" target="_blank" rel="noopener">TP-Link「Tapo L510E」</a>）。</p>
+        <p>反対に、同じTapoのモーションセンサーT100は、使用にTapoスマートハブ（別売り）の利用が必須と書かれています（<a href="https://www.tp-link.com/jp/smart-home/smart-sensor/tapo-t100/" target="_blank" rel="noopener">TP-Link「Tapo T100」</a>）。同じブランドでも、機器の種類でつなぎ方が分かれます。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th></th><th>Wi-Fi直結の機器</th><th>ハブ・ブリッジを使う機器</th></tr></thead>
+            <tbody>
+            <tr><th>家のネットワークへのつなぎ方</th><td>機器が家のWi-Fiルーターに直接つながる（Tapoの説明）</td><td>機器はBluetooth・922MHz・Zigbee・Threadなどでハブにつながり、ハブが家のネットワークにつながる</td></tr>
+            <tr><th>Wi-Fiの周波数（GEARNOTE掲載）</th><td>2.4GHzの記載7台／7台、5GHzの記載0台</td><td>—</td></tr>
+            <tr><th>電源（GEARNOTE掲載）</th><td>すべてコンセントか電球の口金</td><td>センサー9台のうち8台に電池の記載</td></tr>
+            <tr><th>GEARNOTE掲載</th><td>スマートプラグ・電源タップ・電球 7台</td><td>センサー9台、Hueの電球2台（計11台）</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>GEARNOTEに載せているスマートホーム機器18台を、商品ページの通信の書き方で分けると、Wi-Fi直結が7台、ハブやブリッジを使う書き方が11台でした。Wi-Fi直結の7台は、すべてスマートプラグ・電源タップ・電球です。ハブ側は、Bluetooth（SwitchBot）4台、922MHz（Tapo）3台、BluetoothとZigbee（Philips Hue）2台、Thread（Aqara）1台、専用のHomeBase（Eufy）1台です（GEARNOTE運営の計算）。Matter・Threadの規格そのものは<a href="words-matter-thread">Matter・Threadとは</a>で説明しています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>Wi-Fi直結の機器：2.4GHzと、設定時だけのBluetooth</h2>
+        <p>Wi-Fi直結の機器は、Wi-Fiの周波数に注意が書かれています。TP-LinkはスマートプラグTapo P105のワイヤレス規格を2.4GHzと書いています（<a href="https://www.tp-link.com/jp/home-networking/smart-plug/tapo-p105/" target="_blank" rel="noopener">TP-Link「Tapo P105」</a>）。GEARNOTE掲載のWi-Fi直結7台は、すべて商品ページに2.4GHzの記載があり、5GHzの記載がある機器はありませんでした（GEARNOTE運営の計算）。Wi-Fiの周波数の違いは<a href="words-wifi">Wi-Fiの規格の違い</a>で整理しています。</p>
+        <p>Wi-Fi直結でも、Bluetoothの記載がある機器があります。TP-Linkは、Tapo P105のBluetoothは初期設定時のみ使用すると書いています（<a href="https://www.tp-link.com/jp/home-networking/smart-plug/tapo-p105/" target="_blank" rel="noopener">TP-Link</a>）。GEARNOTE掲載のWi-Fi直結7台のうち、Bluetoothの記載があるのは4台で、Tapoの2台は「初期設定時のみ」「設定時のみ」と書かれています（GEARNOTE運営の計算）。Bluetoothの記載があっても、ふだんの通信がBluetoothとは限りません。</p>
+        <p>Wi-Fi直結の7台は、すべてコンセントに差すか電球の口金にはめて使う機器で、電池の記載はありません。電源が常にあるので、Wi-Fiにつながり続ける形です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>ハブが必要な機器：電池で動くセンサーに多い</h2>
+        <p>GEARNOTE掲載のセンサー9台のうち、8台に電池の記載がありました（ボタン電池、単3・単4電池、CR123A）。Wi-Fiに直接つながるセンサーは、掲載の中にありません（GEARNOTE運営の計算）。</p>
+        <p>Tapoのセンサーは、922MHzという周波数でハブとつながります。TP-Linkの仕様表は、接触センサーT110を「ハブ 必須」「ワイヤレス 922MHz」と書き（<a href="https://www.tp-link.com/jp/smart-home/smart-sensor/tapo-t110/" target="_blank" rel="noopener">TP-Link「Tapo T110」</a>）、温湿度計T310も同じ書き方です（<a href="https://www.tp-link.com/jp/smart-home/smart-sensor/tapo-t310/" target="_blank" rel="noopener">TP-Link「Tapo T310」</a>）。電池については、T110はボタン電池1つで1年以上動作すると書かれています（<a href="https://www.tp-link.com/jp/smart-home/smart-sensor/tapo-t110/" target="_blank" rel="noopener">TP-Link</a>）。</p>
+        <p>SwitchBotのセンサー4台は、商品ページの通信方式がBluetoothです。<a href="product-switchbot-meter-pro-thermo-hygrometer">SwitchBot 温湿度計プロ（Meter Pro）大画面 アプリ連携 グラフ記録 ホワイト</a>の商品ページは、天気予報・アラート通知・遠隔確認にはSwitchBotハブ製品が必要と書き、<a href="product-switchbot-contact-sensor">SwitchBot 開閉センサー</a>の商品ページは、ハブミニ／ハブ2と連携すれば開閉時のアラート通知を設定でき、Bluetooth対応製品との連携は通信距離内ならハブ不要と書いています。近くでスマートフォンから見るだけならハブなしで使え、外出先からの確認や通知にはハブを使う、という書き分けです（SwitchBotの公式ページは今回取得できなかったため、商品ページの記載として扱います）。</p>
+        <p><a href="product-eufy-security-entry-sensor">Eufy Security Entry Sensor（ドア・窓開閉センサー）</a>の商品ページには、単体では動作せず、別売のEufy Security HomeBase 2またはHomeBase S380が必要と書かれています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>ブリッジで機能が増える電球（Philips Hue）</h2>
+        <p>Philips Hueの電球は、BluetoothとZigbeeの両方を持つ書き方です。Signifyの製品ページは、E17のキャンドル電球の通信プロトコルをBluetoothとZigBeeと書いています（<a href="https://www.philips-hue.com/ja-jp/p/hue-white-and-color-ambiance-candle-e17-led-smart-bulb/8721103099365" target="_blank" rel="noopener">Philips Hue 製品ページ</a>）。音声アシスタントには「Hue Bridgeが必要です」とも書いています（<a href="https://www.philips-hue.com/ja-jp/p/hue-white-and-color-ambiance-candle-e17-led-smart-bulb/8721103099365" target="_blank" rel="noopener">同ページ</a>）。</p>
+        <p>Signifyは、Hueブリッジによって、外出先からのコントロール、音声コントロール、自動化照明などができると説明しています（<a href="https://www.philips-hue.com/ja-jp/p/hue-white-and-color-ambiance-candle-e17-led-smart-bulb/8721103099365" target="_blank" rel="noopener">Philips Hue</a>）。<a href="product-philips-hue-white-bulb-e26-75w-1100lm">フィリップスヒュー(Philips Hue) スマート電球 E26 75W相当</a>の商品ページには、Bluetoothアプリでの制御は最大10個の照明までと書かれています。ブリッジなしでも近くでは操作でき、できることの範囲がブリッジで広がる形です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>Threadの機器：ボーダールーター（ホームハブ）が要る</h2>
+        <p><a href="product-aqara-motion-sensor-p2">Aqara 人感センサー P2</a>は、商品ページの通信方式がThreadとBluetooth 5.0です。Appleは、Threadベースのアクセサリを利用するには、Apple TV 4KやHomePod miniなどのThread対応ホームハブ、または他社製のThreadボーダールーターが必要と書いています（<a href="https://support.apple.com/ja-jp/111839" target="_blank" rel="noopener">Apple「Apple TV 4K (第3世代) - 技術仕様」の注記</a>）。</p>
+        <p>Threadも、Wi-Fiに直接つながるわけではありません。ボーダールーターの役割をする機器が家にあるかどうかで、使い始めの準備が変わります。GEARNOTE掲載のストリーミング端末やスマートスピーカーの中にも、Threadの記載がある機器があります（<a href="diff-streaming-device-fire-google-apple">Fire TV・Google TV・Apple TVの違い</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>動作温度の書き方の違い</h2>
+        <p>データ一覧の動作温度を見ると、Wi-Fi直結の機器で数字があるのは下限-15〜0℃（4台）、上限35〜40℃（4台）でした。ハブ側の機器は、下限-20〜0℃（7台）、上限40〜80℃（7台）です（GEARNOTE運営の計算）。温湿度計は測る範囲に合わせて広い温度が書かれていることがあり、<a href="product-switchbot-thermo-hygrometer">SwitchBot 温湿度計</a>は−20〜80℃です。</p>
+        <p>屋外や浴室の近くなど、置く場所の温度が気になる場合は、動作温度に加えて防水の記載も見ます。Eufyのエントリーセンサーは、商品ページに防水非対応（屋内専用）と書かれています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>GEARNOTE掲載の数字（18台）</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品（GEARNOTEのページ）</th><th>区分</th><th>つなぎ方（商品ページ）</th><th>電源</th><th>動作温度</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-switchbot-smart-plug-mini">SwitchBot スマートプラグ プラグミニ</a></th><td>スマートプラグ</td><td>Wi-Fi（2.4GHz）に直接つなぐ</td><td>コンセント・口金（AC）</td><td>-15〜40℃</td></tr>
+            <tr><th><a href="product-tapo-p105-smart-plug">Tapo P105 スマートプラグ</a></th><td>スマートプラグ</td><td>Wi-Fi（2.4GHz）に直接つなぐ</td><td>コンセント・口金（AC）</td><td>0〜40℃</td></tr>
+            <tr><th><a href="product-amazon-basics-smart-plug">Amazonベーシック スマートプラグ</a></th><td>スマートプラグ</td><td>Wi-Fi（2.4GHz）に直接つなぐ</td><td>コンセント・口金（AC）</td><td>記載なし</td></tr>
+            <tr><th><a href="product-tapo-p300-smart-power-strip">Tapo P300 スマートWi-Fi電源タップ</a></th><td>スマート電源タップ</td><td>Wi-Fi（2.4GHz）に直接つなぐ</td><td>コンセント・口金（AC）</td><td>0〜35℃</td></tr>
+            <tr><th><a href="product-tapo-l510e-smart-bulb">Tapo L510E スマートLED電球</a></th><td>スマート電球</td><td>Wi-Fi（2.4GHz）に直接つなぐ</td><td>コンセント・口金（AC）</td><td>-15〜40℃</td></tr>
+            <tr><th><a href="product-amazon-basics-smart-led-bulb">Amazonベーシック スマートLED電球</a></th><td>スマート電球</td><td>Wi-Fi（2.4GHz）に直接つなぐ</td><td>コンセント・口金（AC）</td><td>記載なし</td></tr>
+            <tr><th><a href="product-switchbot-led-bulb">SwitchBot LED電球 スマートライト（2個パック）</a></th><td>スマート電球</td><td>Wi-Fi（2.4GHz）に直接つなぐ</td><td>コンセント・口金（AC）</td><td>記載なし</td></tr>
+            <tr><th><a href="product-philips-hue-white-bulb-e26-75w-1100lm">フィリップスヒュー(Philips Hue) スマート電球 E26 75W相当</a></th><td>スマート電球</td><td>Bluetooth・Zigbee（Hueブリッジで機能が増える）</td><td>コンセント・口金（AC）</td><td>記載なし</td></tr>
+            <tr><th><a href="product-philips-hue-smart-bulb-e17-full-color-470lm">フィリップスヒュー スマート電球 E17 40W相当 フルカラー 470lm（1個）</a></th><td>スマート電球</td><td>Bluetooth・Zigbee（Hueブリッジで機能が増える）</td><td>コンセント・口金（AC）</td><td>記載なし</td></tr>
+            <tr><th><a href="product-switchbot-motion-sensor-pro">SwitchBot 人感センサーPro</a></th><td>センサー・温湿度計</td><td>Bluetooth（遠隔操作・通知はSwitchBotハブ）</td><td>電池式</td><td>0〜40℃</td></tr>
+            <tr><th><a href="product-aqara-motion-sensor-p2">Aqara 人感センサー P2</a></th><td>センサー・温湿度計</td><td>Thread・Bluetooth</td><td>記載なし</td><td>-10〜55℃</td></tr>
+            <tr><th><a href="product-tapo-t100-motion-sensor">Tapo T100 モーションセンサー</a></th><td>センサー・温湿度計</td><td>922MHz（Tapoスマートハブが必須）</td><td>ボタン電池×1</td><td>0〜40℃</td></tr>
+            <tr><th><a href="product-switchbot-contact-sensor">SwitchBot 開閉センサー</a></th><td>センサー・温湿度計</td><td>Bluetooth（遠隔操作・通知はSwitchBotハブ）</td><td>単4電池×2</td><td>-10〜60℃</td></tr>
+            <tr><th><a href="product-tapo-t110-contact-sensor">Tapo T110 接触センサー</a></th><td>センサー・温湿度計</td><td>922MHz（Tapoスマートハブが必須）</td><td>ボタン電池×1</td><td>0〜40℃</td></tr>
+            <tr><th><a href="product-eufy-security-entry-sensor">Eufy Security Entry Sensor（ドア・窓開閉センサー）</a></th><td>センサー・温湿度計</td><td>専用のHomeBaseが必要</td><td>CR123Aリチウム電池×1</td><td>記載なし</td></tr>
+            <tr><th><a href="product-switchbot-meter-pro-thermo-hygrometer">SwitchBot 温湿度計プロ（Meter Pro）大画面 アプリ連携 グラフ記録 ホワイト</a></th><td>センサー・温湿度計</td><td>Bluetooth（遠隔操作・通知はSwitchBotハブ）</td><td>単3電池×2</td><td>記載なし</td></tr>
+            <tr><th><a href="product-switchbot-thermo-hygrometer">SwitchBot 温湿度計</a></th><td>センサー・温湿度計</td><td>Bluetooth（遠隔操作・通知はSwitchBotハブ）</td><td>単4電池×2</td><td>-20〜80℃</td></tr>
+            <tr><th><a href="product-tapo-t310-thermo-hygrometer">Tapo T310 スマート温湿度計</a></th><td>センサー・温湿度計</td><td>922MHz（Tapoスマートハブが必須）</td><td>ボタン電池×1</td><td>-20〜60℃</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>「つなぎ方」は商品ページのメーカー情報ブロック・仕様表の書き方で分けたものです。動作温度はデータ一覧の数字です。</p>
+        <p>数字は、GEARNOTEに載せている商品の範囲のもので、市場全体の傾向ではありません。「記載なし」は、0や非対応という意味ではなく、データ一覧や商品ページに書かれていないという意味です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>よくある読み間違い</h2>
+        <ul><li><strong>スマートホーム機器は、どれもWi-Fiにつなげば使えると思う</strong>：Tapoのセンサー3台は、Tapoスマートハブ（別売り）が必須と書かれています。</li><li><strong>Bluetoothの記載があるので、Bluetoothだけで動くと思う</strong>：Tapo P105のBluetoothは初期設定時のみで、ふだんは2.4GHzのWi-Fiでつながります。</li><li><strong>5GHzのWi-Fiにもつなげると思う</strong>：GEARNOTE掲載のWi-Fi直結7台は、すべて2.4GHzの記載で、5GHzの記載はありませんでした。</li><li><strong>Hueの電球は、ブリッジがないと点けられないと思う</strong>：Bluetoothアプリで最大10個まで操作できる書き方です。音声アシスタントにはHue Bridgeが必要です。</li><li><strong>Threadの機器はWi-Fiに直接つながると思う</strong>：AppleはThreadのアクセサリにはThread対応ホームハブかボーダールーターが必要と書いています。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>商品ページで確認すること</h2>
+        <ul><li>通信方式：Wi-Fi（2.4GHz・5GHz）、Bluetooth、922MHz、Zigbee、Threadのどれか。Bluetoothが設定時だけかどうか。</li><li>ハブの要否：「ハブ必須」「ハブ不要」「通知や遠隔操作にはハブが必要」のどれか。ハブが別売りか。</li><li>電源：コンセント・口金か、電池か。電池の種類と、寿命の目安とその条件。</li><li>連携：Alexa、Google Home、Apple Home（HomeKit）、Matterなどの対応と、その条件（ハブ経由かどうか）。</li><li>置き場所：動作温度、防水の記載。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日に、各ページを実際に開いて確認したメーカーの公式ページ・サポート情報と規格団体の資料にもとづきます（リンクは各項目に付けています）。GEARNOTEの数字は、掲載している商品のデータ一覧（CSV）と商品ページ（メーカー情報ブロック・仕様表）から、GEARNOTE運営が数えたもの（GEARNOTE運営の計算）です。</p>
+        <ul><li>SwitchBotの日本公式サイトは今回アクセスが制限されて取得できなかったため、SwitchBotの機器は商品ページのメーカー情報ブロックの記載だけを使っています。</li><li>922MHz・Bluetooth・Zigbee・Threadで、届く距離や電池の持ちがどう違うかを、条件をそろえて比べた一次資料は確認できなかったので書いていません。</li><li>電池寿命の数字（1年以上、通常3年、最大2年など）は、各メーカーが示す使用条件での目安で、機器どうしをそのまま比べられる数字ではありません。</li><li>Amazonベーシックの2台は、商品ページの記載がAmazon掲載情報だけのため、メーカーの一次資料では確かめていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「Wi-Fi直結のスマートホーム機器とハブが必要な機器の違い」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）　https://gearnote.net/diff-smart-home-wifi-vs-hub</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/diff-smart-home-wifi-vs-hub"&gt;GEARNOTE「Wi-Fi直結のスマートホーム機器とハブが必要な機器の違い」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ハブが必要なスマートホーム機器と、いらない機器は何が違いますか？</h3>
+            <p>家のネットワークへのつながり方が違います。Tapo L510Eは直接家のWi-Fiにつながるのでハブ不要と書かれています。Tapoのセンサーは922MHzでハブとつながり、Tapoスマートハブ（別売り）が必須です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>SwitchBotのセンサーはハブなしで使えますか？</h3>
+            <p>GEARNOTEの商品ページでは、SwitchBotのセンサーの通信はBluetoothで、近くでの連携はハブ不要、外出先からの確認やアラート通知にはSwitchBotハブ製品が必要という書き方です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>スマートプラグやスマート電球は5GHzのWi-Fiにつなげますか？</h3>
+            <p>GEARNOTE掲載のWi-Fi直結7台は、すべて2.4GHzの記載で、5GHzの記載はありませんでした。ルーターの2.4GHzが使えるかを確かめてください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>Philips Hueの電球にブリッジは必要ですか？</h3>
+            <p>Bluetoothアプリで最大10個の照明まで操作できる書き方です。Signifyは、音声アシスタントにはHue Bridgeが必要と書き、外出先からのコントロールや自動化もHueブリッジで使えると説明しています。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">13</span>関連ページ</h2>
+        <ul><li><a href="data-smart-home-device">スマートホーム機器の仕様一覧</a></li><li><a href="guide-smart-home-device">スマートプラグ・電球・センサーの選び方</a></li><li><a href="words-matter-thread">Matter・Threadとは</a></li><li><a href="words-wifi">Wi-Fiの規格の違い</a></li><li><a href="diff-smart-speaker-vs-remote">スマートスピーカーとスマートリモコンの違い</a></li><li><a href="diff-security-camera-types">防犯カメラの種類の違い</a></li><li><a href="diff-index">「違い」を調べる</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
