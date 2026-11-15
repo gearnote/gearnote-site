@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UPS機能・パススルー充電とは｜ポータブル電源の「20ミリ秒で切り替え」とUSB-Cハブの「パススルー85W」の読み方｜GEARNOTE</title>
+<meta name="description" content="ポータブル電源の「UPS機能（停電時20ミリ秒で切り替え）」と「パススルー充電」、USB-Cハブの「パススルー給電85W」の意味を、JackeryとPlugableの公式解説で確かめました。GEARNOTE掲載商品の切り替え時間と給電の数字も集計しています。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="UPS機能・パススルー充電とは｜ポータブル電源の「20ミリ秒で切り替え」とUSB-Cハブの「パススルー85W」の読み方｜GEARNOTE">
+<meta property="og:description" content="ポータブル電源の「UPS機能（停電時20ミリ秒で切り替え）」と「パススルー充電」、USB-Cハブの「パススルー給電85W」の意味を、JackeryとPlugableの公式解説で確かめました。GEARNOTE掲載商品の切り替え時間と給電の数字も集計しています。">
+<meta property="og:url" content="https://gearnote.net/words-ups-passthrough">
+<link rel="canonical" href="https://gearnote.net/words-ups-passthrough">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="UPS機能・パススルー充電とは｜ポータブル電源の「20ミリ秒で切り替え」とUSB-Cハブの「パススルー85W」の読み方｜GEARNOTE">
+<meta name="twitter:description" content="ポータブル電源の「UPS機能（停電時20ミリ秒で切り替え）」と「パススルー充電」、USB-Cハブの「パススルー給電85W」の意味を、JackeryとPlugableの公式解説で確かめました。GEARNOTE掲載商品の切り替え時間と給電の数字も集計しています。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"UPS機能・パススルー充電とは"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ポータブル電源のUPS機能とは何ですか？","acceptedAnswer":{"@type":"Answer","text":"コンセントにつないで給電している間に停電すると、電池からの給電に自動で切り替える機能です。Jackeryは、ポータブル電源のUPS機能は一般に最速でも0.02秒程度での切り替えと説明しています。"}},{"@type":"Question","name":"パススルー充電とは何ですか？","acceptedAnswer":{"@type":"Answer","text":"Jackeryの説明では、本体をACコンセントに差し込んで充電しながら家電製品に電力を供給できる機能です。"}},{"@type":"Question","name":"UPS機能のポータブル電源は、パソコンに使えますか？","acceptedAnswer":{"@type":"Answer","text":"Jackeryの解説は、0.00秒での電源供給切り替えが必要となるパソコン・サーバーには使えないので注意と書き、サーバー用には専門的なUPSを選ぶよう案内しています。"}},{"@type":"Question","name":"USB-Cハブの「パススルー充電85W」とは、どういう意味ですか？","acceptedAnswer":{"@type":"Answer","text":"充電器からハブに入った電力から、ハブ自身が動くための電力を引いた残りを、パソコンに渡すという意味です。掲載商品では「ハブ本体に15Wの給電を要するため、実際の出力は最大85W」のように書かれています。"}},{"@type":"Question","name":"掲載しているUSB-Cハブで、パススルー給電の数字があるのは何台ですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEのUSB-Cハブの一覧20台のうち11台で、内訳は85W 9台、96W 1台、140W 1台でした（GEARNOTE運営の計算）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ UPS機能・パススルー充電とは</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">UPS機能・パススルー充電とは｜切り替え時間と給電の読み方</h1>
+        <p class="desc">ポータブル電源の仕様表には「UPS機能」「パススルー充電対応」、USB-Cハブには「パススルー充電 最大85W」のような言葉が出てきます。同じ「パススルー」でも、製品によって意味が少し違います。メーカーの公式の解説で確かめた意味と、GEARNOTEに載せている商品の書き方をまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月16日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>言葉の意味：UPS・パススルー充電・PDパススルー</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>言葉</th><th>意味（メーカーの解説）</th><th>主な製品</th><th>確認した資料</th></tr></thead>
+            <tbody>
+            <tr><th>UPS</th><td>UPSとは停電などによって電源トラブルが発生した際、電子機器に電力を供給できる装置のことです。</td><td>ポータブル電源・専用のUPS</td><td><a href="https://www.jackery.jp/blogs/power-station/ups" target="_blank" rel="noopener">Jackery</a></td></tr>
+            <tr><th>パススルー充電（ポータブル電源）</th><td>ポータブル電源の「パススルー充電機能」とは、本体をACコンセントに差し込んで充電しながら家電製品に電力を供給できる機能のことです。</td><td>ポータブル電源・一部のモバイルバッテリー</td><td><a href="https://www.jackery.jp/blogs/power-station/ups" target="_blank" rel="noopener">Jackery</a></td></tr>
+            <tr><th>PDパススルー（USB-Cハブ）</th><td>PD パススルーは、ノート PC と複数デバイスを使用する構成において、電源供給元を 1 つにする機能を提供するものです。</td><td>USB-Cハブ・ドッキングステーション</td><td><a href="https://kb.plugable.com/ja_JP/what-is-usb-pd-pass-through" target="_blank" rel="noopener">Plugable</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p><strong>ポータブル電源のパススルーは「本体を充電しながら家電に給電する」、USB-Cハブのパススルーは「充電器の電力をハブを通してパソコンに渡す」</strong>という意味です。どちらも「通り抜ける」という意味の言葉ですが、数字の読み方が違います。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>ポータブル電源のUPS機能</h2>
+        <p>Jackeryの解説は、「UPSとは停電などによって電源トラブルが発生した際、電子機器に電力を供給できる装置のことです。」 と書いています（<a href="https://www.jackery.jp/blogs/power-station/ups" target="_blank" rel="noopener">Jackery Japan「UPSとは」</a>）。ポータブル電源のUPS機能は、コンセントにつないだまま家電に給電しておき、停電したときに電池からの給電に切り替える機能です。</p>
+        <p>切り替えの時間について、同じ解説は「ポータブル電源のUPS機能は、一般に最速でも「0.02秒」程度での電源供給切り替えとなっています。」 と説明し、「「0.00秒」での電源供給切り替えが必要となるパソコン・サーバーには使えないので注意しましょう。」 と書いています。サーバーについては「企業などにおけるサーバー用のUPSを検討しているなら、ポータブル電源ではなく専門的なUPSを選んでください。」 とあります。</p>
+        <p><strong>「20ミリ秒で切り替え」は、停電した瞬間から電池の給電に変わるまでに、0.02秒の間がある</strong>という意味です。Jackeryの解説は、「UPS機能を搭載したポータブル電源は「精密機器以外のUPS」としてなら、十分使えます。」 とも書いています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>パススルー充電：充電しながら給電する</h2>
+        <p>Jackeryの解説は、「ポータブル電源の「パススルー充電機能」とは、本体をACコンセントに差し込んで充電しながら家電製品に電力を供給できる機能のことです。」 と説明しています（<a href="https://www.jackery.jp/blogs/power-station/ups" target="_blank" rel="noopener">Jackeryの解説</a>）。続けて、「パススルー充電機能を搭載していないポータブル電源は、停電しても自動的に電源供給が切り替わりません。」 とも書いています。</p>
+        <p>UPS機能とパススルー充電は、同じ欄に並んで書かれることが多い言葉です。GEARNOTEの掲載商品のメーカー公開情報では、Ankerは「UPS 停電時20ミリ秒で切り替え、パススルー充電対応」、Jackeryは「UL1778認証済みのUPS（&lt; 20 ms）機能、常時接続可能なパススルー機能」のように書いています。UL1778という認証の内容は、このページでは確かめていません。</p>
+        <p>GEARNOTEのポータブル電源8台のうち、メーカー公開情報にUPSまたはパススルーの記載があったのは4台でした。ほかのジャンルも含めて、記載のあった商品と切り替え時間は次のとおりです（GEARNOTE運営の計算（2026年11月16日））。<strong>「記載なし」「―」は、そのページやブロックに書かれていないという意味で、非対応という意味ではありません。</strong></p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>ジャンル</th><th>UPS</th><th>パススルー</th><th>切り替え時間（原文）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-solix-c1000">Anker Solix C1000 ポータブル電源</a></th><td>ポータブル電源</td><td>記載あり</td><td>記載あり</td><td>20ミリ秒</td></tr>
+            <tr><th><a href="product-anker-solix-c300-288wh">Anker ポータブル電源 Solix C300 288Wh 高出力AC300W</a></th><td>ポータブル電源</td><td>―</td><td>記載あり</td><td>10ミリ秒</td></tr>
+            <tr><th><a href="product-jackery-portable-power-1000-new-je-1000d-sg">Jackery ポータブル電源 1000 New 1070Wh</a></th><td>ポータブル電源</td><td>記載あり</td><td>記載あり</td><td>20ミリ秒未満</td></tr>
+            <tr><th><a href="product-jackery-portable-power-240">Jackery(ジャクリ) ポータブル電源 240 New 256Wh</a></th><td>ポータブル電源</td><td>記載あり</td><td>記載あり</td><td>20ミリ秒未満</td></tr>
+            <tr><th><a href="product-ecoflow-river-3-230wh">EcoFlow RIVER 3 ポータブル電源 230Wh AC定格300W 小型 リン酸鉄リチウム</a></th><td>生活家電</td><td>記載あり</td><td>―</td><td>20ミリ秒未満</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p><strong>切り替え時間は、10ミリ秒・20ミリ秒・20ミリ秒未満と、商品ごとに書き方が違いました。</strong>「未満」がついているかどうかも、原文のまま書いています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>モバイルバッテリーのパススルー</h2>
+        <p>モバイルバッテリーでも、本体を充電しながらスマートフォンなどに給電できる機能を「パススルー充電」と書く商品があります。GEARNOTEの<a href="data-power-bank">モバイルバッテリーの仕様一覧</a>の27台のうち、メーカー公開情報ブロックがあるのは25台で、「パススルー」の語があったのは8台でした（GEARNOTE運営の計算（2026年11月16日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>書き方の分類</th><th>メーカー公開情報の書き方（最初の部分）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-belkin-power-bank-20000mah-45w-built-in-usbc-cable-black">Belkin モバイルバッテリー 20000mAh 45W USB-Cケーブル内蔵（ブラック）</a></th><td>その他の記載</td><td>パススルー15W」の数値は</td></tr>
+            <tr><th><a href="product-ugreen-air-magsafe-powerbank">UGREEN Air モバイルバッテリー</a></th><td>その他の記載</td><td>パススルー充電の記載は確認できませんでした</td></tr>
+            <tr><th><a href="product-anker-nano-power-bank-5000mah-maggo-slim-orange">Anker Nano Power Bank 5000mAh MagGo Slim（オレンジ）</a></th><td>対応と書かれている</td><td>パススルー充電に対応</td></tr>
+            <tr><th><a href="product-anker-nano-power-bank-5000mah-maggo-slim-blue">Anker Nano Power Bank（5000mAh, MagGo, Slim）ブルー</a></th><td>対応と書かれている</td><td>パススルー充電に対応</td></tr>
+            <tr><th><a href="product-cio-smartcoby-ex02-magnetic-powerbank">CIO SMARTCOBY Ex02 マグネットモバイルバッテリー</a></th><td>対応と書かれている</td><td>完全パススルーでの充電時はワイヤレス充電は5W出力</td></tr>
+            <tr><th><a href="product-cio-smartcoby-plug2-outlet-powerbank">CIO SMARTCOBY Pro PLUGⅡ</a></th><td>対応と書かれている</td><td>パススルー機能 対応 サイクル回数・蓄電時間</td></tr>
+            <tr><th><a href="product-cio-smartcoby-pro-slim-35w">CIO SMARTCOBY Pro SLIM モバイルバッテリー</a></th><td>対応と書かれている</td><td>パススルー機能 搭載 その他機能 ドットLED</td></tr>
+            <tr><th><a href="product-anker-power-bank-10000mah">Anker Power Bank（10000mAh）</a></th><td>非対応と書かれている</td><td>パススルー充電には対応していないと案内されてい</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>分類の内訳は対応と書かれている 5台、その他の記載 2台、非対応と書かれている 1台 でした。Ankerの10000mAhのモデルのように、パススルー充電には対応していないと書かれている商品もあります。「その他の記載」は、パススルーの数字を公式の日本語ページで確認できなかった、などの注記です。</p>
+        <p><strong>パススルー充電に対応しているかどうか、そのときの出力は、モバイルバッテリーの機種ごとに違います。</strong>書かれていない機種は、対応しているかどうかが分かりません。説明書の「充電しながらの使用」の項目で確かめます。モバイルバッテリーの選び方は<a href="guide-power-bank">モバイルバッテリーの選び方</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>USB-Cハブの「パススルー給電」：ハブが使う分を引いた数字</h2>
+        <p>USB-Cハブのメーカーの一つであるPlugableは、「ドッキングステーションに付属の AC アダプタ電源から、ドッキングステーション自身を駆動する電力を引いた残りの電力で、接続したノート PC へ給電します。」 と説明し、「一例ですが、100W のうち 18W がドッキングステーションに使用され、残りの最大 82W までがノート PC へ給電されます。」 と書いています（<a href="https://kb.plugable.com/ja_JP/what-is-usb-pd-pass-through" target="_blank" rel="noopener">Plugable「USB PD パススルー機能について」</a>）。</p>
+        <p>GEARNOTEに載せているUSB-Cハブでも、同じ書き方が見られます。Anker 332は「ハブ本体に15Wの給電を要するため、実際の出力は最大85W」、Belkinは「アダプター動作に15Wを使うため、接続したPCへは85W」、AnkerのA8365は「53W（USB PD 65W急速充電器利用時）」と書いています。<strong>ハブの「最大100W」は入力の数字、「85W」はパソコンに届く側の数字</strong>です。</p>
+        <p><a href="data-usb-c-hub">USB-Cハブの仕様一覧</a>の20台のうち、パソコン側へのパススルー給電の数字があるのは11台で、内訳は85W 9台、96W 1台、140W 1台 でした（GEARNOTE運営の計算（2026年11月16日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>PC側へのパススルー給電（データ一覧）</th><th>100W入力の記載</th><th>15Wと85Wの両方の記載</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-prime-docking-station-14in1">Anker Prime ドッキングステーション 14-in-1</a></th><td>140W</td><td>―</td><td>―</td></tr>
+            <tr><th><a href="product-belkin-thunderbolt4-dock-5in1">Belkin Thunderbolt 4 ドッキングステーション 5-in-1</a></th><td>96W</td><td>―</td><td>―</td></tr>
+            <tr><th><a href="product-anker-332-usbc-hub-5in1">Anker 332 USB-Cハブ (5-in-1)</a></th><td>85W</td><td>記載あり</td><td>記載あり</td></tr>
+            <tr><th><a href="product-anker-nano-usbc-hub-7in1-4k-hdmi">Anker Nano USB-C ハブ (7-in-1, 4K, HDMI)</a></th><td>85W</td><td>記載あり</td><td>記載あり</td></tr>
+            <tr><th><a href="product-belkin-connect-usbc-hub-4in1">Belkin Connect USB-C ハブ 4-in-1</a></th><td>85W</td><td>記載あり</td><td>記載あり</td></tr>
+            <tr><th><a href="product-buffalo-docking-station-lud-u3-cghdbk">バッファロー ドッキングステーション USB-C 5-in-1 ハブ 100W</a></th><td>85W</td><td>記載あり</td><td>記載あり</td></tr>
+            <tr><th><a href="product-anker-usbc-hub-10in1-monitor-stand">Anker USB-C ハブ (10-in-1, Monitor Stand)</a></th><td>85W</td><td>記載あり</td><td>記載あり</td></tr>
+            <tr><th><a href="product-elecom-usbc-dock-5in1-dst-w01">エレコム USB-Cハブ ドッキングステーション 5in1 PD100W</a></th><td>85W</td><td>記載あり</td><td>―</td></tr>
+            <tr><th><a href="product-elecom-usbc-dock-6in1-slim-dst-w09">エレコム USB-Cドッキングステーション 6in1 スリムタイプ PD100W</a></th><td>85W</td><td>記載あり</td><td>―</td></tr>
+            <tr><th><a href="product-anker-nano-usbc-hub-8in1-dual-display-a210b">Anker Nano USB-C ハブ (8-in-1, Dual Display) A210B グレー</a></th><td>85W</td><td>記載あり</td><td>記載あり</td></tr>
+            <tr><th><a href="product-sanwa-usbc-hub-hdmi-8k-usb-10tchps39s">サンワサプライ HDMIポート付 USB 10Gbps Type-Cハブ（8K対応）USB-10TCHPS39S</a></th><td>85W</td><td>記載あり</td><td>記載あり</td></tr>
+            <tr><th><a href="product-anker-usbc-hub-6in1-ethernet-le-a8365">Anker USB-C ハブ (6-in-1, イーサネット) LE A8365 ブラック</a></th><td>記載なし</td><td>―</td><td>―</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>パソコンがどのW数で充電できるかは、パソコン側の対応も関係します。USB PDのW数の読み方は<a href="words-usb-pd">USB PDとは</a>、ハブとドックの違いは<a href="diff-usb-hub-vs-dock">USBハブとドッキングステーションの違い</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み違い</h2>
+        <ul><li><strong>「UPS機能があれば、停電しても一瞬も止まらない」</strong>：ポータブル電源のUPS機能は、10〜20ミリ秒などの切り替え時間が書かれています。Jackeryは、0.00秒の切り替えが必要なパソコン・サーバーには使えないと書いています。</li><li><strong>「パススルー充電とUPS機能は同じ」</strong>：パススルーは充電しながら給電する機能、UPS機能は停電時に切り替える機能で、別の欄に書かれることもあります。</li><li><strong>「USB-Cハブの100Wは、パソコンに100W届く」</strong>：ハブ自身が使う分を引いた85Wなどが、パソコン側の数字です。</li><li><strong>「パススルーの書き方がないモバイルバッテリーでも同時に使える」</strong>：書かれていなければ分かりません。説明書で確かめます。</li><li><strong>「20ミリ秒と20ミリ秒未満は同じ」</strong>：原文の書き方が違います。比べるときは原文のまま読みます。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>商品ページで確かめること</h2>
+        <ul><li>ポータブル電源なら、UPS機能の切り替え時間（ミリ秒）と、「未満」などの書き方。</li><li>パススルー充電の対応と、そのときの出力・入力の条件。</li><li>USB-Cハブなら、入力（100Wなど）とパソコン側の出力（85Wなど）の両方の数字。</li><li>つなぎたい機器が、短い切り替え時間でも止まらずに使えるか（機器側のメーカーの案内）。</li><li>停電への備えは<a href="guide-c-blackout-phone">停電のときのスマホの電源</a>にもまとめています。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月16日時点で、各ページを実際に開いて確認したメーカー公式の資料にもとづきます（リンクは各項目に付けています）。仕様や表示のルールは、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>UPSの給電方式（常時商用給電・常時インバーター給電など）の説明は、UPS専業メーカーの一次資料を開けなかったため書いていません。</li><li>UL1778という認証の内容は、一次資料で確かめていないため書いていません。</li><li>パススルー充電を続けたときの電池への影響は、確認した資料に数字がなかったため書いていません。</li><li>モバイルバッテリーのパススルー充電について、メーカー共通の決まりは確かめられませんでした。</li><li>ハブ自身が使う電力（15Wなど）は、各商品のメーカー公開情報の書き方で、すべてのハブに共通の数字ではありません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「UPS機能・パススルー充電とは」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）　https://gearnote.net/words-ups-passthrough</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-ups-passthrough"&gt;GEARNOTE「UPS機能・パススルー充電とは」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ポータブル電源のUPS機能とは何ですか？</h3>
+            <p>コンセントにつないで給電している間に停電すると、電池からの給電に自動で切り替える機能です。Jackeryは、ポータブル電源のUPS機能は一般に最速でも0.02秒程度での切り替えと説明しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>パススルー充電とは何ですか？</h3>
+            <p>Jackeryの説明では、本体をACコンセントに差し込んで充電しながら家電製品に電力を供給できる機能です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>UPS機能のポータブル電源は、パソコンに使えますか？</h3>
+            <p>Jackeryの解説は、0.00秒での電源供給切り替えが必要となるパソコン・サーバーには使えないので注意と書き、サーバー用には専門的なUPSを選ぶよう案内しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>USB-Cハブの「パススルー充電85W」とは、どういう意味ですか？</h3>
+            <p>充電器からハブに入った電力から、ハブ自身が動くための電力を引いた残りを、パソコンに渡すという意味です。掲載商品では「ハブ本体に15Wの給電を要するため、実際の出力は最大85W」のように書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>掲載しているUSB-Cハブで、パススルー給電の数字があるのは何台ですか？</h3>
+            <p>GEARNOTEのUSB-Cハブの一覧20台のうち11台で、内訳は85W 9台、96W 1台、140W 1台でした（GEARNOTE運営の計算）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="words-power-station-output">ポータブル電源の定格出力・瞬間最大出力とは</a></li><li><a href="guide-portable-power-station">ポータブル電源の選び方</a></li><li><a href="guide-usb-c-hub">USB-Cハブの選び方</a></li><li><a href="diff-usb-hub-vs-dock">USBハブとドッキングステーションの違い</a></li><li><a href="words-usb-pd">USB PDとは</a></li><li><a href="guide-c-blackout-phone">停電のときのスマホの電源</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

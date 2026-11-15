@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>雷ガード（雷サージ）とは｜電源タップの「最大サージ電圧12,500V」の読み方と、誘導雷・直撃雷の違い（掲載13台の記載つき）｜GEARNOTE</title>
+<meta name="description" content="電源タップの「雷ガード」は、雷サージを吸収素子で減らす機能です。サンワサプライの公式解説で、誘導雷・侵入雷・直撃雷の違い、バリスタの仕組み、最大サージ電圧が規格で変わる点を確かめ、GEARNOTE掲載13台の書き方を集計しました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="雷ガード（雷サージ）とは｜電源タップの「最大サージ電圧12,500V」の読み方と、誘導雷・直撃雷の違い（掲載13台の記載つき）｜GEARNOTE">
+<meta property="og:description" content="電源タップの「雷ガード」は、雷サージを吸収素子で減らす機能です。サンワサプライの公式解説で、誘導雷・侵入雷・直撃雷の違い、バリスタの仕組み、最大サージ電圧が規格で変わる点を確かめ、GEARNOTE掲載13台の書き方を集計しました。">
+<meta property="og:url" content="https://gearnote.net/words-lightning-surge">
+<link rel="canonical" href="https://gearnote.net/words-lightning-surge">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="雷ガード（雷サージ）とは｜電源タップの「最大サージ電圧12,500V」の読み方と、誘導雷・直撃雷の違い（掲載13台の記載つき）｜GEARNOTE">
+<meta name="twitter:description" content="電源タップの「雷ガード」は、雷サージを吸収素子で減らす機能です。サンワサプライの公式解説で、誘導雷・侵入雷・直撃雷の違い、バリスタの仕組み、最大サージ電圧が規格で変わる点を確かめ、GEARNOTE掲載13台の書き方を集計しました。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"雷ガード（雷サージ）とは"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"雷サージとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"サンワサプライの説明では、雷が電柱や地面などに落ちたときに一時的に発生する、異常な過電圧・過電流のことです。電線などを通って家の中の機器に入ることがあります。"}},{"@type":"Question","name":"雷ガード付きの電源タップは、どの雷に対応していますか？","acceptedAnswer":{"@type":"Answer","text":"サンワサプライは、雷ガードタップは誘導雷のみ対応と書いています。アースへ逃がすバイパス回路を持つ高性能タイプは侵入雷にも対応と説明しています。直撃雷は保護しきれない可能性が高いと書いています。"}},{"@type":"Question","name":"最大サージ電圧とは何ですか？","acceptedAnswer":{"@type":"Answer","text":"雷ガードがどのくらいの電圧のサージを想定しているかを表す数字で、規格によって書き方が変わります。サンワサプライの製品一覧では、同じ製品でIEC 61000-4-5で10000V、JEC 210/212で12500Vと書かれています。"}},{"@type":"Question","name":"電源を切っておけば、雷サージは入りませんか？","acceptedAnswer":{"@type":"Answer","text":"サンワサプライは、電源をオフにしてもケーブルがつながっていれば雷サージは入り込むため、外からの進入経路を断つことが重要と書いています。"}},{"@type":"Question","name":"掲載している電源タップで、雷ガードの記載があるのは何台ですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEの電源タップの一覧13台のうち、メーカー公開情報に雷ガードありと書かれていたのは5台でした（GEARNOTE運営の計算）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ 雷ガード（雷サージ）とは</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">雷ガード（雷サージ）とは｜電源タップの仕様の読み方</h1>
+        <p class="desc">電源タップの商品名や仕様表には「雷ガード付き」「最大サージ電圧12,500V」のような言葉や数字が出てきます。雷サージとは何か、雷ガードは何をする部品で、何はできないのかを、電源タップのメーカーの公式解説で確かめ、GEARNOTEに載せている商品の書き方と並べました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月16日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>雷サージとは</h2>
+        <p>サンワサプライの解説は、「雷は空中で放電しており、電柱や地面などに落ちると一時的に異常な過電圧・過電流が発生します。これを「雷サージ」と呼びます。」 と説明しています（<a href="https://www.sanwa.co.jp/seihin_joho/thunderguard/index.html" target="_blank" rel="noopener">サンワサプライ「雷ガード（雷サージ）について」</a>）。雷が直接その家に落ちなくても、近くの電線などに高い電圧が生まれ、コンセントなどを通って家の中の機器に入ってくることがあります。</p>
+        <p>同じ解説は、「落雷時には瞬間的に3,000～4,500Vもの高電圧が流れます。」 とも書いています。家のコンセントの電圧と比べて、とても高い電圧が短い時間だけかかる、という現象です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>誘導雷・侵入雷・直撃雷の違い</h2>
+        <p>サンワサプライの解説は、雷サージの入り方を3つに分けています（<a href="https://www.sanwa.co.jp/seihin_joho/thunderguard/index.html" target="_blank" rel="noopener">サンワサプライの解説</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>種類</th><th>サンワサプライの説明</th><th>雷ガードタップでの扱い（同社の説明）</th></tr></thead>
+            <tbody>
+            <tr><th>誘導雷</th><td>付近の電線や電話線などに雷サージが発生し、モジュラージャックやコンセントなどを伝って屋内の機器に侵入する現象です。</td><td>雷ガードタップが対応する雷</td></tr>
+            <tr><th>侵入雷</th><td>建物・木などに落ちた雷の電流が大地に向かって浸透しきれずに、配電線・通信線などを介して建物内に侵入する現象です。</td><td>アースへ逃がす方式の高性能タイプで対応と説明</td></tr>
+            <tr><th>直撃雷</th><td>建物・電柱・アンテナなどに雷が直撃することで侵入する雷サージで、いわゆる「落雷」です。</td><td>保護しきれない可能性が高いと説明</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>サンワサプライは、「（雷ガードタップは誘導雷のみ対応します）」 と書いています。直撃雷については「高い電圧・電流が発生するため、直撃雷からパソコンなどを守ることは非常に難しく、雷ガード対策製品を設置しても機器を保護しきれない可能性が高く、最も被害が大きい雷です。」 と説明しています。<strong>雷ガードは、すべての雷から機器を守る部品ではありません。</strong></p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>雷ガードの仕組み：吸収素子（バリスタ）とアース</h2>
+        <p>サンワサプライの解説は、雷ガードについて「機器とコンセントとの間に雷サージを減少させる吸収素子内蔵の装置が入っており、機器に高電圧が送られないように保護をしてくれます。」 と説明しています（<a href="https://www.sanwa.co.jp/seihin_joho/thunderguard/index.html" target="_blank" rel="noopener">サンワサプライの解説</a>）。製品一覧のページでも「雷ガードは内蔵された吸収素子が雷サージを吸収し接続機器を守ります。」 と書いています（<a href="https://www.sanwa.co.jp/product/oatap/thunder/index.html" target="_blank" rel="noopener">サンワサプライ 雷ガードタップ製品一覧</a>）。</p>
+        <p>吸収素子として使われるバリスタについては、「両端に加える電圧が高くなると抵抗値が急激に小さくなる特性があります。」 と書いています。<strong>高い電圧がかかると、電気を通しやすくなる部品</strong>、という説明です。</p>
+        <p>高性能タイプについては、「雷サージを素子で吸収すると同時に、アースへも逃がすバイパス回路を搭載しています。」 と説明し、製品一覧では「雷サージをバイパス回路からアースへ逃す方式」 で「誘導雷だけでなく侵入雷も防げます。」 と書いています。アースへ逃がす方式のタップには、別売のアースケーブルについて「高性能雷ガードタップの接続に必須製品」 と案内されています。</p>
+        <p>電話線について、サンワサプライはバリスタを「構造的にコンデンサの成分を持ち、信号自体の減衰の原因となるため、微妙なアナログ波である電話などの信号系のサージ保護には使用されず、主にコンセントや電源タップからの電源系の雷サージ対策に使用されています。」 と書いています。電話などの信号の線の雷対策は、電源の雷ガードとは別に考えます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>仕様表の数字：最大サージ電圧・制限電圧・サージ耐量</h2>
+        <p>サンワサプライの雷ガードタップの製品一覧には、次のような数字が書かれています（<a href="https://www.sanwa.co.jp/product/oatap/thunder/index.html" target="_blank" rel="noopener">サンワサプライ 雷ガードタップ製品一覧</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>項目</th><th>製品一覧の書き方（原文）</th></tr></thead>
+            <tbody>
+            <tr><th>最大サージ電圧</th><td>最大サージ電圧：10000V（IEC61000-4-5）/12500V（JEC210/212）</td></tr>
+            <tr><th>制限電圧</th><td>制限電圧：775V（50A）</td></tr>
+            <tr><th>サージ耐量</th><td>サージ耐量：2500A（1回）、2000A（2回）</td></tr>
+            <tr><th>バリスタ電圧</th><td>バリスタ電圧：470V</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p><strong>同じ「最大サージ電圧」でも、IEC 61000-4-5で書くと10000V、JEC 210/212で書くと12500Vと、規格によって数字が変わります。</strong>規格名が書かれていない数字どうしは、同じ物差しかどうかが分かりません。サージ耐量は「2500A（1回）、2000A（2回）」のように、回数を添えて書かれています。</p>
+        <p>バリスタ電圧について、サンワサプライの解説は「この電圧をバリスタ電圧と呼び、この時の電流値は 1mA で試験を行っています。」 と書いています。これらの数字が実際の雷でどのくらいの大きさにあたるかは、雷によって違うため、このページでは決めません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTE掲載の電源タップの、雷ガードの書き方</h2>
+        <p><a href="data-power-strip">電源タップの仕様一覧</a>に載せている13台について、メーカー公開情報ブロックの雷ガードの書き方を数えました（GEARNOTE運営の計算（2026年11月16日））。内訳は記載なし 6台、あり（記載） 5台、なし（記載） 1台、ブロックなし 1台 でした。最大サージ電圧の数字が書かれていたのは1台です。<strong>「記載なし」「―」は、そのページやブロックに書かれていないという意味で、非対応という意味ではありません。</strong></p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>差込口</th><th>定格（合計）</th><th>雷ガード</th><th>最大サージ電圧の書き方（原文の一部）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-elpa-desk-usb-tap-pd20w">エルパ デスクUSBタップ PD20W クランプ式</a></th><td>4口</td><td>1400W</td><td>あり（記載）</td><td>―</td></tr>
+            <tr><th><a href="product-elecom-power-strip-3port-surge-t-ktr05wh">エレコム 電源タップ 3個口 雷ガード ほこり防止シャッター 難燃性 ユリア樹脂</a></th><td>3口</td><td>1500W</td><td>あり（記載）</td><td>―</td></tr>
+            <tr><th><a href="product-elecom-power-strip-6outlet-3m-surge-t-k6a-2630bk">エレコム 電源タップ 6個口 3m 雷ガード 個別スイッチ ほこりシャッター付</a></th><td>6口</td><td>1500W</td><td>あり（記載）</td><td>最大サージ電圧12,500V。</td></tr>
+            <tr><th><a href="product-elecom-power-strip-tower-8outlet-surge">エレコム 電源タップ タワー型 8個口</a></th><td>8口</td><td>1400W</td><td>あり（記載）</td><td>―</td></tr>
+            <tr><th><a href="product-elecom-power-strip-10port-surge">エレコム 電源タップ 雷ガード 10個口</a></th><td>10口</td><td>1500W</td><td>あり（記載）</td><td>―</td></tr>
+            <tr><th><a href="product-elecom-power-strip-3port-dust-shutter">エレコム 電源タップ 3個口 ホコリ防止シャッター</a></th><td>3口</td><td>1500W</td><td>なし（記載）</td><td>―</td></tr>
+            <tr><th><a href="product-ugreen-power-strip-t620">UGREEN 電源タップT620</a></th><td>記載なし</td><td>記載なし</td><td>ブロックなし</td><td>―</td></tr>
+            <tr><th><a href="product-anker-nano-power-strip">Anker Nano Power Strip</a></th><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-cio-polaris-cube-power-strip">CIO Polaris CUBE 電源タップ</a></th><td>2口</td><td>記載なし</td><td>記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-cio-polaris-stick-cordreel">CIO Polaris STICK Built in CORD REEL</a></th><td>7口</td><td>記載なし</td><td>記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-tapo-p300-smart-power-strip">Tapo P300 スマートWi-Fi電源タップ</a></th><td>4口</td><td>記載なし</td><td>記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-sanwa-supply-dengen-extension-cord-2m-tapex2102">サンワサプライ 電源延長コード 2m</a></th><td>記載なし</td><td>1500W</td><td>記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-sanwa-supply-dengen-extension-cord-3m-tapex2103">サンワサプライ 電源延長コード 3m</a></th><td>記載なし</td><td>1500W</td><td>記載なし</td><td>―</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>エレコムのT-K6A-2630BKは「最大サージ電圧12,500V。JEC210/212規格に基づく数値」と、規格名を添えて書いています。サンワサプライの製品一覧のように、IECの数字を並べる書き方もあります。<strong>比べるときは、規格名をそろえます。</strong></p>
+        <p>電源タップの全体の定格（合計1500Wなど）は、雷ガードとは別の数字です。定格の読み方は<a href="power-breaker-15a">15A・1500Wの読み方</a>、電源タップと延長コードの違いは<a href="diff-power-strip-vs-extension">電源タップと延長コードの違い</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み違い</h2>
+        <ul><li><strong>「雷ガードがあれば、雷で機器が壊れることはない」</strong>：サンワサプライは、雷ガードタップは誘導雷のみ対応、直撃雷は保護しきれない可能性が高いと書いています。</li><li><strong>「電源を切っておけば雷サージは入らない」</strong>：サンワサプライは、電源をオフにしてもケーブルがつながっていれば雷サージは入り込むと書いています。</li><li><strong>「最大サージ電圧の数字は1つに決まる」</strong>：同じ製品一覧で、IECでは10000V、JECでは12500Vと書かれています。</li><li><strong>「電源用の雷ガードで電話線も守れる」</strong>：サンワサプライは、バリスタは電話などの信号系には使われないと書いています。</li><li><strong>「雷ガードの記載がないタップは、雷ガードがない」</strong>：書かれていないだけのこともあります。メーカーのページで確かめます。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>商品ページで確かめること</h2>
+        <ul><li>雷ガードの有無と、対応する雷の種類（誘導雷・侵入雷）の書き方。</li><li>最大サージ電圧の数字と、その規格名（IEC 61000-4-5・JEC 210/212など）。</li><li>制限電圧・サージ耐量の数字があるか。</li><li>アースにつなぐ方式か（アース付きのコンセントが必要か）。</li><li>電源タップの選び方は<a href="guide-power-strip">電源タップの選び方</a>、PSEマークは<a href="words-pse">PSEマークとは</a>にまとめています。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月16日時点で、各ページを実際に開いて確認したメーカー公式の資料にもとづきます（リンクは各項目に付けています）。仕様や表示のルールは、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>IEC 61000-4-5とJEC 210/212の規格本文は確認していません。このページの説明は、サンワサプライの公開ページによります。</li><li>エレコムの公式ページは、確認日に開けなかったため、エレコムの数字はGEARNOTEの商品ページのメーカー公開情報（過去の確認日）の書き方を使っています。</li><li>雷ガードの素子が、雷サージを受けたあとどのくらい使えるか（寿命や交換の目安）は、一次資料で数字を確かめられなかったため書いていません。</li><li>雷サージで機器が壊れる確率や頻度は、一次資料がないため書いていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「雷ガード（雷サージ）とは」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）　https://gearnote.net/words-lightning-surge</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-lightning-surge"&gt;GEARNOTE「雷ガード（雷サージ）とは」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>雷サージとは何ですか？</h3>
+            <p>サンワサプライの説明では、雷が電柱や地面などに落ちたときに一時的に発生する、異常な過電圧・過電流のことです。電線などを通って家の中の機器に入ることがあります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>雷ガード付きの電源タップは、どの雷に対応していますか？</h3>
+            <p>サンワサプライは、雷ガードタップは誘導雷のみ対応と書いています。アースへ逃がすバイパス回路を持つ高性能タイプは侵入雷にも対応と説明しています。直撃雷は保護しきれない可能性が高いと書いています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>最大サージ電圧とは何ですか？</h3>
+            <p>雷ガードがどのくらいの電圧のサージを想定しているかを表す数字で、規格によって書き方が変わります。サンワサプライの製品一覧では、同じ製品でIEC 61000-4-5で10000V、JEC 210/212で12500Vと書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>電源を切っておけば、雷サージは入りませんか？</h3>
+            <p>サンワサプライは、電源をオフにしてもケーブルがつながっていれば雷サージは入り込むため、外からの進入経路を断つことが重要と書いています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>掲載している電源タップで、雷ガードの記載があるのは何台ですか？</h3>
+            <p>GEARNOTEの電源タップの一覧13台のうち、メーカー公開情報に雷ガードありと書かれていたのは5台でした（GEARNOTE運営の計算）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="guide-power-strip">電源タップの選び方</a></li><li><a href="diff-power-strip-vs-extension">電源タップと延長コードの違い</a></li><li><a href="data-power-strip">電源タップの仕様一覧</a></li><li><a href="power-breaker-15a">15A・1500Wの読み方</a></li><li><a href="words-pse">PSEマークとは</a></li><li><a href="guide-c-desk-cables">デスクのケーブル整理</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

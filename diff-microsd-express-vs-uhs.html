@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>microSD ExpressとUHS-IのmicroSDの違い｜Switch 2で使えるカードと速度表記の読み方｜GEARNOTE</title>
+<meta name="description" content="microSD ExpressとUHS-IのmicroSDの違いを、SDアソシエーションと任天堂の公式情報で確かめて整理しました。端子と速度の仕組み、Switch 2で使えるカード、古い機器での動き方を掲載15枚の数字つきでまとめています。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="microSD ExpressとUHS-IのmicroSDの違い｜Switch 2で使えるカードと速度表記の読み方｜GEARNOTE">
+<meta property="og:description" content="microSD ExpressとUHS-IのmicroSDの違いを、SDアソシエーションと任天堂の公式情報で確かめて整理しました。端子と速度の仕組み、Switch 2で使えるカード、古い機器での動き方を掲載15枚の数字つきでまとめています。">
+<meta property="og:url" content="https://gearnote.net/diff-microsd-express-vs-uhs">
+<link rel="canonical" href="https://gearnote.net/diff-microsd-express-vs-uhs">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="microSD ExpressとUHS-IのmicroSDの違い｜Switch 2で使えるカードと速度表記の読み方｜GEARNOTE">
+<meta name="twitter:description" content="microSD ExpressとUHS-IのmicroSDの違いを、SDアソシエーションと任天堂の公式情報で確かめて整理しました。端子と速度の仕組み、Switch 2で使えるカード、古い機器での動き方を掲載15枚の数字つきでまとめています。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"microSD ExpressとUHS-IのmicroSDの違い"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"microSD ExpressとふつうのmicroSDは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"つなぎ方の規格が違います。ふつうのmicroSD（UHS-I）は従来のSDの方式で端子の1列目を使い、microSD ExpressはPCIeとNVMeの方式で2列目の端子も使います。SDアソシエーションの表では、UHS-Iのバス速度は最大104MB/s、SD Expressは985MB/sからです。"}},{"@type":"Question","name":"Switch 2で、Switchで使っていたmicroSDは使えますか？","acceptedAnswer":{"@type":"Answer","text":"microSD Express規格でなければ使えません。任天堂は、SD Expressに対応していないmicroSDは、Nintendo Switchからの画面写真・動画のコピーにのみ使えると書いています。"}},{"@type":"Question","name":"microSD Expressは、ほかの機器でも使えますか？","acceptedAnswer":{"@type":"Answer","text":"UHS-Iに対応した機器で使えると書くメーカーがあります。Nextorageは、その場合はUHS-Iの速度で転送し、すべてのUHS-I機器での動作は約束しないとしています。"}},{"@type":"Question","name":"microSD Expressのスピードクラスは何と書かれますか？","acceptedAnswer":{"@type":"Answer","text":"SDアソシエーションは、SD ExpressモードのスピードクラスをE150、E300、E450、E600としています。商品によっては、UHS側のU3・V30・A1などの表記も並びます。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ microSD ExpressとUHS-IのmicroSDの違い</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">microSD ExpressとUHS-I（ふつうのmicroSD）の違い</h1>
+        <p class="desc">同じ大きさのmicroSDでも、microSD Expressは中身のつなぎ方が別の規格です。SDアソシエーションと任天堂、カードメーカーの説明と、GEARNOTE掲載15枚の書き方をもとに整理しました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月16日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>いちばんの違いは「つなぎ方」：SDの方式か、PCIeか</h2>
+        <p>microSDカードと機器は、カードの裏の端子でつながります。SDアソシエーション（SDカードの規格団体）の説明では、UHS-Iは従来のインタフェース（第1ロウ）を使うので、それより前の方式と共存でき、少ないピン数で接続できるという特徴があります（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">SDアソシエーション「バススピード」</a>）。</p>
+        <p>これに対して、UHS-II以降とSD Expressは、送信用と受信用の端子を第2ロウ（2列目）に置いています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。SD Expressは、PCIe Gen.4のインターフェイスとNVMeプロトコルを使い、最大3940MB/sのバス性能になると書かれています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。PCIeとNVMeは、パソコンの内蔵SSDでも使われている仕組みです（<a href="words-nvme-sata">NVMeとSATAの違い</a>で説明しています）。</p>
+        <p>ネクストレージ（Nextorage）も、microSD Expressを、SDアソシエーションが策定したPCIeインターフェースとNVMeプロトコルに準拠した高速SD規格を、microSDサイズに採用したものと説明しています（<a href="https://www.nextorage.net/cards/msd/nm3a/" target="_blank" rel="noopener">Nextorage「Gシリーズ EX」</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th></th><th>UHS-IのmicroSD</th><th>microSD Express</th></tr></thead>
+            <tbody>
+            <tr><th>つなぎ方（規格）</th><td>従来のSDのインタフェース（端子の1列目＝第1ロウ）</td><td>PCIeとNVMe（端子の2列目＝第2ロウを使う）</td></tr>
+            <tr><th>バス速度（SDアソシエーションの表）</th><td>50MB/s・104MB/s</td><td>985MB/s（PCIe Gen.3 × 1Lane）から最大3940MB/s</td></tr>
+            <tr><th>スピードクラスの表記</th><td>C10、U1・U3、V10・V30など</td><td>E150・E300・E450・E600（SD Expressスピードクラス）</td></tr>
+            <tr><th>Nintendo Switch 2</th><td>使えない（画面写真・動画のコピー用を除く）</td><td>対応（最大2TBまで）</td></tr>
+            <tr><th>GEARNOTE掲載</th><td>8枚（最大読み出しの記載80〜200MB/s（7台））</td><td>2枚（最大読み出し810〜880MB/s（2台））</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>速度の数字：「バス速度」と「カードの最大速度」は別のもの</h2>
+        <p>SDアソシエーションの表では、UHS-Iのバス速度は50MB/s（SDR50）と104MB/s（SDR104）の2つの区分です（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">SDアソシエーション</a>）。SD Expressは、PCIe Gen.3 × 1Laneで985MB/s、Gen.4 × 2Laneで3940MB/sまでの区分が並んでいます（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページの表</a>）。これは機器とカードの間の通り道の上限で、カード自体がその速さで読み書きできるという意味ではありません。</p>
+        <p>GEARNOTE掲載のmicroSD Express 2枚の最大読み出しは、810〜880MB/s（2台）です。Nextorageの公式ページでは、インターフェースが「PCIe3×1, NVMe1.3/UHS-I」と書かれています（<a href="https://www.nextorage.net/cards/msd/nm3a/" target="_blank" rel="noopener">Nextorage</a>）。PCIe Gen.3 × 1Laneのバス速度985MB/sに対して、カードの最大読み出しは810MB/s（256GB）という関係です（GEARNOTE運営の計算）。</p>
+        <p>UHS-IのmicroSD 8枚では、最大読み出しの記載があるのは80〜200MB/s（7台）でした。UHS-Iのバス速度104MB/sを超える数字が書かれているのは2枚で、<a href="product-sandisk-ultra-microsd-256gb-sdsqujq-256g-gh3ma">SanDisk Ultra microSD UHS-Iカード 256GB SDSQUJQ-256G-GH3MA（Amazon.co.jp限定）</a>の商品ページには「195MB/sはUHS-Iの104MB/sを超える独自技術による値で、対応機器でのみ出ます」、<a href="product-kingston-canvas-go-plus-microsd-256gb">Kingston Canvas Go! Plus Gen4 microSDXC</a>には「完全な速度にはMobileLite Plusリーダーが必要」と書かれています（GEARNOTE運営の計算）。</p>
+        <p>掲載のmicroSD Expressの最大読み出し810〜880MB/sは、UHS-Iのバス速度104MB/sの約7.8〜8.5倍です（GEARNOTE運営の計算）。ただし、どれもメーカーが示す最大値で、実際の速さは機器によって変わります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>Nintendo Switch 2：microSD Expressだけが使える</h2>
+        <p>任天堂のNintendo Switch 2の仕様ページは、microSDカードスロットについて「microSD Expressメモリーカードのみ対応（最大2TBまで）」と書いています（<a href="https://www.nintendo.com/jp/hardware/switch2/specs/" target="_blank" rel="noopener">任天堂「Nintendo Switch 2 仕様」</a>）。使い始めるには、インターネットに接続して本体更新が必要とも書かれています（<a href="https://www.nintendo.com/jp/hardware/switch2/specs/" target="_blank" rel="noopener">同ページ</a>）。</p>
+        <p>SD Expressに対応していないmicroSDメモリーカードは、Nintendo Switchからの画面写真・動画のコピーにのみ使えると書かれています（<a href="https://www.nintendo.com/jp/hardware/switch2/specs/" target="_blank" rel="noopener">任天堂</a>）。任天堂の紹介ページも、これまでNintendo Switchで使っていたmicroSDカードがmicroSD Express規格でない場合は使えないと注意しています（<a href="https://www.nintendo.com/jp/hardware/switch2/" target="_blank" rel="noopener">任天堂「Nintendo Switch 2」</a>）。</p>
+        <p>GEARNOTE掲載では、microSD Expressの2枚の商品ページにNintendo Switch 2の記載があります。<a href="product-sandisk-microsd-express-256gb-switch2">SanDisk microSD Express Card 256GB for</a>は任天堂のライセンス商品と書かれ、<a href="product-nextorage-microsd-express-g-ex-256gb-switch2">Nextorage microSD Express GシリーズEX 256GB</a>は、Nextorageが動作確認済みとしています。UHS-Iの<a href="product-kioxia-microsd-256gb">KIOXIA microSD 256GB</a>は、商品ページの仕様表に「Switch 2は非対応」と書かれています（メーカーのページにはSwitch 2の記載がありません）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>古い機器に差すと：UHS-Iの速度になる</h2>
+        <p>SDアソシエーションは、従来のバス速度との互換性は第1ロウによって保たれると書いています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">SDアソシエーション</a>）。ホスト機器（カードを差す側）には、第2ロウのサポートが必要とも書いています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。つまり、PCIeで動くには機器側もSD Expressに対応している必要があります。</p>
+        <p>Nextorageは、Gシリーズ EXには下位互換性があり、UHS-Iに対応した従来の機器でも使えると書いています（<a href="https://www.nextorage.net/cards/msd/nm3a/" target="_blank" rel="noopener">Nextorage</a>）。同じページの注記で、UHS-I対応機器に接続した場合はUHS-Iの速度でデータを転送し、すべてのUHS-I機器での動作を約束するものではないとしています（<a href="https://www.nextorage.net/cards/msd/nm3a/" target="_blank" rel="noopener">同ページの注記</a>）。</p>
+        <p>このため、microSD Expressの商品ページには、UHS-I側の表記も並ぶことがあります。<a href="product-nextorage-microsd-express-g-ex-256gb-switch2">Nextorage microSD Express GシリーズEX 256GB</a>の商品ページには、SDスピードクラスClass10、UHSスピードクラスClass3、ビデオスピードクラスV30、アプリケーションパフォーマンスクラスA1が書かれています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>スピードクラスの表記も違う：E150〜E600</h2>
+        <p>SDアソシエーションによると、スピードクラスには「スピードクラス」「UHSスピードクラス」「ビデオスピードクラス」「SD Expressスピードクラス」の4種類があります（<a href="https://www.sdcard.org/ja/consumers/about-sd-memory-card-choices/speed-class-standards-for-video-recording/" target="_blank" rel="noopener">SDアソシエーション「スピードクラス規格」</a>）。SD ExpressモードのスピードクラスはE150、E300、E450、E600です（<a href="https://www.sdcard.org/ja/consumers/about-sd-memory-card-choices/speed-class-standards-for-video-recording/" target="_blank" rel="noopener">同ページの表</a>）。</p>
+        <p>GEARNOTE掲載のmicroSD Express 2枚の商品ページには、Eで始まるスピードクラスの記載はありません。UHS-IのmicroSD 8枚のうち、V30の記載があるのは4枚でした（GEARNOTE運営の計算）。U・V・Aの表記の意味は<a href="words-microsd">microSD・SDカードの表記の読み方</a>で整理しています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>GEARNOTE掲載の数字（microSD 10枚）</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品（GEARNOTEのページ）</th><th>区分</th><th>容量</th><th>最大読み出し</th><th>最大書き込み</th><th>Switch 2</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-sandisk-microsd-express-256gb-switch2">SanDisk microSD Express Card 256GB for</a></th><td>microSD Express</td><td>256GB</td><td>880MB/s</td><td>650MB/s</td><td>対応（商品ページ）</td></tr>
+            <tr><th><a href="product-nextorage-microsd-express-g-ex-256gb-switch2">Nextorage microSD Express GシリーズEX 256GB</a></th><td>microSD Express</td><td>256GB</td><td>810MB/s</td><td>記載なし</td><td>対応（商品ページ）</td></tr>
+            <tr><th><a href="product-elecom-microsd-64gb">エレコム microSD 64GB</a></th><td>UHS-I</td><td>64GB</td><td>80MB/s</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-sandisk-ultra-microsd-256gb-sdsqujq-256g-gh3ma">SanDisk Ultra microSD UHS-Iカード 256GB SDSQUJQ-256G-GH3MA（Amazon.co.jp限定）</a></th><td>UHS-I</td><td>256GB</td><td>195MB/s</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-kioxia-microsd-256gb">KIOXIA microSD 256GB</a></th><td>UHS-I</td><td>256GB</td><td>100MB/s</td><td>記載なし</td><td>非対応（商品ページの仕様表）</td></tr>
+            <tr><th><a href="product-kioxia-microsd-128gb">KIOXIA microSD 128GB</a></th><td>UHS-I</td><td>128GB</td><td>100MB/s</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-kioxia-high-endurance-microsd-128gb">KIOXIA 高耐久microSD ドラレコ・監視カメラ用</a></th><td>UHS-I</td><td>128GB</td><td>100MB/s</td><td>50MB/s</td><td>記載なし</td></tr>
+            <tr><th><a href="product-sandisk-high-endurance-microsd-64gb-sdsqqnr">SanDisk 高耐久 microSDカード 64GB</a></th><td>UHS-I</td><td>64GB</td><td>100MB/s</td><td>40MB/s</td><td>記載なし</td></tr>
+            <tr><th><a href="product-sandisk-extreme-microsd-128gb-sdsqxh9-128g-ghqma">サンディスク エクストリーム microSD 128GB SDSQXH9-128G-GHQMA</a></th><td>UHS-I</td><td>128GB</td><td>記載なし</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-kingston-canvas-go-plus-microsd-256gb">Kingston Canvas Go! Plus Gen4 microSDXC</a></th><td>UHS-I</td><td>256GB</td><td>200MB/s</td><td>160MB/s</td><td>記載なし</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>容量と速度はデータ一覧の数字です。SDカード（フルサイズ）5枚は、Switch 2のカードスロットに差せない大きさのため、この表から外しています。<a href="product-sandisk-extreme-microsd-128gb-sdsqxh9-128g-ghqma">サンディスク エクストリーム microSD 128GB SDSQXH9-128G-GHQMA</a>は、データ一覧に速度の数字がありません（メーカーの現行ページの128GBは最大読み出し190MB/秒・最大書き込み90MB/秒と、商品ページに書かれています）。</p>
+        <p>数字は、GEARNOTEに載せている商品の範囲のもので、市場全体の傾向ではありません。「記載なし」は、0や非対応という意味ではなく、データ一覧や商品ページに書かれていないという意味です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある読み間違い</h2>
+        <ul><li><strong>速いmicroSDなら、Switch 2で使えると思う</strong>：任天堂は「microSD Expressメモリーカードのみ対応」と書いています。UHS-Iで100MB/sを超えるカードでも、microSD Expressではありません。</li><li><strong>「Extreme」と「Express」を同じものだと思う</strong>：Extremeはカードの商品名で、Expressは規格の名前です。GEARNOTE掲載のExtreme microSDは、UHS-Iのカードです。</li><li><strong>microSD Expressは、どの機器でも800MB/s台で読めると思う</strong>：Nextorageは、UHS-I対応機器ではUHS-Iの速度で転送すると書いています。</li><li><strong>バス速度の985MB/sが、カードの速さだと思う</strong>：985MB/sはPCIe Gen.3 × 1Laneの通り道の上限です。カードの最大読み出しは、商品ごとに書かれた数字を見ます。</li><li><strong>Switch 2のカードを、ほかの機器でも同じように使えると思う</strong>：UHS-I機器で使えると書くメーカーでも、すべての機器での動作は約束していません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>商品ページで確認すること</h2>
+        <ul><li>規格：「microSD Express」「microSDXC Express」の記載があるか。商品名の「Extreme」などと混同しない。</li><li>使う機器：Nintendo Switch 2など、microSD Expressに対応した機器か。古い機器ではUHS-Iの速度になる。</li><li>速度：最大読み出し・最大書き込みの数字と、その数字が出る条件（専用リーダーが必要か）。</li><li>スピードクラス：E150〜E600や、UHS側のU3・V30・A1の表記。</li><li>初めて使うとき：Switch 2は、インターネットにつないで本体更新が必要。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日に、各ページを実際に開いて確認したメーカーの公式ページ・サポート情報と規格団体の資料にもとづきます（リンクは各項目に付けています）。GEARNOTEの数字は、掲載している商品のデータ一覧（CSV）と商品ページ（メーカー情報ブロック・仕様表）から、GEARNOTE運営が数えたもの（GEARNOTE運営の計算）です。</p>
+        <ul><li>microSD Expressカードの発熱や、長時間使ったときに速度が下がるかどうかを、メーカーが条件つきの数字で示した資料は確認できなかったので書いていません（SanDiskの商品ページの温度管理技術の記載は、商品ページの紹介にとどめています）。</li><li>掲載のmicroSD Express 2枚が、それぞれE150〜E600のどのスピードクラスに当たるかは、メーカーのページで確認できなかったので書いていません。</li><li>Nintendo Switch（初代）にmicroSD Expressを差したときの扱いは、任天堂の日本語の一次資料で確かめていないので書いていません。</li><li>パソコンでmicroSD Expressを使うためのカードリーダーの条件は、今回のメーカー資料で確認できなかったので扱っていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「microSD ExpressとUHS-IのmicroSDの違い」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）　https://gearnote.net/diff-microsd-express-vs-uhs</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/diff-microsd-express-vs-uhs"&gt;GEARNOTE「microSD ExpressとUHS-IのmicroSDの違い」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>microSD ExpressとふつうのmicroSDは、何が違いますか？</h3>
+            <p>つなぎ方の規格が違います。ふつうのmicroSD（UHS-I）は従来のSDの方式で端子の1列目を使い、microSD ExpressはPCIeとNVMeの方式で2列目の端子も使います。SDアソシエーションの表では、UHS-Iのバス速度は最大104MB/s、SD Expressは985MB/sからです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>Switch 2で、Switchで使っていたmicroSDは使えますか？</h3>
+            <p>microSD Express規格でなければ使えません。任天堂は、SD Expressに対応していないmicroSDは、Nintendo Switchからの画面写真・動画のコピーにのみ使えると書いています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>microSD Expressは、ほかの機器でも使えますか？</h3>
+            <p>UHS-Iに対応した機器で使えると書くメーカーがあります。Nextorageは、その場合はUHS-Iの速度で転送し、すべてのUHS-I機器での動作は約束しないとしています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>microSD Expressのスピードクラスは何と書かれますか？</h3>
+            <p>SDアソシエーションは、SD ExpressモードのスピードクラスをE150、E300、E450、E600としています。商品によっては、UHS側のU3・V30・A1などの表記も並びます。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>関連ページ</h2>
+        <ul><li><a href="data-microsd">microSD・SDカードの仕様一覧</a></li><li><a href="guide-microsd">microSD・SDカードの選び方</a></li><li><a href="words-microsd">microSD・SDカードの表記の読み方</a></li><li><a href="diff-microsd-high-endurance">高耐久microSDと通常のmicroSDの違い</a></li><li><a href="words-nvme-sata">NVMeとSATAの違い</a></li><li><a href="diff-external-storage-types">外付けHDD・SSD・USBメモリの違い</a></li><li><a href="diff-index">「違い」を調べる</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

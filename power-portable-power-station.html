@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ポータブル電源の「定格出力W」「瞬間最大」「AC入力W」の読み方｜Whとの違い、15Aコンセントで充電するとき（掲載8台）｜GEARNOTE</title>
+<meta name="description" content="ポータブル電源の仕様表には、定格出力・瞬間最大出力・AC入力のWと、電池容量のWhが並びます。GEARNOTE掲載8台のメーカー公開情報から、それぞれの書き方、定格と瞬間最大の比、コンセントで充電するときの残りを計算しました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="ポータブル電源の「定格出力W」「瞬間最大」「AC入力W」の読み方｜Whとの違い、15Aコンセントで充電するとき（掲載8台）｜GEARNOTE">
+<meta property="og:description" content="ポータブル電源の仕様表には、定格出力・瞬間最大出力・AC入力のWと、電池容量のWhが並びます。GEARNOTE掲載8台のメーカー公開情報から、それぞれの書き方、定格と瞬間最大の比、コンセントで充電するときの残りを計算しました。">
+<meta property="og:url" content="https://gearnote.net/power-portable-power-station">
+<link rel="canonical" href="https://gearnote.net/power-portable-power-station">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ポータブル電源の「定格出力W」「瞬間最大」「AC入力W」の読み方｜Whとの違い、15Aコンセントで充電するとき（掲載8台）｜GEARNOTE">
+<meta name="twitter:description" content="ポータブル電源の仕様表には、定格出力・瞬間最大出力・AC入力のWと、電池容量のWhが並びます。GEARNOTE掲載8台のメーカー公開情報から、それぞれの書き方、定格と瞬間最大の比、コンセントで充電するときの残りを計算しました。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"ポータブル電源の出力・入力の書き方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ポータブル電源の「Wh」と「W」は何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"Whはためておける電力量、Wは一度に出せる電力の大きさです。DJI Power 1000 Miniは1,008Whで、定格連続出力は800Wと書かれています。"}},{"@type":"Question","name":"瞬間最大出力は、定格出力の何倍ですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTE掲載で両方の数字がある4台では、3台が2倍、1台が1.25倍でした（GEARNOTE運営の計算）。"}},{"@type":"Question","name":"ポータブル電源を充電しながら、同じコンセントでほかの家電を使えますか？","acceptedAnswer":{"@type":"Answer","text":"NITEは、壁の二口コンセントは合計1500Wまでと説明しています。AC入力1,300WのAnker Solix C1000なら、残りは200Wの計算です（GEARNOTE運営の計算）。"}},{"@type":"Question","name":"1,500Wの家電は使えますか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTE掲載では、定格出力1,500Wの機種が3台ありました。家電の消費電力が定格出力以下かどうかを、両方の仕様表で確かめます。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ ポータブル電源の出力・入力の書き方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">ポータブル電源の定格出力・瞬間最大出力・AC入力（W）の読み方</h1>
+        <p class="desc">ポータブル電源は、ほかの家電と違って「電気を出す側」の数字と「電気を受け取る側」の数字の両方が仕様表に載ります。GEARNOTEに載せているポータブル電源のメーカー公開情報を原文で集め、出力のW、入力のW、容量のWhがそれぞれ何を表すかをまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月16日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>メーカー公開情報の書き方（GEARNOTE掲載8台）</h2>
+        <p>GEARNOTEの<a href="data-portable-power-station">ポータブル電源の仕様一覧</a>に載っている8台は、すべてメーカー公開情報のブロックがあります。容量、AC出力、入力の原文を並べました。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>容量</th><th>AC出力の原文</th><th>入力の原文</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-solix-c1000">Anker Solix C1000 ポータブル電源</a></th><td>1,056Wh</td><td>定格出力 1500W（50/60Hz）／SurgePad使用時は2000Wまで</td><td>入力 ACコンセント（1300W）／ソーラーパネル（600W）／車のシガーソケット（120W）</td></tr>
+            <tr><th><a href="product-anker-solix-c300-288wh">Anker ポータブル電源 Solix C300 288Wh 高出力AC300W</a></th><td>288Wh</td><td>AC出力 定格300W（50/60Hz）／ピーク600W、SurgePad 500W、AC200V非対応</td><td>入力（充電方法） ACコンセント（330W）／USB充電器（140W）／ソーラーパネル（100W）／車のシガーソケット（100W）</td></tr>
+            <tr><th><a href="product-anker-solix-s2000-portable-power-station-as220">Anker Solix S2000 ポータブル電源 AS220</a></th><td>2,010Wh</td><td>定格出力 1500W</td><td>ブロックに記載なし</td></tr>
+            <tr><th><a href="product-bluetti-ac2a-204wh">BLUETTI ポータブル電源 AC2A 204Wh/300W APP遠隔操作</a></th><td>204.8Wh</td><td>定格出力 300W（AC100V 3A × 2口）</td><td>AC入力 最大270W</td></tr>
+            <tr><th><a href="product-dji-power-1000-mini">DJI Power 1000 Mini ポータブル電源 1008Wh 小型 大容量</a></th><td>1,008Wh</td><td>AC出力 最大1,000W、定格連続800W。ACポートは日本モデルで4個</td><td>DC（SDC） 出力 最大300W（9〜28V）、入力 最大400W</td></tr>
+            <tr><th><a href="product-jackery-portable-power-1000-new-je-1000d-sg">Jackery ポータブル電源 1000 New 1070Wh</a></th><td>1,070Wh</td><td>定格出力 1500W（瞬間最大3000W）</td><td>AC入力（コンセント） 100V-120V~50Hz/60Hz、最大15A</td></tr>
+            <tr><th><a href="product-jackery-portable-power-240">Jackery(ジャクリ) ポータブル電源 240 New 256Wh</a></th><td>256Wh</td><td>定格出力 300W</td><td>ブロックに記載なし</td></tr>
+            <tr><th><a href="product-dji-power-auro-2000-elite-portable-power-station-2000w">DJI Power Auro 2000 Elite ポータブル電源</a></th><td>2,016Wh</td><td>AC出力（低電圧） AC 100〜127V、50/60Hz、最大2000W</td><td>AC入力（低電圧） AC 100〜127V、最大1440W</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>データ一覧のAC定格出力は300・800・1,500Wの3通りでした（GEARNOTE運営の計算（2026年11月15日））。DJI Power Auro 2000 Eliteは「最大2000W」とだけ書かれ、定格の数字がないため、データ一覧には入れていません。そのブロックには「AC出力などのデータは国や地域によって異なる」旨も書かれています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>Wh（容量）とW（出力）は別の数字</h2>
+        <p>Wh（ワット時）は、ためておける電力量です。W（ワット）は、一度に出せる電力の大きさです。Jackery 1000 Newは容量を 「定格容量 30.4Ah/35.2VDC（1070Wh）」 と書いています。30.4Ah×35.2Vは約1,070Whで、表記の1070Whと合います（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <p>容量を定格出力で割ると、定格いっぱいで使い続けたときの計算上の時間になります。Anker Solix C1000は1,056Wh÷1,500Wで約0.70時間、Solix C300は288Wh÷300Wで約0.96時間、DJI Power 1000 Miniは1,008Wh÷800Wで約1.26時間です（GEARNOTE運営の計算（2026年11月15日））。これは割り算の結果で、メーカーが書いた使用時間ではありません。計算は<a href="tool-power-station-runtime">ポータブル電源の使える時間の目安計算</a>で試せます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>定格出力と瞬間最大出力（GEARNOTE運営の計算）</h2>
+        <p>「定格」は続けて出せる出力、「瞬間最大」「ピーク」は短い時間だけ出せる出力として書かれています。両方の数字がある4台では、瞬間最大÷定格は次のとおりでした。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>定格</th><th>瞬間最大・ピーク</th><th>瞬間最大÷定格</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-solix-c300-288wh">Anker ポータブル電源 Solix C300 288Wh 高出力AC300W</a></th><td>300W</td><td>600W</td><td>2.00倍</td></tr>
+            <tr><th><a href="product-bluetti-ac2a-204wh">BLUETTI ポータブル電源 AC2A 204Wh/300W APP遠隔操作</a></th><td>300W</td><td>600W</td><td>2.00倍</td></tr>
+            <tr><th><a href="product-dji-power-1000-mini">DJI Power 1000 Mini ポータブル電源 1008Wh 小型 大容量</a></th><td>800W</td><td>1,000W</td><td>1.25倍</td></tr>
+            <tr><th><a href="product-jackery-portable-power-1000-new-je-1000d-sg">Jackery ポータブル電源 1000 New 1070Wh</a></th><td>1,500W</td><td>3,000W</td><td>2.00倍</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>3台は2倍、DJI Power 1000 Miniは「最大1,000W、定格連続800W」で1.25倍でした。BLUETTI AC2Aの瞬間最大600Wには「抵抗負荷向け」と書かれています。AnkerのSurgePadは別の機能の数字で、Solix C1000は「SurgePad使用時は2000Wまで」、Solix C300は「SurgePad 500W」と書かれています。<strong>つなぐ家電の消費電力と比べるのは、まず定格出力</strong>です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>AC入力のWと、15Aのコンセント（GEARNOTE運営の計算）</h2>
+        <p>コンセントから充電するときの入力も、Wで書かれます。北海道電力は、「A（アンペア）数は、電気機器のW（ワット）数をV（ボルト）で割った数値です」 と説明し、「例：電気ジャーポット　　　消費電力1,000W÷100V＝10A（アンペア）」 という例を示しています（<a href="https://www.hepco.co.jp/home/contract_change/ampere_check/check.html" target="_blank" rel="noopener">北海道電力「アンペアチェック」</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>AC入力</th><th>アンペア（W÷100V）</th><th>1,500Wからの残り</th></tr></thead>
+            <tbody>
+            <tr><th>Anker Solix C1000</th><td>1,300W</td><td>13.0A</td><td>200W</td></tr>
+            <tr><th>DJI Power Auro 2000 Elite</th><td>1,440W</td><td>14.4A</td><td>60W</td></tr>
+            <tr><th>Anker Solix C300</th><td>330W</td><td>3.3A</td><td>1,170W</td></tr>
+            <tr><th>BLUETTI AC2A</th><td>270W</td><td>2.7A</td><td>1,230W</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>NITEは、「一般住宅の壁に設置してあるコンセントは二口のものが一般的ですが、その場合、二口の合計で1500Wまでが接続可能な最大消費電力となっています。」 「例えばコンセントの片方に1000W分の電気製品を接続した場合、もう片方には500Wまでしか接続できません。」 と説明しています（<a href="https://www.nite.go.jp/data/000133752.pdf" target="_blank" rel="noopener">NITE（2022年2月24日、PDF）</a>）。この考え方で計算すると、Anker Solix C1000をAC入力1,300Wで充電している間は、同じコンセントの残りは200W、DJI Power Auro 2000 Eliteの1,440Wなら60Wです。Jackery 1000 Newは入力を 「100V-120V~50Hz/60Hz、最大15A」 とアンペアで書いていて、15Aは100Vで1,500Wにあたります（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <p>充電時間は、入力Wのほかにモードでも変わる書き方です。Solix C1000は 「約58分（ACコンセント、専用アプリの超急速充電モード時。通常モードは約90分）」、BLUETTI AC2Aは 「静音モード 約4時間／標準 約2時間／急速 約1.4時間」 と書いています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>家庭用品品質表示法の品目との関係</h2>
+        <p>消費者庁の家庭用品品質表示法で、表示の決まりがある電気機械器具は17品目です（<a href="https://www.caa.go.jp/policies/policy/representation/household_goods/guide/electric/" target="_blank" rel="noopener">消費者庁「電気機械器具」</a>）。一覧にポータブル電源の名前はありません。定格出力・入力・容量の数字は、メーカーが自社の仕様として書いている数字です。モバイルバッテリーとの違いは<a href="diff-power-station-vs-power-bank">ポータブル電源とモバイルバッテリーの違い</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み違い</h2>
+        <ul><li><strong>「1000Whなら1000Wの家電が使える」</strong>：Whは容量、Wは出力で、使える家電は定格出力で見ます。DJI Power 1000 Miniは1,008Whで定格連続800Wです。</li><li><strong>「瞬間最大3000Wまで使える」</strong>：Jackery 1000 Newの定格出力は1,500Wです。</li><li><strong>「充電は何Wでも同じ」</strong>：AC入力1,300Wで充電すると、同じコンセントの残りは200Wの計算です。</li><li><strong>「SurgePadの2000Wは定格出力」</strong>：Anker Solix C1000の定格出力は1,500Wです。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>商品ページで確かめること</h2>
+        <ul><li>定格出力（W）と、瞬間最大・ピークの数字。</li><li>使いたい家電の消費電力が、定格出力に収まるか（<a href="spec-power-table">家電の消費電力 早見表</a>）。</li><li>AC入力のWと、充電モードごとの時間。</li><li>容量（Wh）と、mAh表記との関係（<a href="tool-mah-wh">mAhとWhの換算</a>）。</li><li>選び方は<a href="guide-portable-power-station">ポータブル電源の選び方</a>。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページの数字は、2026年11月15日時点のGEARNOTEのデータ一覧（CSV）と、商品ページの「メーカー公開情報」ブロックにある文字列から数えたものです。ブロックの文字列には、それぞれメーカー公式ページの出典と確認日が付いています。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。消費電力の数字は、メーカーが決めた条件での数字で、実際に使ったときの数字ではありません。</p>
+        <ul><li>瞬間最大出力が何秒続くかは、ブロックに書かれていない機種が多いため書いていません。</li><li>容量÷定格出力の時間が、実際に使える時間とどのくらい違うかは、メーカーの数字がないため書いていません。</li><li>Anker Solix S2000、Jackery 240 New、DJI Power 1000 MiniのAC入力のWは、ブロックに書かれていないため表に入れていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「ポータブル電源の出力・入力の書き方」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）　https://gearnote.net/power-portable-power-station</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/power-portable-power-station"&gt;GEARNOTE「ポータブル電源の出力・入力の書き方」（2026年10月31日〜11月11日のデータ、2026年11月16日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ポータブル電源の「Wh」と「W」は何が違いますか？</h3>
+            <p>Whはためておける電力量、Wは一度に出せる電力の大きさです。DJI Power 1000 Miniは1,008Whで、定格連続出力は800Wと書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>瞬間最大出力は、定格出力の何倍ですか？</h3>
+            <p>GEARNOTE掲載で両方の数字がある4台では、3台が2倍、1台が1.25倍でした（GEARNOTE運営の計算）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ポータブル電源を充電しながら、同じコンセントでほかの家電を使えますか？</h3>
+            <p>NITEは、壁の二口コンセントは合計1500Wまでと説明しています。AC入力1,300WのAnker Solix C1000なら、残りは200Wの計算です（GEARNOTE運営の計算）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>1,500Wの家電は使えますか？</h3>
+            <p>GEARNOTE掲載では、定格出力1,500Wの機種が3台ありました。家電の消費電力が定格出力以下かどうかを、両方の仕様表で確かめます。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="data-portable-power-station">ポータブル電源の仕様一覧</a></li><li><a href="diff-power-station-vs-power-bank">ポータブル電源とモバイルバッテリーの違い</a></li><li><a href="tool-power-station-runtime">ポータブル電源の使える時間の目安計算</a></li><li><a href="guide-portable-power-station">ポータブル電源の選び方</a></li><li><a href="tool-mah-wh">mAhとWhの換算</a></li><li><a href="power-breaker-15a">コンセントの15A（1500W）とブレーカー</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
