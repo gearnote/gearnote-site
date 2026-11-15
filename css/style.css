@@ -1699,3 +1699,7 @@ th.dtt-sortable { cursor: pointer; user-select: none; }
 th.dtt-sortable::after { content: " ↕"; opacity: .35; font-size: .8em; }
 th.dtt-asc::after { content: " ▲"; opacity: 1; }
 th.dtt-desc::after { content: " ▼"; opacity: 1; }
+
+.footer-own-links { margin-top: 10px; font-size: 0.82rem; color: var(--text-muted); }
+.footer-own-links a { color: var(--text-muted); text-decoration: underline; }
+.footer-own-links a:hover { color: var(--text); }
