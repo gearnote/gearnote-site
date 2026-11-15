@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ポータブル電源の容量の読み方｜Wh・定格容量・定格出力と瞬間最大・使える時間・サイクル後の容量（掲載8台）｜GEARNOTE</title>
+<meta name="description" content="ポータブル電源の「1070Wh」は、全部使える量なのか。定格容量（Ah×V）、定格出力と瞬間最大・SurgePad・電力リフトの違い、80%で見積もる使える時間、4000回後に70〜80%という書き方を、メーカーの仕様で確かめ、掲載8台で計算しました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="ポータブル電源の容量の読み方｜Wh・定格容量・定格出力と瞬間最大・使える時間・サイクル後の容量（掲載8台）｜GEARNOTE">
+<meta property="og:description" content="ポータブル電源の「1070Wh」は、全部使える量なのか。定格容量（Ah×V）、定格出力と瞬間最大・SurgePad・電力リフトの違い、80%で見積もる使える時間、4000回後に70〜80%という書き方を、メーカーの仕様で確かめ、掲載8台で計算しました。">
+<meta property="og:url" content="https://gearnote.net/capacity-power-station">
+<link rel="canonical" href="https://gearnote.net/capacity-power-station">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ポータブル電源の容量の読み方｜Wh・定格容量・定格出力と瞬間最大・使える時間・サイクル後の容量（掲載8台）｜GEARNOTE">
+<meta name="twitter:description" content="ポータブル電源の「1070Wh」は、全部使える量なのか。定格容量（Ah×V）、定格出力と瞬間最大・SurgePad・電力リフトの違い、80%で見積もる使える時間、4000回後に70〜80%という書き方を、メーカーの仕様で確かめ、掲載8台で計算しました。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"ポータブル電源の容量（Wh）と出力の読み方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ポータブル電源の容量1000Whは、全部使えますか？","acceptedAnswer":{"@type":"Answer","text":"全部は使えません。Jackeryの解説記事は、電力のロスがあるため、使用時間の目安をバッテリー容量（Wh）×80％÷家電の消費電力（W）で計算するとしています。"}},{"@type":"Question","name":"定格出力と瞬間最大出力は、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"Jackeryの解説記事では、定格出力は安定して出力し続けられる電力、瞬間最大出力は家電の起動時に必要な起動電力に対応する最大の出力です。家電の消費電力が定格出力を超えると、家電は動きません。"}},{"@type":"Question","name":"SurgePadや電力リフトがあれば、定格より大きい家電も使えますか？","acceptedAnswer":{"@type":"Answer","text":"条件つきです。BLUETTIは、Power Lifting Modeは600Wまでの抵抗負荷（ヒーターやドライヤーなど）だけに働き、エアコンや洗濯機には使わないよう書いています。条件はメーカーごとに確認してください。"}},{"@type":"Question","name":"4000回使うと、容量はどのくらい減りますか？","acceptedAnswer":{"@type":"Answer","text":"メーカーの書き方では、Jackery 1000 Newは4000回後も70%、DJI Power 1000 Miniは4000サイクル以降も80%以上を維持します。1070Whの70%は749Whです（GEARNOTE運営の計算）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ ポータブル電源の容量（Wh）と出力の読み方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">ポータブル電源の容量の読み方｜Wh・定格出力・使える時間</h1>
+        <p class="desc">ポータブル電源の容量と出力は、同じWでも、条件の違う数字がいくつも並びます。どの数字で何を見積もるかを、メーカーの仕様と解説で確かめられた範囲で整理しました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月15日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>容量のWhは、電池の「定格容量」</h2>
+        <p>ポータブル電源の容量は、Wh（ワット時）で書かれます。Jackeryのポータブル電源 1000 New（JE-1000D）の製品仕様は、バッテリーの欄に「定格容量 30.4Ah/35.2VDC(1070Wh)」と書いています（<a href="https://www.jackery.jp/products/explorer-1000-new" target="_blank" rel="noopener">Jackery</a>）。30.4Ah×35.2V＝1070.08Whで、表示の1070Whと一致します（GEARNOTE運営の計算）。<strong>Whは、電池の電流容量（Ah）と電圧（V）の掛け算</strong>です。</p>
+        <p>DJI Power 1000 Miniは、同じ数字を「電力量 1008 Wh（標準）」と書いています（<a href="https://www.dji.com/jp/power-1000-mini/specs" target="_blank" rel="noopener">DJI</a>）。欄の名前は「容量」「定格容量」「電力量」「電池容量」とメーカーで違いますが、どれも内蔵の電池の量です。モバイルバッテリーのmAhとの換算は、<a href="tool-mah-wh">mAhとWhの換算</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>全部は使えない：Jackeryは「×80％」で見積もる</h2>
+        <p>電池のWhを、そのまま家電に使えるわけではありません。Jackeryの解説記事は、使用時間の目安を「ポータブル電源のバッテリー容量（Wh）×80％÷接続する家電の消費電力（W）」とし、電力のロスが発生するため、搭載されているバッテリー容量すべてを家電で使えない、と書いています。例として、3000Whで950Wの家電を使う場合を、3000×0.8÷950＝2.52時間としています（<a href="https://www.jackery.jp/blogs/power-station/using-time-of-power-station" target="_blank" rel="noopener">Jackeryの解説記事</a>）。</p>
+        <p>この80%は、Jackeryが目安として示す係数です。ほかのメーカーが同じ係数を使っているかは、確認できたページには書かれていませんでした。GEARNOTE運営の計算として、この係数で例を出すと、次のようになります。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>家電の消費電力</th><th>電池の容量</th><th>使える時間の目安（×0.8）</th><th>70%まで減った電池で（×0.7×0.8）</th></tr></thead>
+            <tbody>
+            <tr><th>30W</th><td>1070Wh</td><td>約28.5時間</td><td>約20時間</td></tr>
+            <tr><th>100W</th><td>1070Wh</td><td>約8.6時間</td><td>約6時間</td></tr>
+            <tr><th>500W</th><td>1070Wh</td><td>約1.7時間</td><td>約1.2時間</td></tr>
+            <tr><th>30W</th><td>256Wh</td><td>約6.8時間</td><td>—</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>自分の家電のWで試すには、<a href="tool-power-station-runtime">ポータブル電源の使える時間の目安計算</a>が使えます（使える割合を入力できます）。消費電力量そのもの（W×時間）の計算は、<a href="tool-power-wh">消費電力量の計算</a>です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>定格出力と、瞬間最大・SurgePad・電力リフト</h2>
+        <p>容量（Wh）が「どれだけ長く」なら、出力（W）は「どれだけ大きい家電を動かせるか」の数字です。Jackeryの解説記事は、定格出力を「ポータブル電源が安定して出力し続けられる電力」、瞬間最大出力を「瞬間風速的に出せる最大の出力で、家電が起動する際に必要な起動電力に対応するもの」とし、接続する家電の消費電力が定格出力を超えると、家電を稼働できないと書いています（<a href="https://www.jackery.jp/blogs/power-station/rated-output" target="_blank" rel="noopener">Jackeryの解説記事</a>）。</p>
+        <p>同じ「定格より大きい数字」でも、メーカーによって名前と意味が違います。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>メーカー・機種</th><th>書かれている出力の数字</th><th>出典</th></tr></thead>
+            <tbody>
+            <tr><th>Jackery 1000 New</th><td>定格出力1500W（瞬間最大3000W）</td><td><a href="https://www.jackery.jp/products/explorer-1000-new" target="_blank" rel="noopener">Jackery</a></td></tr>
+            <tr><th>Anker Solix C300</th><td>定格300W／瞬間最大600W。比較表に「AC出力 (SurgePad™技術) 500W」</td><td><a href="https://www.ankerjapan.com/products/a1722" target="_blank" rel="noopener">Anker</a></td></tr>
+            <tr><th>DJI Power 1000 Mini</th><td>最大1000W（連続800W）、バイパスモード時 最大1440W</td><td><a href="https://www.dji.com/jp/power-1000-mini/specs" target="_blank" rel="noopener">DJI</a></td></tr>
+            <tr><th>BLUETTI AC2A</th><td>600W Lifting Power（Power Lifting Modeは600Wまでの抵抗負荷だけに働く）</td><td><a href="https://www.bluettipower.eu/pages/ac2a" target="_blank" rel="noopener">BLUETTI（欧州向け公式）</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>BLUETTIは、Power Lifting Modeは600Wまでの抵抗負荷（ヒーター・ドライヤー・電気ケトルなど）にだけ働くとし、エアコンや洗濯機には使わないこと、モーターやコンプレッサーは定格の2〜4倍のサージ電力になりうることを書いています（<a href="https://www.bluettipower.eu/pages/ac2a" target="_blank" rel="noopener">BLUETTI</a>）。DJIの「連続800W」は、GEARNOTEの一覧で「定格連続」として扱っている数字です。AC出力の数字は国や地域で異なる、とDJIは注記しています。</p>
+        <p>つまり、<strong>動かせるかの判断に使うのは定格（連続）の数字</strong>で、瞬間最大・SurgePad・電力リフトは、それぞれのメーカーが決めた条件つきの数字です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>サイクル後の容量：「4000回」と「70%」「80%」はセットで読む</h2>
+        <p>電池の寿命は、充放電の回数（サイクル）で書かれます。Jackery 1000 Newは「4000回の充放電サイクル後も70％のバッテリー残量を維持」（<a href="https://www.jackery.jp/products/explorer-1000-new" target="_blank" rel="noopener">Jackery</a>）、DJI Power 1000 Miniは「4000サイクル以降は、80%以上のバッテリー容量を維持」で、25℃・400W放電の条件で試験したと注記しています（<a href="https://www.dji.com/jp/power-1000-mini/specs" target="_blank" rel="noopener">DJI</a>）。BLUETTI AC2Aは「3,000回以上で80%」です（<a href="https://www.bluettipower.eu/pages/ac2a" target="_blank" rel="noopener">BLUETTI</a>）。</p>
+        <p>Anker Solix C300のページの比較表は「電池 3,000回」で、そのあとの容量の割合は、このページには書かれていませんでした（<a href="https://www.ankerjapan.com/products/a1722" target="_blank" rel="noopener">Anker</a>）。同じ回数でも、何%まで残るかの書き方が違うので、<strong>回数だけを並べて比べない</strong>ことが大切です。</p>
+        <p>GEARNOTE運営の計算：メーカーが書いた割合を掛けると、サイクル後に残る容量の目安は次のとおりです。さらにJackeryの80%の係数を掛けた数字も並べます。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>機種</th><th>はじめの容量</th><th>サイクル</th><th>残る割合（メーカー記載）</th><th>残る容量</th><th>×0.8で家電に使える目安</th></tr></thead>
+            <tbody>
+            <tr><th>Jackery 1000 New</th><td>1070Wh</td><td>4000回</td><td>70%</td><td>749Wh</td><td>599.2Wh</td></tr>
+            <tr><th>DJI Power 1000 Mini</th><td>1008Wh</td><td>4000回</td><td>80%</td><td>806.4Wh</td><td>645.1Wh</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTEに掲載した8台の容量と出力</h2>
+        <p>GEARNOTE運営の計算：<a href="data-portable-power-station">ポータブル電源の仕様一覧</a>の8台で、容量は204.8〜2016Wh、AC定格出力の数字がある7台は300〜1500Wでした。容量に0.8を掛けた目安と、定格出力いっぱいの家電を使った場合の時間（容量×0.8÷定格出力）も計算しました。右の列は、各商品ページのメーカー公開仕様ブロックの出力の書き方です。「メーカー公開仕様ブロック」は、GEARNOTEの各商品ページにある、メーカーの公式ページを確かめて書いた仕様の欄です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>容量(Wh)</th><th>×0.8(Wh)</th><th>AC定格出力(W)</th><th>定格いっぱいで使うと</th><th>出力の書き方（メーカー公開仕様ブロック）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-solix-c300-288wh">Anker ポータブル電源 Solix C300 288Wh 高出力AC300W</a></th><td>288</td><td>230.4</td><td>300</td><td>約0.8時間</td><td>定格300W（50/60Hz）／ピーク600W、SurgePad 500W</td></tr>
+            <tr><th><a href="product-bluetti-ac2a-204wh">BLUETTI ポータブル電源 AC2A 204Wh/300W APP遠隔操作</a></th><td>204.8</td><td>163.8</td><td>300</td><td>約0.5時間</td><td>瞬間最大出力（電力リフト） 600W（抵抗負荷向け）</td></tr>
+            <tr><th><a href="product-jackery-portable-power-240">Jackery(ジャクリ) ポータブル電源 240 New 256Wh</a></th><td>256</td><td>204.8</td><td>300</td><td>約0.7時間</td><td>定格出力 300W</td></tr>
+            <tr><th><a href="product-dji-power-1000-mini">DJI Power 1000 Mini ポータブル電源 1008Wh 小型 大容量</a></th><td>1008</td><td>806.4</td><td>800</td><td>約1時間</td><td>最大1,000W、定格連続800W</td></tr>
+            <tr><th><a href="product-anker-solix-c1000">Anker Solix C1000 ポータブル電源</a></th><td>1056</td><td>844.8</td><td>1500</td><td>約0.6時間</td><td>定格出力 1500W（50/60Hz）／SurgePad使用時は2000Wまで</td></tr>
+            <tr><th><a href="product-jackery-portable-power-1000-new-je-1000d-sg">Jackery ポータブル電源 1000 New 1070Wh</a></th><td>1070</td><td>856</td><td>1500</td><td>約0.6時間</td><td>定格出力 1500W（瞬間最大3000W）</td></tr>
+            <tr><th><a href="product-anker-solix-s2000-portable-power-station-as220">Anker Solix S2000 ポータブル電源 AS220（2010Wh・定格出力1500W）</a></th><td>2010</td><td>1608</td><td>1500</td><td>約1.1時間</td><td>定格出力 1500W</td></tr>
+            <tr><th><a href="product-dji-power-auro-2000-elite-portable-power-station-2000w">DJI Power Auro 2000 Elite ポータブル電源（2000W出力・2016Wh・LFPバッテリー）</a></th><td>2016</td><td>1612.8</td><td>—</td><td>（定格の数字なし）</td><td>最大2000W</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>容量の小さい機種（204.8〜288Wh）は、定格出力いっぱい（300W）で使うと、約0.5〜0.8時間の目安です。1000Wh台の機種（1056Wh・1070Wh）で1500Wの家電を使うと約0.6時間、2010Whの機種でも約1.1時間です。大きい出力の家電を長く使うのは、容量が大きい機種でも短時間になります。反対に、定格出力が同じ300Wの3台でも、容量は204.8Whから288Whまで違います。出力の数字が同じでも、使える時間は容量で変わるので、2つの数字は分けて読みます。DJI Power Auro 2000 Eliteは、ブロックに「最大2000W」とだけあり、定格の数字がないため、計算していません。数字は、GEARNOTEに載せている商品の範囲のものです。市場全体の分布ではありません。メーカーが数字を書いていない商品は、数えていません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み違い</h2>
+        <ul><li><strong>1070Whなら、1070Wの家電が1時間使える</strong>：変換のロスがあり、Jackeryは×80％で見積もっています。さらに、定格出力を超える家電は動きません。</li><li><strong>瞬間最大3000Wなら、3000Wの家電が使える</strong>：動かし続けられるのは定格出力（1000 Newは1500W）までです。</li><li><strong>SurgePad・電力リフトは、どの家電にも使える</strong>：BLUETTIは抵抗負荷だけと書いています。</li><li><strong>4000回なら、どの機種も同じだけ長もち</strong>：4000回後に70%（Jackery）と80%以上（DJI）のように、残る割合の書き方が違います。</li><li><strong>容量の欄の名前が違えば、別の数字</strong>：「定格容量」「電力量」「電池容量」は、どれも内蔵電池のWhです。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>商品ページで確かめること</h2>
+        <ul><li>容量（Wh）と、定格容量のAh・Vの記載があれば、その掛け算。</li><li>AC出力の定格（連続）のWと、使いたい家電の消費電力（定格消費電力）。</li><li>瞬間最大・SurgePad・電力リフトの数字と、その条件（抵抗負荷だけ、など）。</li><li>サイクル数と、そのあと何%の容量が残るか。試験の条件の注記。</li><li>モーターやコンプレッサーのある家電（冷蔵庫・エアコンなど）を使うなら、その機種で使えるかのメーカーの案内。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページ（PDFを含む）を実際に開いて確認した、公的機関の資料と、メーカーの商品ページ・取扱説明書・解説記事にもとづきます。リンクは各項目に付けています。仕様や表示のルールは、改定されることがあります。</p>
+        <ul><li>変換のロスの割合（80%）は、Jackeryの解説記事の目安です。ほかのメーカーの機種で同じ割合になるかは、確認していません。</li><li>AnkerのSurgePadが働く家電の条件は、今回開いた日本向けのページでは確認できなかったので書いていません。</li><li>BLUETTI AC2Aの電力リフトの説明は、欧州向けの公式ページの記載です。日本向けの公式ページの文は確認していません。</li><li>ポータブル電源の容量や出力の表示を定めた公的なルール（JISなど）は、確認できなかったので書いていません。飛行機での扱いは<a href="diff-power-station-vs-power-bank">ポータブル電源とモバイルバッテリーの違い</a>にあります。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「ポータブル電源の容量（Wh）と出力の読み方」（2026年11月15日のデータ、2026年11月15日集計）　https://gearnote.net/capacity-power-station</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/capacity-power-station"&gt;GEARNOTE「ポータブル電源の容量（Wh）と出力の読み方」（2026年11月15日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ポータブル電源の容量1000Whは、全部使えますか？</h3>
+            <p>全部は使えません。Jackeryの解説記事は、電力のロスがあるため、使用時間の目安をバッテリー容量（Wh）×80％÷家電の消費電力（W）で計算するとしています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>定格出力と瞬間最大出力は、何が違いますか？</h3>
+            <p>Jackeryの解説記事では、定格出力は安定して出力し続けられる電力、瞬間最大出力は家電の起動時に必要な起動電力に対応する最大の出力です。家電の消費電力が定格出力を超えると、家電は動きません。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>SurgePadや電力リフトがあれば、定格より大きい家電も使えますか？</h3>
+            <p>条件つきです。BLUETTIは、Power Lifting Modeは600Wまでの抵抗負荷（ヒーターやドライヤーなど）だけに働き、エアコンや洗濯機には使わないよう書いています。条件はメーカーごとに確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>4000回使うと、容量はどのくらい減りますか？</h3>
+            <p>メーカーの書き方では、Jackery 1000 Newは4000回後も70%、DJI Power 1000 Miniは4000サイクル以降も80%以上を維持します。1070Whの70%は749Whです（GEARNOTE運営の計算）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="guide-portable-power-station">ポータブル電源の選び方ガイド</a></li><li><a href="tool-power-station-runtime">ポータブル電源の使える時間の目安計算</a></li><li><a href="diff-power-station-vs-power-bank">ポータブル電源とモバイルバッテリーの違い</a></li><li><a href="tool-mah-wh">mAhとWhの換算</a></li><li><a href="tool-power-wh">消費電力量の計算</a></li><li><a href="data-portable-power-station">ポータブル電源の仕様一覧</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bluetoothのマルチポイントとは｜2台同時接続の切り替わり方・LDACとの関係（掲載イヤホン・ヘッドホンの記載つき）｜GEARNOTE</title>
+<meta name="description" content="イヤホン・ヘッドホンの「マルチポイント（2台同時接続）」の意味と、3台目をつないだときの動き、LDACが使えなくなる機種があることを、ソニー・Appleの公式資料で確かめました。GEARNOTE掲載20機種の記載の集計つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="Bluetoothのマルチポイントとは｜2台同時接続の切り替わり方・LDACとの関係（掲載イヤホン・ヘッドホンの記載つき）｜GEARNOTE">
+<meta property="og:description" content="イヤホン・ヘッドホンの「マルチポイント（2台同時接続）」の意味と、3台目をつないだときの動き、LDACが使えなくなる機種があることを、ソニー・Appleの公式資料で確かめました。GEARNOTE掲載20機種の記載の集計つきです。">
+<meta property="og:url" content="https://gearnote.net/words-multipoint">
+<link rel="canonical" href="https://gearnote.net/words-multipoint">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bluetoothのマルチポイントとは｜2台同時接続の切り替わり方・LDACとの関係（掲載イヤホン・ヘッドホンの記載つき）｜GEARNOTE">
+<meta name="twitter:description" content="イヤホン・ヘッドホンの「マルチポイント（2台同時接続）」の意味と、3台目をつないだときの動き、LDACが使えなくなる機種があることを、ソニー・Appleの公式資料で確かめました。GEARNOTE掲載20機種の記載の集計つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"Bluetoothのマルチポイントとは"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"マルチポイントとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"2台のBluetooth機器と同時に接続できる機能です。ソニーの説明では、音楽再生や着信に応じて、自動で再生元や通話へ切り替わります。"}},{"@type":"Question","name":"マルチポイントで3台目をつなぐと、どうなりますか？","acceptedAnswer":{"@type":"Answer","text":"ソニーの説明では、最後に音楽再生した1台は接続されたまま、もう一方のBluetooth接続が切断されます。"}},{"@type":"Question","name":"マルチポイントとLDACは同時に使えますか？","acceptedAnswer":{"@type":"Answer","text":"機種によります。ソニーWH-1000XM4のヘルプガイドでは、［2台の機器と同時に接続］をオンにしているときはLDACは使用できず、AACまたはSBCに自動で切り替わると書かれています。"}},{"@type":"Question","name":"掲載しているイヤホンで、マルチポイント対応と書かれているのは何機種ですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEに載せているイヤホン・ヘッドホン・ポータブルスピーカーで、メーカー公開情報に対応の記載があったのは20機種でした（GEARNOTE運営の計算）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ Bluetoothのマルチポイントとは</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">Bluetoothのマルチポイントとは｜2台同時接続の仕組みと、仕様表の読み方</h1>
+        <p class="desc">「マルチポイント対応」は、2台の機器と同時にBluetoothでつながる機能です。ただ、切り替わり方や、音質のコーデックとの関係は、機種ごとに違います。メーカーの公式資料で確かめたことと、GEARNOTEに載せている商品の書き方をまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>マルチポイントとは：2台と同時につながる</h2>
+        <p>ソニーのサポートページは、「マルチポイント対応ヘッドホンは、2台のBluetooth機器と同時に接続でき、音楽再生や着信に応じて自動で再生元や通話へ切り替わります。」 と説明しています（<a href="https://support.sony.jp/electronics/support/articles/00364103" target="_blank" rel="noopener">ソニー「マルチポイント接続を活用しよう！」</a>）。たとえば、パソコンとスマホの両方につないだままにしておき、スマホに電話がかかってきたら、イヤホンが通話に切り替わる、という使い方です。</p>
+        <p>同じページには、「対応できる機器はBluetoothオーディオ接続に対応している必要があります。」 とも書かれています。マルチポイントは、イヤホン側だけでなく、つなぐ機器の側もBluetoothのオーディオ接続に対応していることが前提です。</p>
+        <p>つながる台数には上限があります。ソニーのページでは、「2台の機器をBluetooth接続した状態で3台目の機器を接続すると、最後に音楽再生した1台は接続されたまま、もう一方のBluetooth接続が切断されます。」 と説明されています。<strong>3台目をつなぐと、どれか1台が外れる</strong>、という動きです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>切り替わり方は、機種によって違う</h2>
+        <p>ソニーのサポートページは、1台目で音楽を再生中に、2台目で再生を始めると、2台目の音楽が聞こえる、と説明しています。ただし、「再生が自動的に切り替わらない場合は、音楽再生を停止してから、音楽再生したい機器の再生を行ってください。」 とも書かれています（<a href="https://support.sony.jp/electronics/support/articles/00364103" target="_blank" rel="noopener">ソニー</a>）。</p>
+        <p>一方、ソニーのLinkBudsのヘルプガイドでは、1台目で再生中に2台目で再生を始めても、1台目の音声は中断されず、切り替えるには1台目の再生を止める、と説明されています（<a href="https://helpguide.sony.net/mdr/linkbuds/v1/ja/contents/TP1000941133.html" target="_blank" rel="noopener">ソニー LinkBuds ヘルプガイド</a>）。<strong>同じメーカーでも、機種によって切り替わり方が違う</strong>ということです。使う機種のヘルプガイドで確かめます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>音質のコーデック（LDAC）との関係</h2>
+        <p>ソニーのWH-1000XM4のヘルプガイドには、「“Sony | Headphones Connect”アプリで［2台の機器と同時に接続］をオンにしているときは、LDACは使用できません。コーデックはAACまたはSBCでの接続に自動的に切り替わります。」 と書かれています（<a href="https://helpguide.sony.net/mdr/wh1000xm4/v1/ja/contents/TP0002935898.html" target="_blank" rel="noopener">ソニー WH-1000XM4 ヘルプガイド</a>）。この機種では、マルチポイントを使っている間は、LDACではなく、AACかSBCでつながる、という意味です。</p>
+        <p>ほかの機種で、マルチポイントとLDACを同時に使えるかは、機種ごとの説明を見ないと分かりません。GEARNOTEに載せている商品で、マルチポイントの記載があり、同じメーカー公開情報にLDACも書かれていたのは8機種でした（GEARNOTE運営の計算（2026年11月15日））。<strong>両方が書かれていても、同時に使えるという意味とは限りません。</strong>コーデックの違いは<a href="words-bluetooth">Bluetoothのバージョンとコーデックの読み方</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>AirPodsの「自動切り替え」は、条件が違う</h2>
+        <p>AppleのAirPodsは、Appleの機器の間で、使う機器に自動で切り替わる仕組みがあります。Appleのサポートページでは、「デバイスを自動的に切り替えるには、お使いのすべてのデバイスを最新バージョンのオペレーティングシステムにアップデートし、2ファクタ認証を使用して同じApple Accountでデバイスにサインインします。」 と、条件が書かれています（<a href="https://support.apple.com/ja-jp/104988" target="_blank" rel="noopener">Apple サポート「AirPodsを別のデバイスに切り替える」</a>）。</p>
+        <p>対象は、「以下のAirPodsは、iPhone、iPad、Mac、Apple Watch、およびApple Vision Proの間で自動で切り替えることができます。」 で、AirPods 2以降、AirPods Pro（すべてのモデル）、AirPods Max（すべてのモデル）が挙げられています。<strong>同じApple Accountでサインインしていること</strong>が条件で、ページが挙げている機器は、iPhone・iPad・Mac・Apple Watch・Apple Vision Proです。Bluetoothの2台同時接続（マルチポイント）とは、条件の書き方が違います。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTE掲載のイヤホン・ヘッドホン・スピーカーの記載</h2>
+        <p>GEARNOTEのデータ一覧に載せているイヤホン・ヘッドホン・ポータブルスピーカーの商品ページで、メーカー公開情報のブロックに、マルチポイント（2台同時接続）に対応すると書かれていた商品を数えました（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>掲載数</th><th>メーカー公開情報ブロックがある数</th><th>マルチポイント対応の記載がある数</th></tr></thead>
+            <tbody>
+            <tr><th>イヤホン</th><td>64台</td><td>64台</td><td>16台</td></tr>
+            <tr><th>ヘッドホン</th><td>44台</td><td>39台</td><td>3台</td></tr>
+            <tr><th>ポータブルスピーカー</th><td>30台</td><td>28台</td><td>1台</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>対応の記載があった20機種のうち、つなげる台数まで書かれていたのは9機種（2台が8機種、3台が1機種）、台数が書かれていなかったのは11機種でした。また、マルチポイントの語はあるものの「仕様表に記載なし」「確認できなかった」と書かれた商品が4機種あり、これは対応の数に入れていません。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>ジャンル</th><th>つなげる台数の記載</th><th>同じブロックにLDACの記載</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-anker-soundcore-liberty-5-pro-max-champagne-gold">Anker Soundcore Liberty 5 Pro Max（シャンパンゴールド）</a></th><td>イヤホン</td><td>3台</td><td>あり</td></tr>
+            <tr><th><a href="product-bose-quietcomfort-earbuds">Bose QuietComfort Earbuds</a></th><td>イヤホン</td><td>台数の記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-bose-ultra-open-earbuds-2nd-gen-white-smoke">Bose Ultra Open Earbuds（第2世代）ホワイトスモーク</a></th><td>イヤホン</td><td>台数の記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-huawei-freebuds-6">HUAWEI FreeBuds 6</a></th><td>イヤホン</td><td>2台</td><td>あり</td></tr>
+            <tr><th><a href="product-huawei-freebuds-pro-4">HUAWEI FreeBuds Pro 4</a></th><td>イヤホン</td><td>2台</td><td>あり</td></tr>
+            <tr><th><a href="product-huawei-freeclip-2">HUAWEI FreeClip 2</a></th><td>イヤホン</td><td>2台</td><td>―</td></tr>
+            <tr><th><a href="product-jabra-elite-10-earbuds">Jabra Elite 10 完全ワイヤレスイヤホン</a></th><td>イヤホン</td><td>2台</td><td>―</td></tr>
+            <tr><th><a href="product-jbl-live-beam-4-sand-anc-earbuds">JBL Live Beam 4 ワイヤレスイヤホン（サンド・スマートディスプレイ付きケース）</a></th><td>イヤホン</td><td>台数の記載なし</td><td>あり</td></tr>
+            <tr><th><a href="product-jbl-live-buds-4-black-jbllivebuds4blk">JBL LIVE BUDS4 ワイヤレスイヤホン ブラック JBLLIVEBUDS4BLK</a></th><td>イヤホン</td><td>台数の記載なし</td><td>あり</td></tr>
+            <tr><th><a href="product-earfun-clip-2">EarFun Clip 2 イヤーカフ型 オープンイヤーイヤホン</a></th><td>イヤホン</td><td>台数の記載なし</td><td>あり</td></tr>
+            <tr><th><a href="product-huawei-freebuds-5i">HUAWEI FreeBuds 5i</a></th><td>イヤホン</td><td>2台</td><td>―</td></tr>
+            <tr><th><a href="product-huawei-freebuds-pro-5">HUAWEI FreeBuds Pro 5</a></th><td>イヤホン</td><td>2台</td><td>あり</td></tr>
+            <tr><th><a href="product-jbl-tour-pro-3">JBL TOUR PRO 3</a></th><td>イヤホン</td><td>台数の記載なし</td><td>あり</td></tr>
+            <tr><th><a href="product-jbl-wave-beam-2">JBL WAVE BEAM 2</a></th><td>イヤホン</td><td>台数の記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-jbl-wave-buds-3-teal-jblwbuds3tel">JBL WAVE BUDS 3 ティール（JBLWBUDS3TEL）</a></th><td>イヤホン</td><td>台数の記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-sennheiser-accentum-open-earbuds">ゼンハイザー ACCENTUM Open オープンイヤー型ワイヤレスイヤホン</a></th><td>イヤホン</td><td>2台</td><td>―</td></tr>
+            <tr><th><a href="product-final-ux1000-wireless-headphones">final UX1000 ワイヤレスヘッドホン</a></th><td>ヘッドホン</td><td>台数の記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-jbl-live-770nc">JBL LIVE 770NC</a></th><td>ヘッドホン</td><td>台数の記載なし</td><td>―</td></tr>
+            <tr><th><a href="product-jbl-live-780nc-green-jbllive780ncgrn">JBL LIVE 780 NC グリーン（JBLLIVE780NCGRN）</a></th><td>ヘッドホン</td><td>2台</td><td>―</td></tr>
+            <tr><th><a href="product-jbl-clip-5">JBL CLIP 5</a></th><td>ポータブルスピーカー</td><td>台数の記載なし</td><td>―</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>「記載なし」の商品が、マルチポイントに対応していないという意味ではありません。メーカーがそのページに書いていない、ということです。元のデータは<a href="data-earbuds">イヤホンの仕様一覧</a>・<a href="data-headphone">ヘッドホンの仕様一覧</a>・<a href="data-portable-speaker">ポータブルスピーカーの仕様一覧</a>にあります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>「ペアリング登録の台数」とは別の数字</h2>
+        <p>仕様表には、マルチポイントの台数と、ペアリングを登録できる台数が並ぶことがあります。GEARNOTEに載せているゼンハイザーのACCENTUM Open Earbudsのメーカー公開情報には、「マルチポイント（2台同時）、ペアリング登録 最大8台」と書かれています。<strong>覚えておける機器は8台でも、同時につながるのは2台</strong>です。</p>
+        <p>また、BoseのQuietComfort Earbudsのメーカー公開情報には、「プロファイル A2DP、HFP、AVRCP（マルチポイント対応。Snapdragon Soundは非対応）」と、対応するプロファイルと並べて書かれています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある読み違い</h2>
+        <ul><li><strong>「マルチポイント＝何台でも同時につながる」</strong>：ソニーの説明では2台で、3台目をつなぐと1台が外れます。GEARNOTEの掲載商品では、3台と書いた機種が1機種ありました。</li><li><strong>「ペアリング登録8台＝8台同時」</strong>：登録の台数と、同時につながる台数は別の数字です。</li><li><strong>「マルチポイントでも、いちばん良い音質のまま」</strong>：WH-1000XM4は、マルチポイント中はLDACが使えず、AACかSBCに切り替わります。</li><li><strong>「再生すれば、必ず自動で切り替わる」</strong>：機種によっては、先に再生を止める必要があります。</li><li><strong>「AirPodsの自動切り替え＝マルチポイント」</strong>：Appleの説明する条件は、同じApple Accountでサインインした機器です。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>商品ページで確かめること</h2>
+        <ul><li>マルチポイント（2台同時接続）の記載と、つなげる台数。</li><li>同時につながる台数と、ペアリングを登録できる台数の区別。</li><li>LDACなどのコーデックを、マルチポイントと同時に使えるか（ヘルプガイドの「ご注意」）。</li><li>アプリでの設定が必要か、ソフトウェアの更新で対応したか。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した規格団体・公的機関・電力会社・メーカー公式の資料にもとづきます（リンクは各項目に付けています）。仕様や制度は、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>Bluetoothの規格団体（Bluetooth SIG）の公開資料で、「マルチポイント」という名前の機能の定義は確認できませんでした。このページでは、メーカーの説明だけを使っています。</li><li>マルチポイントのときに、通話と音楽のどちらが優先されるかの細かい動きは、機種ごとの説明に任せ、まとめて書いていません。</li><li>GEARNOTEの掲載商品で、マルチポイントとLDACを同時に使えるかは、商品ごとに確認していません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「Bluetoothのマルチポイントとは」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-multipoint</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-multipoint"&gt;GEARNOTE「Bluetoothのマルチポイントとは」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>マルチポイントとは何ですか？</h3>
+            <p>2台のBluetooth機器と同時に接続できる機能です。ソニーの説明では、音楽再生や着信に応じて、自動で再生元や通話へ切り替わります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>マルチポイントで3台目をつなぐと、どうなりますか？</h3>
+            <p>ソニーの説明では、最後に音楽再生した1台は接続されたまま、もう一方のBluetooth接続が切断されます。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>マルチポイントとLDACは同時に使えますか？</h3>
+            <p>機種によります。ソニーWH-1000XM4のヘルプガイドでは、［2台の機器と同時に接続］をオンにしているときはLDACは使用できず、AACまたはSBCに自動で切り替わると書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>掲載しているイヤホンで、マルチポイント対応と書かれているのは何機種ですか？</h3>
+            <p>GEARNOTEに載せているイヤホン・ヘッドホン・ポータブルスピーカーで、メーカー公開情報に対応の記載があったのは20機種でした（GEARNOTE運営の計算）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>関連ページ</h2>
+        <ul><li><a href="words-bluetooth">Bluetoothのバージョンとコーデック</a></li><li><a href="diff-earbuds-anc-modes">ノイズキャンセリング・外音取り込みの違い</a></li><li><a href="data-earbuds">イヤホンの仕様一覧</a></li><li><a href="data-headphone">ヘッドホンの仕様一覧</a></li><li><a href="guide-earbuds">ワイヤレスイヤホンの選び方</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

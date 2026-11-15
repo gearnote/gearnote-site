@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>防犯カメラの用語 PTZ・PoE・NVR・ONVIFとは｜LANケーブル給電の規格と録画機の読み方（掲載15台の記載つき）｜GEARNOTE</title>
+<meta name="description" content="防犯カメラの仕様に出てくるPTZ・PoE（802.3af/at）・NVR・ONVIFの意味を、Ethernet Alliance・ONVIF・メーカー公式の資料で確かめました。PoEの15.4Wと13Wの違いと、掲載15台の記載つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="防犯カメラの用語 PTZ・PoE・NVR・ONVIFとは｜LANケーブル給電の規格と録画機の読み方（掲載15台の記載つき）｜GEARNOTE">
+<meta property="og:description" content="防犯カメラの仕様に出てくるPTZ・PoE（802.3af/at）・NVR・ONVIFの意味を、Ethernet Alliance・ONVIF・メーカー公式の資料で確かめました。PoEの15.4Wと13Wの違いと、掲載15台の記載つきです。">
+<meta property="og:url" content="https://gearnote.net/words-ptz-poe-nvr">
+<link rel="canonical" href="https://gearnote.net/words-ptz-poe-nvr">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="防犯カメラの用語 PTZ・PoE・NVR・ONVIFとは｜LANケーブル給電の規格と録画機の読み方（掲載15台の記載つき）｜GEARNOTE">
+<meta name="twitter:description" content="防犯カメラの仕様に出てくるPTZ・PoE（802.3af/at）・NVR・ONVIFの意味を、Ethernet Alliance・ONVIF・メーカー公式の資料で確かめました。PoEの15.4Wと13Wの違いと、掲載15台の記載つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"防犯カメラの用語（PTZ・PoE・NVR・ONVIF）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"PoEの802.3afと802.3atは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"Ethernet Allianceの資料では、送る側の上限が802.3afで15.4W、802.3atで30W、受ける機器の上限が802.3afで13W、802.3atで25.5Wです。どちらも2ペアの線で送ります。"}},{"@type":"Question","name":"PTZとは何の略ですか？","acceptedAnswer":{"@type":"Answer","text":"パン（Pan）・チルト（Tilt）・ズーム（Zoom）の頭文字です。パンは水平方向、チルトは垂直方向の首振りです（キヤノンマーケティングジャパンの解説）。"}},{"@type":"Question","name":"NVRがあれば、ハードディスクはいりませんか？","acceptedAnswer":{"@type":"Answer","text":"必要な商品があります。VIGIのNVR1008H-8Pは、ハードディスクが別売りで、製品本体に記録を保存できないと書かれています。"}},{"@type":"Question","name":"掲載しているカメラで、PoEに対応しているのはどれですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEに載せている15台のうち、メーカー公開情報にPoEの規格が書かれていたのは1台（Tapo C575D、802.3af/at）でした（GEARNOTE運営の計算）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ 防犯カメラの用語（PTZ・PoE・NVR・ONVIF）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">防犯カメラの用語 PTZ・PoE・NVR・ONVIFとは｜仕様表の読み方</h1>
+        <p class="desc">防犯カメラの仕様表には、PTZ・PoE・NVR・ONVIFといった略語が並びます。それぞれ何を指す言葉なのかを、規格団体とメーカーの資料で確かめ、GEARNOTEに載せているカメラの書き方と並べました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>4つの言葉の早見表</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>用語</th><th>何のことか（確認できた資料の範囲）</th><th>資料</th></tr></thead>
+            <tbody>
+            <tr><th>PTZ</th><td>パン（水平方向の首振り）・チルト（垂直方向の首振り）・ズームの頭文字</td><td><a href="https://canon.jp/biz/trend/ptz-camera" target="_blank" rel="noopener">キヤノンMJ</a></td></tr>
+            <tr><th>PoE</th><td>LANケーブル1本で、通信と電気の両方を送る仕組み。IEEE 802.3af・802.3at・802.3btで電力の区分が決まっている</td><td><a href="https://ethernetalliance.org/wp-content/uploads/2019/12/WP_EA_Overview8023bt_V2p1_FINAL.pdf" target="_blank" rel="noopener">Ethernet Alliance</a>・<a href="https://www.tp-link.com/jp/home-networking/cloud-camera/tapo-c575d/" target="_blank" rel="noopener">TP-Link</a></td></tr>
+            <tr><th>NVR</th><td>ネットワークビデオレコーダー。カメラの映像を受けて、ハードディスクに録画する機器</td><td><a href="https://www.vigi.com/jp/business-networking/vigi-network-video-recorder/vigi-nvr1008h-8p/" target="_blank" rel="noopener">VIGI</a></td></tr>
+            <tr><th>ONVIF</th><td>ネットワークカメラと、録画機・ソフトの間の共通の仕様。「プロファイルS」は映像の配信と設定の範囲</td><td><a href="https://www.onvif.org/profiles/profile-s/" target="_blank" rel="noopener">ONVIF</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>GEARNOTEの商品ページのメーカー公開情報ブロック（カメラ以外も含めて3,760件）で、「PTZ」の語があったのは0件、「NVR」は0件でした（GEARNOTE運営の計算（2026年11月15日））。GEARNOTEに載せている家庭向けのカメラ15台では、首振りは「パン/チルト」、録画先は「microSDカード」「クラウド」という書き方で書かれています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>PTZ：パン・チルト・ズーム</h2>
+        <p>キヤノンマーケティングジャパンの解説では、「PTZはパン（Pan）・チルト（Tilt）・ズーム（Zoom）のそれぞれの頭文字の略です。」 「パン（Pan）：水平方向への首振り／チルト（Tilt）：垂直方向への首振り」 です（<a href="https://canon.jp/biz/trend/ptz-camera" target="_blank" rel="noopener">キヤノンMJ「PTZカメラとは？」</a>）。</p>
+        <p>家庭向けのカメラの仕様表では、「パン/チルト範囲 水平360°／垂直114°」のように、首振りの角度で書かれます。ズームについては、同じ解説が、「デジタルズームは、映像にデジタル処理を施して拡大するため、ズームの倍率をあげると映像が粗くなります。」 と説明しています。仕様表に「ズーム」とあっても、光学ズームかデジタルズームかで、拡大したときの映り方が違います。</p>
+        <p>GEARNOTEに載せている15台のうち、メーカー公開情報に首振りの角度が書かれていたのは<strong>8台</strong>でした。水平は360°が7台、340°が1台、垂直は55°〜169°です（GEARNOTE運営の計算（2026年11月15日））。垂直の角度は機種ごとに違うので、天井付けや棚置きで、どこまで下・上を向けられるかは、この数字で確かめます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>PoE：LANケーブルで電気も送る（802.3af・at・bt）</h2>
+        <p>TP-LinkのTapo C575Dの製品ページには、「PoE（802.3af/at）に対応し、LANケーブル1本で給電と通信ができるので」 と書かれています（<a href="https://www.tp-link.com/jp/home-networking/cloud-camera/tapo-c575d/" target="_blank" rel="noopener">TP-Link Tapo C575D</a>）。電源アダプターをカメラの近くに置かなくても、LANケーブル1本で給電できる、という仕組みです。</p>
+        <p>PoEの電力の区分は、IEEEの規格で決まっています。規格団体のEthernet Allianceの資料では、最初の規格802.3af（2003年）は機器に13W、802.3at（2009年）は25.5W、802.3btでは71.3Wまでに広がった、と説明されています（<a href="https://ethernetalliance.org/wp-content/uploads/2019/12/WP_EA_Overview8023bt_V2p1_FINAL.pdf" target="_blank" rel="noopener">Ethernet Alliance「Overview of 802.3bt Power over Ethernet」（PDF）</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>区分</th><th>規格</th><th>給電する側（PSE）の上限</th><th>受電する機器（PD）の上限</th><th>使う線</th></tr></thead>
+            <tbody>
+            <tr><th>Type 1</th><td>802.3af</td><td>15.4W</td><td>13W</td><td>2ペア</td></tr>
+            <tr><th>Type 2</th><td>802.3at</td><td>30W</td><td>25.5W</td><td>2ペア</td></tr>
+            <tr><th>Type 3</th><td>802.3bt</td><td>60W</td><td>51W</td><td>4ペアに対応</td></tr>
+            <tr><th>Type 4</th><td>802.3bt</td><td>90W</td><td>71.3W</td><td>4ペアに対応</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p><strong>同じ規格でも、送る側と受ける側で数字が違います。</strong>802.3afなら、スイッチやNVRなど送る側は15.4W、カメラが受け取れるのは13Wです。また同じ資料は、Type 1とType 2は互いにつながり、Type 2の機器をType 1で給電した場合は13Wまでしか使えない、と書いています（<a href="https://ethernetalliance.org/wp-content/uploads/2019/12/WP_EA_Overview8023bt_V2p1_FINAL.pdf" target="_blank" rel="noopener">Ethernet Alliance</a>）。</p>
+        <p>もう一つの読み違いが、合計の上限です。VIGIのNVR1008H-8P（PoE+ポート8つ）の仕様は、「全PoE+ポート合計53W△ 、各ポート最大30Wに対応」 です（<a href="https://www.vigi.com/jp/business-networking/vigi-network-video-recorder/vigi-nvr1008h-8p/" target="_blank" rel="noopener">VIGI NVR1008H-8P</a>）。<strong>1ポートで30Wまで出せても、8台すべてに30Wずつは出せません。</strong>つなぐカメラの消費電力の合計が、この合計の範囲に収まるかを確かめます。</p>
+        <p>GEARNOTEに載せている15台のうち、メーカー公開情報にPoEの規格が書かれていたのは1台（Tapo C575D、802.3af/at、入力37〜57V）でした。ほかのカメラは、DC電源アダプター・ソーラーパネル・バッテリーなどの給電方式です（GEARNOTE運営の計算（2026年11月15日））。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>NVR：カメラの映像を受けて録画する機器</h2>
+        <p>NVR（ネットワークビデオレコーダー）は、ネットワークでつないだカメラの映像を受けて、録画する機器です。VIGIのNVR1008H-8Pの製品ページでは、最大8チャンネルのライブビュー＆4K HDMIビデオ出力 と書かれ、録画の方式は手動・スケジュール・動体検知時が挙げられています（<a href="https://www.vigi.com/jp/business-networking/vigi-network-video-recorder/vigi-nvr1008h-8p/" target="_blank" rel="noopener">VIGI</a>）。</p>
+        <p>録画の容量は、NVRに入れるハードディスクで決まります。同じページには、「SATAインターフェース×1（最大16TB）／HDD（ハードディスクドライブ）は別売りです。製品本体に記録を保存することはできません。」 と書かれています。<strong>NVR本体を買っただけでは録画できない</strong>商品がある、ということです。</p>
+        <p>GEARNOTEに載せている家庭向けのカメラ15台では、録画先として、カメラ本体のmicroSDカードや、メーカーのクラウドが書かれています。microSDカードの最大容量が書かれていたのは10台でした。microSDとクラウドの違いは<a href="diff-security-camera-types">防犯カメラの種類の違い</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>ONVIF・RTSP：ほかの録画機・ソフトとつなぐための仕様</h2>
+        <p>ONVIFは、ネットワークカメラと、録画機・ソフトの間の共通の仕様を決めている団体です。ONVIFの「プロファイルS」は、ネットワークカメラなどの機器が、IPネットワークで映像を送り、録画機やソフトが、その映像の配信を設定・操作するための範囲です。PTZの操作・音声入力なども、対応する機器と組み合わせた場合に、プロファイルSの範囲に入ります（<a href="https://www.onvif.org/profiles/profile-s/" target="_blank" rel="noopener">ONVIF「Profile S」</a>）。</p>
+        <p>同じページには、プロファイルSについて、「Profile deprecation in process; last date of product conformance submissions is March 31, 2027.」 とも書かれています。製品の適合の申請の受付が、2027年3月31日までで終わる、という意味です。</p>
+        <p>GEARNOTEに載せている15台のうち、メーカー公開情報に「ONVIF対応」と書かれていたのは5台、「RTSP対応」は5台でした（GEARNOTE運営の計算（2026年11月15日））。Tapo C575DとVIGIのNVRは、どちらもONVIFのプロファイルSに対応すると書かれています。ONVIFに対応していると書かれていても、どの機能が使えるかは、カメラと録画機の組み合わせで変わります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>ルーターを使わずに、スマホと直接つなぐ方式</h2>
+        <p>家のWi-Fiルーターを使わず、カメラが出すWi-Fiにスマホを直接つなぐカメラもあります。ソリッドカメラのSecula Lite AP-001のクイックガイドには、「スポットWi-Fi カメラはインターネットに接続しないため、自動で日時同期ができません。」 「スマホをカメラのWi-Fi に接続します。（SSID：IPC-T-【カメラID】）」 と書かれています（<a href="https://www.solidcamera.net/download/file/seculalite/qig_ap-001.pdf" target="_blank" rel="noopener">ソリッドカメラ Secula Lite AP-001 クイックガイド（PDF）</a>）。</p>
+        <p>この方式では、インターネットを使わないため、外出先から映像を見る使い方とは別のものになります。時刻の合わせ方など、使い方の前提も変わります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>GEARNOTE掲載15台の、メーカー公開情報の記載</h2>
+        <p>GEARNOTEの<a href="data-security-camera">防犯カメラの仕様一覧</a>に載せている15台について、商品ページのメーカー公開情報ブロックに書かれている内容を、文字として調べました（GEARNOTE運営の計算（2026年11月15日））。<strong>「記載なし」は、そのブロックに書かれていないという意味で、非対応という意味ではありません。</strong></p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>区分</th><th>首振り（パン/チルト）</th><th>PoE</th><th>ONVIF・RTSP</th><th>有線LAN</th><th>Wi-Fiの周波数帯</th><th>microSD</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-tapo-c210-pet-camera">Tapo C210 ペットカメラ</a></th><td>屋内用</td><td>水平360°／垂直114°</td><td>記載なし</td><td>ONVIF、RTSP</td><td>記載なし</td><td>2.4GHz</td><td>最大512GB</td></tr>
+            <tr><th><a href="product-tapo-c220-pan-tilt-camera">Tapo C220 パン/チルトカメラ</a></th><td>屋内用</td><td>水平360°／垂直114°</td><td>記載なし</td><td>ONVIF、RTSP</td><td>記載なし</td><td>2.4GHz</td><td>最大512GB</td></tr>
+            <tr><th><a href="product-tapo-c245d-indoor-dual-lens-pan-tilt-pet-camera">TP-Link Tapo C245D 屋内 2K デュアルレンズ パンチルト ペットカメラ（Amazon.co.jp限定）</a></th><td>屋内用</td><td>記載なし</td><td>記載なし</td><td>ONVIF、RTSP</td><td>記載なし</td><td>2.4GHz</td><td>最大512GB</td></tr>
+            <tr><th><a href="product-tapo-c250-4k-pan-tilt-pet-camera">TP-Link Tapo C250 ペットカメラ 4K 800万画素 パンチルト360°（屋内用）</a></th><td>屋内用</td><td>水平360°／垂直116°</td><td>記載なし</td><td>ONVIF、RTSP</td><td>なし（メーカー記載）</td><td>2.4GHz</td><td>最大512GB</td></tr>
+            <tr><th><a href="product-tapo-c310-outdoor-camera">Tapo C310 屋外ネットワークカメラ</a></th><td>屋外用</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>あり</td><td>2.4GHz</td><td>最大512GB</td></tr>
+            <tr><th><a href="product-tapo-c575d-outdoor-4k-dual-lens-pan-tilt-poe-camera">TP-Link Tapo C575D 屋外 4K デュアルレンズ パンチルト防犯カメラ（PoE/DC給電）</a></th><td>屋外用</td><td>水平360°／垂直120°</td><td>802.3af/at</td><td>ONVIF、RTSP</td><td>あり</td><td>2.4GHz／5GHz</td><td>最大512GB</td></tr>
+            <tr><th><a href="product-tapo-hb112-c610-kit-2-h500-solar-camera-set">Tapo HB112 屋外ソーラー防犯カメラ C610 KIT×2＋H500ハブセット</a></th><td>屋外用</td><td>水平360°／垂直130°</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>2.4GHz</td><td>記載なし</td></tr>
+            <tr><th><a href="product-anker-eufy-eufycam-c37-4k">Anker Eufy eufyCam C37 4K 屋外防犯カメラ</a></th><td>屋外用</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>2.4GHz</td><td>最大256GB</td></tr>
+            <tr><th><a href="product-eufy-indoor-cam-s350">Eufy Security Indoor Cam S350</a></th><td>屋内用</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>2.4GHz／5GHz</td><td>最大128GB</td></tr>
+            <tr><th><a href="product-ring-indoor-cam">Ring Indoor Cam 屋内用セキュリティカメラ</a></th><td>屋内用</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>2.4GHz</td><td>記載なし</td></tr>
+            <tr><th><a href="product-ring-pan-tilt-indoor-cam">Ring 首振り機能付きインドアカム</a></th><td>屋内用</td><td>水平360°／垂直169°</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>2.4GHz</td><td>記載なし</td></tr>
+            <tr><th><a href="product-switchbot-security-camera-plus">SwitchBot 見守りカメラ Plus</a></th><td>屋内用</td><td>水平360°／垂直115°</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>2.4GHz</td><td>記載なし</td></tr>
+            <tr><th><a href="product-ezviz-pet-camera-c6n">EZVIZ ペットカメラ C6N</a></th><td>屋内用</td><td>水平340°／垂直55°</td><td>記載なし</td><td>記載なし</td><td>あり</td><td>2.4GHz／5GHz</td><td>最大256GB</td></tr>
+            <tr><th><a href="product-xiaomi-smart-camera-c500-neo">Xiaomi スマートカメラ C500 Neo 室内用 3.5K 見守りカメラ</a></th><td>屋内用</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>2.4GHz／5GHz</td><td>記載なし</td></tr>
+            <tr><th><a href="product-tapo-c425k-a-solar-panel-outdoor-security-camera-2k">TP-Link Tapo C425K/A（ソーラーパネル一体型・屋外用2Kセキュリティカメラ）</a></th><td>屋外用</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>なし（メーカー記載）</td><td>2.4GHz／5GHz</td><td>最大512GB</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>首振りの角度の記載は8台、PoEは1台、ONVIFは5台、RTSPは5台、有線LANの端子ありは3台（「なし」と明記は2台）、5GHz帯のWi-Fiの記載は5台でした。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>よくある読み違い</h2>
+        <ul><li><strong>「PoE対応なら、どのスイッチでも動く」</strong>：送る側の上限（802.3afは15.4W、802.3atは30W）と、カメラが必要とする電力を確かめます。</li><li><strong>「8ポート×30Wで240W使える」</strong>：VIGI NVR1008H-8Pは、各ポート最大30W、全ポート合計53Wです。</li><li><strong>「NVRを買えば、すぐ録画できる」</strong>：ハードディスクが別売りで、本体に記録できない商品があります。</li><li><strong>「ONVIF対応なら、すべての機能がつながる」</strong>：プロファイルの範囲と、組み合わせる機器の対応で決まります。</li><li><strong>「首振りできる＝ズームもできる」</strong>：GEARNOTEの掲載15台で、首振りの角度の記載は8台、メーカー公開情報に「ズーム」の語があったのは1台です。ズームは、光学かデジタルかも別に確かめます。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>商品ページで確かめること</h2>
+        <ul><li>首振りの角度（水平・垂直）と、ズームが光学かデジタルか。</li><li>給電の方法（DCアダプター・PoE・ソーラー・バッテリー）。PoEなら規格（802.3af／at）と、送る側の機器の上限。</li><li>録画先（microSDの最大容量、クラウド、NVR）と、NVRならハードディスクの別売りの有無。</li><li>ほかの録画機とつなぐなら、ONVIF（どのプロファイルか）・RTSPの記載。</li><li>Wi-Fiの周波数帯（2.4GHzだけか、5GHzもか）と、有線LANの端子の有無。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した規格団体・公的機関・電力会社・メーカー公式の資料にもとづきます（リンクは各項目に付けています）。仕様や制度は、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>IEEE 802.3の規格本文は有料のため、GEARNOTE運営は未閲覧です。PoEの数字は、規格団体Ethernet Allianceの資料によります。</li><li>RTSPの仕様の本文は確認していません。このページでは、メーカーが「RTSP対応」と書いているかどうかだけを数えています。</li><li>「APモード」という呼び方で、ルーターを使わない接続を説明する一次資料は、確認できませんでした。そのため、言葉の定義は書かず、ソリッドカメラの原文だけを引用しています。</li><li>ONVIFのプロファイルS以外（プロファイルT・Gなど）の詳しい範囲は、確認していません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「防犯カメラの用語（PTZ・PoE・NVR・ONVIF）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-ptz-poe-nvr</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-ptz-poe-nvr"&gt;GEARNOTE「防犯カメラの用語（PTZ・PoE・NVR・ONVIF）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>PoEの802.3afと802.3atは、何が違いますか？</h3>
+            <p>Ethernet Allianceの資料では、送る側の上限が802.3afで15.4W、802.3atで30W、受ける機器の上限が802.3afで13W、802.3atで25.5Wです。どちらも2ペアの線で送ります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>PTZとは何の略ですか？</h3>
+            <p>パン（Pan）・チルト（Tilt）・ズーム（Zoom）の頭文字です。パンは水平方向、チルトは垂直方向の首振りです（キヤノンマーケティングジャパンの解説）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>NVRがあれば、ハードディスクはいりませんか？</h3>
+            <p>必要な商品があります。VIGIのNVR1008H-8Pは、ハードディスクが別売りで、製品本体に記録を保存できないと書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>掲載しているカメラで、PoEに対応しているのはどれですか？</h3>
+            <p>GEARNOTEに載せている15台のうち、メーカー公開情報にPoEの規格が書かれていたのは1台（Tapo C575D、802.3af/at）でした（GEARNOTE運営の計算）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">13</span>関連ページ</h2>
+        <ul><li><a href="diff-security-camera-types">防犯カメラ・ネットワークカメラ・見守りカメラの違い</a></li><li><a href="data-security-camera">防犯カメラの仕様一覧</a></li><li><a href="guide-security-camera">防犯カメラの選び方</a></li><li><a href="words-wifi">Wi-Fiの規格の違い</a></li><li><a href="words-microsd">microSDの表記の読み方</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
