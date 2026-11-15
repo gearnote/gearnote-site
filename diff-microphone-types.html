@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>コンデンサーマイクとダイナミックマイクの違い｜ファンタム電源・感度(dBV/Pa)の読み方（掲載14台の集計つき）｜GEARNOTE</title>
+<meta name="description" content="コンデンサーマイクとダイナミックマイクの違いを、オーディオテクニカの公式情報で確かめて整理しました。ファンタム電源、感度（dBV/Pa）を電圧に直した比較、掲載14台の方式・接続・周波数特性の表つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="コンデンサーマイクとダイナミックマイクの違い｜ファンタム電源・感度(dBV/Pa)の読み方（掲載14台の集計つき）｜GEARNOTE">
+<meta property="og:description" content="コンデンサーマイクとダイナミックマイクの違いを、オーディオテクニカの公式情報で確かめて整理しました。ファンタム電源、感度（dBV/Pa）を電圧に直した比較、掲載14台の方式・接続・周波数特性の表つきです。">
+<meta property="og:url" content="https://gearnote.net/diff-microphone-types">
+<link rel="canonical" href="https://gearnote.net/diff-microphone-types">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="コンデンサーマイクとダイナミックマイクの違い｜ファンタム電源・感度(dBV/Pa)の読み方（掲載14台の集計つき）｜GEARNOTE">
+<meta name="twitter:description" content="コンデンサーマイクとダイナミックマイクの違いを、オーディオテクニカの公式情報で確かめて整理しました。ファンタム電源、感度（dBV/Pa）を電圧に直した比較、掲載14台の方式・接続・周波数特性の表つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"コンデンサーマイクとダイナミックマイクの違い"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"コンデンサーマイクとダイナミックマイクは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"オーディオテクニカの説明では、音を電気信号に変える仕組みの違いです。コンデンサーはダイナミックに比べて感度が高く、ノイズも拾いやすい。ダイナミックは構造がシンプルで耐久性が高いタイプです。"}},{"@type":"Question","name":"ファンタム電源とは何ですか？","acceptedAnswer":{"@type":"Answer","text":"オーディオインターフェースやミキサー側から、マイクに電力を送る仕組みです。オーディオテクニカのAT2020は、ファントム電源48VDC・2mAと書かれています。"}},{"@type":"Question","name":"USBのコンデンサーマイクにも、ファンタム電源は必要ですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTE掲載では、ファンタム電源の電圧が書かれていたのはXLR接続のAT2020だけでした。USBマイクのメーカー情報ブロックには、「必要電力 5V 150mA」のような5Vの電力の数字が書かれています。"}},{"@type":"Question","name":"感度の「−37dB」と「−56dBV/Pa」は、どれくらい違いますか？","acceptedAnswer":{"@type":"Answer","text":"どちらも1V/Paを基準にした数字で、差は19dBです。電圧に直すと約8.9倍です（GEARNOTE運営の計算）。音の良し悪しを表す数字ではありません。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ コンデンサーマイクとダイナミックマイクの違い</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">コンデンサーマイクとダイナミックマイクの違い｜ファンタム電源と感度の数字の読み方</h1>
+        <p class="desc">マイクの「コンデンサー」と「ダイナミック」は、音を電気に変える仕組みの違いです。メーカーの説明を確かめたうえで、仕様に出てくる電源と感度の数字の読み方をまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>2つの方式の違い</h2>
+        <p>オーディオテクニカは、マイクは音を電気信号に変換する仕組みの違いによって、ダイナミックマイクとコンデンサーマイクの2種類に分けられる、と書いています。あわせて、実際の音や使い勝手は指向性・感度・周波数特性などの組み合わせで決まり、構造による違いは<strong>あくまで目安</strong>だ、とも書いています（<a href="https://www.audio-technica.co.jp/always-listening/articles/2point-choose-microphone/" target="_blank" rel="noopener">オーディオテクニカ「マイク選びの基礎知識」</a>）。</p>
+        <p>同じページの説明では、<strong>ダイナミックマイク</strong>は構造がシンプルで耐久性が高く、単一指向性のモデルが多いタイプです。<strong>コンデンサーマイク</strong>は、ダイナミックマイクに比べて感度が高く、そのぶん環境音やマイクに触れたときのノイズを拾いやすい、という側面があります。</p>
+        <p>ダイナミック型の構造について、GEARNOTEの商品ページでは、<a href="product-shure-mv7-plus-podcast-mic">SHURE MV7+</a>のメーカー情報ブロックに「ダイナミック型（ムービングコイル方式）」と書かれています。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th></th><th>ダイナミック</th><th>コンデンサー</th></tr></thead>
+            <tbody>
+            <tr><th>分け方（オーディオテクニカ）</th><td>音を電気信号に変える仕組みの違いで2種類に分ける</td><td>同左</td></tr>
+            <tr><th>メーカーの説明</th><td>構造がシンプルで耐久性が高い。単一指向性のモデルが多い</td><td>ダイナミックに比べて感度が高い。環境音や触れたときのノイズを拾いやすい</td></tr>
+            <tr><th>電源</th><td>（開いた解説ページに記載なし）</td><td>多くはファンタム電源が必要</td></tr>
+            <tr><th>GEARNOTE掲載（14台）</th><td>2台（どちらもShure）</td><td>7台</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>ファンタム電源：コンデンサーの「電源」</h2>
+        <p>オーディオテクニカの説明では、多くのコンデンサーマイクは、動作のためにファンタム電源と呼ばれる外部電源を必要とします。これは、オーディオインターフェースやミキサー側からマイクに電力を供給する仕組みで、使う前に対応機器かを確認する必要があります（<a href="https://www.audio-technica.co.jp/always-listening/articles/2point-choose-microphone/" target="_blank" rel="noopener">オーディオテクニカ</a>）。</p>
+        <p>たとえば、オーディオテクニカのAT2020の仕様は、型式をバックエレクトレットコンデンサー型、ファントム電源を48VDC・2mA、出力コネクターを3ピンXLR-Mタイプと書いています（<a href="https://www.audio-technica.co.jp/product/AT2020" target="_blank" rel="noopener">オーディオテクニカ AT2020</a>）。メーカーによって「ファンタム」「ファントム」と表記が違いますが、同じものを指しています。</p>
+        <p>GEARNOTE掲載14台のメーカー情報ブロックで、ファンタム電源の電圧が書かれていたのは1台（AT2020）だけでした（GEARNOTE運営の計算）。USBマイクのメーカー情報ブロックには、ファンタム電源の代わりに、Blue Yetiの「必要電力 5V 150mA」、Razer Seiren V3 Miniの「必要な電力 5 V / 350 mA」のような、5Vの電力の数字が書かれています。オンカメラの<a href="product-rode-videomicro-ii">RODE VideoMicro II</a>と<a href="product-sennheiser-mke200-oncamera-mic">ゼンハイザー MKE 200 指向性オンカメラマイク</a>は、メーカー情報ブロックで電源を「電池不要」と書いています。<strong>コンデンサーでも、USBやカメラ用のマイクは、ファンタム電源を用意しなくてよい</strong>ことがある、ということです。</p>
+        <p>XLR端子の記載があったのは3台で、そのうち<a href="product-shure-mv7-plus-podcast-mic">SHURE MV7+</a>はUSB-CとXLRの両方を持っています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>感度の数字：dBV/Paを電圧に直して読む</h2>
+        <p>感度は、1Pa（パスカル）の音を受けたときにマイクが出す電圧を、1Vを0dBとして表した数字です。AT2020の仕様は「−37dB（14.1mV）（0dB＝1V/Pa、1kHz）」と、dBとmVを並べて書いています（<a href="https://www.audio-technica.co.jp/product/AT2020" target="_blank" rel="noopener">オーディオテクニカ AT2020</a>）。0に近いほど、同じ音で出る電圧が大きいことを表します。</p>
+        <p>基準が同じ（1V/Pa）数字を、電圧に直して並べました（GEARNOTE運営の計算。mV＝1000×10の（dB÷20）乗）。コンデンサーのAT2020（−37dB）と、ダイナミックのSM58-LCE（−56.0dBV/Pa）の差は19dBで、電圧にすると約8.9倍です。オーディオテクニカの「コンデンサーはダイナミックに比べて感度が高い」という説明と、同じ向きの数字です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品（GEARNOTEのページ）</th><th>方式（商品ページの言葉）</th><th>感度（メーカー情報ブロックの書き方）</th><th>電圧に直した値(mV)（GEARNOTE運営の計算）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-audio-technica-at2020-condenser-mic">オーディオテクニカ AT2020</a></th><td>コンデンサー</td><td>−37dB（0dB＝1V/Pa）</td><td>14.1</td></tr>
+            <tr><th><a href="product-razer-seiren-v3-mini-white-usb-mic">Razer Seiren V3 Mini USBコンデンサーマイク 超コンパクト</a></th><td>コンデンサー</td><td>−36dB（1V/Pa）</td><td>15.8</td></tr>
+            <tr><th><a href="product-sennheiser-mke200-oncamera-mic">ゼンハイザー MKE 200 指向性オンカメラマイク</a></th><td>記載なし</td><td>−33dBV/Pa</td><td>22.4</td></tr>
+            <tr><th><a href="product-shure-mv7-plus-podcast-mic">SHURE MV7+</a></th><td>ダイナミック</td><td>XLR：−55dBV/Pa</td><td>1.78</td></tr>
+            <tr><th><a href="product-shure-sm58-lce-dynamic-mic">SHURE SM58-LCE</a></th><td>ダイナミック</td><td>−56.0dBV/Pa</td><td>1.6</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>気をつけたいのは、同じ商品でも接続で数字が変わる例です。<a href="product-shure-mv7-plus-podcast-mic">SHURE MV7+</a>のメーカー情報ブロックは、感度を「XLR接続時：−55dBV/Pa、USB-C接続時：−33dBV/Pa」と分けて書いています。また、<a href="product-audio-technica-at-csp1-speakerphone">オーディオテクニカ AT-CSP1 USBスピーカーフォン 会議用マイクスピーカー</a>は感度を「−22dBfs」と、デジタルの基準（dBfs）で書いています。<strong>単位と基準が違う数字は、そのまま比べられません。</strong></p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>GEARNOTE掲載14台を、方式で分ける</h2>
+        <p>GEARNOTEに載せているマイク14台を、商品名・メーカー情報ブロック・仕様表に書かれた方式の言葉で分けました（GEARNOTE運営の計算）。コンデンサーが7台、ダイナミックが2台、どちらの言葉もなかったのが5台です。ワイヤレスマイク（DJI）3台は、メーカー情報ブロックに方式の言葉がありませんでした。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品（GEARNOTEのページ）</th><th>区分</th><th>方式（記載の場所）</th><th>周波数特性(Hz)</th><th>質量(g)</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-audio-technica-at2020-condenser-mic">オーディオテクニカ AT2020</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>コンデンサー（メーカー情報ブロック）</td><td>20〜20000</td><td>345</td></tr>
+            <tr><th><a href="product-shure-sm58-lce-dynamic-mic">SHURE SM58-LCE</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>ダイナミック（メーカー情報ブロック）</td><td>50〜15000</td><td>330</td></tr>
+            <tr><th><a href="product-shure-mv7-plus-podcast-mic">SHURE MV7+</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>ダイナミック（メーカー情報ブロック）</td><td>50〜16000</td><td>573.5</td></tr>
+            <tr><th><a href="product-logicool-g-blue-yeti-bm400bk">Logicool G Blue Yeti BM400BK</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>コンデンサー（メーカー情報ブロック）</td><td>20〜20000</td><td>880</td></tr>
+            <tr><th><a href="product-razer-seiren-v3-mini-white-usb-mic">Razer Seiren V3 Mini USBコンデンサーマイク 超コンパクト</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>コンデンサー（メーカー情報ブロック）</td><td>20〜20000</td><td>記載なし</td></tr>
+            <tr><th><a href="product-fifine-k683b-usb-mic">FIFINE K683B USBデスクトップPCマイク</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>記載なし</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-jbl-quantum-stream">JBL QUANTUM STREAM</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>コンデンサー（メーカー情報ブロック）</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-elgato-wave3">Elgato Wave:3 プレミアムUSBコンデンサーマイク</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>コンデンサー（商品名）</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-audio-technica-at-csp1-speakerphone">オーディオテクニカ AT-CSP1 USBスピーカーフォン 会議用マイクスピーカー</a></th><td>USB・XLR接続（据え置き・ハンド・会議用）</td><td>コンデンサー（メーカー情報ブロック）</td><td>100〜10000</td><td>100</td></tr>
+            <tr><th><a href="product-rode-videomicro-ii">RODE VideoMicro II</a></th><td>オンカメラ（3.5mm出力）</td><td>コンデンサー（メーカー情報ブロック）</td><td>20〜20000</td><td>24</td></tr>
+            <tr><th><a href="product-sennheiser-mke200-oncamera-mic">ゼンハイザー MKE 200 指向性オンカメラマイク</a></th><td>オンカメラ（3.5mm出力）</td><td>記載なし</td><td>40〜20000</td><td>48</td></tr>
+            <tr><th><a href="product-dji-mic-2-wireless-mic">DJI Mic 2（トランスミッター×1 + レシーバー×1） ワイヤレスマイク</a></th><td>ワイヤレス（送信機・受信機セット）</td><td>記載なし</td><td>?〜20000</td><td>28</td></tr>
+            <tr><th><a href="product-dji-mic-mini-2tx-1rx-case">DJI Mic Mini（2 TX + 1 RX + 充電ケース）</a></th><td>ワイヤレス（送信機・受信機セット）</td><td>記載なし</td><td>?〜20000</td><td>10</td></tr>
+            <tr><th><a href="product-dji-mic-mini-2s-1tx-1rx-case">DJI Mic Mini 2S（1TX+1RX+ケース）</a></th><td>ワイヤレス（送信機・受信機セット）</td><td>記載なし</td><td>?〜20000</td><td>12</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>周波数特性は、メーカーが書いた範囲の下限と上限です。下限が書かれていない商品は「?」としています。周波数特性の範囲は、方式の違いを表す数字ではありません。</p>
+        <p>数字は、GEARNOTEに載せている商品の範囲のもので、市場全体の傾向ではありません。「記載なし」は、その機能がないという意味ではなく、GEARNOTEの商品ページにその言葉が書かれていないという意味です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>よくある読み間違い</h2>
+        <ul><li><strong>コンデンサーマイクは、どれもファンタム電源が必要だと思う</strong>：オーディオテクニカの説明は「多くの」です。USBマイクやカメラ用のマイクには、ファンタム電源の項目がありません。</li><li><strong>感度のdBが大きい（0に近い）ほど音がよい、と思う</strong>：感度は、同じ音で出る電圧の大きさです。音の良し悪しを表す数字ではありません。</li><li><strong>「ファンタム」と「ファントム」を別のものと思う</strong>：メーカーごとの表記の違いです。</li><li><strong>USB接続とXLR接続の感度を、同じ数字として読む</strong>：Shure MV7+のように、接続で別の値を書く商品があります。</li><li><strong>dBfsとdBV/Paを並べる</strong>：基準が違うので、そのまま比べられません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>商品ページで確認すること</h2>
+        <ul><li>方式：コンデンサー（エレクトレットを含む）か、ダイナミックか。</li><li>接続：USB、XLR、3.5mm、ワイヤレスのどれか。XLRなら、ファンタム電源（48Vなど）が必要か。</li><li>感度：単位（dBV/Pa、dBfsなど）と基準（0dB＝1V/Pa）。接続ごとに値が分かれていないか。</li><li>指向特性：単一指向性（カーディオイド）、無指向性など。</li><li>付属品：ケーブル、スタンド、変換ネジが付くか。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日に、各ページを実際に開いて確認したメーカーの公式ページと公的機関の資料にもとづきます（リンクは各項目に付けています）。GEARNOTEの数字は、掲載している商品のデータ一覧（CSV）と商品ページ（メーカー情報ブロックと、Amazonの商品情報をもとにした仕様表）から、GEARNOTE運営が数えたもの（GEARNOTE運営の計算）です。</p>
+        <ul><li>ダイナミックマイクの内部構造（コイルと磁石）を図で説明したメーカーの解説ページは、開けた範囲では確認できませんでした。このページでは、Shure MV7+の「ムービングコイル方式」という表記だけを紹介しています。</li><li>ダイナミックマイクに電源が要らないことを明記したメーカーのページは、開けた範囲では確認できなかったので、断定していません。</li><li>方式ごとの耐久性や湿気への強さを、条件をそろえて比べた公的な資料は確認できなかったので書いていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「コンデンサーマイクとダイナミックマイクの違い」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/diff-microphone-types</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/diff-microphone-types"&gt;GEARNOTE「コンデンサーマイクとダイナミックマイクの違い」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>コンデンサーマイクとダイナミックマイクは、何が違いますか？</h3>
+            <p>オーディオテクニカの説明では、音を電気信号に変える仕組みの違いです。コンデンサーはダイナミックに比べて感度が高く、ノイズも拾いやすい。ダイナミックは構造がシンプルで耐久性が高いタイプです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ファンタム電源とは何ですか？</h3>
+            <p>オーディオインターフェースやミキサー側から、マイクに電力を送る仕組みです。オーディオテクニカのAT2020は、ファントム電源48VDC・2mAと書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>USBのコンデンサーマイクにも、ファンタム電源は必要ですか？</h3>
+            <p>GEARNOTE掲載では、ファンタム電源の電圧が書かれていたのはXLR接続のAT2020だけでした。USBマイクのメーカー情報ブロックには、「必要電力 5V 150mA」のような5Vの電力の数字が書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>感度の「−37dB」と「−56dBV/Pa」は、どれくらい違いますか？</h3>
+            <p>どちらも1V/Paを基準にした数字で、差は19dBです。電圧に直すと約8.9倍です（GEARNOTE運営の計算）。音の良し悪しを表す数字ではありません。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="guide-microphone">マイクの選び方</a></li><li><a href="data-microphone">マイクの仕様一覧</a></li><li><a href="compare-rode-videomicro-ii-vs-sennheiser-mke200">RODE VideoMicro IIとMKE 200の比較</a></li><li><a href="diff-headphone-earbuds-headset">ヘッドホン・イヤホン・ヘッドセットの違い</a></li><li><a href="diff-index">「違い」を調べる</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
