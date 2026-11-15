@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 15 Nov 2026 06:47:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 08:32:39 +0000</lastBuildDate>
+  <item>
+    <title>アイリスオーヤマ 全自動洗濯機 5.0kg 特急コース TNI-M501H-B ブラック</title>
+    <link>https://gearnote.net/product-irisohyama-washing-machine-5kg-tni-m501h-b</link>
+    <guid isPermaLink="true">https://gearnote.net/product-irisohyama-washing-machine-5kg-tni-m501h-b</guid>
+    <description>アイリスオーヤマの全自動洗濯機、洗濯容量5.0kgの型番TNI-M501H-B（ブラック・OSH fit）です。</description>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>パナソニック ラムダッシュ バリカン トップグレードモデル ER-NGSHA-K</title>
     <link>https://gearnote.net/product-panasonic-lamdash-hairclipper-ngsha-k</link>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-jbl-wave-beam-3-purple-anc-earbuds</link>
     <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-beam-3-purple-anc-earbuds</guid>
     <description>JBLの完全ワイヤレスイヤホン「Wave Beam 3」のパープルです。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック ドライヤー イオニティ EH-NE7P-V（ミスティラベンダー・1200W）</title>
-    <link>https://gearnote.net/product-panasonic-ionity-dryer-eh-ne7p-v-misty-lavender</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-ionity-dryer-eh-ne7p-v-misty-lavender</guid>
-    <description>パナソニックのヘアドライヤー「イオニティ」EH-NE7P-V（ミスティラベンダー）です。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
