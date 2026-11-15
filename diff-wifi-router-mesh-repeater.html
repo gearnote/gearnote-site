@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wi-Fiルーター・メッシュWi-Fi・中継機の違い｜役割・有線バックホール・速度の「理論値」の読み方（掲載18台の数字つき）｜GEARNOTE</title>
+<meta name="description" content="Wi-Fiルーター、メッシュWi-Fi、中継機の違いを、Wi-Fi Alliance・バッファロー・TP-Linkの公式情報で確かめて整理しました。役割、EasyMesh、有線バックホール、速度の「規格値」の意味と、掲載18台の速度・有線ポートの表つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="Wi-Fiルーター・メッシュWi-Fi・中継機の違い｜役割・有線バックホール・速度の「理論値」の読み方（掲載18台の数字つき）｜GEARNOTE">
+<meta property="og:description" content="Wi-Fiルーター、メッシュWi-Fi、中継機の違いを、Wi-Fi Alliance・バッファロー・TP-Linkの公式情報で確かめて整理しました。役割、EasyMesh、有線バックホール、速度の「規格値」の意味と、掲載18台の速度・有線ポートの表つきです。">
+<meta property="og:url" content="https://gearnote.net/diff-wifi-router-mesh-repeater">
+<link rel="canonical" href="https://gearnote.net/diff-wifi-router-mesh-repeater">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Wi-Fiルーター・メッシュWi-Fi・中継機の違い｜役割・有線バックホール・速度の「理論値」の読み方（掲載18台の数字つき）｜GEARNOTE">
+<meta name="twitter:description" content="Wi-Fiルーター、メッシュWi-Fi、中継機の違いを、Wi-Fi Alliance・バッファロー・TP-Linkの公式情報で確かめて整理しました。役割、EasyMesh、有線バックホール、速度の「規格値」の意味と、掲載18台の速度・有線ポートの表つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"Wi-Fiルーター・メッシュWi-Fi・中継機の違い"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"中継機とメッシュWi-Fiは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"中継機は、親機の電波の届く範囲を広げる機器です。メッシュWi-Fiは、Wi-Fi Allianceの説明では、複数のアクセスポイントが連携して1つのネットワークをつくる仕組みです。EasyMeshでは、対応した中継機も「エージェント」としてメッシュに入ります。"}},{"@type":"Question","name":"違うメーカーの機器で、メッシュを組めますか？","acceptedAnswer":{"@type":"Answer","text":"バッファローの説明では、他社製の機器と組むには、他社独自の「メッシュWi-Fi」ではなく、「Wi-Fi EasyMesh」に対応している必要があります。方式の名前を確認してください。"}},{"@type":"Question","name":"有線バックホールとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"メッシュの機器どうしの通信を、LANケーブルで行うことです。TP-Linkの説明では、有線でつなぐとWi-Fiのバックホールは自動で切断され、有線でつないだDecoの間でだけ働きます。"}},{"@type":"Question","name":"ルーターの「最大2882Mbps」は、実際に出る速度ですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。バッファローは、速度表記は規格値で、実環境での速度ではない、と注記しています。有線でつなぐ機器は、有線ポートの上限にも収まります。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ Wi-Fiルーター・メッシュWi-Fi・中継機の違い</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">Wi-Fiルーター・メッシュWi-Fi・中継機の違い｜役割・有線バックホール・速度表記の読み方</h1>
+        <p class="desc">ルーター、メッシュ、中継機は、家の中でWi-Fiを広げる方法の違いです。メーカーと規格団体の説明を確かめたうえで、仕様の数字をどう読むかをまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>3つの役割の違い</h2>
+        <p>このページでは、インターネット回線側につなぐ親機を「ルーター」と呼びます。中継機とメッシュWi-Fiは、どちらもルーターの電波が届きにくい場所をカバーするための機器です。違いは、<strong>機器どうしがどう連携するか</strong>にあります。</p>
+        <p>中継機について、バッファローは自社の中継機の製品ページで、中継機を利用すれば電波の到達範囲を改善できる、と書いています（<a href="https://www.buffalo.jp/product/detail/wex-3000ax4ea_n.html" target="_blank" rel="noopener">バッファロー WEX-3000AX4EA/N</a>）。</p>
+        <p>メッシュWi-Fiについて、規格団体のWi-Fi Allianceは、Wi-Fi EasyMeshのネットワークでは、複数のアクセスポイントが連携して1つのネットワークをつくる、と説明しています。複数のメーカーのEasyMesh対応アクセスポイントを追加できる、とも書いています（<a href="https://www.wi-fi.org/discover-wi-fi/wi-fi-easymesh" target="_blank" rel="noopener">Wi-Fi Alliance「Wi-Fi EasyMesh」</a>）。</p>
+        <p>バッファローの説明では、EasyMeshのネットワークで管理する役割の機器を「コントローラ」、中継する役割の機器を「エージェント」と呼びます。エージェントには、EasyMesh対応のWi-Fiルーターや中継機を使います。端末が移動したとき、つなぐ先（コントローラやエージェント）を自動で切り替える機能を「ローミング」と呼んでいます（<a href="https://www.buffalo.jp/support/faq/detail/124145729.html" target="_blank" rel="noopener">バッファローのよくある質問</a>）。つまり、EasyMeshでは、中継機も「エージェント」としてメッシュの一部になれます。「中継機かメッシュか」は、機器の形ではなく、<strong>どの方式で連携しているか</strong>で決まる、ということです。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th></th><th>ルーター（親機）</th><th>中継機</th><th>メッシュWi-Fi</th></tr></thead>
+            <tbody>
+            <tr><th>つなぐ相手</th><td>インターネット回線側の機器と、家の中の端末</td><td>電波の到達範囲を広げる（バッファローの説明）</td><td>複数のアクセスポイントが連携して、1つのネットワークをつくる</td></tr>
+            <tr><th>メーカーの説明</th><td>このページでは、回線側につなぐ親機を「ルーター」と呼びます</td><td>バッファロー：中継機を利用すれば電波の到達範囲を改善できる</td><td>Wi-Fi Alliance：複数のAPが連携して1つのネットワーク。バッファロー：コントローラ（管理）とエージェント（中継）</td></tr>
+            <tr><th>組み合わせの条件</th><td>—</td><td>親機との接続方式を確認（EasyMesh対応の中継機もある）</td><td>同じ方式どうし。他社製と組むならWi-Fi EasyMesh対応どうし</td></tr>
+            <tr><th>GEARNOTEのデータ一覧</th><td>16台（メッシュ対応のものを含む）</td><td>2台</td><td>区分は「ルーター」に含めています</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>メッシュは「同じ方式どうし」で組む</h2>
+        <p>バッファローは、他社製のメッシュWi-Fiルーターとつなぐには、他社独自の「メッシュWi-Fi」ではなく、「Wi-Fi EasyMesh」に対応している必要がある、と注意しています（<a href="https://www.buffalo.jp/support/faq/detail/124158471.html" target="_blank" rel="noopener">バッファローのよくある質問</a>）。「メッシュ対応」と書かれていても、方式が違えば組み合わせられない、ということです。</p>
+        <p>GEARNOTEに載せているWi-Fiルーター・中継機18台の商品ページ（仕様表とメーカー情報ブロック）で、方式の名前を数えました（GEARNOTE運営の計算）。「EasyMesh」と書かれていたのは5台（うち中継機2台）、ASUSの「AiMesh」と書かれていたのは4台でした。TP-LinkのDecoやAmazonのeeroのように、シリーズ名でメッシュを組む商品もあります。商品名に「メッシュ」と入っているのは2台だけです。</p>
+        <p>同じ「メッシュ」という言葉でも、EasyMesh、AiMesh、メーカーのシリーズ独自の方式があり、互いに組めるとは限りません。買い足すときは、方式の名前を合わせてください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>有線バックホール：機器どうしをLANケーブルでつなぐ</h2>
+        <p>メッシュの機器どうしの通信を、TP-Linkは「バックホール」と呼んでいます。TP-Linkの説明では、Ethernetバックホールは、Decoのユニット同士を有線で接続できる機能です。Ethernetバックホールが確立されると、Wi-Fiのバックホールは自動的に切断されます。また、Ethernetバックホールは、有線接続されたDecoの間でだけ機能します（<a href="https://www.tp-link.com/jp/support/faq/1794/" target="_blank" rel="noopener">TP-Link「Deco間をLANケーブルで繋いで利用できますか？」</a>）。</p>
+        <p>つまり、ユニットが3台あって、そのうち2台だけをケーブルでつないだ場合、ケーブルでつないだ区間だけが有線になります。家の配線のどこにLANケーブルが通っているかで、使える区間が決まります。</p>
+        <p>GEARNOTEに載せている18台の商品ページには、「バックホール」という言葉は1台も出てきませんでした（GEARNOTE運営の計算）。有線でつなぎたい場合は、商品ページではなく、メーカーのサポートページや取扱説明書で、対応しているかを確かめてください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>速度の書き方：「最大〇〇Mbps」は規格値</h2>
+        <p>バッファローは、中継機の製品ページで、記載されている速度表記は<strong>規格値で、実環境での速度ではない</strong>、と注記しています（<a href="https://www.buffalo.jp/product/detail/wex-3000ax4ea_n.html" target="_blank" rel="noopener">バッファロー</a>）。同じ意味で「理論値」と書くメーカーもあり、GEARNOTEの商品ページでも、<a href="product-nec-aterm-am-7200d8be-wifi7-router">NEC Aterm Wi-Fi 7 ルーター AM-7200D8BE</a>のメーカー情報ブロックには「理論値」と書かれています。Wi-Fiの世代（Wi-Fi 6・7など）ごとの理論値の意味は、<a href="words-wifi">Wi-Fi 5・6・6E・7の違い</a>にまとめています。</p>
+        <p>GEARNOTEのデータ一覧で、5GHz帯の最大通信速度に数字があるのは12台でした。数字の種類は少なく、2882Mbpsが6台、5764Mbpsが4台、2401Mbpsと4320Mbpsが1台ずつです（GEARNOTE運営の計算）。どれも規格値で、家の中での速さの違いを表す数字ではありません。</p>
+        <p>もう一つの注意は、有線ポートです。5GHz帯の速度と、最も速い有線ポートの速度の両方に数字がある12台のうち、有線ポートの速度（Gbpsを1000倍してMbpsにした値）のほうが小さい機種が7台ありました。中継機でも、<a href="product-tp-link-re220be-wifi7-be3600-range-extender">TP-Link Wi-Fi 7 中継器 BE3600 RE220BE（コンセント直挿・有線LAN付き）</a>は5GHz帯が2882Mbpsで、有線ポートは1Gbpsです。有線でつないだ機器の速度は、そのポートの上限に収まります（どちらも規格上の数字どうしの比較です）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>最も速い有線ポート</th><th>ルーター（16台）</th><th>中継機（2台）</th></tr></thead>
+            <tbody>
+            <tr><th>10Gbps</th><td>6台</td><td>0台</td></tr>
+            <tr><th>5Gbps</th><td>1台</td><td>0台</td></tr>
+            <tr><th>2.5Gbps</th><td>4台</td><td>0台</td></tr>
+            <tr><th>1Gbps</th><td>5台</td><td>2台</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTE掲載18台の数字</h2>
+        <p>データ一覧の数字を、そのまま並べた表です。消費電力（最大）に数字があるのは6台で11.9〜43W、質量（本体のみ）に数字があるのは7台で250〜1800gでした。ACアダプターの出力など、本体の消費電力ではない数字は、この列には入れていません。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品（GEARNOTEのページ）</th><th>区分</th><th>5GHz帯の最大通信速度(Mbps)</th><th>最も速い有線ポート(Gbps)</th><th>消費電力（最大）(W)</th><th>質量（本体のみ）(g)</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-buffalo-wifi6-router-wsr3000ax4l">バッファロー Wi-Fi 6 ルーター 2401+573Mbps</a></th><td>ルーター</td><td>2401</td><td>1</td><td>13.8</td><td>330</td></tr>
+            <tr><th><a href="product-buffalo-wifi6-repeater-wex3000ax4ea">バッファロー Wi-Fi 6 中継機 2401+573Mbps EasyMesh</a></th><td>中継機</td><td>記載なし</td><td>1</td><td>11.9</td><td>250</td></tr>
+            <tr><th><a href="product-nec-aterm-am-7200d8be-wifi7-router">NEC Aterm Wi-Fi 7 ルーター AM-7200D8BE</a></th><td>ルーター</td><td>5764</td><td>10</td><td>25</td><td>800</td></tr>
+            <tr><th><a href="product-tp-link-deco-be22-1pack">TP-Link Deco BE22 メッシュWi-Fi 7ルーター BE3600 1-pack</a></th><td>ルーター</td><td>2882</td><td>1</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-google-nest-wifi-router">Google Nest Wifi ルーター</a></th><td>ルーター</td><td>記載なし</td><td>1</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-amazon-eero-6-plus">Amazon eero 6+</a></th><td>ルーター</td><td>記載なし</td><td>1</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-amazon-eero-7">Amazon eero 7 メッシュWi-Fiルーター 1ユニット</a></th><td>ルーター</td><td>記載なし</td><td>2.5</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-amazon-eero-pro-7">Amazon eero Pro 7</a></th><td>ルーター</td><td>記載なし</td><td>5</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-buffalo-wifi7-router-wsr6500be6p-n10g">バッファロー Wi-Fi 7 ルーター WSR6500BE6P/N10G 有線10Gbps</a></th><td>ルーター</td><td>5764</td><td>10</td><td>17</td><td>500</td></tr>
+            <tr><th><a href="product-iodata-wifi7-router-10g-wn-7t100xxr-ue">アイ・オー・データ Wi-Fi 7 ルーター 10Gbps×2 トライバンド WN-7T100XXR</a></th><td>ルーター</td><td>2882</td><td>10</td><td>記載なし</td><td>1800</td></tr>
+            <tr><th><a href="product-asus-wifi7-router-rt-be3600j-pro">ASUS Wi-Fi 7 ルーター RT-BE3600J PRO（最大3600Mbps・デュアル2.5Gポート）</a></th><td>ルーター</td><td>2882</td><td>2.5</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-elecom-wifi7-router-wrc-be36gs-ba">エレコム Wi-Fi 7 ルーター WRC-BE36GS-BA ブラック（2882+688Mbps・有線1Gbps）</a></th><td>ルーター</td><td>2882</td><td>1</td><td>14.2</td><td>340</td></tr>
+            <tr><th><a href="product-huawei-wifi-be3-wifi7-router-wukun-be32">HUAWEI WiFi BE3 Wi-Fi 7 ルーター WUKUN-BE32 ブラック（BE3600・2.5Gポート）</a></th><td>ルーター</td><td>2882</td><td>2.5</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-nec-aterm-wifi7-router-am-19000t12be">NEC Aterm Wi-Fi 7 ルーター AM-19000T12BE（トライバンド・WAN/LAN 10Gbps）</a></th><td>ルーター</td><td>5764</td><td>10</td><td>43</td><td>1100</td></tr>
+            <tr><th><a href="product-tp-link-re220be-wifi7-be3600-range-extender">TP-Link Wi-Fi 7 中継器 BE3600 RE220BE（コンセント直挿・有線LAN付き）</a></th><td>中継機</td><td>2882</td><td>1</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-asus-proart-router-prt-be5000-wifi7">ASUS ProArt Router PRT-BE5000 Wi-Fi 7ルーター</a></th><td>ルーター</td><td>4320</td><td>2.5</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-asus-rog-rapture-gt-be19000ai-wifi7-tri-band-gaming-router">ASUS ROG Rapture GT-BE19000AI Wi-Fi 7 トライバンド ゲーミングルーター</a></th><td>ルーター</td><td>5764</td><td>10</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-asus-rog-rapture-gt-be98-edition-20-wifi7-quad-band-gaming-router">ASUS ROG Rapture GT-BE98 Edition 20 Wi-Fi 7 クアッドバンド ゲーミングルーター（BE25000）</a></th><td>ルーター</td><td>記載なし</td><td>10</td><td>記載なし</td><td>記載なし</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>数字は、GEARNOTEに載せている商品の範囲のもので、市場全体の傾向ではありません。「記載なし」は、0という意味ではなく、データ一覧の列に数字がないという意味です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み間違い</h2>
+        <ul><li><strong>「メッシュ対応」なら、どのメーカーとも組めると思う</strong>：EasyMesh、AiMesh、シリーズ独自の方式があり、方式が合う機器どうしでないと組めません。</li><li><strong>中継機とメッシュは、まったく別の機器だと思う</strong>：EasyMeshでは、対応した中継機もエージェントとしてメッシュに入ります。</li><li><strong>5GHz帯の「最大〇〇Mbps」を、実際の速度だと思う</strong>：規格値で、実環境での速度ではありません。</li><li><strong>無線の数字が大きければ、有線も速いと思う</strong>：有線でつないだ機器は、ポートの上限（1Gbpsなど）に収まります。</li><li><strong>有線バックホールは、全部のユニットに効くと思う</strong>：TP-Linkの説明では、有線でつないだユニットの間だけで働きます。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>商品ページで確認すること</h2>
+        <ul><li>メッシュの方式名：EasyMesh、AiMeshなど。いま使っているルーターと同じ方式か。</li><li>中継機の場合：親機との接続方式と、EasyMesh対応かどうか。</li><li>速度の数字に「規格値」「理論値」の注記があるか。どの周波数帯の数字か。</li><li>最も速い有線ポートの速度（1Gbps・2.5Gbps・10Gbpsなど）と、ポートの数。</li><li>有線バックホールを使いたい場合：メーカーのサポートページや取扱説明書で対応を確認。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日に、各ページを実際に開いて確認したメーカーの公式ページと規格団体の資料にもとづきます（リンクは各項目に付けています）。GEARNOTEの数字は、掲載している商品のデータ一覧（CSV）と商品ページから、GEARNOTE運営が数えたもの（GEARNOTE運営の計算）です。</p>
+        <ul><li>Wi-Fi Allianceの、EasyMeshのよくある質問のページは開けませんでした（ページが見つかりませんでした）。開けたWi-Fi Allianceのページには、バックホール（有線・無線）についての記載はありませんでした。</li><li>中継機を使ったときに、通信速度がどのくらい変わるかを示すメーカーや公的機関の資料は確認できなかったので、割合などは書いていません。</li><li>EasyMeshで、機器どうしをLANケーブルでつなげるかどうかは、バッファローの開いたページでは確認できなかったので書いていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「Wi-Fiルーター・メッシュWi-Fi・中継機の違い」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/diff-wifi-router-mesh-repeater</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/diff-wifi-router-mesh-repeater"&gt;GEARNOTE「Wi-Fiルーター・メッシュWi-Fi・中継機の違い」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>中継機とメッシュWi-Fiは、何が違いますか？</h3>
+            <p>中継機は、親機の電波の届く範囲を広げる機器です。メッシュWi-Fiは、Wi-Fi Allianceの説明では、複数のアクセスポイントが連携して1つのネットワークをつくる仕組みです。EasyMeshでは、対応した中継機も「エージェント」としてメッシュに入ります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>違うメーカーの機器で、メッシュを組めますか？</h3>
+            <p>バッファローの説明では、他社製の機器と組むには、他社独自の「メッシュWi-Fi」ではなく、「Wi-Fi EasyMesh」に対応している必要があります。方式の名前を確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>有線バックホールとは何ですか？</h3>
+            <p>メッシュの機器どうしの通信を、LANケーブルで行うことです。TP-Linkの説明では、有線でつなぐとWi-Fiのバックホールは自動で切断され、有線でつないだDecoの間でだけ働きます。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ルーターの「最大2882Mbps」は、実際に出る速度ですか？</h3>
+            <p>いいえ。バッファローは、速度表記は規格値で、実環境での速度ではない、と注記しています。有線でつなぐ機器は、有線ポートの上限にも収まります。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="data-wifi-router">Wi-Fiルーター・中継機の仕様一覧</a></li><li><a href="guide-wifi-router">Wi-Fiルーターの選び方</a></li><li><a href="words-wifi">Wi-Fi 5・6・6E・7の違い</a></li><li><a href="words-usb-speed">USB 3.2・USB4・Thunderboltの違い</a></li><li><a href="diff-index">「違い」を調べる</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
