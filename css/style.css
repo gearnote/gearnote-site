@@ -1700,6 +1700,11 @@ th.dtt-sortable::after { content: " ↕"; opacity: .35; font-size: .8em; }
 th.dtt-asc::after { content: " ▲"; opacity: 1; }
 th.dtt-desc::after { content: " ▼"; opacity: 1; }
 
-.footer-own-links { margin-top: 10px; font-size: 0.82rem; color: var(--text-muted); }
-.footer-own-links a { color: var(--text-muted); text-decoration: underline; }
-.footer-own-links a:hover { color: var(--text); }
+.footer-own-links { margin-top: 16px; }
+.footer-own-links p { margin: 0; }
+.footer-own-links .fol-head { font-size: 0.82rem; font-weight: 700; color: var(--text); letter-spacing: 0.04em; }
+.footer-own-links .fol-sub { margin-top: 2px; font-size: 0.8rem; color: var(--text-muted); }
+.footer-own-links .fol-links { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px; }
+.footer-own-links .fol-link { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border: 1px solid var(--border); border-radius: var(--radius-sm); color: var(--text); font-size: 0.85rem; text-decoration: none; }
+.footer-own-links .fol-link:hover { border-color: var(--text-muted); }
+.footer-own-links .fol-icon { flex: none; }
