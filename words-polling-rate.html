@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ポーリングレート（レポートレート）とは｜1000Hz・8000Hzの意味と、電池の持ちとの関係（掲載マウス・キーボードの記載つき）｜GEARNOTE</title>
+<meta name="description" content="マウスやキーボードの「ポーリングレート」「レポートレート」の意味と、1000Hz＝1msの関係、電池の持ちとの関係を、CORSAIRとLogicoolの公式資料で確かめました。GEARNOTE掲載12商品の記載の集計つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="ポーリングレート（レポートレート）とは｜1000Hz・8000Hzの意味と、電池の持ちとの関係（掲載マウス・キーボードの記載つき）｜GEARNOTE">
+<meta property="og:description" content="マウスやキーボードの「ポーリングレート」「レポートレート」の意味と、1000Hz＝1msの関係、電池の持ちとの関係を、CORSAIRとLogicoolの公式資料で確かめました。GEARNOTE掲載12商品の記載の集計つきです。">
+<meta property="og:url" content="https://gearnote.net/words-polling-rate">
+<link rel="canonical" href="https://gearnote.net/words-polling-rate">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ポーリングレート（レポートレート）とは｜1000Hz・8000Hzの意味と、電池の持ちとの関係（掲載マウス・キーボードの記載つき）｜GEARNOTE">
+<meta name="twitter:description" content="マウスやキーボードの「ポーリングレート」「レポートレート」の意味と、1000Hz＝1msの関係、電池の持ちとの関係を、CORSAIRとLogicoolの公式資料で確かめました。GEARNOTE掲載12商品の記載の集計つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"ポーリングレート（レポートレート）とは"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ポーリングレートとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"マウスなどからのデータが、つないだパソコンに送られる頻度です。CORSAIRの説明では、一般的にHzで表され、平均的なゲーム用マウスは1,000Hz（毎秒1,000回）でデータを送ります。"}},{"@type":"Question","name":"1000Hzは何ミリ秒ですか？","acceptedAnswer":{"@type":"Answer","text":"1msです。Logicoolのサポートページは「1ms（1000Hz）」と書いています。間隔は1,000÷Hzで、8,000Hzなら0.125msです（GEARNOTE運営の計算）。"}},{"@type":"Question","name":"ポーリングレートを下げると、電池は長く持ちますか？","acceptedAnswer":{"@type":"Answer","text":"CORSAIRは、ポーリングレートを下げるとワイヤレスマウスの電池寿命が延びると説明しています。Logicool G304SEのエンデュランスモードは、125Hzに固定して電池寿命を最大化すると書かれています。"}},{"@type":"Question","name":"掲載している商品で、ポーリングレートが書かれているのは何商品ですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEの商品ページのメーカー公開情報で、数字が書かれていたのは12商品でした（GEARNOTE運営の計算）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ ポーリングレート（レポートレート）とは</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">ポーリングレート（レポートレート）とは｜Hzの意味と仕様表の読み方</h1>
+        <p class="desc">ポーリングレートは、マウスやキーボードが、パソコンに情報を送る回数のことです。メーカーによって「レポートレート」とも書かれます。公式の資料で確かめた意味と、GEARNOTEに載せている商品の書き方をまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ポーリングレートとは：1秒間に送る回数</h2>
+        <p>CORSAIRの解説は、「ポーリングレートは、マウスからのデータが接続先のデバイスに送信される頻度です。」 と説明し、「一般的にHzで表され、平均的なゲーム用マウスは1,000Hzでデータをレポートします。」 と書いています（<a href="https://www.corsair.com/ww/ja/explorer/gamer/mice/what-is-polling-rate-does-it-affect-gaming/" target="_blank" rel="noopener">CORSAIR「ポーリングレートとは何ですか？」</a>）。1,000Hzなら、1秒間に1,000回、位置などの情報をパソコンに送る、という意味です。</p>
+        <p>Logicoolのサポートページは、同じものを「レポートレート」と呼び、「パフォーマンスモード（HI）：デフォルトで、マウスのレポートレートは 1ms（1000Hz）に設定されています。」 と書いています（<a href="https://support.logi.com/hc/ja/articles/6505786548247" target="_blank" rel="noopener">Logicool サポート（G304SE・G305SE）</a>）。メーカーが「1ms（1000Hz）」のように、時間とHzを並べて書くのは、<strong>1秒を回数で割ると、1回ごとの間隔になる</strong>からです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>Hzと間隔（ms）の換算</h2>
+        <p>1回ごとの間隔（ミリ秒）は、1,000÷Hzで求められます。GEARNOTEで計算した表です（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ポーリングレート</th><th>1回ごとの間隔</th><th>出てくる場面（確認できた資料・掲載商品）</th></tr></thead>
+            <tbody>
+            <tr><th>125Hz</th><td>8ms</td><td>Logicool G304SEのエンデュランスモード（固定）</td></tr>
+            <tr><th>250Hz</th><td>4ms</td><td>G304SEのパフォーマンスモードで選べる値</td></tr>
+            <tr><th>500Hz</th><td>2ms</td><td>G304SEのパフォーマンスモードで選べる値</td></tr>
+            <tr><th>1,000Hz</th><td>1ms</td><td>G304SEの初期設定。CORSAIRの説明では「平均的なゲーム用マウス」の値</td></tr>
+            <tr><th>4,000Hz</th><td>0.25ms</td><td>GEARNOTE掲載商品の記載にある値</td></tr>
+            <tr><th>8,000Hz</th><td>0.125ms</td><td>GEARNOTE掲載商品の記載にある値</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Logicoolのサポートページは、G304SEについて「パフォーマンスモードでレポートレートを 2ms（500Hz）、4ms（250Hz）または 8ms（125Hz）まで上げることができます。」 と書いています。数字が大きいほど間隔は短くなり、125Hzでは8ms、8,000Hzでは0.125msです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>電池の持ちとの関係</h2>
+        <p>CORSAIRの解説は、「ポーリングレートを下げるとワイヤレスマウスのバッテリ寿命が延びることは注目に値します。」 と書いています。Logicoolのサポートページも、G304SEのエンデュランスモードについて、「エンデュランスモード（LO）：マウスのレポートレートは 8ms（125Hz）に固定され、電池寿命を最大化します。」 と説明しています。</p>
+        <p>GEARNOTEに載せているSteelSeriesのAerox 3 Wireless（第2世代）のメーカー公開情報には、2.4GHz接続で「1Kポーリング」のとき最大120時間、「4Kポーリング」のとき35時間と、ポーリングレートごとの電池の持ちが書かれています。この記載では、4,000Hzの時間は1,000Hzの約29%です（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <p><strong>電池の持ちの数字が、どのポーリングレートの条件で書かれているか</strong>は、ワイヤレスのマウス・キーボードを比べるときの確認点です。条件の書かれていない時間は、そのまま並べて比べられません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>接続方式で、上限が違う</h2>
+        <p>同じ商品でも、つなぎ方でポーリングレートが変わることがあります。GEARNOTEに載せているKeychronのキーボードのメーカー公開情報は、「1000Hz（2.4GHz・有線）／90Hz（Bluetooth）」と、接続方式ごとに数字を書いています。LogicoolのPRO X2 SUPERSTRIKEは「有線1000Hz（1ms）、LIGHTSPEED 8000Hz（0.125ms）」です。</p>
+        <p>また、LogicoolのPRO X SUPERLIGHT 2のメーカー公開情報には「8,000Hz（更新後。更新前は4,000Hz）」と書かれています。<strong>ソフトウェアの更新で上限が変わる</strong>商品があり、仕様表の数字がいつの時点のものかも確かめます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTE掲載商品の、ポーリングレートの記載</h2>
+        <p>GEARNOTEの商品ページのメーカー公開情報ブロック（3,760件）で、ポーリングレート（レポートレート）の数字が書かれていたのは<strong>12商品</strong>でした（GEARNOTE運営の計算（2026年11月15日））。「ポーリング」の語を使っていたのは6商品、「レポートレート」は6商品です。最大の数字の内訳は、8,000Hzが6商品、4,000Hzが1商品、1,000Hzが5商品 でした。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>ジャンル</th><th>メーカーの呼び方</th><th>最大の数字</th><th>1回ごとの間隔（計算）</th><th>Bluetoothの数字</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-logicool-g316x-98-gaming-keyboard-linear-g316x-98-lnbkd">Logicool G G316 X 98 ゲーミングキーボード G316X-98-LNBKd（リニア・日本語配列）</a></th><td>キーボード</td><td>レポートレート</td><td>8,000Hz</td><td>0.125ms</td><td>―</td></tr>
+            <tr><th><a href="product-logicool-g512x-75-gaming-keyboard-linear-white-g512x-75-lnwhd">Logicool G G512 X 75 ゲーミングキーボード リニア 日本語配列 G512X-75-LNWHd（ホワイト）</a></th><td>キーボード</td><td>レポートレート</td><td>8,000Hz</td><td>0.125ms</td><td>―</td></tr>
+            <tr><th><a href="product-logicool-g-pro-x2-superstrike-wireless-gaming-mouse-g-ppd-004wl-strkd">Logicool G PRO X2 SUPERSTRIKE ワイヤレスゲーミングマウス G-PPD-004WL-STRKd（ホワイト）</a></th><td>ワイヤレスマウス</td><td>レポートレート</td><td>8,000Hz</td><td>0.125ms</td><td>―</td></tr>
+            <tr><th><a href="product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-pe-pink">Logicool G PRO X3 SUPERSTRIKE G-PPD-X3-STRK-PEd（ワイヤレスゲーミングマウス・ピンク）</a></th><td>データ一覧外</td><td>レポートレート</td><td>8,000Hz</td><td>0.125ms</td><td>―</td></tr>
+            <tr><th><a href="product-logicool-g-pro-x-superlight-2">ロジクール G PRO X SUPERLIGHT 2</a></th><td>ワイヤレスマウス</td><td>ポーリングレート</td><td>8,000Hz</td><td>0.125ms</td><td>―</td></tr>
+            <tr><th><a href="product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-mb">ロジクール G PRO X3 SUPERSTRIKE G-PPD-X3-STRK-MB ワイヤレスゲーミングマウス</a></th><td>ワイヤレスマウス</td><td>ポーリングレート</td><td>8,000Hz</td><td>0.125ms</td><td>―</td></tr>
+            <tr><th><a href="product-steelseries-aerox-3-wl-gen2-fortnite-62720">SteelSeries Aerox 3 WL Gen 2 Fortnite（62720）ワイヤレスゲーミングマウス</a></th><td>ワイヤレスマウス</td><td>ポーリングレート</td><td>4,000Hz</td><td>0.25ms</td><td>―</td></tr>
+            <tr><th><a href="product-keychron-b1-pro-ultraslim-jis-silver">Keychron B1 Pro ウルトラスリム キーボード</a></th><td>キーボード</td><td>ポーリングレート</td><td>1,000Hz</td><td>1ms</td><td>90Hz（Bluetooth）</td></tr>
+            <tr><th><a href="product-keychron-b6-pro-ultraslim-fullsize-space-gray-us">Keychron B6 Pro ウルトラスリム ワイヤレスキーボード フルサイズ</a></th><td>キーボード</td><td>ポーリングレート</td><td>1,000Hz</td><td>1ms</td><td>90Hz（Bluetooth）</td></tr>
+            <tr><th><a href="product-keychron-k6-ultra-mechanical-keyboard-jis-red-switch-black">Keychron K6 Ultra メカニカルキーボード JIS配列 赤軸 ブラック</a></th><td>キーボード</td><td>ポーリングレート</td><td>1,000Hz</td><td>1ms</td><td>90Hz（Bluetooth）</td></tr>
+            <tr><th><a href="product-elecom-mechanical-keyboard-leggero-wired-tk-mc51ukpagy">エレコム メカニカルキーボード Leggero（レジェロ）有線 フルサイズ 静音赤軸 TK-MC51UKPAGY</a></th><td>キーボード</td><td>レポートレート</td><td>1,000Hz</td><td>1ms</td><td>―</td></tr>
+            <tr><th><a href="product-logicool-g304x-superlight-wireless-gaming-mouse">ロジクール G304 X SUPERLIGHT ワイヤレスゲーミングマウス</a></th><td>ワイヤレスマウス</td><td>レポートレート</td><td>1,000Hz</td><td>1ms</td><td>―</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>掲載数</th><th>メーカー公開情報ブロックがある数</th><th>ポーリングレートの記載がある数</th></tr></thead>
+            <tbody>
+            <tr><th>ワイヤレスマウス</th><td>27台</td><td>26台</td><td>5台</td></tr>
+            <tr><th>キーボード</th><td>21台</td><td>20台</td><td>6台</td></tr>
+            <tr><th>ゲームコントローラー</th><td>15台</td><td>14台</td><td>0台</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>GEARNOTEに載せているワイヤレスマウス27台のうち、ポーリングレートの記載があったのは5台でした。<strong>「記載なし」「―」は、そのブロックに書かれていないという意味で、非対応という意味ではありません。</strong>このほか、ペンタブレットで「レポートレート 最大200RPS」と、Hzではなく1秒あたりの回数（RPS）で書いた商品が1つ、ポーリングレートが「メーカーのこのページに記載なし」と書かれた商品が1つあり、上の数には入れていません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み違い</h2>
+        <ul><li><strong>「ポーリングレートとレポートレートは別の性能」</strong>：CORSAIRは「ポーリングレート」、Logicoolは「レポートレート」と呼び、どちらも1秒間に送る回数をHzで書いています。</li><li><strong>「ポーリングレート＝DPI」</strong>：DPIは読み取りの細かさで、別の数字です。DPIは<a href="diff-mouse-sensor-dpi">マウスのセンサーとDPIの違い</a>にまとめています。</li><li><strong>「最大8,000Hz＝どの接続でも8,000Hz」</strong>：有線・専用レシーバー・Bluetoothで数字が分かれる商品があります。</li><li><strong>「電池の持ちは、ポーリングレートに関係ない」</strong>：CORSAIR・Logicoolとも、下げると電池が長く持つと説明しています。</li><li><strong>「仕様表の数字はずっと同じ」</strong>：ソフトウェアの更新で上限が変わった商品があります。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>商品ページで確かめること</h2>
+        <ul><li>ポーリングレート（レポートレート）の最大の数字と、どの接続方式での数字か。</li><li>Bluetoothのときの数字（大きく下がる商品があります）。</li><li>電池の持ちの時間が、どのポーリングレートの条件か。</li><li>設定を変えるのに、専用のソフトウェアが必要か。ソフトウェアの更新で数字が変わったか。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した規格団体・公的機関・メーカー公式の資料にもとづきます（リンクは各項目に付けています）。仕様や制度は、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>USBの規格書（HID）の本文は確認していません。このページの説明は、マウス・キーボードのメーカーの資料によります。</li><li>高いポーリングレートで、パソコンの処理の負担がどれだけ増えるかは、一次資料で確認できなかったため書いていません。</li><li>ポーリングレートの違いで、操作の感じ方がどう変わるかは、このページでは扱いません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「ポーリングレート（レポートレート）とは」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-polling-rate</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-polling-rate"&gt;GEARNOTE「ポーリングレート（レポートレート）とは」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ポーリングレートとは何ですか？</h3>
+            <p>マウスなどからのデータが、つないだパソコンに送られる頻度です。CORSAIRの説明では、一般的にHzで表され、平均的なゲーム用マウスは1,000Hz（毎秒1,000回）でデータを送ります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>1000Hzは何ミリ秒ですか？</h3>
+            <p>1msです。Logicoolのサポートページは「1ms（1000Hz）」と書いています。間隔は1,000÷Hzで、8,000Hzなら0.125msです（GEARNOTE運営の計算）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ポーリングレートを下げると、電池は長く持ちますか？</h3>
+            <p>CORSAIRは、ポーリングレートを下げるとワイヤレスマウスの電池寿命が延びると説明しています。Logicool G304SEのエンデュランスモードは、125Hzに固定して電池寿命を最大化すると書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>掲載している商品で、ポーリングレートが書かれているのは何商品ですか？</h3>
+            <p>GEARNOTEの商品ページのメーカー公開情報で、数字が書かれていたのは12商品でした（GEARNOTE運営の計算）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="diff-mouse-sensor-dpi">マウスのセンサーとDPIの違い</a></li><li><a href="diff-keyboard-switch-types">キーボードのスイッチの違い</a></li><li><a href="data-wireless-mouse">ワイヤレスマウスの仕様一覧</a></li><li><a href="data-keyboard">キーボードの仕様一覧</a></li><li><a href="guide-wireless-mouse">ワイヤレスマウスの選び方</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
