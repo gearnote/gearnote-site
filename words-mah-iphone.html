@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>スマホの電池容量（mAh）とモバイルバッテリー容量の読み方｜「何回充電できるか」を割り算で出せない理由｜GEARNOTE</title>
+<meta name="description" content="スマホの電池容量とモバイルバッテリーのmAhを、そのまま割り算して充電回数にできない理由を、経済産業省・国土交通省とメーカー公式の資料で確認しました。Pixel 10の例と、GEARNOTE掲載7台のWh表記の割り戻し計算つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="スマホの電池容量（mAh）とモバイルバッテリー容量の読み方｜「何回充電できるか」を割り算で出せない理由｜GEARNOTE">
+<meta property="og:description" content="スマホの電池容量とモバイルバッテリーのmAhを、そのまま割り算して充電回数にできない理由を、経済産業省・国土交通省とメーカー公式の資料で確認しました。Pixel 10の例と、GEARNOTE掲載7台のWh表記の割り戻し計算つきです。">
+<meta property="og:url" content="https://gearnote.net/words-mah-iphone">
+<link rel="canonical" href="https://gearnote.net/words-mah-iphone">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="スマホの電池容量（mAh）とモバイルバッテリー容量の読み方｜「何回充電できるか」を割り算で出せない理由｜GEARNOTE">
+<meta name="twitter:description" content="スマホの電池容量とモバイルバッテリーのmAhを、そのまま割り算して充電回数にできない理由を、経済産業省・国土交通省とメーカー公式の資料で確認しました。Pixel 10の例と、GEARNOTE掲載7台のWh表記の割り戻し計算つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"スマホの電池容量（mAh）とモバイルバッテリー容量の読み方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"10000mAhのモバイルバッテリーで、5000mAhのスマホは2回充電できますか？","acceptedAnswer":{"@type":"Answer","text":"単純な割り算の2回にはなりません。電圧の違いと変換の損失があるためです。Anker Japanの公式FAQは、10,000mAhのモバイルバッテリーは通常約5,500〜6,500mAh相当で使える、と説明しています。"}},{"@type":"Question","name":"iPhoneの電池容量（mAh）は、どこで分かりますか？","acceptedAnswer":{"@type":"Answer","text":"2026年11月15日に確認したiPhone 17の仕様ページには、mAhやWhの数字は書かれておらず、ビデオ再生の時間で電池の持ちが示されています。GEARNOTEでは、メーカーの公式ページにない電池容量は載せていません。"}},{"@type":"Question","name":"モバイルバッテリーのmAhは、内蔵電池の容量ですか？","acceptedAnswer":{"@type":"Answer","text":"そうとは限りません。経済産業省のFAQでは、PSEの表示の定格容量はモバイルバッテリーとして5時間にわたり供給できる電気容量で、内蔵する電池の容量と一致するものではないとされています。"}},{"@type":"Question","name":"mAhとWhは、どちらで比べればいいですか？","acceptedAnswer":{"@type":"Answer","text":"電圧が違うとmAhは比べられないため、Whが書かれていればWhで比べるのが確実です。WhはmAh×電圧÷1000で求めます（国土交通省の案内の式）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ スマホの電池容量（mAh）とモバイルバッテリー容量の読み方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">スマホの電池容量（mAh）とモバイルバッテリー容量の読み方｜割り算で充電回数を出せない理由</h1>
+        <p class="desc">「10000mAhのモバイルバッテリーで、5000mAhのスマホが2回」とはなりません。電圧と変換の損失という2つの理由を、公的な資料とメーカー公式の説明で確かめてまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月15日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>スマホの電池容量は、どこに書かれているか</h2>
+        <p>スマホの電池容量（mAh）は、メーカーの技術仕様のページに書かれていることもあれば、書かれていないこともあります。2026年11月15日に、2社の公式の仕様ページで確認しました。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>機種</th><th>メーカーの仕様ページの電池の記載</th><th>出典</th></tr></thead>
+            <tbody>
+            <tr><th>Google Pixel 10</th><td>標準 4,970mAh（最小 4,835mAh）</td><td><a href="https://store.google.com/jp/product/pixel_10_specs?hl=ja" target="_blank" rel="noopener">Google Store</a></td></tr>
+            <tr><th>Google Pixel 10 Pro</th><td>標準 4,870mAh（最小 4,707mAh）</td><td><a href="https://store.google.com/jp/product/pixel_10_pro_specs?hl=ja" target="_blank" rel="noopener">Google Store</a></td></tr>
+            <tr><th>Google Pixel 10 Pro XL</th><td>標準 5,200mAh（最小 5,079mAh）</td><td><a href="https://store.google.com/jp/product/pixel_10_pro_specs?hl=ja" target="_blank" rel="noopener">Google Store</a></td></tr>
+            <tr><th>Apple iPhone 17</th><td>ビデオ再生 最大30時間、ビデオ再生（ストリーミング）最大27時間、リチャージャブルリチウムイオンバッテリー内蔵。mAh・Whの数字は書かれていない</td><td><a href="https://www.apple.com/jp/iphone-17/specs/" target="_blank" rel="noopener">Apple</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Googleは、電池容量を「標準」と「最小」の2つの数字で書いています。同じ機種でも、電池には個体差があり、どちらの数字を使うかで計算の結果が変わります。Appleの仕様ページは、mAhではなく、ビデオ再生の時間で電池の持ちを示しています。GEARNOTEでは、メーカーの公式ページに書かれていない電池容量は、載せていません。</p>
+        <p>また、Googleの仕様ページには、電池の電圧は書かれていません。後で説明するとおり、mAhだけでは、電池にためられるエネルギー（Wh）は決まりません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>モバイルバッテリーのmAhは、何の数字か</h2>
+        <p>mAh（ミリアンペアアワー）は、電気の量（電荷）の単位です。経済産業省のFAQでも、mは1000分の1を表す接頭語で、2000mAhと書いても2Ahと書いても、単位としては同じとされています（<a href="https://www.meti.go.jp/policy/consumer/seian/denan/mlb_faq.html" target="_blank" rel="noopener">経済産業省のFAQ A.26</a>）。</p>
+        <p>エネルギーの量（Wh）は、mAhに電圧をかけて求めます。国土交通省の案内では、Wh＝定格容量(mAh)×定格電圧(V)÷1,000の式と、定格容量27,000mAh・定格電圧3.7Vで99.9Whという例が示されています（<a href="https://www.mlit.go.jp/report/press/content/001995959.pdf" target="_blank" rel="noopener">国土交通省の案内（PDF）</a>）。</p>
+        <p>ところが、モバイルバッテリーに書く電圧は、内蔵の電池の電圧と同じとは限りません。経済産業省のFAQでは、3.7Vの電池を内蔵して、出力を5Vに昇圧しているモバイルバッテリーで、表示すべき電圧は5Vとされています（<a href="https://www.meti.go.jp/policy/consumer/seian/denan/mlb_faq.html" target="_blank" rel="noopener">経済産業省のFAQ A.23</a>）。さらに、PSEの表示の「定格容量」は、モバイルバッテリーとして5時間にわたり供給できる電気容量で、<strong>内蔵する電池の容量と一致するものではない</strong>とされています（<a href="https://www.meti.go.jp/policy/consumer/seian/denan/mlb_faq.html" target="_blank" rel="noopener">同 A.24</a>）。</p>
+        <p>つまり、商品名やパッケージの「10000mAh」が、どの電圧での数字なのか、内蔵電池の容量なのかは、それだけでは分かりません。<strong>電圧が違えば、mAhどうしは比べられません。</strong>この点は、<a href="tool-mah-wh">mAhとWhの換算ツール</a>でも、3.7Vと5Vの両方で計算できるようにしています（どちらが正しいとは決めていません）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>割り算で充電回数を出せない2つの理由</h2>
+        <p>「モバイルバッテリーのmAh÷スマホのmAh＝充電できる回数」とならない理由は、大きく2つです。</p>
+        <p><strong>1つ目は、電圧の違い</strong>です。上で見たとおり、mAhは電圧がそろっていないと比べられません。スマホの電池の電圧がメーカーの仕様ページに書かれていない場合、正確なWhは分かりません。</p>
+        <p><strong>2つ目は、変換の損失</strong>です。Anker Japanの公式FAQは、10,000mAhのモバイルバッテリーでスマートフォンを約2回しか満充電できない理由として、充電回路の損失や電圧の変換などで使用中に電力が30%〜45%消費され、通常は約5,500mAh〜6,500mAh相当で使える、と説明しています（<a href="https://www.ankerjapan.com/blogs/faq/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC" target="_blank" rel="noopener">Anker Japanの公式FAQ</a>）。</p>
+        <p>Ankerの英語のサポート記事は、損失を2段階に分けて説明しています。モバイルバッテリーの中で、電池の電圧を出力の電圧に変える段階と、スマホの中で、受け取った電圧を自分の電池に合わせて変える段階で、それぞれ約82%の効率、合わせて約67%（0.82×0.82）です。回数の目安は「（モバイルバッテリーの容量×総合効率）÷端末の電池容量」で、10,000mAhと3,200mAhなら約2.1回、という例が示されています（<a href="https://service.anker.com/article-description/Why-Doesn-t-My-Power-Bank-Charge-My-Devices-as-Many-Times-as-Expected" target="_blank" rel="noopener">Ankerのサポート記事（英語）</a>）。</p>
+        <p>どちらも、Ankerが自社の説明として示している数字です。ほかのメーカーの製品や、ワイヤレス充電、充電しながらの使用などで、同じ割合になるとは限りません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>計算してみる（Pixel 10の標準容量を例に）</h2>
+        <p>Google Pixel 10の標準容量4,970mAhを例に、①単純な割り算、②Ankerの英語記事の総合効率67%を当てはめた計算、③Anker Japanの「10,000mAhで5,500〜6,500mAh相当」（55〜65%）を当てはめた計算を並べました（GEARNOTE運営の計算・集計、2026年11月15日）。<strong>実際に充電できる回数を示すものではありません。</strong>電圧の違いは、この計算には入っていません。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>モバイルバッテリーの容量</th><th>①単純な割り算</th><th>②×67%（Ankerの英語記事の効率）</th><th>③×55〜65%（Anker Japanの説明）</th></tr></thead>
+            <tbody>
+            <tr><th>5,000 mAh</th><td>1.0回</td><td>0.7回</td><td>0.6〜0.7回</td></tr>
+            <tr><th>10,000 mAh</th><td>2.0回</td><td>1.3回</td><td>1.1〜1.3回</td></tr>
+            <tr><th>20,000 mAh</th><td>4.0回</td><td>2.7回</td><td>2.2〜2.6回</td></tr>
+            <tr><th>25,000 mAh</th><td>5.0回</td><td>3.4回</td><td>2.8〜3.3回</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>同じ10,000mAhでも、①の2.0回と、②の1.3回では、大きく違います。また、Pixel 10の「最小」4,835mAhで計算すると、回数はわずかに増えます。数字を1つ決めて「何回」と言い切ることはできず、目安には幅があると考えてください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTE掲載のモバイルバッテリー（27台）の書かれ方</h2>
+        <p>GEARNOTEの<a href="data-power-bank">モバイルバッテリーの仕様一覧</a>に載せている27台のうち、mAhの容量が書かれているのは23台です。容量ごとの台数は、25,000mAhが1台、20,100mAhが1台、20,000mAhが3台、10,000mAhが12台、5,000mAhが5台、950mAhが1台でした（GEARNOTE運営の計算・集計、2026年11月15日）。</p>
+        <p>このうち、メーカー公開仕様のブロックか、仕様表に、Whの数字（機内持ち込みの基準の100Wh・160Whを除く）も書かれていたのは7台です。書かれたWhを、書かれたmAhで割り戻すと、計算に使われたと考えられる電圧が出ます。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>容量（mAh）</th><th>書かれたWh</th><th>Whの書かれていた場所</th><th>Wh×1000÷mAh（V）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-elecom-mobile-battery-10000mah">エレコム モバイルバッテリー 10000mAh</a></th><td>10,000</td><td>37</td><td>メーカー公開仕様のブロック</td><td>3.70</td></tr>
+            <tr><th><a href="product-yamazen-semi-solid-power-bank-10000mah-pd35w-ymb-a100">山善 準固体電池モバイルバッテリー YMB-A100(B)（10000mAh・PD35W・ブラック）</a></th><td>10,000</td><td>37</td><td>仕様表（Amazon掲載情報）</td><td>3.70</td></tr>
+            <tr><th><a href="product-owltech-semi-solid-power-bank-10000-oec-lpb10024">オウルテック 準固体電池モバイルバッテリー 10000mAh</a></th><td>10,000</td><td>38.5</td><td>メーカー公開仕様のブロック</td><td>3.85</td></tr>
+            <tr><th><a href="product-anker-maggo-power-bank-10000mah-slim-a1664">Anker MagGo Power Bank (10000mAh, Slim)</a></th><td>10,000</td><td>38.7</td><td>仕様表（Amazon掲載情報）</td><td>3.87</td></tr>
+            <tr><th><a href="product-anker-nano-power-bank-maggo-plus-10000mah-black">Anker Nano Power Bank (MagGo, Plus)</a></th><td>10,000</td><td>39.2</td><td>仕様表（Amazon掲載情報）</td><td>3.92</td></tr>
+            <tr><th><a href="product-elecom-ac-integrated-mobile-battery-ec-c57lmn-5000mah-67w">エレコム AC充電器一体型モバイルバッテリー EC-C57LMN（5000mAh・最大67W）</a></th><td>5,000</td><td>18</td><td>メーカー公開仕様のブロック</td><td>3.60</td></tr>
+            <tr><th><a href="product-cio-smartcoby-ex02-magnetic-powerbank">CIO SMARTCOBY Ex02 マグネットモバイルバッテリー</a></th><td>5,000</td><td>18.5</td><td>メーカー公開仕様のブロック</td><td>3.70</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>割り戻した電圧は、3.60Vから3.92Vまでばらつきました。同じ10,000mAhでも、書かれたWhは37Wh・38.5Wh・38.7Wh・39.2Whと違います。メーカーごとに、Whの計算に使う電圧（電池の電圧の考え方）が違うためと読めますが、どの電圧を使ったかは、各メーカーの説明では確認していません。</p>
+        <p>Amazon掲載情報だけをもとにした仕様表の数字は、メーカー公式の説明で確認できたものではありません。この集計は、GEARNOTEに載せている商品の範囲のものです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>読むときのチェックリスト</h2>
+        <ul><li><strong>スマホ側</strong>：メーカーの仕様ページに電池容量があるか。「標準」「最小」のどちらの数字か。</li><li><strong>モバイルバッテリー側</strong>：mAhのほかに、Whや定格容量、電圧が書かれているか。</li><li><strong>電圧</strong>：mAhどうしを比べる前に、どの電圧の数字かを確認する。分からなければ、Whで比べる。</li><li><strong>損失</strong>：変換の損失があるので、単純な割り算の回数にはならない。</li><li><strong>機内持ち込み</strong>：本体に書かれたWhで確認する（<a href="tool-mah-wh">mAhとWhの換算</a>）。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した、公的な機関・規格団体・メーカーの資料にもとづきます（出典のリンクは各項目に付けています）。GEARNOTEの商品ページの数字は、このページを作るプログラムが、商品ページの文字を数えたものです（GEARNOTE運営の計算・集計、2026年11月15日）。</p>
+        <ul><li>iPhoneの電池容量（mAh・Wh）は、Appleの仕様ページに書かれていないため、載せていません。</li><li>Pixelの電池の電圧は、Googleの仕様ページに書かれていないため、Whへの換算はしていません。</li><li>変換の効率（67%・55〜65%）は、Ankerが自社の説明として示している数字です。ほかのメーカーの製品に同じ数字が当てはまるかは、確認していません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「スマホの電池容量（mAh）とモバイルバッテリー容量の読み方」（2026年11月15日のデータ、2026年11月15日集計）　https://gearnote.net/words-mah-iphone</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-mah-iphone"&gt;GEARNOTE「スマホの電池容量（mAh）とモバイルバッテリー容量の読み方」（2026年11月15日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>10000mAhのモバイルバッテリーで、5000mAhのスマホは2回充電できますか？</h3>
+            <p>単純な割り算の2回にはなりません。電圧の違いと変換の損失があるためです。Anker Japanの公式FAQは、10,000mAhのモバイルバッテリーは通常約5,500〜6,500mAh相当で使える、と説明しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>iPhoneの電池容量（mAh）は、どこで分かりますか？</h3>
+            <p>2026年11月15日に確認したiPhone 17の仕様ページには、mAhやWhの数字は書かれておらず、ビデオ再生の時間で電池の持ちが示されています。GEARNOTEでは、メーカーの公式ページにない電池容量は載せていません。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>モバイルバッテリーのmAhは、内蔵電池の容量ですか？</h3>
+            <p>そうとは限りません。経済産業省のFAQでは、PSEの表示の定格容量はモバイルバッテリーとして5時間にわたり供給できる電気容量で、内蔵する電池の容量と一致するものではないとされています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>mAhとWhは、どちらで比べればいいですか？</h3>
+            <p>電圧が違うとmAhは比べられないため、Whが書かれていればWhで比べるのが確実です。WhはmAh×電圧÷1000で求めます（国土交通省の案内の式）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="tool-mah-wh">mAhとWhの換算（機内持ち込みの確認）</a></li><li><a href="data-power-bank">モバイルバッテリーの仕様一覧</a></li><li><a href="words-usb-pd">USB PDのW数の読み方</a></li><li><a href="words-wireless-charging-safety">ワイヤレス充電の異物検知・発熱の注意</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

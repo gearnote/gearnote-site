@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NVMeとSATAの違い｜M.2・PCIeとSSDの速度表記の読み方｜GEARNOTE</title>
+<meta name="description" content="SSDのNVMeとSATAの違い、M.2が形の名前でNVMeとは限らないこと、SATA 6Gb/sの正しい呼び方、公称の最大速度の読み方を、NVM Express・SATA-IOとメーカーの資料で確かめて、掲載SSDの仕様と並べました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="NVMeとSATAの違い｜M.2・PCIeとSSDの速度表記の読み方｜GEARNOTE">
+<meta property="og:description" content="SSDのNVMeとSATAの違い、M.2が形の名前でNVMeとは限らないこと、SATA 6Gb/sの正しい呼び方、公称の最大速度の読み方を、NVM Express・SATA-IOとメーカーの資料で確かめて、掲載SSDの仕様と並べました。">
+<meta property="og:url" content="https://gearnote.net/words-nvme-sata">
+<link rel="canonical" href="https://gearnote.net/words-nvme-sata">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="NVMeとSATAの違い｜M.2・PCIeとSSDの速度表記の読み方｜GEARNOTE">
+<meta name="twitter:description" content="SSDのNVMeとSATAの違い、M.2が形の名前でNVMeとは限らないこと、SATA 6Gb/sの正しい呼び方、公称の最大速度の読み方を、NVM Express・SATA-IOとメーカーの資料で確かめて、掲載SSDの仕様と並べました。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"NVMeとSATAの違い（M.2・PCIe）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"M.2のSSDは、すべてNVMeですか？","acceptedAnswer":{"@type":"Answer","text":"いいえ。M.2は形の名前で、SATA-IOは、M.2をPCIeやSATAなどに対応する小型のカードとコネクターと説明しています。同じM.2でも、NVMe（PCIe）のSSDとSATAのSSDがあるので、インターフェースの欄で確認してください。"}},{"@type":"Question","name":"SATA IIIとSATA 6Gb/sは同じですか？","acceptedAnswer":{"@type":"Answer","text":"同じ世代を指しますが、SATA-IOは「SATA III」を誤った呼び方として、製品名では「SATA 6Gb/s」と書くよう定めています。第3世代（Revision 3.x）の最大の転送速度は6Gb/sです。"}},{"@type":"Question","name":"SSDの「最大7,000MB/s」は、いつでも出る速度ですか？","acceptedAnswer":{"@type":"Answer","text":"メーカーが示す最大の数字です。GEARNOTEに載せているSamsungのSSDでは、性能値はメーカーのテスト環境のもので、書き込みはキャッシュ機能の有効時の最大値と注記されています。条件の注記もあわせて読んでください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ NVMeとSATAの違い（M.2・PCIe）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">NVMeとSATAの違い｜M.2は形の名前、NVMeとSATAはつなぎ方の名前</h1>
+        <p class="desc">「M.2のSSD＝NVMe」ではありません。形の名前と、つなぎ方の名前を分けて読む方法を、規格団体の資料で確かめてまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>3つの言葉は、それぞれ別のものを指す</h2>
+        <p>SSDの仕様には、「NVMe」「SATA」「M.2」「PCIe」が並んで書かれます。似た場所に出てきますが、指しているものが違います。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>言葉</th><th>何を指すか</th><th>確認できた資料</th></tr></thead>
+            <tbody>
+            <tr><th>NVMe（NVM Express）</th><td>PCI Expressでつながるストレージのための、レジスタインターフェースとコマンドセット（ソフトウェアとのやり取りの決まり）</td><td><a href="https://nvmexpress.org/about/" target="_blank" rel="noopener">NVM Express</a></td></tr>
+            <tr><th>PCIe（PCI Express）</th><td>NVMeのSSDがつながる通り道（インターフェース）。仕様では「PCIe 4.0 x4」のように、世代とレーン数で書かれる</td><td><a href="https://nvmexpress.org/specifications/" target="_blank" rel="noopener">NVM Express</a></td></tr>
+            <tr><th>SATA（Serial ATA）</th><td>ストレージのインターフェース。現在の第3世代は最大6Gb/sで、「SATA 6Gb/s」と呼ぶよう定められている</td><td><a href="https://sata-io.org/developers/sata-naming-guidelines" target="_blank" rel="noopener">SATA-IO</a></td></tr>
+            <tr><th>M.2</th><td>小型のカードとコネクターの形。Wi-Fi・WWAN・USB・PCIe・SATAなどの用途に使われる</td><td><a href="https://sata-io.org/sata-m2-card" target="_blank" rel="noopener">SATA-IO</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>NVM Expressによると、NVMeは、PCIe SSDの事実上の業界標準と広く見なされています。また、NVMeは、U.2・M.2・AIC・EDSFFといった、あらゆる形のSSDの業界標準です。NVMeの仕様の最新版は、2026年8月4日に公開されています（<a href="https://nvmexpress.org/specifications/" target="_blank" rel="noopener">NVM Expressの仕様のページ</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>「M.2＝NVMe」ではない</h2>
+        <p>M.2は、形の名前です。SATA-IOは、M.2を「Wi-Fi・WWAN・USB・PCIe・SATAなどに対応する、小型のカードとコネクター」と説明し、SATAでつながるM.2のカードは、多くの場合SSDだとしています（<a href="https://sata-io.org/sata-m2-card" target="_blank" rel="noopener">SATA-IO</a>）。つまり、同じM.2の形でも、<strong>中身がNVMe（PCIe）のSSDと、SATAのSSDがあります</strong>。</p>
+        <p>Dellのサポート文書では、次のように説明されています（<a href="https://www.dell.com/support/kbdoc/000144170" target="_blank" rel="noopener">Dellのサポート文書</a>）。</p>
+        <ul><li>「2280」は、幅22mm・長さ80mmの意味です。最初の2桁が幅、続く数字が長さです。</li><li>SATAでつながるSSDは、Bキー（切り欠きの位置）を使う傾向があり、PCIe x4でつながるSSDは、Mキーを使います。</li><li>SATAでつながるM.2のSSDは、SATAのコネクターを使うSSDと同様の性能で、形がより小さいものです。PCIeでつながるM.2のSSDは、SATAでつながるM.2のSSDより高速です。</li></ul>
+        <p>パソコンのM.2スロットが、PCIeとSATAのどちらに対応しているかは、機器ごとに違います。差し込めることと、使えることは別です。パソコンやマザーボードの仕様で、対応するインターフェースを確認してください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>SATAの呼び方：「SATA III」ではなく「SATA 6Gb/s」</h2>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>SATAの改訂版</th><th>世代</th><th>最大の転送速度</th><th>製品での呼び方</th></tr></thead>
+            <tbody>
+            <tr><th>Revision 3.x</th><td>第3世代</td><td>6Gb/s</td><td>SATA 6Gb/s</td></tr>
+            <tr><th>Revision 2.x</th><td>第2世代</td><td>3Gb/s</td><td>SATA 3Gb/s</td></tr>
+            <tr><th>Revision 1.x</th><td>第1世代</td><td>1.5Gb/s</td><td>SATA 1.5Gb/s</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>SATA-IOは、「SATA III」「SATA 3.0」「SATA II」という呼び方は誤りで、混乱のもとになるとして、製品名では「SATA 6Gb/s」のように速度で書くよう定めています（<a href="https://sata-io.org/developers/sata-naming-guidelines" target="_blank" rel="noopener">SATA-IOの命名ガイドライン</a>）。商品ページで「SATA III」と書かれていても、指しているのは6Gb/sの世代です。</p>
+        <p>単位にも注意が必要です。SATAの「6Gb/s」はビット、SSDの速度の「MB/s」はバイトです。1バイト＝8ビットとして単純に割ると、6Gb/sは750MB/sです（GEARNOTE運営の計算）。GEARNOTEに載せているSATA SSD（2.5インチ）のメーカー公開仕様では、連続読出の最大が555MB/sで、この換算の数字より小さい値です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>公称の速度（最大○○MB/s）の読み方</h2>
+        <p>SSDの「連続読出（最大）」「シーケンシャル読み出し（最大）」は、メーカーが示す最大の数字です。GEARNOTEに載せているSamsungのSSDのメーカー公開仕様には、性能値はメーカーのテスト環境のもので、書き込みは「Intelligent TurboWrite」有効時の最大値である、と注記されています（<a href="product-samsung-990-pro-nvme-ssd-1tb">990 PRO</a>、<a href="product-samsung-990-evo-plus-nvme-ssd-1tb">990 EVO Plus</a>）。</p>
+        <ul><li><strong>連続（シーケンシャル）とランダムは別の数字</strong>：大きなファイルを続けて読む速度（MB/s）と、小さなデータをばらばらに読む性能（IOPS）は、別の項目として書かれます。</li><li><strong>世代とレーン数</strong>：「PCIe 4.0 x4」の4.0は世代、x4はレーン（通り道）の数です。同じ製品でも「PCIe Gen 4.0 x4／5.0 x2」のように、2通りの接続が書かれていることがあります。</li><li><strong>下位互換の書き方</strong>：「PCIe 3.0と下位互換」のように書かれていても、古い世代のスロットで使うときに、最大の数字がそのまま出るとは書かれていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>掲載しているSSDの仕様（6商品）</h2>
+        <p>GEARNOTEの商品ページの「メーカー公開仕様」の欄から、内蔵用のSSD6商品（NVMe 5・SATA 1）の、インターフェース・形・連続読出の最大値を並べました。<strong>実際の測定結果ではなく、メーカーが書いた数字です。</strong></p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>インターフェース</th><th>形（フォームファクター）</th><th>連続読出（最大）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-samsung-990-pro-nvme-ssd-1tb">Samsung 990 PRO 1TB</a></th><td>PCIe Gen 4.0 x4、NVMe 2.0</td><td>M.2 2280</td><td>7,450MB/s</td></tr>
+            <tr><th><a href="product-samsung-990-evo-plus-nvme-ssd-1tb">Samsung 990 EVO Plus 1TB</a></th><td>PCIe Gen 4.0 x4／5.0 x2、NVMe 2.0</td><td>M.2 2280</td><td>7,150MB/s</td></tr>
+            <tr><th><a href="product-kioxia-exceria-plus-g3-nvme-1tb">KIOXIA EXCERIA PLUS G3 1TB</a></th><td>PCIe 4.0 x4、NVMe 1.4</td><td>M.2 Type 2280-S4-M</td><td>5,000MB/s</td></tr>
+            <tr><th><a href="product-nextorage-nem-pad-2tb-ps5-internal-ssd-heatsink">Nextorage NEM-PAD 2TB</a></th><td>PCIe 4.0 × 4、NVMe 2.0</td><td>M.2 2280-S2-M</td><td>（記載なし）</td></tr>
+            <tr><th><a href="product-kioxia-nvme-pcie5-2tb-ssd">KIOXIA EXCERIA PRO G2 2TB</a></th><td>PCIe 5.0 x4、NVMe 2.0d</td><td>M.2 Type 2280-S3-M</td><td>14,900MB/s</td></tr>
+            <tr><th><a href="product-kioxia-exceria-sata-ssd-480gb">KIOXIA EXCERIA SATA SSD 480GB</a></th><td>SATA 6Gbit/s</td><td>2.5インチ、厚さ7mm</td><td>555MB/s</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>GEARNOTE掲載の範囲では、PCIe 4.0 x4のNVMe SSDの連続読出（最大）は5,000〜7,450MB/s、PCIe 5.0 x4のNVMe SSDは14,900MB/s、SATA SSDは555MB/sでした。世代が同じでも、製品によって数字は違います。</p>
+        <p>持ち運び用のポータブルSSDは、USBでつながります。<a href="data-external-storage">外付けストレージの仕様一覧</a>のポータブルSSD13台のうち、最大読出の数字があるのは9台で、430〜4,000MB/sでした。USBの速度の読み方は、<a href="words-usb-speed">USBのデータ転送速度の読み方</a>にまとめています。</p>
+        <p>この表は、GEARNOTEに載せている商品の範囲のもので、市場全体の傾向を示すものではありません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>商品ページで確認したいこと</h2>
+        <ul><li>インターフェースの欄：「NVMe」「PCIe 4.0 x4」などと書かれているか、「SATA 6Gb/s」と書かれているか。</li><li>形の欄：「M.2 2280」「2.5インチ」など。M.2と書いてあっても、NVMeかSATAかは、インターフェースの欄で確認します。</li><li>取り付ける機器の側：M.2スロットが対応するインターフェース（PCIe・SATA）と、長さ（2280など）。</li><li>速度の欄：「最大」の数字か、どんな条件の数字か（テスト環境・キャッシュ有効時などの注記）。</li><li>容量の表示が、パソコンで少なく見える理由は、<a href="words-capacity">容量表記の違い</a>にまとめています。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的な資料・規格団体・メーカーの資料にもとづきます（リンク先は、各項目に付けています）。GEARNOTEのデータの数字は、GEARNOTE運営が、掲載ページから数えたものです。規格や制度は、改正されることがあります。</p>
+        <ul><li>PCIeの世代ごとの転送速度（GT/s）は、規格団体のページを開いて確認できなかったため、表にしていません。世代の違いは、掲載商品のメーカー公開仕様の数字だけで示しています。</li><li>SATA 6Gb/sの実効の速度が何MB/sになるかを示す、規格団体の資料は確認できていません。上の750MB/sは、単純な単位の換算です。</li><li>M.2の「2280-S3-M」の「S3」などの記号の意味は、確認できなかったので書いていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「NVMeとSATAの違い（M.2・PCIe）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-nvme-sata</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-nvme-sata"&gt;GEARNOTE「NVMeとSATAの違い（M.2・PCIe）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>M.2のSSDは、すべてNVMeですか？</h3>
+            <p>いいえ。M.2は形の名前で、SATA-IOは、M.2をPCIeやSATAなどに対応する小型のカードとコネクターと説明しています。同じM.2でも、NVMe（PCIe）のSSDとSATAのSSDがあるので、インターフェースの欄で確認してください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>SATA IIIとSATA 6Gb/sは同じですか？</h3>
+            <p>同じ世代を指しますが、SATA-IOは「SATA III」を誤った呼び方として、製品名では「SATA 6Gb/s」と書くよう定めています。第3世代（Revision 3.x）の最大の転送速度は6Gb/sです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>SSDの「最大7,000MB/s」は、いつでも出る速度ですか？</h3>
+            <p>メーカーが示す最大の数字です。GEARNOTEに載せているSamsungのSSDでは、性能値はメーカーのテスト環境のもので、書き込みはキャッシュ機能の有効時の最大値と注記されています。条件の注記もあわせて読んでください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="data-external-storage">外付けストレージの仕様一覧</a></li><li><a href="guide-external-storage">外付けストレージの選び方</a></li><li><a href="words-usb-speed">USBのデータ転送速度の読み方</a></li><li><a href="words-capacity">容量表記の違い</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

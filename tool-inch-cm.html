@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>インチ・V型をcmに換算｜画面サイズから幅・高さを計算（16:9・16:10・21:9・4:3）｜GEARNOTE</title>
+<meta name="description" content="モニター・テレビ・タブレットの画面サイズ（インチ・V型）とアスペクト比（16:9・16:10・21:9・4:3・3:2）から、画面の幅・高さ・対角をcmで計算するツールです。1インチ＝2.54cmの根拠と、「V型」の意味、掲載商品のサイズ別の目安表を載せています。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="インチ・V型をcmに換算｜画面サイズから幅・高さを計算（16:9・16:10・21:9・4:3）｜GEARNOTE">
+<meta property="og:description" content="モニター・テレビ・タブレットの画面サイズ（インチ・V型）とアスペクト比（16:9・16:10・21:9・4:3・3:2）から、画面の幅・高さ・対角をcmで計算するツールです。1インチ＝2.54cmの根拠と、「V型」の意味、掲載商品のサイズ別の目安表を載せています。">
+<meta property="og:url" content="https://gearnote.net/tool-inch-cm">
+<link rel="canonical" href="https://gearnote.net/tool-inch-cm">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="インチ・V型をcmに換算｜画面サイズから幅・高さを計算（16:9・16:10・21:9・4:3）｜GEARNOTE">
+<meta name="twitter:description" content="モニター・テレビ・タブレットの画面サイズ（インチ・V型）とアスペクト比（16:9・16:10・21:9・4:3・3:2）から、画面の幅・高さ・対角をcmで計算するツールです。1インチ＝2.54cmの根拠と、「V型」の意味、掲載商品のサイズ別の目安表を載せています。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"インチ・V型からcmへの換算（画面の幅と高さ）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"1インチは何cmですか？","acceptedAnswer":{"@type":"Answer","text":"1インチは2.54cmです。米国国立標準技術研究所（NIST）の換算表で、正確な値として示されています。"}},{"@type":"Question","name":"27インチのモニターの幅と高さは、何cmですか？","acceptedAnswer":{"@type":"Answer","text":"画面の比率が16:9なら、画面の幅は約59.8cm、高さは約33.6cmです（三平方の定理による計算）。縁やスタンドを含む本体の大きさは、これより大きくなるので、メーカーの外形寸法で確かめてください。"}},{"@type":"Question","name":"「V型」と「インチ」は違うものですか？","acceptedAnswer":{"@type":"Answer","text":"TVS REGZAの総合カタログは、「V型」を、映像が映る有効画面の対角寸法をインチで測った値、と説明しています。数字の単位はインチで、縁は含みません。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="tools">計算ツール</a> ／ インチ・V型からcmへの換算（画面の幅と高さ）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">インチ・V型をcmに換算する｜画面サイズとアスペクト比から、幅と高さを計算</h1>
+        <p class="desc">画面サイズ（対角のインチ数）と縦横の比率から、画面の幅と高さをcmで計算します。同じインチ数でも、比率が違うと幅と高さが変わります。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+          .tl-check{display:flex;gap:8px;align-items:center;margin-top:10px;font-size:.9rem;}
+          .tl-big{font-size:1.15rem;font-weight:700;}
+          .tl-box [hidden]{display:none!important;}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="ic-d">画面サイズ（インチ・V型の数字）</label><input id="ic-d" type="number" inputmode="decimal" min="0" step="any" value="27"></div>
+            <div class="tl-field"><label for="ic-r">画面の縦横の比率（アスペクト比）</label><select id="ic-r"><option value="0" selected>16:9</option><option value="1">16:10</option><option value="2">21:9</option><option value="3">4:3</option><option value="4">3:2</option><option value="c">そのほか（自分で入れる）</option></select></div>
+          </div>
+          <div class="tl-row" id="ic-custom" hidden>
+            <div class="tl-field"><label for="ic-a">比率の横（解像度の横の画素数でも可）</label><input id="ic-a" type="number" inputmode="decimal" min="0" step="any" value="2360"></div>
+            <div class="tl-field"><label for="ic-b">比率の縦（解像度の縦の画素数でも可）</label><input id="ic-b" type="number" inputmode="decimal" min="0" step="any" value="1640"></div>
+          </div>
+          <div class="tl-presets"><span class="tl-note">画面サイズの例：</span><button type="button" data-ic="13.3">13.3</button><button type="button" data-ic="15.6">15.6</button><button type="button" data-ic="24">24</button><button type="button" data-ic="27">27</button><button type="button" data-ic="32">32</button><button type="button" data-ic="43">43</button><button type="button" data-ic="55">55</button><button type="button" data-ic="65">65</button></div>
+          <p class="tl-result" id="ic-sum" aria-live="polite"></p>
+          <p class="tl-note">画面（映像が映る部分）の寸法です。本体の外形寸法（縁・スタンドを含む大きさ）ではありません。</p>
+        </div>
+        <div id="ic-out"></div>
+        <script>
+(function(){
+function g(i){return document.getElementById(i);}
+function r1(x){return (Math.round(x*10)/10).toFixed(1);}
+var R=[["16:9",16,9],["16:10",16,10],["21:9",21,9],["4:3",4,3],["3:2",3,2]];
+
+        function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+        function renderTable(host,head,rows){host.textContent='';if(!rows.length){host.appendChild(el('p','tl-note','当てはまるものはありませんでした。'));return;}
+          var w=el('div','compare-table-wrap'),t=el('table','compare-table guide-table'),th=el('thead'),tr=el('tr');
+          head.forEach(function(h){tr.appendChild(el('th','',h));});th.appendChild(tr);t.appendChild(th);var tb=el('tbody');
+          rows.forEach(function(r){var tr2=el('tr');r.forEach(function(c,i){var cell=el(i===0?'th':'td');
+            if(c&&typeof c==='object'&&c.href){var a=el('a','',c.t);a.href=c.href;cell.appendChild(a);}else{cell.textContent=(c===null||c===undefined)?'記載なし':c;}
+            tr2.appendChild(cell);});tb.appendChild(tr2);});t.appendChild(tb);w.appendChild(t);host.appendChild(w);}
+
+function ratio(){var v=g('ic-r').value;if(v==='c'){return [parseFloat(g('ic-a').value),parseFloat(g('ic-b').value),g('ic-a').value+':'+g('ic-b').value];}var x=R[+v];return [x[1],x[2],x[0]];}
+function run(){
+  var d=parseFloat(g('ic-d').value),q=ratio(),a=q[0],b=q[1],sum=g('ic-sum');
+  g('ic-custom').hidden=g('ic-r').value!=='c';
+  if(!(d>0)||!(a>0)||!(b>0)){sum.textContent='画面サイズと比率を入れてください。';g('ic-out').textContent='';return;}
+  var k=Math.sqrt(a*a+b*b),w=d*a/k,h=d*b/k;
+  sum.textContent='';
+  var s1=document.createElement('span');s1.className='tl-big';s1.textContent='幅 約'+r1(w*2.54)+'cm × 高さ 約'+r1(h*2.54)+'cm';sum.appendChild(s1);
+  sum.appendChild(document.createTextNode('（'+d+'インチ・'+q[2]+'。対角は'+r1(d*2.54)+'cm、画面の面積は約'+Math.round(w*h*6.4516).toLocaleString('ja-JP')+'cm²）'));
+  renderTable(g('ic-out'),['比率','幅(cm)','高さ(cm)','面積(cm²)'],R.map(function(x){var kk=Math.sqrt(x[1]*x[1]+x[2]*x[2]),ww=d*x[1]/kk,hh=d*x[2]/kk;return [x[0]+'（同じ'+d+'インチ）',r1(ww*2.54),r1(hh*2.54),Math.round(ww*hh*6.4516).toLocaleString('ja-JP')];}));
+}
+['ic-d','ic-a','ic-b'].forEach(function(i){g(i).addEventListener('input',run);});g('ic-r').addEventListener('change',run);
+document.querySelectorAll('[data-ic]').forEach(function(bt){bt.addEventListener('click',function(){g('ic-d').value=bt.getAttribute('data-ic');run();});});
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>1インチ＝2.54cm です。米国国立標準技術研究所（NIST）の換算表で、正確な値（exact）として示されています（<a href="https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8" target="_blank" rel="noopener">NIST SP 811 付録B.8</a>）。</li>
+          <li>画面の横 ＝ 対角 × 横の比 ÷ √(横の比² ＋ 縦の比²)、画面の縦 ＝ 対角 × 縦の比 ÷ √(横の比² ＋ 縦の比²)。三平方の定理だけを使った計算です。</li>
+          <li>例：27インチ・16:9なら、√(16²＋9²)＝約18.36なので、横は27×16÷18.36＝約23.53インチ＝<strong>約59.8cm</strong>、縦は27×9÷18.36＝約13.24インチ＝<strong>約33.6cm</strong>です。</li>
+          <li>比率の欄には、解像度の画素数をそのまま入れても同じ結果になります（例：1920と1080は16:9と同じ比率）。</li>
+        </ul>
+        <p>よく使うサイズと比率の組み合わせを、表にしました（幅 × 高さ、cm。GEARNOTE運営の計算）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>画面サイズ</th><th>16:9</th><th>16:10</th><th>21:9</th><th>4:3</th><th>3:2</th></tr></thead>
+            <tbody>
+            <tr><th>13.3インチ</th><td>29.4 × 16.6</td><td>28.6 × 17.9</td><td>31.1 × 13.3</td><td>27.0 × 20.3</td><td>28.1 × 18.7</td></tr>
+            <tr><th>15.6インチ</th><td>34.5 × 19.4</td><td>33.6 × 21.0</td><td>36.4 × 15.6</td><td>31.7 × 23.8</td><td>33.0 × 22.0</td></tr>
+            <tr><th>24インチ</th><td>53.1 × 29.9</td><td>51.7 × 32.3</td><td>56.0 × 24.0</td><td>48.8 × 36.6</td><td>50.7 × 33.8</td></tr>
+            <tr><th>27インチ</th><td>59.8 × 33.6</td><td>58.2 × 36.3</td><td>63.0 × 27.0</td><td>54.9 × 41.1</td><td>57.1 × 38.0</td></tr>
+            <tr><th>32インチ</th><td>70.8 × 39.8</td><td>68.9 × 43.1</td><td>74.7 × 32.0</td><td>65.0 × 48.8</td><td>67.6 × 45.1</td></tr>
+            <tr><th>43インチ</th><td>95.2 × 53.5</td><td>92.6 × 57.9</td><td>100.4 × 43.0</td><td>87.4 × 65.5</td><td>90.9 × 60.6</td></tr>
+            <tr><th>50インチ</th><td>110.7 × 62.3</td><td>107.7 × 67.3</td><td>116.7 × 50.0</td><td>101.6 × 76.2</td><td>105.7 × 70.4</td></tr>
+            <tr><th>55インチ</th><td>121.8 × 68.5</td><td>118.5 × 74.0</td><td>128.4 × 55.0</td><td>111.8 × 83.8</td><td>116.2 × 77.5</td></tr>
+            <tr><th>65インチ</th><td>143.9 × 80.9</td><td>140.0 × 87.5</td><td>151.8 × 65.0</td><td>132.1 × 99.1</td><td>137.4 × 91.6</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>「V型」と「インチ」は、どこを測った数字か</h2>
+        <ul>
+          <li><strong>V型</strong>：TVS REGZAの総合カタログは、「V型」を、映像が映る有効画面の対角寸法をインチで測った値、と説明しています（<a href="https://www.regza.com/dam/jcr:51e69018-6e53-4d49-98b6-f4c15c048a91/sougou_catalog2026a.pdf" target="_blank" rel="noopener">REGZA 総合カタログ2026（PDF）の注記</a>）。つまり、縁（ベゼル）は含みません。</li>
+          <li><strong>メーカーが示すインチ数と、実際の対角が違う例</strong>：Appleは、11インチiPad Airの画面は、長方形として対角線を測った場合10.86インチで、実際の表示領域はこれより小さい、と書いています（13インチモデルは12.9インチ。<a href="https://www.apple.com/jp/ipad-air/specs/" target="_blank" rel="noopener">Apple iPad Air 技術仕様</a>）。</li>
+          <li>このため、商品名のインチ数で計算した幅・高さは、目安です。11インチiPad Air（解像度2,360×1,640）で比べると、11インチで計算すると幅 約22.9cm × 高さ 約15.9cm、Appleの書く10.86インチで計算すると幅 約22.7cm × 高さ 約15.7cmです（GEARNOTE運営の計算）。</li>
+          <li>本体の外形寸法（縁やスタンドを含む幅・高さ）は、画面の寸法とは別の数字です。置き場所に入るかどうかは、メーカーが書いている外形寸法で確かめてください。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>GEARNOTE掲載商品の画面サイズと、幅・高さの目安</h2>
+        <p>GEARNOTEのモニター18台・テレビ12台・タブレット15台（画面サイズの記載がある商品）の画面サイズごとに、幅と高さを計算しました。比率は商品ごとに確かめていないため、<strong>モニターとテレビは16:9、タブレットは4:3と16:10の両方で計算した目安</strong>です（GEARNOTE運営の計算）。</p>
+        <h3>モニター（18台）</h3>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>画面サイズ</th><th>掲載台数</th><th>16:9の幅(cm)</th><th>16:9の高さ(cm)</th></tr></thead>
+            <tbody>
+            <tr><th>15.6インチ</th><td>2台</td><td>34.5</td><td>19.4</td></tr>
+            <tr><th>23.8インチ</th><td>2台</td><td>52.7</td><td>29.6</td></tr>
+            <tr><th>24.1インチ</th><td>1台</td><td>53.4</td><td>30.0</td></tr>
+            <tr><th>24.5インチ</th><td>3台</td><td>54.2</td><td>30.5</td></tr>
+            <tr><th>27インチ</th><td>9台</td><td>59.8</td><td>33.6</td></tr>
+            <tr><th>31.5インチ</th><td>1台</td><td>69.7</td><td>39.2</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>テレビ（12台）</h3>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>画面サイズ</th><th>掲載台数</th><th>16:9の幅(cm)</th><th>16:9の高さ(cm)</th></tr></thead>
+            <tbody>
+            <tr><th>43V型</th><td>5台</td><td>95.2</td><td>53.5</td></tr>
+            <tr><th>50V型</th><td>4台</td><td>110.7</td><td>62.3</td></tr>
+            <tr><th>55V型</th><td>2台</td><td>121.8</td><td>68.5</td></tr>
+            <tr><th>65V型</th><td>1台</td><td>143.9</td><td>80.9</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>タブレット（15台）</h3>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>画面サイズ</th><th>掲載台数</th><th>4:3の幅×高さ(cm)</th><th>16:10の幅×高さ(cm)</th></tr></thead>
+            <tbody>
+            <tr><th>8.3インチ</th><td>1台</td><td>16.9 × 12.6</td><td>17.9 × 11.2</td></tr>
+            <tr><th>8.5インチ</th><td>1台</td><td>17.3 × 13.0</td><td>18.3 × 11.4</td></tr>
+            <tr><th>10.1インチ</th><td>1台</td><td>20.5 × 15.4</td><td>21.8 × 13.6</td></tr>
+            <tr><th>10.95インチ</th><td>1台</td><td>22.3 × 16.7</td><td>23.6 × 14.7</td></tr>
+            <tr><th>11インチ</th><td>5台</td><td>22.4 × 16.8</td><td>23.7 × 14.8</td></tr>
+            <tr><th>11.1インチ</th><td>1台</td><td>22.6 × 16.9</td><td>23.9 × 14.9</td></tr>
+            <tr><th>11.2インチ</th><td>2台</td><td>22.8 × 17.1</td><td>24.1 × 15.1</td></tr>
+            <tr><th>12.6インチ</th><td>1台</td><td>25.6 × 19.2</td><td>27.1 × 17.0</td></tr>
+            <tr><th>12.7インチ</th><td>1台</td><td>25.8 × 19.4</td><td>27.4 × 17.1</td></tr>
+            <tr><th>13インチ</th><td>1台</td><td>26.4 × 19.8</td><td>28.0 × 17.5</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>タブレットは、縦横の比率が機種ごとに違います（たとえば11インチiPad Airの解像度2,360×1,640は、約1.44:1で、4:3＝約1.33:1とも16:10＝1.6:1とも違います）。正確に知りたいときは、ツールの「そのほか」に、解像度の画素数を入れてください。タブレット16台のうち1台は、仕様一覧に画面サイズの記載がないため、表に入れていません。数字の元は、<a href="data-monitor">モニターの仕様一覧</a>・<a href="data-tv">テレビの仕様一覧</a>・<a href="data-tablet">タブレットの仕様一覧</a>です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>確認できなかったこと</h2>
+        <ul>
+          <li>テレビの「V型」について、業界団体（電子情報技術産業協会や全国家庭電気製品公正取引協議会）の規約の条文は、確認できませんでした。このページでは、メーカー（TVS REGZA）の説明だけを書いています。</li>
+          <li>モニターの「インチ」表記が、どこを測った数字かを定めた業界の資料は、確認できませんでした。</li>
+          <li>掲載した各商品の、正確な縦横の比率と、画面の実寸（cm）は、商品ごとには確かめていません。表は、画面サイズの数字からの計算です。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>出典（2026年11月15日確認）</h2>
+        <ul>
+          <li><a href="https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8" target="_blank" rel="noopener">NIST Special Publication 811, Appendix B.8（Factors for Units Listed Alphabetically）</a>（1インチ＝2.54cm）</li>
+          <li><a href="https://www.regza.com/dam/jcr:51e69018-6e53-4d49-98b6-f4c15c048a91/sougou_catalog2026a.pdf" target="_blank" rel="noopener">REGZA 総合カタログ 2026（PDF）1ページ目の注記</a>（V型の説明）</li>
+          <li><a href="https://www.apple.com/jp/ipad-air/specs/" target="_blank" rel="noopener">Apple iPad Air 技術仕様</a>（10.86インチ・解像度）</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「インチ・V型からcmへの換算（画面の幅と高さ）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/tool-inch-cm</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-inch-cm"&gt;GEARNOTE「インチ・V型からcmへの換算（画面の幅と高さ）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>1インチは何cmですか？</h3>
+            <p>1インチは2.54cmです。米国国立標準技術研究所（NIST）の換算表で、正確な値として示されています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>27インチのモニターの幅と高さは、何cmですか？</h3>
+            <p>画面の比率が16:9なら、画面の幅は約59.8cm、高さは約33.6cmです（三平方の定理による計算）。縁やスタンドを含む本体の大きさは、これより大きくなるので、メーカーの外形寸法で確かめてください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>「V型」と「インチ」は違うものですか？</h3>
+            <p>TVS REGZAの総合カタログは、「V型」を、映像が映る有効画面の対角寸法をインチで測った値、と説明しています。数字の単位はインチで、縁は含みません。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>関連ページ</h2>
+        <ul><li><a href="tool-ppi">ppi（画面の細かさ）の計算</a></li><li><a href="data-monitor">モニターの仕様一覧</a></li><li><a href="data-tv">テレビの仕様一覧</a></li><li><a href="data-tablet">タブレットの仕様一覧</a></li><li><a href="guide-monitor">モニターの選び方ガイド</a></li><li><a href="guide-tv">テレビの選び方ガイド</a></li><li><a href="tools">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

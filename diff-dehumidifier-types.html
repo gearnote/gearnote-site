@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>除湿機の方式の違い｜コンプレッサー式・デシカント式・ハイブリッド式と除湿能力の条件｜GEARNOTE</title>
+<meta name="description" content="除湿機のコンプレッサー式・デシカント式・ハイブリッド式の違いを、メーカー公式と日本電機工業会の資料で整理しました。除湿能力の「27℃・60％」の条件、GEARNOTE掲載12台の方式別の消費電力・タンク・質量つき。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="除湿機の方式の違い｜コンプレッサー式・デシカント式・ハイブリッド式と除湿能力の条件｜GEARNOTE">
+<meta property="og:description" content="除湿機のコンプレッサー式・デシカント式・ハイブリッド式の違いを、メーカー公式と日本電機工業会の資料で整理しました。除湿能力の「27℃・60％」の条件、GEARNOTE掲載12台の方式別の消費電力・タンク・質量つき。">
+<meta property="og:url" content="https://gearnote.net/diff-dehumidifier-types">
+<link rel="canonical" href="https://gearnote.net/diff-dehumidifier-types">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="除湿機の方式の違い｜コンプレッサー式・デシカント式・ハイブリッド式と除湿能力の条件｜GEARNOTE">
+<meta name="twitter:description" content="除湿機のコンプレッサー式・デシカント式・ハイブリッド式の違いを、メーカー公式と日本電機工業会の資料で整理しました。除湿能力の「27℃・60％」の条件、GEARNOTE掲載12台の方式別の消費電力・タンク・質量つき。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"選び方ガイド一覧","item":"https://gearnote.net/guides"},{"@type":"ListItem","position":3,"name":"除湿機の方式の違い（コンプレッサー式・デシカント式・ハイブリッド式）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"コンプレッサー式とデシカント式の違いは？","acceptedAnswer":{"@type":"Answer","text":"コンプレッサー式は空気を冷却器で冷やして湿気を水滴にし、デシカント式は乾燥剤に湿気を吸着させてヒーターで取り出します。シャープは、コンプレッサー式は暑い季節に高い能力を発揮し、デシカント式は寒い季節でも能力が落ちにくい、と説明しています。"}},{"@type":"Question","name":"ハイブリッド式は、何と何の組み合わせですか？","acceptedAnswer":{"@type":"Answer","text":"コンプレッサー方式とデシカント方式です。パナソニックは、コンプレッサーから生じる熱をデシカント方式の除湿に再利用する、と説明しています。シャープは、夏場はコンプレッサー方式、冬場はデシカント方式を併用する、と説明しています。"}},{"@type":"Question","name":"除湿能力の「27℃・60％」とは何ですか？","acceptedAnswer":{"@type":"Answer","text":"室温27℃・相対湿度60％を維持し続けたときの、1日あたりの除湿量という条件です（シャープ・三菱電機の注記）。20℃・60％の条件で書くメーカーもあるため、条件をそろえて比べてください。"}},{"@type":"Question","name":"コンプレッサー式は、なぜ冬に弱いのですか？","acceptedAnswer":{"@type":"Answer","text":"三菱電機の説明では、空気を冷やして結露させる冷却器（蒸発器）に、低温のとき霜がついて除湿ができなくなるためです。"}},{"@type":"Question","name":"除湿機と空気清浄機・加湿器の違いは？","acceptedAnswer":{"@type":"Answer","text":"除湿機は湿度を下げ、加湿器は機器から放出する水分で湿度を上げます。空気清浄機は、ファンで吸い込んだ空気をフィルタに通し、汚れやにおいを取るものが一般的です（JEMAの解説）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="guides">選び方ガイド一覧</a> ／ 除湿機の方式の違い（コンプレッサー式・デシカント式・ハイブリッド式）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">除湿機の方式の違い｜コンプレッサー式・デシカント式・ハイブリッド式</h1>
+        <p class="desc">除湿機の3つの方式の仕組みと、仕様表の除湿能力の条件を、確かめられた一次情報だけでまとめました。空気清浄機・加湿器との違いにも触れています。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月15日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>3つの方式の仕組み</h2>
+        <p>方式の違いは、空気中の水分を<strong>冷やして水にする</strong>か、<strong>乾燥剤に吸わせてヒーターで取り出す</strong>か、その<strong>組み合わせ</strong>か、です。パナソニックとシャープの公式ページの説明を並べます。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>方式</th><th>仕組み（メーカーの説明）</th><th>季節についての説明</th><th>そのほかの説明</th></tr></thead>
+            <tbody>
+            <tr><th>コンプレッサー式</th><td>湿った空気を冷却器で冷やし、湿気を水滴にしてタンクに回収する。エアコンの除湿と同じ仕組み（パナソニック）</td><td>結露しやすい暑い季節に高い能力を発揮する（シャープ）</td><td>ヒーターを使用しないため消費電力は低い。部屋の温度上昇が少ない（パナソニック）</td></tr>
+            <tr><th>デシカント式</th><td>乾燥剤（デシカント素子）に湿気を吸着させ、ヒーターで温めて蒸発した湿気を熱交換器で結露させる（パナソニック）</td><td>寒い季節でも能力が落ちにくい（シャープ）。ヒーターで暖かい空気を作れば、寒い冬でも除湿できる（パナソニック）</td><td>コンプレッサーがない分、軽量・コンパクト（パナソニック）</td></tr>
+            <tr><th>ハイブリッド式</th><td>コンプレッサー方式とデシカント方式を組み合わせ、コンプレッサーから生じる熱をデシカント方式の除湿に再利用する（パナソニック）</td><td>夏場はコンプレッサー方式で除湿し、冬場はデシカント方式を併用して除湿能力を維持する（シャープ）</td><td>—</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>出典：<a href="https://panasonic.jp/joshitsu/select/hybrid.html" target="_blank" rel="noopener">パナソニック「除湿機の方式を解説」</a>、<a href="https://jp.sharp/joshitsu/products/cvph140/feature/" target="_blank" rel="noopener">シャープ CV-PH140 特長ページ</a>。</p>
+        <p>コンプレッサー式が冬を苦手とする理由について、三菱電機は、空気を冷やして結露させる冷却器（蒸発器）に、低温のとき霜がついて除湿ができなくなるため、と説明しています（<a href="https://www.mitsubishielectric.co.jp/home/jyoshitsuki/product/mj-pv250wx/feature/" target="_blank" rel="noopener">三菱電機 MJ-PV250WX 特長ページ</a>）。</p>
+        <p>方式は、どれが優れているかではなく、<strong>使う季節と部屋の温度</strong>で向き不向きが分かれます。夏の部屋で使うか、冬の寒い部屋で使うか、一年中使うかで、仕様のどこを見るかが変わります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>除湿能力の数字には、条件がある</h2>
+        <p>仕様表の「除湿能力（L/日）」は、決まった室温と湿度のもとで、1日に取れる水の量です。シャープ CV-T71 の注記は「除湿「強」運転時。室温27℃、相対湿度60％を維持し続けたときの1日あたりの除湿量。」です（<a href="https://jp.sharp/joshitsu/products/cv-t71/spec/" target="_blank" rel="noopener">シャープ CV-T71 仕様</a>）。三菱電機も、除湿能力に「室温27℃、相対湿度60％時」と注記しています。</p>
+        <p>ところが、条件が違う書き方もあります。アイリスオーヤマの衣類乾燥除湿機の公式ページでは、定格除湿能力の条件が「室温20℃、相対湿度60%を維持し続けたときの、1日（24時間）あたりの除湿量」です（<a href="https://www.irisohyama.co.jp/products/electrical-appliances/seasonal-appliances/dehumidifier/dehumidifier-with-circulator/circulator-clothes-drying-dehumidifier" target="_blank" rel="noopener">アイリスオーヤマ公式</a>）。<strong>27℃の数字と20℃の数字は、そのまま並べられません。</strong></p>
+        <p>また、同じ機種でも、運転モードで数字が変わります。シャープ CV-TH150 は、定格除湿能力12/13L/日（除湿「標準」運転時）と、最大除湿能力13/15L/日（衣類乾燥「速乾」運転時）を、どちらも27℃・60％の条件で書き分けています。「/」の左が50Hz、右が60Hzの値です（<a href="https://jp.sharp/joshitsu/products/cv-th150/spec/" target="_blank" rel="noopener">シャープ CV-TH150 仕様</a>）。</p>
+        <p>日本電機工業会（JEMA）の規格 JEM 1411 は、JIS C 9617 にもとづく定格除湿能力から、除湿面積の値を出す方法と、取扱説明書・カタログでの表示のしかたを決めています（<a href="https://www.jema-net.or.jp/engineering/JEM_JEM-TR/JEM1411.html" target="_blank" rel="noopener">JEMA JEM 1411</a>）。アイリスオーヤマの公式ページでも、除湿可能面積の目安は「JEMA（日本電機工業会）規格に基づいた数値」と注記されています。</p>
+        <p>GEARNOTEのデータ一覧では、除湿能力の欄に、<strong>「60Hz・室温27℃・相対湿度60％」の条件が書かれた機種の数字だけ</strong>を入れています。12台のうち、この条件の数字があるのは5台です（コンプレッサー式4台、ハイブリッド式1台）。条件が違う機種や、条件の記載が確認できなかった機種は、空欄にしています（GEARNOTE運営の計算）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>方式</th><th>除湿能力（60Hz・27℃・60％、L/日）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-sharp-clothes-dryer-dehumidifier-cm-s100-w">シャープ 衣類乾燥除湿機 CM-S100-W コンプレッサー方式 10L 冷風機能付き</a></th><td>コンプレッサー式</td><td>10</td></tr>
+            <tr><th><a href="product-sharp-clothes-dryer-dehumidifier-cm-t100-w">シャープ 衣類乾燥除湿機 CM-T100-W（コンプレッサー方式・10L）</a></th><td>コンプレッサー式</td><td>10</td></tr>
+            <tr><th><a href="product-sharp-cv-t190">シャープ 衣類乾燥除湿機 CV-T190</a></th><td>コンプレッサー式</td><td>18.5</td></tr>
+            <tr><th><a href="product-sharp-cv-t71-dehumidifier">シャープ 衣類乾燥除湿機 CV-T71-W</a></th><td>コンプレッサー式</td><td>7.1</td></tr>
+            <tr><th><a href="product-sharp-clothes-dryer-dehumidifier-cv-th150-w">シャープ 衣類乾燥除湿機 CV-TH150-W ハイブリッド方式 プラズマクラスター25000</a></th><td>ハイブリッド式</td><td>13</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>GEARNOTE掲載12台の方式別の数字</h2>
+        <p><a href="data-dehumidifier">除湿機の仕様一覧</a>のCSVから、方式ごとに数えました（GEARNOTE運営の計算）。消費電力は、除湿運転のときの60Hzの値です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>方式</th><th>台数</th><th>除湿時の消費電力（60Hz）</th><th>タンク容量</th><th>質量</th></tr></thead>
+            <tbody>
+            <tr><th>コンプレッサー式</th><td>7</td><td>210〜390W（5台）</td><td>2〜4.7L（6台）</td><td>7.7〜16.9kg（7台）</td></tr>
+            <tr><th>ハイブリッド式</th><td>3</td><td>185〜305W（3台）</td><td>2.4〜3.6L（3台）</td><td>9.7〜15kg（3台）</td></tr>
+            <tr><th>デシカント式</th><td>2</td><td>記載なし（0台）</td><td>2.5L（2台）</td><td>7.8kg（2台）</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>GEARNOTE掲載の中では、コンプレッサー式の質量は7.7〜16.9kg（7台）、ハイブリッド式は9.7〜15kg（3台）、デシカント式は2台とも7.8kgでした。除湿時の消費電力（60Hz）は、コンプレッサー式が210〜390W（5台）、ハイブリッド式が185〜305W（3台）です。</p>
+        <p>デシカント式2台は、データ一覧の「除湿時の消費電力（60Hz）」の欄が空欄です。アイリスオーヤマの公式ページでは、50Hz・60Hzを分けずに「定格消費電力590W」と書かれているためです。欄の名前が違う数字は、同じ表に混ぜていません。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>方式</th><th>除湿能力(L/日)</th><th>消費電力(W)</th><th>タンク(L)</th><th>質量(kg)</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-sharp-clothes-dryer-dehumidifier-cm-s100-w">シャープ 衣類乾燥除湿機 CM-S100-W コンプレッサー方式 10L 冷風機能付き</a></th><td>コンプレッサー式</td><td>10</td><td>290</td><td>2.5</td><td>12.5</td></tr>
+            <tr><th><a href="product-sharp-clothes-dryer-dehumidifier-cm-t100-w">シャープ 衣類乾燥除湿機 CM-T100-W（コンプレッサー方式・10L）</a></th><td>コンプレッサー式</td><td>10</td><td>290</td><td>2.5</td><td>12.5</td></tr>
+            <tr><th><a href="product-sharp-cv-t190">シャープ 衣類乾燥除湿機 CV-T190</a></th><td>コンプレッサー式</td><td>18.5</td><td>340</td><td>4.5</td><td>16.9</td></tr>
+            <tr><th><a href="product-sharp-cv-t71-dehumidifier">シャープ 衣類乾燥除湿機 CV-T71-W</a></th><td>コンプレッサー式</td><td>7.1</td><td>210</td><td>2.5</td><td>9.6</td></tr>
+            <tr><th><a href="product-twinbird-clothes-dryer-dehumidifier-air-purifier-js-e956w">ツインバード 衣類乾燥除湿機 空気清浄機能付 JS-E956W（ホワイト・クロス布巾セット）</a></th><td>コンプレッサー式</td><td>—</td><td>—</td><td>2</td><td>11.5</td></tr>
+            <tr><th><a href="product-corona-clothes-dryer-dehumidifier-cdp63a3">CORONA 衣類乾燥除湿機 コンプレッサー式 CD-P63A3(W)</a></th><td>コンプレッサー式</td><td>—</td><td>—</td><td>—</td><td>7.7</td></tr>
+            <tr><th><a href="product-mitsubishi-dehumidifier-mj-p180rx">三菱電機 衣類乾燥除湿機 サラリPro MJ-P180RX-W</a></th><td>コンプレッサー式</td><td>—</td><td>390</td><td>4.7</td><td>14.9</td></tr>
+            <tr><th><a href="product-sharp-clothes-dryer-dehumidifier-cv-th150-w">シャープ 衣類乾燥除湿機 CV-TH150-W ハイブリッド方式 プラズマクラスター25000</a></th><td>ハイブリッド式</td><td>13</td><td>305</td><td>3.6</td><td>15</td></tr>
+            <tr><th><a href="product-panasonic-clothes-dryer-dehumidifier-f-yex90d-w">パナソニック 衣類乾燥除湿機 エコ・ハイブリッド方式 F-YEX90D-W（クリスタルホワイト）</a></th><td>ハイブリッド式</td><td>—</td><td>185</td><td>2.4</td><td>9.7</td></tr>
+            <tr><th><a href="product-panasonic-clothes-dryer-dehumidifier-f-yhvx120-w">パナソニック 衣類乾燥除湿機 クリスタルホワイト F-YHVX120-W</a></th><td>ハイブリッド式</td><td>—</td><td>245</td><td>3.2</td><td>13.9</td></tr>
+            <tr><th><a href="product-iris-ohyama-desiccant-dehumidifier-ijdi50">アイリスオーヤマ 除湿機 IJD-I50</a></th><td>デシカント式</td><td>—</td><td>—</td><td>2.5</td><td>7.8</td></tr>
+            <tr><th><a href="product-irisohyama-clothes-dryer-dehumidifier-ddd50e">アイリスオーヤマ 衣類乾燥除湿機 DDD-50E</a></th><td>デシカント式</td><td>—</td><td>—</td><td>2.5</td><td>7.8</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>「—」は、データ一覧で数字を拾えなかった項目です。この集計は、GEARNOTEに載せている商品の範囲の数字で、市場全体の傾向を示すものではありません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>空気清浄機・加湿器との違い</h2>
+        <p>除湿機・空気清浄機・加湿器は、どれも部屋の空気に関わる家電ですが、働きが違います。確認できた一次情報だけを並べます。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>家電</th><th>働き（一次情報）</th><th>出典</th></tr></thead>
+            <tbody>
+            <tr><th>除湿機</th><td>空気中の湿気を、冷却器での結露や乾燥剤への吸着で水にして、タンクに集める</td><td><a href="https://panasonic.jp/joshitsu/select/hybrid.html" target="_blank" rel="noopener">パナソニック</a></td></tr>
+            <tr><th>空気清浄機</th><td>本体内のファンで空気を吸い込み、フィルタを通して空気中の汚れやにおいを取るものが一般的</td><td><a href="https://www.jema-net.or.jp/living/kuusei/about.html" target="_blank" rel="noopener">JEMA「空気清浄機とは」</a></td></tr>
+            <tr><th>加湿器</th><td>機器から放出する水分により、部屋の湿度を高くする。方式は気化式・スチーム式・ハイブリッド式・超音波式など</td><td><a href="https://www.jema-net.or.jp/Japanese/ha/danbou/whats_k.html" target="_blank" rel="noopener">JEMA「加湿器とは？」</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>除湿機は湿度を下げ、加湿器は湿度を上げる道具です。JEMAの空気清浄機の解説ページには、加湿や除湿の説明はありません。除湿機の「ハイブリッド式」と加湿器の「ハイブリッド式」は、同じ言葉でも別の仕組みです。</p>
+        <p>GEARNOTE掲載の除湿機12台のうち、商品名に「空気清浄」が入っているものは1台でした（GEARNOTE運営の計算）。こうした機能が付いた商品の性能は、その機能のメーカーの仕様で確認してください。空気清浄機と加湿器の数字は、<a href="data-air-purifier">空気清浄機の仕様一覧</a>と<a href="data-humidifier">加湿器の仕様一覧</a>にあります。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>読み間違えやすいポイント</h2>
+        <ul><li><strong>除湿能力の条件</strong>：27℃・60％の数字と、20℃・60％の数字は並べられません。</li><li><strong>50Hzと60Hz</strong>：CV-T71の定格除湿能力は、50Hzで6.3L/日、60Hzで7.1L/日です。住んでいる地域の周波数の値を見てください。</li><li><strong>運転モード</strong>：CV-TH150は、除湿運転の除湿時305W（60Hz）に対し、衣類乾燥運転では715W（60Hz）です。どの運転の消費電力かを確認します。</li><li><strong>使える室温</strong>：CV-T71の使用可能温度は4〜38℃、CV-TH150は1〜38℃（ヒーターON時）と書かれています。冬に使う部屋の温度と比べてください。</li><li><strong>「ハイブリッド」という言葉</strong>：除湿機と加湿器で、意味が違います。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>商品ページで確認すること</h2>
+        <ul><li>方式（コンプレッサー式・デシカント式・ハイブリッド式）。</li><li>除湿能力の条件（室温・湿度・50Hzか60Hzか・運転モード）。</li><li>除湿運転と衣類乾燥運転の、それぞれの消費電力。</li><li>使用可能温度（冬の寒い部屋で使う場合）。</li><li>タンク容量と、連続排水ができるか。本体の質量。</li></ul>
+        <p>見方の詳しい説明は、<a href="guide-dehumidifier">除湿機の選び方ガイド</a>にもまとめています。電気代の目安は<a href="tool-electricity-cost">電気代の目安計算</a>で試せます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、メーカーの公式ページ・業界団体・行政機関の資料を実際に開いて確認したものです（リンク先は、各項目に付けています）。仕様は、改訂で変わることがあります。購入前には、メーカーの最新の情報と取扱説明書で確認してください。</p>
+        <ul><li><a href="https://panasonic.jp/joshitsu/select/hybrid.html" target="_blank" rel="noopener">パナソニック「除湿機の方式を解説」</a></li><li><a href="https://jp.sharp/joshitsu/products/cvph140/feature/" target="_blank" rel="noopener">シャープ CV-PH140 特長ページ</a></li><li><a href="https://www.mitsubishielectric.co.jp/home/jyoshitsuki/product/mj-pv250wx/feature/" target="_blank" rel="noopener">三菱電機 MJ-PV250WX 特長ページ</a></li><li><a href="https://jp.sharp/joshitsu/products/cv-t71/spec/" target="_blank" rel="noopener">シャープ CV-T71 仕様</a></li><li><a href="https://jp.sharp/joshitsu/products/cv-th150/spec/" target="_blank" rel="noopener">シャープ CV-TH150 仕様</a></li><li><a href="https://www.irisohyama.co.jp/products/electrical-appliances/seasonal-appliances/dehumidifier/dehumidifier-with-circulator/circulator-clothes-drying-dehumidifier" target="_blank" rel="noopener">アイリスオーヤマ サーキュレーター衣類乾燥除湿機 製品ページ（curlで取得）</a></li><li><a href="https://www.jema-net.or.jp/engineering/JEM_JEM-TR/JEM1411.html" target="_blank" rel="noopener">日本電機工業会 JEM 1411</a></li><li><a href="https://www.jema-net.or.jp/living/kuusei/about.html" target="_blank" rel="noopener">日本電機工業会「空気清浄機とは」</a></li><li><a href="https://www.jema-net.or.jp/Japanese/ha/danbou/whats_k.html" target="_blank" rel="noopener">日本電機工業会「加湿器とは？」</a></li></ul>
+        <p>確認できなかったこと（このページには書いていません）：</p>
+        <ul><li>JIS C 9617 の本文の試験条件。規格の本文は有料のため、GEARNOTE運営は未閲覧です。27℃・60％は、メーカーの注記として書いています。</li><li>デシカント式の機種で、除湿能力が20℃の条件で書かれる理由。</li><li>方式ごとの、室温の上がり方の数字と、運転音の違い。</li><li>JEMAによる、除湿機の方式の解説。今回、JEMAのサイトで見つけられたのは、JEM 1411 の規格ページでした。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「除湿機の方式の違い（コンプレッサー式・デシカント式・ハイブリッド式）」（2026年11月15日のデータ、2026年11月15日集計）　https://gearnote.net/diff-dehumidifier-types</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/diff-dehumidifier-types"&gt;GEARNOTE「除湿機の方式の違い（コンプレッサー式・デシカント式・ハイブリッド式）」（2026年11月15日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>コンプレッサー式とデシカント式の違いは？</h3>
+            <p>コンプレッサー式は空気を冷却器で冷やして湿気を水滴にし、デシカント式は乾燥剤に湿気を吸着させてヒーターで取り出します。シャープは、コンプレッサー式は暑い季節に高い能力を発揮し、デシカント式は寒い季節でも能力が落ちにくい、と説明しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ハイブリッド式は、何と何の組み合わせですか？</h3>
+            <p>コンプレッサー方式とデシカント方式です。パナソニックは、コンプレッサーから生じる熱をデシカント方式の除湿に再利用する、と説明しています。シャープは、夏場はコンプレッサー方式、冬場はデシカント方式を併用する、と説明しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>除湿能力の「27℃・60％」とは何ですか？</h3>
+            <p>室温27℃・相対湿度60％を維持し続けたときの、1日あたりの除湿量という条件です（シャープ・三菱電機の注記）。20℃・60％の条件で書くメーカーもあるため、条件をそろえて比べてください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>コンプレッサー式は、なぜ冬に弱いのですか？</h3>
+            <p>三菱電機の説明では、空気を冷やして結露させる冷却器（蒸発器）に、低温のとき霜がついて除湿ができなくなるためです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>除湿機と空気清浄機・加湿器の違いは？</h3>
+            <p>除湿機は湿度を下げ、加湿器は機器から放出する水分で湿度を上げます。空気清浄機は、ファンで吸い込んだ空気をフィルタに通し、汚れやにおいを取るものが一般的です（JEMAの解説）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="data-dehumidifier">除湿機の仕様一覧</a></li><li><a href="guide-dehumidifier">除湿機の選び方ガイド</a></li><li><a href="data-air-purifier">空気清浄機の仕様一覧</a></li><li><a href="data-humidifier">加湿器の仕様一覧</a></li><li><a href="diff-steamer-vs-iron">衣類スチーマーとスチームアイロンの違い</a></li><li><a href="guides">選び方ガイド一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

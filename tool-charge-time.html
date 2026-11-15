@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>充電時間の目安計算｜バッテリー容量(mAh・Wh)と充電の出力(W)から、理論上の時間を出す｜GEARNOTE</title>
+<meta name="description" content="バッテリーの容量(mAh・Wh)と充電の電力(W)から、充電にかかる時間の理論上の目安を計算するツールです。効率（損失）と残量の範囲を入力でき、メーカーの充電時間の記載が条件つきであることを、掲載商品の数字で示します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="充電時間の目安計算｜バッテリー容量(mAh・Wh)と充電の出力(W)から、理論上の時間を出す｜GEARNOTE">
+<meta property="og:description" content="バッテリーの容量(mAh・Wh)と充電の電力(W)から、充電にかかる時間の理論上の目安を計算するツールです。効率（損失）と残量の範囲を入力でき、メーカーの充電時間の記載が条件つきであることを、掲載商品の数字で示します。">
+<meta property="og:url" content="https://gearnote.net/tool-charge-time">
+<link rel="canonical" href="https://gearnote.net/tool-charge-time">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="充電時間の目安計算｜バッテリー容量(mAh・Wh)と充電の出力(W)から、理論上の時間を出す｜GEARNOTE">
+<meta name="twitter:description" content="バッテリーの容量(mAh・Wh)と充電の電力(W)から、充電にかかる時間の理論上の目安を計算するツールです。効率（損失）と残量の範囲を入力でき、メーカーの充電時間の記載が条件つきであることを、掲載商品の数字で示します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"充電時間の目安計算（mAh・Whと出力W）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"充電時間は、どうやって計算しますか？","acceptedAnswer":{"@type":"Answer","text":"電池に入れる量（Wh）を、充電の電力（W）で割ります。mAhで書かれているときは、mAh×電圧（V）÷1000でWhに直します。損失があるので、実際の時間はこの計算より長くなります。"}},{"@type":"Question","name":"10000mAhのモバイルバッテリーを20Wで充電すると、何時間かかりますか？","acceptedAnswer":{"@type":"Answer","text":"3.7Vで換算すると37Whなので、損失がないとすれば37÷20＝約1時間51分です。実際は損失があるため、これより長くかかります。効率を入れると、その分を見込んだ目安を出せます。"}},{"@type":"Question","name":"メーカーの充電時間と、計算が合わないのはなぜですか？","acceptedAnswer":{"@type":"Answer","text":"メーカーの充電時間は、決まった充電器や条件で測った数字です。たとえばAppleは、iPhone 17eとiPhone Airについて「20W以上のアダプタで約30分で最大50%」と、50％までの時間を書き、充電時間は設定や環境条件で変わるとしています。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="tools">計算ツール</a> ／ 充電時間の目安計算（mAh・Whと出力W）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">充電時間の目安計算｜容量（mAh・Wh）と出力（W）から、理論上の充電時間を出す</h1>
+        <p class="desc">充電時間の目安は「電池に入れる量（Wh）÷ 充電の電力（W）」です。損失を入れない計算なので、実際はこれより長くなります。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+          .tl-check{display:flex;gap:8px;align-items:center;margin-top:10px;font-size:.9rem;}
+          .tl-big{font-size:1.15rem;font-weight:700;}
+          .tl-box [hidden]{display:none!important;}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="ct-u">容量の単位</label><select id="ct-u"><option value="m" selected>mAh（ミリアンペアアワー）</option><option value="w">Wh（ワットアワー）</option></select></div>
+            <div class="tl-field"><label for="ct-c" id="ct-cl">電池の容量（mAh）</label><input id="ct-c" type="number" inputmode="decimal" min="0" step="any" value="10000"></div>
+            <div class="tl-field" id="ct-vf"><label for="ct-v">mAhをWhに直す電圧（V）</label><input id="ct-v" type="number" inputmode="decimal" min="0" step="any" value="3.7"></div>
+          </div>
+          <div class="tl-row" style="margin-top:12px">
+            <div class="tl-field"><label for="ct-w">充電の電力（W）</label><input id="ct-w" type="number" inputmode="decimal" min="0" step="any" value="20"></div>
+            <div class="tl-field"><label for="ct-e">効率（%・100％＝損失なし）</label><input id="ct-e" type="number" inputmode="decimal" min="1" max="100" step="any" value="100"></div>
+            <div class="tl-field"><label for="ct-s">始めの残量（%）</label><input id="ct-s" type="number" inputmode="decimal" min="0" max="100" step="any" value="0"></div>
+            <div class="tl-field"><label for="ct-t">終わりの残量（%）</label><input id="ct-t" type="number" inputmode="decimal" min="0" max="100" step="any" value="100"></div>
+          </div>
+          <div class="tl-presets"><span class="tl-note">充電の電力の例：</span><button type="button" data-ct="5">5W</button><button type="button" data-ct="10">10W</button><button type="button" data-ct="20">20W</button><button type="button" data-ct="30">30W</button><button type="button" data-ct="65">65W</button></div>
+          <p class="tl-result" id="ct-sum" aria-live="polite"></p>
+          <p class="tl-note" id="ct-det"></p>
+          <p class="tl-note">効率の初期値は100％（損失なし）にしています。実際の充電では損失があるので、かかる時間は、この目安より長くなります。損失の割合は、機器や条件で違うため、このページでは決めていません。</p>
+        </div>
+        <script>
+(function(){
+function g(i){return document.getElementById(i);}
+function f(x,d){return Number(x.toFixed(d)).toLocaleString('ja-JP',{maximumFractionDigits:d});}
+function hm(h){var m=Math.round(h*60);return m<60?m+'分':Math.floor(m/60)+'時間'+(m%60)+'分';}
+function run(){
+  var u=g('ct-u').value,c=parseFloat(g('ct-c').value),v=parseFloat(g('ct-v').value),w=parseFloat(g('ct-w').value),e=parseFloat(g('ct-e').value),s=parseFloat(g('ct-s').value),t=parseFloat(g('ct-t').value),sum=g('ct-sum'),det=g('ct-det');
+  g('ct-cl').textContent=u==='m'?'電池の容量（mAh）':'電池の容量（Wh）';g('ct-vf').hidden=u!=='m';
+  det.textContent='';
+  if(!(c>0)||!(w>0)||!(e>0)||(u==='m'&&!(v>0))||isNaN(s)||isNaN(t)){sum.textContent='数字を入れてください。';return;}
+  if(e>100){sum.textContent='効率は100%までで入れてください（100%を超えることはありません）。';return;}
+  if(s<0||t>100||t<=s){sum.textContent='残量は「始め」より「終わり」を大きく、0〜100%で入れてください。';return;}
+  var wh=u==='m'?c*v/1000:c,need=wh*(t-s)/100,h=need/(w*e/100);
+  sum.textContent='';var b=document.createElement('span');b.className='tl-big';b.textContent='理論上の目安：約'+hm(h);sum.appendChild(b);
+  sum.appendChild(document.createTextNode('（'+f(h,2)+'時間）'));
+  det.textContent=(u==='m'?(c+'mAh × '+v+'V ÷ 1000 ＝ '+f(wh,2)+'Wh。'):'')+'残量'+s+'%→'+t+'%で、電池に入れる量は '+f(need,2)+'Wh。'+f(need,2)+'Wh ÷（'+w+'W × 効率'+e+'%）＝ '+f(h,2)+'時間。';
+}
+['ct-c','ct-v','ct-w','ct-e','ct-s','ct-t'].forEach(function(i){g(i).addEventListener('input',run);});
+g('ct-u').addEventListener('change',function(){g('ct-c').value=g('ct-u').value==='m'?'10000':'17.28';run();});
+document.querySelectorAll('[data-ct]').forEach(function(bt){bt.addEventListener('click',function(){g('ct-w').value=bt.getAttribute('data-ct');run();});});
+run();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>Wh ＝ mAh × 電圧（V）÷ 1000。国土交通省の案内にも、同じ式と「27,000mAh・3.7V（99.9Wh）」という例があります（<a href="https://www.mlit.go.jp/report/press/content/001995959.pdf" target="_blank" rel="noopener">国土交通省の案内（PDF）</a>）。モバイルバッテリーのmAhとWhの関係は、<a href="tool-mah-wh">mAhとWhの換算</a>でくわしく説明しています。</li>
+          <li>充電時間（時間）＝ 電池に入れる量（Wh）÷（充電の電力（W）× 効率）。例：10,000mAh・3.7Vは37Wh。20Wで、効率100％なら37÷20＝1.85時間＝<strong>約1時間51分</strong>です。</li>
+          <li><strong>効率</strong>は、充電器から入った電力のうち、電池にたまる割合です。電力の一部は、電圧の変換や電池の中で熱になるので、効率は100％より低くなります（100％を超えることはありません）。効率を80％にすると、同じ例は37÷(20×0.8)＝約2時間19分です。</li>
+          <li>充電器の「最大○W」は、出せる上限の数字です。機器がずっとその電力で充電されるという意味ではありません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>メーカーの充電時間は、条件つきの数字</h2>
+        <ul>
+          <li>Appleは、iPhone 17eとiPhone Airについて、20W以上のアダプタを使って「約30分でバッテリーを最大50%まで充電」と書いています。書かれているのは50％までの時間で、100％までの時間ではありません。また、充電時間は設定や環境条件によって変わる、とも書いています（<a href="https://support.apple.com/ja-jp/102574" target="_blank" rel="noopener">Apple サポート「iPhoneを高速充電する」</a>）。</li>
+          <li>GEARNOTEの仕様一覧でも、充電時間の書き方は商品ごとに違います。電動歯ブラシの一覧は、列の見出しが「フル充電、または種別の書かれていない充電時間」で、条件がそろっていないことを、そのまま見出しに書いています。</li>
+        </ul>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>一覧</th><th>列の見出し（仕様一覧のまま）</th><th>掲載数</th><th>充電時間の記載がある数</th><th>記載の範囲（時間）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-portable-speaker">ポータブルスピーカー</a></th><td>充電時間(時間)</td><td>30</td><td>21</td><td>2〜5</td></tr>
+            <tr><th><a href="data-cordless-vacuum">コードレス掃除機</a></th><td>充電時間(時間)</td><td>22</td><td>13</td><td>3〜5</td></tr>
+            <tr><th><a href="data-electric-toothbrush">電動歯ブラシ</a></th><td>充電時間（フル充電、または種別の書かれていない充電時間）(時間)</td><td>20</td><td>6</td><td>4〜24</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>モバイルバッテリーとスマートウォッチの仕様一覧には、充電時間の列はありません。</p>
+        <h3>容量（Wh）と充電時間の両方が分かるスピーカー（5台）</h3>
+        <p>ポータブルスピーカーのうち、メーカーがWh表記の容量と充電時間の両方を書いている5台です。「容量÷充電時間」は、書かれた時間で充電し切るときの、電池に入る平均の電力です（GEARNOTE運営の計算）。損失があるので、充電器から入る電力は、これより大きくなります。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>バッテリー容量（Wh）</th><th>充電時間（時間・メーカー記載）</th><th>容量÷充電時間（W・計算）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-jbl-go5">JBL GO5</a></th><td>3.85</td><td>3</td><td>1.3</td></tr>
+            <tr><th><a href="product-jbl-grip">JBL GRIP</a></th><td>10.01</td><td>3</td><td>3.3</td></tr>
+            <tr><th><a href="product-jbl-flip-7">JBL FLIP 7</a></th><td>17.28</td><td>2.5</td><td>6.9</td></tr>
+            <tr><th><a href="product-jbl-charge-essential-3-se-slate-gray">JBL Charge Essential 3 SE（スレートグレー・2026年モデル）</a></th><td>27</td><td>4</td><td>6.8</td></tr>
+            <tr><th><a href="product-jbl-pulse-6">JBL Pulse 6</a></th><td>34</td><td>4.5</td><td>7.6</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>たとえば「JBL Pulse 6」は、34Whを4.5時間で充電と書かれていて、平均すると1時間に7.6Whずつ電池にたまる計算です。メーカーは、どの充電器（何W）で測った時間かを、一覧の数字だけでは示していません。自分の充電器で何時間かかるかは、このツールで、充電器の出力と効率を変えて目安を出してください。数字の元は<a href="data-portable-speaker">ポータブルスピーカーの仕様一覧</a>です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>確認できなかったこと</h2>
+        <ul>
+          <li>充電の損失の、一般的な割合は、一次情報で確認できませんでした。このため、効率は入力欄にして、初期値を100％（損失なし）にしています。</li>
+          <li>表のスピーカーの充電時間が、どの充電器・どの条件で測られたかは、仕様一覧の数字だけでは確かめていません。</li>
+          <li>満充電に近づくと充電の電力が下がるかどうかは、機器によって違い、このツールでは扱っていません（一定の電力で充電する前提の計算です）。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>出典（2026年11月15日確認）</h2>
+        <ul>
+          <li><a href="https://www.mlit.go.jp/report/press/content/001995959.pdf" target="_blank" rel="noopener">国土交通省 モバイルバッテリーの機内持ち込みに関する案内（PDF）</a>（Wh＝mAh×V÷1,000）</li>
+          <li><a href="https://support.apple.com/ja-jp/102574" target="_blank" rel="noopener">Apple サポート『iPhoneを高速充電する』</a>（約30分で最大50%・条件で変わる）</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「充電時間の目安計算（mAh・Whと出力W）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/tool-charge-time</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-charge-time"&gt;GEARNOTE「充電時間の目安計算（mAh・Whと出力W）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>充電時間は、どうやって計算しますか？</h3>
+            <p>電池に入れる量（Wh）を、充電の電力（W）で割ります。mAhで書かれているときは、mAh×電圧（V）÷1000でWhに直します。損失があるので、実際の時間はこの計算より長くなります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>10000mAhのモバイルバッテリーを20Wで充電すると、何時間かかりますか？</h3>
+            <p>3.7Vで換算すると37Whなので、損失がないとすれば37÷20＝約1時間51分です。実際は損失があるため、これより長くかかります。効率を入れると、その分を見込んだ目安を出せます。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>メーカーの充電時間と、計算が合わないのはなぜですか？</h3>
+            <p>メーカーの充電時間は、決まった充電器や条件で測った数字です。たとえばAppleは、iPhone 17eとiPhone Airについて「20W以上のアダプタで約30分で最大50%」と、50％までの時間を書き、充電時間は設定や環境条件で変わるとしています。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>関連ページ</h2>
+        <ul><li><a href="tool-mah-wh">mAhとWhの換算（機内持ち込みの確認）</a></li><li><a href="tool-power-station-runtime">ポータブル電源の使える時間</a></li><li><a href="spec-apple-charging">Apple製品の充電の数字</a></li><li><a href="words-usb-pd">USB PDのW数の読み方</a></li><li><a href="data-power-bank">モバイルバッテリーの仕様一覧</a></li><li><a href="data-portable-speaker">ポータブルスピーカーの仕様一覧</a></li><li><a href="tools">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

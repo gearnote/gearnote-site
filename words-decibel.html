@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>デシベル（dB）とは｜運転音の数字の読み方と騒音の目安｜GEARNOTE</title>
+<meta name="description" content="家電の運転音「約○dB」の読み方を、計量単位令の定義、環境省の騒音の目安、測定のA特性の決まりで確かめました。洗濯機の洗いと脱水のように、同じ機種で条件が別の数字が並ぶ例を、掲載機種の数字で示します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="デシベル（dB）とは｜運転音の数字の読み方と騒音の目安｜GEARNOTE">
+<meta property="og:description" content="家電の運転音「約○dB」の読み方を、計量単位令の定義、環境省の騒音の目安、測定のA特性の決まりで確かめました。洗濯機の洗いと脱水のように、同じ機種で条件が別の数字が並ぶ例を、掲載機種の数字で示します。">
+<meta property="og:url" content="https://gearnote.net/words-decibel">
+<link rel="canonical" href="https://gearnote.net/words-decibel">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="デシベル（dB）とは｜運転音の数字の読み方と騒音の目安｜GEARNOTE">
+<meta name="twitter:description" content="家電の運転音「約○dB」の読み方を、計量単位令の定義、環境省の騒音の目安、測定のA特性の決まりで確かめました。洗濯機の洗いと脱水のように、同じ機種で条件が別の数字が並ぶ例を、掲載機種の数字で示します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"騒音のdB（デシベル）の読み方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"dBの数字が10違うと、どれくらい違いますか？","acceptedAnswer":{"@type":"Answer","text":"計量単位令の定義（音圧の比の常用対数の二十倍）から計算すると、10dBの差は、音圧で約3.16倍、音圧の二乗で10倍の違いです。dBの数字そのものを割り算して倍率を出すことはできません。"}},{"@type":"Question","name":"洗濯機の運転音は、なぜ洗いと脱水で分かれていますか？","acceptedAnswer":{"@type":"Answer","text":"運転の条件ごとに音が違うためです。東芝は、運転音を洗い・脱水・乾燥に分けて表示し、日本電機工業会の洗濯機性能評価基準によると注記しています。GEARNOTE掲載の機種では、脱水の数字のほうが大きい機種が多くありました。"}},{"@type":"Question","name":"40dBは、どれくらいの音ですか？","acceptedAnswer":{"@type":"Answer","text":"環境省が公開している「騒音の目安」（都心・近郊用）の図では、図書館の館内が40dB付近に置かれています。ただし、家電の運転音と同じ方法で測った数字ではないので、目安として読んでください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ 騒音のdB（デシベル）の読み方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">デシベル（dB）とは｜家電の運転音「約○dB」の読み方と、条件が別の数字</h1>
+        <p class="desc">dBは、音の大きさを対数で表す単位です。法令での定義と、環境省の資料、家電の運転音に条件が付く理由を、確かめられた範囲でまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>dB（デシベル）の定義</h2>
+        <p>計量単位令は、音圧レベルの単位をデシベルとし、「音圧実効値の、十万分の二（パスカル）に対する比の常用対数の二十倍」と定めています。聴感補正を行った値についても、同じ形で定められています（<a href="https://laws.e-gov.go.jp/law/404CO0000000357" target="_blank" rel="noopener">e-Gov法令検索「計量単位令」別表第二</a>）。</p>
+        <p>「常用対数の二十倍」なので、dBの差は、音圧の<strong>倍率</strong>に対応します。定義の式から計算すると、次のとおりです（GEARNOTE運営の計算）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>dBの差</th><th>音圧の比</th><th>音圧の二乗の比</th></tr></thead>
+            <tbody>
+            <tr><th>3dB</th><td>約1.41倍</td><td>約2.0倍</td></tr>
+            <tr><th>6dB</th><td>約2.00倍</td><td>約4.0倍</td></tr>
+            <tr><th>10dB</th><td>約3.16倍</td><td>約10.0倍</td></tr>
+            <tr><th>20dB</th><td>約10.00倍</td><td>100倍</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>たとえば、37dBと47dBの差の10dBは、音圧で約3.16倍の違いです。dBの数字は、引き算はできても、「47dBは37dBの約1.3倍」のような割り算では読めません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>A特性：人の聞こえ方に合わせた補正</h2>
+        <p>騒音規制法にもとづく、特定工場等の騒音の規制基準では、騒音の測定は計量法第71条の条件に合格した騒音計で行い、<strong>周波数補正回路はA特性</strong>、動特性は速い動特性（FAST）を用いる、と定めています（<a href="https://www.env.go.jp/hourei/07/000052.html" target="_blank" rel="noopener">環境省「特定工場等において発生する騒音の規制に関する基準」</a>）。</p>
+        <p>環境基準でも、騒音は等価騒音レベルで扱い、周波数補正回路はA特性を用いることとされています（<a href="https://www.env.go.jp/kijun/oto1-1.html" target="_blank" rel="noopener">環境省「騒音に係る環境基準について」</a>）。上の定義の「聴感補正を行って得られた値」が、こうした補正をした値に当たります。</p>
+        <p>家電の仕様の「運転音 約○dB」に、A特性かどうかが書かれていないことがあります。補正の方法が分からない数字どうしは、同じ物差しの数字とは言えません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>環境省の「騒音の目安」</h2>
+        <p>環境省は、全国環境研協議会 騒音小委員会が作った「騒音の目安」の図を公開しています（<a href="https://www.env.go.jp/air/ippan/meyasu.pdf" target="_blank" rel="noopener">環境省「騒音の目安」（PDF）</a>）。都心・近郊用の図では、次の場所に置かれています（図を読み取ったものです）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>目安の位置</th><th>図に置かれている例</th></tr></thead>
+            <tbody>
+            <tr><th>30dB台</th><td>ホテルの室内</td></tr>
+            <tr><th>40dB付近</th><td>図書館の館内</td></tr>
+            <tr><th>50dB付近</th><td>書店の店内</td></tr>
+            <tr><th>70dB台後半</th><td>地下鉄の車内</td></tr>
+            <tr><th>90dB付近</th><td>パチンコ店内</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>この図は、場所の目安を示したもので、家電の運転音と同じ方法で測った数字ではありません。家電の数字を、この図の場所に当てはめて読むことは、目安以上の意味を持ちません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>家電の運転音：同じ機種でも、条件ごとに別の数字</h2>
+        <p>家電の運転音は、運転の条件ごとに分けて書かれることがあります。東芝の洗濯機では、運転音を洗い・脱水・乾燥に分けて表示し、「運転音の表示は一般社団法人日本電機工業会洗濯機性能評価基準による（洗濯行程において）」と注記しています（<a href="https://www.toshiba-lifestyle.com/jp/laundries/feature/low_vibration_noise/" target="_blank" rel="noopener">東芝ライフスタイル</a>）。</p>
+        <p>GEARNOTEの<a href="data-washing-machine">洗濯機の仕様一覧</a>では、運転音を「洗い」と「脱水」の別の列にしています。両方の数字がある8機種を並べました。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>機種</th><th>運転音（洗い）</th><th>運転音（脱水）</th><th>差（脱水−洗い）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-aqua-washing-machine-5kg-aqw-s5r">アクア(AQUA) 全自動洗濯機 縦型 洗濯5kg ホワイト コンパクトタイプ</a></th><td>35dB</td><td>47dB</td><td>+12dB</td></tr>
+            <tr><th><a href="product-hisense-washing-machine-55kg-hw-k55b">ハイセンス 全自動洗濯機 5.5kg HW-K55B</a></th><td>41dB</td><td>47dB</td><td>+6dB</td></tr>
+            <tr><th><a href="product-hisense-washing-machine-8kg-hw-kd80l">ハイセンス 洗濯機 8kg 全自動 インバーター ナイトコース HW-KD80L</a></th><td>36dB</td><td>39dB</td><td>+3dB</td></tr>
+            <tr><th><a href="product-hitachi-washing-machine-8kg-bw-v80m">日立 全自動洗濯機 ビートウォッシュ 8kg BW-V80M</a></th><td>32dB</td><td>39dB</td><td>+7dB</td></tr>
+            <tr><th><a href="product-iris-ohyama-washing-machine-6kg">アイリスオーヤマ 洗濯機 6.0kg</a></th><td>36dB</td><td>46dB</td><td>+10dB</td></tr>
+            <tr><th><a href="product-iris-ohyama-washing-machine-7kg-itw-70a01-w">アイリスオーヤマ 洗濯機 7.0kg ホワイト ITW-70A01-W</a></th><td>34dB</td><td>49dB</td><td>+15dB</td></tr>
+            <tr><th><a href="product-toshiba-drum-washer-dryer-12kg-tw-127xm4l">TOSHIBA(東芝) ドラム式洗濯乾燥機 幅60㎝ 洗濯12kg 乾燥7kg</a></th><td>32dB</td><td>37dB</td><td>+5dB</td></tr>
+            <tr><th><a href="product-toshiba-washing-machine-5kg-aw-5ga4">TOSHIBA(東芝) 全自動洗濯機 5kg AW-5GA4(W) ひとり暮らし</a></th><td>37dB</td><td>45dB</td><td>+8dB</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>GEARNOTE掲載の8機種では、8機種で脱水の数字のほうが大きく、差は3〜15dBでした（GEARNOTE運営の計算）。<strong>「静かさ」を比べるときは、洗いどうし、脱水どうしのように、同じ条件の数字で比べてください。</strong></p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>ほかのジャンルの運転音の書き方</h2>
+        <p>ジャンルによって、運転音の数字の条件の書き方が違います。GEARNOTEのデータ一覧では、条件を列の名前に書いています。</p>
+        <ul><li><a href="data-air-purifier">空気清浄機の仕様一覧</a>：「運転音（最大運転時）」の列。数字がある18台で、42.7〜55dBです。空気清浄機は、運転のモードごとに範囲で書かれることが多いため、最大運転時の数字だけをそろえています。</li><li><a href="data-refrigerator">冷蔵庫の仕様一覧</a>：「運転音・騒音（測定条件の記載なし）」の列。数字がある3台で、23〜25dBです。測定条件が書かれていないため、ほかのジャンルの数字とは並べられません。</li></ul>
+        <p>同じ「○dB」でも、運転のモード、測定の基準、補正の方法が違えば、別の物差しの数字です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>商品ページで確認したいこと</h2>
+        <ul><li>運転音が、どの運転の条件の数字か（洗い・脱水、強・弱、最大運転時など）。</li><li>測定の基準が書かれているか（業界団体の基準など）。</li><li>数字が範囲（例：17〜51dB）か、1つの数字か。</li><li>比べる相手と、同じ条件の数字か。</li><li>選び方は<a href="guide-washing-machine">洗濯機の選び方</a>・<a href="guide-air-purifier">空気清浄機の選び方</a>にもまとめています。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的な資料・規格団体・メーカーの資料にもとづきます（リンク先は、各項目に付けています）。GEARNOTEのデータの数字は、GEARNOTE運営が、掲載ページから数えたものです。規格や制度は、改正されることがあります。</p>
+        <ul><li>日本電機工業会の洗濯機性能評価基準の本文（測定の距離や部屋の条件）は、確認できていません。</li><li>冷蔵庫や空気清浄機の運転音の測定規格の本文は、確認できていません。</li><li>「10dB上がると、体感で約2倍」といった、聞こえ方の説明は、一次資料を確認できなかったので書いていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「騒音のdB（デシベル）の読み方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-decibel</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-decibel"&gt;GEARNOTE「騒音のdB（デシベル）の読み方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>dBの数字が10違うと、どれくらい違いますか？</h3>
+            <p>計量単位令の定義（音圧の比の常用対数の二十倍）から計算すると、10dBの差は、音圧で約3.16倍、音圧の二乗で10倍の違いです。dBの数字そのものを割り算して倍率を出すことはできません。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>洗濯機の運転音は、なぜ洗いと脱水で分かれていますか？</h3>
+            <p>運転の条件ごとに音が違うためです。東芝は、運転音を洗い・脱水・乾燥に分けて表示し、日本電機工業会の洗濯機性能評価基準によると注記しています。GEARNOTE掲載の機種では、脱水の数字のほうが大きい機種が多くありました。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>40dBは、どれくらいの音ですか？</h3>
+            <p>環境省が公開している「騒音の目安」（都心・近郊用）の図では、図書館の館内が40dB付近に置かれています。ただし、家電の運転音と同じ方法で測った数字ではないので、目安として読んでください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="data-washing-machine">洗濯機の仕様一覧</a></li><li><a href="data-air-purifier">空気清浄機の仕様一覧</a></li><li><a href="data-refrigerator">冷蔵庫の仕様一覧</a></li><li><a href="guide-washing-machine">洗濯機の選び方</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

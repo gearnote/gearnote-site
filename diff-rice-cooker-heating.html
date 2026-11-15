@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>炊飯器のIH・圧力IH・マイコン式の違い｜加熱の仕組みと仕様の数字の読み方｜GEARNOTE</title>
+<meta name="description" content="炊飯器のマイコン式・IH・圧力IHは何が違うのかを、省エネ基準の資料とメーカーの説明で確かめて整理しました。区分A〜Hの記号と年間消費電力量の式の読み方、GEARNOTE掲載20台の方式の書き方と数字の集計つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="炊飯器のIH・圧力IH・マイコン式の違い｜加熱の仕組みと仕様の数字の読み方｜GEARNOTE">
+<meta property="og:description" content="炊飯器のマイコン式・IH・圧力IHは何が違うのかを、省エネ基準の資料とメーカーの説明で確かめて整理しました。区分A〜Hの記号と年間消費電力量の式の読み方、GEARNOTE掲載20台の方式の書き方と数字の集計つきです。">
+<meta property="og:url" content="https://gearnote.net/diff-rice-cooker-heating">
+<link rel="canonical" href="https://gearnote.net/diff-rice-cooker-heating">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="炊飯器のIH・圧力IH・マイコン式の違い｜加熱の仕組みと仕様の数字の読み方｜GEARNOTE">
+<meta name="twitter:description" content="炊飯器のマイコン式・IH・圧力IHは何が違うのかを、省エネ基準の資料とメーカーの説明で確かめて整理しました。区分A〜Hの記号と年間消費電力量の式の読み方、GEARNOTE掲載20台の方式の書き方と数字の集計つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"炊飯器の加熱方式の違い（IH・圧力IH・マイコン式）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"マイコン式とIHの違いは何ですか？","acceptedAnswer":{"@type":"Answer","text":"熱を出す部品が違います。マイコン式は底などのヒーターが発熱して内鍋を温め、IHはコイルの磁力線で内鍋に渦電流を流し、内鍋そのものを発熱させます。省エネ基準の取りまとめ資料は、IHにもマイコンが使われているため、電磁誘導加熱方式のものと、それ以外に分けています。"}},{"@type":"Question","name":"圧力IHとIHは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"圧力IHは、IHの加熱に加えて内釜を密閉して圧力をかけ、高加圧・高温で炊く仕組みです（アイリスオーヤマの説明）。省エネ基準の取りまとめ資料の区分には圧力の有無はなく、圧力IHはIHと同じ電磁誘導加熱方式のものに入ります。"}},{"@type":"Question","name":"仕様表の「区分B」や「区分E」は何を表しますか？","acceptedAnswer":{"@type":"Answer","text":"加熱方式と最大炊飯容量の区分です。取りまとめ資料では、A〜Dが電磁誘導加熱方式（IH）、E〜Hがそれ以外で、Bは0.99L以上1.44L未満のIH、Eは0.54L以上0.99L未満のIH以外です。"}},{"@type":"Question","name":"年間消費電力量には、保温の電力も入っていますか？","acceptedAnswer":{"@type":"Answer","text":"入っています。取りまとめ資料の式は、炊飯時・保温時・タイマー予約時・待機時の消費電力量に、年間の回数や時間を掛けて合計し、1000で割るものです。回数と時間は最大炊飯容量の区切りごとに決まっています。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ 炊飯器の加熱方式の違い（IH・圧力IH・マイコン式）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">炊飯器の加熱方式の違い｜IH・圧力IH・マイコン式の仕組みと、仕様の数字の読み方</h1>
+        <p class="desc">「マイコン式」と「IH」は、加熱する部品が違います。圧力IHは、IHに圧力をかける仕組みを加えたものです。確かめられた資料だけで違いを整理し、掲載している炊飯器の仕様表の書き方と数字も数えました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月6日（炊飯器の仕様一覧）（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>3つの方式は、どこが違うのか</h2>
+        <p>違いは「何が熱を出すか」です。省エネ基準を決めた国の小委員会の取りまとめ資料は、2つの方式を次のように定義しています（<a href="https://www.eccj.or.jp/toprunner/cooker/cooker.pdf" target="_blank" rel="noopener">総合資源エネルギー調査会 電気炊飯器判断基準小委員会 最終取りまとめ（PDF）</a>）。</p>
+        <ul><li><strong>マイコン式</strong>：炊飯器の底などに設置された<strong>ヒーター</strong>に電流を流し、ヒーターが発熱して内鍋を加熱する方式。</li><li><strong>IH式（電磁誘導加熱方式）</strong>：底などに設置された<strong>コイル</strong>に電流を流し、発生した磁力線で、鉄やステンレスを素材とする内鍋に渦電流が流れ、<strong>内鍋そのものが発熱する</strong>方式。</li></ul>
+        <p><strong>圧力IH</strong>は、IHの加熱に「圧力」を加えた方式です。アイリスオーヤマは、圧力IH炊飯器を「IH方式に加えて圧力をかけてごはんを炊き上げる仕組み」で、内釜を密閉し、高加圧・高温で炊飯すると説明しています（<a href="https://www.irisohyama.co.jp/plusoneday/electronics/450" target="_blank" rel="noopener">アイリスオーヤマの解説ページ</a>）。同じページでは、炊飯器を加熱方式でマイコン・IH・圧力IH・ガスの4種類に分けています。</p>
+        <p>IHでは内鍋そのものが発熱するため、内鍋の素材も仕組みの一部です。三菱電機の技報（2006年）には、IH炊飯器用の内釜は、IHに適したステンレスを外層に、アルミニウムなどの熱伝導率の大きい金属を内層にした多層金属で構成されている、と書かれています（<a href="https://www.giho.mitsubishielectric.co.jp/giho/pdf/2006/0611156.pdf" target="_blank" rel="noopener">三菱電機技報（PDF）</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>方式</th><th>熱を出す部品</th><th>圧力</th><th>公的な区分（取りまとめ資料）</th></tr></thead>
+            <tbody>
+            <tr><th>マイコン式</th><td>底などのヒーター</td><td>（圧力の仕組みは定義に含まれない）</td><td>電磁誘導加熱方式のもの以外（区分E〜H）</td></tr>
+            <tr><th>IH式</th><td>コイルの磁力線で、内鍋そのもの</td><td>なし</td><td>電磁誘導加熱方式のもの（区分A〜D）</td></tr>
+            <tr><th>圧力IH</th><td>IHと同じ（内鍋そのもの）</td><td>内釜を密閉して圧力をかける</td><td>電磁誘導加熱方式のもの（区分A〜D）。圧力の有無による区分はない</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>この表は、どれが優れているかを示すものではありません。仕組みの違いを並べたものです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>「マイコン式」という名前の、よくある読み違い</h2>
+        <p>「マイコン」は、本来、炊き方を制御する小さなコンピューターのことです。取りまとめ資料は、<strong>IH式炊飯器にもマイコンは使われている</strong>ため、用語の誤解を避けて「電磁誘導加熱方式のもの（IH式）」と「電磁誘導加熱方式のもの以外（マイコン式）」に分ける、と書いています（<a href="https://www.eccj.or.jp/toprunner/cooker/cooker.pdf" target="_blank" rel="noopener">取りまとめ資料（PDF）</a>）。</p>
+        <p>つまり、仕様表の「マイコン式」は「ヒーターで加熱する方式」、「IH」は「内鍋を電磁誘導で発熱させる方式」と読むのが、資料の定義に合った読み方です。「マイコンが入っていない」という意味ではありません。</p>
+        <p>また、取りまとめ資料の区分は、加熱方式（電磁誘導加熱かどうか）と最大炊飯容量の2つだけで、<strong>圧力の有無による区分はありません</strong>（PDFの本文に「圧力」の語がないことを、GEARNOTE運営がテキスト検索で確認しました）。圧力IHは、区分の上ではIHと同じ「電磁誘導加熱方式のもの」です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>仕様表の「区分A〜H」と「年間消費電力量」の読み方</h2>
+        <p>商品の仕様表に「最大炊飯容量区分 B」「区分 E」のような記号が書かれていることがあります。取りまとめ資料では、電磁誘導加熱方式のものをA（0.54L以上0.99L未満）・B（0.99L以上1.44L未満）・C（1.44L以上1.80L未満）・D（1.80L以上）、それ以外をE・F・G・H（同じ容量の区切り）としています（<a href="https://www.eccj.or.jp/toprunner/cooker/cooker.pdf" target="_blank" rel="noopener">取りまとめ資料（PDF）</a>）。資料には、0.54L（3合）、0.99L（5.5合）、1.80L（10合）という容量の例も書かれています。</p>
+        <p><strong>記号の前半（A〜D）か後半（E〜H）かで、IHかどうかが分かります。</strong>GEARNOTEに掲載した炊飯器のページのうち、仕様表に区分の記号があったのは6ページで、記号はB（電磁誘導加熱方式）、D（電磁誘導加熱方式）、E（電磁誘導加熱方式以外）でした。どのページも、方式の記載と記号が矛盾していないことを、このページを作るスクリプトで確かめています（GEARNOTE運営の計算）。</p>
+        <p>年間消費電力量は、次の式で計算する数字です（<a href="https://www.eccj.or.jp/toprunner/cooker/cooker.pdf" target="_blank" rel="noopener">取りまとめ資料の測定方法</a>）。</p>
+        <p><strong>年間消費電力量（kWh/年）＝｛（A×NA）＋（B×HB）＋（C×HC）＋（D×HD）｝÷1000</strong></p>
+        <ul><li>A：1回当たりの炊飯時消費電力量（Wh/回）、NA：年間の炊飯回数</li><li>B：1時間当たりの保温時消費電力量（Wh/h）、HB：年間の保温時間</li><li>C：1時間当たりのタイマー予約時消費電力量（Wh/h）、HC：年間のタイマー予約時間</li><li>D：1時間当たりの待機時消費電力量（Wh/h）、HD：年間の待機時間</li></ul>
+        <p>回数と時間の係数は、最大炊飯容量で変わります。資料の表1では、0.54L以上0.99L未満がNA 290回・HB 920時間・HC 750時間・HD 2,760時間、0.99L以上1.44L未満が340回・1,540時間・1,190時間・2,990時間、1.44L以上1.80L未満が390回・2,180時間・1,880時間・1,210時間、1.80L以上が350回・2,420時間・1,000時間・2,150時間です（<a href="https://www.eccj.or.jp/toprunner/cooker/cooker.pdf" target="_blank" rel="noopener">表1</a>）。</p>
+        <p>この式から読み取れるのは、<strong>年間消費電力量には、炊飯だけでなく保温・予約・待機の電力量も入っている</strong>ことと、<strong>容量の区切りが違えば、式の回数・時間そのものが違う</strong>ことです。最大炊飯容量の違う炊飯器の年間消費電力量は、同じ使い方を仮定した数字ではないため、そのまま並べて比べられません。なお、この係数は2008年度を目標年度とした取りまとめ資料のもので、現行の告示の細部は、GEARNOTE運営は確認していません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>GEARNOTE掲載の炊飯器ページでの、方式の書き方（20ページ）</h2>
+        <p>GEARNOTEの炊飯器の商品ページ20ページについて、<strong>仕様表とメーカー公開仕様の表（2列の表）</strong>に、加熱方式がどう書かれているかを数えました（解説用の表や本文の文章は数えていません）（GEARNOTE運営の計算）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>仕様表での書き方</th><th>ページ数</th></tr></thead>
+            <tbody>
+            <tr><th>圧力IH</th><td>12</td></tr>
+            <tr><th>IH（圧力の記載なし）</th><td>0</td></tr>
+            <tr><th>マイコン式・ヒーター</th><td>5</td></tr>
+            <tr><th>区分の記号だけ</th><td>1</td></tr>
+            <tr><th>記載なし</th><td>2</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>「圧力IH」には、「可変圧力IH」「圧力&スチームIH」「圧力IH（電磁誘導加熱）」などの書き方も含めています。「マイコン式・ヒーター」には、「マイコン式」「マイコンタイプ」「釜包みヒーター（マイコン式）」などが入ります。<strong>圧力のないIHと仕様表に書かれたページは、0ページでした。</strong></p>
+        <p>商品名（ページの見出し）に「圧力」が入っているのは9ページ、「マイコン」が入っているのは2ページ、「IH」「マイコン」「圧力」のどれも入っていないのは9ページでした。<strong>商品名に方式が書かれていない炊飯器は、仕様表で方式を確かめる必要があります。</strong></p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>方式の書かれている炊飯器の、仕様の数字</h2>
+        <p>仕様一覧（<a href="data-rice-cooker">炊飯器の仕様一覧</a>）の18台のうち、仕様表に方式が書かれている台だけを、方式ごとに数えました。圧力IHと書かれたものが10台、マイコン式・ヒーター（または区分E〜H）と書かれたものが6台です。方式の記載がない2台（コイズミ 小型炊飯器 ライスクッカー ミニ、パナソニック 炊飯器 おどり炊き SR-N310D-K）は、どちらにも入れていません（GEARNOTE運営の計算）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>項目</th><th>圧力IH（10台）</th><th>マイコン式・ヒーター（6台）</th></tr></thead>
+            <tbody>
+            <tr><th>最大炊飯容量（白米）</th><td>9台：5〜10合</td><td>4台：3〜5.5合</td></tr>
+            <tr><th>質量</th><td>9台：4.5〜9.5kg</td><td>4台：2.1〜3kg</td></tr>
+            <tr><th>定格消費電力</th><td>6台：1100〜1230W</td><td>2台：350W</td></tr>
+            <tr><th>年間消費電力量</th><td>7台：77.2〜145kWh/年</td><td>4台：33.9〜79kWh/年</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>最大炊飯容量が同じ5.5合のものだけで見ると、質量は圧力IHが6台で5〜7kg、マイコン式・ヒーターが1台で3kgでした。年間消費電力量は、圧力IHが5台で77.2〜93.5kWh/年、マイコン式・ヒーターが1台で79kWh/年です（GEARNOTE運営の計算）。</p>
+        <p>定格消費電力は、記載のある範囲が、圧力IH（1100〜1230 W）とマイコン式・ヒーター（350 W）で重なりませんでした。ただし、定格消費電力は炊飯中の最大の電力の目安で、1回の炊飯で使う電力量（Wh）ではありません。電気の使用量を比べるときは、同じ最大炊飯容量どうしで、年間消費電力量や炊飯時消費電力量を見てください。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品（GEARNOTEのページ）</th><th>判定</th><th>仕様表の書き方</th><th>最大炊飯容量（合）</th><th>質量（kg）</th><th>定格消費電力（W）</th><th>年間消費電力量（kWh/年）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-hitachi-rice-cooker-rz-v100gm-pressure-steam-ih-55go">日立 炊飯器 5.5合 圧力&amp;スチームIH 蒸気カット</a></th><td>圧力IH</td><td>圧力&amp;スチームIH</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-panasonic-rice-cooker-sr-cr10z1-w-amazon-model">パナソニック 圧力IH炊飯器 5合 SR-CR10Z1-W（ホワイト・Amazon.co.jp限定モデル）</a></th><td>圧力IH</td><td>圧力IH</td><td>5</td><td>4.5</td><td>1200</td><td>記載なし</td></tr>
+            <tr><th><a href="product-iris-ohyama-pressure-ih-rice-cooker">アイリスオーヤマ 圧力IHジャー炊飯器</a></th><td>圧力IH</td><td>圧力IHジャー炊飯器</td><td>5.5</td><td>6.7</td><td>1230</td><td>91.7</td></tr>
+            <tr><th><a href="product-panasonic-bistro-pressure-ih-rice-cooker-sr-x710e-h">パナソニック 可変圧力IHジャー炊飯器 Bistro 5.5合 SR-X710E-H（ライトグレージュ）</a></th><td>圧力IH</td><td>可変圧力IHジャー炊飯器</td><td>5.5</td><td>7</td><td>1210</td><td>記載なし</td></tr>
+            <tr><th><a href="product-tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo">タイガー 圧力IH炊飯器 5.5合 JPV-X100WO オフホワイト</a></th><td>圧力IH</td><td>圧力IH</td><td>5.5</td><td>5.4</td><td>1100</td><td>93.5</td></tr>
+            <tr><th><a href="product-tiger-rice-cooker-pressure-ih-jpi-s10nk">タイガー 圧力IH炊飯器 JPI-S10NK（ご泡火炊き）</a></th><td>圧力IH</td><td>圧力IH（電磁誘導加熱）／可変W圧力IH＋釜包みIH</td><td>5.5</td><td>5.4</td><td>1200</td><td>87.5</td></tr>
+            <tr><th><a href="product-toshiba-rice-cooker-rc-10fpw-pressure-ih-55go">東芝 炊飯器 5.5合 圧力IH RC-10FPW(H) アッシュグレージュ</a></th><td>圧力IH</td><td>圧力IH（1.2気圧の圧力炊飯と記載）</td><td>5.5</td><td>5.9</td><td>記載なし</td><td>88.2</td></tr>
+            <tr><th><a href="product-zojirushi-rice-cooker-nw-yb10am-wa">象印 圧力IH炊飯器 極め炊き NW-YB10AM-WA</a></th><td>圧力IH</td><td>圧力IH炊飯器（極め炊き・豪熱大火力）／圧力IH</td><td>5.5</td><td>5</td><td>記載なし</td><td>77.2</td></tr>
+            <tr><th><a href="product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko">タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラック</a></th><td>圧力IH</td><td>圧力IH</td><td>10</td><td>6.6</td><td>1210</td><td>145</td></tr>
+            <tr><th><a href="product-zojirushi-rice-cooker-nx-ab18-wz-enbu-1sho">象印 炊飯器 炎舞炊き NX-AB18-WZ（1升・白）</a></th><td>圧力IH</td><td>圧力IH、3DローテーションIH構造／炎舞炊き NX-AB型（圧力IH炊飯ジャー）</td><td>10</td><td>9.5</td><td>記載なし</td><td>120.6</td></tr>
+            <tr><th><a href="product-comfee-rice-cooker-4go">COMFEE' 炊飯器 4合炊き CRD-20PYT1B1 ベージュ</a></th><td>マイコン式・ヒーター</td><td>マイコン式</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-toshiba-rice-cooker-rc-10zamx-k-amazon-model">東芝 炊飯器 5.5合 RC-10ZAMX(K)（ブラック・Amazon.co.jp限定）</a></th><td>マイコン式・ヒーター</td><td>マイコンタイプ</td><td>記載なし</td><td>記載なし</td><td>記載なし</td><td>記載なし</td></tr>
+            <tr><th><a href="product-tiger-rice-cooker-3go-jbsa055km">タイガー マイコン炊飯器 3合 JBS-A055KM</a></th><td>マイコン式・ヒーター</td><td>釜包みヒーター（マイコン式）／釜包みヒーター</td><td>3</td><td>2.7</td><td>350</td><td>39</td></tr>
+            <tr><th><a href="product-zojirushi-rice-cooker-nlbf05am">象印 炊飯器 極め炊き NL-BF05AM-BZ</a></th><td>区分の記号だけ</td><td>最大炊飯容量区分 E</td><td>3</td><td>2.7</td><td>記載なし</td><td>37.8</td></tr>
+            <tr><th><a href="product-tefal-rice-cooker-the-pop-4go-rk5354j0">ティファール 炊飯器 ザ・ポップ 4合（0.72L） ミントブルー RK5354J0</a></th><td>マイコン式・ヒーター</td><td>マイコン式</td><td>4</td><td>2.1</td><td>350</td><td>33.9</td></tr>
+            <tr><th><a href="product-tiger-rice-cooker-55go-jbh-g101w">タイガー マイコン炊飯器 5.5合 JBH-G101W</a></th><td>マイコン式・ヒーター</td><td>マイコン式、全面加熱（ふた・側面・底）／炊飯ヒーター＋側面ヒーター＋ふたヒーター</td><td>5.5</td><td>3</td><td>記載なし</td><td>79</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>台数が少ないため、この数字は傾向を示すものではありません。GEARNOTEに載せている商品の範囲の数字です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>買う前に、仕様表で確かめること</h2>
+        <ul><li><strong>方式の書き方</strong>：「IH」「圧力IH」「マイコン式」のどれか。商品名に書かれていなければ、仕様表の加熱方式の欄や、区分の記号（A〜DならIH、E〜Hならそれ以外）を見ます。</li><li><strong>最大炊飯容量</strong>：合数とリットルの両方が書かれていることがあります。年間消費電力量は容量の区切りで計算の前提が変わるため、同じ容量どうしで比べます。</li><li><strong>電力の数字の種類</strong>：「定格消費電力」「最大消費電力」「炊飯時消費電力量」「保温時消費電力量」「年間消費電力量」は、それぞれ別の数字です。単位（W・Wh・kWh/年）も違います。</li><li><strong>保温の数字の条件</strong>：保温1時間あたりの消費電力量に「エコ炊飯メニュー時」などの条件が付いていることがあります。条件の違う数字どうしは比べません。</li><li><strong>質量と置き場所</strong>：掲載の数字では、同じ5.5合でも質量に差があります。持ち運ぶことがあるなら、質量も確かめます。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日に、各ページ・PDFを実際に開いて確認した、公的な資料・業界団体の資料・メーカーの公式情報にもとづきます（リンク先は各項目に付けています）。GEARNOTEに掲載した商品の数字は、GEARNOTE運営が仕様一覧のCSVと商品ページから数えたもので、市場全体の割合を示すものではありません。</p>
+        <ul><li>圧力IHの炊飯中の温度や気圧の数字は、メーカーの一次資料で確認できなかったため、書いていません（商品ページに「1.2気圧」と書かれたものがありますが、大気圧との差か合計かは、ページに書かれていません）。</li><li>方式ごとの食感の違いは、好みの話になるため、このページでは扱っていません。</li><li>現行の省エネ法の告示の係数が、取りまとめ資料の表1と同じかどうかは、確認できていません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「炊飯器の加熱方式の違い（IH・圧力IH・マイコン式）」（2026年11月6日（炊飯器の仕様一覧）のデータ、2026年11月15日集計）　https://gearnote.net/diff-rice-cooker-heating</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/diff-rice-cooker-heating"&gt;GEARNOTE「炊飯器の加熱方式の違い（IH・圧力IH・マイコン式）」（2026年11月6日（炊飯器の仕様一覧）のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>マイコン式とIHの違いは何ですか？</h3>
+            <p>熱を出す部品が違います。マイコン式は底などのヒーターが発熱して内鍋を温め、IHはコイルの磁力線で内鍋に渦電流を流し、内鍋そのものを発熱させます。省エネ基準の取りまとめ資料は、IHにもマイコンが使われているため、電磁誘導加熱方式のものと、それ以外に分けています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>圧力IHとIHは、何が違いますか？</h3>
+            <p>圧力IHは、IHの加熱に加えて内釜を密閉して圧力をかけ、高加圧・高温で炊く仕組みです（アイリスオーヤマの説明）。省エネ基準の取りまとめ資料の区分には圧力の有無はなく、圧力IHはIHと同じ電磁誘導加熱方式のものに入ります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>仕様表の「区分B」や「区分E」は何を表しますか？</h3>
+            <p>加熱方式と最大炊飯容量の区分です。取りまとめ資料では、A〜Dが電磁誘導加熱方式（IH）、E〜Hがそれ以外で、Bは0.99L以上1.44L未満のIH、Eは0.54L以上0.99L未満のIH以外です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>年間消費電力量には、保温の電力も入っていますか？</h3>
+            <p>入っています。取りまとめ資料の式は、炊飯時・保温時・タイマー予約時・待機時の消費電力量に、年間の回数や時間を掛けて合計し、1000で割るものです。回数と時間は最大炊飯容量の区切りごとに決まっています。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="data-rice-cooker">炊飯器の仕様一覧</a></li><li><a href="guide-rice-cooker">炊飯器の選び方ガイド</a></li><li><a href="tool-electricity-cost">家電の電気代の目安計算</a></li><li><a href="words#kwh">スペック用語集（電力量kWh）</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

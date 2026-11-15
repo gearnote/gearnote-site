@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>インクジェットとレーザープリンターの違い｜印刷方式・消耗品・ppmとipmの読み方｜GEARNOTE</title>
+<meta name="description" content="インクジェットとレーザープリンターの違いを、メーカーの技術解説とカタログで整理しました。印刷方式、消耗品、印刷速度のipm・ppm（最速）・枚/分の違いを、掲載14台の仕様の書き方つきで説明します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="インクジェットとレーザープリンターの違い｜印刷方式・消耗品・ppmとipmの読み方｜GEARNOTE">
+<meta property="og:description" content="インクジェットとレーザープリンターの違いを、メーカーの技術解説とカタログで整理しました。印刷方式、消耗品、印刷速度のipm・ppm（最速）・枚/分の違いを、掲載14台の仕様の書き方つきで説明します。">
+<meta property="og:url" content="https://gearnote.net/diff-inkjet-vs-laser">
+<link rel="canonical" href="https://gearnote.net/diff-inkjet-vs-laser">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="インクジェットとレーザープリンターの違い｜印刷方式・消耗品・ppmとipmの読み方｜GEARNOTE">
+<meta name="twitter:description" content="インクジェットとレーザープリンターの違いを、メーカーの技術解説とカタログで整理しました。印刷方式、消耗品、印刷速度のipm・ppm（最速）・枚/分の違いを、掲載14台の仕様の書き方つきで説明します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"インクジェットプリンターとレーザープリンターの違い"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"インクジェットとレーザーは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"インクジェットはノズルからインクを吐出して印刷し、レーザーは感光ドラムに付けたトナーを紙に移して、熱と圧力で定着させます（キヤノンの技術解説）。消耗品も、インクと、トナー・感光ドラムで違います。"}},{"@type":"Question","name":"ipmとppmは、何が違いますか？","acceptedAnswer":{"@type":"Answer","text":"ブラザーのカタログでは、ipmはISO/IEC 24734に決められたESATの平均値、PPM（最速）は当社基準の原稿をエコモードで連続印刷したときの1分あたりの枚数です。測り方が違うので、数字をそのまま比べられません。"}},{"@type":"Question","name":"「枚/分」と「ページ/分」は、同じですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEに載せたレーザー・LEDの機種では、片面の印刷速度が「枚/分」、両面の印刷速度が「ページ/分」で書かれていました。片面と両面で別の数字なので、条件をそろえて読んでください。"}},{"@type":"Question","name":"複合機は、インクジェットとレーザーのどちらですか？","acceptedAnswer":{"@type":"Answer","text":"どちらもあります。複合機は、印刷に加えてスキャンやコピーなどの機能がある機種の呼び方で、印刷方式とは別の分け方です。GEARNOTEにも、インクジェットの複合機とレーザーの複合機を載せています。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ インクジェットプリンターとレーザープリンターの違い</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">インクジェットプリンターとレーザープリンター・複合機の違い｜印刷方式・消耗品・印刷速度の単位</h1>
+        <p class="desc">インクジェットとレーザーは、紙に色を乗せるしくみが違います。印刷速度の数字も、ipm・ppm・枚/分と単位や測り方が違い、そのままでは並べられません。メーカーの資料と、GEARNOTEに載せた14台の記載で確かめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年11月6日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>印刷方式の違い：インクを吐出するか、トナーを熱と圧力で定着させるか</h2>
+        <p>インクジェットは、ノズルからインクを吐出して印刷します。キヤノンの技術解説では、吐出のしくみは、ヒーターで加熱して気泡を作り、インクを押し出す「サーマル方式（バブルジェット方式）」と、電圧で変形する圧電素子でノズルを圧して押し出す「ピエゾ方式」の、大きく2つです（<a href="https://global.canon/ja/technology/canon-tech/tech/ij/" target="_blank" rel="noopener">キヤノン「インクジェットプリンター」</a>）。</p>
+        <p>レーザープリンターは、電子写真技術を使うプリンターです。静電気を帯びた感光ドラムにレーザー光を当て、光が当たった部分に粉状のトナーを付け、紙に移して、熱と圧力で定着させます（<a href="https://global.canon/ja/technology/canon-tech/tech/laser-printer/" target="_blank" rel="noopener">キヤノン「レーザープリンター」</a>）。トナーは、帯電性のあるプラスチック粒子に、黒鉛や顔料などを付けた細かい粉です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>項目</th><th>インクジェット</th><th>レーザー</th></tr></thead>
+            <tbody>
+            <tr><th>色を乗せるしくみ</th><td>ノズルからインクを吐出（サーマル方式・ピエゾ方式）</td><td>感光ドラムに付けたトナーを紙に移し、熱と圧力で定着</td></tr>
+            <tr><th>主な消耗品</th><td>インク</td><td>トナー、感光ドラム</td></tr>
+            <tr><th>印刷速度の書き方の例（掲載品）</th><td>ipm、ppm（エコモード・最速）</td><td>枚/分（片面）、ページ/分（両面）</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>表の「印刷速度の書き方の例」は、GEARNOTEに載せた商品のメーカー公開仕様の欄の書き方で、方式ごとに決まった書き方ではありません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>消耗品の違い</h2>
+        <p>インクジェットの消耗品はインクです。レーザーの消耗品はトナーで、キヤノンの解説では、感光ドラムも消耗が激しく、頻繁にメンテナンスが必要な部品の1つとされています（<a href="https://global.canon/ja/technology/canon-tech/tech/laser-printer/" target="_blank" rel="noopener">キヤノン</a>）。</p>
+        <p>インクのカートリッジの形は機種ごとに違い、掲載名に「4色独立型インク」とある機種もあります（<a href="product-epson-ew-056a1-a4-inkjet-multifunction-printer">エプソン EW-056A1</a>）。交換する部品の名前と型番は、商品ページと取扱説明書で確かめてください。GEARNOTEでは価格を扱わないため、消耗品の費用は比べていません。</p>
+        <p>ラベルライターやフォトプリンターは、テープ・ラベル・専用の用紙など、文書用プリンターとは別の消耗品を使います。GEARNOTEの<a href="data-printer">プリンターの仕様一覧</a>では、14台を「文書用」7台・「ラベルライター」5台・「フォトプリンター」2台に分けています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>印刷速度の単位：ipm・ppm（最速）・枚/分は、別の測り方です</h2>
+        <p>ブラザーのカタログでは、ipm表記は国際規格ISO/IEC 24734・24735にもとづく印刷速度で、普通紙のプリント速度は、ISO/IEC 24734に決められた片面・両面印刷のESATの平均値（1セット目の印刷時間を除く）と説明されています（<a href="https://download.brother.com/pub/jp/privio/catalog/roll-paper2307.pdf" target="_blank" rel="noopener">ブラザーのカタログ（PDF）</a>）。キヤノンも、ISO/IEC 24734を標準設定のプリント速度の測定方法として示しています（<a href="https://personal.canon.jp/product/printer/maxify/lineup/cost-speed" target="_blank" rel="noopener">キヤノン「測定環境について」</a>）。</p>
+        <p>同じカタログで、<strong>PPM（最速）表記</strong>は、同じデータを連続で印刷したときに1分あたりに印刷できる枚数で、同じ原稿12枚のプリントで1枚目の排紙から11枚目の排紙までの時間から計算し、当社基準の原稿（A4）をエコモードで出力した場合の数字、と説明されています（<a href="https://download.brother.com/pub/jp/privio/catalog/roll-paper2307.pdf" target="_blank" rel="noopener">同カタログ</a>）。つまり、ipmとPPM（最速）は、原稿も、モードも、測る区間も違います。</p>
+        <p>GEARNOTEに載せたプリンターの、メーカー公開仕様の欄の印刷速度の書き方を、そのまま並べます。<strong>単位が違う数字どうしは、大小を比べません。</strong></p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>メーカー公開仕様の欄の書き方</th><th>単位</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-brother-dcp-j916n-printer">ブラザー DCP-J916N（インクジェット複合機）</a></th><td>普通紙最速スピード（カラー/モノクロ）約23/27ppm［Ecomode］</td><td>ppm（エコモード・最速）</td></tr>
+            <tr><th><a href="product-brother-mfc-j6983cdw-a3-printer">ブラザー MFC-J6983CDW（インクジェット複合機）</a></th><td>プリント速度（A4）カラー約20ipm（片面）/約11ipm（両面）、モノクロ約22ipm（片面）/約12ipm（両面）</td><td>ipm</td></tr>
+            <tr><th><a href="product-brother-fax-2840-mono-laser">ブラザー FAX-2840（モノクロレーザー複合機）</a></th><td>プリント速度（A4）約20枚/分（片面）</td><td>枚/分</td></tr>
+            <tr><th><a href="product-brother-hl-l2460dw-mono-laser">ブラザー HL-L2460DW（モノクロレーザー）</a></th><td>プリント速度 片面（A4）モノクロ約34枚/分、両面約16ページ/分</td><td>枚/分・ページ/分</td></tr>
+            <tr><th><a href="product-brother-hl-l3240cdw-color-laser">ブラザー HL-L3240CDW（カラーLED）</a></th><td>プリント速度 片面（A4）カラー・モノクロとも約26枚/分、両面約10ページ/分</td><td>枚/分・ページ/分</td></tr>
+            <tr><th><a href="product-brother-ql-800-label-printer">ブラザー QL-800（ラベルプリンター）</a></th><td>印刷速度 最大148mm/秒</td><td>mm/秒</td></tr>
+            <tr><th><a href="product-brother-pt-p710bt-label-printer">ブラザー PT-P710BT（ラベルライター）</a></th><td>最大印刷スピード20mm/秒</td><td>mm/秒</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>インクジェットの2台は、ppm（エコモード・最速）とipmで、別の書き方でした。レーザー・LEDの3台は、片面が「枚/分」、両面が「ページ/分」と、同じページの中でも単位の言葉が分かれています。ラベルプリンターは「mm/秒」で、1分あたりの枚数とは別の量です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>寸法の書き方（GEARNOTE掲載の9台）</h2>
+        <p><a href="data-printer">プリンターの仕様一覧</a>で外形寸法（幅・奥行・高さ）に数字がある9台を、区分ごとにまとめました。数字はメーカー公開仕様の欄と照合しています。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>区分</th><th>台数</th><th>幅（mm）</th><th>奥行（mm）</th><th>高さ（mm）</th></tr></thead>
+            <tbody>
+            <tr><th>文書用（インクジェット複合機・レーザー／LED）</th><td>5</td><td>356〜575</td><td>343〜477</td><td>182.5〜375</td></tr>
+            <tr><th>ラベルライター</th><td>4</td><td>115〜183</td><td>61〜219</td><td>58〜142</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>文書用でも、A3に対応する機種（<a href="product-brother-mfc-j6983cdw-a3-printer">ブラザー MFC-J6983CDW</a>：幅575mm）と、A4の機種では大きさが違います。トレイを開く広さなど、使うときに要る広さは、外形寸法とは別です。置き場所は、取扱説明書の設置スペースの図で確かめてください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>複合機とは：印刷以外の機能の書き方</h2>
+        <p>GEARNOTEの掲載名に「複合機」とある4台は、いずれも、商品ページにスキャン・コピー・FAXのいずれかの記載があります。複合機かどうかは、インクジェットかレーザーかとは別の分け方で、インクジェットの複合機も、レーザーの複合機もあります（<a href="product-brother-dcp-j916n-printer">ブラザー DCP-J916N</a>、<a href="product-brother-fax-2840-mono-laser">ブラザー FAX-2840</a>）。</p>
+        <p>複合機のコピー速度も、ブラザーのカタログでは、ISO/IEC 24735にもとづく片面・両面コピーのESATの平均値として書かれています（<a href="https://download.brother.com/pub/jp/privio/catalog/roll-paper2307.pdf" target="_blank" rel="noopener">ブラザーのカタログ</a>）。プリント速度とコピー速度は、別の数字です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み違い</h2>
+        <ul><li><strong>「27ppm」と「22ipm」を並べて、27ppmのほうが速い、とは言えません。</strong>ppm（最速）はエコモード・同じ原稿の連続印刷、ipmはISO/IEC 24734の測り方です。</li><li><strong>片面の「枚/分」と、両面の「ページ/分」は、別の数字です。</strong>GEARNOTE掲載の機種では、両面の数字は片面より小さく書かれていました。</li><li><strong>レーザーとLEDの機種は、GEARNOTEの区分では同じ「文書用」にまとめています。</strong>HL-L3240CDWは、掲載名に「カラーLEDプリンター」とある機種です。</li><li><strong>ラベルライターの「mm/秒」は、1分あたりの枚数とは比べられません。</strong></li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>商品ページで確かめること</h2>
+        <ul><li>印刷速度の単位（ipm・ppm・枚/分）と、条件（片面・両面、カラー・モノクロ、エコモード）。</li><li>使う消耗品の名前と型番（インク、トナー、ドラム）。</li><li>対応する用紙の大きさ（A4・A3など）と、外形寸法・設置スペース。</li><li>複合機なら、スキャン・コピー・FAXのどれに対応しているか。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページのメーカー・公的な資料の事実は、2026年11月15日時点で、各ページを実際に開いて確認したものです。仕様やページの内容は、変わることがあります。サイト内の台数・範囲・割り算は、GEARNOTE運営の計算です。</p>
+        <ul><li><a href="https://global.canon/ja/technology/canon-tech/tech/ij/" target="_blank" rel="noopener">global.canon</a>（2026年11月15日確認）</li><li><a href="https://global.canon/ja/technology/canon-tech/tech/laser-printer/" target="_blank" rel="noopener">global.canon</a>（2026年11月15日確認）</li><li><a href="https://download.brother.com/pub/jp/privio/catalog/roll-paper2307.pdf" target="_blank" rel="noopener">download.brother.com</a>（2026年11月15日確認）</li><li><a href="https://personal.canon.jp/product/printer/maxify/lineup/cost-speed" target="_blank" rel="noopener">personal.canon.jp</a>（2026年11月15日確認）</li></ul>
+        <p>確認できなかったこと：LEDプリンターの露光のしくみを説明したメーカーの一次資料は、開いて確認できなかったため、書いていません。インクジェットとレーザーの、消耗品の費用や消費電力の一般的な差も、一次資料で確かめられなかったため、書いていません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「インクジェットプリンターとレーザープリンターの違い」（2026年11月6日のデータ、2026年11月15日集計）　https://gearnote.net/diff-inkjet-vs-laser</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/diff-inkjet-vs-laser"&gt;GEARNOTE「インクジェットプリンターとレーザープリンターの違い」（2026年11月6日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>インクジェットとレーザーは、何が違いますか？</h3>
+            <p>インクジェットはノズルからインクを吐出して印刷し、レーザーは感光ドラムに付けたトナーを紙に移して、熱と圧力で定着させます（キヤノンの技術解説）。消耗品も、インクと、トナー・感光ドラムで違います。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ipmとppmは、何が違いますか？</h3>
+            <p>ブラザーのカタログでは、ipmはISO/IEC 24734に決められたESATの平均値、PPM（最速）は当社基準の原稿をエコモードで連続印刷したときの1分あたりの枚数です。測り方が違うので、数字をそのまま比べられません。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>「枚/分」と「ページ/分」は、同じですか？</h3>
+            <p>GEARNOTEに載せたレーザー・LEDの機種では、片面の印刷速度が「枚/分」、両面の印刷速度が「ページ/分」で書かれていました。片面と両面で別の数字なので、条件をそろえて読んでください。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>複合機は、インクジェットとレーザーのどちらですか？</h3>
+            <p>どちらもあります。複合機は、印刷に加えてスキャンやコピーなどの機能がある機種の呼び方で、印刷方式とは別の分け方です。GEARNOTEにも、インクジェットの複合機とレーザーの複合機を載せています。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="data-printer">プリンターの仕様一覧</a></li><li><a href="guide-printer">プリンターの選び方</a></li><li><a href="words">スペック用語集</a></li><li><a href="data">データ一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>照明の明るさ(ルーメン)と畳数の目安｜部屋の広さ(畳・㎡)から、LEDシーリングライトのlmを調べる｜GEARNOTE</title>
+<meta name="description" content="部屋の広さ(畳・㎡)から、LEDシーリングライトの明るさ(lm)の目安を調べるツールです。日本照明工業会の資料にある適用畳数の表示基準（〜4.5畳 2,200〜3,199lm から 〜14畳 5,100〜6,099lm）だけを使い、lmから当てはまる畳数も逆に調べられます。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="照明の明るさ(ルーメン)と畳数の目安｜部屋の広さ(畳・㎡)から、LEDシーリングライトのlmを調べる｜GEARNOTE">
+<meta property="og:description" content="部屋の広さ(畳・㎡)から、LEDシーリングライトの明るさ(lm)の目安を調べるツールです。日本照明工業会の資料にある適用畳数の表示基準（〜4.5畳 2,200〜3,199lm から 〜14畳 5,100〜6,099lm）だけを使い、lmから当てはまる畳数も逆に調べられます。">
+<meta property="og:url" content="https://gearnote.net/tool-lumen-room">
+<link rel="canonical" href="https://gearnote.net/tool-lumen-room">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="照明の明るさ(ルーメン)と畳数の目安｜部屋の広さ(畳・㎡)から、LEDシーリングライトのlmを調べる｜GEARNOTE">
+<meta name="twitter:description" content="部屋の広さ(畳・㎡)から、LEDシーリングライトの明るさ(lm)の目安を調べるツールです。日本照明工業会の資料にある適用畳数の表示基準（〜4.5畳 2,200〜3,199lm から 〜14畳 5,100〜6,099lm）だけを使い、lmから当てはまる畳数も逆に調べられます。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"部屋の広さと照明の明るさ（lm）の目安"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"8畳の部屋には、何ルーメンの照明が目安ですか？","acceptedAnswer":{"@type":"Answer","text":"日本照明工業会の資料では、LEDシーリングライトの「〜8畳」は3,300〜4,299lmです。高齢の方がいる部屋は、ワンランク上の「〜10畳」（3,900〜4,899lm）のもの、と同じ資料に書かれています。"}},{"@type":"Question","name":"6畳の部屋には、何ルーメンが目安ですか？","acceptedAnswer":{"@type":"Answer","text":"日本照明工業会の資料の表では、「〜6畳」は2,700〜3,699lmです。"}},{"@type":"Question","name":"3500ルーメンの照明は、何畳用ですか？","acceptedAnswer":{"@type":"Answer","text":"3,500lmは、「〜6畳」（2,700〜3,699lm）と「〜8畳」（3,300〜4,299lm）の両方の範囲に入ります。範囲が重なっているためで、メーカーがどちらで表示するかは、商品の表記で確かめてください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="tools">計算ツール</a> ／ 部屋の広さと照明の明るさ（lm）の目安</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">照明の明るさ（ルーメン）と畳数の目安｜部屋の広さから、LEDシーリングライトのlmを調べる</h1>
+        <p class="desc">LEDシーリングライトの「〜8畳」などの畳数表示は、日本照明工業会が決めた明るさ（lm）の範囲にもとづいています。その表を使って、部屋の広さから目安を調べます。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+          .tl-check{display:flex;gap:8px;align-items:center;margin-top:10px;font-size:.9rem;}
+          .tl-big{font-size:1.15rem;font-weight:700;}
+          .tl-box [hidden]{display:none!important;}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="lr-mode">広さの単位</label><select id="lr-mode"><option value="j" selected>畳</option><option value="m">㎡</option></select></div>
+            <div class="tl-field"><label for="lr-a" id="lr-al">部屋の広さ（畳）</label><input id="lr-a" type="number" inputmode="decimal" min="0" step="any" value="8"></div>
+          </div>
+          <label class="tl-check"><input id="lr-up" type="checkbox"> ワンランク上の目安で見る（日本照明工業会の冊子が、高齢の方がいる部屋について書いている考え方）</label>
+          <div class="tl-presets"><span class="tl-note">広さの例：</span><button type="button" data-lr="4.5">4.5畳</button><button type="button" data-lr="6">6畳</button><button type="button" data-lr="8">8畳</button><button type="button" data-lr="10">10畳</button><button type="button" data-lr="12">12畳</button><button type="button" data-lr="14">14畳</button></div>
+          <p class="tl-result" id="lr-sum" aria-live="polite"></p>
+        </div>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="lr-lm">照明の明るさ（lm・ルーメン）から、どの畳数の範囲か調べる</label><input id="lr-lm" type="number" inputmode="decimal" min="0" step="any" value="3500"></div>
+          </div>
+          <p class="tl-result" id="lr-lsum" aria-live="polite"></p>
+          <p class="tl-note">表はLEDシーリングライト（部屋に1灯）の目安です。㎡で入れたときは、1畳＝1.62㎡で畳数に直しています（GEARNOTE運営の計算。下の説明を読んでください）。</p>
+        </div>
+        <script>
+(function(){
+function g(i){return document.getElementById(i);}
+var J=[[4.5,2200,3199],[6,2700,3699],[8,3300,4299],[10,3900,4899],[12,4500,5499],[14,5100,6099]];
+function n(x){return x.toLocaleString('ja-JP');}
+function rank(t){for(var i=0;i<J.length;i++){if(t<=J[i][0]+1e-9)return i;}return -1;}
+function run(){
+  var md=g('lr-mode').value,a=parseFloat(g('lr-a').value),sum=g('lr-sum'),up=g('lr-up').checked;
+  g('lr-al').textContent=md==='j'?'部屋の広さ（畳）':'部屋の広さ（㎡）';
+  if(!(a>0)){sum.textContent='部屋の広さを入れてください。';return;}
+  var t=md==='j'?a:a/1.62,pre=md==='j'?'':(a+'㎡ ÷ 1.62 ＝ 約'+(Math.round(t*10)/10)+'畳として見ます。');
+  var i=rank(t);
+  if(i>=0&&up)i=i+1<J.length?i+1:-2;
+  sum.textContent='';
+  if(i===-1){sum.textContent=pre+'表は「〜14畳」までです。三菱電機のページには、16畳以上の部屋は1器具での畳数表示を設けない、と書かれています。このツールでは、この広さの目安は出せません。';return;}
+  if(i===-2){sum.textContent=pre+'ワンランク上にすると「〜14畳」を超えるため、表の範囲外です。';return;}
+  var r=J[i],b=document.createElement('span');b.className='tl-big';b.textContent='「〜'+r[0]+'畳」の目安：'+n(r[1])+'〜'+n(r[2])+'lm';
+  sum.appendChild(document.createTextNode(pre+(up?'ワンランク上で見ると、':'')));sum.appendChild(b);
+}
+function run2(){
+  var lm=parseFloat(g('lr-lm').value),o=g('lr-lsum');if(!(lm>0)){o.textContent='明るさ（lm）を入れてください。';return;}
+  var hit=J.filter(function(r){return lm>=r[1]&&lm<=r[2];}).map(function(r){return '「〜'+r[0]+'畳」';});
+  o.textContent=hit.length?(n(lm)+'lmは、'+hit.join('と')+'の範囲に入ります。'+(hit.length>1?'範囲が重なっているため、2つのランクに入ります。メーカーがどの畳数で表示するかは、メーカーの表記で確かめてください。':'')):(lm<J[0][1]?n(lm)+'lmは、表のいちばん下（〜4.5畳の2,200lm）より小さい数字です。':n(lm)+'lmは、表のいちばん上（〜14畳の6,099lm）を超えています。');
+}
+['lr-a'].forEach(function(i){g(i).addEventListener('input',run);});g('lr-mode').addEventListener('change',function(){g('lr-a').value=g('lr-mode').value==='j'?'8':'13';run();});g('lr-up').addEventListener('change',run);
+g('lr-lm').addEventListener('input',run2);
+document.querySelectorAll('[data-lr]').forEach(function(bt){bt.addEventListener('click',function(){g('lr-mode').value='j';g('lr-a').value=bt.getAttribute('data-lr');run();});});
+run();run2();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>日本照明工業会の、適用畳数の表示基準</h2>
+        <p>日本照明工業会（JLMA）の冊子「住まいの照明 省エネBOOK【LED Q&amp;A】」には、LEDシーリングライトの適用畳数の表示基準は日本照明工業会が定めていて、8畳なら3,300〜4,299lmが目安、と書かれています。冊子の表（日本照明工業会ガイドA121:2014にもとづく）は次のとおりです（<a href="https://jlma.or.jp/siryo/pdf/pamph/2019syoenebook.pdf" target="_blank" rel="noopener">JLMA「住まいの照明 省エネBOOK」（PDF）8ページ</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>適用畳数</th><th>照明器具全光束（定格光束・lm）</th><th>三菱電機のページの㎡の併記</th><th>畳数×1.62（㎡・GEARNOTE運営の計算）</th></tr></thead>
+            <tbody>
+            <tr><th>〜4.5畳</th><td>2,200〜3,199</td><td>約7㎡</td><td>7.3</td></tr>
+            <tr><th>〜6畳</th><td>2,700〜3,699</td><td>約10㎡</td><td>9.7</td></tr>
+            <tr><th>〜8畳</th><td>3,300〜4,299</td><td>約13㎡</td><td>13.0</td></tr>
+            <tr><th>〜10畳</th><td>3,900〜4,899</td><td>約17㎡</td><td>16.2</td></tr>
+            <tr><th>〜12畳</th><td>4,500〜5,499</td><td>約20㎡</td><td>19.4</td></tr>
+            <tr><th>〜14畳</th><td>5,100〜6,099</td><td>約23㎡</td><td>22.7</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <ul>
+          <li>「照明器具全光束（定格光束）」の欄は、JLMAの冊子の表の数字です。</li>
+          <li>「㎡の併記」は、三菱電機のシーリングライトのページが、同じ畳数ランクに書いている数字です（<a href="https://www.mitsubishielectric.co.jp/ldg/ja/lighting/products/fixture/ceiling/index.html" target="_blank" rel="noopener">三菱電機のシーリングライトのページ</a>）。同じページには、16畳以上の部屋は、1器具での畳数表示を設けない、とも書かれています。</li>
+          <li>「畳数×1.62」は、不動産広告の規約にある「畳1枚当たり1.62平方メートル以上」（<a href="https://www.rftc.jp/webkanri/kanri/wp-content/uploads/2025/08/20250826_kiyakushuu.pdf" target="_blank" rel="noopener">不動産の表示に関する公正競争規約（PDF）</a>）を使った、GEARNOTE運営の計算です。ツールで㎡を入れたときも、この1.62で畳数に直しています。照明の基準そのものが、1畳を何㎡としているかは、確認できませんでした。</li>
+          <li>同じ冊子には、高齢の方がいる部屋はワンランク上（8畳なら「〜10畳」）のもの、と書かれています。ツールの「ワンランク上」は、この考え方で、ひとつ上の段を表示します。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>表を読むときの注意</h2>
+        <ul>
+          <li>範囲は、となりの段と重なっています。たとえば3,500lmは、「〜6畳」（2,700〜3,699lm）にも「〜8畳」（3,300〜4,299lm）にも入ります。メーカーがどちらの畳数で表示するかは、商品の表記で確かめてください。</li>
+          <li>JLMAの冊子には、最近のLEDシーリングライトは、畳数ごとの目安の最大値（8畳なら4,299lm）に近いものが多くなってきた、とも書かれています。購入前に、照明器具全光束（lm）の数字を確かめるよう勧めています。</li>
+          <li>表は、部屋に照明を1つ付けるときの目安です。デスクライトやスポットライトの明るさとは、比べる対象が違います。</li>
+          <li>例：6畳の部屋なら、表の目安は2,700〜3,699lmです。12㎡の部屋をツールに入れると、12÷1.62＝約7.4畳なので、「〜8畳」の3,300〜4,299lmが表示されます（GEARNOTE運営の計算）。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>確認できなかったこと</h2>
+        <ul>
+          <li>日本照明工業会ガイドA121の本文は公開されておらず、確認できませんでした。パナソニックのページは2023年版を出典にしていますが、2023年版の数字が2014年版と同じかどうかは、確認できていません。このページの数字は、JLMAの冊子（2014年版にもとづく）と、三菱電機のページ（同じ2014年版を出典とする）で一致したものです。</li>
+          <li>畳数の基準が前提にしている床の明るさ（ルクス）は、LEDの基準本文で確認できませんでした。省エネ型製品情報サイトの蛍光灯器具の解説には、住宅の居間・団らんで200ルクスが得られるように設定、という説明がありますが、LEDの表と同じ前提かは分からないため、ツールには使っていません。</li>
+          <li>16畳以上の部屋の目安は、日本照明工業会の資料では確認できず、三菱電機のページの記載だけを書いています。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>出典（2026年11月15日確認）</h2>
+        <ul>
+          <li><a href="https://jlma.or.jp/siryo/pdf/pamph/2019syoenebook.pdf" target="_blank" rel="noopener">日本照明工業会（JLMA）『住まいの照明 省エネBOOK【LED Q&amp;A】』2019年 8ページ（PDF内6ページ目）の表と本文</a>（適用畳数とlmの表・ワンランク上の考え方）</li>
+          <li><a href="https://www.mitsubishielectric.co.jp/ldg/ja/lighting/products/fixture/ceiling/index.html" target="_blank" rel="noopener">三菱電機 照明 シーリングライト製品ページ</a>（㎡の併記・16畳以上）</li>
+          <li><a href="https://www.rftc.jp/webkanri/kanri/wp-content/uploads/2025/08/20250826_kiyakushuu.pdf" target="_blank" rel="noopener">不動産の表示に関する公正競争規約・同施行規則（2025年8月版 PDF）</a>（1畳＝1.62㎡以上）</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「部屋の広さと照明の明るさ（lm）の目安」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/tool-lumen-room</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-lumen-room"&gt;GEARNOTE「部屋の広さと照明の明るさ（lm）の目安」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>8畳の部屋には、何ルーメンの照明が目安ですか？</h3>
+            <p>日本照明工業会の資料では、LEDシーリングライトの「〜8畳」は3,300〜4,299lmです。高齢の方がいる部屋は、ワンランク上の「〜10畳」（3,900〜4,899lm）のもの、と同じ資料に書かれています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>6畳の部屋には、何ルーメンが目安ですか？</h3>
+            <p>日本照明工業会の資料の表では、「〜6畳」は2,700〜3,699lmです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>3500ルーメンの照明は、何畳用ですか？</h3>
+            <p>3,500lmは、「〜6畳」（2,700〜3,699lm）と「〜8畳」（3,300〜4,299lm）の両方の範囲に入ります。範囲が重なっているためで、メーカーがどちらで表示するかは、商品の表記で確かめてください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>関連ページ</h2>
+        <ul><li><a href="guide-led-light">LEDシーリングライト・デスクライトの選び方ガイド</a></li><li><a href="guide-led-bulb-light-power-labels">LED電球などの表記の見方</a></li><li><a href="tool-tatami">畳と㎡の換算</a></li><li><a href="spec-glossary">スペック用語集</a></li><li><a href="tools">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

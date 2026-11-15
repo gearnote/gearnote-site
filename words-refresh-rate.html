@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>リフレッシュレートとは｜Hzと応答速度（GtG・MPRT）の違い｜GEARNOTE</title>
+<meta name="description" content="モニターやテレビのリフレッシュレート（Hz）と応答速度（GtG・MPRT）の意味と違いを、VESAとメーカーの資料で確かめました。HDMIとDisplayPortで最大Hzが変わる、掲載モニターの実例つきです。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="リフレッシュレートとは｜Hzと応答速度（GtG・MPRT）の違い｜GEARNOTE">
+<meta property="og:description" content="モニターやテレビのリフレッシュレート（Hz）と応答速度（GtG・MPRT）の意味と違いを、VESAとメーカーの資料で確かめました。HDMIとDisplayPortで最大Hzが変わる、掲載モニターの実例つきです。">
+<meta property="og:url" content="https://gearnote.net/words-refresh-rate">
+<link rel="canonical" href="https://gearnote.net/words-refresh-rate">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="リフレッシュレートとは｜Hzと応答速度（GtG・MPRT）の違い｜GEARNOTE">
+<meta name="twitter:description" content="モニターやテレビのリフレッシュレート（Hz）と応答速度（GtG・MPRT）の意味と違いを、VESAとメーカーの資料で確かめました。HDMIとDisplayPortで最大Hzが変わる、掲載モニターの実例つきです。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"スペック用語集","item":"https://gearnote.net/words"},{"@type":"ListItem","position":3,"name":"リフレッシュレート（Hz）と応答速度（GtG・MPRT）とは"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"リフレッシュレートと応答速度の違いは何ですか？","acceptedAnswer":{"@type":"Answer","text":"リフレッシュレートは、モニターが1秒間に画面を何回更新するか（単位Hz）、応答速度は、画面の色が切り替わる時間（単位ms）です。別の性能を示す数字です。"}},{"@type":"Question","name":"GtGとMPRTは、どちらの数字を比べればいいですか？","acceptedAnswer":{"@type":"Answer","text":"測っているものが違うので、GtGの数字とMPRTの数字を並べて比べることはできません。GtGは中間色どうしの切り替えの時間、MPRTは動く物体の輪郭の表示の速さです。また、メーカーごとに計測の仕方が違うことがあります。"}},{"@type":"Question","name":"「最大240Hz」のモニターは、HDMIでも240Hzになりますか？","acceptedAnswer":{"@type":"Answer","text":"なるとは限りません。GEARNOTE掲載のモニターでは、DisplayPort接続で280Hz、HDMI 2.0接続で240Hzのように、接続方式ごとに別の最大Hzが書かれている機種があります。使う接続方式のときの数字を確認してください。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="words">スペック用語集</a> ／ リフレッシュレート（Hz）と応答速度（GtG・MPRT）とは</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">リフレッシュレート（Hz）とは｜応答速度（GtG・MPRT）との違いと、接続方式で変わる最大Hz</h1>
+        <p class="desc">Hzは1秒間の書き換えの回数、msは色が切り替わる時間です。2つの数字の意味と、同じモニターでも条件で数字が変わる例を、まとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>リフレッシュレート（Hz）とは</h2>
+        <p>リフレッシュレートは、モニターが1秒間に何回画面を更新するかを示す数値で、単位はHz（ヘルツ）です。60Hzなら1秒間に60回、120Hzなら1秒間に120回、画面を更新します（<a href="https://www.lenovo.com/jp/ja/articletop/accessory/answering-speed/" target="_blank" rel="noopener">レノボ・ジャパンの解説</a>）。</p>
+        <p>1秒を回数で割ると、1回の更新あたりの時間になります（GEARNOTE運営の計算）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>リフレッシュレート</th><th>1回の更新あたりの時間（1000÷Hz）</th></tr></thead>
+            <tbody>
+            <tr><th>60Hz</th><td>約16.7ms</td></tr>
+            <tr><th>120Hz</th><td>約8.3ms</td></tr>
+            <tr><th>144Hz</th><td>約6.9ms</td></tr>
+            <tr><th>165Hz</th><td>約6.1ms</td></tr>
+            <tr><th>240Hz</th><td>約4.2ms</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>同じ解説では、高いリフレッシュレートを生かすには、パソコンが同じ数値のフレームレート（1秒間に送り出す画面の枚数）に対応している必要がある、とされています。モニターのHzは、表示できる回数の上限で、パソコンやゲーム機が送る映像の枚数とは別のものです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>応答速度（ms）とは：GtGとMPRT</h2>
+        <p>応答速度は、画面の色が切り替わる時間で、単位はms（ミリ秒）です。モニターの応答速度には、GtG（Gray to Gray）とMPRT（Moving Picture Response Time）の2種類があります（<a href="https://www.lenovo.com/jp/ja/articletop/accessory/answering-speed/" target="_blank" rel="noopener">レノボ・ジャパンの解説</a>）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>表記</th><th>何を示すか</th></tr></thead>
+            <tbody>
+            <tr><th>GtG（GTG）</th><td>中間色から中間色へ切り替わるときの応答速度</td></tr>
+            <tr><th>MPRT</th><td>動く物体の輪郭が表示される速度。残像の少なさの指標として使われる</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>同じ解説は、<strong>応答速度の数値は、メーカーごとに計測の仕方に違いがあり、メーカーが異なると正確に比較できないことがある</strong>としています。GtGの数字とMPRTの数字は、測っているものが違うので、並べて大小を比べることはできません。</p>
+        <p>また、応答を速める「オーバードライブ」は、液晶に高い電圧をかけて中間色の応答を速める技術で、強くし過ぎると、かえって残像が生じることもある、とされています。仕様の応答速度に「オーバードライブ レベル2設定時」のような条件が付くのは、このためです。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>VESAの認証：数字の測り方をそろえる取り組み</h2>
+        <p>VESAの<strong>AdaptiveSync Display</strong>認証は、可変リフレッシュレートのディスプレイの表示性能についての公開規格で、リフレッシュレート、ちらつき、gray-to-gray（GtG）応答時間、フレーム落ちなど、50以上の試験項目があります。Adaptive-Syncは、VESAのDisplayPort規格の一部です（<a href="https://www.adaptivesync.org/" target="_blank" rel="noopener">VESA AdaptiveSync</a>）。</p>
+        <p>VESAの<strong>ClearMR</strong>は、動きのぼやけを等級で示す公開規格で、くっきりした画素とぼやけた画素の比（CMR）で表します。モニター・テレビ・ノートパソコンなどに適用できます。VESAは、MPRTなど時間だけで測る方法は、ぼやけの実態を反映しないとして、CMRがMPRTに代わるものだとしています（<a href="https://www.clearmr.org/" target="_blank" rel="noopener">VESA ClearMR</a>）。</p>
+        <p>これらの認証のロゴや等級は、メーカーが独自に書く「○ms」とは別のものです。商品にどちらが書かれているかを、分けて読んでください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>同じモニターでも、接続方式で最大Hzが違う</h2>
+        <p>GEARNOTEの<a href="data-monitor">モニターの仕様一覧</a>では、最大リフレッシュレートを、「接続方式・解像度で値が変わる記載がないもの」と「DisplayPort接続時」の2つの列に分けています。DisplayPort接続時の列に数字がある4台は、どれも、商品ページのメーカー公開仕様に、<strong>HDMI接続時の最大Hzが、DisplayPort接続時より小さい数字で別に書かれています</strong>。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>HDMI接続の記載</th><th>DisplayPort接続の記載</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-benq-zowie-xl2540xplus-monitor">BenQ ZOWIE XL2540X+</a></th><td>HDMI 2.0で最大240Hz</td><td>DisplayPort 1.2で最大280Hz</td></tr>
+            <tr><th><a href="product-iodata-gcfx-ex-gd252uhb-24-5-fhd-260hz-gaming-monitor">IODATA EX-GD252UHB</a></th><td>HDMI 48〜240Hz</td><td>DisplayPort 48〜260Hz</td></tr>
+            <tr><th><a href="product-philips-evnia-27m2n3500nl-wqhd-180hz-monitor">PHILIPS 27M2N3500NL</a></th><td>2560 × 1440 @ 144 Hz（HDMI）</td><td>2560 × 1440 @ 180 Hz（DisplayPort）</td></tr>
+            <tr><th><a href="product-iiyama-g-master-gb2591hsu-b1ja-24-5-fhd-320hz-gaming-monitor">iiyama GB2591HSU-B1JA</a></th><td>HDMI：48〜240Hz</td><td>DisplayPort：48〜320Hz</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>「最大○○Hz」の数字は、つなぎ方（HDMI・DisplayPort）や解像度の条件つきの上限です。HDMIでつなぐ予定なら、HDMI接続のときの数字を確認してください。HDMIのバージョンの読み方は、<a href="words-hdmi">HDMI 2.0と2.1の違い</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>掲載しているモニターの数字（18台）</h2>
+        <p><a href="data-monitor">モニターの仕様一覧</a>の18台のうち、最大リフレッシュレートの数字がある14台を、Hzごとに数えました（2つの列のうち大きい方の数字）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>最大リフレッシュレート</th><th>台数</th></tr></thead>
+            <tbody>
+            <tr><th>60Hz</th><td>4</td></tr>
+            <tr><th>100Hz</th><td>1</td></tr>
+            <tr><th>120Hz</th><td>2</td></tr>
+            <tr><th>165Hz</th><td>1</td></tr>
+            <tr><th>180Hz</th><td>1</td></tr>
+            <tr><th>220Hz</th><td>1</td></tr>
+            <tr><th>260Hz</th><td>2</td></tr>
+            <tr><th>280Hz</th><td>1</td></tr>
+            <tr><th>320Hz</th><td>1</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>応答速度の表記を、商品ページのメーカー公開仕様の欄で調べると、GtGだけが書かれているのは10台、MPRTだけが1台、両方が2台、どちらの語もないのは5台でした（18台中）。</p>
+        <p>たとえば<a href="product-dell-s2426hs-23-8-fhd-165hz-ips-monitor">Dell S2426HS</a>の仕様には、「1ms MPRT／4ms GTG（エクストリームモード）／5ms GTG（高速）／8ms GTG」と、同じモニターで、表記の種類と設定ごとに4つの数字が書かれています。どの数字が、どの条件のものかを読むことが大切です。</p>
+        <p>この集計は、GEARNOTEに載せている商品の範囲のもので、市場全体の傾向を示すものではありません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>商品ページで確認したいこと</h2>
+        <ul><li>最大リフレッシュレートが、どの接続方式（HDMI・DisplayPort・USB-C）と解像度のときの数字か。</li><li>応答速度が、GtGかMPRTか。オーバードライブなどの設定の条件が付いているか。</li><li>つなぐパソコンやゲーム機が、そのHzの映像を送れるか（出力側の仕様）。</li><li>テレビの場合は、HDMI入力の仕様（<a href="data-tv">テレビの仕様一覧</a>）。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的な資料・規格団体・メーカーの資料にもとづきます（リンク先は、各項目に付けています）。GEARNOTEのデータの数字は、GEARNOTE運営が、掲載ページから数えたものです。規格や制度は、改正されることがあります。</p>
+        <ul><li>GtGの測り方（明るさの何%から何%までを測るか）を定めた、公開の一次資料は確認できなかったので、書いていません。</li><li>VESAの規格本文（Adaptive-Sync Display CTS、ClearMR CTS）は開いていません。ここでの説明は、VESAの公式サイトの説明にもとづきます。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「リフレッシュレート（Hz）と応答速度（GtG・MPRT）とは」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/words-refresh-rate</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/words-refresh-rate"&gt;GEARNOTE「リフレッシュレート（Hz）と応答速度（GtG・MPRT）とは」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>リフレッシュレートと応答速度の違いは何ですか？</h3>
+            <p>リフレッシュレートは、モニターが1秒間に画面を何回更新するか（単位Hz）、応答速度は、画面の色が切り替わる時間（単位ms）です。別の性能を示す数字です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>GtGとMPRTは、どちらの数字を比べればいいですか？</h3>
+            <p>測っているものが違うので、GtGの数字とMPRTの数字を並べて比べることはできません。GtGは中間色どうしの切り替えの時間、MPRTは動く物体の輪郭の表示の速さです。また、メーカーごとに計測の仕方が違うことがあります。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>「最大240Hz」のモニターは、HDMIでも240Hzになりますか？</h3>
+            <p>なるとは限りません。GEARNOTE掲載のモニターでは、DisplayPort接続で280Hz、HDMI 2.0接続で240Hzのように、接続方式ごとに別の最大Hzが書かれている機種があります。使う接続方式のときの数字を確認してください。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>関連ページ</h2>
+        <ul><li><a href="data-monitor">モニターの仕様一覧</a></li><li><a href="guide-monitor">モニターの選び方</a></li><li><a href="data-tv">テレビの仕様一覧</a></li><li><a href="words-hdmi">HDMI 2.0と2.1の違い</a></li><li><a href="tool-ppi">ppiの計算ツール</a></li><li><a href="words">スペック用語集</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

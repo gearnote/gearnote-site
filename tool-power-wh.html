@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>消費電力量の計算｜ワット(W)と使う時間から、Wh・kWhを出す（1日・1か月・1年）｜GEARNOTE</title>
+<meta name="description" content="家電の消費電力(W)と使う時間から、消費電力量(Wh・kWh)を1日・1か月・1年で計算するツールです。テレビ・冷蔵庫の「年間消費電力量(kWh/年)」がW×時間と別の数字である理由を、公的な資料と掲載商品の数字で説明します。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="消費電力量の計算｜ワット(W)と使う時間から、Wh・kWhを出す（1日・1か月・1年）｜GEARNOTE">
+<meta property="og:description" content="家電の消費電力(W)と使う時間から、消費電力量(Wh・kWh)を1日・1か月・1年で計算するツールです。テレビ・冷蔵庫の「年間消費電力量(kWh/年)」がW×時間と別の数字である理由を、公的な資料と掲載商品の数字で説明します。">
+<meta property="og:url" content="https://gearnote.net/tool-power-wh">
+<link rel="canonical" href="https://gearnote.net/tool-power-wh">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="消費電力量の計算｜ワット(W)と使う時間から、Wh・kWhを出す（1日・1か月・1年）｜GEARNOTE">
+<meta name="twitter:description" content="家電の消費電力(W)と使う時間から、消費電力量(Wh・kWh)を1日・1か月・1年で計算するツールです。テレビ・冷蔵庫の「年間消費電力量(kWh/年)」がW×時間と別の数字である理由を、公的な資料と掲載商品の数字で説明します。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"計算ツール","item":"https://gearnote.net/tools"},{"@type":"ListItem","position":3,"name":"消費電力量の計算（W×時間→Wh・kWh）"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"WとkWhの違いは何ですか？","acceptedAnswer":{"@type":"Answer","text":"W（ワット）は、その瞬間に使っている電力です。kWh（キロワットアワー）は、使った電力の量で、W×時間÷1000で求めます。100Wを10時間使うと1kWhです。"}},{"@type":"Question","name":"テレビの消費電力×時間で、年間消費電力量になりますか？","acceptedAnswer":{"@type":"Answer","text":"なりません。テレビの年間消費電力量は、1日あたり平均視聴4.5時間・平均待機19.5時間を基準に、工場出荷時の画質モードで測った数値です（省エネ性能カタログの解説）。GEARNOTEに掲載したテレビ9台では、どれも、消費電力×4.5時間×365日より小さい数字でした。"}},{"@type":"Question","name":"年間消費電力量から、1日あたりの量を出すには？","acceptedAnswer":{"@type":"Answer","text":"年間消費電力量（kWh/年）を365で割ります。たとえば90kWh/年なら、1日あたり約0.247kWh（約247Wh）です。このページのツールで計算できます。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="tools">計算ツール</a> ／ 消費電力量の計算（W×時間→Wh・kWh）</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">消費電力量の計算｜W（ワット）×使う時間で、Wh・kWh（キロワットアワー）を出す</h1>
+        <p class="desc">消費電力（W）に使う時間をかけると、消費電力量（Wh）になります。1000Whが1kWhです。メーカーの「年間消費電力量」との違いもまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>ツール</h2>
+        <style>
+          .tl-box{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin:0 0 16px;}
+          .tl-row{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:flex-end;}
+          .tl-field{display:flex;flex-direction:column;gap:4px;min-width:140px;flex:1 1 150px;}
+          .tl-field label{font-size:.85rem;color:var(--text-muted);}
+          .tl-field input,.tl-field select{background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px;font-size:1rem;width:100%;box-sizing:border-box;}
+          .tl-presets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
+          .tl-presets button{background:var(--surface-alt);color:var(--text);border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:.85rem;cursor:pointer;}
+          .tl-presets button:hover{border-color:var(--brand-light);}
+          .tl-result{margin:12px 0 0;font-size:1rem;}
+          .tl-note{font-size:.85rem;color:var(--text-muted);}
+          .tl-ok{color:var(--brand-light);}
+          .tl-check{display:flex;gap:8px;align-items:center;margin-top:10px;font-size:.9rem;}
+          .tl-big{font-size:1.15rem;font-weight:700;}
+          .tl-box [hidden]{display:none!important;}
+        </style>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="pw-w">消費電力（W）</label><input id="pw-w" type="number" inputmode="decimal" min="0" step="any" value="100"></div>
+            <div class="tl-field"><label for="pw-h">1日に使う時間（時間）</label><input id="pw-h" type="number" inputmode="decimal" min="0" max="24" step="any" value="3"></div>
+            <div class="tl-field"><label for="pw-dm">1か月に使う日数（日）</label><input id="pw-dm" type="number" inputmode="decimal" min="0" step="any" value="30"></div>
+            <div class="tl-field"><label for="pw-dy">1年に使う日数（日）</label><input id="pw-dy" type="number" inputmode="decimal" min="0" step="any" value="365"></div>
+          </div>
+          <div class="tl-presets"><span class="tl-note">入力の例：</span><button type="button" data-pw="20,8">20Wを8時間</button><button type="button" data-pw="60,6">60Wを6時間</button><button type="button" data-pw="110,4.5">110Wを4.5時間</button><button type="button" data-pw="1200,0.5">1200Wを30分</button></div>
+          <p class="tl-result" id="pw-sum" aria-live="polite"></p>
+          <div class="compare-table-wrap"><table class="compare-table guide-table"><thead><tr><th>期間</th><th>消費電力量（Wh）</th><th>消費電力量（kWh）</th></tr></thead><tbody id="pw-tb"></tbody></table></div>
+        </div>
+        <div class="tl-box">
+          <div class="tl-row">
+            <div class="tl-field"><label for="pw-k">メーカーの年間消費電力量（kWh/年）を、1日・1か月あたりに直す</label><input id="pw-k" type="number" inputmode="decimal" min="0" step="any" value="90"></div>
+          </div>
+          <p class="tl-result" id="pw-ksum" aria-live="polite"></p>
+          <p class="tl-note">年間消費電力量は、決められた条件で測った数字です。割り算をしただけなので、ご家庭での実際の量とは別のものです。</p>
+        </div>
+        <script>
+(function(){
+function g(i){return document.getElementById(i);}
+function f(x,d){return Number(x.toFixed(d)).toLocaleString('ja-JP',{maximumFractionDigits:d});}
+function run(){
+  var w=parseFloat(g('pw-w').value),h=parseFloat(g('pw-h').value),dm=parseFloat(g('pw-dm').value),dy=parseFloat(g('pw-dy').value),sum=g('pw-sum');
+  if(!(w>=0)||!(h>=0)||!(dm>=0)||!(dy>=0)||isNaN(w)){sum.textContent='数字を入れてください。';g('pw-tb').textContent='';return;}
+  if(h>24){sum.textContent='1日に使う時間は24時間までで入れてください。';g('pw-tb').textContent='';return;}
+  var d=w*h;sum.textContent=w+'W × '+h+'時間 ＝ 1日 '+f(d,1)+'Wh（'+f(d/1000,3)+'kWh）です。';
+  var rows=[['1日',f(d,1),f(d/1000,3)],['1か月（'+dm+'日）',f(d*dm,0),f(d*dm/1000,2)],['1年（'+dy+'日）',f(d*dy,0),f(d*dy/1000,1)]];
+  var tb=g('pw-tb');tb.textContent='';rows.forEach(function(r){var tr=document.createElement('tr');r.forEach(function(c,i){var e=document.createElement(i?'td':'th');e.textContent=c;tr.appendChild(e);});tb.appendChild(tr);});
+}
+function run2(){var k=parseFloat(g('pw-k').value),o=g('pw-ksum');if(!(k>0)){o.textContent='数字を入れてください。';return;}
+  o.textContent=k+'kWh/年 ÷ 365日 ＝ 1日あたり '+f(k/365,3)+'kWh（'+f(k/365*1000,0)+'Wh）、÷ 12 ＝ 1か月あたり '+f(k/12,1)+'kWh です。';}
+['pw-w','pw-h','pw-dm','pw-dy'].forEach(function(i){g(i).addEventListener('input',run);});g('pw-k').addEventListener('input',run2);
+document.querySelectorAll('[data-pw]').forEach(function(b){b.addEventListener('click',function(){var v=b.getAttribute('data-pw').split(',');g('pw-w').value=v[0];g('pw-h').value=v[1];run();});});
+run();run2();
+})();
+</script>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>計算のしくみ</h2>
+        <ul>
+          <li>消費電力量（Wh）＝ 消費電力（W）× 使う時間（時間）。30分なら0.5時間、10分なら約0.17時間として入れます。</li>
+          <li>1kWh（キロワットアワー）＝ 1000Wh。たとえば100Wを3時間使うと300Wh＝0.3kWh、30日で9kWh、365日で109.5kWhです。</li>
+          <li>W（ワット）は「その瞬間の電力」、Wh・kWhは「使った電力の量」です。同じ100Wでも、使う時間が倍なら、量も倍になります。</li>
+          <li>このページでは、電気料金は計算しません。料金を出したいときは、ご契約の料金の単価で計算してください（<a href="tool-electricity-cost">家電の電気代の目安計算</a>）。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>W×時間と、メーカーの「年間消費電力量」は別の数字</h2>
+        <p>テレビや冷蔵庫には、メーカーが「年間消費電力量（kWh/年）」を書いています。これは、決められた条件で測った数字で、「消費電力（W）× 時間」とは一致しません。</p>
+        <ul>
+          <li><strong>テレビ</strong>：年間消費電力量は、一般家庭での1日あたりの平均視聴時間4.5時間、平均待機時間（番組表の取得時間を含む）19.5時間を基準に算出した数値です。液晶テレビは、工場出荷時の画質モード（標準状態）で測ります。一方、カタログの消費電力（定格消費電力）は、電気用品安全法で決められた測定方法で測った電力です（<a href="https://seihinjyoho.go.jp/frontguide/pdf/guide_tv_lcd.pdf" target="_blank" rel="noopener">省エネ性能カタログ2020年版・液晶テレビの解説（PDF）</a>）。</li>
+          <li><strong>冷蔵庫</strong>：年間消費電力量は、JIS C 9801:2015にもとづいて測った数値です（50Hz・60Hz共用の製品は、大きいほうの数値）（<a href="https://seihinjyoho.go.jp/frontguide/pdf/guide_refrigerator.pdf" target="_blank" rel="noopener">省エネ性能カタログ2021年版・電気冷蔵庫の解説（PDF）</a>）。</li>
+        </ul>
+        <h3>テレビ：消費電力×4.5時間×365日と、年間消費電力量（掲載9台）</h3>
+        <p>GEARNOTEのテレビのうち、消費電力と年間消費電力量の両方が分かる9台です。「消費電力×4.5時間×365日」は、GEARNOTE運営が比べるために出した計算で、メーカーの数字ではありません。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>画面サイズ</th><th>消費電力（W）</th><th>年間消費電力量（kWh/年）</th><th>÷365（kWh/日）</th><th>消費電力×4.5時間×365日（kWh）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-hisense-43e50s-43v-4k-lcd-tv-2026">ハイセンス 43E50S（43V型 4K液晶テレビ・2026年モデル）</a></th><td>43V型</td><td>110</td><td>90</td><td>0.25</td><td>180.7</td></tr>
+            <tr><th><a href="product-regza-43e350s-43v-4k-lcd-tv-2026">レグザ 43E350S（43V型・4K液晶テレビ・2026年モデル）</a></th><td>43V型</td><td>106</td><td>90</td><td>0.25</td><td>174.1</td></tr>
+            <tr><th><a href="product-regza-50e350s-50v-4k-lcd-tv-2026">レグザ 50E350S（50V型 4K液晶テレビ・2026年モデル）</a></th><td>50V型</td><td>128</td><td>102</td><td>0.28</td><td>210.2</td></tr>
+            <tr><th><a href="product-sharp-aquos-4t-c43gj2-google-tv">シャープ AQUOS 4T-C43GJ2 43V型 4K液晶テレビ Google TV搭載</a></th><td>43V型</td><td>136</td><td>107</td><td>0.29</td><td>223.4</td></tr>
+            <tr><th><a href="product-hisense-50e50s-4k-tv">ハイセンス 50E50S（50V型 4K液晶テレビ）</a></th><td>50V型</td><td>130</td><td>112</td><td>0.31</td><td>213.5</td></tr>
+            <tr><th><a href="product-regza-55e350s-55v-4k-lcd-tv-2026">レグザ 55E350S（55V型・4K液晶テレビ・2026年モデル）</a></th><td>55V型</td><td>132</td><td>114</td><td>0.31</td><td>216.8</td></tr>
+            <tr><th><a href="product-panasonic-viera-tv-50a90b">パナソニック VIERA TV-50A90B（50V型 4K液晶テレビ）</a></th><td>50V型</td><td>195</td><td>128</td><td>0.35</td><td>320.3</td></tr>
+            <tr><th><a href="product-sony-bravia-8-ii-k-55xr80m2-55v-4k-oled-tv-2026">ソニー ブラビア K-55XR80M2（55インチ・4K有機EL・BRAVIA 8 II）</a></th><td>55V型</td><td>318</td><td>169</td><td>0.46</td><td>522.3</td></tr>
+            <tr><th><a href="product-sharp-aquos-4t-c65fn1">シャープ AQUOS 4T-C65FN1</a></th><td>65V型</td><td>274</td><td>192</td><td>0.53</td><td>450.0</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>9台すべてで、メーカーの年間消費電力量は、「消費電力×4.5時間×365日」より小さくなっています。たとえば「ハイセンス 43E50S（43V型 4K液晶テレビ・2026年モデル）」は、消費電力110W・年間消費電力量90kWh/年で、計算した180.7kWhの約50%です。測り方が違う数字なので、W×時間で年間の量を出すと、メーカーの数字とは合いません。</p>
+        <h3>冷蔵庫：年間消費電力量を、1日・1か月あたりに直す（掲載5台）</h3>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>容量</th><th>年間消費電力量（kWh/年）</th><th>÷365（kWh/日）</th><th>÷12（kWh/月）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-yamazen-fridge-46l-yfr-51">山善 冷蔵庫 46L 右開き 1ドア 小型 静音 省エネ 製氷スペース付き</a></th><td>46L</td><td>111</td><td>0.30</td><td>9.2</td></tr>
+            <tr><th><a href="product-hisense-fridge-45l-hr-a45s">ハイセンス 小型冷蔵庫 45L HR-A45S シルバー</a></th><td>45L</td><td>119</td><td>0.33</td><td>9.9</td></tr>
+            <tr><th><a href="product-hisense-fridge-87l-hr-b91hw">ハイセンス 冷蔵庫 幅47.5cm 87L 右開き HR-B91HW ホワイト</a></th><td>87L</td><td>194</td><td>0.53</td><td>16.2</td></tr>
+            <tr><th><a href="product-yamazen-fridge-106l">山善 冷蔵庫 106L YFR-D111(W)</a></th><td>106L</td><td>268</td><td>0.73</td><td>22.3</td></tr>
+            <tr><th><a href="product-hisense-fridge-175l-hr-d1701s">ハイセンス 冷蔵庫 幅49cm 175L 右開き HR-D1701S シルバー 2ドア</a></th><td>175L</td><td>291</td><td>0.80</td><td>24.2</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>冷蔵庫は一日中動いているので、W×時間で計算しにくい家電です。メーカーの年間消費電力量を、日数や月数で割ると、1日・1か月あたりの目安になります（割り算はGEARNOTE運営）。</p>
+        <h3>電気毛布：定格消費電力と「強で1時間」の消費電力量（掲載8枚）</h3>
+        <p>電気毛布には、定格消費電力（W）と、強で1時間使ったときの消費電力量（Wh）の両方を書いている商品があります。定格消費電力×1時間で計算した量と、メーカーが書いた1時間の量を並べました。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>定格消費電力（W）</th><th>定格×1時間（Wh・計算）</th><th>強で1時間の消費電力量（Wh・メーカー記載）</th><th>定格×1時間に対する割合</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-koizumi-kake-shiki-electric-blanket-kdk-60268t-sleep-timer">コイズミ 電気掛敷毛布 KDK-60268T 快眠タイマー付き</a></th><td>60</td><td>60</td><td>46</td><td>77%</td></tr>
+            <tr><th><a href="product-koizumi-kake-shiki-electric-blanket-kdk-75261rt-188x120">コイズミ 電気掛敷毛布 KDK-75261RT（188×120cm・ラビットファー調）</a></th><td>75</td><td>75</td><td>55</td><td>73%</td></tr>
+            <tr><th><a href="product-koizumi-kake-shiki-electric-blanket-kdk-75266d-188x120">コイズミ 電気掛敷毛布 KDK-75266D 188×120cm</a></th><td>75</td><td>75</td><td>57</td><td>76%</td></tr>
+            <tr><th><a href="product-yamazen-electric-blanket-kake-shiki-188x130-ymk-fk45kk-ro">山善 電気毛布 掛け敷き兼用 188×130cm フランネル YMK-FK45KK(RO)</a></th><td>50</td><td>50</td><td>35</td><td>70%</td></tr>
+            <tr><th><a href="product-yamazen-electric-kake-shiki-blanket-emk-t201">山善 電気掛敷毛布 188×130cm EMK-T201（グレー）</a></th><td>50</td><td>50</td><td>35</td><td>70%</td></tr>
+            <tr><th><a href="product-koizumi-electric-shiki-blanket-kds-40261">コイズミ 電気敷毛布 130×80cm KDS-40261</a></th><td>40</td><td>40</td><td>27</td><td>68%</td></tr>
+            <tr><th><a href="product-koizumi-electric-shiki-blanket-kds-l506-lisa-larson-200x100">コイズミ 電気敷毛布 KDS-L506 リサ・ラーソン マイキー&amp;フレンズ柄 200×100cm</a></th><td>75</td><td>75</td><td>57</td><td>76%</td></tr>
+            <tr><th><a href="product-yamazen-electric-shiki-blanket-yms-18">山善 電気敷毛布 130×80cm シングル 洗える YMS-18</a></th><td>32</td><td>32</td><td>21</td><td>66%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>8枚すべてで、メーカーが書いた1時間の量は、定格消費電力×1時間より少なく、割合は66〜77%でした。定格消費電力は、ずっとその電力を使い続けるという意味の数字ではないことが分かります。実際の量に近い数字がメーカーにあれば、そちらを使ってください。数字の元は<a href="data-electric-blanket">電気毛布の仕様一覧</a>です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>確認できなかったこと</h2>
+        <ul>
+          <li>メーカーの年間消費電力量と、ご家庭での実際の使用量の差は、確認していません（使い方・室温・設定で変わります）。</li>
+          <li>電気毛布の「強で1時間」の測定条件（室温など）は、メーカーごとに確かめていません。</li>
+          <li>入力した数字は、お使いのブラウザの中で計算するだけで、送信も保存もしていません。</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>出典（2026年11月15日確認）</h2>
+        <ul>
+          <li><a href="https://seihinjyoho.go.jp/frontguide/pdf/guide_tv_lcd.pdf" target="_blank" rel="noopener">省エネ型製品情報サイト（資源エネルギー庁）掲載『省エネ性能カタログ2020年版』液晶テレビ解説PDF</a>（テレビの年間消費電力量の条件・定格消費電力の測定）</li>
+          <li><a href="https://seihinjyoho.go.jp/frontguide/pdf/guide_refrigerator.pdf" target="_blank" rel="noopener">省エネ型製品情報サイト掲載『省エネ性能カタログ2021年版』電気冷蔵庫解説PDF</a>（冷蔵庫の年間消費電力量の測定）</li>
+        </ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「消費電力量の計算（W×時間→Wh・kWh）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/tool-power-wh</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/tool-power-wh"&gt;GEARNOTE「消費電力量の計算（W×時間→Wh・kWh）」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>WとkWhの違いは何ですか？</h3>
+            <p>W（ワット）は、その瞬間に使っている電力です。kWh（キロワットアワー）は、使った電力の量で、W×時間÷1000で求めます。100Wを10時間使うと1kWhです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>テレビの消費電力×時間で、年間消費電力量になりますか？</h3>
+            <p>なりません。テレビの年間消費電力量は、1日あたり平均視聴4.5時間・平均待機19.5時間を基準に、工場出荷時の画質モードで測った数値です（省エネ性能カタログの解説）。GEARNOTEに掲載したテレビ9台では、どれも、消費電力×4.5時間×365日より小さい数字でした。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>年間消費電力量から、1日あたりの量を出すには？</h3>
+            <p>年間消費電力量（kWh/年）を365で割ります。たとえば90kWh/年なら、1日あたり約0.247kWh（約247Wh）です。このページのツールで計算できます。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>関連ページ</h2>
+        <ul><li><a href="tool-electricity-cost">家電の電気代の目安計算</a></li><li><a href="tool-power-sum">電源タップの合計ワット数チェック</a></li><li><a href="tool-power-station-runtime">ポータブル電源の使える時間</a></li><li><a href="spec-power-table">家電の消費電力 早見表</a></li><li><a href="data-tv">テレビの仕様一覧</a></li><li><a href="data-refrigerator">冷蔵庫の仕様一覧</a></li><li><a href="data-electric-blanket">電気毛布の仕様一覧</a></li><li><a href="tools">計算ツール一覧</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
