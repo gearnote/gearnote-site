@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>コンセントの15A・1500Wとブレーカーの考え方｜同時に使うときの合計W÷100V＝A（電力会社・NITEの案内）｜GEARNOTE</title>
+<meta name="description" content="壁のコンセントの「合計1500W」、安全ブレーカーの20A、契約のブレーカーの違いを、NITEと電力会社の案内の原文で整理しました。W÷100V＝Aの計算と、掲載ホットプレート・ケトル・ドライヤーの消費電力の範囲つき。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="コンセントの15A・1500Wとブレーカーの考え方｜同時に使うときの合計W÷100V＝A（電力会社・NITEの案内）｜GEARNOTE">
+<meta property="og:description" content="壁のコンセントの「合計1500W」、安全ブレーカーの20A、契約のブレーカーの違いを、NITEと電力会社の案内の原文で整理しました。W÷100V＝Aの計算と、掲載ホットプレート・ケトル・ドライヤーの消費電力の範囲つき。">
+<meta property="og:url" content="https://gearnote.net/power-breaker-15a">
+<link rel="canonical" href="https://gearnote.net/power-breaker-15a">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="コンセントの15A・1500Wとブレーカーの考え方｜同時に使うときの合計W÷100V＝A（電力会社・NITEの案内）｜GEARNOTE">
+<meta name="twitter:description" content="壁のコンセントの「合計1500W」、安全ブレーカーの20A、契約のブレーカーの違いを、NITEと電力会社の案内の原文で整理しました。W÷100V＝Aの計算と、掲載ホットプレート・ケトル・ドライヤーの消費電力の範囲つき。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"コンセントの15A（1500W）とブレーカーの考え方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"ホットプレートと電子レンジを同時に使うと、ブレーカーが落ちるのはなぜですか？","acceptedAnswer":{"@type":"Answer","text":"同じ回路の合計の電流が、安全ブレーカーの容量（一般的に20A）を超えると切れるためです。沖縄電力は、600W・800W・1400Wの機器を20Aの回路で使うと約28Aになり、安全ブレーカーは切れる、という例を挙げています。"}},{"@type":"Question","name":"壁のコンセントは、1か所で何Wまで使えますか？","acceptedAnswer":{"@type":"Answer","text":"NITEは、一般住宅の二口のコンセントでは、二口の合計で1500Wまでが接続可能な最大消費電力だと説明しています。東京電力パワーグリッドも、一般的なコンセントは15アンペアの仕様で、同時に使う家電は合計1,500ワットまでに収まるように、と案内しています。"}},{"@type":"Question","name":"WからA（アンペア）は、どう計算しますか？","acceptedAnswer":{"@type":"Answer","text":"北海道電力は、A数は電気機器のW数をV（ボルト）で割った数値だと説明しています。100Vなら、1,000W÷100V＝10Aです。"}},{"@type":"Question","name":"掲載しているホットプレートの消費電力は、どのくらいですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEのデータ一覧で数字のある8台は、1,200〜1,300Wでした（GEARNOTE運営の計算）。W÷100Vで、12〜13Aの目安です。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ コンセントの15A（1500W）とブレーカーの考え方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">コンセントの15A（1500W）とブレーカーの考え方｜同時に使うときの合計の出し方</h1>
+        <p class="desc">「ホットプレートと電子レンジを一緒に使うとブレーカーが落ちる」のはなぜか。NITEと電力会社の案内の原文と、W÷100V＝Aの計算、GEARNOTEに載せている商品の消費電力の範囲をまとめました。安全かどうかの判断はしていません。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>上限は3つある：コンセント・安全ブレーカー・契約のブレーカー</h2>
+        <p>中部電力は、分電盤のブレーカーを次のように説明しています（<a href="https://www.chuden.co.jp/energy/ene_about/electric/chishiki/mame_bundenban/" target="_blank" rel="noopener">中部電力「分電盤のしくみ」</a>）。</p>
+        <p>「サービスブレーカー：ご契約容量を決定しているブレーカーで、ご契約以上の電気が流れると自動的に電気が止まるしくみになっています。／漏電ブレーカー：建物内の配線や電気器具の漏電を素早く感知し、自動的に電気をしゃ断します。（通常15～30mA程度の漏電で作動します。）／安全ブレーカー（配線用しゃ断器）：分電盤から各部屋へ電気を送る分岐回路のそれぞれに取り付けられています。（許容電流は一般的に20A）電気器具やコードの故障でショートした時や、使いすぎて過電流が流れた場合に電気を自動的にしゃ断します。」</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>どこの上限か</th><th>一次資料の説明</th><th>出典</th></tr></thead>
+            <tbody>
+            <tr><th>壁のコンセント（同じ場所の口の合計）</th><td>ただし、一般的なコンセントは15アンペアの仕様になっていますので、同じ場所のコンセントから同時に使用する家電製品は、合計1,500ワットまでに収まるように上手に電気を使いましょう。</td><td><a href="https://pgservice1.tepco.co.jp/2020/12/16/outlet-trouble/" target="_blank" rel="noopener">東京電力パワーグリッド</a></td></tr>
+            <tr><th>安全ブレーカー（部屋ごとの回路）</th><td>安全ブレーカーは一般的に20アンペアのため、100ボルト回路であれば消費電力2,000ワット分までの家電製品が使用できます。（計算式：100ボルト×20アンペア＝2,000ワット）</td><td><a href="https://pgservice1.tepco.co.jp/2020/12/16/outlet-trouble/" target="_blank" rel="noopener">東京電力パワーグリッド</a></td></tr>
+            <tr><th>契約のブレーカー（家全体）</th><td>ご契約容量を決定しているブレーカーで、ご契約以上の電気が流れると自動的に電気が止まるしくみになっています。（サービスブレーカー）</td><td><a href="https://www.chuden.co.jp/energy/ene_about/electric/chishiki/mame_bundenban/" target="_blank" rel="noopener">中部電力</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>同じ「ブレーカーが落ちた」でも、どのブレーカーかで意味が違います。部屋の一部だけ電気が消えたなら安全ブレーカー（回路）、家全体なら契約のブレーカー、という分け方になります（上の中部電力の説明にもとづく整理です）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>壁のコンセントは「二口の合計で1500W」</h2>
+        <p>NITEは、配線器具の事故の注意喚起の中で、次のように書いています。「一般住宅の壁に設置してあるコンセントは二口のものが一般的ですが、その場合、二口の合計で1500Wまでが接続可能な最大消費電力となっています。例えばコンセントの片方に1000W分の電気製品を接続した場合、もう片方には500Wまでしか接続できません。」（<a href="https://www.nite.go.jp/data/000133752.pdf" target="_blank" rel="noopener">NITE（2022年2月24日、PDF）</a>）</p>
+        <p>東京電力パワーグリッドも、「ただし、一般的なコンセントは15アンペアの仕様になっていますので、同じ場所のコンセントから同時に使用する家電製品は、合計1,500ワットまでに収まるように上手に電気を使いましょう。」 「それ以上使用するとコンセントが過熱して、焦げたりして火災の原因となるおそれがあります。」 と案内しています（<a href="https://pgservice1.tepco.co.jp/2020/12/16/outlet-trouble/" target="_blank" rel="noopener">東京電力パワーグリッド</a>）。</p>
+        <p>つまり、壁のコンセントの1500Wは、<strong>差込口1つあたりではなく、同じ場所の口を合わせた数字</strong>です。電源タップをつないだ場合も、タップの先の機器はすべて、その壁のコンセントの合計に入ります。電源タップ自体の定格は、<a href="diff-power-strip-vs-extension">電源タップと延長コードの違い</a>にまとめています（タップの定格と、壁のコンセントの上限は、別々に確かめる2つの上限です）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>W÷100V＝A：電流の出し方</h2>
+        <p>北海道電力は、「A（アンペア）数は、電気機器のW（ワット）数をV（ボルト）で割った数値です」 と説明し、「例：電気ジャーポット　　　消費電力1,000W÷100V＝10A（アンペア）」 という例を示しています（<a href="https://www.hepco.co.jp/home/contract_change/ampere_check/check.html" target="_blank" rel="noopener">北海道電力</a>）。東京電力エナジーパートナーも、「電気機器の消費電力はワット数（Ｗ）で表示されています。アンペア数（Ａ）は、「100Ｗで１Ａ、1,000Ｗ（１kW）で10Ａ」とお考えください（100Ｖの場合）。」 としています（<a href="https://www.tepco.co.jp/ep/private/ampere2/ampere03.html" target="_blank" rel="noopener">東京電力エナジーパートナー</a>）。</p>
+        <p>この式で、15Aは100V×15A＝1,500W、20Aは100V×20A＝2,000Wに当たります。東京電力パワーグリッドの「100ボルト×20アンペア＝2,000ワット」と同じ計算です。</p>
+        <p>同時に使うときの合計は、<strong>使う機器のWをすべて足して、100で割る</strong>と、おおよそのAになります。下の例は、GEARNOTEに載せている商品の最大の数字を足した計算です（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>使う機器</th><th>電流（W÷100V）</th></tr></thead>
+            <tbody>
+            <tr><th>ホットプレート 1,300W（掲載の最大）</th><td>13A</td></tr>
+            <tr><th>電気ケトル 1,300W（掲載の最大）</th><td>13A</td></tr>
+            <tr><th>合計 2,600W</th><td>26A</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>合計2,600Wは、東京電力パワーグリッドの案内にある「合計1,500ワット」を超える数字です。同じ計算は、<a href="tool-power-sum">電源タップの合計ワット数チェック</a>で、手元の家電の数字を入れて試せます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>同じ回路の合計で、安全ブレーカーが切れる例</h2>
+        <p>沖縄電力は、「１つの回路に消費電力の大きい電気器具を複数接続するとその回路の安全ブレーカーが切れることになります。」 と説明し、次の例を挙げています。「消費電力が600Wの掃除機、800Wのホットカーペット、1400Wのホットプレートを容量が20Aの安全ブレーカーの回路に接続し使用すると消費電力は2800Wですので、回路に流れる電流は約28アンペアとなり安全ブレーカーは切れます。」（<a href="https://www.okiden.co.jp/livelihood/teiden/operation/" target="_blank" rel="noopener">沖縄電力「ブレーカーの操作方法」</a>）</p>
+        <p>この例の数字は、600＋800＋1400＝2800W、2800÷100＝28Aで、20Aを超えます。<strong>コンセントの場所が違っても、同じ安全ブレーカーにつながっていれば合計に入る</strong>ことが、この例から読めます。どのコンセントが同じ回路かは、住まいの配線で決まり、商品ページからは分かりません。</p>
+        <p>中部電力は、「回路の設定を照明用・コンセント用に分けたり、クーラーなどの大型電気器具は専用回路にすることで、異常時の影響を少なくすることができます。」 とも書いています（<a href="https://www.chuden.co.jp/energy/ene_about/electric/chishiki/mame_bundenban/" target="_blank" rel="noopener">中部電力</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTEに載せた、消費電力の大きい家電の範囲</h2>
+        <p>ホットプレート・オーブントースター・ドライヤー・電気ケトルのデータ一覧から、消費電力の数字を集計しました（GEARNOTE運営の計算（2026年11月15日））。「1,200〜1,300W台」は、1,200W以上1,400W未満の台数です。電流は、W÷100Vで出した目安です。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>数字のある台数</th><th>消費電力の範囲</th><th>1,200〜1,300W台の台数</th><th>電流の目安（W÷100V）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-hot-plate">ホットプレート</a></th><td>8台</td><td>1,200〜1,300W</td><td>8台</td><td>12〜13A</td></tr>
+            <tr><th><a href="data-oven-toaster">オーブントースター</a></th><td>9台</td><td>850〜1,350W</td><td>8台</td><td>8.5〜13.5A</td></tr>
+            <tr><th><a href="data-hair-dryer">ドライヤー</a></th><td>12台</td><td>1,100〜1,300W</td><td>9台</td><td>11〜13A</td></tr>
+            <tr><th><a href="data-electric-kettle">電気ケトル</a></th><td>15台</td><td>800〜1,300W</td><td>14台</td><td>8〜13A</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>この4ジャンルでは、<strong>単独で1,200〜1,300W台の商品が合わせて39台</strong>ありました。掲載分の中に、単独で1,500W以上と書かれた商品はありませんでした。</p>
+        <p>電子レンジは、データ一覧に載せているのが高周波出力（温める電波の出力）で、消費電力ではありません。メーカーの仕様表では、シャープRE-M16Aのレンジの定格消費電力が970W（50Hz）・1,250W（60Hz）です（<a href="https://jp.sharp/range/products/rem16a/spec/" target="_blank" rel="noopener">シャープ</a>）。東京電力エナジーパートナーのアンペアの目安の表には、「インバータエアコン（冷房時おもに10畳用平均）&lt;立ち上がり時など&gt; 冷房5.8A&lt;14A&gt; 暖房6.6A&lt;20A&gt;／電子レンジ（30Lクラス）15Ａ／ヘアードライヤー 12Ａ／ＩＨジャー炊飯器（5.5合・炊飯時）13Ａ／掃除機 弱 2Ａ 強 10Ａ」 と書かれています（<a href="https://www.tepco.co.jp/ep/private/ampere2/ampere03.html" target="_blank" rel="noopener">東京電力エナジーパートナー</a>）。出力と消費電力の違いは<a href="words-microwave-watt">電子レンジの出力（W）の読み方</a>にまとめています。</p>
+        <p>この表のエアコンの「立ち上がり時など」の数字（冷房14A・暖房20A）は、動き始めに、ふだんより大きい電流が流れる機器がある例です。同じ表には、「※各電気機器を使用した場合の想定値です。実際のワット数・アンペア数は各機器の取扱説明書などをご確認ください。」 とも書かれています。</p>
+        <p>GEARNOTEの<a href="data-power-strip">電源タップ・延長コードの仕様一覧</a>（13台）では、コンセント全体の定格（合計）の数字があった8台のうち、1500Wが6台、1400Wが2台です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>よくある読み違い</h2>
+        <ul><li><strong>「二口あるから、1500Wずつ使える」</strong>：NITEは、二口の合計で1500Wまでと説明しています。</li><li><strong>「タップの口が空いていれば、まだつなげる」</strong>：タップの先の機器は、壁のコンセントの合計にも入ります。</li><li><strong>「別の部屋のコンセントなら関係ない」</strong>：同じ安全ブレーカーの回路なら、合計に入ります（沖縄電力の例）。</li><li><strong>「契約が40Aなら、1か所で40A使える」</strong>：契約のブレーカーは家全体の上限で、壁のコンセント（15A）や安全ブレーカー（一般的に20A）の上限は別です。</li><li><strong>「電子レンジ1000W＝消費電力1000W」</strong>：1000Wは高周波出力で、消費電力は別の項目です。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>同時に使う前に、商品ページと手元で確かめること</h2>
+        <ul><li>使う機器それぞれの消費電力（W）。強弱や50Hz・60Hzで分かれていれば、使う運転・地域の数字。</li><li>合計のW÷100で、おおよそのA。壁のコンセントの合計（1500W）と、タップの定格の両方と比べる。</li><li>同じ壁のコンセントの、もう一方の口や、タップの先につないでいるもの。</li><li>立ち上がりのときに数字が大きくなる機器（石油ファンヒーターの点火時、エアコンの立ち上がり時など）。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的機関・電力会社・業界団体・メーカー公式の資料にもとづきます（リンクは各項目に付けています）。制度や仕様は、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>壁のコンセントを15Aとする技術基準（電気設備の技術基準や内線規程）の条文は、本文を確認していないため、電力会社とNITEの案内の引用にとどめています。</li><li>ホットプレート・ドライヤー・電気ケトルなどの、動き始めの電流の大きさを示した一次資料は見つからなかったため、書いていません。</li><li>どのコンセントが同じ回路かを調べる方法は、住まいの配線によるため書いていません。分電盤の表示や、電気工事店・電力会社の案内を確認してください。</li><li>このページは、つないでよいか、安全かどうかを判断するものではありません。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「コンセントの15A（1500W）とブレーカーの考え方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/power-breaker-15a</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/power-breaker-15a"&gt;GEARNOTE「コンセントの15A（1500W）とブレーカーの考え方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>ホットプレートと電子レンジを同時に使うと、ブレーカーが落ちるのはなぜですか？</h3>
+            <p>同じ回路の合計の電流が、安全ブレーカーの容量（一般的に20A）を超えると切れるためです。沖縄電力は、600W・800W・1400Wの機器を20Aの回路で使うと約28Aになり、安全ブレーカーは切れる、という例を挙げています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>壁のコンセントは、1か所で何Wまで使えますか？</h3>
+            <p>NITEは、一般住宅の二口のコンセントでは、二口の合計で1500Wまでが接続可能な最大消費電力だと説明しています。東京電力パワーグリッドも、一般的なコンセントは15アンペアの仕様で、同時に使う家電は合計1,500ワットまでに収まるように、と案内しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>WからA（アンペア）は、どう計算しますか？</h3>
+            <p>北海道電力は、A数は電気機器のW数をV（ボルト）で割った数値だと説明しています。100Vなら、1,000W÷100V＝10Aです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>掲載しているホットプレートの消費電力は、どのくらいですか？</h3>
+            <p>GEARNOTEのデータ一覧で数字のある8台は、1,200〜1,300Wでした（GEARNOTE運営の計算）。W÷100Vで、12〜13Aの目安です。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>関連ページ</h2>
+        <ul><li><a href="tool-power-sum">電源タップの合計ワット数チェック</a></li><li><a href="diff-power-strip-vs-extension">電源タップと延長コードの違い</a></li><li><a href="power-w-how-to-read">消費電力（W）の読み方</a></li><li><a href="words-microwave-watt">電子レンジの出力（W）の読み方</a></li><li><a href="guide-power-strip">電源タップ・延長コードの選び方</a></li><li><a href="spec-power-table">家電の消費電力 早見表</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

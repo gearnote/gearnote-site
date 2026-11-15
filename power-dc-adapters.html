@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>USB充電器・ACアダプターのW・A・Vの読み方｜5V/3A・20V/5A・合計出力と単ポート出力の違い（掲載28台の集計）｜GEARNOTE</title>
+<meta name="description" content="USB充電器の「5V/3A」「20V/5A」「最大100W」「合計出力」をどう読むか。USB-IF・Apple・バッファローの公式資料で確かめ、GEARNOTE掲載28台の単ポート最大出力・ポート数を集計しました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="USB充電器・ACアダプターのW・A・Vの読み方｜5V/3A・20V/5A・合計出力と単ポート出力の違い（掲載28台の集計）｜GEARNOTE">
+<meta property="og:description" content="USB充電器の「5V/3A」「20V/5A」「最大100W」「合計出力」をどう読むか。USB-IF・Apple・バッファローの公式資料で確かめ、GEARNOTE掲載28台の単ポート最大出力・ポート数を集計しました。">
+<meta property="og:url" content="https://gearnote.net/power-dc-adapters">
+<link rel="canonical" href="https://gearnote.net/power-dc-adapters">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="USB充電器・ACアダプターのW・A・Vの読み方｜5V/3A・20V/5A・合計出力と単ポート出力の違い（掲載28台の集計）｜GEARNOTE">
+<meta name="twitter:description" content="USB充電器の「5V/3A」「20V/5A」「最大100W」「合計出力」をどう読むか。USB-IF・Apple・バッファローの公式資料で確かめ、GEARNOTE掲載28台の単ポート最大出力・ポート数を集計しました。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"充電器・ACアダプターのW・A・V"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"充電器の「20V/5A」とは、何の数字ですか？","acceptedAnswer":{"@type":"Answer","text":"USBの端子から出る直流の電圧（20V）と電流の上限（5A）の組み合わせです。20V×5A＝100Wです。USB-IFは、PD 3.1より前の100Wは、20Vと5A定格のUSB-Cケーブルによる方式だった、と説明しています。"}},{"@type":"Question","name":"2ポートの充電器で2台同時に充電すると、それぞれ最大の出力が出ますか？","acceptedAnswer":{"@type":"Answer","text":"出ないことがあります。バッファローBSACPD10005C4BKは、1台なら最大100W、USB-C2ポート同時では65W＋30Wと書いています。Appleの35W デュアルUSB-Cポート電源アダプタは、MacノートブックとiPhoneなら各デバイスに最大17.5Wです。"}},{"@type":"Question","name":"掲載しているUSB充電器の単ポート最大出力は、どのくらいですか？","acceptedAnswer":{"@type":"Answer","text":"GEARNOTEのUSB充電器の仕様一覧で数字のある19台は、20〜140Wで、45Wが最も多く8台でした（GEARNOTE運営の計算）。"}},{"@type":"Question","name":"充電器の入力「AC100～240V」は、何の数字ですか？","acceptedAnswer":{"@type":"Answer","text":"壁のコンセント側（交流）で使える電圧の範囲です。USBの端子から出る出力（5V〜20Vなどの直流）とは別の数字です。"}},{"@type":"Question","name":"USB-Aポートの「最大22.5W」は、どの組み合わせの数字ですか？","acceptedAnswer":{"@type":"Answer","text":"バッファローBSACPD10005C4BKでは、USB-AポートにQC2.0（5V/3A、9V/2A、12V/1.5A）とSCP（5V/4.5A）が書かれています。5V×4.5A＝22.5Wで、最大22.5WはSCPの組み合わせと同じ数字です（GEARNOTE運営の計算）。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ 充電器・ACアダプターのW・A・V</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">充電器・ACアダプターのW・A・Vの読み方｜「5V/3A」「20V/5A」「合計出力」</h1>
+        <p class="desc">充電器の仕様表には、入力（AC100〜240V）と、出力（5V/3A、20V/5Aなど）と、合計の出力が並びます。どの数字が何を表すかを、規格団体とメーカーの公式資料で確かめて、掲載した充電器の数字と合わせてまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>入力と出力：コンセント側と、USB側は別の数字</h2>
+        <p>バッファローBSACPD10005C4BKの仕様では、入力が「AC100～240V、50/60Hz」、出力がType-Cポートで「最大100W」「USB PD…5V/3A、9V/3A、12V/3A、15V/3A、20V/5A」と書かれています（<a href="https://www.buffalo.jp/product/detail/bsacpd10005c4bk.html" target="_blank" rel="noopener">バッファロー</a>）。</p>
+        <p><strong>入力</strong>は、壁のコンセント側（交流）の条件です。<strong>出力</strong>は、USBの端子から出る直流の電圧（V）と電流（A）の組み合わせです。出力の「20V/5A」は、20V×5A＝100Wで、仕様の「最大100W」と同じ数字になります（電圧×電流の計算）。</p>
+        <p>入力の「50/60Hz」は、コンセント側の周波数です。中部電力は、「「50/60Hz」と表示されていれば、全国どこでも使用できますが、単独表示のものは、使用地域が限られています。」 と説明しています（<a href="https://www.chuden.co.jp/energy/ene_about/electric/chishiki/mame_area/" target="_blank" rel="noopener">中部電力</a>）。バッファローの例は、入力に50/60Hzの両方が書かれている書き方です。入力の電圧の範囲（AC100～240V）も、コンセント側の条件で、USB側から出る電圧とは関係がありません。</p>
+        <p>充電器は、コンセントにつなぐ家電の一つでもあります。経済産業省の資料（「電気用品安全法の概要や義務について」2026年2月）では、電気用品の「直流電源装置」の範囲の例として、「定格電圧が100Ｖ以上300Ｖ以下、定格周波数が50Hz又は60Hzのもの」「交流電源装置と兼用のものを含み、定格容量が1kVA以下のもの」が挙げられています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>「5V/3A」「9V/3A」「20V/5A」：電圧と電流の組み合わせ</h2>
+        <p>バッファローの例では、5V・9V・12V・15V・20Vの5つの電圧で、それぞれの電流の上限が書かれています。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>出力の書き方（バッファローの仕様）</th><th>電圧×電流（GEARNOTE運営の計算）</th></tr></thead>
+            <tbody>
+            <tr><th>5V/3A</th><td>15W</td></tr>
+            <tr><th>9V/3A</th><td>27W</td></tr>
+            <tr><th>12V/3A</th><td>36W</td></tr>
+            <tr><th>15V/3A</th><td>45W</td></tr>
+            <tr><th>20V/5A</th><td>100W</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>USB-IFは、「Prior to this update, USB PD was limited to 100W using a solution based on 20V using USB Type-C cables rated at 5A.」 と説明しています（<a href="https://www.usb.org/usb-charger-pd" target="_blank" rel="noopener">USB-IF</a>）。つまり、20V・5Aで100Wを出すには、<strong>5Aに対応したUSB-Cケーブル</strong>も必要です。PD 3.1では、「New 28V, 36V, and 48V fixed voltages enable up to 140W, 180W and 240W power levels, respectively.」 とされています。</p>
+        <p>バッファローの仕様には「PPS…5V～21V/4.75A」という書き方もあります。PPSは、電圧を細かく変えられる方式です。PD・PPSの仕組みは、<a href="words-usb-pd">USB PDのW数の読み方</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>「最大100W」と「合計」：複数ポートの読み方</h2>
+        <p>ポートが複数ある充電器では、<strong>1ポートだけ使ったときの最大</strong>と、<strong>複数を同時に使ったときの配分</strong>が別に書かれます。</p>
+        <p>バッファローBSACPD10005C4BKは、「1台充電時は最大100W、複数台充電時は各ポートへ出力を自動調整する／最大100W出力できるのは、Type-Cポートのみです。」 と書いています。複数ポートの例は、「USB Type-Cポート1+USB Type-Cポート2：65W+30W（PWRArrange）／USB Type-Cポート1+USB Type-Cポート2+USB Type-Cポート3：45W+30W+20W（PWRArrange）」 です（<a href="https://www.buffalo.jp/product/detail/bsacpd10005c4bk.html" target="_blank" rel="noopener">バッファロー</a>）。2ポートでは65W＋30W＝95W、3ポートでは45W＋30W＋20W＝95Wで、どちらも1ポート時の100Wより小さい合計です（GEARNOTE運営の計算）。</p>
+        <p>Appleの35W デュアルUSB-Cポート電源アダプタについて、Appleは 「2台接続すると、それぞれのデバイスの必要電力に応じて、2台の間で自動的に電力が分散されます。」 「MacノートブックとiPhoneまたはiPadを接続した場合、各デバイスに最大17.5Wの電力が供給されます。／MacノートブックまたはiPhoneと、Apple WatchまたはAirPodsを接続した場合、MacノートブックまたはiPhoneには最大27.5W、Apple WatchまたはAirPodsには最大7.5Wの電力が供給されます。」 と説明し、「この電源アダプタで供給できる最大電力量は35Wです。」 としています（<a href="https://support.apple.com/ja-jp/111805" target="_blank" rel="noopener">Apple サポート</a>）。</p>
+        <p>商品名の「○W」は、合計の数字のことがあります。GEARNOTEのデータ一覧で、商品名のW数と、単ポート使用時の最大出力が違う充電器は、次の2台でした（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>商品</th><th>商品名のW数</th><th>単ポート使用時の最大出力（一覧）</th></tr></thead>
+            <tbody>
+            <tr><th><a href="product-prime-charger-200w">Anker Prime Charger（200W, 6 Ports, GaN）</a></th><td>200W</td><td>100W</td></tr>
+            <tr><th><a href="product-ugreen-nexode-300w-desktop-charger">UGREEN 卓上急速充電器 300W 5ポート（USB-C×4／USB-A×1）</a></th><td>300W</td><td>140W</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>USB-Aポートの書き方と、ポートを組み合わせたときの数字</h2>
+        <p>USB-Cとは別に、USB-Aポートを持つ充電器では、USB-A側の数字が別に書かれます。バッファローBSACPD10005C4BKの仕様は、「Type-Aポート：最大22.5W QC2.0…5V/3A、9V/2A、12V/1.5A SCP…5V/4.5A」 です（<a href="https://www.buffalo.jp/product/detail/bsacpd10005c4bk.html" target="_blank" rel="noopener">バッファロー</a>）。USB-C側の「USB PD」とは別の名前（QC2.0・SCP）で、電圧と電流の組み合わせが書かれています。</p>
+        <p>電圧×電流で計算すると、5V/3Aは15W、9V/2Aは18W、12V/1.5Aは18W、5V/4.5Aは22.5Wで、「最大22.5W」はSCPの5V/4.5Aと同じ数字です（GEARNOTE運営の計算）。<strong>同じUSB-Aポートでも、方式によって出せる電力が違う</strong>書き方です。つなぐ機器が、どの方式に対応しているかで、実際に使われる組み合わせが決まります。</p>
+        <p>ポートの組み合わせによっては、2つのポートで1つの上限を分け合う書き方もあります。バッファローは、「USB Type-Cポート1+[USB Type-Cポート3+USB Type-Aポート]：45W+合計最大20W(5V/4A共有)」 と書いています。さらに、「本機能はUSB Type-Cポート使用時のみ動作します。Type-Aポートを組み合わせて使う時は、PWRArrangeは動作しません。」 とも注記しています（<a href="https://www.buffalo.jp/product/detail/bsacpd10005c4bk.html" target="_blank" rel="noopener">バッファロー</a>）。</p>
+        <p>この「5V/4A共有」は、USB-C3とUSB-Aの2つのポートで、5V・4A（5×4＝20W）を分け合うという意味の書き方です。複数のポートを使うときは、ポートの番号と組み合わせごとに、表のどの行が当てはまるかを読みます。商品ページの仕様に、組み合わせの表がない場合は、メーカーの取扱説明書で確かめてください。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>GEARNOTEに載せたUSB充電器28台の数字</h2>
+        <p>GEARNOTEの<a href="data-usb-charger">USB充電器の仕様一覧</a>（28台）のうち、単ポート使用時の最大出力の数字があったのは19台、USBポートの総数の数字があったのは17台です（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>単ポート使用時の最大出力</th><th>台数</th></tr></thead>
+            <tbody>
+            <tr><th>20W</th><td>1台</td></tr>
+            <tr><th>45W</th><td>8台</td></tr>
+            <tr><th>65W</th><td>2台</td></tr>
+            <tr><th>70W</th><td>1台</td></tr>
+            <tr><th>75W</th><td>1台</td></tr>
+            <tr><th>100W</th><td>4台</td></tr>
+            <tr><th>140W</th><td>2台</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>USBポートの総数（内蔵ケーブルを除く）</th><th>台数</th></tr></thead>
+            <tbody>
+            <tr><th>1ポート</th><td>5台</td></tr>
+            <tr><th>2ポート</th><td>4台</td></tr>
+            <tr><th>3ポート</th><td>4台</td></tr>
+            <tr><th>4ポート</th><td>2台</td></tr>
+            <tr><th>5ポート</th><td>1台</td></tr>
+            <tr><th>6ポート</th><td>1台</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>単ポートの最大は20〜140Wで、45Wが最も多く8台でした。ポートが2つ以上ある充電器は、数字のある17台のうち12台です。ポートが複数ある充電器では、上のバッファローやAppleの例のように、同時に使うと各ポートの数字が小さくなることがあります。</p>
+        <p>モバイルバッテリーの<a href="data-power-bank">仕様一覧</a>（27台）では、USB-Cの1ポート使用時の最大出力の数字が16台、複数の出力を同時に使うときの合計最大出力の数字が10台にありました。両方の数字がある9台のうち、合計のほうが大きい数字は3台です。</p>
+        <p>充電にかかる時間の目安は<a href="tool-charge-time">充電時間の目安計算</a>、ハブやドックのパススルー給電の数字は<a href="diff-usb-hub-vs-dock">USBハブとドッキングステーションの違い</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>家電の消費電力と、充電器のWの違い</h2>
+        <p>家電の「消費電力1200W」は、コンセントから使う電力です。充電器の「100W」は、USBの端子から<strong>出せる</strong>電力の上限です。どちらもWですが、向きが違います。</p>
+        <p>充電器の出力の数字は、つないだ機器がその電力を求めたときの上限で、いつもその電力が流れるわけではありません。Appleも、2台をつないだときの電力は、それぞれのデバイスの必要電力に応じて分散されると説明しています（<a href="https://support.apple.com/ja-jp/111805" target="_blank" rel="noopener">Apple サポート</a>）。</p>
+        <p>充電器を電源タップにつなぐときの合計の考え方は、<a href="power-breaker-15a">コンセントの15A（1500W）とブレーカー</a>にまとめています。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある読み違い</h2>
+        <ul><li><strong>「100W充電器なら、どのポートでも100W」</strong>：バッファローの例では、最大100W出力できるのはType-Cポートだけで、Type-Aは最大22.5Wです。</li><li><strong>「2ポート同時でも、それぞれ最大」</strong>：同時に使うと、65W＋30Wのように配分が変わります。</li><li><strong>「商品名の200W＝1ポートで200W」</strong>：掲載の Anker Prime Charger（200W, 6 Ports）の単ポート最大は100Wです。</li><li><strong>「充電器が100Wなら、ケーブルは何でもいい」</strong>：USB-IFは、100Wは20Vと5A定格のUSB-Cケーブルによるもの、と説明しています。</li><li><strong>「入力100〜240V＝出力も100V」</strong>：入力はコンセント側、出力はUSB側の直流の数字です。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>商品ページで確かめること</h2>
+        <ul><li>単ポート使用時の最大出力と、複数ポート使用時の配分の表。</li><li>ポートごとの上限（USB-CとUSB-Aで違うことが多い）。</li><li>出力の電圧・電流の組み合わせ（5V/3A、20V/5Aなど）と、つなぐ機器が求める電力。</li><li>ケーブルの対応電力（<a href="words-usb-pd">USB PDのW数の読み方</a>）。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的機関・電力会社・業界団体・メーカー公式の資料にもとづきます（リンクは各項目に付けています）。制度や仕様は、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>USB Type-Cの5V・3Aの規定そのものは、USB-IFの公開ページで直接確認できなかったため、メーカー（バッファロー）の仕様の書き方として扱っています。</li><li>直流電源装置が、電気用品安全法の「特定電気用品」に当たるかどうかは、品目一覧を確認していないため書いていません。</li><li>Apple 20W USB-C電源アダプタの出力の電圧・電流の組み合わせは、Apple公式で確認できなかったため書いていません。</li><li>モバイルバッテリーの「合計最大出力」の条件（どのポートの組み合わせか）は、商品ごとに違うため、一覧の数字だけを書いています。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「充電器・ACアダプターのW・A・V」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/power-dc-adapters</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/power-dc-adapters"&gt;GEARNOTE「充電器・ACアダプターのW・A・V」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>充電器の「20V/5A」とは、何の数字ですか？</h3>
+            <p>USBの端子から出る直流の電圧（20V）と電流の上限（5A）の組み合わせです。20V×5A＝100Wです。USB-IFは、PD 3.1より前の100Wは、20Vと5A定格のUSB-Cケーブルによる方式だった、と説明しています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>2ポートの充電器で2台同時に充電すると、それぞれ最大の出力が出ますか？</h3>
+            <p>出ないことがあります。バッファローBSACPD10005C4BKは、1台なら最大100W、USB-C2ポート同時では65W＋30Wと書いています。Appleの35W デュアルUSB-Cポート電源アダプタは、MacノートブックとiPhoneなら各デバイスに最大17.5Wです。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>掲載しているUSB充電器の単ポート最大出力は、どのくらいですか？</h3>
+            <p>GEARNOTEのUSB充電器の仕様一覧で数字のある19台は、20〜140Wで、45Wが最も多く8台でした（GEARNOTE運営の計算）。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>充電器の入力「AC100～240V」は、何の数字ですか？</h3>
+            <p>壁のコンセント側（交流）で使える電圧の範囲です。USBの端子から出る出力（5V〜20Vなどの直流）とは別の数字です。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>USB-Aポートの「最大22.5W」は、どの組み合わせの数字ですか？</h3>
+            <p>バッファローBSACPD10005C4BKでは、USB-AポートにQC2.0（5V/3A、9V/2A、12V/1.5A）とSCP（5V/4.5A）が書かれています。5V×4.5A＝22.5Wで、最大22.5WはSCPの組み合わせと同じ数字です（GEARNOTE運営の計算）。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>関連ページ</h2>
+        <ul><li><a href="words-usb-pd">USB PDのW数の読み方</a></li><li><a href="data-usb-charger">USB充電器の仕様一覧</a></li><li><a href="data-power-bank">モバイルバッテリーの仕様一覧</a></li><li><a href="tool-charge-time">充電時間の目安計算</a></li><li><a href="diff-usb-hub-vs-dock">USBハブとドッキングステーションの違い</a></li><li><a href="power-w-how-to-read">消費電力（W）の読み方</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('gearnote-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>待機電力（待機時消費電力）と運転モード別のWの読み方｜強・静音・保温・点火時の書き分け｜GEARNOTE</title>
+<meta name="description" content="テレビの待機時0.5W、空気清浄機の強69W・静音6.6W、炊飯器の保温13.0Wh/時、石油ファンヒーターの点火時370Wなど、メーカーが状態ごとに書き分ける消費電力の読み方を、公式仕様と消費者庁の資料で整理しました。">
+<meta name="robots" content="index, follow">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#17140f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GEARNOTE">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GEARNOTE">
+<meta property="og:title" content="待機電力（待機時消費電力）と運転モード別のWの読み方｜強・静音・保温・点火時の書き分け｜GEARNOTE">
+<meta property="og:description" content="テレビの待機時0.5W、空気清浄機の強69W・静音6.6W、炊飯器の保温13.0Wh/時、石油ファンヒーターの点火時370Wなど、メーカーが状態ごとに書き分ける消費電力の読み方を、公式仕様と消費者庁の資料で整理しました。">
+<meta property="og:url" content="https://gearnote.net/power-standby-and-modes">
+<link rel="canonical" href="https://gearnote.net/power-standby-and-modes">
+<link rel="alternate" type="application/rss+xml" title="GEARNOTE" href="https://gearnote.net/feed.xml">
+<meta property="og:image" content="https://gearnote.net/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="待機電力（待機時消費電力）と運転モード別のWの読み方｜強・静音・保温・点火時の書き分け｜GEARNOTE">
+<meta name="twitter:description" content="テレビの待機時0.5W、空気清浄機の強69W・静音6.6W、炊飯器の保温13.0Wh/時、石油ファンヒーターの点火時370Wなど、メーカーが状態ごとに書き分ける消費電力の読み方を、公式仕様と消費者庁の資料で整理しました。">
+<meta name="twitter:image" content="https://gearnote.net/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;800&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://gearnote.net/"},{"@type":"ListItem","position":2,"name":"データ一覧","item":"https://gearnote.net/data"},{"@type":"ListItem","position":3,"name":"待機電力・運転モード別のWの書き方"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"待機時消費電力とは、どの状態の数字ですか？","acceptedAnswer":{"@type":"Answer","text":"電源プラグを差したまま、運転を止めている状態の消費電力です。パナソニックTV-50A90Bは「リモコンまたは本体の電源ボタンで電源「切」時：約 0.5W」と書いています。書き方はメーカーごとに違います。"}},{"@type":"Question","name":"空気清浄機の消費電力は、どの数字を見ればいいですか？","acceptedAnswer":{"@type":"Answer","text":"モード名とセットで読みます。シャープKI-SX70の空気清浄運転は、強69W・中32W・静音6.6Wです。GEARNOTEのデータ一覧は、メーカー表記の最大値（KI-SX70なら69W）を載せています。"}},{"@type":"Question","name":"炊飯器の保温の電力は、何Wですか？","acceptedAnswer":{"@type":"Answer","text":"炊飯器の保温は、Wではなく1時間あたりのWhで書かれます。タイガーJBS-A055は、エコ炊きメニュー時の保温が13.0Wh/時です。ジャー炊飯器は、家庭用品品質表示法で、1時間当たりの保温時消費電力量の表示が決められています。"}},{"@type":"Question","name":"無線LANを使うと、待機電力は変わりますか？","acceptedAnswer":{"@type":"Answer","text":"変わる機種があります。シャープKI-SX70は、待機時消費電力を約1.2W、無線モジュール起動時を約1.4Wと書き分けています。"}}]}</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-hairline"></div>
+  <div class="wrap">
+    <a href="/" class="logo">GEAR<span class="dot">NOTE</span></a>
+    <div class="nav-group">
+    <nav class="main-nav">
+      <a href="/">ホーム</a>
+      <a href="/#ranking">ジャンル別</a>
+      <a href="/#picks">新着商品</a>
+      <a href="/#brands">ブランド</a>
+      <a href="all-products">商品検索</a>
+      <a href="favorites">♥ お気に入り<span id="nav-fav-count" class="nav-fav-count"></span></a>
+      <a href="about">このサイトについて</a>
+    </nav>
+    <button class="theme-toggle" id="theme-toggle" aria-label="表示モード切替" title="ライト/ダーク切替">🌙</button>
+    <button class="nav-toggle" aria-label="メニュー">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="breadcrumb"><a href="/">ホーム</a> ／ <a href="data">データ一覧</a> ／ 待機電力・運転モード別のWの書き方</p>
+</div>
+
+<section class="section section-tight">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="tag">Data</span>
+        <h1 class="pd-guide-title">待機電力・省エネモード・運転モード別の「W」の読み方</h1>
+        <p class="desc">家電の消費電力は、1つの数字ではなく「強」「静音」「保温」「待機時」のように、状態ごとに書かれることがよくあります。メーカー公式の仕様表の原文と、GEARNOTEのデータ一覧が、どの状態の数字を拾っているかをまとめました。</p>
+        <p class="pd-byline">執筆・確認：<a href="about#author">GEARNOTE運営（H＆C）</a>　データの時点：2026年10月31日〜11月11日（集計：2026年11月15日）</p>
+      </div>
+    </div>
+
+    <div class="pd-deep">
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">01</span>メーカーは、状態ごとに数字を書き分けている</h2>
+        <p>メーカー公式の仕様表から、状態ごとに書き分けている例を、原文のまま並べました（2026年11月15日の時点）。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>機器</th><th>仕様表の原文</th><th>出典</th></tr></thead>
+            <tbody>
+            <tr><th>石油ファンヒーター（ダイニチ FW-4226NC）</th><td>消費電力（W）（50/60Hz）大火力時 143/143・小火力時 63/63・最大（点火時） 370/370・待機時 1.0/1.0</td><td><a href="https://www.dainichi-net.co.jp/products/fanheater/lineup/nc2026/" target="_blank" rel="noopener">ダイニチ</a></td></tr>
+            <tr><th>加湿空気清浄機（シャープ KI-SX70）</th><td>消費電力（W）（50/60Hz） 加湿空気清浄：強 50・中 34・静音 7.2（6.6）／空気清浄：強 69・中 32・静音 6.6（6.0）／待機時消費電力（Ｗ）約1.2（約1.4）</td><td><a href="https://jp.sharp/kuusei/products/kisx70/spec/" target="_blank" rel="noopener">シャープ</a></td></tr>
+            <tr><th>ハイブリッド式加湿器（ダイニチ HD-RX326）</th><td>消費電力（最大）（W）（50/60Hz） 標準 161/161・静音 158/158・eco 11/11・のど・肌 161/161・ターボ 168/168</td><td><a href="https://www.dainichi-net.co.jp/products/humidifier/lineup/rx2026/" target="_blank" rel="noopener">ダイニチ</a></td></tr>
+            <tr><th>液晶テレビ（パナソニック TV-50A90B）</th><td>消費電力 195 W リモコンまたは本体の電源ボタンで電源「切」時：約 0.5W／年間消費電力量 128kWh/年</td><td><a href="https://panasonic.jp/viera/products/TV-50A90B/spec.html" target="_blank" rel="noopener">パナソニック</a></td></tr>
+            <tr><th>マイコン炊飯器（タイガー JBS-A055）</th><td>定格消費電力 350W／年間消費電力量 39.0kWh/年／１回当りの炊飯時消費電力量 90.10Wh/回／１時間当りの保温時消費電力量 13.0Wh/時</td><td><a href="https://www.tiger-corporation.com/ja/jpn/product/rice-cooker/jbs-a" target="_blank" rel="noopener">タイガー魔法瓶</a></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>同じ機器でも、数字の幅はとても大きくなります。KI-SX70の空気清浄運転は、強69Wと静音6.6Wで、10倍以上違います。FW-4226NCは、点火時370Wと待機時1.0Wです。<strong>1つの数字だけを取り出すと、どの状態の数字かが分からなくなる</strong>のが、このページのいちばんの注意点です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">02</span>「待機時」の数字の読み方</h2>
+        <p>待機時の数字は、電源プラグを差したまま、運転を止めている状態の消費電力です。書き方はメーカーで違います。</p>
+        <ul><li>パナソニックTV-50A90Bは、消費電力の欄に「リモコンまたは本体の電源ボタンで電源「切」時：約 0.5W」と書いています（<a href="https://panasonic.jp/viera/products/TV-50A90B/spec.html" target="_blank" rel="noopener">パナソニック</a>）。</li><li>シャープKI-SX70は、「※2（　）内の数字は無線モジュール起動時の待機時消費電力です。※4 無線モジュールを起動していないときの消費電力です。無線モジュール起動時は消費電力が最大で約1W高くなります。（　）内は前面モニターランプ「切」時。」 と注記しています（<a href="https://jp.sharp/kuusei/products/kisx70/spec/" target="_blank" rel="noopener">シャープ</a>）。</li><li>ダイニチFW-4226NCは、「待機時 1.0/1.0」と、50Hz・60Hzの両方を書いています（<a href="https://www.dainichi-net.co.jp/products/fanheater/lineup/nc2026/" target="_blank" rel="noopener">ダイニチ</a>）。</li></ul>
+        <p>KI-SX70の例のように、<strong>無線（Wi-Fiなど）を使うかどうかで、待機時の数字が変わる</strong>機種があります。スマホのアプリで操作する機能を使うなら、（ ）の中の数字を読みます。</p>
+        <p>ジャー炊飯器では、家庭用品品質表示法で、待機時の電力量の表示が決められています。消費者庁のページでは、「4. 年間消費電力量：有効数字3桁以上でキロワット時/年の単位で表示する(許容範囲は、表示値の+3%以内)。／6. 1時間当たりの保温時消費電力量：1時間当たりの保温時消費電力量を測定し、有効数字3桁以上でワット時の単位で表示する。／8. 1時間当たりの待機時消費電力量：有効数字2桁以上でワット時の単位で表示する。」（<a href="https://www.caa.go.jp/policies/policy/representation/household_goods/guide/electric/electric_02.html" target="_blank" rel="noopener">消費者庁「ジャー炊飯器」</a>）。これはW（電力）ではなく、1時間あたりのWh（電力量）の数字です。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">03</span>「保温」「炊飯」：Wではなく、1回・1時間あたりのWh</h2>
+        <p>炊飯器の仕様表には、定格消費電力（W）のほかに、1回・1時間あたりの電力量（Wh）が並びます。タイガーJBS-A055は、「定格消費電力 350W／年間消費電力量 39.0kWh/年／１回当りの炊飯時消費電力量 90.10Wh/回／１時間当りの保温時消費電力量 13.0Wh/時」 です（<a href="https://www.tiger-corporation.com/ja/jpn/product/rice-cooker/jbs-a" target="_blank" rel="noopener">タイガー魔法瓶</a>）。</p>
+        <p>この電力量には、条件があります。タイガーは、「1回当たりの炊飯時消費電力量は「エコ炊き」メニュー、1時間当たりの保温時消費電力量は「エコ炊き」メニュー時の電力量です。（出荷時の設定）消費電力量は炊飯量やご使用のメニューによって異なります。」 と注記しています。<strong>350Wで保温しているわけではなく</strong>、保温は1時間あたり13.0Whという、決められたメニューでの電力量です。</p>
+        <p>GEARNOTEの炊飯器のデータ一覧も、この条件をそのまま列名に入れています（「保温1時間あたりの消費電力量（エコ炊き・エコ炊飯メニュー時）」）。メニューの条件が書かれていない保温の数字は、同じ列に入れていません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">04</span>「強・中・静音・ターボ」：モード別の数字</h2>
+        <p>空気清浄機や加湿器は、運転のモードごとに数字を書きます。ダイニチHD-RX326は、標準161W・静音158W・eco 11W・ターボ168Wで、「※3 ターボ運転設定時は最長1時間で終了します。」 と書かれています（<a href="https://www.dainichi-net.co.jp/products/humidifier/lineup/rx2026/" target="_blank" rel="noopener">ダイニチ</a>）。ターボは時間の限られた運転です。</p>
+        <p>KI-SX70は、「※2（　）内の数字は無線モジュール起動時の待機時消費電力です。※4 無線モジュールを起動していないときの消費電力です。無線モジュール起動時は消費電力が最大で約1W高くなります。（　）内は前面モニターランプ「切」時。」 と書いています（<a href="https://jp.sharp/kuusei/products/kisx70/spec/" target="_blank" rel="noopener">シャープ</a>）。同じ「強」でも、無線を使うか、前面のランプを消すかで、数字が少し変わります。</p>
+        <p>家電公取協の公正競争規約施行規則は、誤認されるおそれのある表示の例として、「(4)使用環境・使用条件が異なるにもかかわらず、同一条件であるかのような表示をすること。」 を挙げています（<a href="https://www.eftc.or.jp/code/notation/pdf/notation4_4.pdf" target="_blank" rel="noopener">家電公取協（PDF）</a>）。モードの違う数字を、同じ条件のように並べないことが、表示する側のルールです。読む側も、モードの名前とセットで数字を読みます。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">05</span>「点火時」「立ち上がり時」：動き始めの大きい数字</h2>
+        <p>石油ファンヒーターの仕様表では、点火時の数字が、燃えている間の数字より大きく書かれています。ダイニチFW-4226NCは、最大（点火時）370Wに対して、大火力時143Wです（<a href="https://www.dainichi-net.co.jp/products/fanheater/lineup/nc2026/" target="_blank" rel="noopener">ダイニチ</a>）。</p>
+        <p>東京電力エナジーパートナーのアンペアの目安の表にも、「インバータエアコン（冷房時おもに10畳用平均）&lt;立ち上がり時など&gt; 冷房5.8A&lt;14A&gt; 暖房6.6A&lt;20A&gt;／電子レンジ（30Lクラス）15Ａ／ヘアードライヤー 12Ａ／ＩＨジャー炊飯器（5.5合・炊飯時）13Ａ／掃除機 弱 2Ａ 強 10Ａ」 とあります（<a href="https://www.tepco.co.jp/ep/private/ampere2/ampere03.html" target="_blank" rel="noopener">東京電力エナジーパートナー</a>）。動き始めの数字と、運転中の数字が分かれている機器では、<strong>同時に使う機器の合計を考えるときは、動き始めの数字も見る</strong>ことになります（合計の考え方は<a href="power-breaker-15a">コンセントの15A（1500W）とブレーカー</a>）。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">06</span>GEARNOTEのデータ一覧は、どの状態の数字を拾っているか</h2>
+        <p>データ一覧の列名には、どの状態の数字を拾ったかの条件が書いてあります。テレビ・空気清浄機・加湿器・炊飯器について、列名の条件と、数字のある台数、商品ページのメーカー公開情報のブロックに「待機」の語がある台数を数えました（GEARNOTE運営の計算（2026年11月15日））。</p>
+        <div class="compare-table-wrap">
+          <table class="compare-table guide-table">
+            <thead><tr><th>ジャンル</th><th>列名</th><th>列が拾っている数字</th><th>数字のある台数（範囲）</th><th>メーカー情報ブロックに「待機」の記載</th></tr></thead>
+            <tbody>
+            <tr><th><a href="data-tv">テレビ</a></th><td>消費電力（待機時を除く）</td><td>待機時の数字は入れず、動作中の数字</td><td>12台中11台（106〜318W）</td><td>11台中8台</td></tr>
+            <tr><th><a href="data-air-purifier">空気清浄機</a></th><td>消費電力（メーカー表記の最大値）</td><td>運転モードのうち一番大きい数字</td><td>27台中18台（10〜76W）</td><td>24台中10台</td></tr>
+            <tr><th><a href="data-humidifier">加湿器</a></th><td>消費電力（記載のうち最大）</td><td>モード（標準・静音・ターボなど）のうち最大</td><td>30台中22台（2〜1,200W）</td><td>25台中1台</td></tr>
+            <tr><th><a href="data-rice-cooker">炊飯器</a></th><td>保温1時間あたりの消費電力量（エコ炊き・エコ炊飯メニュー時）</td><td>保温の電力量（Wh）。メニューの条件つき</td><td>18台中5台（13〜24.1Wh）</td><td>16台中1台</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>テレビは、メーカー情報ブロックがある11台のうち8台に、待機の数字の記載がありました。データ一覧の消費電力の列は「待機時を除く」動作中の数字なので、待機の数字は、各商品ページで確かめてください。</p>
+        <p>メーカーが公式に書いている数字と、データ一覧の数字が合っているかも確かめました。シャープKI-SX70は、データ一覧の69Wが、仕様表の空気清浄運転「強」69Wと同じです。パナソニックTV-50A90Bは195Wと128kWh/年、タイガーJBS-A055は保温13.0Wh/時と定格350Wで、仕様表と同じです。ダイニチHD-RX325（前年モデル）の168Wは、2026年モデルHD-RX326のターボ168Wと同じ数字です。</p>
+        <p>「記載なし」は、メーカー情報ブロックに書かれていないという意味で、待機の電力がないという意味ではありません。</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">07</span>よくある読み違い</h2>
+        <ul><li><strong>「空気清浄機は69W」</strong>：KI-SX70の69Wは空気清浄運転の「強」で、静音は6.6Wです。</li><li><strong>「炊飯器は保温中も350W」</strong>：JBS-A055の保温は、エコ炊きメニュー時に1時間あたり13.0Whと書かれています。</li><li><strong>「電源を切れば0W」</strong>：TV-50A90Bは、電源ボタンで「切」のときに約0.5Wと書いています。</li><li><strong>「点火時370Wが運転中の数字」</strong>：FW-4226NCの大火力時は143Wです。</li><li><strong>「ターボの数字でずっと動く」</strong>：HD-RX326のターボは、最長1時間で終了すると書かれています。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">08</span>商品ページで確かめること</h2>
+        <ul><li>数字の横のモード名（強・中・静音・eco・ターボ・保温・待機時・点火時）。</li><li>無線（Wi-Fi）を使ったとき、ランプを消したときの数字が、別に書かれていないか。</li><li>炊飯器の電力量（Wh）が、どのメニューの数字か。</li><li>50Hz・60Hzで数字が分かれていないか（<a href="power-w-how-to-read">消費電力（W）の読み方</a>）。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">09</span>出典と、確認できなかったこと</h2>
+        <p>このページの事実は、2026年11月15日時点で、各ページを実際に開いて確認した公的機関・電力会社・業界団体・メーカー公式の資料にもとづきます（リンクは各項目に付けています）。制度や仕様は、変わることがあります。GEARNOTEの数字は、GEARNOTEに載せている商品の範囲の集計で、市場全体の割合ではありません。</p>
+        <ul><li>待機時消費電力の測定方法を定めた規格の本文は、未閲覧です。このページでは、メーカーが書いた数字と注記だけを使っています。</li><li>レグザ50E350Sの待機の数字は、メーカー公式の仕様ページを本日開けなかったため、使っていません。</li><li>モードごとの数字を使って、1日・1年の電力量を見積もる方法は、メーカーの算出条件が機種ごとに違うため、書いていません（電力量の計算は<a href="tool-power-wh">消費電力量の計算</a>で試せます）。</li></ul>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">10</span>引用するときの書き方</h2>
+        <p>このページの数字や集計は、出典を書いていただければ、ご自由に引用していただけます（修正や再集計をした場合は、その旨も書き添えてください）。文章に書くときの例です。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;">GEARNOTE「待機電力・運転モード別のWの書き方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）　https://gearnote.net/power-standby-and-modes</p>
+        <p>ブログなどにリンクを貼るときは、次の1行をそのまま使えます。</p>
+        <p style="padding:12px 16px;border:1px solid var(--gold,#b08d57);border-radius:10px;overflow-wrap:anywhere;font-family:monospace;font-size:0.85rem;">&lt;a href="https://gearnote.net/power-standby-and-modes"&gt;GEARNOTE「待機電力・運転モード別のWの書き方」（2026年10月31日〜11月11日のデータ、2026年11月15日集計）&lt;/a&gt;</p>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">11</span>よくある質問</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>待機時消費電力とは、どの状態の数字ですか？</h3>
+            <p>電源プラグを差したまま、運転を止めている状態の消費電力です。パナソニックTV-50A90Bは「リモコンまたは本体の電源ボタンで電源「切」時：約 0.5W」と書いています。書き方はメーカーごとに違います。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>空気清浄機の消費電力は、どの数字を見ればいいですか？</h3>
+            <p>モード名とセットで読みます。シャープKI-SX70の空気清浄運転は、強69W・中32W・静音6.6Wです。GEARNOTEのデータ一覧は、メーカー表記の最大値（KI-SX70なら69W）を載せています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>炊飯器の保温の電力は、何Wですか？</h3>
+            <p>炊飯器の保温は、Wではなく1時間あたりのWhで書かれます。タイガーJBS-A055は、エコ炊きメニュー時の保温が13.0Wh/時です。ジャー炊飯器は、家庭用品品質表示法で、1時間当たりの保温時消費電力量の表示が決められています。</p>
+          </div>
+          <div class="faq-item">
+            <h3><span class="q-mark">Q.</span>無線LANを使うと、待機電力は変わりますか？</h3>
+            <p>変わる機種があります。シャープKI-SX70は、待機時消費電力を約1.2W、無線モジュール起動時を約1.4Wと書き分けています。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="pd-deep-section">
+        <h2 class="pd-deep-heading"><span class="num">12</span>関連ページ</h2>
+        <ul><li><a href="power-w-how-to-read">消費電力（W）の読み方</a></li><li><a href="power-breaker-15a">コンセントの15A（1500W）とブレーカー</a></li><li><a href="data-tv">テレビの仕様一覧</a></li><li><a href="data-air-purifier">空気清浄機の仕様一覧</a></li><li><a href="data-humidifier">加湿器の仕様一覧</a></li><li><a href="data-rice-cooker">炊飯器の仕様一覧</a></li><li><a href="diff-heater-types">暖房器具の種類の違い</a></li></ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo">GEARNOTE</div>
+        <p>スペックや商品情報を整理し、買う前の判断を助ける商品比較メディア。ガジェットから生活家電・美容・食品まで、商品情報をもとに正直にまとめています。</p>
+        <div class="blogmura-banners">
+          <a href="https://pckaden.blogmura.com/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログへ" loading="lazy"></a>
+          <a href="https://pckaden.blogmura.com/kitchenkaden/ranking/in?p_cid=11218714" target="_blank" rel="nofollow noopener"><img src="https://b.blogmura.com/pckaden/kitchenkaden/88_31.gif" width="88" height="31" border="0" alt="にほんブログ村 PC家電ブログ キッチン家電・生活家電へ" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=1069" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_1069_1.gif" width="110" height="31" alt="ガジェットランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=2583" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_2583_1.gif" width="110" height="31" alt="買い物・ショッピングランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5337" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5337_1.gif" width="110" height="31" alt="キッチン家電・生活家電ランキング" loading="lazy"></a>
+          <a href="https://blog.with2.net/link/?id=2142711&amp;cid=5339" target="_blank" rel="nofollow noopener"><img src="https://blog.with2.net/img/banner/c/banner_1/br_c_5339_1.gif" width="110" height="31" alt="デジモノ・ガジェットランキング" loading="lazy"></a>
+        </div>
+        <div class="footer-own-links"><p class="fol-head">運営SNS</p><p class="fol-sub">仕様の数字の読み方を、SNSでも発信しています。フォローもお待ちしています。</p><p class="fol-links"><a class="fol-link" href="https://note.com/gear_note2222" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 3.5h10.5L19.5 7.5V20.5H5z"/><path d="M15.5 3.5v4h4"/><path d="M8.5 16.5l.6-2.6 5.4-5.4 2 2-5.4 5.4z"/></svg><span>note</span></a><a class="fol-link" href="https://x.com/reina_9553" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5.5h16v10.5h-8.5L7 20v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg><span>X</span></a><a class="fol-link" href="https://www.tiktok.com/@gearnote.net" target="_blank" rel="noopener nofollow"><svg class="fol-icon" viewBox="0 0 24 24" width="25" height="25" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><path d="M10 9l5 3-5 3z"/></svg><span>TikTok</span></a></p></div>
+      </div>
+      <div>
+        <h4>サイトマップ</h4>
+        <ul>
+          <li><a href="/">ホーム</a></li>
+          <li><a href="/#ranking">ジャンル別</a></li>
+          <li><a href="/#picks">新着商品</a></li>
+          <li><a href="/#brands">ブランド</a></li><li data-hub-links><a href="diff-index">違いを調べる</a></li><li><a href="words">スペック用語集</a></li><li><a href="tools">計算ツール</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>サイト情報</h4>
+        <ul>
+          <li><a href="about">このサイトについて</a></li>
+          <li><a href="about#author">運営情報</a></li>
+          <li><a href="about#criteria">比較表の並び順と基準</a></li>
+          <li><a href="about#disclosure">アフィリエイト表記</a></li>
+          <li><a href="about#privacy">プライバシーポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="disclosure">
+      <p class="associate-disclosure">Amazonのアソシエイトとして、GEARNOTEは適格販売により収入を得ています。詳しくは<a href="about#disclosure">アフィリエイト表記</a>をご覧ください。</p>
+      <div class="copyright">
+        &copy; 2026 GEARNOTE. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
