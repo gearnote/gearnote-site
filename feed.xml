@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 16 Nov 2026 19:31:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 19:42:12 +0000</lastBuildDate>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -99,6 +99,13 @@
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Dyson PencilVacの特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-dyson-pencilvac</link>
+    <guid isPermaLink="true">https://gearnote.net/product-dyson-pencilvac</guid>
+    <description>Dyson PencilVac Fluffyconesの特徴を整理。メリット・デメリット、シャープ EC-FR9・Dyson V12 Detectとの比較、こんな人におすすめかをまとめました。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Eufy Robot Vacuum Auto-Empty C10の仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-eufy-robot-vacuum-c10</link>
     <guid isPermaLink="true">https://gearnote.net/product-eufy-robot-vacuum-c10</guid>
@@ -131,6 +138,13 @@
     <link>https://gearnote.net/product-jbl-wave-beam-2</link>
     <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-beam-2</guid>
     <description>JBL WAVE BEAM 2 ワイヤレスイヤホンの仕様。重量・バッテリー・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>シャープ EC-FR9の特徴・デメリット・比較｜GEARNOTE</title>
+    <link>https://gearnote.net/product-sharp-ec-fr9</link>
+    <guid isPermaLink="true">https://gearnote.net/product-sharp-ec-fr9</guid>
+    <description>シャープ コードレススティック掃除機 EC-FR9の特徴を整理。メリット・デメリット、Dyson V12 Detect・PencilVacとの比較、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -246,6 +260,41 @@
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アイリスオーヤマ コードレス掃除機 SCD-184Pの仕様｜寸法・質量・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-cordless-vacuum-scd184</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-cordless-vacuum-scd184</guid>
+    <description>アイリスオーヤマ コードレス掃除機 SCD-184P-Bのamazonの仕様。寸法・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Shark EVOPOWER SYSTEM ADVの仕様｜サイズ・質量・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-shark-evopower-adv-cordless</link>
+    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-adv-cordless</guid>
+    <description>Shark（シャーク）EVOPOWER SYSTEM ADV コードレススティッククリーナー CS651Jの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Shark EVOPOWER SYSTEM FIT+の仕様｜サイズ・質量・容量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-shark-evopower-fit-plus</link>
+    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-fit-plus</guid>
+    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM FIT+ LC150Jの仕様。サイズ・質量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Shark EVOPOWER SYSTEM STD+の仕様｜サイズ・質量・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-shark-evopower-std-plus</link>
+    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-std-plus</guid>
+    <description>Shark シャーク EVOPOWER SYSTEM STD+ コードレススティッククリーナー CS150JAEの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Shark EVOPOWER SYSTEM iQ+の仕様｜サイズ・重量・充電時間（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-shark-evopower-iq-plus</link>
+    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-iq-plus</guid>
+    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM iQ＋ CS851JMVAEの仕様。サイズ・重量・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-21）。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>パナソニック ドルツ EW-DA18の仕様｜寸法・質量・電池（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-panasonic-doltz-ewda18</link>
     <guid isPermaLink="true">https://gearnote.net/product-panasonic-doltz-ewda18</guid>
@@ -306,55 +355,6 @@
     <link>https://gearnote.net/product-sennheiser-momentum-true-wireless-3</link>
     <guid isPermaLink="true">https://gearnote.net/product-sennheiser-momentum-true-wireless-3</guid>
     <description>ゼンハイザー MOMENTUM True Wireless 3の仕様。重量・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゼンハイザー ACCENTUM True Wireless ワイヤレスイヤホンの仕様｜質量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sennheiser-accentum-true-wireless</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sennheiser-accentum-true-wireless</guid>
-    <description>ゼンハイザー ACCENTUM True Wirelessの仕様。質量・バッテリー・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゼンハイザー ACCENTUM Open オープンイヤー型ワイヤレスイヤホンの仕様｜重量・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sennheiser-accentum-open-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sennheiser-accentum-open-earbuds</guid>
-    <description>ゼンハイザー ACCENTUM Openの仕様。重量・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゼンハイザー MOMENTUM True Wireless 5 ワイヤレスイヤホンの仕様｜寸法・質量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sennheiser-momentum-true-wireless-5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sennheiser-momentum-true-wireless-5</guid>
-    <description>ゼンハイザー MOMENTUM True Wireless 5 ワイヤレスイヤホンの仕様。寸法・質量・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。ゼンハイザー MOMENTUM True Wireless 5の特徴を整理。TrueResponseドライバー、Dolby Atmos対応、アダプティブノイズキャンセリングなど、メリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 炊飯器 極め炊き NL-BF05AM-BZの仕様｜寸法・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-zojirushi-rice-cooker-nlbf05am</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nlbf05am</guid>
-    <description>象印 炊飯器 極め炊き NL-BF05AM-BZの仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。象印マホービン 炊飯器 3合 一人暮らし 小容量 極め炊き 保温24時間 ソフトブラック NL-BF05AM-BZの特徴を整理。豪熱沸とうや黒厚釜、メリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ツインバード 全自動コーヒーメーカー CM-D457Bの仕様｜寸法・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-twinbird-coffee-maker-cmd457b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-twinbird-coffee-maker-cmd457b</guid>
-    <description>ツインバード 全自動コーヒーメーカー CM-D457Bの仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。ツインバード 全自動コーヒーメーカー ミル付き 日本製 3杯用 ブラック CM-D457Bの特徴を整理。カフェ・バッハ監修の挽き方3段階や湯温83℃/90℃の2段階、メリット・デメリットをまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール PEBBLE MOUSE2の仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logicool-pebble-mouse2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-pebble-mouse2</guid>
-    <description>ロジクール PEBBLE MOUSE2の仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。ロジクール PEBBLE MOUSE2（薄型・静音ワイヤレスマウス）の特徴を整理。Bluetooth/Logi Bolt対応・Easy-Switch搭載マウスのメリット・デメリット、おすすめな人をまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック ドルツ EW-DP38-Wの仕様｜サイズ・質量・電池（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-doltz-dp38-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-doltz-dp38-w</guid>
-    <description>パナソニック ドルツ EW-DP38-Wの仕様。サイズ・質量・電池はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。パナソニック 音波振動ハブラシ ドルツ EW-DP38-Wの特徴を整理。W音波振動と歯間フィットブラシ、充電スタンド付きのメリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
