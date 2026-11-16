@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 16 Nov 2026 07:08:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 09:28:27 +0000</lastBuildDate>
+  <item>
+    <title>Apple TV 4K（第4世代）</title>
+    <link>https://gearnote.net/product-apple-tv-4k-4th-gen</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-tv-4k-4th-gen</guid>
+    <description>A19チップを搭載した、Appleのストリーミングメディアプレイヤー。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 奥行スリム冷凍庫 66L IUSN-7B-B ブラック</title>
+    <link>https://gearnote.net/product-iris-ohyama-freezer-66l-iusn-7b-b</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-freezer-66l-iusn-7b-b</guid>
+    <description>アイリスオーヤマの前開き冷凍庫。定格内容積66L、奥行39cmのスリムな本体で、冷蔵・冷凍・野菜の3モード切り替えと急速冷凍モードを備えます（Amazon掲載情報）。</description>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>アイリスオーヤマ 全自動洗濯機 5.0kg 特急コース TNI-M501H-B ブラック</title>
     <link>https://gearnote.net/product-irisohyama-washing-machine-5kg-tni-m501h-b</link>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</link>
     <guid isPermaLink="true">https://gearnote.net/product-irobot-roomba-plus-675-combo-v185060-autowash</guid>
     <description>アイロボット（iRobot）の水拭き両用ロボット掃除機「ルンバ Plus 675 Combo」、型番V185060です。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JBL Charge Essential 3 SE（スレートグレー・2026年モデル）</title>
-    <link>https://gearnote.net/product-jbl-charge-essential-3-se-slate-gray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jbl-charge-essential-3-se-slate-gray</guid>
-    <description>JBLのポータブルBluetoothスピーカー「Charge Essential 3 SE」のスレートグレー（2026年モデル）です。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JBL Wave Beam 3（パープル・ANC搭載の完全ワイヤレスイヤホン）</title>
-    <link>https://gearnote.net/product-jbl-wave-beam-3-purple-anc-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-beam-3-purple-anc-earbuds</guid>
-    <description>JBLの完全ワイヤレスイヤホン「Wave Beam 3」のパープルです。</description>
     <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
