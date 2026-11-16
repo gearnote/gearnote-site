@@ -57,7 +57,7 @@
 電気ケトル,https://gearnote.net/data-electric-kettle,容量（最大）,容量,mL,19,19,0,100.0,集計対象
 電気ケトル,https://gearnote.net/data-electric-kettle,消費電力,消費電力,W,19,15,4,78.9,集計対象
 電気ケトル,https://gearnote.net/data-electric-kettle,満水時の沸とう時間（メーカーの目安）,その他の性能・機能,分,19,6,13,31.6,集計対象
-電気ケトル,https://gearnote.net/data-electric-kettle,本体のみの質量（電源プレートを含まない）,質量,g,19,13,6,68.4,集計対象
+電気ケトル,https://gearnote.net/data-electric-kettle,本体のみの質量（電源プレートを含まない）,質量,g,19,14,5,73.7,集計対象
 電動歯ブラシ,https://gearnote.net/data-electric-toothbrush,質量（ブラシ・ブラシヘッド装着時）,質量,g,20,10,10,50.0,集計対象
 電動歯ブラシ,https://gearnote.net/data-electric-toothbrush,充電時間（フル充電、または種別の書かれていない充電時間）,連続使用時間・充電時間,時間,20,6,14,30.0,集計対象
 電動歯ブラシ,https://gearnote.net/data-electric-toothbrush,音波振動のブラシストローク数（2種類書かれたものはヨコ）,その他の性能・機能,ストローク/分,20,8,12,40.0,適用できる商品が限られるため集計から除外
@@ -92,9 +92,9 @@
 ヘッドホン,https://gearnote.net/data-headphone,インピーダンス,その他の性能・機能,Ω,44,14,30,31.8,集計対象
 ヘッドホン,https://gearnote.net/data-headphone,質量（コード・ケーブルを除く）,質量,g,44,10,34,22.7,集計対象
 ヒーター・ストーブ,https://gearnote.net/data-heater,消費電力（電気式・メーカー表記の最大値）,消費電力,W,51,32,19,62.7,集計対象
-ヒーター・ストーブ,https://gearnote.net/data-heater,最大の暖房出力（石油式）,その他の性能・機能,kW,51,14,37,27.5,適用できる商品が限られるため集計から除外
-ヒーター・ストーブ,https://gearnote.net/data-heater,暖房の目安・木造（石油式）,その他の性能・機能,畳,51,14,37,27.5,適用できる商品が限られるため集計から除外
-ヒーター・ストーブ,https://gearnote.net/data-heater,暖房の目安・コンクリート（石油式）,その他の性能・機能,畳,51,14,37,27.5,適用できる商品が限られるため集計から除外
+ヒーター・ストーブ,https://gearnote.net/data-heater,最大の暖房出力（石油式）,その他の性能・機能,kW,51,12,39,23.5,適用できる商品が限られるため集計から除外
+ヒーター・ストーブ,https://gearnote.net/data-heater,暖房の目安・木造（石油式）,その他の性能・機能,畳,51,12,39,23.5,適用できる商品が限られるため集計から除外
+ヒーター・ストーブ,https://gearnote.net/data-heater,暖房の目安・コンクリート（石油式）,その他の性能・機能,畳,51,12,39,23.5,適用できる商品が限られるため集計から除外
 ホットカーペット・こたつ,https://gearnote.net/data-hot-carpet-kotatsu,消費電力,消費電力,W,9,7,2,77.8,集計対象
 ホットカーペット・こたつ,https://gearnote.net/data-hot-carpet-kotatsu,本体の幅,寸法（幅・奥行・高さ）,cm,9,8,1,88.9,集計対象
 ホットカーペット・こたつ,https://gearnote.net/data-hot-carpet-kotatsu,本体の奥行,寸法（幅・奥行・高さ）,cm,9,8,1,88.9,集計対象
@@ -103,11 +103,11 @@
 ホットプレート,https://gearnote.net/data-hot-plate,外形寸法の幅,寸法（幅・奥行・高さ）,cm,10,7,3,70.0,集計対象
 ホットプレート,https://gearnote.net/data-hot-plate,外形寸法の奥行,寸法（幅・奥行・高さ）,cm,10,8,2,80.0,集計対象
 ホットプレート,https://gearnote.net/data-hot-plate,外形寸法の高さ,寸法（幅・奥行・高さ）,cm,10,8,2,80.0,集計対象
-加湿器,https://gearnote.net/data-humidifier,水タンク容量,容量,L,30,25,5,83.3,集計対象
+加湿器,https://gearnote.net/data-humidifier,水タンク容量,容量,L,30,26,4,86.7,集計対象
 加湿器,https://gearnote.net/data-humidifier,加湿量（記載のモードのうち最大）,その他の性能・機能,mL/h,30,25,5,83.3,集計対象
 加湿器,https://gearnote.net/data-humidifier,適用床面積の目安（木造和室）,その他の性能・機能,畳,30,22,8,73.3,集計対象
 加湿器,https://gearnote.net/data-humidifier,消費電力（記載のうち最大）,消費電力,W,30,22,8,73.3,集計対象
-加湿器,https://gearnote.net/data-humidifier,質量,質量,kg,30,24,6,80.0,集計対象
+加湿器,https://gearnote.net/data-humidifier,質量,質量,kg,30,25,5,83.3,集計対象
 キーボード,https://gearnote.net/data-keyboard,横幅（左右方向の長さ）,寸法（幅・奥行・高さ）,mm,21,19,2,90.5,集計対象
 キーボード,https://gearnote.net/data-keyboard,質量（電池・ケーブルを含まない）,質量,g,21,5,16,23.8,集計対象
 キーボード,https://gearnote.net/data-keyboard,キーストローク,その他の性能・機能,mm,21,9,12,42.9,集計対象
@@ -121,12 +121,12 @@
 microSD・SDカード,https://gearnote.net/data-microsd,容量,容量,GB,15,15,0,100.0,集計対象
 microSD・SDカード,https://gearnote.net/data-microsd,最大読み出し速度,その他の性能・機能,MB/s,15,14,1,93.3,集計対象
 microSD・SDカード,https://gearnote.net/data-microsd,最大書き込み速度,その他の性能・機能,MB/s,15,6,9,40.0,集計対象
-電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,庫内容量,容量,L,11,10,1,90.9,集計対象
+電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,庫内容量,容量,L,11,9,2,81.8,集計対象
 電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,高周波出力の最大の段（時間つきの数字を含む。50Hz・60Hzの数字が併記されている機種は60Hz）,その他の性能・機能,W,11,8,3,72.7,集計対象
-電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,外形寸法 幅,寸法（幅・奥行・高さ）,mm,11,10,1,90.9,集計対象
+電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,外形寸法 幅,寸法（幅・奥行・高さ）,mm,11,9,2,81.8,集計対象
 電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,外形寸法 奥行（ハンドルを含まない）,寸法（幅・奥行・高さ）,mm,11,7,4,63.6,集計対象
-電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,外形寸法 高さ,寸法（幅・奥行・高さ）,mm,11,10,1,90.9,集計対象
-電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,質量,質量,kg,11,10,1,90.9,集計対象
+電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,外形寸法 高さ,寸法（幅・奥行・高さ）,mm,11,9,2,81.8,集計対象
+電子レンジ・オーブンレンジ,https://gearnote.net/data-microwave-oven,質量,質量,kg,11,9,2,81.8,集計対象
 モニター,https://gearnote.net/data-monitor,画面サイズ,その他の性能・機能,インチ,18,18,0,100.0,集計対象
 モニター,https://gearnote.net/data-monitor,最大リフレッシュレート（接続方式・解像度で値が変わる記載がないもの） ／ 最大リフレッシュレート（DisplayPort接続時）,その他の性能・機能,Hz,18,14,4,77.8,集計対象
 モニター,https://gearnote.net/data-monitor,通常使用時の消費電力（メーカー表記：通常・標準・通常使用時）,消費電力,W,18,9,9,50.0,集計対象
@@ -171,7 +171,7 @@ microSD・SDカード,https://gearnote.net/data-microsd,最大書き込み速度
 炊飯器,https://gearnote.net/data-rice-cooker,質量,質量,kg,18,15,3,83.3,集計対象
 炊飯器,https://gearnote.net/data-rice-cooker,定格消費電力,消費電力,W,18,9,9,50.0,集計対象
 炊飯器,https://gearnote.net/data-rice-cooker,保温1時間あたりの消費電力量（エコ炊き・エコ炊飯メニュー時）,消費電力量,Wh,18,5,13,27.8,集計対象
-炊飯器,https://gearnote.net/data-rice-cooker,年間消費電力量,消費電力量,kWh/年,18,11,7,61.1,集計対象
+炊飯器,https://gearnote.net/data-rice-cooker,年間消費電力量,消費電力量,kWh/年,18,12,6,66.7,集計対象
 ロボット掃除機,https://gearnote.net/data-robot-vacuum,本体の高さ,寸法（幅・奥行・高さ）,mm,23,10,13,43.5,集計対象
 ロボット掃除機,https://gearnote.net/data-robot-vacuum,本体質量,質量,kg,23,11,12,47.8,集計対象
 ロボット掃除機,https://gearnote.net/data-robot-vacuum,バッテリー容量,容量,mAh,23,8,15,34.8,集計対象
@@ -202,9 +202,9 @@ microSD・SDカード,https://gearnote.net/data-microsd,最大書き込み速度
 サウンドバー,https://gearnote.net/data-soundbar,質量（サウンドバー本体）,質量,kg,13,11,2,84.6,集計対象
 サウンドバー,https://gearnote.net/data-soundbar,消費電力（本体。待機時の数字を除く）,消費電力,W,13,6,7,46.2,集計対象
 サウンドバー,https://gearnote.net/data-soundbar,実用最大出力（合計）,その他の性能・機能,W,13,3,10,23.1,集計対象
-ストリーミングデバイス,https://gearnote.net/data-streaming-device,ストレージ容量,容量,GB,11,7,4,63.6,集計対象
-ストリーミングデバイス,https://gearnote.net/data-streaming-device,メモリ（RAM）容量,容量,GB,11,6,5,54.5,集計対象
-ストリーミングデバイス,https://gearnote.net/data-streaming-device,本体の質量（リモコンは含まない）,質量,g,11,3,8,27.3,集計対象
+ストリーミングデバイス,https://gearnote.net/data-streaming-device,ストレージ容量,容量,GB,12,8,4,66.7,集計対象
+ストリーミングデバイス,https://gearnote.net/data-streaming-device,メモリ（RAM）容量,容量,GB,12,6,6,50.0,集計対象
+ストリーミングデバイス,https://gearnote.net/data-streaming-device,本体の質量（リモコンは含まない）,質量,g,12,4,8,33.3,集計対象
 タブレット,https://gearnote.net/data-tablet,画面サイズ（メーカーが示すインチ数）,その他の性能・機能,インチ,16,15,1,93.8,集計対象
 タブレット,https://gearnote.net/data-tablet,メモリ容量,容量,GB,16,12,4,75.0,集計対象
 タブレット,https://gearnote.net/data-tablet,ストレージ容量（掲載モデル）,容量,GB,16,16,0,100.0,集計対象
