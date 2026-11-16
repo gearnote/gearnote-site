@@ -75,14 +75,14 @@
       <div class="pd-deep-section">
         <h2 class="pd-deep-heading"><span class="num">01</span>いちばんの違いは「つなぎ方」：SDの方式か、PCIeか</h2>
         <p>microSDカードと機器は、カードの裏の端子でつながります。SDアソシエーション（SDカードの規格団体）の説明では、UHS-Iは従来のインタフェース（第1ロウ）を使うので、それより前の方式と共存でき、少ないピン数で接続できるという特徴があります（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">SDアソシエーション「バススピード」</a>）。</p>
-        <p>これに対して、UHS-II以降とSD Expressは、送信用と受信用の端子を第2ロウ（2列目）に置いています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。SD Expressは、PCIe Gen.4のインターフェイスとNVMeプロトコルを使い、最大3940MB/sのバス性能になると書かれています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。PCIeとNVMeは、パソコンの内蔵SSDでも使われている仕組みです（<a href="words-nvme-sata">NVMeとSATAの違い</a>で説明しています）。</p>
+        <p>これに対して、UHS-II以降とSD Expressは、送信用と受信用の端子を第2ロウ（2列目）に置いています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。SD Expressは、PCIe Gen.4のインターフェイスとNVMeプロトコルを使い、最大3940MB/sのバス性能になると書かれています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。ただし同じ表の注記で、microSDの仕様（microSD addendum Ver.8.0）はGen.4 × 1レーンのみをサポートするとされており、microSDサイズで表にある区分は985MB/sと1970MB/sです（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページの表の注記</a>）。PCIeとNVMeは、パソコンの内蔵SSDでも使われている仕組みです（<a href="words-nvme-sata">NVMeとSATAの違い</a>で説明しています）。</p>
         <p>ネクストレージ（Nextorage）も、microSD Expressを、SDアソシエーションが策定したPCIeインターフェースとNVMeプロトコルに準拠した高速SD規格を、microSDサイズに採用したものと説明しています（<a href="https://www.nextorage.net/cards/msd/nm3a/" target="_blank" rel="noopener">Nextorage「Gシリーズ EX」</a>）。</p>
         <div class="compare-table-wrap">
           <table class="compare-table guide-table">
             <thead><tr><th></th><th>UHS-IのmicroSD</th><th>microSD Express</th></tr></thead>
             <tbody>
             <tr><th>つなぎ方（規格）</th><td>従来のSDのインタフェース（端子の1列目＝第1ロウ）</td><td>PCIeとNVMe（端子の2列目＝第2ロウを使う）</td></tr>
-            <tr><th>バス速度（SDアソシエーションの表）</th><td>50MB/s・104MB/s</td><td>985MB/s（PCIe Gen.3 × 1Lane）から最大3940MB/s</td></tr>
+            <tr><th>バス速度（SDアソシエーションの表）</th><td>50MB/s・104MB/s</td><td>985MB/s（PCIe Gen.3 × 1Lane）・1970MB/s（Gen.4 × 1Lane）。microSDはGen.4 × 1Laneまで</td></tr>
             <tr><th>スピードクラスの表記</th><td>C10、U1・U3、V10・V30など</td><td>E150・E300・E450・E600（SD Expressスピードクラス）</td></tr>
             <tr><th>Nintendo Switch 2</th><td>使えない（画面写真・動画のコピー用を除く）</td><td>対応（最大2TBまで）</td></tr>
             <tr><th>GEARNOTE掲載</th><td>8枚（最大読み出しの記載80〜200MB/s（7台））</td><td>2枚（最大読み出し810〜880MB/s（2台））</td></tr>
@@ -93,7 +93,7 @@
 
       <div class="pd-deep-section">
         <h2 class="pd-deep-heading"><span class="num">02</span>速度の数字：「バス速度」と「カードの最大速度」は別のもの</h2>
-        <p>SDアソシエーションの表では、UHS-Iのバス速度は50MB/s（SDR50）と104MB/s（SDR104）の2つの区分です（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">SDアソシエーション</a>）。SD Expressは、PCIe Gen.3 × 1Laneで985MB/s、Gen.4 × 2Laneで3940MB/sまでの区分が並んでいます（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページの表</a>）。これは機器とカードの間の通り道の上限で、カード自体がその速さで読み書きできるという意味ではありません。</p>
+        <p>SDアソシエーションの表では、UHS-Iのバス速度は50MB/s（SDR50）と104MB/s（SDR104）の2つの区分です（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">SDアソシエーション</a>）。SD Expressは、PCIe Gen.3 × 1Laneで985MB/s、Gen.4 × 2Laneで3940MB/sまでの区分が並んでいます（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページの表</a>）が、microSDはGen.4 × 1Lane（1970MB/s）までです（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページの表の注記</a>）。これは機器とカードの間の通り道の上限です。SDアソシエーションも、メモリアクセスの最大性能はバスの速度だけでなく、内部のメモリ性能などによって決まると書いています（<a href="https://www.sdcard.org/ja/developers-2/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/" target="_blank" rel="noopener">同ページ</a>）。</p>
         <p>GEARNOTE掲載のmicroSD Express 2枚の最大読み出しは、810〜880MB/s（2台）です。Nextorageの公式ページでは、インターフェースが「PCIe3×1, NVMe1.3/UHS-I」と書かれています（<a href="https://www.nextorage.net/cards/msd/nm3a/" target="_blank" rel="noopener">Nextorage</a>）。PCIe Gen.3 × 1Laneのバス速度985MB/sに対して、カードの最大読み出しは810MB/s（256GB）という関係です（GEARNOTE運営の計算）。</p>
         <p>UHS-IのmicroSD 8枚では、最大読み出しの記載があるのは80〜200MB/s（7台）でした。UHS-Iのバス速度104MB/sを超える数字が書かれているのは2枚で、<a href="product-sandisk-ultra-microsd-256gb-sdsqujq-256g-gh3ma">SanDisk Ultra microSD UHS-Iカード 256GB SDSQUJQ-256G-GH3MA（Amazon.co.jp限定）</a>の商品ページには「195MB/sはUHS-Iの104MB/sを超える独自技術による値で、対応機器でのみ出ます」、<a href="product-kingston-canvas-go-plus-microsd-256gb">Kingston Canvas Go! Plus Gen4 microSDXC</a>には「完全な速度にはMobileLite Plusリーダーが必要」と書かれています（GEARNOTE運営の計算）。</p>
         <p>掲載のmicroSD Expressの最大読み出し810〜880MB/sは、UHS-Iのバス速度104MB/sの約7.8〜8.5倍です（GEARNOTE運営の計算）。ただし、どれもメーカーが示す最大値で、実際の速さは機器によって変わります。</p>
@@ -138,7 +138,7 @@
             </tbody>
           </table>
         </div>
-        <p>容量と速度はデータ一覧の数字です。SDカード（フルサイズ）5枚は、Switch 2のカードスロットに差せない大きさのため、この表から外しています。<a href="product-sandisk-extreme-microsd-128gb-sdsqxh9-128g-ghqma">サンディスク エクストリーム microSD 128GB SDSQXH9-128G-GHQMA</a>は、データ一覧に速度の数字がありません（メーカーの現行ページの128GBは最大読み出し190MB/秒・最大書き込み90MB/秒と、商品ページに書かれています）。</p>
+        <p>容量と速度はデータ一覧の数字です。SDカード（フルサイズ）5枚は、Switch 2のカードスロットに差せない大きさのため、この表から外しています。<a href="product-sandisk-extreme-microsd-128gb-sdsqxh9-128g-ghqma">サンディスク エクストリーム microSD 128GB SDSQXH9-128G-GHQMA</a>は、データ一覧に速度の数字がありません（商品ページには、メーカーの現行ページの128GB（型番SDSQXAA-128G-JN3MDで、掲載品のSDSQXH9とは型番が違います）の最大読み出し190MB/秒・最大書き込み90MB/秒が書かれています）。</p>
         <p>数字は、GEARNOTEに載せている商品の範囲のもので、市場全体の傾向ではありません。「記載なし」は、0や非対応という意味ではなく、データ一覧や商品ページに書かれていないという意味です。</p>
       </div>
 
