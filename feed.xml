@@ -6,7 +6,203 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 17 Nov 2026 06:46:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 06:51:17 +0000</lastBuildDate>
+  <item>
+    <title>このサイトについて｜GEARNOTE</title>
+    <link>https://gearnote.net/about</link>
+    <guid isPermaLink="true">https://gearnote.net/about</guid>
+    <description>GEARNOTEのサイト概要、運営情報、アフィリエイト表記、プライバシーポリシーについて。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-amazon-echo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
+    <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Ankerの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-anker</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
+    <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Appleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-apple</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
+    <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Boseの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-bose</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-bose</guid>
+    <description>Bose製品の特徴、ノイズキャンセリングヘッドホン・イヤホン・スピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Braunの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-braun</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
+    <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>デロンギの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-delonghi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
+    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>DHCの商品一覧｜ブランド特集｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dhc</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dhc</guid>
+    <description>DHCの特徴、クレンジングオイルやサプリメントの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dysonの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-dyson</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-dyson</guid>
+    <description>Dyson製品の特徴、掃除機・ヘアケア・空気清浄機の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Eufyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-eufy</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-eufy</guid>
+    <description>Eufy製品の特徴、ロボット掃除機・防犯カメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Googleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-google</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
+    <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>JBLの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-jbl</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-jbl</guid>
+    <description>JBL製品の特徴、Bluetoothスピーカー・パーティースピーカー・イヤホンの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-koizumi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-koizumi</guid>
+    <description>コイズミの特徴、ヘアケア家電から季節家電まで幅広いラインナップの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>KOSEの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-kose</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-kose</guid>
+    <description>KOSE製品の特徴、スキンケア・ベースメイク・ポイントメイクの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ORBISの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-orbis</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-orbis</guid>
+    <description>ORBIS製品の特徴、洗顔・化粧水・UVケアの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Philipsの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-philips</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-philips</guid>
+    <description>Philips製品の特徴、電動シェーバー・電動歯ブラシの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ReFaの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-refa</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-refa</guid>
+    <description>ReFaの美顔器・ドライヤー・ヘアアイロンの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SHARPの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sharp</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sharp</guid>
+    <description>SHARP製品の特徴、空気清浄機・調理家電・ドライヤーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>資生堂の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-shiseido</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-shiseido</guid>
+    <description>SHISEIDO（資生堂）のスキンケア・ベースメイクの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SK-IIの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-skii</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-skii</guid>
+    <description>SK-IIの化粧水・美容液の特徴と選び方、こんな人におすすめする理由をまとめて紹介。掲載14商品の仕様を一覧で確認できます。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Sonyの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-sony</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-sony</guid>
+    <description>Sony製品の特徴、ヘッドホン・イヤホン・Vlogカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>SwitchBotの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-switchbot</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-switchbot</guid>
+    <description>SwitchBot製品の特徴、スマートホーム機器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomiの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-xiaomi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
+    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>YA-MANの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-ya-man</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-ya-man</guid>
+    <description>YA-MANの美顔器・脱毛器・ヘアケア家電の特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>すべてのブランド｜GEARNOTE</title>
+    <link>https://gearnote.net/brands</link>
+    <guid isPermaLink="true">https://gearnote.net/brands</guid>
+    <description>イヤホン・オーディオ、生活家電、スマートホーム、美容家電、コスメ・化粧品まで、ジャンル別にブランドから商品を探せます。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -43,6 +239,20 @@
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>食べ物の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-food</link>
+    <guid isPermaLink="true">https://gearnote.net/category-food</guid>
+    <description>プロテインバー・栄養補助食品、おつまみ・珍味、お菓子・スイーツ、ナッツ・保存食まで、特徴をもとに厳選した食品一覧。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>生活家電の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-home</link>
     <guid isPermaLink="true">https://gearnote.net/category-home</guid>
@@ -64,6 +274,13 @@
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ゲームの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-games</link>
+    <guid isPermaLink="true">https://gearnote.net/category-games</guid>
+    <description>Nintendo Switch/Switch2・PS5の本体や周辺機器・ソフトなど、特徴をもとに厳選したゲーム関連商品一覧。</description>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Apple AirPods 5（アクティブノイズキャンセリング搭載）の仕様｜サイズ・重量・防塵（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-airpods-5</link>
     <guid isPermaLink="true">https://gearnote.net/product-airpods-5</guid>
@@ -71,290 +288,73 @@
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Beats Powerbeats Pro 2の仕様｜Bluetooth・防水（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-beats-powerbeats-pro-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-beats-powerbeats-pro-2</guid>
-    <description>Beats Powerbeats Pro 2 ワイヤレスイヤホンの仕様。Bluetooth・防水はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <title>Apple AirPods Max 2の仕様｜サイズ・質量・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-airpods-max-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-airpods-max-2</guid>
+    <description>Apple AirPods Max 2の仕様。サイズ・質量・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-16）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Beats Studio Buds+の仕様｜Bluetooth・防水（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-beats-studio-buds-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-beats-studio-buds-plus</guid>
-    <description>Beats Studio Buds+ ワイヤレスノイズキャンセリングイヤフォンの仕様。Bluetooth・防水はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <title>Anker Nano Charger（45W, Display）の仕様｜サイズ・重さ・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-charger-45w-display</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-charger-45w-display</guid>
+    <description>Anker Nano Charger（45W, Display, スイングプラグ）の仕様。サイズ・重さ・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>デロンギ マグニフィカSの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-magnifica-s</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-magnifica-s</guid>
-    <description>デロンギ 全自動コーヒーマシン マグニフィカSの特徴を整理。メリット・デメリット、スティローザ・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
+    <title>Anker Nano Charger（70W, 3 Ports）の仕様｜サイズ・重さ（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-charger-70w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-charger-70w</guid>
+    <description>Anker Nano Charger（70W, 3 Ports）ブラックの仕様。サイズ・重さはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>デロンギ スティローザの特徴・比較｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-delonghi-stilrosa-ec235j</link>
-    <guid isPermaLink="true">https://gearnote.net/product-delonghi-stilrosa-ec235j</guid>
-    <description>デロンギ エスプレッソメーカー スティローザ EC235Jの特徴を整理。メリット・デメリット、マグニフィカS・ラ・スペシャリスタとの比較、こんな人におすすめかをまとめました。</description>
+    <title>Anker Nano II 65Wの仕様｜サイズ・重さ（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-ii-65w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-ii-65w</guid>
+    <description>Anker Nano II 65Wの仕様。サイズ・重さはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Dyson PencilVacの特徴・デメリット・比較｜GEARNOTE</title>
-    <link>https://gearnote.net/product-dyson-pencilvac</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dyson-pencilvac</guid>
-    <description>Dyson PencilVac Fluffyconesの特徴を整理。メリット・デメリット、シャープ EC-FR9・Dyson V12 Detectとの比較、こんな人におすすめかをまとめました。</description>
+    <title>Anker Nano Power Stripの仕様｜サイズ・重さ・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-nano-power-strip</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-strip</guid>
+    <description>Anker Nano Power Strip（10-in-1, 70W, クランプ式）の仕様。サイズ・重さ・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Eufy Robot Vacuum Auto-Empty C10の仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-eufy-robot-vacuum-c10</link>
-    <guid isPermaLink="true">https://gearnote.net/product-eufy-robot-vacuum-c10</guid>
-    <description>Eufy Robot Vacuum Auto-Empty C10の仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <title>Anker Power Bank（10000mAh）の仕様｜サイズ・重さ・容量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-power-bank-10000mah</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-power-bank-10000mah</guid>
+    <description>Anker Power Bank（10000mAh, 22.5W）の仕様。サイズ・重さ・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Anker Eufy X10 Pro Omniの仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-eufy-x10-pro-omni</link>
-    <guid isPermaLink="true">https://gearnote.net/product-eufy-x10-pro-omni</guid>
-    <description>Anker Eufy（ユーフィ）X10 Pro Omni ロボット掃除機の仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <title>Anker PowerLine III Flow ケーブルの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-powerline-iii-flow</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-powerline-iii-flow</guid>
+    <description>Anker PowerLine III Flow USB-C&amp;USB-Cケーブル 1.8mの特徴を整理。メリット・デメリットと、向いている人をまとめました。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Eufy Robot Vacuum Omni C28の仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-eufy-omni-c28</link>
-    <guid isPermaLink="true">https://gearnote.net/product-eufy-omni-c28</guid>
-    <description>Anker Eufy(ユーフィ) Robot Vacuum Omni C28の仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <title>Anker Soundcore 2 スピーカーの仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-2</guid>
+    <description>Anker Soundcore 2 ポータブルBluetoothスピーカーの仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>JBL TOUR PRO 3の仕様｜重量・充電時間・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jbl-tour-pro-3</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jbl-tour-pro-3</guid>
-    <description>JBL TOUR PRO 3 ワイヤレスイヤホンの仕様。重量・充電時間・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <title>Anker Soundcore P31iの仕様｜サイズ・重さ・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-soundcore-p31i</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-p31i</guid>
+    <description>Anker Soundcore P31i の仕様。サイズ・重さ・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>JBL WAVE BEAM 2の仕様｜重量・バッテリー・充電時間（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jbl-wave-beam-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jbl-wave-beam-2</guid>
-    <description>JBL WAVE BEAM 2 ワイヤレスイヤホンの仕様。重量・バッテリー・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャープ EC-FR9の特徴・デメリット・比較｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sharp-ec-fr9</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sharp-ec-fr9</guid>
-    <description>シャープ コードレススティック掃除機 EC-FR9の特徴を整理。メリット・デメリット、Dyson V12 Detect・PencilVacとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>WF-1000XM6レビュー｜音質・ノイキャン・デメリットを徹底検証｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-wf-1000xm6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wf-1000xm6</guid>
-    <description>ソニー WF-1000XM6の特徴を整理。メリット・デメリット、AirPods 4・Bose QC Ultra Earbudsとの比較、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー LinkBuds WF-L900の仕様｜質量・電池・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-linkbuds-wf-l900</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-linkbuds-wf-l900</guid>
-    <description>ソニー(SONY) LinkBuds WF-L900の仕様。質量・電池・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロジクール ワイヤレスマウス M220の仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logicool-m220-silent-mouse</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-m220-silent-mouse</guid>
-    <description>ロジクール ワイヤレスマウス 静音 無線 M220CGの仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファッションの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-fashion</link>
-    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
-    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-sports</link>
-    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
-    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-car</link>
-    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
-    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キッチン用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-kitchen</link>
-    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
-    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SwitchBot ロボット掃除機 S20の仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-switchbot-robot-vacuum-s20</link>
-    <guid isPermaLink="true">https://gearnote.net/product-switchbot-robot-vacuum-s20</guid>
-    <description>SwitchBot ロボット掃除機 S20 走行中のモップ洗浄の仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Buds 8 Liteの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-lite</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-lite</guid>
-    <description>Xiaomi シャオミ REDMI Buds 8 Lite ワイヤレスイヤホンの仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Redmi Buds 6 Playの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-6-play</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-6-play</guid>
-    <description>Xiaomi Redmi Buds 6 Play ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Buds 8 Proの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-buds-8-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-buds-8-pro</guid>
-    <description>Xiaomi REDMI Buds 8 Pro ワイヤレスイヤホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi ロボット掃除機 S40Cの仕様｜寸法・重量・定格電力・電圧（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-robot-vacuum-s40c</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-robot-vacuum-s40c</guid>
-    <description>Xiaomi シャオミ ロボット掃除機 S40C 5,000Pa強力吸引の仕様。寸法・重量・定格電力・電圧はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore Liberty 4の仕様｜サイズ・重さ・充電時間（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-liberty-4</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-4</guid>
-    <description>Anker Soundcore Liberty 4 完全ワイヤレスイヤホンの仕様。サイズ・重さ・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-14）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Soundcore Liberty 5 Proの仕様｜重さ・保証・充電時間（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-anker-soundcore-liberty-5-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-soundcore-liberty-5-pro</guid>
-    <description>Anker Soundcore Liberty 5 Pro 完全ワイヤレスイヤホンの仕様。重さ・保証・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple AirPods Pro 3の仕様｜サイズ・重量・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-airpods-pro-3</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-airpods-pro-3</guid>
-    <description>Apple AirPods Pro 3 ワイヤレスイヤホンの仕様。サイズ・重量・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ 圧力IHジャー炊飯器の仕様｜寸法・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-pressure-ih-rice-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-pressure-ih-rice-cooker</guid>
-    <description>アイリスオーヤマ 圧力IHジャー炊飯器 5.5合 極厚火釜 銘柄炊きの仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ コードレス掃除機 SCD-184Pの仕様｜寸法・質量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-cordless-vacuum-scd184</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-cordless-vacuum-scd184</guid>
-    <description>アイリスオーヤマ コードレス掃除機 SCD-184P-Bのamazonの仕様。寸法・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KIOXIA EXCERIA PLUS G2 ポータブルSSDの仕様｜寸法・質量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kioxia-exceria-plus-g2-ssd-1tb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kioxia-exceria-plus-g2-ssd-1tb</guid>
-    <description>KIOXIA(キオクシア) EXCERIA PLUS G2 ポータブルSSD 1TBの仕様。寸法・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KIOXIA SSD 外付け 480GBの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kioxia-ssd-480gb-portable</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kioxia-ssd-480gb-portable</guid>
-    <description>キオクシア(KIOXIA) SSD 外付け 480GB USB3.2 Gen2 SSD-PK480U3-BA/Nの仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Belkin iPhone 17 ケース シアーフォースの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-belkin-iphone17-case</link>
-    <guid isPermaLink="true">https://gearnote.net/product-belkin-iphone17-case</guid>
-    <description>Belkin iPhone 17 ケース MagSafe/Qi2対応 シアーフォース プロテクトシリーズの仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM ADVの仕様｜サイズ・質量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-adv-cordless</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-adv-cordless</guid>
-    <description>Shark（シャーク）EVOPOWER SYSTEM ADV コードレススティッククリーナー CS651Jの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM FIT+の仕様｜サイズ・質量・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-fit-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-fit-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM FIT+ LC150Jの仕様。サイズ・質量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM STD+の仕様｜サイズ・質量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-std-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-std-plus</guid>
-    <description>Shark シャーク EVOPOWER SYSTEM STD+ コードレススティッククリーナー CS150JAEの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM iQ+の仕様｜サイズ・重量・充電時間（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-iq-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-iq-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM iQ＋ CS851JMVAEの仕様。サイズ・重量・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-21）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック ドルツ EW-DA18の仕様｜寸法・質量・電池（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-doltz-ewda18</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-doltz-ewda18</guid>
-    <description>パナソニック 音波振動ハブラシ ドルツ 電動歯ブラシ EW-DA18-Wの仕様。寸法・質量・電池はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック 完全ワイヤレスイヤホン RZ-S50Wの仕様｜質量・充電時間・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-rzs50w-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-rzs50w-earbuds</guid>
-    <description>パナソニック カナル型 ノイズキャンセリング完全ワイヤレスイヤホン RZ-S50Wの仕様。質量・充電時間・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo RV20 Max Plusの仕様｜サイズ・容量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-rv20-max-plus-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-rv20-max-plus-robot-vacuum</guid>
-    <description>Tapo RV20 Max Plus（薄型ロボット掃除機&amp;自動ゴミ収集機）の仕様。サイズ・容量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ 小型炊飯器 ライスクッカー ミニの仕様｜サイズ・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-koizumi-mini-rice-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-mini-rice-cooker</guid>
-    <description>コイズミ 小型 炊飯器 ライスクッカー ミニ 0.5~1.5合 KSC-1514/Wの仕様。サイズ・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>iPhoneケース・アクセサリーの比較表（掲載56商品）｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-iphone-accessories</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-iphone-accessories</guid>
-    <description>GEARNOTEに登録しているiPhoneケース・アクセサリーの56商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>KINUJO ストレートヘアアイロン LM225の仕様｜サイズ・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kinujo-straight-iron</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kinujo-straight-iron</guid>
-    <description>KINUJO(キヌージョ) ストレートヘアアイロン 絹女 LM225の仕様。サイズ・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <title>Anker Zolo Power Bankの仕様｜サイズ・重量・容量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-anker-zolo-power-bank</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-zolo-power-bank</guid>
+    <description>Anker Zolo Power Bank（10K, 30W, ケーブル一体型）の仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
