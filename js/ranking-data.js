@@ -23246,7 +23246,7 @@ const RANKING_POOL = [
   },
   {
     name: "Apple iPhone 17 シリコーンケース ライトモス",
-    excerpt: "iPhone 17専用のApple純正MagSafe対応シリコーンケース。45%再生シリコーン、マイクロファイバー裏地、カメラコントロール連係",
+    excerpt: "iPhone 17専用のApple純正MagSafe対応シリコーンケース。素材はシリコーン（Apple公式の記載）、マイクロファイバー裏地、カメラコントロール連係",
     img: "https://m.media-amazon.com/images/I/61yn-1+if8L._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0FQGPNZ1B?tag=hide0122-22",
     page: "product-apple-iphone17-silicone-case-magsafe-light-moss",
@@ -28293,7 +28293,7 @@ const RANKING_POOL = [
   },
   {
     name: "Apple MagSafe対応iPhone 18 Proシリコーンケース - ブラック",
-    excerpt: "Apple MagSafe対応 iPhone 18 Pro シリコーンケース（ブラック）。再生シリコーン45%、マイクロファイバー裏地、マグネット内蔵、Qi2 25W対応、カメラコントロール連係と記載。",
+    excerpt: "Apple MagSafe対応 iPhone 18 Pro シリコーンケース（ブラック）。素材はシリコーン、マイクロファイバー裏地、マグネット内蔵、Qi2 25W対応、カメラコントロール連係と記載。",
     img: "https://m.media-amazon.com/images/I/41I1taNUNqL._AC_SX300_.jpg",
     link: "https://www.amazon.co.jp/dp/B0HJBCJXCK?tag=hide0122-22",
     page: "product-apple-iphone18pro-silicone-case-magsafe-black",
