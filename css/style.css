@@ -1708,3 +1708,5 @@ th.dtt-desc::after { content: " ▼"; opacity: 1; }
 .footer-own-links .fol-link { display: inline-flex; align-items: center; justify-content: center; gap: 6px; box-sizing: border-box; height: 31px; min-width: 88px; padding: 0 12px; border: 1px solid var(--border); border-radius: 2px; color: var(--text); font-size: 0.85rem; text-decoration: none; }
 .footer-own-links .fol-link:hover { border-color: var(--text-muted); }
 .footer-own-links .fol-icon { flex: none; }
+.fol-store { margin-top: 6px; }
+.fol-store a { color: var(--text-muted); text-decoration: underline; }
