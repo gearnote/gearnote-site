@@ -23273,11 +23273,11 @@ const RANKING_POOL = [
     page: "product-apple-watch-sport-band-46mm-stone-gray-sm",
   },
   {
-    name: "Apple iPad(A16)用 Smart Folio ホワイト",
+    name: "Apple iPad(A16)用 Smart Folio ウォーターメロン",
     excerpt: "iPad(A16)の前面と背面を守るマグネット式のカバー。開閉でスリープと復帰が連動し、折りたたむとスタンドになる。",
-    img: "https://m.media-amazon.com/images/I/51Ddts12TVL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0DZ8F5FX7?tag=hide0122-22",
-    page: "product-apple-ipad-a16-smart-folio-white",
+    img: "https://m.media-amazon.com/images/I/51bYeShgZxL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0DZ7B24XR?tag=hide0122-22",
+    page: "product-apple-ipad-a16-smart-folio-watermelon",
   },
   {
     name: "Apple Watch磁気高速充電 USB-Cケーブル(1m)",
