@@ -28838,11 +28838,11 @@ const RANKING_POOL = [
     page: "product-dove-body-wash-refill-2-8kg-rice-ferment-osmanthus",
   },
   {
-    name: "Apple iPhone 18 Pro (256 GB) - シルバー",
-    excerpt: "Apple iPhone 18 Pro 256GB シルバー。6.3インチ（最大120HzのProMotion）、A20 Proチップ、48MP Fusionメインカメラ、8倍光学品質ズーム、Wi-Fi 7・5G・圏外通信機能と記載。",
-    img: "https://m.media-amazon.com/images/I/71E-J09sb6L._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0HJ9VQ6Q8?tag=hide0122-22",
-    page: "product-apple-iphone-18-pro-256gb-silver",
+    name: "Apple iPhone 18 Pro (256 GB) - ブラック",
+    excerpt: "Apple iPhone 18 Pro 256GB ブラック。6.3インチ（最大120HzのProMotion）、A20 Proチップ、48MP Fusionメインカメラ、8倍光学品質ズーム、Wi-Fi 7・5G・圏外通信機能と記載。",
+    img: "https://m.media-amazon.com/images/I/71znxpGpOjL._AC_SX300_.jpg",
+    link: "https://www.amazon.co.jp/dp/B0HJBCWLXC?tag=hide0122-22",
+    page: "product-apple-iphone-18-pro-256gb-black",
   },
   {
     name: "Apple MagSafe対応iPhone 18 Pro Maxクリアケース",
@@ -29125,11 +29125,11 @@ const RANKING_POOL = [
     page: "product-samsung-galaxy-z-fold8-512gb-graphite",
   },
   {
-    name: "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、128GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
-    excerpt: "Apple 13インチ iPad Air（M4）128GB スターライト。Apple M4、13インチLiquid Retina、12MPカメラ、Wi-Fi 7、Touch ID、Apple Pencil Pro対応と記載。",
+    name: "Apple 13インチiPad Air（M4）：Liquid Retinaディスプレイ、256GB、12MPフロント/バックカメラ、Apple N1によるWi-Fi 7、Touch ID、一日中使えるバッテリー — スターライト",
+    excerpt: "Apple 13インチ iPad Air（M4）256GB スターライト。Apple M4、13インチLiquid Retina、12MPカメラ、Wi-Fi 7、Touch ID、Apple Pencil Pro対応と記載。",
     img: "https://m.media-amazon.com/images/I/71ADNZs8JHL._AC_SX300_.jpg",
-    link: "https://www.amazon.co.jp/dp/B0GQWBTM4G?tag=hide0122-22",
-    page: "product-apple-ipad-air-13-m4-128gb-starlight",
+    link: "https://www.amazon.co.jp/dp/B0GQWBPTGB?tag=hide0122-22",
+    page: "product-apple-ipad-air-13-m4-256gb-starlight",
   },
   {
     name: "Google グーグル Pixel Watch 5(45 mm)Matte Black アルミケース/Obsidian アクティブ バンド(第 2 世代)Wi-Fi",

@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Nov 2026 12:08:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 15:49:40 +0000</lastBuildDate>
+  <item>
+    <title>Apple 13インチ iPad Air（M4）256GB スターライト</title>
+    <link>https://gearnote.net/product-apple-ipad-air-13-m4-256gb-starlight</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-air-13-m4-256gb-starlight</guid>
+    <description>Appleの13インチiPad Air（M4）、256GB・スターライトのモデルです。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple iPhone 18 Pro 256GB ブラック</title>
+    <link>https://gearnote.net/product-apple-iphone-18-pro-256gb-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-256gb-black</guid>
+    <description>Appleのスマートフォン「iPhone 18 Pro」の256GB・ブラックです。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>AGF ちょっと贅沢な珈琲店 レギュラーコーヒー ドリップパック アソート 40袋</title>
     <link>https://gearnote.net/product-agf-chotto-zeitaku-drip-pack-assort-40</link>
@@ -341,20 +355,6 @@
     <link>https://gearnote.net/product-dyson-r1-nurovi-dry-robot-vacuum-rb07-d-am</link>
     <guid isPermaLink="true">https://gearnote.net/product-dyson-r1-nurovi-dry-robot-vacuum-rb07-d-am</guid>
     <description>ダイソンのロボット掃除機「R1 Nurovi Dry」RB07 D AMです。</description>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI WATCH GT 7 Pro 46mm</title>
-    <link>https://gearnote.net/product-huawei-watch-gt-7-pro-46mm-black-tum-b49</link>
-    <guid isPermaLink="true">https://gearnote.net/product-huawei-watch-gt-7-pro-46mm-black-tum-b49</guid>
-    <description>HUAWEIのスマートウォッチ「WATCH GT 7 Pro 46mm」のブラックです。</description>
-    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コイズミ ホット＆クール 電気ファンヒーター</title>
-    <link>https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower</link>
-    <guid isPermaLink="true">https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower</guid>
-    <description>コイズミのタワー型ファンヒーター「KHF-12269/W」のホワイトです。</description>
     <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

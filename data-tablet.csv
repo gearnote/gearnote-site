@@ -1,7 +1,7 @@
 ﻿商品名,区分,商品ページ,画面サイズ（メーカーが示すインチ数）(インチ),メモリ容量(GB),ストレージ容量（掲載モデル）(GB),質量(g),バッテリー容量（標準値）(mAh)
 Apple iPad（A16）,iPad,https://gearnote.net/product-apple-ipad-a16,11,,128,477,
 Apple 11インチ iPad Air（M4）128GB スペースグレイ,iPad,https://gearnote.net/product-apple-ipad-air-11-m4-128gb-space-gray,11,12,128,464,
-Apple 13インチ iPad Air（M4）128GB スターライト,iPad,https://gearnote.net/product-apple-ipad-air-13-m4-128gb-starlight,13,12,128,616,
+Apple 13インチ iPad Air（M4）256GB スターライト,iPad,https://gearnote.net/product-apple-ipad-air-13-m4-256gb-starlight,13,12,256,616,
 Apple iPad mini（A17 Pro）8.3インチ 128GB,iPad,https://gearnote.net/product-apple-ipad-mini-a17-pro-128gb-space-gray,8.3,,128,293,
 Apple iPad mini（A20 Pro）8.5インチ 256GB Nano-textureガラス,iPad,https://gearnote.net/product-apple-ipad-mini-a20-pro-256gb-nano-texture-midnight,8.5,,256,255,
 Amazon Fire HD 10 タブレット,iPad以外のタブレット,https://gearnote.net/product-amazon-fire-hd-10,10.1,3,32,,
