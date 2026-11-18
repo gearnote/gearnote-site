@@ -6,13 +6,307 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Nov 2026 15:49:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 15:54:22 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
     <guid isPermaLink="true">https://gearnote.net/all-products</guid>
     <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Appleの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-apple</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
+    <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>おもちゃの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
+    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-sports</link>
+    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
+    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-car</link>
+    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
+    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-kitchen</link>
+    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
+    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートフォンの比較表（掲載15商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smartphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
+    <description>GEARNOTEに登録しているスマートフォンの15商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi Redmi Pad 2の仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-redmi-pad-2</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-pad-2</guid>
+    <description>シャオミ(Xiaomi) タブレット Redmi Pad 2 4GB+128GBの仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple iPad（A16）の仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-ipad-a16</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-a16</guid>
+    <description>Apple 11インチ iPad（A16）の仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazon Fire HD 10 タブレットの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amazon-fire-hd-10</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amazon-fire-hd-10</guid>
+    <description>Amazon Fire HD 10 インチ タブレット 32GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>PHILIPS T8015 11インチタブレットの特徴・デメリット｜選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-philips-t8015-tablet</link>
+    <guid isPermaLink="true">https://gearnote.net/product-philips-t8015-tablet</guid>
+    <description>PHILIPS T8015 11インチタブレット（国内正規品）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Samsung Galaxy Tab A11+ 128GB Wi-Fi グレーの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-samsung-galaxy-tab-a11-plus-128gb-wifi-gray</link>
+    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-tab-a11-plus-128gb-wifi-gray</guid>
+    <description>Samsung Galaxy Tab A11+ 128GB Wi-Fi グレーの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。Samsung Galaxy Tab A11+ 128GB Wi-Fi グレー（11インチ・128GB・最大2TB拡張・Android 16・4スピーカー）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Lenovo Idea Tab ZAFR0013JP タブレットの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-lenovo-idea-tab-zafr0013jp-11inch</link>
+    <guid isPermaLink="true">https://gearnote.net/product-lenovo-idea-tab-zafr0013jp-11inch</guid>
+    <description>Lenovo Idea Tab ZAFR0013JP タブレット 11インチ（Amazon.co.jp限定）の仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Lenovo Idea Tab Pro ZAE40096JP タブレット 12.7インチの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-lenovo-idea-tab-pro-zae40096jp-12-7inch</link>
+    <guid isPermaLink="true">https://gearnote.net/product-lenovo-idea-tab-pro-zae40096jp-12-7inch</guid>
+    <description>Lenovo Idea Tab Pro ZAE40096JP タブレット 12.7インチの仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi Pad 7 8GB+128GB グレーの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-pad-7-8gb-128gb-gray-vhu5505jp</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-pad-7-8gb-128gb-gray-vhu5505jp</guid>
+    <description>Xiaomi Pad 7 8GB+128GB グレー VHU5505JP（11.2インチ 3.2K・144Hz）の仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple 11インチ iPad Air（M4）128GB スペースグレイの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-ipad-air-11-m4-128gb-space-gray</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-air-11-m4-128gb-space-gray</guid>
+    <description>Apple 11インチ iPad Air（M4）128GB スペースグレイの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple iPad mini（A17 Pro）8.3インチ 128GBの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-ipad-mini-a17-pro-128gb-space-gray</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-mini-a17-pro-128gb-space-gray</guid>
+    <description>Apple iPad mini（A17 Pro）8.3インチ 128GB Wi-Fi 6E スペースグレイの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple iPad mini（A20 Pro）8.5インチ 256GB Nano-textureガラスの仕様｜サイズ・重量｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-ipad-mini-a20-pro-256gb-nano-texture-midnight</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-mini-a20-pro-256gb-nano-texture-midnight</guid>
+    <description>Apple iPad mini（A20 Pro）8.5インチ 256GB Nano-textureガラスの仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-11）。Apple iPad mini（A20 Pro）8.5インチOLED・256GB・Nano-textureガラス・Wi-Fi・ミッドナイトの特徴を整理。メーカー公開仕様、メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タブレットの選び方ガイド｜画面サイズ・OS・ストレージ・接続方式の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-tablet</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-tablet</guid>
+    <description>タブレットの画面サイズと解像度、OS（iPadOS・Android・Fire OS）の違い、ストレージとメモリ、Wi-Fiモデルとセルラーモデル、バッテリー表記といった仕様表の見方を、当サイト掲載のiPad・Galaxy・Lenovo・Xiaomi・Fireの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple iPhone 18 Pro 256GB ブラックの仕様｜サイズ・重量・容量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-iphone-18-pro-256gb-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-256gb-black</guid>
+    <description>Apple iPhone 18 Pro 256GB ブラックの仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Samsung Galaxy Tab S12+ 256GB Wi-Fi グレーの仕様｜サイズ・質量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</link>
+    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</guid>
+    <description>Samsung Galaxy Tab S12+ 256GB Wi-Fi グレーの仕様。サイズ・質量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-15）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple iPhone 18 Pro Max 2TB シルバーの仕様｜サイズ・重量・容量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-iphone-18-pro-max-2tb-silver</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-max-2tb-silver</guid>
+    <description>Apple iPhone 18 Pro Max 2TB シルバーの仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-18）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Samsung Galaxy Z Fold8 512GB グラファイトの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-samsung-galaxy-z-fold8-512gb-graphite</link>
+    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-z-fold8-512gb-graphite</guid>
+    <description>Samsung Galaxy Z Fold8 512GB グラファイトの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-20）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple 13インチ iPad Air（M4）256GB スターライトの仕様｜サイズ・重量・容量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-ipad-air-13-m4-256gb-starlight</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-air-13-m4-256gb-starlight</guid>
+    <description>Apple 13インチ iPad Air（M4）256GB スターライトの仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-20）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPad（A16）とiPad Air 11インチ（M4）の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-ipad-a16-vs-ipad-air-11-m4</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-ipad-a16-vs-ipad-air-11-m4</guid>
+    <description>iPad（A16）とiPad Air 11インチ（M4）の違いを、チップ・Wi-Fi規格・対応Apple Pencil・サイズと重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPad Air 11インチ（M4）と13インチ（M4）の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-ipad-air-11-m4-vs-ipad-air-13-m4</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-ipad-air-11-m4-vs-ipad-air-13-m4</guid>
+    <description>iPad Air 11インチ（M4）と13インチ（M4）の違いを、画面サイズ・解像度・輝度・サイズと重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPhone 18 ProとiPhone 18 Pro Maxの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-iphone-18-pro-vs-iphone-18-pro-max</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-iphone-18-pro-vs-iphone-18-pro-max</guid>
+    <description>iPhone 18 ProとiPhone 18 Pro Maxの違いを、画面サイズ・本体サイズと重量・バッテリー表記の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>停電時にスマホを充電するには？備えの考え方｜モバイルバッテリー・ポータブル電源・乾電池式・手回しの仕様の読み方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-c-blackout-phone</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-c-blackout-phone</guid>
+    <description>停電のとき、スマホは何回充電できる？ 停電前に確認したい容量（mAh・Wh）の換算、乾電池式・手回し・ポータブル電源の違い、メーカー表記の読み違いを、GEARNOTE掲載商品の仕様表の集計と筆者の計算で整理します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-c-slow-charging</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-c-slow-charging</guid>
+    <description>スマホの充電が遅い・急に遅くなったときの原因を、充電器の出力W・PD/PPS、複数ポートの分配、ケーブルの対応W数、端末側の上限、ワイヤレス充電の条件に分けて整理。当サイト掲載商品の仕様集計と、上限の目安を出す計算例つき。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Lenovo Yoga Tab Gen 2 ZAJ00142JP（11.1インチ・8GB／256GB・シーシェル）の仕様｜寸法・質量｜GEARNOTE</title>
+    <link>https://gearnote.net/product-lenovo-yoga-tab-gen-2-zaj00142jp-11-1-inch-sea-shell</link>
+    <guid isPermaLink="true">https://gearnote.net/product-lenovo-yoga-tab-gen-2-zaj00142jp-11-1-inch-sea-shell</guid>
+    <description>Lenovo Yoga Tab Gen 2 ZAJ00142JP（11.1インチ・8GB／256GB・シーシェル）の仕様。寸法・質量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-01）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タブレットの仕様一覧｜画面サイズ・メモリ・ストレージ・質量・バッテリー容量（掲載16台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-tablet</link>
+    <guid isPermaLink="true">https://gearnote.net/data-tablet</guid>
+    <description>GEARNOTEに掲載しているタブレット16台の、画面サイズ（インチ）、メモリ容量（GB）、ストレージ容量（GB）、質量（g）、バッテリー容量（mAh）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi Pad 8 Pro（11.2インチ・8GB／128GB・グレー）の仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-pad-8-pro-8gb-128gb-gray-japanese-version</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-pad-8-pro-8gb-128gb-gray-japanese-version</guid>
+    <description>Xiaomi Pad 8 Pro（11.2インチ・8GB／128GB・グレー）の仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-01）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple製品の充電の数字｜iPhone・iPad・Apple Watch・AirPods・充電器の、Appleが書いている充電条件｜GEARNOTE</title>
+    <link>https://gearnote.net/spec-apple-charging</link>
+    <guid isPermaLink="true">https://gearnote.net/spec-apple-charging</guid>
+    <description>iPhone・iPad・Mac・Apple Watch・AirPods・Appleの充電器とケーブルについて、Appleの公式ページに書かれた充電の数字と条件（同梱品・高速充電・ワイヤレス充電・バッテリー）を1枚の表にまとめました。CSVつき。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タブレットの重さ（質量）の読み方｜Wi-FiとCellularの差・ペン付属・「±10g」を掲載12台で確認｜GEARNOTE</title>
+    <link>https://gearnote.net/weight-tablet</link>
+    <guid isPermaLink="true">https://gearnote.net/weight-tablet</guid>
+    <description>タブレットの「重量 477g」は、どのモデルの数字か。iPadのWi-FiとCellularモデルの重さの差、ペン付属モデル、「480g ± 10g」「標準バージョン」の書き方を、掲載16台のメーカー公開仕様で確かめ、画面サイズ帯ごとの重さを数えました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPadとAndroidタブレットの違い｜OS・WhとmAh・microSD・画面サイズの書き方（掲載16台）｜GEARNOTE</title>
+    <link>https://gearnote.net/diff-ipad-vs-android-tablet</link>
+    <guid isPermaLink="true">https://gearnote.net/diff-ipad-vs-android-tablet</guid>
+    <description>iPadとAndroidタブレットの違いを、AppleとXiaomiの公式仕様で確かめて整理しました。OS、バッテリーのWhとmAh、microSDカード、画面サイズの測り方、ストレージの書き方の違いを、掲載16台の集計つきでまとめています。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
@@ -29,20 +323,6 @@
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-audio</link>
-    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
-    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>美容・健康の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-beauty</link>
-    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
-    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-daily</link>
     <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
@@ -50,45 +330,10 @@
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-baby</link>
-    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
-    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>介護用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-care</link>
-    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
-    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>飲料の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-drinks</link>
     <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
     <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活家電の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-home</link>
-    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
-    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
-    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>おもちゃの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-toys</link>
-    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
-    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -106,255 +351,10 @@
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-car</link>
-    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
-    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キッチン用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-kitchen</link>
-    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
-    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>メンズシェーバーの比較表（掲載24商品）｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-mens-shavers</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
     <description>GEARNOTEに登録しているメンズシェーバーの24商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートホームデバイスの比較表（掲載54商品）｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-smart-home-devices</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-smart-home-devices</guid>
-    <description>GEARNOTEに登録しているスマートホームデバイスの54商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Fitbit Charge 6の仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-google-fitbit-charge6</link>
-    <guid isPermaLink="true">https://gearnote.net/product-google-fitbit-charge6</guid>
-    <description>Google Fitbit Charge 6（日本正規品）の仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゼンハイザー MOMENTUM True Wireless 3 ワイヤレスイヤホンの仕様｜重量・Bluetooth｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sennheiser-momentum-true-wireless-3</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sennheiser-momentum-true-wireless-3</guid>
-    <description>ゼンハイザー MOMENTUM True Wireless 3の仕様。重量・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Manfrotto Elementトラベル三脚 スモールの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-manfrotto-element-travel-tripod</link>
-    <guid isPermaLink="true">https://gearnote.net/product-manfrotto-element-travel-tripod</guid>
-    <description>マンフロット Elementトラベル三脚 スモール（耐荷重6kg・全伸高143cm）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lowepro フリップサイド 300 AW IIIの仕様｜重量・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lowepro-flipside-300awiii</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lowepro-flipside-300awiii</guid>
-    <description>Lowepro フリップサイド 300 AW IIIの仕様。重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。Lowepro フリップサイド 300 AW IIIの特徴を整理。背面アクセス設計やオールウェザーカバーの活用法、メリット・デメリットをまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon eero Pro 7の仕様｜サイズ・保証・接続（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-eero-pro-7</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-eero-pro-7</guid>
-    <description>Amazon eero Pro 7の仕様。サイズ・保証・接続はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。Amazon eero Pro 7（Wi-Fi 7対応メッシュルーター）の特徴を整理。BE10800・5Gbpsイーサネット×2など、メリット・デメリット、向いている人をまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JBL PartyBox 310の仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jbl-partybox-310</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jbl-partybox-310</guid>
-    <description>JBL PartyBox 310の仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー SRS-XP500の仕様｜寸法・質量・電池（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-srs-xp500</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-srs-xp500</guid>
-    <description>ソニー 重低音スピーカー SRS-XP500の仕様。寸法・質量・電池はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>JYX ワイヤレスマイク&amp;スピーカーセットの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-jyx-wireless-mic-speaker-set</link>
-    <guid isPermaLink="true">https://gearnote.net/product-jyx-wireless-mic-speaker-set</guid>
-    <description>JYX ワイヤレスマイク&amp;スピーカーセット(カラオケ・アナウンス用スピーカー)の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Pioneer DJ HDJ-CUE1の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-pioneer-dj-hdj-cue1</link>
-    <guid isPermaLink="true">https://gearnote.net/product-pioneer-dj-hdj-cue1</guid>
-    <description>パイオニア(Pioneer DJ) HDJ-CUE1 オンイヤー有線DJヘッドホンの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SONY MDR-7506の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sony-mdr-7506</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-mdr-7506</guid>
-    <description>SONY ステレオヘッドホン MDR-7506の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バッファロー 外付けHDD 2TB テレビ録画用（HD-AD2U3）の仕様｜寸法・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-buffalo-hdd-2tb-tv-recording</link>
-    <guid isPermaLink="true">https://gearnote.net/product-buffalo-hdd-2tb-tv-recording</guid>
-    <description>バッファロー 外付けHDD 2TB テレビ録画用（HD-AD2U3）の仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>GARMIN vívosmart 5 バンド型スマートウォッチの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-garmin-vivosmart5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-garmin-vivosmart5</guid>
-    <description>GARMIN vívosmart 5 バンド型スマートウォッチの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Watch S4 41mm スマートウォッチの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-watch-s4-41mm</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-watch-s4-41mm</guid>
-    <description>Xiaomi Watch S4 41mm スマートウォッチの仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>POLAR Vantage M3 マルチスポーツウォッチ（日本正規品）の仕様｜バッテリー・防水（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-polar-vantage-m3</link>
-    <guid isPermaLink="true">https://gearnote.net/product-polar-vantage-m3</guid>
-    <description>POLAR Vantage M3 マルチスポーツウォッチ（日本正規品）の仕様。バッテリー・防水はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-tiger</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
-    <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI FreeBuds SE 2の仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-huawei-freebuds-se-2</link>
-    <guid isPermaLink="true">https://gearnote.net/product-huawei-freebuds-se-2</guid>
-    <description>HUAWEI FreeBuds SE 2の仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。HUAWEI FreeBuds SE 2（カナル型ワイヤレスイヤホン）の特徴を整理。軽量約3.8g、40時間ロングバッテリー、Bluetooth 5.3、IP54防塵防水など仕様と注意点をまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI FreeBuds 5iの仕様｜サイズ・重さ・電池（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-huawei-freebuds-5i</link>
-    <guid isPermaLink="true">https://gearnote.net/product-huawei-freebuds-5i</guid>
-    <description>HUAWEI FreeBuds 5iの仕様。サイズ・重さ・電池はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。HUAWEI FreeBuds 5i（カナル型ワイヤレスイヤホン）の特徴を整理。最大42dBのアクティブノイズキャンセリング、ハイレゾ対応、28時間再生、紛失サポートなど仕様と注意点をまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>HUAWEI FreeArcの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-huawei-freearc</link>
-    <guid isPermaLink="true">https://gearnote.net/product-huawei-freearc</guid>
-    <description>HUAWEI FreeArcの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。HUAWEI FreeArc（耳掛け式オープンイヤーワイヤレスイヤホン）の特徴を整理。形状記憶合金フレーム、IP57防水、ケース併用約36時間再生など仕様と注意点をまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>AGFの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-agf</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-agf</guid>
-    <description>AGFのインスタントコーヒー・スティックコーヒーの特徴、選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Pad 7 8GB+128GB グレーの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-pad-7-8gb-128gb-gray-vhu5505jp</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-pad-7-8gb-128gb-gray-vhu5505jp</guid>
-    <description>Xiaomi Pad 7 8GB+128GB グレー VHU5505JP（11.2インチ 3.2K・144Hz）の仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バッファロー 東芝 外付けHDD Canvio Desktop 4TBの仕様｜寸法・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-buffalo-toshiba-canvio-desktop-4tb-hd-tda4u3-b-na</link>
-    <guid isPermaLink="true">https://gearnote.net/product-buffalo-toshiba-canvio-desktop-4tb-hd-tda4u3-b-na</guid>
-    <description>バッファロー 東芝 外付けHDD Canvio Desktop 4TB テレビ録画対応 HD-TDA4U3-B/NA（Amazon限定）の仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-16）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エレコム モニターアーム シングルアーム DPA-SS02BK 17〜32インチの仕様｜サイズ・質量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-elecom-monitor-arm-single-dpa-ss02bk</link>
-    <guid isPermaLink="true">https://gearnote.net/product-elecom-monitor-arm-single-dpa-ss02bk</guid>
-    <description>エレコム モニターアーム シングルアーム DPA-SS02BK 17〜32インチ 耐荷重9kg ガス式の仕様。サイズ・質量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Bose Ultra Open Earbuds（第2世代）ホワイトスモークの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bose-ultra-open-earbuds-2nd-gen-white-smoke</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bose-ultra-open-earbuds-2nd-gen-white-smoke</guid>
-    <description>Bose Ultra Open Earbuds（第2世代）ホワイトスモークの仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック RB-C10-K ブラック オープンイヤー イヤーカフ ワイヤレスイヤホンの仕様｜寸法・質量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-rb-c10-k-ear-cuff-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-rb-c10-k-ear-cuff-earbuds</guid>
-    <description>パナソニック RB-C10-K ブラック オープンイヤー イヤーカフ ワイヤレスイヤホンの仕様。寸法・質量・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>新着商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/new-arrivals</link>
-    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
-    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズシェーバーの診断クイズ｜あなたの肌と手入れに合うタイプは？｜GEARNOTE</title>
-    <link>https://gearnote.net/quiz-mens-shaver</link>
-    <guid isPermaLink="true">https://gearnote.net/quiz-mens-shaver</guid>
-    <description>ヒゲの濃さ・肌の感じ方・お手入れの手間を選ぶだけで、向いているシェーバーのタイプ（往復式／回転式／洗浄機つき／携帯用）の目安がわかります。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shokz OpenRun Air 2 Mini 骨伝導イヤホン（ブラック）の仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shokz-openrun-air-2-mini-bone-conduction-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shokz-openrun-air-2-mini-bone-conduction-black</guid>
-    <description>Shokz OpenRun Air 2 Mini 骨伝導イヤホン（ブラック）の仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shokz OpenFit Pro 耳掛け型オープンイヤーイヤホン（ブラック）の仕様｜重量・充電時間（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shokz-openfit-pro-open-ear-earbuds-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shokz-openfit-pro-open-ear-earbuds-black</guid>
-    <description>Shokz OpenFit Pro 耳掛け型オープンイヤーイヤホン（ブラック）の仕様。重量・充電時間・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ADAM elements AVISTAR C02 カード型スマートタグ（ラグジュアリー）の仕様｜寸法・重量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-adam-elements-avistar-c02-card-tag-luxury</link>
-    <guid isPermaLink="true">https://gearnote.net/product-adam-elements-avistar-c02-card-tag-luxury</guid>
-    <description>ADAM elements AVISTAR C02 カード型スマートタグ（ラグジュアリー）の仕様。寸法・重量・定格エネルギーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-16）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー 電気圧力鍋 COK-B400WMの仕様｜サイズ・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</guid>
-    <description>タイガー魔法瓶 電気圧力鍋 TIGER COOKPOT COK-B400WMの仕様。容量・サイズ・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-18）。特徴とこんな人に向くかをまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>エプソン ドキュメントスキャナー DS-C420Wの仕様｜質量・読取速度（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-epson-ds-c420w-document-scanner</link>
-    <guid isPermaLink="true">https://gearnote.net/product-epson-ds-c420w-document-scanner</guid>
-    <description>エプソン A4ドキュメントスキャナー DS-C420Wの仕様。質量は約1.8kg、読み取り速度は200dpiでカラー片面30枚/分・両面60面/分とメーカー公開情報に記載があります（確認日 2026-11-18）。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>AGF ちょっと贅沢な珈琲店 ドリップパック アソート40袋の仕様｜1袋の粉量・袋数（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-agf-chotto-zeitaku-drip-pack-assort-40</link>
-    <guid isPermaLink="true">https://gearnote.net/product-agf-chotto-zeitaku-drip-pack-assort-40</guid>
-    <description>AGF ちょっと贅沢な珈琲店 レギュラーコーヒー ドリップパック アソート40袋の仕様。内容量は7g×40袋、3種類のブレンドが入るとメーカー公開情報に記載があります（確認日 2026-11-18）。</description>
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
