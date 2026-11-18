@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Nov 2026 09:05:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 11:32:07 +0000</lastBuildDate>
+  <item>
+    <title>タイガー魔法瓶 電気圧力鍋 TIGER COOKPOT COK-B400WM マットホワイト</title>
+    <link>https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</guid>
+    <description>タイガー魔法瓶の電気圧力鍋「TIGER COOKPOT」の大容量サイズ（4.0Lクラス）。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>東芝 冷蔵庫 601L</title>
     <link>https://gearnote.net/product-toshiba-fridge-601l-gr-y600fk-6door-french</link>
@@ -348,13 +355,6 @@
     <link>https://gearnote.net/product-three-up-ceramic-heater-ch-az0892gy-louverless-oscillating</link>
     <guid isPermaLink="true">https://gearnote.net/product-three-up-ceramic-heater-ch-az0892gy-louverless-oscillating</guid>
     <description>スリーアップのパネル型セラミックヒーター「CH-AZ0892GY」のグレーです。</description>
-    <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>山善 壁掛タイプ セラミックヒーター DFX-RK122(W)（温度センサー・リモコン付き）</title>
-    <link>https://gearnote.net/product-yamazen-wall-mount-ceramic-heater-dfx-rk122-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yamazen-wall-mount-ceramic-heater-dfx-rk122-w</guid>
-    <description>山善の壁掛タイプのセラミックファンヒーター「DFX-RK122(W)」のホワイトです。</description>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

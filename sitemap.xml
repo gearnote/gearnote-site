@@ -15927,7 +15927,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-tiger</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -26384,6 +26384,11 @@
   <url>
     <loc>https://gearnote.net/product-panasonic-hairclipper-entry-ergc1a-k</loc>
     <lastmod>2026-11-17</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</loc>
+    <lastmod>2026-11-18</lastmod>
     <priority>0.6</priority>
   </url>
 </urlset>
