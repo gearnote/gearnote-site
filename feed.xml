@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Nov 2026 11:31:38 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 12:08:06 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -190,6 +190,13 @@
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tiger</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
+    <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>HUAWEI FreeBuds SE 2の仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-huawei-freebuds-se-2</link>
     <guid isPermaLink="true">https://gearnote.net/product-huawei-freebuds-se-2</guid>
@@ -274,6 +281,41 @@
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>タイガー 電気圧力鍋 COK-B400WMの仕様｜サイズ・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</guid>
+    <description>タイガー魔法瓶 電気圧力鍋 TIGER COOKPOT COK-B400WMの仕様。容量・サイズ・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-18）。特徴とこんな人に向くかをまとめました。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>エプソン ドキュメントスキャナー DS-C420Wの仕様｜質量・読取速度（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-epson-ds-c420w-document-scanner</link>
+    <guid isPermaLink="true">https://gearnote.net/product-epson-ds-c420w-document-scanner</guid>
+    <description>エプソン A4ドキュメントスキャナー DS-C420Wの仕様。質量は約1.8kg、読み取り速度は200dpiでカラー片面30枚/分・両面60面/分とメーカー公開情報に記載があります（確認日 2026-11-18）。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>AGF ちょっと贅沢な珈琲店 ドリップパック アソート40袋の仕様｜1袋の粉量・袋数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-agf-chotto-zeitaku-drip-pack-assort-40</link>
+    <guid isPermaLink="true">https://gearnote.net/product-agf-chotto-zeitaku-drip-pack-assort-40</guid>
+    <description>AGF ちょっと贅沢な珈琲店 レギュラーコーヒー ドリップパック アソート40袋の仕様。内容量は7g×40袋、3種類のブレンドが入るとメーカー公開情報に記載があります（確認日 2026-11-18）。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ラムダッシュ 3枚刃 ES-L381Wの仕様｜質量・刃の枚数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-lamdash-3blade-es-l381w-n</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-lamdash-3blade-es-l381w-n</guid>
+    <description>パナソニック ラムダッシュ 3枚刃 ES-L381Wの仕様。3枚刃、質量は約185g（キャップ除く）、全自動洗浄充電器付きとメーカー公開情報に記載があります（確認日 2026-11-18）。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazon Echo Dot 第6世代の仕様｜質量・サイズ（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-amazon-echo-dot-6-agave-green</link>
+    <guid isPermaLink="true">https://gearnote.net/product-amazon-echo-dot-6-agave-green</guid>
+    <description>Amazon Echo Dot（エコードット）第6世代の仕様。サイズは幅99×奥行99×高さ92mm、重量は260gとメーカー（Amazon）の商品仕様に記載があります（確認日 2026-11-18）。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>このサイトについて｜GEARNOTE</title>
     <link>https://gearnote.net/about</link>
     <guid isPermaLink="true">https://gearnote.net/about</guid>
@@ -313,48 +355,6 @@
     <link>https://gearnote.net/brand-braun</link>
     <guid isPermaLink="true">https://gearnote.net/brand-braun</guid>
     <description>Braun製品の特徴、シェーバー・電動歯ブラシ・脱毛器の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-delonghi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-delonghi</guid>
-    <description>デロンギ製品の特徴、コーヒーマシン・グラインダーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DHCの商品一覧｜ブランド特集｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dhc</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dhc</guid>
-    <description>DHCの特徴、クレンジングオイルやサプリメントの魅力、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Dysonの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-dyson</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-dyson</guid>
-    <description>Dyson製品の特徴、掃除機・ヘアケア・空気清浄機の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Eufyの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-eufy</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-eufy</guid>
-    <description>Eufy製品の特徴、ロボット掃除機・防犯カメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Googleの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-google</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-google</guid>
-    <description>Google Pixel・Nest・Chromecast・Pixel Buds・充電器など、Googleブランドのおすすめガジェットをまとめて掲載。仕様と選び方の参考に。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-iris-ohyama</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
-    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
