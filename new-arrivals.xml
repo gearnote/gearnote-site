@@ -6,7 +6,14 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Nov 2026 00:07:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 09:05:26 +0000</lastBuildDate>
+  <item>
+    <title>東芝 冷蔵庫 601L</title>
+    <link>https://gearnote.net/product-toshiba-fridge-601l-gr-y600fk-6door-french</link>
+    <guid isPermaLink="true">https://gearnote.net/product-toshiba-fridge-601l-gr-y600fk-6door-french</guid>
+    <description>東芝の6ドア冷凍冷蔵庫、型番GR-Y600FK（グランホワイト）です。</description>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>無印良品 レンジで焼き料理 グリルプレート グレージュ／内蓋付き 1－2人用</title>
     <link>https://gearnote.net/product-muji-microwave-grill-plate-23274517</link>
@@ -349,13 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-yamazen-wall-mount-ceramic-heater-dfx-rk122-w</guid>
     <description>山善の壁掛タイプのセラミックファンヒーター「DFX-RK122(W)」のホワイトです。</description>
     <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>CMF by Nothing Clip</title>
-    <link>https://gearnote.net/product-cmf-by-nothing-clip-pro-dark-gray-open-ear-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-cmf-by-nothing-clip-pro-dark-gray-open-ear-earbuds</guid>
-    <description>Nothingのサブブランド「CMF by Nothing」のクリップ型オープンイヤーイヤホン「Clip Pro」のダークグレーです。</description>
-    <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
