@@ -6,14 +6,7 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Nov 2026 16:02:13 +0000</lastBuildDate>
-  <item>
-    <title>Apple iPad(A16)用Smart Folio - ウォーターメロン</title>
-    <link>https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</guid>
-    <description>iPad(A16)の前面と背面を守る、マグネット式のカバー。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
+  <lastBuildDate>Thu, 19 Nov 2026 03:56:37 +0000</lastBuildDate>
   <item>
     <title>AGF ちょっと贅沢な珈琲店 レギュラーコーヒー ドリップパック アソート 40袋</title>
     <link>https://gearnote.net/product-agf-chotto-zeitaku-drip-pack-assort-40</link>
@@ -355,6 +348,13 @@
     <link>https://gearnote.net/product-huawei-watch-gt-7-pro-46mm-black-tum-b49</link>
     <guid isPermaLink="true">https://gearnote.net/product-huawei-watch-gt-7-pro-46mm-black-tum-b49</guid>
     <description>HUAWEIのスマートウォッチ「WATCH GT 7 Pro 46mm」のブラックです。</description>
+    <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コイズミ ホット＆クール 電気ファンヒーター</title>
+    <link>https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower</link>
+    <guid isPermaLink="true">https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower</guid>
+    <description>コイズミのタワー型ファンヒーター「KHF-12269/W」のホワイトです。</description>
     <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

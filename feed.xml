@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 18 Nov 2026 16:01:43 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 03:56:08 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -141,10 +141,31 @@
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Amazonブラックフライデー特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-black-friday-202611</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-black-friday-202611</guid>
+    <description>Amazon「ブラックフライデー」2026のお買い物対象期間は、2026年11月27日(金)0:00〜12月7日(月)23:59（Amazonのキャンペーンページの案内）。過去の開催日、セール前にやっておく準備、ジャンル別のチェックスペックと、GEARNOTEが仕様でピックアップした家電・ガジェット・美容・日用品を紹介します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple iPad(A16)用 Smart Folio ウォーターメロンの特徴・選び方｜GEARNOTE</title>
+    <link>https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</link>
+    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</guid>
+    <description>Apple iPad(A16)用Smart Folio ウォーターメロン（マグネット取り付け・スリープ連動・スタンド対応）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Samsung Galaxy Tab A11+ 128GB Wi-Fi グレーの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-samsung-galaxy-tab-a11-plus-128gb-wifi-gray</link>
     <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-tab-a11-plus-128gb-wifi-gray</guid>
     <description>Samsung Galaxy Tab A11+ 128GB Wi-Fi グレーの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。Samsung Galaxy Tab A11+ 128GB Wi-Fi グレー（11インチ・128GB・最大2TB拡張・Android 16・4スピーカー）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Spigen iPad 第11/10世代 ケース ラギッド・アーマー・プロの仕様｜寸法・重量・対応機種（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-spigen-ipad-a16-case-rugged-armor-pro-acs05417</link>
+    <guid isPermaLink="true">https://gearnote.net/product-spigen-ipad-a16-case-rugged-armor-pro-acs05417</guid>
+    <description>Spigen iPad 第11/10世代 ケース ラギッド・アーマー・プロ ACS05417 ブラックの仕様。寸法・重量・対応機種はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-14）。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -334,27 +355,6 @@
     <link>https://gearnote.net/category-drinks</link>
     <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
     <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple AirPods 5（アクティブノイズキャンセリング搭載）の仕様｜サイズ・重量・防塵（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-airpods-5</link>
-    <guid isPermaLink="true">https://gearnote.net/product-airpods-5</guid>
-    <description>Apple AirPods 5（アクティブノイズキャンセリング搭載）の仕様。サイズ・重量・防塵はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。Apple AirPods 5の特徴を整理。進化したアクティブノイズキャンセリング、ライブ翻訳、H2チップ、IP57防塵防水など、メリット・デメリットをまとめました。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>本・文房具の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-books</link>
-    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
-    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>メンズシェーバーの比較表（掲載24商品）｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-mens-shavers</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
-    <description>GEARNOTEに登録しているメンズシェーバーの24商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
