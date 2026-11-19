@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 19 Nov 2026 03:56:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 04:09:43 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -106,6 +106,13 @@
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>SwitchBot ロボット掃除機 S20の仕様｜サイズ・重量・保証（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-switchbot-robot-vacuum-s20</link>
+    <guid isPermaLink="true">https://gearnote.net/product-switchbot-robot-vacuum-s20</guid>
+    <description>SwitchBot ロボット掃除機 S20 走行中のモップ洗浄の仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>スマートフォンの比較表（掲載15商品）｜GEARNOTE</title>
     <link>https://gearnote.net/ranking-smartphones</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
@@ -145,6 +152,83 @@
     <link>https://gearnote.net/feature-black-friday-202611</link>
     <guid isPermaLink="true">https://gearnote.net/feature-black-friday-202611</guid>
     <description>Amazon「ブラックフライデー」2026のお買い物対象期間は、2026年11月27日(金)0:00〜12月7日(月)23:59（Amazonのキャンペーンページの案内）。過去の開催日、セール前にやっておく準備、ジャンル別のチェックスペックと、GEARNOTEが仕様でピックアップした家電・ガジェット・美容・日用品を紹介します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
+    <description>2026年のAmazonプライム感謝祭は終了しました。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品の仕様紹介は、引き続きご覧いただけます。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazon スマイルSale特集（11/4〜11/12）｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-smile-sale-202611</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-smile-sale-202611</guid>
+    <description>2026年11月のAmazonスマイルSaleは終了しました。冬支度の家電・ガジェット・日用品・食品の仕様紹介は、引き続きご覧いただけます。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>冬支度特集｜暖房・加湿・寝具・ぽかぽか小物まとめ｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-winter-prep-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-winter-prep-2026</guid>
+    <description>冬支度に役立つ商品を用途別にまとめた特集。暖房・加湿と結露対策・部屋干し・寝具・小物・温かい飲み物・乾燥ケア・電気まわり・車の準備まで、選び方のポイントと安全上の注意つきで紹介します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>防災グッズ特集｜水・食料・トイレ・明かり・電源・家族別の備えを整理｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-bosai-goods-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-bosai-goods-2026</guid>
+    <description>防災の備えを用途別にまとめた特集。水・食料の備蓄、トイレ・衛生、明かり、乾電池・モバイルバッテリー・ポータブル電源、持ち出し品、乳幼児・介護・ペットの備え、車まわりの備えまで、選び方の考え方と安全上の注意つきで紹介します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>特集一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/features</link>
+    <guid isPermaLink="true">https://gearnote.net/features</guid>
+    <description>GEARNOTEの特集ページ一覧。季節や用途ごとに、掲載商品を選び方のポイントと注意点つきでまとめたページを掲載しています。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>年末大掃除特集｜キッチン・水まわり・窓・掃除機・洗濯・収納を場所別に整理｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-year-end-cleaning-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-year-end-cleaning-2026</guid>
+    <description>年末の大掃除に使う掃除用品・掃除家電を、キッチン・トイレとお風呂・窓と床・掃除機・洗濯まわり・道具・ニオイ対策・収納の場所別にまとめた特集。洗剤の液性の考え方や、混ぜるな危険などの安全上の注意つきで紹介します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonふるさと納税特集｜しくみ・手続きの流れ・返礼品カテゴリーの探し方｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-furusato-nozei-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-furusato-nozei-2026</guid>
+    <description>Amazonふるさと納税を使う前に知っておきたい、制度のしくみ、年内の寄附と手続きの目安、控除上限額の確認、選び方と注意点をまとめた特集。返礼品カテゴリーへの入口も掲載しています。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>年末年始ギフト特集｜家族・友人・自分へ、贈る相手別に選ぶ｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-year-end-gift-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-year-end-gift-2026</guid>
+    <description>年末年始の贈り物を、贈る相手・場面別にまとめた特集。家族への実用品、食べ物・飲み物、リラックス用品、お子さま・ベビー向け、ペット、ガジェット、文房具・手帳、ゲームまで、選び方の考え方と贈るときの注意つきで紹介します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>在宅ワーク・デスク環境特集｜入力機器・画面・音・照明・電源まわりを用途別に整理｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-work-from-home-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-work-from-home-2026</guid>
+    <description>在宅ワークの机まわりに関わる商品を用途別にまとめた特集。キーボード・マウス、画面まわり、ヘッドホンとマイク、デスクの明かり、電源・配線、文房具、飲み物、室内環境、ネットワークまで、選び方のポイントと使うときの注意つきで紹介します。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新生活・一人暮らしスタート特集｜そろえるものを用途別に整理｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-new-life-2026</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-new-life-2026</guid>
+    <description>新生活・一人暮らしの準備を、キッチン・洗濯と掃除・寝具と収納・照明と電源・日用品・季節家電・ガジェット・引っ越し用品・まとめ買い向けの飲料と食品に分けて整理。何からそろえるかの考え方と、選ぶときの確認点・使うときの注意つき。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ゼンハイザー MOMENTUM True Wireless 3と5の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-sennheiser-momentum-tw3-vs-tw5</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-sennheiser-momentum-tw3-vs-tw5</guid>
+    <description>ゼンハイザー MOMENTUM True Wireless 3と5の違いを、バッテリー・空間オーディオ・通話機能の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -218,6 +302,13 @@
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>Xiaomi ロボット掃除機 6 ローラーモップ ホワイト 30,000Paの仕様｜寸法・重量・定格電力・電圧（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-xiaomi-robot-vacuum-6-roller-mop-white</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-robot-vacuum-6-roller-mop-white</guid>
+    <description>Xiaomi ロボット掃除機 6 ローラーモップ ホワイト 30,000Paの仕様。寸法・重量・定格電力・電圧はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>新着商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/new-arrivals</link>
     <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
@@ -265,97 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/compare-ipad-a16-vs-ipad-air-11-m4</guid>
     <description>iPad（A16）とiPad Air 11インチ（M4）の違いを、チップ・Wi-Fi規格・対応Apple Pencil・サイズと重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>iPad Air 11インチ（M4）と13インチ（M4）の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-ipad-air-11-m4-vs-ipad-air-13-m4</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-ipad-air-11-m4-vs-ipad-air-13-m4</guid>
-    <description>iPad Air 11インチ（M4）と13インチ（M4）の違いを、画面サイズ・解像度・輝度・サイズと重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>iPhone 18 ProとiPhone 18 Pro Maxの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-iphone-18-pro-vs-iphone-18-pro-max</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-iphone-18-pro-vs-iphone-18-pro-max</guid>
-    <description>iPhone 18 ProとiPhone 18 Pro Maxの違いを、画面サイズ・本体サイズと重量・バッテリー表記の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>停電時にスマホを充電するには？備えの考え方｜モバイルバッテリー・ポータブル電源・乾電池式・手回しの仕様の読み方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-c-blackout-phone</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-c-blackout-phone</guid>
-    <description>停電のとき、スマホは何回充電できる？ 停電前に確認したい容量（mAh・Wh）の換算、乾電池式・手回し・ポータブル電源の違い、メーカー表記の読み違いを、GEARNOTE掲載商品の仕様表の集計と筆者の計算で整理します。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-c-slow-charging</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-c-slow-charging</guid>
-    <description>スマホの充電が遅い・急に遅くなったときの原因を、充電器の出力W・PD/PPS、複数ポートの分配、ケーブルの対応W数、端末側の上限、ワイヤレス充電の条件に分けて整理。当サイト掲載商品の仕様集計と、上限の目安を出す計算例つき。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lenovo Yoga Tab Gen 2 ZAJ00142JP（11.1インチ・8GB／256GB・シーシェル）の仕様｜寸法・質量｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lenovo-yoga-tab-gen-2-zaj00142jp-11-1-inch-sea-shell</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lenovo-yoga-tab-gen-2-zaj00142jp-11-1-inch-sea-shell</guid>
-    <description>Lenovo Yoga Tab Gen 2 ZAJ00142JP（11.1インチ・8GB／256GB・シーシェル）の仕様。寸法・質量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-01）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タブレットの仕様一覧｜画面サイズ・メモリ・ストレージ・質量・バッテリー容量（掲載16台）｜GEARNOTE</title>
-    <link>https://gearnote.net/data-tablet</link>
-    <guid isPermaLink="true">https://gearnote.net/data-tablet</guid>
-    <description>GEARNOTEに掲載しているタブレット16台の、画面サイズ（インチ）、メモリ容量（GB）、ストレージ容量（GB）、質量（g）、バッテリー容量（mAh）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Pad 8 Pro（11.2インチ・8GB／128GB・グレー）の仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-pad-8-pro-8gb-128gb-gray-japanese-version</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-pad-8-pro-8gb-128gb-gray-japanese-version</guid>
-    <description>Xiaomi Pad 8 Pro（11.2インチ・8GB／128GB・グレー）の仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-01）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple製品の充電の数字｜iPhone・iPad・Apple Watch・AirPods・充電器の、Appleが書いている充電条件｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-apple-charging</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-apple-charging</guid>
-    <description>iPhone・iPad・Mac・Apple Watch・AirPods・Appleの充電器とケーブルについて、Appleの公式ページに書かれた充電の数字と条件（同梱品・高速充電・ワイヤレス充電・バッテリー）を1枚の表にまとめました。CSVつき。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タブレットの重さ（質量）の読み方｜Wi-FiとCellularの差・ペン付属・「±10g」を掲載12台で確認｜GEARNOTE</title>
-    <link>https://gearnote.net/weight-tablet</link>
-    <guid isPermaLink="true">https://gearnote.net/weight-tablet</guid>
-    <description>タブレットの「重量 477g」は、どのモデルの数字か。iPadのWi-FiとCellularモデルの重さの差、ペン付属モデル、「480g ± 10g」「標準バージョン」の書き方を、掲載16台のメーカー公開仕様で確かめ、画面サイズ帯ごとの重さを数えました。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>iPadとAndroidタブレットの違い｜OS・WhとmAh・microSD・画面サイズの書き方（掲載16台）｜GEARNOTE</title>
-    <link>https://gearnote.net/diff-ipad-vs-android-tablet</link>
-    <guid isPermaLink="true">https://gearnote.net/diff-ipad-vs-android-tablet</guid>
-    <description>iPadとAndroidタブレットの違いを、AppleとXiaomiの公式仕様で確かめて整理しました。OS、バッテリーのWhとmAh、microSDカード、画面サイズの測り方、ストレージの書き方の違いを、掲載16台の集計つきでまとめています。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonデバイスの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-amazon-echo</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-amazon-echo</guid>
-    <description>Echo、Fire TV Stick、Kindle、Fireタブレットなど、Amazonデバイスのおすすめ商品をまとめています。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Panasonicの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-panasonic</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
-    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>飲料の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
-    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

@@ -100,10 +100,13 @@
 
 <!-- 特集バナー(横3列)。新しい特集を出すときは3枚を入れ替え、残りは特集一覧(features.html)から辿れるようにする。 -->
 <div class="wrap">
-  <div class="event-banner-row">
-    <a href="feature-black-friday-202611" class="event-banner-card">
-      <img src="card-black-friday-202611.png" alt="Amazonブラックフライデー特集｜お買い物対象期間は11/27(金)から12/7(月)まで（Amazonの案内）" loading="eager">
-    </a>
+  <a href="feature-black-friday-202611" class="event-banner" style="margin-bottom:14px;">
+    <picture>
+      <source media="(max-width: 760px)" srcset="card-black-friday-202611.png">
+      <img src="card-black-friday-wide-202611.png" alt="Amazonブラックフライデー特集｜お買い物対象期間は11/27(金)から12/7(月)まで（Amazonの案内）" loading="eager">
+    </picture>
+  </a>
+  <div class="event-banner-row event-banner-row-2">
     <a href="feature-winter-prep-2026" class="event-banner-card">
       <img src="card-winter-prep-2026.png" alt="冬支度特集｜暖房・加湿・寝具からあったか小物まで162商品をGEARNOTEがピックアップ" loading="eager">
     </a>
