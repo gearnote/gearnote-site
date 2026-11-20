@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 20 Nov 2026 08:54:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 09:23:41 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -19,6 +33,20 @@
     <link>https://gearnote.net/category-beauty</link>
     <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
     <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-daily</link>
+    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
+    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -50,6 +78,13 @@
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>本・文房具の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-books</link>
+    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
+    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>車・バイク用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-car</link>
     <guid isPermaLink="true">https://gearnote.net/category-car</guid>
@@ -64,10 +99,45 @@
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>文房具の比較表（掲載20商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-stationery</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-stationery</guid>
+    <description>GEARNOTEに登録している文房具の20商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズシェーバーの比較表（掲載25商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mens-shavers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
+    <description>GEARNOTEに登録しているメンズシェーバーの25商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tiger</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
+    <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Bose Ultra Open Earbuds（第2世代）ホワイトスモークの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-bose-ultra-open-earbuds-2nd-gen-white-smoke</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-ultra-open-earbuds-2nd-gen-white-smoke</guid>
     <description>Bose Ultra Open Earbuds（第2世代）ホワイトスモークの仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズシェーバーの診断クイズ｜あなたの肌と手入れに合うタイプは？｜GEARNOTE</title>
+    <link>https://gearnote.net/quiz-mens-shaver</link>
+    <guid isPermaLink="true">https://gearnote.net/quiz-mens-shaver</guid>
+    <description>ヒゲの濃さ・肌の感じ方・お手入れの手間を選ぶだけで、向いているシェーバーのタイプ（往復式／回転式／洗浄機つき／携帯用）の目安がわかります。</description>
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -99,31 +169,10 @@
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>全商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/all-products</link>
-    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
-    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>Appleの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-apple</link>
     <guid isPermaLink="true">https://gearnote.net/brand-apple</guid>
     <description>Apple製品の特徴、iPhoneユーザーにおすすめする理由、AirPods・iPhone・iPadの選び方をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-daily</link>
-    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
-    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-baby</link>
-    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
-    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -295,13 +344,6 @@
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-tiger</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
-    <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>ゼンハイザー MOMENTUM True Wireless 3と5の違いを比較｜スペック比較｜GEARNOTE</title>
     <link>https://gearnote.net/compare-sennheiser-momentum-tw3-vs-tw5</link>
     <guid isPermaLink="true">https://gearnote.net/compare-sennheiser-momentum-tw3-vs-tw5</guid>
@@ -313,48 +355,6 @@
     <link>https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</link>
     <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</guid>
     <description>Apple iPad(A16)用Smart Folio ウォーターメロン（マグネット取り付け・スリープ連動・スタンド対応）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung Galaxy Tab A11+ 128GB Wi-Fi グレーの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-galaxy-tab-a11-plus-128gb-wifi-gray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-tab-a11-plus-128gb-wifi-gray</guid>
-    <description>Samsung Galaxy Tab A11+ 128GB Wi-Fi グレーの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。Samsung Galaxy Tab A11+ 128GB Wi-Fi グレー（11インチ・128GB・最大2TB拡張・Android 16・4スピーカー）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Spigen iPad 第11/10世代 ケース ラギッド・アーマー・プロの仕様｜寸法・重量・対応機種（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-spigen-ipad-a16-case-rugged-armor-pro-acs05417</link>
-    <guid isPermaLink="true">https://gearnote.net/product-spigen-ipad-a16-case-rugged-armor-pro-acs05417</guid>
-    <description>Spigen iPad 第11/10世代 ケース ラギッド・アーマー・プロ ACS05417 ブラックの仕様。寸法・重量・対応機種はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-14）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lenovo Idea Tab ZAFR0013JP タブレットの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lenovo-idea-tab-zafr0013jp-11inch</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lenovo-idea-tab-zafr0013jp-11inch</guid>
-    <description>Lenovo Idea Tab ZAFR0013JP タブレット 11インチ（Amazon.co.jp限定）の仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Lenovo Idea Tab Pro ZAE40096JP タブレット 12.7インチの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-lenovo-idea-tab-pro-zae40096jp-12-7inch</link>
-    <guid isPermaLink="true">https://gearnote.net/product-lenovo-idea-tab-pro-zae40096jp-12-7inch</guid>
-    <description>Lenovo Idea Tab Pro ZAE40096JP タブレット 12.7インチの仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi Pad 7 8GB+128GB グレーの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-xiaomi-pad-7-8gb-128gb-gray-vhu5505jp</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-pad-7-8gb-128gb-gray-vhu5505jp</guid>
-    <description>Xiaomi Pad 7 8GB+128GB グレー VHU5505JP（11.2インチ 3.2K・144Hz）の仕様。寸法・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple 11インチ iPad Air（M4）128GB スペースグレイの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-ipad-air-11-m4-128gb-space-gray</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-air-11-m4-128gb-space-gray</guid>
-    <description>Apple 11インチ iPad Air（M4）128GB スペースグレイの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
