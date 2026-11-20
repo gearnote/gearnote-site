@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-panasonic</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -152,12 +152,12 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-daily</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gearnote.net/category-baby</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -1847,7 +1847,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-books</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -2112,7 +2112,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-stationery</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2147,7 +2147,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-mens-shavers</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -15917,7 +15917,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-tiger</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -19082,7 +19082,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -19152,7 +19152,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/quiz-mens-shaver</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -26419,6 +26419,26 @@
   <url>
     <loc>https://gearnote.net/product-tiger-cookpot-cok-b220wm-1-2l</loc>
     <lastmod>2026-11-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-tiger-cookpot-cok-n220km-2-2l</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-uni-propus-window-5color-pus-102t-5c</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-pentel-handyline-s-5color-sxns15-5</loc>
+    <lastmod>2026-11-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-panasonic-lamdash-3blade-es-l341w-k</loc>
+    <lastmod>2026-11-20</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
