@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 19 Nov 2026 09:17:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 08:37:40 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -54,6 +54,13 @@
     <link>https://gearnote.net/category-care</link>
     <guid isPermaLink="true">https://gearnote.net/category-care</guid>
     <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -134,10 +141,38 @@
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ティファールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tfal</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tfal</guid>
+    <description>ティファール製品の特徴、フライパン・電気ケトル・圧力鍋の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Amazon Fire HD 10 タブレットの特徴・選び方｜GEARNOTE</title>
     <link>https://gearnote.net/product-amazon-fire-hd-10</link>
     <guid isPermaLink="true">https://gearnote.net/product-amazon-fire-hd-10</guid>
     <description>Amazon Fire HD 10 インチ タブレット 32GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>サントリーの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-suntory</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-suntory</guid>
+    <description>サントリー製品の特徴、水・お茶・機能性飲料の選び方、こんな人におすすめする理由をまとめて紹介。掲載16商品の仕様を一覧で確認できます。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>炭酸・エナジー・スポーツドリンクの比較表（掲載26商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-soda-sports-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-soda-sports-drinks</guid>
+    <description>GEARNOTEに登録している炭酸・エナジー・スポーツドリンクの26商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>調理家電の比較表（掲載71商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cooking-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
+    <description>GEARNOTEに登録している調理家電の71商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -222,6 +257,13 @@
     <link>https://gearnote.net/feature-new-life-2026</link>
     <guid isPermaLink="true">https://gearnote.net/feature-new-life-2026</guid>
     <description>新生活・一人暮らしの準備を、キッチン・洗濯と掃除・寝具と収納・照明と電源・日用品・季節家電・ガジェット・引っ越し用品・まとめ買い向けの飲料と食品に分けて整理。何からそろえるかの考え方と、選ぶときの確認点・使うときの注意つき。</description>
+    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タイガー魔法瓶(TIGER)の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tiger</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tiger</guid>
+    <description>タイガー魔法瓶(TIGER)製品の特徴、炊飯器・コーヒーメーカー・水筒・ケトルの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -313,48 +355,6 @@
     <link>https://gearnote.net/new-arrivals</link>
     <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
     <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple iPhone 18 Pro 256GB ブラックの仕様｜サイズ・重量・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-iphone-18-pro-256gb-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-256gb-black</guid>
-    <description>Apple iPhone 18 Pro 256GB ブラックの仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung Galaxy Tab S12+ 256GB Wi-Fi グレーの仕様｜サイズ・質量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-tab-s12-plus-256gb-wifi-gray-sm-x840nzaaxjp</guid>
-    <description>Samsung Galaxy Tab S12+ 256GB Wi-Fi グレーの仕様。サイズ・質量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-15）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple iPhone 18 Pro Max 2TB シルバーの仕様｜サイズ・重量・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-iphone-18-pro-max-2tb-silver</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-iphone-18-pro-max-2tb-silver</guid>
-    <description>Apple iPhone 18 Pro Max 2TB シルバーの仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-18）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung Galaxy Z Fold8 512GB グラファイトの仕様｜サイズ・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-galaxy-z-fold8-512gb-graphite</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-galaxy-z-fold8-512gb-graphite</guid>
-    <description>Samsung Galaxy Z Fold8 512GB グラファイトの仕様。サイズ・重量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-20）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple 13インチ iPad Air（M4）256GB スターライトの仕様｜サイズ・重量・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-ipad-air-13-m4-256gb-starlight</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-air-13-m4-256gb-starlight</guid>
-    <description>Apple 13インチ iPad Air（M4）256GB スターライトの仕様。サイズ・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-20）。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>iPad（A16）とiPad Air 11インチ（M4）の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-ipad-a16-vs-ipad-air-11-m4</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-ipad-a16-vs-ipad-air-11-m4</guid>
-    <description>iPad（A16）とiPad Air 11インチ（M4）の違いを、チップ・Wi-Fi規格・対応Apple Pencil・サイズと重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
