@@ -6,7 +6,91 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 20 Nov 2026 09:23:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 12:03:59 +0000</lastBuildDate>
+  <item>
+    <title>USBメモリ・LANアダプター・変換アダプター・NASの表記の見方｜USB3.2 Gen1・読出速度・1000BASE-T・ベイ数｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-usb-memory-lan-nas</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-usb-memory-lan-nas</guid>
+    <description>USBメモリの規格名（USB3.2 Gen1）と読出速度・ユーザー容量、有線LANアダプターの1000BASE-Tとジャンボフレーム、USB-C変換アダプターやUSBハブの記載、NASのベイ数と最大容量の見方を、当サイト掲載のKIOXIA・バッファロー・Belkin・UGREEN・Elgatoの記載値とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>PCスピーカー・テレビ用スピーカー・Bluetooth送受信機・HDMIケーブルの選び方ガイド｜出力・接続端子・コーデック・規格の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-pc-tv-audio-connect</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-pc-tv-audio-connect</guid>
+    <description>PCスピーカー（2.0ch・2.1ch）、テレビ手元スピーカー、ホームシアター、Bluetoothトランスミッター／レシーバー、HDMI・光デジタル・アンテナケーブルの選び方を、RMSとピーク出力、接続端子、コーデック、HDMI規格といったスペック表の項目から解説します。当サイト掲載のロジクール・Creative・ソニー・UGREENなどの記載値を使っています。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマホケース・Apple Watchバンド・保護フィルム・マグネット対応アクセサリーの選び方ガイド｜対応機種・素材・耐衝撃表記・MagSafeの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-phone-watch-accessories</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-phone-watch-accessories</guid>
+    <description>スマホケース、Apple Watchのバンド・ケース・保護フィルム、防水ケース、ワイヤレス充電器、車載ホルダー、AirTagケースの選び方を、対応機種、素材、耐衝撃の表記、MagSafe・Qi2の対応、サイズ互換といったスペック表の項目から解説します。当サイト掲載のSpigen・TORRAS・Belkin・Aulumu・MOFTなどの記載値を使っています。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ラベルライター・シュレッダー・電卓・タイマー・デスク小物の選び方ガイド｜テープ幅・細断方式・電源・サイズの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-office-desk-items</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-office-desk-items</guid>
+    <description>ラベルライターとテープ、シュレッダー、ラミネートフィルム、電卓、デジタルメモ、学習タイマー、クリーニングクロス、ポーチなどデスク周りの小物の選び方を、テープ幅、細断サイズ、桁数と電源、画面サイズ、サイズ・質量といったスペック表の項目から解説します。当サイト掲載のキングジム・ブラザー・アイリスオーヤマ・カシオなどの記載値を使っています。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>カードゲーム・ボードゲーム・ゲーム機周辺・電子玩具の選び方ガイド｜デッキ収納・プレイ人数・本体仕様・電源の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-card-board-console-toy</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-card-board-console-toy</guid>
+    <description>トレーディングカードのBOX・スタートデッキ、デッキケースやバインダーの収納枚数、ボードゲームのプレイ人数と時間、Nintendo Switch 2・PS5周辺機器の仕様、ロボットやプロジェクターなど電子玩具の電源の見方を、当サイト掲載の商品ページの記載値とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ウェアラブル・ヘッドホン・パーティースピーカー・ストリーミングスティックの選び方ガイド｜対応端末・電池・防水・接続方式の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-connected-gadgets</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-connected-gadgets</guid>
+    <description>GPSウォッチ・スマートウォッチ・バンド型トラッカー・キッズ向けウォッチ、有線・Bluetoothのヘッドホン、カラオケ用のパーティースピーカー、テレビにつなぐストリーミングスティックについて、対応端末・接続方式・電池・防水・重量の読み方を、当サイト掲載のGarmin・Google・Samsung・WHOOP・HyperX・Soundcore・Rokuなどの記載値とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヨガ・ストレッチ用品と釣りの小物の選び方ガイド｜素材・サイズ・耐荷重・偏光・お手入れの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-yoga-fishing-accessories</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-yoga-fishing-accessories</guid>
+    <description>ヨガベルト・ボルスター・ヨガホイール・トレーニングチューブ・ストレッチボード、釣りのベスト・グローブ・偏光グラス・リールスタンド・リールカバー・ルアーセットについて、素材・サイズ・耐荷重・偏光度・お手入れの記載の読み方を、当サイト掲載のヨガワークス・RITFIT・ダイワ・シマノ・Bassdashなどの記載値とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>掃除・洗濯・冷却まわりの家電と小物の選び方ガイド｜運転時間・容量・サイズ・対応機種・お手入れの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-housework-appliance-parts</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-housework-appliance-parts</guid>
+    <description>コードレス掃除機と紙パック、洗濯機の糸くずフィルター、脱水機、アイロン台、コードレスアイロン、製氷機、小型冷蔵庫、スポットクーラー、除湿剤、粘着クリーナーについて、運転時間・容量・サイズ・対応機種の読み方を、当サイト掲載のShark・マキタ・シャープ・ハイセンス・アイリスオーヤマ・ナカトミなどの記載値とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>LED電球・センサーライト・ビデオライト・ACアダプターの選び方ガイド｜口金・形相当・ルーメン・色温度・電源方式の表記の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-led-bulb-light-power-labels</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-led-bulb-light-power-labels</guid>
+    <description>LED電球の口金（E17・E26）と「40W形相当」、全光束（lm）、電球色2700K、センサーライトの電池式とソーラー式、ビデオ通話用ライトの色温度、ACアダプターのDC出力・極性・プラグ径の表記の見方を、当サイト掲載のパナソニック・東芝・ムサシ・Elgato・ロジクール・Ankerなどの記載とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートタグ・ドアベル・AIレコーダー・PC周辺機器の選び方ガイド｜対応OS・接続方式・電源・付属品・記載なし項目の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-gadget-compat-connect-labels</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-gadget-compat-connect-labels</guid>
+    <description>スマートタグ、スマートスピーカー、バッテリー式ドアベル、AIレコーダー、自撮りモニター、Mac mini、ゲーミングモニター、インクジェット複合機、Bluetoothスピーカー、車載ホルダー、防振双眼鏡の表記について、対応OS・接続方式・電源方式・付属品・「商品ページに記載なし」の項目の読み方を、当サイト掲載の商品の記載とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブロック・パズル・ぬいぐるみ・ペット用品の選び方ガイド｜ピース数・サイズ表記・素材・リード長さの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-toy-plush-pet-labels</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-toy-plush-pet-labels</guid>
+    <description>ブロックや磁石ブロック、木製パズル、ぬいぐるみ、犬用リード・ハーネス、猫の首輪、小型水槽について、ピース数・寸法の表記・素材・長さ表記の見方を、当サイト掲載10商品の仕様欄とメーカー公開仕様の記載とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>季節家電・キッチン小物・美容家電の選び方ガイド｜暖房の目安・加湿量・容量・電源方式・対応機種の見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-season-kitchen-appliance-spec</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-season-kitchen-appliance-spec</guid>
+    <description>石油ファンヒーター、卓上加湿器、食器洗い乾燥機、ワイヤレス温度計、空気清浄機用フィルター、ホーローのケトル、醤油ディスペンサー、バターケース、電池式シェーバー、光美容器について、暖房の目安・加湿量・容量・電源方式・対応機種の型番といった仕様表の見方を、当サイト掲載11商品の記載とあわせて解説します。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -78,6 +162,20 @@
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-sports</link>
+    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
+    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>本・文房具の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-books</link>
     <guid isPermaLink="true">https://gearnote.net/category-books</guid>
@@ -120,6 +218,13 @@
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アクションカメラ・360度カメラの選び方ガイド｜画質・手ブレ補正・防水・バッテリーの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-action-camera</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-action-camera</guid>
+    <description>アクションカメラと360度カメラの違い、解像度とフレームレート、センサーサイズ、手ブレ補正、防水表記の条件、バッテリーと記録メディアといった仕様表の見方を、当サイト掲載のDJI Osmo・GoPro・Insta360の記載値とあわせて解説します。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Bose Ultra Open Earbuds（第2世代）ホワイトスモークの仕様｜寸法・重量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-bose-ultra-open-earbuds-2nd-gen-white-smoke</link>
     <guid isPermaLink="true">https://gearnote.net/product-bose-ultra-open-earbuds-2nd-gen-white-smoke</guid>
@@ -141,6 +246,13 @@
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>アクションカメラ・360度カメラの仕様一覧｜防水の水深・質量・動作時間・ビットレート（掲載19台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-action-camera</link>
+    <guid isPermaLink="true">https://gearnote.net/data-action-camera</guid>
+    <description>GEARNOTEに掲載しているアクションカメラ・360度カメラ（通常型／360度／小型ウェアラブル／ジンバル一体型）19台の、本体の防水の水深（m）、カメラ本体の質量（g）、1080p/24fps撮影時の動作時間（分）、最大ビットレート（Mbps）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>タイガー 電気圧力鍋 COK-N220KMの仕様｜容量・調理容量（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-tiger-cookpot-cok-n220km-2-2l</link>
     <guid isPermaLink="true">https://gearnote.net/product-tiger-cookpot-cok-n220km-2-2l</guid>
@@ -148,10 +260,10 @@
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>三菱鉛筆 プロパスウインドウ 5色セットの仕様｜本数・色数（メーカー公開情報）｜GEARNOTE</title>
+    <title>三菱鉛筆 プロパスウインドウ 5色セットの仕様｜色数・色名（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-uni-propus-window-5color-pus-102t-5c</link>
     <guid isPermaLink="true">https://gearnote.net/product-uni-propus-window-5color-pus-102t-5c</guid>
-    <description>三菱鉛筆 蛍光ペン プロパスウインドウ 5色セット（PUS-102T.5C）の仕様。メーカーページではセット内容は5本・5色（桃、橙、黄、緑、空色）と記載があります（確認日 2026-11-20）。</description>
+    <description>三菱鉛筆 蛍光ペン プロパスウインドウ 5色セット（PUS-102T.5C）の仕様。メーカーページでは5色セットは色数5（桃、橙、黄、緑、空色）と記載があります（確認日 2026-11-21）。</description>
     <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -180,20 +292,6 @@
     <link>https://gearnote.net/category-drinks</link>
     <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
     <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファッションの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-fashion</link>
-    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
-    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-sports</link>
-    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
-    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -257,104 +355,6 @@
     <link>https://gearnote.net/ranking-cooking-appliances</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
     <description>GEARNOTEに登録している調理家電の71商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>PHILIPS T8015 11インチタブレットの特徴・デメリット｜選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-philips-t8015-tablet</link>
-    <guid isPermaLink="true">https://gearnote.net/product-philips-t8015-tablet</guid>
-    <description>PHILIPS T8015 11インチタブレット（国内正規品）の特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonブラックフライデー特集｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-black-friday-202611</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-black-friday-202611</guid>
-    <description>Amazon「ブラックフライデー」2026のお買い物対象期間は、2026年11月27日(金)0:00〜12月7日(月)23:59（Amazonのキャンペーンページの案内）。過去の開催日、セール前にやっておく準備、ジャンル別のチェックスペックと、GEARNOTEが仕様でピックアップした家電・ガジェット・美容・日用品を紹介します。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonプライム感謝祭特集｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-prime-appreciation-202610</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-prime-appreciation-202610</guid>
-    <description>2026年のAmazonプライム感謝祭は終了しました。家電・ガジェット・美容・日用品・食品・ベビー・ペットなど幅広いジャンルの商品の仕様紹介は、引き続きご覧いただけます。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon スマイルSale特集（11/4〜11/12）｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-smile-sale-202611</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-smile-sale-202611</guid>
-    <description>2026年11月のAmazonスマイルSaleは終了しました。冬支度の家電・ガジェット・日用品・食品の仕様紹介は、引き続きご覧いただけます。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>冬支度特集｜暖房・加湿・寝具・ぽかぽか小物まとめ｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-winter-prep-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-winter-prep-2026</guid>
-    <description>冬支度に役立つ商品を用途別にまとめた特集。暖房・加湿と結露対策・部屋干し・寝具・小物・温かい飲み物・乾燥ケア・電気まわり・車の準備まで、選び方のポイントと安全上の注意つきで紹介します。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>防災グッズ特集｜水・食料・トイレ・明かり・電源・家族別の備えを整理｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-bosai-goods-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-bosai-goods-2026</guid>
-    <description>防災の備えを用途別にまとめた特集。水・食料の備蓄、トイレ・衛生、明かり、乾電池・モバイルバッテリー・ポータブル電源、持ち出し品、乳幼児・介護・ペットの備え、車まわりの備えまで、選び方の考え方と安全上の注意つきで紹介します。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>特集一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/features</link>
-    <guid isPermaLink="true">https://gearnote.net/features</guid>
-    <description>GEARNOTEの特集ページ一覧。季節や用途ごとに、掲載商品を選び方のポイントと注意点つきでまとめたページを掲載しています。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>年末大掃除特集｜キッチン・水まわり・窓・掃除機・洗濯・収納を場所別に整理｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-year-end-cleaning-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-year-end-cleaning-2026</guid>
-    <description>年末の大掃除に使う掃除用品・掃除家電を、キッチン・トイレとお風呂・窓と床・掃除機・洗濯まわり・道具・ニオイ対策・収納の場所別にまとめた特集。洗剤の液性の考え方や、混ぜるな危険などの安全上の注意つきで紹介します。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazonふるさと納税特集｜しくみ・手続きの流れ・返礼品カテゴリーの探し方｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-furusato-nozei-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-furusato-nozei-2026</guid>
-    <description>Amazonふるさと納税を使う前に知っておきたい、制度のしくみ、年内の寄附と手続きの目安、控除上限額の確認、選び方と注意点をまとめた特集。返礼品カテゴリーへの入口も掲載しています。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>年末年始ギフト特集｜家族・友人・自分へ、贈る相手別に選ぶ｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-year-end-gift-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-year-end-gift-2026</guid>
-    <description>年末年始の贈り物を、贈る相手・場面別にまとめた特集。家族への実用品、食べ物・飲み物、リラックス用品、お子さま・ベビー向け、ペット、ガジェット、文房具・手帳、ゲームまで、選び方の考え方と贈るときの注意つきで紹介します。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>在宅ワーク・デスク環境特集｜入力機器・画面・音・照明・電源まわりを用途別に整理｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-work-from-home-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-work-from-home-2026</guid>
-    <description>在宅ワークの机まわりに関わる商品を用途別にまとめた特集。キーボード・マウス、画面まわり、ヘッドホンとマイク、デスクの明かり、電源・配線、文房具、飲み物、室内環境、ネットワークまで、選び方のポイントと使うときの注意つきで紹介します。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>新生活・一人暮らしスタート特集｜そろえるものを用途別に整理｜GEARNOTE</title>
-    <link>https://gearnote.net/feature-new-life-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/feature-new-life-2026</guid>
-    <description>新生活・一人暮らしの準備を、キッチン・洗濯と掃除・寝具と収納・照明と電源・日用品・季節家電・ガジェット・引っ越し用品・まとめ買い向けの飲料と食品に分けて整理。何からそろえるかの考え方と、選ぶときの確認点・使うときの注意つき。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ゼンハイザー MOMENTUM True Wireless 3と5の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-sennheiser-momentum-tw3-vs-tw5</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-sennheiser-momentum-tw3-vs-tw5</guid>
-    <description>ゼンハイザー MOMENTUM True Wireless 3と5の違いを、バッテリー・空間オーディオ・通話機能の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple iPad(A16)用 Smart Folio ウォーターメロンの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-ipad-a16-smart-folio-watermelon</guid>
-    <description>Apple iPad(A16)用Smart Folio ウォーターメロン（マグネット取り付け・スリープ連動・スタンド対応）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

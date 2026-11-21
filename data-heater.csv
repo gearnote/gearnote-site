@@ -1,5 +1,4 @@
 ﻿商品名,区分,商品ページ,消費電力（電気式・メーカー表記の最大値）(W),最大の暖房出力（石油式）(kW),暖房の目安・木造（石油式）(畳),暖房の目安・コンクリート（石油式）(畳)
-デロンギ ファンヒーター カプスーラ,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-delonghi-capsula-fan-heater,1150,,,
 アイリスオーヤマ セラミックファンヒーター 人感センサー付,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-iris-ohyama-ceramic-fan-heater,1200,,,
 パナソニック セラミックファンヒーター ポッカレット DS-FP600-W,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-panasonic-fanheater-pokkaretto-dsfp600,600,,,
 パナソニック セラミックファンヒーター 防滴仕様 切タイマー付 DS-FAS1200-W,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-panasonic-ceramic-fan-heater-ds-fas1200-w,1150,,,
@@ -8,13 +7,14 @@
 山善 セラミックファンヒーター DMF-E061(W) 静音 小型,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-ceramic-fan-heater-dmf-e061-w-quiet,600,,,
 山善 セラミックファンヒーター DMSF-J063(W) ホワイト,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-ceramic-fan-heater-dmsf-j063-w-human-sensor,600,,,
 山善 セラミックファンヒーター DPSF-EP12(H)（人感・温度センサー）,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-ceramic-fan-heater-dpsf-ep12-h-human-sensor,1200,,,
-山善 セラミックファンヒーター 人感センサー DSF-S123(W),電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-ceramic-fan-heater-dsf-s123-w-human-sensor,,,,
+山善 セラミックファンヒーター 人感センサー DSF-S123(W),電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-ceramic-fan-heater-dsf-s123-w-human-sensor,1200,,,
 山善 セラミックファンヒーター YKDSF-VD121(C)（人感・温度Wセンサー）,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-ceramic-fan-heater-ykdsf-vd121-c-dual-sensor,1200,,,
 山善 セラミックヒーター 人感センサー DPSF-EU12(W),電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-ceramic-heater-dpsf-eu12,1200,,,
 山善 壁掛タイプ セラミックヒーター DFX-RK122(W)（温度センサー・リモコン付き）,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-wall-mount-ceramic-heater-dfx-rk122-w,1200,,,
 コイズミ セラミックヒーター KPH-1267/W グレイッシュホワイト,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-koizumi-ceramic-heater-kph-1267-w-omakase-motion-sensor,1200,,,
 コイズミ セラミックヒーター Cube KPH-1226C/W ホワイト,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-koizumi-ceramic-heater-cube-kph-1226c-w-tower-oscillating,1200,,,
-スリーアップ セラミックヒーター CH-AZ0892GY（ルーバーレス・人感センサー・左右首振り）,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-three-up-ceramic-heater-ch-az0892gy-louverless-oscillating,1200,,,
+スリーアップ セラミックヒーター CH-AZ0892GY（ルーバーレス・人感センサー・左右首振り）,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-three-up-ceramic-heater-ch-az0892gy-louverless-oscillating,,,,
+コイズミ ホット＆クール 電気ファンヒーター KHF-12269/W（タワー型・温風と送風の1台2役）,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-koizumi-hot-and-cool-fan-heater-khf-12269-w-tower,1200,,,
 シャープ 加湿セラミックヒーター HX-TK12-W プラズマクラスター7000,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-sharp-humidifying-ceramic-heater-hx-tk12-w,1200,,,
 ダイニチ 加湿セラミックファンヒーター EF-H1200H-W,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-dainichi-humidifying-ceramic-fan-heater-ef-h1200h-w,1200,,,
 山善 遠赤外線カーボンヒーター 900W/450W 自動首振り DC-S097(B),電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-carbon-heater-dc-s097,900,,,
@@ -28,7 +28,7 @@
 コロナ 遠赤外線電気ストーブ コアヒート AH-12RA2(H),電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-corona-coreheat-electric-stove-ah-12ra2,,,,
 コロナ カーボンヒーター スリムカーボン DH-C91A3(W),電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-corona-carbon-heater-dh-c91a3,,,,
 アイリスオーヤマ オイルヒーター ストレート メカ式 IOH-1208KS-W,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-iris-ohyama-oil-heater-ioh-1208ks-w,1200,,,
-アイリスオーヤマ ミニオイルヒーター 500W POH-505K-MD,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-iris-ohyama-mini-oil-heater-poh-505k-md,500,,,
+アイリスオーヤマ ミニオイルヒーター 500W POH-505K-MD,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-iris-ohyama-mini-oil-heater-poh-505k-md,,,,
 山善 オイルレスヒーター 1200W DOL-J12(W)E（ホワイト）,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-yamazen-oilless-heater-1200w-dol-j12-w-e,1200,,,
 デロンギ オイルヒーター ヴェルティカルド RHJ21F1015-BR,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-delonghi-oil-heater-verticaldo-rhj21f1015,1500,,,
 デロンギ マルチダイナミックヒーター MDHU09-BK,電気式（セラミック・電気ストーブ・オイル系ほか）,https://gearnote.net/product-delonghi-multi-dynamic-heater-mdhu09,,,,
@@ -50,3 +50,7 @@ Dyson Purifier Hot+Cool,電気式（セラミック・電気ストーブ・オ�
 トヨトミ 石油ストーブ RS-N23(C) アイボリー,石油式（石油ファンヒーター・石油ストーブ）,https://gearnote.net/product-toyotomi-reflective-kerosene-stove-rs-n23-c,,2.25,6,8
 トヨトミ 石油ストーブ ダブルクリーン RC-NS28(C) アイボリー,石油式（石油ファンヒーター・石油ストーブ）,https://gearnote.net/product-toyotomi-double-clean-kerosene-stove-rc-ns28-c,,2.75,7,10
 トヨトミ 反射形石油ストーブ RS-H29(C) アイボリー,石油式（石油ファンヒーター・石油ストーブ）,https://gearnote.net/product-toyotomi-reflective-kerosene-stove-rs-h29-c,,2.87,8,10
+ダイニチ 石油ファンヒーター NCタイプ FW-4226NC-W（ムーンホワイト・木造11畳）,石油式（石油ファンヒーター・石油ストーブ）,https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4226nc-w,,4.2,11,15
+ダイニチ 石油ファンヒーター Lタイプ FW-4626L-W（ムーンホワイト・木造12畳）,石油式（石油ファンヒーター・石油ストーブ）,https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4626l-w,,4.6,12,16
+CORONA 石油ストーブ SX-EB24Y(W)（木造7畳／コンクリート9畳・タンク4L・電源(100V)不要）,石油式（石油ファンヒーター・石油ストーブ）,https://gearnote.net/product-corona-sekiyu-stove-sx-eb24y-w-portable-4l,,2.42,7,9
+トヨトミ 石油ストーブ ダブルクリーン RC-NW36(C)（アイボリー）,石油式（石油ファンヒーター・石油ストーブ）,https://gearnote.net/product-toyotomi-double-clean-kerosene-stove-rc-nw36-c-ivory,,3.6,10,13
