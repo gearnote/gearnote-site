@@ -6,7 +6,49 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 21 Nov 2026 12:46:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 08:40:30 +0000</lastBuildDate>
+  <item>
+    <title>パナソニック LEDシーリングライト HH-CM0823CAの仕様｜適用畳数・器具光束（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-led-ceiling-light-hh-cm0823ca</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-ceiling-light-hh-cm0823ca</guid>
+    <description>パナソニック LEDシーリングライト HH-CM0823CAの仕様。メーカーページでは～8畳、器具光束4299lm、消費電力32W、質量1.2kgと記載があります（確認日 2026-11-22）。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック LEDシーリングライト HH-CF0820AZの仕様｜適用畳数・器具光束（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-led-ceiling-light-hh-cf0820az</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-ceiling-light-hh-cf0820az</guid>
+    <description>パナソニック LEDシーリングライト HH-CF0820AZの仕様。メーカーページでは～8畳、器具光束4299lm、消費電力32W、質量1.2kgと記載があります（確認日 2026-11-22）。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック LEDポーチライト HH-SL0012Lの仕様｜器具光束・質量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</guid>
+    <description>パナソニック LEDポーチライト（センサー付）HH-SL0012Lの仕様。メーカーページでは器具光束250lm、質量0.7kg、消費電力5.1Wと記載があります（確認日 2026-11-22）。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パイロット 蛍光ペン キレーナ 5色セットの仕様｜本数・色数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-pilot-kirena-highlighter-5color-skiw-1-5c1</link>
+    <guid isPermaLink="true">https://gearnote.net/product-pilot-kirena-highlighter-5color-skiw-1-5c1</guid>
+    <description>パイロット 蛍光ペン キレーナ ベーシックカラー5色セット（SKIW-1-5C1）の仕様。メーカーのウェブカタログでは5色セット、最大筆記幅は細字0.5mm・太字3.3mm、水性顔料インキと記載があります（確認日 2026-11-22）。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -190,6 +232,13 @@
     <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>本・文房具の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-books</link>
+    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
+    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>車・バイク用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-car</link>
     <guid isPermaLink="true">https://gearnote.net/category-car</guid>
@@ -215,6 +264,13 @@
     <link>https://gearnote.net/product-ezviz-pet-camera-c6n</link>
     <guid isPermaLink="true">https://gearnote.net/product-ezviz-pet-camera-c6n</guid>
     <description>EZVIZ ペットカメラ C6Nの仕様。寸法・重量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>メンズシェーバーの比較表（掲載26商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-mens-shavers</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-mens-shavers</guid>
+    <description>GEARNOTEに登録しているメンズシェーバーの26商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
     <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -288,73 +344,17 @@
     <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ロジクールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-logicool</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-logicool</guid>
+    <description>ロジクール製品の特徴、マウス・キーボード・Webカメラの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>エレコム 握りの極み ワイヤレスマウスの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-elecom-nigiri-no-kiwami-mouse</link>
     <guid isPermaLink="true">https://gearnote.net/product-elecom-nigiri-no-kiwami-mouse</guid>
     <description>エレコム マウス ワイヤレス Mサイズ 5ボタン 握りの極みの仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-14）。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Amazon Fire HD 10 タブレットの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-amazon-fire-hd-10</link>
-    <guid isPermaLink="true">https://gearnote.net/product-amazon-fire-hd-10</guid>
-    <description>Amazon Fire HD 10 インチ タブレット 32GBの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM ADVの仕様｜サイズ・質量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-adv-cordless</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-adv-cordless</guid>
-    <description>Shark（シャーク）EVOPOWER SYSTEM ADV コードレススティッククリーナー CS651Jの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM FIT+の仕様｜サイズ・質量・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-fit-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-fit-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM FIT+ LC150Jの仕様。サイズ・質量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM STD+の仕様｜サイズ・質量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-std-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-std-plus</guid>
-    <description>Shark シャーク EVOPOWER SYSTEM STD+ コードレススティッククリーナー CS150JAEの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM iQ+の仕様｜サイズ・重量・充電時間（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-iq-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-iq-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM iQ＋ CS851JMVAEの仕様。サイズ・重量・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-21）。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック 完全ワイヤレスイヤホン RZ-S50Wの仕様｜質量・充電時間・Bluetooth（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-rzs50w-earbuds</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-rzs50w-earbuds</guid>
-    <description>パナソニック カナル型 ノイズキャンセリング完全ワイヤレスイヤホン RZ-S50Wの仕様。質量・充電時間・Bluetoothはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo RV20 Max Plusの仕様｜サイズ・容量・バッテリー（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-rv20-max-plus-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-rv20-max-plus-robot-vacuum</guid>
-    <description>Tapo RV20 Max Plus（薄型ロボット掃除機&amp;自動ゴミ収集機）の仕様。サイズ・容量・バッテリーはメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo C220 パン/チルトカメラの特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-c220-pan-tilt-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-c220-pan-tilt-camera</guid>
-    <description>Tapo C220 400万画素 2K QHD 屋内カメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
-    <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Tapo C210 ペットカメラ の特徴・選び方｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tapo-c210-pet-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-c210-pet-camera</guid>
-    <description>TP-Link Tapo C210 屋内ネットワークカメラの特徴を整理。メリット・デメリット、こんな人におすすめかをまとめました。</description>
     <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

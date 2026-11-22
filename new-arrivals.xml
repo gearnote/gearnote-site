@@ -6,7 +6,35 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 21 Nov 2026 12:47:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 08:40:57 +0000</lastBuildDate>
+  <item>
+    <title>パナソニック 日本製 LEDシーリングライト 調光・調色タイプ ~8畳 4299lm</title>
+    <link>https://gearnote.net/product-panasonic-led-ceiling-light-hh-cf0820az</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-ceiling-light-hh-cf0820az</guid>
+    <description>パナソニックのLEDシーリングライト「HH-CF0820AZ」（～8畳）です。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック LEDシーリングライト 調光調色 8畳</title>
+    <link>https://gearnote.net/product-panasonic-led-ceiling-light-hh-cm0823ca</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-ceiling-light-hh-cm0823ca</guid>
+    <description>パナソニックのLEDシーリングライト「HH-CM0823CA」（シンプルシリーズ プレーン、～8畳）です。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック LED 玄関灯 ポーチライト 縦型 明るさセンサー 人感センサー付 電球色</title>
+    <link>https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</guid>
+    <description>パナソニックの壁面専用LEDポーチライト「HH-SL0012L」（縦型、電球色）です。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>PILOT 蛍光ペン マーカー キレーナ 5C 01ベーシック 5本セット SKIW15C1</title>
+    <link>https://gearnote.net/product-pilot-kirena-highlighter-5color-skiw-1-5c1</link>
+    <guid isPermaLink="true">https://gearnote.net/product-pilot-kirena-highlighter-5color-skiw-1-5c1</guid>
+    <description>パイロットの蛍光ペン「KIRE-NA（キレーナ）」のベーシックカラー5色セット（品番SKIW-1-5C1）です。</description>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>エプソン A4ドキュメントスキャナー DS-C480W</title>
     <link>https://gearnote.net/product-epson-ds-c480w-document-scanner</link>
@@ -328,34 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-siroca-ouchi-chef-cooker-sp-mc5d171-white-5l</guid>
     <description>シロカの自動調理鍋（電気圧力鍋）「おうちシェフクッカー」SP-MC5D171（ホワイト）です。</description>
     <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Logicool G PRO X3 SUPERSTRIKE</title>
-    <link>https://gearnote.net/product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-pe-pink</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-g-pro-x3-superstrike-wireless-gaming-mouse-g-ppd-x3-strk-pe-pink</guid>
-    <description>ロジクールGのワイヤレスゲーミングマウス「PRO X3 SUPERSTRIKE」G-PPD-X3-STRK-PEd（ピンク）です。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー ULT TOWER 7 SRS-ULT700（ワイヤレスパーティースピーカー）</title>
-    <link>https://gearnote.net/product-sony-srs-ult700-ult-tower-7-party-speaker</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-srs-ult700-ult-tower-7-party-speaker</guid>
-    <description>ソニーのワイヤレスポータブルスピーカー「ULT TOWER 7」SRS-ULT700です。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー Xperia 10 VIII</title>
-    <link>https://gearnote.net/product-sony-xperia-10-viii-xq-gh44-8gb-128gb-misty-lilac</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-xperia-10-viii-xq-gh44-8gb-128gb-misty-lilac</guid>
-    <description>ソニーのスマートフォン「Xperia 10 VIII」XQ-GH44（ミスティライラック）です。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>TP-Link Tapo</title>
-    <link>https://gearnote.net/product-tapo-c425k-a-solar-panel-outdoor-security-camera-2k</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tapo-c425k-a-solar-panel-outdoor-security-camera-2k</guid>
-    <description>TP-Linkのソーラーパネル一体型・屋外用セキュリティカメラ「Tapo C425K/A」です。</description>
-    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
