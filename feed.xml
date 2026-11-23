@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 23 Nov 2026 00:18:45 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 08:42:03 +0000</lastBuildDate>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -110,6 +110,41 @@
     <link>https://gearnote.net/guide-air-purifier</link>
     <guid isPermaLink="true">https://gearnote.net/guide-air-purifier</guid>
     <description>空気清浄機の適用畳数や清浄時間、HEPAなどのフィルター方式、加湿機能付きの違い、運転音とお手入れの見方を、部屋や使い方別の考え方とあわせて解説します。</description>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>保証期間と補修用部品の保有期間の書かれ方｜メーカー公式資料の記載を集計｜GEARNOTE</title>
+    <link>https://gearnote.net/spec-warranty-parts</link>
+    <guid isPermaLink="true">https://gearnote.net/spec-warranty-parts</guid>
+    <description>GEARNOTEの商品ページに転記したメーカー公式資料の記載から、保証期間と補修用性能部品の保有期間が、どのような長さ・条件で書かれているかを集計したレポートです。</description>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ラムダッシュ 3枚刃 ES-L322W-Kの仕様｜質量・刃の枚数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-lamdash-3blade-es-l322w-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-lamdash-3blade-es-l322w-k</guid>
+    <description>パナソニック ラムダッシュ 3枚刃 ES-L322W-Kの仕様。メーカーページでは3枚刃、質量約145g、リニアモーター約13,000ストローク/分と記載があります（確認日 2026-11-23）。</description>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ラムダッシュ 3枚刃 ES-L342D-Rの仕様｜質量・刃の枚数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-lamdash-3blade-es-l342d-r</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-lamdash-3blade-es-l342d-r</guid>
+    <description>パナソニック ラムダッシュ 3枚刃 ES-L342D-Rの仕様。メーカーページでは3枚刃、質量約155g、リニアモーター約13,000ストローク/分と記載があります（確認日 2026-11-23）。</description>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ラムダッシュ 3枚刃 ES-L362D-Sの仕様｜質量・刃の枚数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-lamdash-3blade-es-l362d-s</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-lamdash-3blade-es-l362d-s</guid>
+    <description>パナソニック ラムダッシュ 3枚刃 ES-L362D-Sの仕様。メーカーページでは3枚刃、質量約180g、リニアモーター約13,000ストローク/分と記載があります（確認日 2026-11-23）。</description>
+    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>職人の珈琲 ワンドリップコーヒー リッチブレンド 36杯の仕様｜1杯の粉量・杯数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-ucc-shokunin-coffee-onedrip-rich-36</link>
+    <guid isPermaLink="true">https://gearnote.net/product-ucc-shokunin-coffee-onedrip-rich-36</guid>
+    <description>UCC 職人の珈琲 ワンドリップコーヒー あまい香りのリッチブレンド 36杯の仕様。メーカーページでは内容量7g×36杯分、原材料はコーヒー豆と記載があります（確認日 2026-11-23）。</description>
     <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -225,13 +260,6 @@
     <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>保証期間と補修用部品の保有期間の書かれ方｜メーカー公式資料の記載を集計｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-warranty-parts</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-warranty-parts</guid>
-    <description>GEARNOTEの商品ページに転記したメーカー公式資料の記載から、保証期間と補修用性能部品の保有期間が、どのような長さ・条件で書かれているかを集計したレポートです。</description>
-    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>家電の消費電力 早見表｜ジャンル別の最小・中央値・最大｜GEARNOTE</title>
     <link>https://gearnote.net/spec-power-table</link>
     <guid isPermaLink="true">https://gearnote.net/spec-power-table</guid>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/spec-hori</link>
     <guid isPermaLink="true">https://gearnote.net/spec-hori</guid>
     <description>GEARNOTEに掲載しているHORIのゲームコントローラーの、メーカー公開仕様の数字を、ジャンル全体の中央値と並べてまとめました。</description>
-    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>BenQの数字まとめ｜モニターなどの、メーカー公開仕様（掲載6台）｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-benq</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-benq</guid>
-    <description>GEARNOTEに掲載しているBenQのモニターの、メーカー公開仕様の数字を、ジャンル全体の中央値と並べてまとめました。</description>
-    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ブラザーの数字まとめ｜プリンター・スキャナーの、メーカー公開仕様（掲載9台）｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-brother</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-brother</guid>
-    <description>GEARNOTEに掲載しているブラザーのドキュメントスキャナー、プリンター・ラベルライターの、メーカー公開仕様の数字を、ジャンル全体の中央値と並べてまとめました。</description>
-    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ScanSnapの数字まとめ｜ドキュメントスキャナーの、メーカー公開仕様（掲載11台）｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-scansnap</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-scansnap</guid>
-    <description>GEARNOTEに掲載しているScanSnapのドキュメントスキャナーの、メーカー公開仕様の数字を、ジャンル全体の中央値と並べてまとめました。</description>
-    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Panasonicの数字まとめ｜メンズ電気シェーバー・電気毛布・電動歯ブラシなどの、メーカー公開仕様（掲載53台）｜GEARNOTE</title>
-    <link>https://gearnote.net/spec-panasonic</link>
-    <guid isPermaLink="true">https://gearnote.net/spec-panasonic</guid>
-    <description>GEARNOTEに掲載しているPanasonicの空気清浄機、ブレンダー・ミキサー、コーヒーメーカー、コードレス掃除機、除湿機、ワイヤレスイヤホンなどの、メーカー公開仕様の数字を、ジャンル全体の中央値と並べてまとめました。</description>
     <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
