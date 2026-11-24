@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-anker</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-panasonic</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -172,7 +172,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-drinks</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -2382,7 +2382,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-tfal</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3937,7 +3937,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-suntory</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4327,7 +4327,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-soda-sports-drinks</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4382,7 +4382,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-cooking-appliances</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -19077,7 +19077,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-11-23</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -19127,7 +19127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/quiz-rice-cooker</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -26499,6 +26499,26 @@
   <url>
     <loc>https://gearnote.net/product-ucc-shokunin-coffee-onedrip-rich-36</loc>
     <lastmod>2026-11-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-panasonic-living-fan-dc-f-c339d-w</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-suntory-tennensui-sparkling-lemon-500-24</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-anker-solix-c1000-gen2-a1763</loc>
+    <lastmod>2026-11-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</loc>
+    <lastmod>2026-11-24</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

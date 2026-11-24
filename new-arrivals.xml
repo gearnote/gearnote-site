@@ -6,7 +6,35 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 24 Nov 2026 08:08:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 08:45:36 +0000</lastBuildDate>
+  <item>
+    <title>Anker ポータブル電源 大容量 1024Wh Solix C1000 Gen 2</title>
+    <link>https://gearnote.net/product-anker-solix-c1000-gen2-a1763</link>
+    <guid isPermaLink="true">https://gearnote.net/product-anker-solix-c1000-gen2-a1763</guid>
+    <description>Ankerのポータブル電源「Solix C1000 Gen 2 Portable Power Station」（型番A1763、ダークグレー）です。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【2026年発売】 パナソニック 扇風機 3種モード搭載(おまかせ、おやすみ、部屋干し)</title>
+    <link>https://gearnote.net/product-panasonic-living-fan-dc-f-c339d-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-living-fan-dc-f-c339d-w</guid>
+    <description>パナソニックのリビング扇風機「F-C339D-W」（ホワイト）です。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[炭酸水]サントリー 天然水 スパークリングレモン 500ml×24本 まとめ売り実施中</title>
+    <link>https://gearnote.net/product-suntory-tennensui-sparkling-lemon-500-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-suntory-tennensui-sparkling-lemon-500-24</guid>
+    <description>サントリーの「天然水 SPARKLINGレモン 500ml×24本」です。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ティファール ノンフライヤー 「赤外線ヒーティング エアフライヤー ライト」6L</title>
+    <link>https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</guid>
+    <description>ティファールの赤外線ヒーティング方式のエアフライヤー（ノンフライヤー）「ライト」です。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>パナソニック メンズ シェーバー ラムダッシュ 3枚刃 電動 髭剃り お風呂剃り ブラック</title>
     <link>https://gearnote.net/product-panasonic-lamdash-3blade-es-l322w-k</link>
@@ -328,34 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-regza-55e350s-55v-4k-lcd-tv-2026</guid>
     <description>レグザ（Regza）の55V型4K液晶テレビ、型番55E350Sです。</description>
     <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー ブラビア K-55XR80M2（55インチ・4K有機EL・BRAVIA 8 II）</title>
-    <link>https://gearnote.net/product-sony-bravia-8-ii-k-55xr80m2-55v-4k-oled-tv-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-bravia-8-ii-k-55xr80m2-55v-4k-oled-tv-2026</guid>
-    <description>ソニーの55インチ4K有機ELテレビ「ブラビア」K-55XR80M2（モデルシリーズ BRAVIA 8 II）です。</description>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ソニー WH-CH530（ミント・ワイヤレスヘッドホン）</title>
-    <link>https://gearnote.net/product-sony-wh-ch530-mint-wireless-headphones</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sony-wh-ch530-mint-wireless-headphones</guid>
-    <description>ソニーのワイヤレスヘッドホン「WH-CH530」のミントです。</description>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomi REDMI Watch 6 Active（オレンジ・BHR09CYGL）</title>
-    <link>https://gearnote.net/product-xiaomi-redmi-watch-6-active-orange</link>
-    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-redmi-watch-6-active-orange</guid>
-    <description>Xiaomiのスマートウォッチ「REDMI Watch 6 Active」のオレンジです。</description>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ダイニチ 石油ファンヒーター NCタイプ</title>
-    <link>https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4226nc-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dainichi-sekiyu-fan-heater-fw-4226nc-w</guid>
-    <description>ダイニチの石油ファンヒーター（ムーンホワイト）、型番FW-4226NC-Wです。</description>
-    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
