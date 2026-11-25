@@ -6,7 +6,28 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 24 Nov 2026 08:45:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 04:58:46 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Ankerの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-anker</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
+    <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -33,6 +54,13 @@
     <link>https://gearnote.net/category-care</link>
     <guid isPermaLink="true">https://gearnote.net/category-care</guid>
     <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -99,6 +127,13 @@
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ティファールの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tfal</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tfal</guid>
+    <description>ティファール製品の特徴、フライパン・電気ケトル・圧力鍋の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>COSORI ノンフライヤー 4.7Lの仕様｜寸法・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-cosori-air-fryer-47l</link>
     <guid isPermaLink="true">https://gearnote.net/product-cosori-air-fryer-47l</guid>
@@ -141,10 +176,31 @@
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>サントリーの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-suntory</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-suntory</guid>
+    <description>サントリー製品の特徴、水・お茶・機能性飲料の選び方、こんな人におすすめする理由をまとめて紹介。掲載16商品の仕様を一覧で確認できます。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>コイズミ 小型炊飯器 ライスクッカー ミニの仕様｜サイズ・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-koizumi-mini-rice-cooker</link>
     <guid isPermaLink="true">https://gearnote.net/product-koizumi-mini-rice-cooker</guid>
     <description>コイズミ 小型 炊飯器 ライスクッカー ミニ 0.5~1.5合 KSC-1514/Wの仕様。サイズ・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>炭酸・エナジー・スポーツドリンクの比較表（掲載27商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-soda-sports-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-soda-sports-drinks</guid>
+    <description>GEARNOTEに登録している炭酸・エナジー・スポーツドリンクの27商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>調理家電の比較表（掲載72商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cooking-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
+    <description>GEARNOTEに登録している調理家電の72商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -299,62 +355,6 @@
     <link>https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp</link>
     <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp</guid>
     <description>バルミューダ ザ・トースター プロ 2026年モデル KTT03JPの仕様。寸法・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルミューダ ザ・トースター プロ 2026年モデル ホワイト KTT03JP-WHの仕様｜寸法・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp-wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp-wh</guid>
-    <description>バルミューダ ザ・トースター プロ 2026年モデル ホワイト KTT03JP-WHの仕様。寸法・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック 圧力IH炊飯器 5合 SR-CR10Z1-W（ホワイト・Amazon.co.jp限定モデル）の仕様｜寸法・質量｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-rice-cooker-sr-cr10z1-w-amazon-model</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-rice-cooker-sr-cr10z1-w-amazon-model</guid>
-    <description>パナソニック 圧力IH炊飯器 5合 SR-CR10Z1-W（ホワイト・Amazon.co.jp限定モデル）の仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SanDisk Extreme PRO ポータブルSSD E83 2TB（USB4・SDSSDE83-2T00-G25）の仕様｜寸法・重量｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sandisk-extreme-pro-portable-ssd-e83-2tb-sdssde83</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sandisk-extreme-pro-portable-ssd-e83-2tb-sdssde83</guid>
-    <description>SanDisk Extreme PRO ポータブルSSD E83 2TB（USB4・SDSSDE83-2T00-G25）の仕様。寸法・重量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック 可変圧力IHジャー炊飯器 Bistro 5.5合 SR-X710E-H（ライトグレージュ）の仕様｜寸法・質量｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-bistro-pressure-ih-rice-cooker-sr-x710e-h</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-bistro-pressure-ih-rice-cooker-sr-x710e-h</guid>
-    <description>パナソニック 可変圧力IHジャー炊飯器 Bistro 5.5合 SR-X710E-H（ライトグレージュ）の仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>BRUNO ガラスエアフライヤー BOE122-GRG（グレージュ・スパイスミル ブラックセット）の仕様｜サイズ・重量｜GEARNOTE</title>
-    <link>https://gearnote.net/product-bruno-glass-air-fryer-boe122-grg-spice-mill-set</link>
-    <guid isPermaLink="true">https://gearnote.net/product-bruno-glass-air-fryer-boe122-grg-spice-mill-set</guid>
-    <description>BRUNO ガラスエアフライヤー BOE122-GRG（グレージュ・スパイスミル ブラックセット）の仕様。サイズ・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キオクシア ポータブルSSD 1TB SSD-PKP1.0U3G2BR（Amazon限定）の仕様｜寸法・質量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kioxia-portable-ssd-1tb-ssd-pkp1-0u3g2br-amazon</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kioxia-portable-ssd-1tb-ssd-pkp1-0u3g2br-amazon</guid>
-    <description>キオクシア ポータブルSSD 1TB SSD-PKP1.0U3G2BR（Amazon限定）の仕様。寸法・質量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラックの仕様｜サイズ・質量・定格電圧・周波数（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tiger-pressure-ih-rice-cooker-1sho-jpv-x180-ko</guid>
-    <description>タイガー 圧力IH炊飯器 一升炊き JPV-X180KO オフブラックの仕様。サイズ・質量・定格電圧・周波数はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>タイガー 圧力IH炊飯器 5.5合 JPV-X100WO オフホワイトの仕様｜サイズ・質量・定格電圧・周波数（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tiger-pressure-ih-rice-cooker-55go-jpv-x100-wo</guid>
-    <description>タイガー 圧力IH炊飯器 5.5合 JPV-X100WO オフホワイトの仕様。サイズ・質量・定格電圧・周波数はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
