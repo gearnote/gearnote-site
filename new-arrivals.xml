@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 25 Nov 2026 04:59:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 08:39:14 +0000</lastBuildDate>
+  <item>
+    <title>パナソニック 衣類スチーマー スチーム専用 大容量タイプ ミッドナイトブラック</title>
+    <link>https://gearnote.net/product-panasonic-clothes-steamer-ni-gs420-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-clothes-steamer-ni-gs420-k</guid>
+    <description>パナソニックのスチーム専用の衣類スチーマー「NI-GS420-K」（ミッドナイトブラック）です。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ホットカーペット フローリングタイプ かんたん床暖~2畳相当 ブラウン</title>
+    <link>https://gearnote.net/product-panasonic-hot-carpet-flooring-2jo-dc-2v5-mt</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-hot-carpet-flooring-2jo-dc-2v5-mt</guid>
+    <description>パナソニックのフローリングタイプのホットカーペット「かんたん床暖」2畳相当「DC-2V5-MT」（ブラウン）です。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック トースター オーブントースター 4枚焼き コンパクト NT-D500-K</title>
+    <link>https://gearnote.net/product-panasonic-oven-toaster-nt-d500-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-oven-toaster-nt-d500-k</guid>
+    <description>パナソニックのオーブントースター「NT-D500-K」（ブラック）です。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タニタ 温湿度計 大画面 一目で室内環境がわかる 時計 カレンダー 温度 湿度 デジタル</title>
+    <link>https://gearnote.net/product-tanita-digital-thermo-hygrometer-tt-559-gy</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tanita-digital-thermo-hygrometer-tt-559-gy</guid>
+    <description>タニタのデジタル温湿度計「TT-559」（グレー）です。メーカーの製品ページでは、測定範囲は温度-5.0〜50.0℃・湿度20〜95%、最小表示は0.1℃・1%、表示周期は20秒毎と記載されています。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>【Amazon Alexa 認定取得】 TP-Link ネットワークWi-Fiカメラ</title>
+    <link>https://gearnote.net/product-tapo-c200-pan-tilt-wifi-camera</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tapo-c200-pan-tilt-wifi-camera</guid>
+    <description>TP-LinkのTapoシリーズの屋内用パンチルト ネットワークWi-Fiカメラ「Tapo C200」です。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>Anker ポータブル電源 大容量 1024Wh Solix C1000 Gen 2</title>
     <link>https://gearnote.net/product-anker-solix-c1000-gen2-a1763</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-dainichi-hybrid-humidifier-hd-lxc1200e-w-lxc-type</guid>
     <description>ダイニチのハイブリッド式加湿器「LXCタイプ」HD-LXC1200E-W（スノーホワイト）です。</description>
     <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>DJI Osmo 360 II エッセンシャルコンボ（8K 360度カメラ）</title>
-    <link>https://gearnote.net/product-dji-osmo-360-ii-essential-combo-8k-360-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dji-osmo-360-ii-essential-combo-8k-360-camera</guid>
-    <description>DJIの360度カメラ「Osmo 360 II」のエッセンシャルコンボです。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>トヨトミ 石油ストーブ ダブルクリーン RC-NW36(C)（アイボリー）</title>
-    <link>https://gearnote.net/product-toyotomi-double-clean-kerosene-stove-rc-nw36-c-ivory</link>
-    <guid isPermaLink="true">https://gearnote.net/product-toyotomi-double-clean-kerosene-stove-rc-nw36-c-ivory</guid>
-    <description>トヨトミの反射形石油ストーブ「ダブルクリーン」RC-NW36(C)（アイボリー）です。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 炊飯器 炎舞炊き NX-AB18-WZ（1升・白）</title>
-    <link>https://gearnote.net/product-zojirushi-rice-cooker-nx-ab18-wz-enbu-1sho</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nx-ab18-wz-enbu-1sho</guid>
-    <description>象印の圧力IH炊飯ジャー「炎舞炊き」NX-AB型の1升炊きNX-AB18、白（WZ）です。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック ドライヤー イオニティ EH-NE5P-A（アイスブルー・1200W）</title>
-    <link>https://gearnote.net/product-panasonic-ionity-dryer-eh-ne5p-a-ice-blue</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-ionity-dryer-eh-ne5p-a-ice-blue</guid>
-    <description>パナソニックのヘアドライヤー「イオニティ」EH-NE5P-A（アイスブルー）です。</description>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>レグザ 55E350S（55V型・4K液晶テレビ・2026年モデル）</title>
-    <link>https://gearnote.net/product-regza-55e350s-55v-4k-lcd-tv-2026</link>
-    <guid isPermaLink="true">https://gearnote.net/product-regza-55e350s-55v-4k-lcd-tv-2026</guid>
-    <description>レグザ（Regza）の55V型4K液晶テレビ、型番55E350Sです。</description>
-    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

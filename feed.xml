@@ -6,7 +6,140 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 25 Nov 2026 04:58:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 08:38:45 +0000</lastBuildDate>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-daily</link>
+    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
+    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-baby</link>
+    <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
+    <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>おもちゃの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
+    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-sports</link>
+    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
+    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-car</link>
+    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
+    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-kitchen</link>
+    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
+    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>レコルト プレスサンドメーカー ミニ RPS-3の仕様｜サイズ・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-recolte-press-sand-maker-rps3</link>
+    <guid isPermaLink="true">https://gearnote.net/product-recolte-press-sand-maker-rps3</guid>
+    <description>レコルト プレスサンドメーカー ミニ RPS-3の仕様。サイズ・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。recolte レコルト プレスサンドメーカー ミニ ホットサンドメーカー 電気式 1枚用 耳まで焼ける RPS-3(BL)の特徴を整理。耳圧着やノンスティックコーティング、メリット・デメリットをまとめました。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>訂正・確認ログ｜メーカー公式と食い違っていた記載を直した記録｜GEARNOTE</title>
+    <link>https://gearnote.net/corrections-log</link>
+    <guid isPermaLink="true">https://gearnote.net/corrections-log</guid>
+    <description>GEARNOTEの商品ページの記載を、メーカー公式ページと照合し直して見つけた食い違いと、直した内容を、確認日つきで公開します。表はCSVでも使えます。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Tapo C200 の仕様｜視野角・ナイトビジョン距離（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tapo-c200-pan-tilt-wifi-camera</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tapo-c200-pan-tilt-wifi-camera</guid>
+    <description>TP-Link Tapo C200の仕様。メーカーページでは最大解像度1080p、視野角88.3°（対角）、ナイトビジョンは850nm IR LEDで最長12m、撮影範囲は水平360°・垂直114°と記載があります（確認日 2026-11-25）。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック オーブントースター NT-D500-K の仕様｜質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-oven-toaster-nt-d500-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-oven-toaster-nt-d500-k</guid>
+    <description>パナソニック オーブントースター NT-D500-Kの仕様。メーカーページでは消費電力1200W、本体質量約3.5kg、トースト4枚、火力5段階切換と記載があります（確認日 2026-11-25）。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック 衣類スチーマー NI-GS420-K の仕様｜注水量・質量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-clothes-steamer-ni-gs420-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-clothes-steamer-ni-gs420-k</guid>
+    <description>パナソニック 衣類スチーマー NI-GS420-Kの仕様。メーカーページでは注水量約160mL、本体質量約950g、スチーム量平均約18g/分、連続約8分と記載があります（確認日 2026-11-25）。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック かんたん床暖 2畳相当 DC-2V5-MT の仕様｜消費電力・質量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-hot-carpet-flooring-2jo-dc-2v5-mt</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-hot-carpet-flooring-2jo-dc-2v5-mt</guid>
+    <description>パナソニック かんたん床暖 2畳相当 DC-2V5-MTの仕様。メーカーページでは定格700W、質量約7.8kg、本体寸法約176×176cm・厚み1.2cmと記載があります（確認日 2026-11-25）。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>タニタ デジタル温湿度計 TT-559 GY の仕様｜測定範囲・精度（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tanita-digital-thermo-hygrometer-tt-559-gy</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tanita-digital-thermo-hygrometer-tt-559-gy</guid>
+    <description>タニタ デジタル温湿度計 TT-559 GYの仕様。メーカーページでは測定範囲 温度-5.0〜50.0℃・湿度20〜95%、表示周期20秒毎、本体質量約168g（電池含む）と記載があります（確認日 2026-11-25）。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -29,87 +162,10 @@
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-audio</link>
-    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
-    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>美容・健康の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-beauty</link>
-    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
-    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-daily</link>
-    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
-    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>介護用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-care</link>
-    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
-    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>飲料の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-drinks</link>
     <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
     <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活家電の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-home</link>
-    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
-    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
-    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>おもちゃの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-toys</link>
-    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
-    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ファッションの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-fashion</link>
-    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
-    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-sports</link>
-    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
-    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-car</link>
-    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
-    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キッチン用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-kitchen</link>
-    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
-    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -299,62 +355,6 @@
     <link>https://gearnote.net/product-samsung-t7-portable-ssd-1tb</link>
     <guid isPermaLink="true">https://gearnote.net/product-samsung-t7-portable-ssd-1tb</guid>
     <description>Samsung T7 ポータブルSSD 1TBの仕様。寸法・容量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-01）。Samsung T7 ポータブルSSD 1TB（1TB・最大1,050MB/秒・USB 3.2 Gen 2）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Kingston XS1000 ポータブルSSD 1TBの仕様｜寸法・重量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-kingston-xs1000-portable-ssd-1tb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-kingston-xs1000-portable-ssd-1tb</guid>
-    <description>Kingston XS1000 ポータブルSSD 1TBの仕様。寸法・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。Kingston XS1000 ポータブルSSD 1TB（USB 3.2 Gen 2・読出最大1050MB/秒・5年保証）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>外付けSSD・HDD・メモリーカードの選び方ガイド｜容量・転送速度・規格の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-external-storage</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-external-storage</guid>
-    <description>ポータブルSSD、外付けHDD、内蔵SSD、microSD・SDカードの違いと、容量・インターフェース規格・読み書き速度・耐衝撃・対応機器など、ストレージ製品のスペック表の見方を用途別に解説します。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 圧力IH炊飯器 極め炊き NW-YB10AM-WAの仕様｜寸法・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-yb10am-wa</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-yb10am-wa</guid>
-    <description>象印 圧力IH炊飯器 極め炊き NW-YB10AM-WAの仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SanDisk エクストリーム ポータブルSSD 1TB SDSSDE70-1T00-G25の仕様｜サイズ・重量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-sandisk-extreme-portable-ssd-e70-1tb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-sandisk-extreme-portable-ssd-e70-1tb</guid>
-    <description>SanDisk エクストリーム ポータブルSSD 1TB SDSSDE70-1T00-G25の仕様。サイズ・重量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>東芝 炊飯器 5.5合 圧力IH RC-10FPW(H) アッシュグレージュの仕様｜寸法・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-toshiba-rice-cooker-rc-10fpw-pressure-ih-55go</link>
-    <guid isPermaLink="true">https://gearnote.net/product-toshiba-rice-cooker-rc-10fpw-pressure-ih-55go</guid>
-    <description>東芝 炊飯器 5.5合 圧力IH RC-10FPW(H) アッシュグレージュの仕様。寸法・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルミューダ ザ・トースター 2026年モデル ブラック KTT02JP-BKの仕様｜寸法・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-bk</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-bk</guid>
-    <description>バルミューダ ザ・トースター 2026年モデル ブラック KTT02JP-BKの仕様。寸法・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルミューダ ザ・トースター 2026年モデル ホワイト KTT02JP-WHの仕様｜寸法・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-wh</guid>
-    <description>バルミューダ ザ・トースター 2026年モデル ホワイト KTT02JP-WHの仕様。寸法・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルミューダ ザ・トースター プロ 2026年モデル KTT03JPの仕様｜寸法・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp</guid>
-    <description>バルミューダ ザ・トースター プロ 2026年モデル KTT03JPの仕様。寸法・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

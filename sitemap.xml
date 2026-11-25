@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-panasonic</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4407,7 +4407,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-kitchen-appliances</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4472,7 +4472,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-smart-home-devices</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4562,7 +4562,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-tapo</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -19077,7 +19077,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -26519,6 +26519,31 @@
   <url>
     <loc>https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</loc>
     <lastmod>2026-11-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-tapo-c200-pan-tilt-wifi-camera</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-panasonic-oven-toaster-nt-d500-k</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-panasonic-clothes-steamer-ni-gs420-k</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-panasonic-hot-carpet-flooring-2jo-dc-2v5-mt</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-tanita-digital-thermo-hygrometer-tt-559-gy</loc>
+    <lastmod>2026-11-25</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
