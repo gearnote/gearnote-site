@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 25 Nov 2026 08:38:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 06:44:09 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Panasonicの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-panasonic</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
+    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -92,10 +106,38 @@
     <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>キッチン家電の比較表（掲載36商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-kitchen-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-kitchen-appliances</guid>
+    <description>GEARNOTEに登録しているキッチン家電の36商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートホームデバイスの比較表（掲載55商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smart-home-devices</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smart-home-devices</guid>
+    <description>GEARNOTEに登録しているスマートホームデバイスの55商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>TP-Link Tapo の商品一覧｜ブランド特集｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-tapo</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-tapo</guid>
+    <description>TP-Link Tapo（タポ）の特徴、スマートハブ・見守りカメラ・スマートプラグまで揃う手軽に導入できるスマートホームブランドとしての強み、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>レコルト プレスサンドメーカー ミニ RPS-3の仕様｜サイズ・重量・消費電力（メーカー公開情報）｜GEARNOTE</title>
     <link>https://gearnote.net/product-recolte-press-sand-maker-rps3</link>
     <guid isPermaLink="true">https://gearnote.net/product-recolte-press-sand-maker-rps3</guid>
     <description>レコルト プレスサンドメーカー ミニ RPS-3の仕様。サイズ・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-17）。recolte レコルト プレスサンドメーカー ミニ ホットサンドメーカー 電気式 1枚用 耳まで焼ける RPS-3(BL)の特徴を整理。耳圧着やノンスティックコーティング、メリット・デメリットをまとめました。</description>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
     <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -141,24 +183,10 @@
     <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>全商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/all-products</link>
-    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
-    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>Ankerの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/brand-anker</link>
     <guid isPermaLink="true">https://gearnote.net/brand-anker</guid>
     <description>Anker製品の特徴、モバイルバッテリー・充電器・Bluetoothスピーカーの選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Panasonicの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-panasonic</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-panasonic</guid>
-    <description>Panasonic製品の特徴、シェーバー・ドライヤー・電池の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/product-ninja-mini-air-fryer-af080j</link>
     <guid isPermaLink="true">https://gearnote.net/product-ninja-mini-air-fryer-af080j</guid>
     <description>Ninja ミニエアフライヤー AF080JNRの仕様。サイズ・重量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。Ninja ミニエアフライヤー AF080JNR（ダイヤル式の小型エアフライヤー）の特徴を整理。コンパクトなサイズ、操作方法、仕様と注意点をまとめました。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>炊飯器の選び方ガイド｜IH・圧力IH・マイコン式と合数の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-rice-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-rice-cooker</guid>
-    <description>炊飯器の加熱方式（マイコン式・IH式・圧力IH式）、内釜の素材と厚み、炊飯容量（合数）、保温やお手入れの見方を、人数や使い方別の考え方とあわせて解説します。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>暖房器具の選び方ガイド｜方式別の特徴と安全面の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-heater</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-heater</guid>
-    <description>セラミックファンヒーター・オイルヒーター・電気毛布・ホットカーペットなど電気式暖房器具の方式別の特徴、消費電力や適用畳数の見方、使うときの安全面を解説します。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電気ケトルの選び方ガイド｜容量・温度調節・素材・安全機能の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-electric-kettle</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-electric-kettle</guid>
-    <description>電気ケトルの容量、温度調節・保温機能、素材（樹脂・ステンレス）、蒸気レス構造、転倒お湯もれ防止などの安全機能、電気ポットとの違いを、仕様表の見方と使う場面別にわかりやすく解説します。</description>
-    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Samsung T7 ポータブルSSD 1TBの仕様｜寸法・容量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-samsung-t7-portable-ssd-1tb</link>
-    <guid isPermaLink="true">https://gearnote.net/product-samsung-t7-portable-ssd-1tb</guid>
-    <description>Samsung T7 ポータブルSSD 1TBの仕様。寸法・容量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-11-01）。Samsung T7 ポータブルSSD 1TB（1TB・最大1,050MB/秒・USB 3.2 Gen 2）の特徴を整理。仕様、選び方、注意点をまとめました。</description>
     <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
