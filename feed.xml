@@ -6,7 +6,28 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 26 Nov 2026 08:44:15 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 15:02:08 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomiの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-xiaomi</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
+    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -40,6 +61,13 @@
     <link>https://gearnote.net/category-care</link>
     <guid isPermaLink="true">https://gearnote.net/category-care</guid>
     <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>飲料の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
+    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -92,10 +120,31 @@
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>伊藤園の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-itoen</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-itoen</guid>
+    <description>伊藤園製品の特徴、お茶の種類・効能別の選び方、こんな人におすすめする理由をまとめて紹介。掲載16商品の仕様を一覧で確認できます。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>お茶・健康茶の比較表（掲載47商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-tea-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-tea-drinks</guid>
+    <description>GEARNOTEに登録しているお茶・健康茶の47商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>テレビ・ストリーミング機器の比較表（掲載19商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-tv-streaming</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-tv-streaming</guid>
+    <description>GEARNOTEに登録しているテレビ・ストリーミング機器の19商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Amazonブラックフライデー特集｜GEARNOTE</title>
     <link>https://gearnote.net/feature-black-friday-202611</link>
     <guid isPermaLink="true">https://gearnote.net/feature-black-friday-202611</guid>
-    <description>Amazon「ブラックフライデー」2026のお買い物対象期間は、2026年11月27日(金)0:00〜12月7日(月)23:59（Amazonのキャンペーンページの案内）。過去の開催日、セール前にやっておく準備、ジャンル別のチェックスペックと、GEARNOTEが仕様でピックアップした家電・ガジェット・美容・日用品を紹介します。</description>
+    <description>Amazon「ブラックフライデー」が開催中です（お買い物対象期間：2026年11月27日(金)0:00〜12月7日(月)23:59）。ジャンル別のチェックスペックと、GEARNOTEが仕様でピックアップした家電・ガジェット・美容・日用品を紹介します。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -173,6 +222,13 @@
     <link>https://gearnote.net/guide-pressure-cooker</link>
     <guid isPermaLink="true">https://gearnote.net/guide-pressure-cooker</guid>
     <description>電気圧力鍋と自動調理鍋、ホットプレートの違い、満水容量と調理容量の表記、調理モードとメニュー数、プレートの種類と温度設定、サイズと重量、お手入れといった仕様表の見方を、当サイト掲載のパナソニック・ティファール・シロカ・象印・山善などの記載値とあわせて解説します。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -299,62 +355,6 @@
     <link>https://gearnote.net/guide-backpack</link>
     <guid isPermaLink="true">https://gearnote.net/guide-backpack</guid>
     <description>通勤用のビジネスリュック、小型のデイパック、2WAY、登山・スポーツ向けの大容量バックパックの違い、容量（L）・外寸・重量・PC/A4/B4収納・気室・撥水加工・背面長といった項目の見方を、当サイト掲載のPORTER・ace.GENE・Kanana project・Karrimor・Columbia・New Balanceなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>工具箱・コンテナボックスの選び方ガイド｜外形寸法・有効内寸・質量・積載荷重・折りたたみ高さの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-toolbox-container</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-toolbox-container</guid>
-    <description>スチール製の工具箱、樹脂製のハードケース、ツールバッグ、折りたたみコンテナ、ボックス型コンテナの違いと、外形寸法・有効内寸・質量・最大積載荷重・折りたたみ高さ・南京錠の取付可否といった仕様表の見方を、当サイト掲載のトラスコ中山・リス・松本産業の記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>水栓・シャワーホース・排水まわりの交換部品の選び方ガイド｜ねじ規格・取付穴径・適合サイズ・使用水圧の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-water-parts</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-water-parts</guid>
-    <description>水栓本体、泡沫器、シャワーホース、シャワーヘッド、ロータンクのボールタップ、洗濯機の給水ホースや排水トラップ、排水口まわりの部品を選ぶときの、ねじ規格（M22×1.25・G1/2）、取付穴径、適合サイズ、使用水圧と温度の見方を、当サイトに掲載しているSANEI（サンエイ）の記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>哺乳びん・消毒ケース・調乳用品の選び方ガイド｜素材・容量・乳首サイズ・消毒方法の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-baby-bottle</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-baby-bottle</guid>
-    <description>哺乳びんのプラスチック製とガラス製の違い、容量、乳首のサイズ展開、電子レンジ消毒ケースとスチーム除菌・乾燥器の仕様、哺乳瓶ブラシ、調乳ポット、母乳フリーザーパックの見方を、当サイト掲載のピジョン・コンビ・NUK・レックなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>登山・トレッキング用品の選び方ガイド｜ポール・レインウェア・ヘッドランプ・浄水器・アイゼン・ドライバッグの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-trekking-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-trekking-gear</guid>
-    <description>トレッキングポールの長さと収納サイズ、レインウェアの耐水圧と透湿性、ヘッドランプのルーメンと点灯時間、携帯浄水器の方式、アイゼンの爪の本数、ドライバッグの容量といった項目の見方を、当サイト掲載のミズノ・モンベル・PETZL・カリマー・コールマンなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>自転車用品の選び方ガイド｜ライト・ヘルメット・鍵・携帯工具・チェーンメンテナンス・サイクルコンピューターの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-bicycle-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-bicycle-gear</guid>
-    <description>自転車用ライトのルーメンと点灯時間、ヘルメットの頭囲サイズと認証、U字ロックの内径、チューブのバルブ形式、携帯工具の六角レンチ、チェーンルブとクリーナー、サイクルコンピューターの測位方式といった項目の見方を、当サイト掲載のキャットアイ・トピーク・OGK・パナソニック・KUREなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シャワーチェア・浴槽手すり・浴槽台の選び方ガイド｜座面高さ・使用者体重・取付条件・すべり止めの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-bath-support</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-bath-support</guid>
-    <description>シャワーチェア、浴槽手すり、浴槽台、すべり止めマット、入浴用の移動いすの選び方を、座面高さ、最大使用者体重、折りたたみ寸法、取付条件、使用上の注意といった項目から解説します。当サイト掲載の山善・リッチェル・パナソニック・アロン化成・アイリスオーヤマなどのメーカー公開仕様の記載をもとにしています。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>梱包テープ・両面テープ・接着剤・段ボール箱の選び方ガイド｜テープ幅・厚さ・粘着剤・対応素材・容量の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-packing-adhesive</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-packing-adhesive</guid>
-    <description>梱包用のOPPテープとカートンテープ、セロテープやメンディングテープ、両面テープ、木工用ボンドや液体のり、段ボール箱の容量、カッター・はさみ・テープカッター・針なしステープラー・ラベルシールの見方を、当サイト掲載のニチバン・ニトムズ・3M・コクヨ・アイリスオーヤマなどのメーカー公開仕様の記載をもとに解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビーカー・抱っこ紐・チャイルドシートの選び方ガイド｜対象月齢・体重・身長・固定方式・サイズ・重量の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-baby-outing-gear</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-baby-outing-gear</guid>
-    <description>ベビーカー、抱っこ紐、ベビースリング、ヒップシート、チャイルドシート、ジュニアシートと、レインカバーやフットマフなどの周辺用品の仕様の見方を、対象月齢・体重・身長の条件、固定方式、折りたたみサイズ、重量などの項目から解説します。当サイト掲載のコンビ・アップリカ・エルゴベビーなどのメーカー記載値を使っています。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
