@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Thu, 26 Nov 2026 07:45:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 08:44:49 +0000</lastBuildDate>
+  <item>
+    <title>アイリスオーヤマ 乾電池式 LED人感センサーライト 防水仕様 明るさ400ルーメン</title>
+    <link>https://gearnote.net/product-iris-ohyama-battery-sensor-light-lsl-b1sn-400</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-battery-sensor-light-lsl-b1sn-400</guid>
+    <description>アイリスオーヤマの乾電池式LED防犯センサーライト「LSL-B1SN-400」（パールホワイト、1灯式）です。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>伊藤園 健康ミネラルむぎ茶 黒豆麦茶 650ml×24本 ペットボトル</title>
+    <link>https://gearnote.net/product-itoen-kenko-mineral-mugicha-kuromame-650-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-itoen-kenko-mineral-mugicha-kuromame-650-24</guid>
+    <description>伊藤園の「健康ミネラルむぎ茶 黒豆麦茶」650mlペットボトルの24本入りです。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日東紅茶 デイ&amp;デイティーバッグ 50袋入り</title>
+    <link>https://gearnote.net/product-nitto-koucha-day-and-day-teabag-50</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nitto-koucha-day-and-day-teabag-50</guid>
+    <description>三井農林の日東紅茶「デイ＆デイ ティーバッグ」の50袋入りです。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[サーモス] 保冷ビッグトートバッグ 36L オールブラック RFQ-036 ALB</title>
+    <link>https://gearnote.net/product-thermos-cooler-big-tote-36l-rfq-036-alb</link>
+    <guid isPermaLink="true">https://gearnote.net/product-thermos-cooler-big-tote-36l-rfq-036-alb</guid>
+    <description>サーモスの保冷ビッグトートバッグ「RFQ-036」（オールブラック）です。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Xiaomi 43インチ テレビ A Pro 43 チューナーレス 4K QLED</title>
+    <link>https://gearnote.net/product-xiaomi-tv-a-pro-43-2026-4k-qled</link>
+    <guid isPermaLink="true">https://gearnote.net/product-xiaomi-tv-a-pro-43-2026-4k-qled</guid>
+    <description>Xiaomiの43インチ4Kテレビ「Xiaomi TV A Pro 43 2026」です。</description>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>パナソニック 衣類スチーマー スチーム専用 大容量タイプ ミッドナイトブラック</title>
     <link>https://gearnote.net/product-panasonic-clothes-steamer-ni-gs420-k</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-pro-2026-ktt03jp-wh</guid>
     <description>BALMUDA The Toaster Pro（2026年モデル）です。</description>
     <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>バルミューダ ザ・トースター 2026年モデル ホワイト KTT02JP-WH</title>
-    <link>https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-wh</link>
-    <guid isPermaLink="true">https://gearnote.net/product-balmuda-the-toaster-2026-ktt02jp-wh</guid>
-    <description>BALMUDA The Toaster（2026年モデル）のホワイト、KTT02JP-WHです。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 炊飯器 豪熱大火力 NW-MC07-BZ（4合・黒）</title>
-    <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-mc07-bz-goune-4go</guid>
-    <description>象印マホービンの圧力IH炊飯器「豪熱大火力」シリーズの4合炊き、NW-MC07-BZ（黒）です。</description>
-    <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>象印 炊飯器 炎舞炊き NW-UU07-WZ（4合・白）</title>
-    <link>https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</link>
-    <guid isPermaLink="true">https://gearnote.net/product-zojirushi-rice-cooker-nw-uu07-wz-enbu-4go</guid>
-    <description>象印マホービンの圧力IH炊飯器「炎舞炊き」の4合炊き、NW-UU07-WZ（白）です。</description>
-    <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Anker Nano Power Bank (MagGo, Plus) 10000mAh</title>
-    <link>https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-orange</link>
-    <guid isPermaLink="true">https://gearnote.net/product-anker-nano-power-bank-maggo-plus-10000mah-orange</guid>
-    <description>Ankerのマグネット式ワイヤレス充電（Qi2）対応モバイルバッテリー「Nano Power Bank (MagGo, Plus)」のオレンジです。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ダイニチ ハイブリッド式加湿器 HD-LXC1200E-W（LXCタイプ・スノーホワイト）</title>
-    <link>https://gearnote.net/product-dainichi-hybrid-humidifier-hd-lxc1200e-w-lxc-type</link>
-    <guid isPermaLink="true">https://gearnote.net/product-dainichi-hybrid-humidifier-hd-lxc1200e-w-lxc-type</guid>
-    <description>ダイニチのハイブリッド式加湿器「LXCタイプ」HD-LXC1200E-W（スノーホワイト）です。</description>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>

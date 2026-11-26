@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-iris-ohyama</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -127,7 +127,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-xiaomi</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -172,7 +172,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-drinks</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -197,7 +197,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -3817,7 +3817,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-itoen</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4317,7 +4317,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-tea-drinks</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4482,7 +4482,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-tv-streaming</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -19077,7 +19077,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -26544,6 +26544,31 @@
   <url>
     <loc>https://gearnote.net/product-tanita-digital-thermo-hygrometer-tt-559-gy</loc>
     <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-xiaomi-tv-a-pro-43-2026-4k-qled</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-ohyama-battery-sensor-light-lsl-b1sn-400</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-thermos-cooler-big-tote-36l-rfq-036-alb</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-itoen-kenko-mineral-mugicha-kuromame-650-24</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-nitto-koucha-day-and-day-teabag-50</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
