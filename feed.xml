@@ -6,7 +6,21 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 08:42:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 12:39:24 +0000</lastBuildDate>
+  <item>
+    <title>全商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/all-products</link>
+    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
+    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-iris-ohyama</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
+    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -78,6 +92,13 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>本・文房具の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-books</link>
+    <guid isPermaLink="true">https://gearnote.net/category-books</guid>
+    <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>車・バイク用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-car</link>
     <guid isPermaLink="true">https://gearnote.net/category-car</guid>
@@ -92,6 +113,20 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>文房具の比較表（掲載23商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-stationery</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-stationery</guid>
+    <description>GEARNOTEに登録している文房具の23商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>調理家電の比較表（掲載73商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-cooking-appliances</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-cooking-appliances</guid>
+    <description>GEARNOTEに登録している調理家電の73商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Amazonブラックフライデー特集｜GEARNOTE</title>
     <link>https://gearnote.net/feature-black-friday-202611</link>
     <guid isPermaLink="true">https://gearnote.net/feature-black-friday-202611</guid>
@@ -103,6 +138,27 @@
     <link>https://gearnote.net/features</link>
     <guid isPermaLink="true">https://gearnote.net/features</guid>
     <description>GEARNOTEの特集ページ一覧。季節や用途ごとに、掲載商品を選び方のポイントと注意点つきでまとめたページを掲載しています。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Brotherの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/brand-brother</link>
+    <guid isPermaLink="true">https://gearnote.net/brand-brother</guid>
+    <description>ブラザー工業(Brother Industries)のプリンター・インクカートリッジの特徴と選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>新着商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/new-arrivals</link>
+    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
+    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>炊飯器の診断クイズ｜あなたの家に合うタイプは？｜GEARNOTE</title>
+    <link>https://gearnote.net/quiz-rice-cooker</link>
+    <guid isPermaLink="true">https://gearnote.net/quiz-rice-cooker</guid>
+    <description>家族の人数と重視する点を選ぶだけで、向いている炊飯器のタイプ（コンパクト・マイコン式・圧力IH）の目安がわかります。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -195,20 +251,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-abrasus-chiisai-saifu-black</guid>
     <description>アブラサス（abrAsus）小さい財布の仕様。メーカーページではサイズ縦約60mm×横約90mm×厚約10mm（未収納時）、重さ約32g、素材は天然牛革エンボス加工と記載があります（確認日 2026-11-27）。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>全商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/all-products</link>
-    <guid isPermaLink="true">https://gearnote.net/all-products</guid>
-    <description>GEARNOTEに掲載している全商品をジャンル別に一覧表示。ガジェット・生活家電・美容・食品・ペット用品まで、特徴をもとに厳選したアイテムをまとめて検索できます。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-iris-ohyama</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-iris-ohyama</guid>
-    <description>アイリスオーヤマ製品の特徴、生活家電・キッチン家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
     <title>Xiaomiの商品一覧｜GEARNOTE</title>
@@ -313,48 +355,6 @@
     <link>https://gearnote.net/guide-action-camera</link>
     <guid isPermaLink="true">https://gearnote.net/guide-action-camera</guid>
     <description>アクションカメラと360度カメラの違い、解像度とフレームレート、センサーサイズ、手ブレ補正、防水表記の条件、バッテリーと記録メディアといった仕様表の見方を、当サイト掲載のDJI Osmo・GoPro・Insta360の記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電気圧力鍋・ホットプレートの選び方ガイド｜容量・調理モード・サイズ・お手入れの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-pressure-cooker</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-pressure-cooker</guid>
-    <description>電気圧力鍋と自動調理鍋、ホットプレートの違い、満水容量と調理容量の表記、調理モードとメニュー数、プレートの種類と温度設定、サイズと重量、お手入れといった仕様表の見方を、当サイト掲載のパナソニック・ティファール・シロカ・象印・山善などの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>新着商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/new-arrivals</link>
-    <guid isPermaLink="true">https://gearnote.net/new-arrivals</guid>
-    <description>GEARNOTEに最近追加した商品を、追加日ごとに新しい順で紹介します。仕様は各商品ページで確認でき、新着商品からも探せます。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shokz OpenRunとOpenRun Air 2の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-shokz-openrun-vs-openrun-air-2</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-shokz-openrun-vs-openrun-air-2</guid>
-    <description>Shokz OpenRunとOpenRun Air 2の違いを、再生時間・急速充電・Bluetooth・サウンド技術の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Apple Watch Series 11とApple Watch Ultra 3の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-apple-watch-series-11-vs-ultra-3</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-apple-watch-series-11-vs-ultra-3</guid>
-    <description>Apple Watch Series 11とApple Watch Ultra 3の違いを、ケース素材・耐水性能・バッテリー・衛星通信の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>PORTERの長財布 カレント・ワンダー・タクティカル・ドローイングの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-porter-long-wallet-current-vs-wonder-vs-tactical-vs-drawing</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-porter-long-wallet-current-vs-wonder-vs-tactical-vs-drawing</guid>
-    <description>PORTERの長財布 カレント・ワンダー・タクティカル・ドローイングの違いを、サイズ・重量・素材・開閉方式・カードスロットの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ホットプレートの選び方ガイド｜プレートの枚数・サイズと重さ・消費電力・温度調節・お手入れの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-hot-plate</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-hot-plate</guid>
-    <description>ホットプレートのプレートの種類（平面・焼肉・たこ焼き）と枚数、人数に合うサイズ、消費電力と温度調節の範囲、重さと収納、お手入れの条件の読み方を、当サイト掲載のパナソニック・象印・タイガー・山善・BRUNO・レコルトの記載値とあわせて解説します。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
