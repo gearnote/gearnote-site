@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 14:10:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 14:31:18 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -218,6 +218,48 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>防犯カメラの用語 PTZ・PoE・NVR・ONVIFとは｜LANケーブル給電の規格と録画機の読み方（掲載15台の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-ptz-poe-nvr</link>
+    <guid isPermaLink="true">https://gearnote.net/words-ptz-poe-nvr</guid>
+    <description>防犯カメラの仕様に出てくるPTZ・PoE（802.3af/at）・NVR・ONVIFの意味を、Ethernet Alliance・ONVIF・メーカー公式の資料で確かめました。PoEの15.4Wと13Wの違いと、掲載15台の記載つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Bluetoothのマルチポイントとは｜2台同時接続の切り替わり方・LDACとの関係（掲載イヤホン・ヘッドホンの記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-multipoint</link>
+    <guid isPermaLink="true">https://gearnote.net/words-multipoint</guid>
+    <description>イヤホン・ヘッドホンの「マルチポイント（2台同時接続）」の意味と、3台目をつないだときの動き、LDACが使えなくなる機種があることを、ソニー・Appleの公式資料で確かめました。GEARNOTE掲載20機種の記載の集計つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>コンベクション・予熱・グリルとは｜オーブンレンジ・トースターの加熱の言葉の違い（掲載商品の書き方つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-convection</link>
+    <guid isPermaLink="true">https://gearnote.net/words-convection</guid>
+    <description>オーブンレンジやトースターの「コンベクション」「予熱」「グリル」が何を指すかを、パナソニック・日立・BRUNOの公式資料と取扱説明書で確かめました。予熱の時間の目安と、GEARNOTE掲載のトースター・ノンフライヤー・オーブンレンジの書き方つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>真空断熱・真空断熱パネル（真空断熱材）とは｜魔法びんと冷蔵庫の違い、保温効力の読み方｜GEARNOTE</title>
+    <link>https://gearnote.net/words-vacuum-panel</link>
+    <guid isPermaLink="true">https://gearnote.net/words-vacuum-panel</guid>
+    <description>「真空断熱」は、魔法びんの二重構造と、冷蔵庫の真空断熱材（パネル）で指すものが違います。サーモス・パナソニック技報・三菱電機・消費者庁の資料で確かめ、保温効力の6時間・1時間の読み方と、GEARNOTE掲載12点の記載をまとめました。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>インバーターとは｜エアコン・冷蔵庫・電子レンジで意味が違う点と、50Hz/60Hzとの関係｜GEARNOTE</title>
+    <link>https://gearnote.net/words-inverter</link>
+    <guid isPermaLink="true">https://gearnote.net/words-inverter</guid>
+    <description>家電の「インバーター」は、エアコン・冷蔵庫ではモーターの回転、電子レンジでは出力を制御する仕組みとして説明されています。ダイキン・シャープ・パナソニック・日本電機工業会の資料で確かめ、50Hz/60Hzとの関係と掲載商品の記載をまとめました。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ヘルツフリー（50/60Hz共用）とは｜周波数の違う地域での家電の使い方と、共用でも数字が分かれる例｜GEARNOTE</title>
+    <link>https://gearnote.net/words-hz-free</link>
+    <guid isPermaLink="true">https://gearnote.net/words-hz-free</guid>
+    <description>「50/60Hz共用（ヘルツフリー）」の意味、50Hz・60Hzの境目、周波数の違う地域で部品交換が必要な家電の例を、中部電力・パナソニック・シャープの資料で確かめました。共用でも出力や除湿能力が周波数で分かれる、GEARNOTE掲載商品の例つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>電気ケトルの消費電力（W）と沸騰時間の読み方｜1300W・1250W・1200Wの違い、満水とカップ1杯の条件（掲載19台）｜GEARNOTE</title>
     <link>https://gearnote.net/power-electric-kettle</link>
     <guid isPermaLink="true">https://gearnote.net/power-electric-kettle</guid>
@@ -232,10 +274,24 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ポーリングレート（レポートレート）とは｜1000Hz・8000Hzの意味と、電池の持ちとの関係（掲載マウス・キーボードの記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-polling-rate</link>
+    <guid isPermaLink="true">https://gearnote.net/words-polling-rate</guid>
+    <description>マウスやキーボードの「ポーリングレート」「レポートレート」の意味と、1000Hz＝1msの関係、電池の持ちとの関係を、CORSAIRとLogicoolの公式資料で確かめました。GEARNOTE掲載12商品の記載の集計つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>Matter（マター）・Threadとは｜スマートホームの共通規格と、ボーダールーターの役割（掲載商品の記載つき）｜GEARNOTE</title>
     <link>https://gearnote.net/words-matter-thread</link>
     <guid isPermaLink="true">https://gearnote.net/words-matter-thread</guid>
     <description>スマートホーム機器の「Matter対応」「Thread」「ボーダールーター」の意味を、規格団体CSA・Thread Group・Apple・Googleの公式資料で確かめました。GEARNOTE掲載商品18件のメーカー公開情報の記載の集計つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>省エネ基準達成率・年間消費電力量とは｜統一省エネラベルの読み方と、100%の意味（掲載家電の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-energy-label</link>
+    <guid isPermaLink="true">https://gearnote.net/words-energy-label</guid>
+    <description>冷蔵庫・テレビ・炊飯器の「省エネ基準達成率」「年間消費電力量」「目標年度」の意味を、資源エネルギー庁の省エネラベルガイドブックで確かめました。GEARNOTE掲載13商品の達成率の記載と、年間消費電力量の集計つきです。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -246,116 +302,60 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Fire TV・Chromecast（Google TV）・Apple TVの違い｜OS・給電・有線LANの書き方（掲載11台）｜GEARNOTE</title>
-    <link>https://gearnote.net/diff-streaming-device-fire-google-apple</link>
-    <guid isPermaLink="true">https://gearnote.net/diff-streaming-device-fire-google-apple</guid>
-    <description>Fire TV、Chromecast・Google TV、Apple TVの違いを、Amazon・Google・Appleの公式仕様で確かめて整理しました。OS、テレビからの給電、有線LAN、HDMIケーブルの扱いを、掲載11台の集計つきでまとめています。</description>
+    <title>5ATM・10気圧防水とは｜腕時計・スマートウォッチの耐水表示の読み方と、IP68との違い（掲載53商品の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-water-resist-atm</link>
+    <guid isPermaLink="true">https://gearnote.net/words-water-resist-atm</guid>
+    <description>腕時計やスマートウォッチの「5ATM」「10気圧防水」「ISO 22810」「水深50m」の意味を、日本時計協会とAppleの公式資料で確かめました。気圧表示とm表示の違い、IP68との違い、GEARNOTE掲載53商品の書き方の集計つきです。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Apple TV 4K（第3世代）とApple TV 4K（第4世代）の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-apple-tv-4k-3rd-gen-vs-4th-gen</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-apple-tv-4k-3rd-gen-vs-4th-gen</guid>
-    <description>Apple TV 4K（第3世代）とApple TV 4K（第4世代）の違いを、チップ・Wi-FiとBluetoothの規格・容量とモデル・重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <title>ハイレゾ（Hi-Res Audio）とは｜96kHz/24bit・40kHzの意味と、ワイヤレスのハイレゾ（LDACなど）の読み方｜GEARNOTE</title>
+    <link>https://gearnote.net/words-hi-res-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/words-hi-res-audio</guid>
+    <description>イヤホン・ヘッドホンの「ハイレゾ対応」「Hi-Res認証」「ハイレゾワイヤレス」の意味を、日本オーディオ協会の公式資料で確かめました。96kHz/24bit・40kHzの条件、認証コーデック、GEARNOTE掲載11商品の記載の集計つきです。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ロジクール Webカメラ C270nの仕様｜質量・画角（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-logicool-c270n-hd-webcam</link>
-    <guid isPermaLink="true">https://gearnote.net/product-logicool-c270n-hd-webcam</guid>
-    <description>ロジクール Webカメラ C270nの仕様。メーカーページでは対角視野55°、重量75g（固定取り付けクリップ同梱）、最大解像度720p/30fpsと記載があります（確認日 2026-11-21）。</description>
+    <title>充放電サイクル・サイクル寿命とは｜「3,000回」「80%」の読み方と、リン酸鉄リチウムイオン電池（掲載15商品の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-battery-cycle-lfp</link>
+    <guid isPermaLink="true">https://gearnote.net/words-battery-cycle-lfp</guid>
+    <description>ポータブル電源やモバイルバッテリーの「サイクル寿命3,000回」「初期容量の80%」「リン酸鉄リチウムイオン電池（LFP）」の意味を、Appleと村田製作所の公式資料で確かめました。GEARNOTE掲載15商品の回数の記載の集計つきです。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>パナソニック 衣類スチーマー NI-GS200-Wの仕様｜注水量・質量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-clothes-steamer-ni-gs200-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-clothes-steamer-ni-gs200-w</guid>
-    <description>パナソニック 衣類スチーマー NI-GS200-Wの仕様。メーカーページでは質量約640g、注水量約70mL、スチーム量は平均約15g/分、連続約4分と記載があります（確認日 2026-11-21）。</description>
+    <title>画角（視野角）とfps（フレームレート）とは｜水平・垂直・対角の違いと、30fps・60fpsの読み方（掲載カメラの記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-fov-fps</link>
+    <guid isPermaLink="true">https://gearnote.net/words-fov-fps</guid>
+    <description>Webカメラ・アクションカメラ・防犯カメラ・ドライブレコーダーの「画角」「視野角」「fps」の意味を、タムロンとキヤノンの公式解説で確かめました。水平・垂直・対角の違いと、GEARNOTE掲載42商品の画角、67商品のfpsの記載の集計つきです。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>パナソニック LEDポーチライト HH-SL0012Lの仕様｜器具光束・質量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</guid>
-    <description>パナソニック LEDポーチライト（センサー付）HH-SL0012Lの仕様。メーカーページでは器具光束250lm、質量0.7kg、消費電力5.1Wと記載があります（確認日 2026-11-22）。</description>
+    <title>IPS・VA・TNとは｜液晶パネルの方式の違いと、視野角178°の読み方（掲載モニター・タブレットの記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-lcd-panel-ips-va-tn</link>
+    <guid isPermaLink="true">https://gearnote.net/words-lcd-panel-ips-va-tn</guid>
+    <description>モニター・タブレット・テレビの「IPS」「VA」「TN」の意味と、「視野角178°」「Fast IPS」の書き方を、BenQの公式解説で確かめました。GEARNOTE掲載22商品のパネル方式の記載と、モニター18台の内訳の集計つきです。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>パナソニック リビング扇風機 F-C339D-W の仕様｜消費電力・質量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-panasonic-living-fan-dc-f-c339d-w</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-living-fan-dc-f-c339d-w</guid>
-    <description>パナソニック リビング扇風機 F-C339D-Wの仕様。メーカーページでは羽根径30cm・DC・9枚羽根、消費電力22W（強）、質量3.7kgと記載があります（確認日 2026-11-24）。</description>
+    <title>適用畳数・適用床面積とは｜空気清浄機と加湿器の「〜20畳」の決め方（JEM 1467・JEM 1426）と新旧基準の読み方｜GEARNOTE</title>
+    <link>https://gearnote.net/words-tekiyo-jo</link>
+    <guid isPermaLink="true">https://gearnote.net/words-tekiyo-jo</guid>
+    <description>空気清浄機と加湿器の「適用床面積〜20畳」は、それぞれ別の規格で決められています。JEM 1467（30分で清浄できる広さ・2026年版の新基準）とJEM 1426（木造和室・プレハブ洋室）を日本電機工業会の資料で確かめ、掲載商品の書き方を集計しました。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ティファール 赤外線ヒーティング エアフライヤー ライト 6L EY820AJ0 の仕様｜容量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</link>
-    <guid isPermaLink="true">https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</guid>
-    <description>ティファール 赤外線ヒーティング エアフライヤー ライト 6L EY820AJ0の仕様。メーカーページでは容量6L、定格消費電力1,100W、本体重量約3.5kgと記載があります（確認日 2026-11-24）。</description>
+    <title>空気清浄機の風量（m³/分）・CADR・清浄時間とは｜「8畳を○分」と適用畳数との関係（掲載27台の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-cadr-airflow</link>
+    <guid isPermaLink="true">https://gearnote.net/words-cadr-airflow</guid>
+    <description>空気清浄機の「最大風量○m³/分」「8畳を○分」「CADR」は、何を測った数字かが違います。日本電機工業会（JEM 1467）とAHAM（CADR）の公式資料で意味を確かめ、GEARNOTE掲載27台の書き方と、適用畳数との関係を集計しました。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ブラザー ドキュメントスキャナー ADS-4300N の仕様｜質量・読取速度（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-brother-ads-4300n-document-scanner</link>
-    <guid isPermaLink="true">https://gearnote.net/product-brother-ads-4300n-document-scanner</guid>
-    <description>ブラザー ドキュメントスキャナー ADS-4300Nの仕様。メーカーページでは質量約2.64kg、読取速度は片面約40枚/分（両面約80面/分、A4縦・150〜300dpi）、原稿搭載枚数80枚、有線LAN対応と記載があります（確認日 2026-11-27）。</description>
+    <title>GaN（窒化ガリウム）充電器とは｜シリコンとの違いと、商品名の「GaN」の読み方（掲載USB充電器28台の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-gan-charger</link>
+    <guid isPermaLink="true">https://gearnote.net/words-gan-charger</guid>
+    <description>USB充電器の「GaN」は、窒化ガリウムという半導体の材料の名前です。ロームとアンカー・ジャパンの公式資料でシリコンとの違いを確かめ、GaNの名前とW数・PD・PSEの関係、GEARNOTE掲載USB充電器28台の出力と質量の集計をまとめました。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ぺんてる アートブラッシュ 18色セット XGFL-18ST の仕様｜色数・本数（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-pentel-artbrush-18color-xgfl-18st</link>
-    <guid isPermaLink="true">https://gearnote.net/product-pentel-artbrush-18color-xgfl-18st</guid>
-    <description>ぺんてる アートブラッシュ 18色セット XGFL-18STの仕様。メーカーページでは18色セット（ブラック・レッド・ブルーなど18色）、インキは水性染料と記載があります（確認日 2026-11-27）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>三菱鉛筆 プロッキー 8色セット PM150TR8CN の仕様｜色数・本数（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-uni-prockey-twin-8color-pm150tr8cn</link>
-    <guid isPermaLink="true">https://gearnote.net/product-uni-prockey-twin-8color-pm150tr8cn</guid>
-    <description>三菱鉛筆 プロッキー＜細字丸芯+太字角芯＞8色セット PM150TR8CNの仕様。メーカーページでは色数8（黒、青、水色、緑、黄、ソフトピンク、赤、茶）、水性顔料インクと記載があります（確認日 2026-11-27）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ 丸型ホットプレート IHP-C320-B の仕様｜消費電力・重量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-iris-ohyama-round-hot-plate-ihp-c320-b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-round-hot-plate-ihp-c320-b</guid>
-    <description>アイリスオーヤマ 丸型ホットプレート IHP-C320-Bの仕様。メーカーページでは消費電力1300W、重量2.4kg、プレート温度は保温、約140℃～230℃、プレートサイズ内径約320mmと記載があります（確認日 2026-11-27）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アブラサス 小さい財布 の仕様｜重さ・サイズ（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-abrasus-chiisai-saifu-black</link>
-    <guid isPermaLink="true">https://gearnote.net/product-abrasus-chiisai-saifu-black</guid>
-    <description>アブラサス（abrAsus）小さい財布の仕様。メーカーページではサイズ縦約60mm×横約90mm×厚約10mm（未収納時）、重さ約32g、素材は天然牛革エンボス加工と記載があります（確認日 2026-11-27）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Xiaomiの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-xiaomi</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-xiaomi</guid>
-    <description>Xiaomi製品の特徴、スマートウォッチ・イヤホン・生活家電の選び方、こんな人におすすめする理由をまとめて紹介。おすすめ商品一覧も掲載。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>飲料の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/category-drinks</guid>
-    <description>ミネラルウォーター・お茶・コーヒー・プロテイン飲料など、特徴をもとに厳選した飲料一覧。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>伊藤園の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/brand-itoen</link>
-    <guid isPermaLink="true">https://gearnote.net/brand-itoen</guid>
-    <description>伊藤園製品の特徴、お茶の種類・効能別の選び方、こんな人におすすめする理由をまとめて紹介。掲載16商品の仕様を一覧で確認できます。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>お茶・健康茶の比較表（掲載47商品）｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-tea-drinks</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-tea-drinks</guid>
-    <description>GEARNOTEに登録しているお茶・健康茶の47商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
