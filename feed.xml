@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 13:44:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 14:10:51 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -162,6 +162,13 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>ストリーミングデバイスの選び方ガイド｜Fire TV Stick・Chromecast・Google TV Streamer・Apple TVの解像度・HDR・Wi-Fi・OSの見方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-streaming-device</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-streaming-device</guid>
+    <description>テレビのHDMI端子に接続して動画配信サービスを見る、ストリーミングデバイスの選び方を解説します。解像度（HD・4K）、HDRの方式（HDR10・Dolby Vision）、Wi-Fi 6・6E、ストレージ、OS、リモコン、有線LANなどを、当サイト掲載のFire TV・Chromecast・Google TV Streamer・Apple TVの記載値とあわせて整理しました。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>データ一覧｜GEARNOTE掲載商品の仕様を1枚の表にまとめたデータ集｜GEARNOTE</title>
     <link>https://gearnote.net/data</link>
     <guid isPermaLink="true">https://gearnote.net/data</guid>
@@ -215,6 +222,41 @@
     <link>https://gearnote.net/power-electric-kettle</link>
     <guid isPermaLink="true">https://gearnote.net/power-electric-kettle</guid>
     <description>電気ケトルの消費電力は1200〜1300Wの書き方が多く、沸騰時間は書かれている商品とない商品があります。GEARNOTE掲載19台で、Wと満水の沸騰時間の記載を数え、1回に沸かす電力量を計算しました。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>HDR10・HDR10+・Dolby Vision・HLGとは｜違いと、輝度（nit・ニト・cd/m²）の読み方（掲載23商品の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-hdr-nits</link>
+    <guid isPermaLink="true">https://gearnote.net/words-hdr-nits</guid>
+    <description>テレビ・モニター・ストリーミング端末の「HDR10」「HDR10+」「Dolby Vision」「HLG」の違いと、輝度のnit・ニト・cd/m²の関係を、ITU-R・VESA・ドルビーの資料で確かめました。GEARNOTE掲載23商品の記載の集計つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Matter（マター）・Threadとは｜スマートホームの共通規格と、ボーダールーターの役割（掲載商品の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-matter-thread</link>
+    <guid isPermaLink="true">https://gearnote.net/words-matter-thread</guid>
+    <description>スマートホーム機器の「Matter対応」「Thread」「ボーダールーター」の意味を、規格団体CSA・Thread Group・Apple・Googleの公式資料で確かめました。GEARNOTE掲載商品18件のメーカー公開情報の記載の集計つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Dolby Atmos（ドルビーアトモス）・空間オーディオとは｜意味と、サウンドバー・端末の書き方の違い（掲載19商品の記載つき）｜GEARNOTE</title>
+    <link>https://gearnote.net/words-dolby-atmos</link>
+    <guid isPermaLink="true">https://gearnote.net/words-dolby-atmos</guid>
+    <description>サウンドバーやストリーミング端末、イヤホンの「Dolby Atmos」「空間オーディオ」の意味を、ドルビーとAppleの公式資料で確かめました。「バーチャル」「パススルー」の書き方の違いと、GEARNOTE掲載19商品の記載の集計つきです。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Fire TV・Chromecast（Google TV）・Apple TVの違い｜OS・給電・有線LANの書き方（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/diff-streaming-device-fire-google-apple</link>
+    <guid isPermaLink="true">https://gearnote.net/diff-streaming-device-fire-google-apple</guid>
+    <description>Fire TV、Chromecast・Google TV、Apple TVの違いを、Amazon・Google・Appleの公式仕様で確かめて整理しました。OS、テレビからの給電、有線LAN、HDMIケーブルの扱いを、掲載11台の集計つきでまとめています。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple TV 4K（第3世代）とApple TV 4K（第4世代）の違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-apple-tv-4k-3rd-gen-vs-4th-gen</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-apple-tv-4k-3rd-gen-vs-4th-gen</guid>
+    <description>Apple TV 4K（第3世代）とApple TV 4K（第4世代）の違いを、チップ・Wi-FiとBluetoothの規格・容量とモデル・重量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -313,48 +355,6 @@
     <link>https://gearnote.net/ranking-tea-drinks</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-tea-drinks</guid>
     <description>GEARNOTEに登録しているお茶・健康茶の47商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>テレビ・ストリーミング機器の比較表（掲載19商品）｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-tv-streaming</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-tv-streaming</guid>
-    <description>GEARNOTEに登録しているテレビ・ストリーミング機器の19商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>AirPods 4とAirPods 5の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-airpods-4-vs-airpods-5</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-airpods-4-vs-airpods-5</guid>
-    <description>AirPods 4とAirPods 5の違いを、ノイズキャンセリング・防水性能・連続再生時間の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ロボット掃除機の選び方ガイド｜吸引力Pa・ナビゲーション・ステーションの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-robot-vacuum</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-robot-vacuum</guid>
-    <description>ロボット掃除機の吸引力（Pa）、ナビゲーション方式（LiDAR・レーザー）、水拭き機能、自動ゴミ収集ステーション、アプリ連携・Wi-Fi対応といった仕様の見方を、住まい別の考え方とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>コーヒーメーカーの選び方ガイド｜ドリップ式・ミル付き・エスプレッソの違い｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-coffee-maker</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-coffee-maker</guid>
-    <description>コーヒーメーカーのタイプ（ドリップ式・ミル内蔵・エスプレッソ・手動）の違いと、杯数・抽出温度・蒸らし・サーバーと保温・お手入れといった仕様の見方を、使う場面別に解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ノンフライヤー（エアフライヤー）の選び方ガイド｜容量・温度・お手入れの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-air-fryer</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-air-fryer</guid>
-    <description>ノンフライヤー（エアフライヤー）のタイプ（バスケット式・スチーム併用・マルチクッカー型）と、容量・最高温度・調理プリセット・消費電力・サイズ・お手入れの見方を、使う人数や用途別に解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートウォッチの選び方ガイド｜対応スマホ・バッテリー・GPS・防水の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-smartwatch</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-smartwatch</guid>
-    <description>スマートウォッチ・スマートバンドの種類と、対応するスマホ（iPhone／Android）、バッテリー持続時間、GPS、防水、決済機能などスペック表の見方を、使う目的別に解説します。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
