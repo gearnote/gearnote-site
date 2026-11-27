@@ -6,7 +6,126 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 15:05:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 20:07:33 +0000</lastBuildDate>
+  <item>
+    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-audio</link>
+    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
+    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>美容・健康の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-beauty</link>
+    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
+    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-daily</link>
+    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
+    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>介護用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-care</link>
+    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
+    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>生活家電の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-home</link>
+    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
+    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-smart</link>
+    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
+    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>おもちゃの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-toys</link>
+    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
+    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ファッションの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-fashion</link>
+    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
+    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-sports</link>
+    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
+    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-car</link>
+    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
+    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>キッチン用品の商品一覧｜GEARNOTE</title>
+    <link>https://gearnote.net/category-kitchen</link>
+    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
+    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマートフォンの比較表（掲載15商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-smartphones</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
+    <description>GEARNOTEに登録しているスマートフォンの15商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>プロテイン飲料の比較表（掲載28商品）｜GEARNOTE</title>
+    <link>https://gearnote.net/ranking-protein-drinks</link>
+    <guid isPermaLink="true">https://gearnote.net/ranking-protein-drinks</guid>
+    <description>GEARNOTEに登録しているプロテイン飲料の28商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Amazonブラックフライデー特集｜GEARNOTE</title>
+    <link>https://gearnote.net/feature-black-friday-202611</link>
+    <guid isPermaLink="true">https://gearnote.net/feature-black-friday-202611</guid>
+    <description>Amazon「ブラックフライデー」が開催中です（お買い物対象期間：2026年11月27日(金)0:00〜12月7日(月)23:59）。ジャンル別のチェックスペックと、GEARNOTEが仕様でピックアップした家電・ガジェット・美容・日用品を紹介します。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>iPhone 17 Pro MaxとiPhone Airの違いを比較｜スペック比較｜GEARNOTE</title>
+    <link>https://gearnote.net/compare-iphone-17-pro-max-vs-iphone-air</link>
+    <guid isPermaLink="true">https://gearnote.net/compare-iphone-17-pro-max-vs-iphone-air</guid>
+    <description>iPhone 17 Pro MaxとiPhone Airの違いを、画面サイズ・重量と厚さ・バッテリー・カメラの記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>スマホの充電が遅い原因の見分け方｜充電器のW・ケーブルの規格・端末の上限・ワイヤレスの条件の読み方｜GEARNOTE</title>
+    <link>https://gearnote.net/guide-c-slow-charging</link>
+    <guid isPermaLink="true">https://gearnote.net/guide-c-slow-charging</guid>
+    <description>スマホの充電が遅い・急に遅くなったときの原因を、充電器の出力W・PD/PPS、複数ポートの分配、ケーブルの対応W数、端末側の上限、ワイヤレス充電の条件に分けて整理。当サイト掲載商品の仕様集計と、上限の目安を出す計算例つき。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>Apple製品の充電の数字｜iPhone・iPad・Apple Watch・AirPods・充電器の、Appleが書いている充電条件｜GEARNOTE</title>
+    <link>https://gearnote.net/spec-apple-charging</link>
+    <guid isPermaLink="true">https://gearnote.net/spec-apple-charging</guid>
+    <description>iPhone・iPad・Mac・Apple Watch・AirPods・Appleの充電器とケーブルについて、Appleの公式ページに書かれた充電の数字と条件（同梱品・高速充電・ワイヤレス充電・バッテリー）を1枚の表にまとめました。CSVつき。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -22,59 +141,10 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-audio</link>
-    <guid isPermaLink="true">https://gearnote.net/category-audio</guid>
-    <description>イヤホン・ヘッドホン・ポータブルスピーカーなど、特徴をもとに厳選したオーディオ機器一覧。用途別のおすすめもまとめています。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>美容・健康の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-beauty</link>
-    <guid isPermaLink="true">https://gearnote.net/category-beauty</guid>
-    <description>ヘアドライヤー・シェーバー・スキンケア・メイクアップなど、特徴をもとに厳選した美容・健康アイテム一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>日用品・消耗品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-daily</link>
-    <guid isPermaLink="true">https://gearnote.net/category-daily</guid>
-    <description>洗濯用品・掃除用品からオーラルケア、害虫対策まで、特徴をもとに厳選した日用品・消耗品一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>ベビー・キッズ用品の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-baby</link>
     <guid isPermaLink="true">https://gearnote.net/category-baby</guid>
     <description>哺乳びん乳首・おしゃぶり・おむつ・乳頭ケアクリームなど、特徴をもとに厳選したベビー・キッズ用品一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>介護用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-care</link>
-    <guid isPermaLink="true">https://gearnote.net/category-care</guid>
-    <description>大人用紙おむつ・尿とりパッド・防水シーツ・口腔ケア用品・介護食・とろみ剤・杖・シャワーチェア・浴槽手すりなど、特徴をもとに厳選した介護用品一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>生活家電の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-home</link>
-    <guid isPermaLink="true">https://gearnote.net/category-home</guid>
-    <description>掃除機、空気清浄・加湿・除湿、扇風機・サーキュレーター、調理家電、冷蔵庫、洗濯機、収納・照明・DIY用品まで、特徴をもとに厳選した生活家電一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ガジェット・スマホ・PCの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/category-smart</guid>
-    <description>スマートフォン・PC・スマートホームデバイス・スマホケースなど、ガジェット関連のおすすめアイテムをまとめています。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>おもちゃの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-toys</link>
-    <guid isPermaLink="true">https://gearnote.net/category-toys</guid>
-    <description>ボードゲーム・知育玩具・ぬいぐるみ・電子玩具など、特徴をもとに厳選したおもちゃ一覧。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -162,38 +232,10 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ファッションの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-fashion</link>
-    <guid isPermaLink="true">https://gearnote.net/category-fashion</guid>
-    <description>バッグ・スーツケース・Tシャツ・シューズ・時計など、特徴をもとに厳選したファッションアイテム一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スポーツ・アウトドアの商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-sports</link>
-    <guid isPermaLink="true">https://gearnote.net/category-sports</guid>
-    <description>トレーニング器具・ヨガマット・自転車用品・キャンプ用品など、特徴をもとに厳選したスポーツ・アウトドア用品一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>本・文房具の商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-books</link>
     <guid isPermaLink="true">https://gearnote.net/category-books</guid>
     <description>筆記具・ノート・ファイル・梱包用品・プリンタやラベルライターなどのオフィス機器など、特徴をもとに厳選した文房具・オフィス用品一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>車・バイク用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-car</link>
-    <guid isPermaLink="true">https://gearnote.net/category-car</guid>
-    <description>洗車・コーティング用品からカーアクセサリ、整備・安全用品まで、特徴をもとに厳選した車・バイク用品一覧。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>キッチン用品の商品一覧｜GEARNOTE</title>
-    <link>https://gearnote.net/category-kitchen</link>
-    <guid isPermaLink="true">https://gearnote.net/category-kitchen</guid>
-    <description>鍋・フライパンから調理道具、キッチン家電まで、特徴をもとに厳選したキッチン用品一覧。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -215,13 +257,6 @@
     <link>https://gearnote.net/ranking-cordless-vacuums</link>
     <guid isPermaLink="true">https://gearnote.net/ranking-cordless-vacuums</guid>
     <description>GEARNOTEに登録しているコードレス掃除機の26商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>スマートフォンの比較表（掲載15商品）｜GEARNOTE</title>
-    <link>https://gearnote.net/ranking-smartphones</link>
-    <guid isPermaLink="true">https://gearnote.net/ranking-smartphones</guid>
-    <description>GEARNOTEに登録しているスマートフォンの15商品を1枚の表に並べました。商品名から各商品ページ（仕様表と出典）に移れます。並び順は用途や機能タイプのまとまりを運営が整理したもので、品質の良し悪しや売れ行きの順位ではありません。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/product-shark-evopower-adv-cordless</link>
     <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-adv-cordless</guid>
     <description>Shark（シャーク）EVOPOWER SYSTEM ADV コードレススティッククリーナー CS651Jの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM FIT+の仕様｜サイズ・質量・容量（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-fit-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-fit-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM FIT+ LC150Jの仕様。サイズ・質量・容量はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM STD+の仕様｜サイズ・質量・保証（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-std-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-std-plus</guid>
-    <description>Shark シャーク EVOPOWER SYSTEM STD+ コードレススティッククリーナー CS150JAEの仕様。サイズ・質量・保証はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Shark EVOPOWER SYSTEM iQ+の仕様｜サイズ・重量・充電時間（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-shark-evopower-iq-plus</link>
-    <guid isPermaLink="true">https://gearnote.net/product-shark-evopower-iq-plus</guid>
-    <description>Shark シャーク 掃除機 スティック コードレス EVOPOWER SYSTEM iQ＋ CS851JMVAEの仕様。サイズ・重量・充電時間はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-21）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>SALONIA スピーディーイオン ドライヤーの仕様｜サイズ・質量・消費電力（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-salonia-speedy-ion-dryer</link>
-    <guid isPermaLink="true">https://gearnote.net/product-salonia-speedy-ion-dryer</guid>
-    <description>SALONIA サロニア スピーディーイオン ドライヤーの仕様。サイズ・質量・消費電力はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-12）。</description>
-    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヤーマン リフトドライヤー スマートの仕様｜サイズ・質量・定格電源（メーカー公開情報）｜GEARNOTE</title>
-    <link>https://gearnote.net/product-yaman-lift-dryer-smart</link>
-    <guid isPermaLink="true">https://gearnote.net/product-yaman-lift-dryer-smart</guid>
-    <description>ヤーマン(Ya-man) ドライヤー リフトドライヤー スマート タッピングアタッチメント付の仕様。サイズ・質量・定格電源はメーカー公開情報に記載があります（メーカー公開情報の確認日 2026-10-18）。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
