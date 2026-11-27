@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 06:53:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 08:42:41 +0000</lastBuildDate>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -159,6 +159,41 @@
     <link>https://gearnote.net/power-electric-kettle</link>
     <guid isPermaLink="true">https://gearnote.net/power-electric-kettle</guid>
     <description>電気ケトルの消費電力は1200〜1300Wの書き方が多く、沸騰時間は書かれている商品とない商品があります。GEARNOTE掲載19台で、Wと満水の沸騰時間の記載を数え、1回に沸かす電力量を計算しました。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ブラザー ドキュメントスキャナー ADS-4300N の仕様｜質量・読取速度（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-brother-ads-4300n-document-scanner</link>
+    <guid isPermaLink="true">https://gearnote.net/product-brother-ads-4300n-document-scanner</guid>
+    <description>ブラザー ドキュメントスキャナー ADS-4300Nの仕様。メーカーページでは質量約2.64kg、読取速度は片面約40枚/分（両面約80面/分、A4縦・150〜300dpi）、原稿搭載枚数80枚、有線LAN対応と記載があります（確認日 2026-11-27）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ぺんてる アートブラッシュ 18色セット XGFL-18ST の仕様｜色数・本数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-pentel-artbrush-18color-xgfl-18st</link>
+    <guid isPermaLink="true">https://gearnote.net/product-pentel-artbrush-18color-xgfl-18st</guid>
+    <description>ぺんてる アートブラッシュ 18色セット XGFL-18STの仕様。メーカーページでは18色セット（ブラック・レッド・ブルーなど18色）、インキは水性染料と記載があります（確認日 2026-11-27）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>三菱鉛筆 プロッキー 8色セット PM150TR8CN の仕様｜色数・本数（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-uni-prockey-twin-8color-pm150tr8cn</link>
+    <guid isPermaLink="true">https://gearnote.net/product-uni-prockey-twin-8color-pm150tr8cn</guid>
+    <description>三菱鉛筆 プロッキー＜細字丸芯+太字角芯＞8色セット PM150TR8CNの仕様。メーカーページでは色数8（黒、青、水色、緑、黄、ソフトピンク、赤、茶）、水性顔料インクと記載があります（確認日 2026-11-27）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 丸型ホットプレート IHP-C320-B の仕様｜消費電力・重量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-iris-ohyama-round-hot-plate-ihp-c320-b</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-round-hot-plate-ihp-c320-b</guid>
+    <description>アイリスオーヤマ 丸型ホットプレート IHP-C320-Bの仕様。メーカーページでは消費電力1300W、重量2.4kg、プレート温度は保温、約140℃～230℃、プレートサイズ内径約320mmと記載があります（確認日 2026-11-27）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アブラサス 小さい財布 の仕様｜重さ・サイズ（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-abrasus-chiisai-saifu-black</link>
+    <guid isPermaLink="true">https://gearnote.net/product-abrasus-chiisai-saifu-black</guid>
+    <description>アブラサス（abrAsus）小さい財布の仕様。メーカーページではサイズ縦約60mm×横約90mm×厚約10mm（未収納時）、重さ約32g、素材は天然牛革エンボス加工と記載があります（確認日 2026-11-27）。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/guide-hot-plate</link>
     <guid isPermaLink="true">https://gearnote.net/guide-hot-plate</guid>
     <description>ホットプレートのプレートの種類（平面・焼肉・たこ焼き）と枚数、人数に合うサイズ、消費電力と温度調節の範囲、重さと収納、お手入れの条件の読み方を、当サイト掲載のパナソニック・象印・タイガー・山善・BRUNO・レコルトの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>GoPro HERO13 BlackとMISSION 1 PROの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-gopro-hero13-black-vs-mission-1-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-gopro-hero13-black-vs-mission-1-pro</guid>
-    <description>GoPro HERO13 BlackとMISSION 1 PROの違いを、センサー・動画解像度・写真画素数・防水の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>シロカ SP-2DF231とパナソニック NF-PC400の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-siroca-sp-2df231-vs-panasonic-nf-pc400</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-siroca-sp-2df231-vs-panasonic-nf-pc400</guid>
-    <description>シロカ SP-2DF231とパナソニック NF-PC400の違いを、容量・消費電力・調理方法・サイズ・予約の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック SR-N310Dと象印 NW-YB10AM（5.5合 圧力IH炊飯器）の違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-panasonic-sr-n310d-vs-zojirushi-nw-yb10am</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-panasonic-sr-n310d-vs-zojirushi-nw-yb10am</guid>
-    <description>パナソニック SR-N310Dと象印 NW-YB10AM（5.5合 圧力IH炊飯器）の違いを、炊き技・お手入れ・消費電力・寸法の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ヨガマット・ストレッチ用品の選び方ガイド｜厚み・素材・サイズ・収納・ブロック・フォームローラーの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-yoga-mat</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-yoga-mat</guid>
-    <description>ヨガマットの厚み（5mm・8mm・10mm・12mm）と素材（NBR・TPE・PVC）、サイズと重量、折りたたみやケースの見方に加え、ヨガブロック、ストレッチポール、フォームローラー、バランスボール、ピラティスリング、ストレッチバンドまで、当サイト掲載の商品の記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ベビーゲート・ベビーサークル・安全対策用品の選び方ガイド｜取り付け方式・設置幅・高さ・開閉・対象月齢の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-baby-gate</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-baby-gate</guid>
-    <description>ベビーゲートの突っ張り式・ネジ固定式・置くだけ自立式の違い、設置幅と高さ、自動で閉まる扉、対象月齢、安全規格（EN1930）の見方に加え、ベビーサークル、コンセントガード、コーナーガード、引き出しロックまで、当サイト掲載のベビーダン・カトージ・リッチェルなどの記載値とあわせて解説します。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
