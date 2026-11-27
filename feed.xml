@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 12:39:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 13:44:12 +0000</lastBuildDate>
   <item>
     <title>全商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/all-products</link>
@@ -183,10 +183,10 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>ストリーミングデバイスの仕様一覧｜ストレージ容量・メモリ容量・本体の質量（掲載11台）｜GEARNOTE</title>
+    <title>ストリーミングデバイスの仕様一覧｜ストレージ容量・メモリ容量・本体の質量（掲載10台）｜GEARNOTE</title>
     <link>https://gearnote.net/data-streaming-device</link>
     <guid isPermaLink="true">https://gearnote.net/data-streaming-device</guid>
-    <description>GEARNOTEに掲載しているストリーミングデバイス（Fire TV／Chromecast・Google TV／Apple TV）11台の、ストレージ容量（GB）、メモリ（RAM）容量（GB）、本体の質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <description>GEARNOTEに掲載しているストリーミングデバイス（Fire TV／Chromecast・Google TV）10台の、ストレージ容量（GB）、メモリ（RAM）容量（GB）、本体の質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -215,6 +215,41 @@
     <link>https://gearnote.net/power-electric-kettle</link>
     <guid isPermaLink="true">https://gearnote.net/power-electric-kettle</guid>
     <description>電気ケトルの消費電力は1200〜1300Wの書き方が多く、沸騰時間は書かれている商品とない商品があります。GEARNOTE掲載19台で、Wと満水の沸騰時間の記載を数え、1回に沸かす電力量を計算しました。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ロジクール Webカメラ C270nの仕様｜質量・画角（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-logicool-c270n-hd-webcam</link>
+    <guid isPermaLink="true">https://gearnote.net/product-logicool-c270n-hd-webcam</guid>
+    <description>ロジクール Webカメラ C270nの仕様。メーカーページでは対角視野55°、重量75g（固定取り付けクリップ同梱）、最大解像度720p/30fpsと記載があります（確認日 2026-11-21）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック 衣類スチーマー NI-GS200-Wの仕様｜注水量・質量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-clothes-steamer-ni-gs200-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-clothes-steamer-ni-gs200-w</guid>
+    <description>パナソニック 衣類スチーマー NI-GS200-Wの仕様。メーカーページでは質量約640g、注水量約70mL、スチーム量は平均約15g/分、連続約4分と記載があります（確認日 2026-11-21）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック LEDポーチライト HH-SL0012Lの仕様｜器具光束・質量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-led-porch-light-sensor-hh-sl0012l</guid>
+    <description>パナソニック LEDポーチライト（センサー付）HH-SL0012Lの仕様。メーカーページでは器具光束250lm、質量0.7kg、消費電力5.1Wと記載があります（確認日 2026-11-22）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック リビング扇風機 F-C339D-W の仕様｜消費電力・質量（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-panasonic-living-fan-dc-f-c339d-w</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-living-fan-dc-f-c339d-w</guid>
+    <description>パナソニック リビング扇風機 F-C339D-Wの仕様。メーカーページでは羽根径30cm・DC・9枚羽根、消費電力22W（強）、質量3.7kgと記載があります（確認日 2026-11-24）。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ティファール 赤外線ヒーティング エアフライヤー ライト 6L EY820AJ0 の仕様｜容量・消費電力（メーカー公開情報）｜GEARNOTE</title>
+    <link>https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</link>
+    <guid isPermaLink="true">https://gearnote.net/product-tefal-infrared-airfryer-lite-6l-ey820aj0</guid>
+    <description>ティファール 赤外線ヒーティング エアフライヤー ライト 6L EY820AJ0の仕様。メーカーページでは容量6L、定格消費電力1,100W、本体重量約3.5kgと記載があります（確認日 2026-11-24）。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -320,41 +355,6 @@
     <link>https://gearnote.net/guide-smartwatch</link>
     <guid isPermaLink="true">https://gearnote.net/guide-smartwatch</guid>
     <description>スマートウォッチ・スマートバンドの種類と、対応するスマホ（iPhone／Android）、バッテリー持続時間、GPS、防水、決済機能などスペック表の見方を、使う目的別に解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>USB充電器・充電ケーブルの選び方ガイド｜W数・GaN・PD・ケーブル規格の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-usb-charger</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-usb-charger</guid>
-    <description>USB充電器（GaN・PD対応）と充電ケーブルの選び方を、最大出力（W数）、ポート構成、自動分配、ケーブルの対応ワット数・データ転送速度、安全面の確認ポイントとあわせて、使う場面別に解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ポータブル電源の選び方ガイド｜容量Wh・出力W・ポート・電池の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-portable-power-station</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-portable-power-station</guid>
-    <description>ポータブル電源の容量（Wh）と定格出力（W）の読み方、電池の種類、ポート構成、充電方法といった仕様表の見方と、家電の消費電力との照合のしかた、保管や使用時の注意点を解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>電動歯ブラシの選び方ガイド｜音波式・振動数・モード・ブラシヘッドの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-electric-toothbrush</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-electric-toothbrush</guid>
-    <description>電動歯ブラシの駆動方式（音波振動・回転など）、振動数の表記、モードと押し付け防止センサー、ブラシヘッドの形状と交換、充電方式といった仕様表の見方を、当サイト掲載のオーラルB・ソニッケアー・ドルツなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Webカメラ・マイクの選び方ガイド｜解像度・画角・マイク性能・接続の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-webcam</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-webcam</guid>
-    <description>Webカメラの解像度とフレームレート、画角、オートフォーカス、内蔵マイクと外付けマイクの違い、マイクの指向性、USB接続とXLR接続といった仕様表の見方を、当サイト掲載のロジクール・Anker・Insta360・FIFINE・SHUREなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アクションカメラ・360度カメラの選び方ガイド｜画質・手ブレ補正・防水・バッテリーの見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-action-camera</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-action-camera</guid>
-    <description>アクションカメラと360度カメラの違い、解像度とフレームレート、センサーサイズ、手ブレ補正、防水表記の条件、バッテリーと記録メディアといった仕様表の見方を、当サイト掲載のDJI Osmo・GoPro・Insta360の記載値とあわせて解説します。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>

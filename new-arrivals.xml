@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 12:39:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 13:44:40 +0000</lastBuildDate>
   <item>
     <title>[アブラサス] 小さい財布 メンズ レディース 財布 日本製 本革 ブラック</title>
     <link>https://gearnote.net/product-abrasus-chiisai-saifu-black</link>
@@ -337,13 +337,6 @@
     <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
-    <title>Apple TV 4K（第4世代）</title>
-    <link>https://gearnote.net/product-apple-tv-4k-4th-gen</link>
-    <guid isPermaLink="true">https://gearnote.net/product-apple-tv-4k-4th-gen</guid>
-    <description>A19チップを搭載した、Appleのストリーミングメディアプレイヤー。</description>
-    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
     <title>アイリスオーヤマ 奥行スリム冷凍庫 66L IUSN-7B-B ブラック</title>
     <link>https://gearnote.net/product-iris-ohyama-freezer-66l-iusn-7b-b</link>
     <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-freezer-66l-iusn-7b-b</guid>
@@ -356,6 +349,13 @@
     <guid isPermaLink="true">https://gearnote.net/product-irisohyama-washing-machine-5kg-tni-m501h-b</guid>
     <description>アイリスオーヤマの全自動洗濯機、洗濯容量5.0kgの型番TNI-M501H-B（ブラック・OSH fit）です。</description>
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>パナソニック ラムダッシュ バリカン トップグレードモデル ER-NGSHA-K</title>
+    <link>https://gearnote.net/product-panasonic-lamdash-hairclipper-ngsha-k</link>
+    <guid isPermaLink="true">https://gearnote.net/product-panasonic-lamdash-hairclipper-ngsha-k</guid>
+    <description>0.5mm刻みの刈り高さ調整（88段階、約0.5〜45mm）に対応した充電式バリカン。</description>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
