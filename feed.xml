@@ -6,7 +6,7 @@
   <atom:link href="https://gearnote.net/feed.xml" rel="self" type="application/rss+xml" />
   <description>ガジェットから生活家電・美容・食品まで、スペックや特徴を整理して買う前の判断を助ける商品比較メディア。良い点も気になる点も正直にまとめています。</description>
   <language>ja</language>
-  <lastBuildDate>Fri, 27 Nov 2026 06:51:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 06:53:06 +0000</lastBuildDate>
   <item>
     <title>イヤホン・オーディオの商品一覧｜GEARNOTE</title>
     <link>https://gearnote.net/category-audio</link>
@@ -106,10 +106,38 @@
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
+    <title>データ一覧｜GEARNOTE掲載商品の仕様を1枚の表にまとめたデータ集｜GEARNOTE</title>
+    <link>https://gearnote.net/data</link>
+    <guid isPermaLink="true">https://gearnote.net/data</guid>
+    <description>GEARNOTEに掲載している商品の仕様表の数字を、ジャンルごとに1枚の表にまとめたデータ集です。集計（件数・最小・中央値・最大）、集計方法、CSV、引用の書き方つき。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>電気ケトルの仕様一覧｜容量・消費電力・満水の沸とう時間・本体質量（掲載19台）｜GEARNOTE</title>
     <link>https://gearnote.net/data-electric-kettle</link>
     <guid isPermaLink="true">https://gearnote.net/data-electric-kettle</guid>
     <description>GEARNOTEに掲載している電気ケトル19台の、容量（mL）、消費電力（W）、満水時の沸とう時間（分）、本体のみの質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ノンフライヤー（エアフライヤー）の仕様一覧｜容量・定格消費電力・質量・設定温度（掲載12台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-air-fryer</link>
+    <guid isPermaLink="true">https://gearnote.net/data-air-fryer</guid>
+    <description>GEARNOTEに掲載しているノンフライヤー（エアフライヤー）12台の、容量（L）、定格消費電力（W）、質量（kg）、設定温度の下限・上限（℃）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>ストリーミングデバイスの仕様一覧｜ストレージ容量・メモリ容量・本体の質量（掲載11台）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-streaming-device</link>
+    <guid isPermaLink="true">https://gearnote.net/data-streaming-device</guid>
+    <description>GEARNOTEに掲載しているストリーミングデバイス（Fire TV／Chromecast・Google TV／Apple TV）11台の、ストレージ容量（GB）、メモリ（RAM）容量（GB）、本体の質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>財布・カードケース・キーケースの仕様一覧｜幅・高さ・奥行・質量（掲載17点）｜GEARNOTE</title>
+    <link>https://gearnote.net/data-wallet</link>
+    <guid isPermaLink="true">https://gearnote.net/data-wallet</guid>
+    <description>GEARNOTEに掲載している財布・カードケース・キーケース17点（長財布／二つ折りなど／カードケース・キーケース・コインケース）の、製品サイズの幅・高さ・奥行（mm）と質量（g）を1枚の表にまとめました。集計方法・CSV・引用の書き方つき。</description>
     <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -327,34 +355,6 @@
     <link>https://gearnote.net/guide-baby-gate</link>
     <guid isPermaLink="true">https://gearnote.net/guide-baby-gate</guid>
     <description>ベビーゲートの突っ張り式・ネジ固定式・置くだけ自立式の違い、設置幅と高さ、自動で閉まる扉、対象月齢、安全規格（EN1930）の見方に加え、ベビーサークル、コンセントガード、コーナーガード、引き出しロックまで、当サイト掲載のベビーダン・カトージ・リッチェルなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>デロンギ スティローザ EC235Jとラ・スペシャリスタ・アルテ EC9155Jの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-delonghi-stilrosa-ec235j-vs-specialista-arte-ec9155j</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-delonghi-stilrosa-ec235j-vs-specialista-arte-ec9155j</guid>
-    <description>デロンギ スティローザ EC235Jとラ・スペシャリスタ・アルテ EC9155Jの違いを、グラインダー・水タンク容量・消費電力・サイズと質量の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>ハンドドリップ器具の選び方ガイド｜ドリッパー・コーヒーミル・ドリップケトル・サーバーの種類と仕様の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-pour-over-coffee</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-pour-over-coffee</guid>
-    <description>ハンドドリップ用のドリッパー（透過式・浸漬式・ペーパーレス）、手挽きと電動のコーヒーミル、直火・IH・電気のドリップケトル、サーバーの見方を、当サイト掲載のHARIO・カリタ・BODUM・タイガー・COSORIなどの記載値とあわせて解説します。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>プラモデル・模型用ツール・塗料の選び方ガイド｜スケール・対象年齢・必要な道具・ニッパーと塗料の見方｜GEARNOTE</title>
-    <link>https://gearnote.net/guide-plastic-model</link>
-    <guid isPermaLink="true">https://gearnote.net/guide-plastic-model</guid>
-    <description>プラモデルの選び方を、スケール（1/144・1/72・1/48・1/35・1/24）、色分け済みか塗装が必要か、メーカー記載の対象年齢、必要な道具（ニッパー・接着剤・塗料）の見方から解説します。当サイト掲載のバンダイ・タミヤ・ハセガワ・アオシマのキットと工具・塗料の記載値を使っています。</description>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Jabra Elite 10とGalaxy Buds4 Proの違いを比較｜スペック比較｜GEARNOTE</title>
-    <link>https://gearnote.net/compare-jabra-elite-10-vs-galaxy-buds4-pro</link>
-    <guid isPermaLink="true">https://gearnote.net/compare-jabra-elite-10-vs-galaxy-buds4-pro</guid>
-    <description>Jabra Elite 10とGalaxy Buds4 Proの違いを、再生時間・Bluetooth・空間オーディオとAI機能の記載で比較。各商品ページの掲載情報をもとに整理しました。</description>
     <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
