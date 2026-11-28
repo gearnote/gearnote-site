@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/all-products</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-iris-ohyama</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -172,7 +172,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-drinks</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -1832,7 +1832,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/category-books</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3917,7 +3917,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-suntory</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -4297,7 +4297,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/ranking-tea-drinks</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -14117,7 +14117,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/brand-brother</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
@@ -19017,7 +19017,7 @@
   </url>
   <url>
     <loc>https://gearnote.net/new-arrivals</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -26514,6 +26514,31 @@
   <url>
     <loc>https://gearnote.net/product-abrasus-chiisai-saifu-black</loc>
     <lastmod>2026-11-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-brother-mds-940dw-mobile-scanner</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-iris-ohyama-panel-sensor-light-bsl-smsp</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-hitachi-clothes-steamer-csi-rx70-c</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-nitto-koucha-caffeineless-earlgrey-teabag-40</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gearnote.net/product-suntory-greendakara-yasashii-kuromamecha-600-24</loc>
+    <lastmod>2026-11-28</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

@@ -6,7 +6,42 @@
   <atom:link href="https://gearnote.net/new-arrivals.xml" rel="self" type="application/rss+xml" />
   <description>GEARNOTEに最近追加した商品の一覧です。仕様は各商品ページで確認できます。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 28 Nov 2026 08:09:27 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 08:41:06 +0000</lastBuildDate>
+  <item>
+    <title>ブラザー工業 ドキュメントスキャナー MDS-940DW</title>
+    <link>https://gearnote.net/product-brother-mds-940dw-mobile-scanner</link>
+    <guid isPermaLink="true">https://gearnote.net/product-brother-mds-940dw-mobile-scanner</guid>
+    <description>ブラザーの持ち運びできるドキュメントスキャナー「MDS-940DW」です。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日立 衣類スチーマー CSI-RX70 C アイボリー</title>
+    <link>https://gearnote.net/product-hitachi-clothes-steamer-csi-rx70-c</link>
+    <guid isPermaLink="true">https://gearnote.net/product-hitachi-clothes-steamer-csi-rx70-c</guid>
+    <description>日立のコードつき衣類スチーマー「CSI-RX70」（アイボリー）です。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>アイリスオーヤマ 乾電池式LEDセンサーライト パネルスタンドタイプ 置き式 自動点灯</title>
+    <link>https://gearnote.net/product-iris-ohyama-panel-sensor-light-bsl-smsp</link>
+    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-panel-sensor-light-bsl-smsp</guid>
+    <description>アイリスオーヤマの乾電池式LEDセンサーライト「パネルスタンドタイプ BSL-SMSP」です。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>日東紅茶 カフェインレスアールグレイ 40袋入り</title>
+    <link>https://gearnote.net/product-nitto-koucha-caffeineless-earlgrey-teabag-40</link>
+    <guid isPermaLink="true">https://gearnote.net/product-nitto-koucha-caffeineless-earlgrey-teabag-40</guid>
+    <description>三井農林の「日東紅茶 カフェインレスアールグレイ 40袋入り」です。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>GREEN DA・KA・RA(グリーンダカラ) サントリー やさしい黒豆茶 ノンカフェイン</title>
+    <link>https://gearnote.net/product-suntory-greendakara-yasashii-kuromamecha-600-24</link>
+    <guid isPermaLink="true">https://gearnote.net/product-suntory-greendakara-yasashii-kuromamecha-600-24</guid>
+    <description>サントリーの「GREEN DA・KA・RA やさしい黒豆茶」600mlペットボトルの24本セットです。</description>
+    <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
     <title>[アブラサス] 小さい財布 メンズ レディース 財布 日本製 本革 ブラック</title>
     <link>https://gearnote.net/product-abrasus-chiisai-saifu-black</link>
@@ -321,41 +356,6 @@
     <guid isPermaLink="true">https://gearnote.net/product-tiger-cookpot-cok-b400wm-4l</guid>
     <description>タイガー魔法瓶の電気圧力鍋「TIGER COOKPOT」の大容量サイズ（4.0Lクラス）。</description>
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>東芝 冷蔵庫 601L</title>
-    <link>https://gearnote.net/product-toshiba-fridge-601l-gr-y600fk-6door-french</link>
-    <guid isPermaLink="true">https://gearnote.net/product-toshiba-fridge-601l-gr-y600fk-6door-french</guid>
-    <description>東芝の6ドア冷凍冷蔵庫、型番GR-Y600FK（グランホワイト）です。</description>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>無印良品 レンジで焼き料理 グリルプレート グレージュ／内蓋付き 1－2人用</title>
-    <link>https://gearnote.net/product-muji-microwave-grill-plate-23274517</link>
-    <guid isPermaLink="true">https://gearnote.net/product-muji-microwave-grill-plate-23274517</guid>
-    <description>電子レンジ（レンジ機能）専用の、外蓋と内蓋が付いたグリルプレート。</description>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ 奥行スリム冷凍庫 66L IUSN-7B-B ブラック</title>
-    <link>https://gearnote.net/product-iris-ohyama-freezer-66l-iusn-7b-b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-iris-ohyama-freezer-66l-iusn-7b-b</guid>
-    <description>アイリスオーヤマの前開き冷凍庫。定格内容積66L、奥行39cmのスリムな本体で、冷蔵・冷凍・野菜の3モード切り替えと急速冷凍モードを備えます（Amazon掲載情報）。</description>
-    <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>アイリスオーヤマ 全自動洗濯機 5.0kg 特急コース TNI-M501H-B ブラック</title>
-    <link>https://gearnote.net/product-irisohyama-washing-machine-5kg-tni-m501h-b</link>
-    <guid isPermaLink="true">https://gearnote.net/product-irisohyama-washing-machine-5kg-tni-m501h-b</guid>
-    <description>アイリスオーヤマの全自動洗濯機、洗濯容量5.0kgの型番TNI-M501H-B（ブラック・OSH fit）です。</description>
-    <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>パナソニック ラムダッシュ バリカン トップグレードモデル ER-NGSHA-K</title>
-    <link>https://gearnote.net/product-panasonic-lamdash-hairclipper-ngsha-k</link>
-    <guid isPermaLink="true">https://gearnote.net/product-panasonic-lamdash-hairclipper-ngsha-k</guid>
-    <description>0.5mm刻みの刈り高さ調整（88段階、約0.5〜45mm）に対応した充電式バリカン。</description>
-    <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
